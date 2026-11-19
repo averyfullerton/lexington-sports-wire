@@ -26,6 +26,25 @@ from pipeline.config import DATA_DIR
 PARALLEL_BASE_USD = 0.01  # per Task run on the base processor
 
 
+def clean_keys() -> None:
+    """Strip stray whitespace/newlines/quotes around API keys (e.g. from a secret set via a pipe).
+
+    A newline inside a key makes the HTTP client reject the request before it is sent, which the SDKs
+    report as a "connection error". Only reports whether a key needed cleaning, never the key.
+    """
+    import os
+
+    for name in ("PARALLEL_API_KEY", "OPENAI_API_KEY"):
+        raw = os.environ.get(name)
+        if raw is None:
+            print(f"{name}: missing")
+            continue
+        clean = raw.strip().strip("'\"").strip()
+        if clean != raw:
+            os.environ[name] = clean
+            print(f"{name}: removed stray whitespace or quotes")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--season", type=int, default=2026)
@@ -33,6 +52,7 @@ def main() -> None:
     ap.add_argument("--processor", default="base")
     args = ap.parse_args()
     load_dotenv(DATA_DIR.parent / ".env")
+    clean_keys()
 
     from pipeline import build, games, players, schedule, stories
 
