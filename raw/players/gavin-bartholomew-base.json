@@ -1,0 +1,174 @@
+{
+  "run_id": "trun_415f3f698c1f435b963ff9f1b1bc04c1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 79.8,
+  "input": {
+    "player": "Gavin Bartholomew",
+    "team": "Minnesota Vikings",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Pittsburgh (Pitt)",
+    "fun_facts": [
+      "Gavin Bartholomew is from Schuylkill Haven, Pennsylvania.",
+      "He attended Blue Mountain High School in Pennsylvania.",
+      "He is listed at 6 feet 5 inches tall.",
+      "In a 2021 win over Virginia Tech, Gavin Bartholomew caught an 8-yard touchdown pass from Kenny Pickett.",
+      "Against Boston College in 2024, Gavin Bartholomew caught two touchdown passes."
+    ],
+    "draft": "2025, round 6, pick 202"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists his college as Pittsburgh, supporting Pittsburgh (Pitt).",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/gavin-bartholomew",
+          "excerpts": [
+            "# Gavin Bartholomew Stats, News and Video - TE | NFL.com\n\n# Gavin Bartholomew\n\nTE \u2022 \\#86\n\n[Minnesota Vikings](https://www.nfl.com/teams/minnesota-vikings/)\n\n### active\n\n* [Info](https://www.nfl.com/players/gavin-bartholomew/)\n* [Stats](https://www.nfl.com/players/gavin-bartholomew/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-5\n* Weight\n  \n  249\n* Arms\n  \n  31 1/2\n* Hands\n  \n  10\n\n* Experience\n  \n  2\n* College\n  \n  Pittsburgh\n* Age\n  \n  23\n* Hometown\n  \n  Schuykill Haven, PA\n\n## Related Content - Articles"
+          ],
+          "title": "Gavin Bartholomew Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives his birthplace; Pro-Football-Reference lists Blue Mountain as his high school; the NFL profile lists his height; and ESPN's game coverage documents his 2021 touchdown against Virginia Tech and two touchdown passes caught against Boston College in 2024.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4708049/gavin-bartholomew",
+          "excerpts": [
+            "College [Pitt](https://www.espn.com/college-football/team/_/id/221/pittsburgh-panthers)\n\nDraft Info 2025: Rd 6, Pk 202 (MIN)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Schuylkill Haven, PA\n\n### Career History"
+          ],
+          "title": "Gavin Bartholomew Biography - ESPN"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BartGa00.htm",
+          "excerpts": [
+            "**College** : [Pittsburgh](https://www.pro-football-reference.com/schools/pittsburgh/) ( [College Stats](https://www.sports-reference.com/cfb/players/gavin-bartholomew-1.html) )\n\n**High School** : [Blue Mountain](https://www.pro-football-reference.com/schools/high_schools.cgi?id=088d8bad) ( [PA](https://www.pro-football-reference.com/schools/high_schools.cgi?hs_state=PA) )\n\n**Draft** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2025_draft.htm) in the 6th round"
+          ],
+          "title": "Gavin Bartholomew Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/gavin-bartholomew",
+          "excerpts": [
+            "# Gavin Bartholomew Stats, News and Video - TE | NFL.com\n\n# Gavin Bartholomew\n\nTE \u2022 \\#86\n\n[Minnesota Vikings](https://www.nfl.com/teams/minnesota-vikings/)\n\n### active\n\n* [Info](https://www.nfl.com/players/gavin-bartholomew/)\n* [Stats](https://www.nfl.com/players/gavin-bartholomew/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-5\n* Weight\n  \n  249\n* Arms\n  \n  31 1/2\n* Hands\n  \n  10\n\n* Experience\n  \n  2\n* College\n  \n  Pittsburgh\n* Age\n  \n  23\n* Hometown\n  \n  Schuykill Haven, PA\n\n## Related Content - Articles"
+          ],
+          "title": "Gavin Bartholomew Stats, News and Video - TE | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401282661",
+          "excerpts": [
+            "# Pickett leads Pitt to 28-7 victory over Virginia Tech\n\n* * *\n\nBy AP\n\nOct 16, 2021, 08:28 pm\n\nFacebook Facebook Messenger Twitter Email\n\nBLACKSBURG, Va. -- \u2014 [Kenny Pickett](http://www.espn.com/college-football/player/_/id/4240703/kenny-pickett) threw two touchdown passes and rushed for a score to lead Pittsburgh to a 28-7 victory over Virginia Tech on Saturday.\n\nPickett threw touchdown passes of 8 yards to [Gavin Bartholomew](http://www.espn.com/college-football/player/_/id/4708049/gavin-bartholomew) and 36 yards to [Jared Wayne](http://www.espn.com/college-football/player/_/id/4430681/jared-wayne) , and he scored on a 3-yard run \u2014 all in the first half \u2014 as the Panthers (5-1, 2-0 Atlantic Coast Conference) won their third straight game. Pittsburgh, which won in Blacksburg for the first time since 2015, moved into sole possession of first place in the ACC\u2019s Coastal Division."
+          ],
+          "title": "Pittsburgh 28-7 Virginia Tech (Oct 16, 2021) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401635620",
+          "excerpts": [
+            "lopsided loss at Louisville early with a leg injury, [Nate Yarnell](http://www.espn.com/college-football/player/_/id/4683182/nate-yarnell) went 23 of 42 for 296 yards with three TD passes \u2014two to [Gavin Bartholomew](http://www.espn.com/college-football/player/_/id/4708049/gavin-bartholomew) \u2014 for Pittsburgh (7-5, 3-5), which lost its fifth straight."
+          ],
+          "title": "Boston College 34-23 Pittsburgh (Nov 30, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN's biography directly lists the 2025 draft as Round 6, Pick 202, with Minnesota.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4708049/gavin-bartholomew",
+          "excerpts": [
+            "College [Pitt](https://www.espn.com/college-football/team/_/id/221/pittsburgh-panthers)\n\nDraft Info 2025: Rd 6, Pk 202 (MIN)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Schuylkill Haven, PA\n\n### Career History"
+          ],
+          "title": "Gavin Bartholomew Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies Schuylkill Haven, Pennsylvania, as Gavin Bartholomew's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4708049/gavin-bartholomew",
+          "excerpts": [
+            "College [Pitt](https://www.espn.com/college-football/team/_/id/221/pittsburgh-panthers)\n\nDraft Info 2025: Rd 6, Pk 202 (MIN)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Schuylkill Haven, PA\n\n### Career History"
+          ],
+          "title": "Gavin Bartholomew Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile identifies Blue Mountain as his high school and gives Pennsylvania as its location.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BartGa00.htm",
+          "excerpts": [
+            "**College** : [Pittsburgh](https://www.pro-football-reference.com/schools/pittsburgh/) ( [College Stats](https://www.sports-reference.com/cfb/players/gavin-bartholomew-1.html) )\n\n**High School** : [Blue Mountain](https://www.pro-football-reference.com/schools/high_schools.cgi?id=088d8bad) ( [PA](https://www.pro-football-reference.com/schools/high_schools.cgi?hs_state=PA) )\n\n**Draft** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2025_draft.htm) in the 6th round"
+          ],
+          "title": "Gavin Bartholomew Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL player profile lists his height as 6 feet 5 inches.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/gavin-bartholomew",
+          "excerpts": [
+            "# Gavin Bartholomew Stats, News and Video - TE | NFL.com\n\n# Gavin Bartholomew\n\nTE \u2022 \\#86\n\n[Minnesota Vikings](https://www.nfl.com/teams/minnesota-vikings/)\n\n### active\n\n* [Info](https://www.nfl.com/players/gavin-bartholomew/)\n* [Stats](https://www.nfl.com/players/gavin-bartholomew/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-5\n* Weight\n  \n  249\n* Arms\n  \n  31 1/2\n* Hands\n  \n  10\n\n* Experience\n  \n  2\n* College\n  \n  Pittsburgh\n* Age\n  \n  23\n* Hometown\n  \n  Schuykill Haven, PA\n\n## Related Content - Articles"
+          ],
+          "title": "Gavin Bartholomew Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap says Kenny Pickett threw an 8-yard touchdown pass to Gavin Bartholomew in Pitt's win over Virginia Tech.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401282661",
+          "excerpts": [
+            "# Pickett leads Pitt to 28-7 victory over Virginia Tech\n\n* * *\n\nBy AP\n\nOct 16, 2021, 08:28 pm\n\nFacebook Facebook Messenger Twitter Email\n\nBLACKSBURG, Va. -- \u2014 [Kenny Pickett](http://www.espn.com/college-football/player/_/id/4240703/kenny-pickett) threw two touchdown passes and rushed for a score to lead Pittsburgh to a 28-7 victory over Virginia Tech on Saturday.\n\nPickett threw touchdown passes of 8 yards to [Gavin Bartholomew](http://www.espn.com/college-football/player/_/id/4708049/gavin-bartholomew) and 36 yards to [Jared Wayne](http://www.espn.com/college-football/player/_/id/4430681/jared-wayne) , and he scored on a 3-yard run \u2014 all in the first half \u2014 as the Panthers (5-1, 2-0 Atlantic Coast Conference) won their third straight game. Pittsburgh, which won in Blacksburg for the first time since 2015, moved into sole possession of first place in the ACC\u2019s Coastal Division."
+          ],
+          "title": "Pittsburgh 28-7 Virginia Tech (Oct 16, 2021) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The recap states that Nate Yarnell threw two touchdown passes to Gavin Bartholomew against Boston College.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401635620",
+          "excerpts": [
+            "lopsided loss at Louisville early with a leg injury, [Nate Yarnell](http://www.espn.com/college-football/player/_/id/4683182/nate-yarnell) went 23 of 42 for 296 yards with three TD passes \u2014two to [Gavin Bartholomew](http://www.espn.com/college-football/player/_/id/4708049/gavin-bartholomew) \u2014 for Pittsburgh (7-5, 3-5), which lost its fifth straight."
+          ],
+          "title": "Boston College 34-23 Pittsburgh (Nov 30, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

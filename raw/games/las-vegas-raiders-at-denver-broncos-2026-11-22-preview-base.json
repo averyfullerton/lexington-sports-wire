@@ -1,0 +1,312 @@
+{
+  "run_id": "trun_1714e31eeb204d32b7575f0bfcdfa57c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 307.3,
+  "input": {
+    "away_team": "Las Vegas Raiders",
+    "home_team": "Denver Broncos",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "4-6",
+    "away_team": "Las Vegas Raiders",
+    "storyline": "Denver is 7-2 and tied with Kansas City atop the AFC West, while Las Vegas is 4-6 and third in the division. The game is also Fernando Mendoza\u2019s second career start and his first away from home.",
+    "matchup_notes": [
+      "The Broncos enter 7-2, tied with Kansas City atop the AFC West; the Raiders are 4-6 and third.",
+      "Las Vegas lost to Seattle 21-13 in Week 10.",
+      "Denver beat Carolina 26-21 for its fifth straight win, then had a Week 10 bye."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "380 rushing yards, 1 rushing TD",
+        "team": "Las Vegas Raiders",
+        "name": "Ashton Jeanty"
+      },
+      {
+        "stat_line": "676 receiving yards, 50 receptions, 6 TD",
+        "team": "Las Vegas Raiders",
+        "name": "Brock Bowers"
+      },
+      {
+        "stat_line": "1,730 passing yards, 11 TD, 4 INT",
+        "team": "Denver Broncos",
+        "name": "Bo Nix"
+      }
+    ],
+    "home_record": "7-2",
+    "home_team": "Denver Broncos",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game-center listing gives the Las Vegas Raiders\u2019 record as 4 wins, 6 losses, and 0 ties before the Week 11 matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Las Vegas Raiders LV Las Vegas Raiders RAIDERS Las Vegas Raiders LAS VEGAS RAIDERS 4-6 4 wins, 6 losses, 0 ties Denver Broncos DEN Denver Broncos BRONCOS Denver Broncos DENVER BRONCOS 7-2 7 wins, 2 losses, 0 ties CBS network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing identifies the away side as the Las Vegas Raiders.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Las Vegas Raiders LV Las Vegas Raiders RAIDERS Las Vegas Raiders LAS VEGAS RAIDERS 4-6 4 wins, 6 losses, 0 ties Denver Broncos DEN Denver Broncos BRONCOS Denver Broncos DENVER BRONCOS 7-2 7 wins, 2 losses, 0 ties CBS network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The AFC West standings show Denver at 7-2 alongside Kansas City and Las Vegas at 4-6. The Week 11 preview notes that rookie Fernando Mendoza is making his second career start and first away from home.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "AFC WEST TEAM W Wins L Losses T Ties PCT Win Percentage [BRONCOS DEN BRONCOS BRONCOS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 6 6 losses 0 0 ties 0.4 0.4 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 0 0 wins 8 8 losses 0 0 ties 0.00 0.00 win percentage](https://www.nfl.com/teams/los-angeles-chargers) [See All](https://www.nfl.com/standings)"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501527/nfl-week-11-betting-odds-props-early-picks-predictions",
+          "excerpts": [
+            "Rookie quarterback [Fernando Mendoza](https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) will be making his second career start and his first away from home in Sunday afternoon's late window."
+          ],
+          "title": "My First Bet for NFL Week 11 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The standings support the division positions; the Raiders\u2019 recent-game listing records the Week 10 loss to Seattle; and the Broncos game recap records the win over Carolina, Denver\u2019s fifth consecutive victory, and its following bye.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "AFC WEST TEAM W Wins L Losses T Ties PCT Win Percentage [BRONCOS DEN BRONCOS BRONCOS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 6 6 losses 0 0 ties 0.4 0.4 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 0 0 wins 8 8 losses 0 0 ties 0.00 0.00 win percentage](https://www.nfl.com/teams/los-angeles-chargers) [See All](https://www.nfl.com/standings)",
+            "Recent Games"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873041",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/den/denver-broncos)\n\n[Denver Broncos Broncos DEN](https://www.espn.com/nfl/team/_/name/den/denver-broncos)\n\n7-2 , 3-2 Away\n\n26\n\n7-2 , 3-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Broncos](https://www.espn.com/nfl/team/_/name/den/denver-broncos) DEN |10 |3 |0 |13 |26 |\n|[Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) CAR |0 |7 |7 |7 |21 |",
+            "* [Team Stats](https://www.espn.com/nfl/matchup/_/gameId/401873041)\n\n# Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory\n\nBy AP\n\nUpdated: Nov 8, 2026, 11:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nCHARLOTTE, N.C.",
+            "Carolina: No injuries reported.\n\nUp next\n\nDenver: bye next week. Host Las Vegas on Nov. 22.\n\nCarolina: at New Orleans on Sunday.\n\n\\------"
+          ],
+          "title": "Broncos 26-21 Panthers (Nov 8, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The 2026 season stats show Jeanty\u2019s rushing yardage and touchdown total, Bowers\u2019 receptions, receiving yards and touchdowns, and Nix\u2019s passing yards, touchdowns and interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ashton-jeanty/stats/career",
+          "excerpts": [
+            "# Ashton Jeanty Career Stats | NFL.com\n\n# Ashton Jeanty\n\nRB \u2022 \\#2\n\n[Las Vegas Raiders](https://www.nfl.com/teams/las-vegas-raiders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ashton-jeanty/)",
+            "* [Situational](https://www.nfl.com/players/ashton-jeanty/stats/situational/)\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Las Vegas Raiders |10 |123 |380 |3\\.1 |19 |1 |17 |13\\.8 |0 |0 |0 |\n|2025 |Las Vegas Raiders |17 |266 |975 |3\\.7 |64 |5 |44 |16\\.5 |3 |2 |1 |\n|TOTAL | |27 |389 |1355 |3\\.5 |64 |6 |61 |15\\.7 |3 |2 |1 |\n\n### Receiving\n\n|YEAR |TEAM |G |REC |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Las Vegas Raiders |10 |46 |417 |9\\.1 |45 |3 |17 |37 |6 |1 |\n|2025 |Las Vegas Raiders |17 |55 |346 |6\\.3 |60 |5 |13 |23\\.6 |3 |1 |\n|TOTAL | |27 |101 |763 |7\\.6 |60 |8 |30 |29\\.7 |9 |2 |"
+          ],
+          "title": "Ashton Jeanty Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/brock-bowers/stats",
+          "excerpts": [
+            "# Brock Bowers Stats Summary | NFL.com\n\n# Brock Bowers\n\nTE \u2022 \\#89\n\n[Las Vegas Raiders](https://www.nfl.com/teams/las-vegas-raiders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/brock-bowers/)",
+            "* [Situational](https://www.nfl.com/players/brock-bowers/stats/situational/)\n\n## Recent Games\n\n|WK |OPP |RESULT |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |",
+            "|3 |@Saints |W 35 - 27 |10 |116 |11\\.6 |20 |1 | | | | | | | |\n|4 |Chiefs |L 27 - 30 |6 |86 |14\\.3 |21 |1 | | | | | | | |",
+            "|SEASON |TEAM |G |GS |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2024 |Las Vegas Raiders |17 |16 |112 |1194 |10\\.7 |57 |5 |5 |13 |2\\.6 |12 |0 | | |\n|2025 |Las Vegas Raiders |12 |8 |64 |680 |10\\.6 |38 |7 |2 |2 |1 |6 |0 | | |\n|2026 |Las Vegas Raiders |8 |8 |50 |676 |13\\.5 |33 |6 |1 |2 |2 |2 |0 |2 |2 |\n|TOTAL | |37 |32 |226 |2550 |11\\.6 |57 |18 |8 |17 |2\\.1 |12 |0 |2 |2 |"
+          ],
+          "title": "Brock Bowers Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Nix 1730 YDS 60.6%CMP 11TD 4INT](https://www.nfl.com/players/bo-nix/stats) RUSHING [A."
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The game-center listing gives Denver\u2019s record as 7 wins, 2 losses, and 0 ties before the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Las Vegas Raiders LV Las Vegas Raiders RAIDERS Las Vegas Raiders LAS VEGAS RAIDERS 4-6 4 wins, 6 losses, 0 ties Denver Broncos DEN Denver Broncos BRONCOS Denver Broncos DENVER BRONCOS 7-2 7 wins, 2 losses, 0 ties CBS network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing identifies the home side as the Denver Broncos.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Las Vegas Raiders LV Las Vegas Raiders RAIDERS Las Vegas Raiders LAS VEGAS RAIDERS 4-6 4 wins, 6 losses, 0 ties Denver Broncos DEN Denver Broncos BRONCOS Denver Broncos DENVER BRONCOS 7-2 7 wins, 2 losses, 0 ties CBS network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists Raiders at Broncos for Sunday, November 22. The specified current date is November 19, so the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-how-to-watch-week-11-nfl-games-schedule-mexico-city-game-details-and-more",
+          "excerpts": [
+            "* 4:25 p.m. ET \u2013 Las Vegas Raiders vs. Denver Broncos **(CBS)**\n* 8:20 p.m. ET \u2013 Minnesota Vikings vs. San Francisco 49ers (Mexico City game) **(NBC, also stream on mobile with NFL+)**"
+          ],
+          "title": "NFL+: How to watch Week 11 NFL games, schedule, Mexico City game details, and more  | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The AFC West standings list Denver and Kansas City at 7-2 and Las Vegas at 4-6.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "AFC WEST TEAM W Wins L Losses T Ties PCT Win Percentage [BRONCOS DEN BRONCOS BRONCOS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 7 7 wins 2 2 losses 0 0 ties 0.778 0.778 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 6 6 losses 0 0 ties 0.4 0.4 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 0 0 wins 8 8 losses 0 0 ties 0.00 0.00 win percentage](https://www.nfl.com/teams/los-angeles-chargers) [See All](https://www.nfl.com/standings)"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Raiders\u2019 recent-game listing identifies the Week 10 Seattle game as a 21-13 loss.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Recent Games"
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap records Denver\u2019s 26-21 win over Carolina, calls it the Broncos\u2019 fifth straight victory, and notes that Denver had a bye the following week.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873041",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/den/denver-broncos)\n\n[Denver Broncos Broncos DEN](https://www.espn.com/nfl/team/_/name/den/denver-broncos)\n\n7-2 , 3-2 Away\n\n26\n\n7-2 , 3-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Broncos](https://www.espn.com/nfl/team/_/name/den/denver-broncos) DEN |10 |3 |0 |13 |26 |\n|[Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) CAR |0 |7 |7 |7 |21 |",
+            "* [Team Stats](https://www.espn.com/nfl/matchup/_/gameId/401873041)\n\n# Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory\n\nBy AP\n\nUpdated: Nov 8, 2026, 11:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nCHARLOTTE, N.C.",
+            "Carolina: No injuries reported.\n\nUp next\n\nDenver: bye next week. Host Las Vegas on Nov. 22.\n\nCarolina: at New Orleans on Sunday.\n\n\\------"
+          ],
+          "title": "Broncos 26-21 Panthers (Nov 8, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 Raiders row gives Ashton Jeanty 380 rushing yards and 1 rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ashton-jeanty/stats/career",
+          "excerpts": [
+            "# Ashton Jeanty Career Stats | NFL.com\n\n# Ashton Jeanty\n\nRB \u2022 \\#2\n\n[Las Vegas Raiders](https://www.nfl.com/teams/las-vegas-raiders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ashton-jeanty/)",
+            "* [Situational](https://www.nfl.com/players/ashton-jeanty/stats/situational/)\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Las Vegas Raiders |10 |123 |380 |3\\.1 |19 |1 |17 |13\\.8 |0 |0 |0 |\n|2025 |Las Vegas Raiders |17 |266 |975 |3\\.7 |64 |5 |44 |16\\.5 |3 |2 |1 |\n|TOTAL | |27 |389 |1355 |3\\.5 |64 |6 |61 |15\\.7 |3 |2 |1 |\n\n### Receiving\n\n|YEAR |TEAM |G |REC |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Las Vegas Raiders |10 |46 |417 |9\\.1 |45 |3 |17 |37 |6 |1 |\n|2025 |Las Vegas Raiders |17 |55 |346 |6\\.3 |60 |5 |13 |23\\.6 |3 |1 |\n|TOTAL | |27 |101 |763 |7\\.6 |60 |8 |30 |29\\.7 |9 |2 |"
+          ],
+          "title": "Ashton Jeanty Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Bowers\u2019 2026 Raiders season row gives 50 receptions, 676 receiving yards, and 6 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/brock-bowers/stats",
+          "excerpts": [
+            "# Brock Bowers Stats Summary | NFL.com\n\n# Brock Bowers\n\nTE \u2022 \\#89\n\n[Las Vegas Raiders](https://www.nfl.com/teams/las-vegas-raiders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/brock-bowers/)",
+            "* [Situational](https://www.nfl.com/players/brock-bowers/stats/situational/)\n\n## Recent Games\n\n|WK |OPP |RESULT |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |",
+            "|3 |@Saints |W 35 - 27 |10 |116 |11\\.6 |20 |1 | | | | | | | |\n|4 |Chiefs |L 27 - 30 |6 |86 |14\\.3 |21 |1 | | | | | | | |",
+            "|SEASON |TEAM |G |GS |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2024 |Las Vegas Raiders |17 |16 |112 |1194 |10\\.7 |57 |5 |5 |13 |2\\.6 |12 |0 | | |\n|2025 |Las Vegas Raiders |12 |8 |64 |680 |10\\.6 |38 |7 |2 |2 |1 |6 |0 | | |\n|2026 |Las Vegas Raiders |8 |8 |50 |676 |13\\.5 |33 |6 |1 |2 |2 |2 |0 |2 |2 |\n|TOTAL | |37 |32 |226 |2550 |11\\.6 |57 |18 |8 |17 |2\\.1 |12 |0 |2 |2 |"
+          ],
+          "title": "Brock Bowers Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The Broncos\u2019 passing leader is Nix, with 1,730 passing yards, 11 touchdowns, and 4 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-broncos-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Nix 1730 YDS 60.6%CMP 11TD 4INT](https://www.nfl.com/players/bo-nix/stats) RUSHING [A."
+          ],
+          "title": "Las Vegas Raiders at Denver Broncos 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.2",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "What will these rivals do? The 4-6 Las Vegas Raiders visit the 7-2 Denver Broncos. Denver is tied with Kansas City atop the AFC West. Raiders star Brock Bowers has 676 receiving yards and 6 touchdowns! The game kicks off Sunday, Nov 22, in Denver.",
+    "big_words": [
+      {
+        "word": "rivals",
+        "definition": "People or groups trying to beat each other.",
+        "example": "Leo and his rivals raced to set up their tents on the camping trip."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask about this game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1067,
+        "output": 207
+      }
+    ]
+  }
+}

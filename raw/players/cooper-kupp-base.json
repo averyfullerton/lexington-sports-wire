@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc2d318e06039c3b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 46.1,
+  "input": {
+    "player": "Cooper Kupp",
+    "team": "Seattle Seahawks",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Eastern Washington University",
+    "fun_facts": [
+      "Cooper Kupp grew up in Yakima, Washington. At 13, he went to a Seahawks game at the old Qwest Field\u2014and got to miss school the next day.",
+      "As a freshman at Eastern Washington, Cooper Kupp caught a touchdown in each of his first 14 games, an FCS record. He also set national freshman marks with 92 catches, 1,691 yards, and 21 touchdown catches.",
+      "Cooper Kupp was a four-time consensus FCS All-American.",
+      "At Eastern Washington, Cooper Kupp set FCS career records with 428 receptions and 73 receiving touchdowns.",
+      "In 2021, Cooper Kupp won the NFL receiving triple crown with 145 catches, 1,947 yards, and 16 touchdowns. He was also named MVP of Super Bowl LVI."
+    ],
+    "draft": "2017, round 3, pick 69"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The player profile lists Eastern Washington as Cooper Kupp's college.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/K/KuppCo00.htm?sr",
+          "excerpts": [
+            "Photo of Cooper Kupp\n\n# Cooper Kupp\n\n**Cooper Douglas Kupp**\n\n**Position** : WR **Throws:** Right\n\n6-1 , 205lb (185cm, 92kg)\n\n**Team** : [Seattle Seahawks](https://www.pro-football-reference.com/teams/sea/2025.htm)\n\n**Born:** [June 15](https://www.pro-football-reference.com/friv/birthdays.cgi?month=6&day=15) , 1993 in Yakima, [WA](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=WA)\n\n**College** : [Eastern Washington](https://www.pro-football-reference.com/schools/eastwashington/)"
+          ],
+          "title": "Cooper Kupp Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support the Yakima childhood detail, Kupp's freshman records, his consensus All-American honors, his FCS career marks, and his 2021 NFL receiving honors and Super Bowl MVP award.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44309037/seahawks-kupp-pushes-real-tough-situation-rams",
+          "excerpts": [
+            "-- [Cooper Kupp](https://www.espn.com/nfl/player/_/id/2977187/cooper-kupp) attended one Seahawks game as a kid while growing up about 140 miles southeast of Seattle in Yakima. It was a 2006 win over the Green Bay Packers on a snowy Monday night at what was then called Qwest Field.\n\nThe 13-year-old grade-schooler got to miss class the next day.\n\n\"I was up in the very top, frozen as an icicle up there,\" Kupp recalled. \"... I have memories of being there, being part of that environment, and it's such a cool thing."
+          ],
+          "title": "Seahawks' Kupp pushes past 'real tough situation' with Rams - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story?id=13387626&src=desktop",
+          "excerpts": [
+            "Through two seasons, Kupp is on pace to be one of the top wide receivers in FCS history. In first 28 career games, totaled 197 receptions for 3,122 yards and 37 touchdowns. ... As a freshman in 2013, caught a touchdown in his first 14 games (an FCS record). As he won FCS freshman of the year honors, he set national freshman marks in receptions (92), receiving yards (1,691) and touchdown receptions (21). ... In 2014, had 104 receptions in only 13 games, turning them into 1,431 yards and 16 touchdowns as Eastern Washington won a third straight Big Sky Conference championship."
+          ],
+          "title": "Cooper Kupp Offensive Bio - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33109684/the-making-cooper-kupp-los-angeles-rams-receiver-credits-wife-inspiration-superstar-turn",
+          "excerpts": [
+            "\"But as a married couple, we thought we needed to be able to separate and be us and take care of ourselves.\"\n\nTheir efforts paid off, as Kupp was named a four-time consensus FCS All-American and established 15 FCS records at Eastern Washington."
+          ],
+          "title": "The making of Cooper Kupp: Los Angeles Rams receiver credits wife's inspiration for superstar turn - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/241673/how-cooper-kupp-went-from-no-college-offers-to-several-college-records",
+          "excerpts": [
+            "So, right in the middle of the season, I lost the only interest that I had.\"\n\nRams receiver Cooper Kupp set Football Championship Subdivision records for receptions (428) and receiving touchdowns (73) at Eastern Washington."
+          ],
+          "title": "How Cooper Kupp went from no college offers to several college records - ESPN - NFL Nation- ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/44309037/seahawks-kupp-pushes-real-tough-situation-rams",
+          "excerpts": [
+            "Kupp spent the first eight seasons of his career with the Rams, going from a third-round pick out of Eastern Washington to a centerpiece of Sean McVay's offense. He won the NFL's receiving triple crown in 2021 -- finishing with a league-high 145 catches, 1,947 yards and 16 touchdowns -- before being named MVP of Super Bowl LVI."
+          ],
+          "title": "Seahawks' Kupp pushes past 'real tough situation' with Rams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography directly lists Kupp's draft information as 2017, round 3, pick 69.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2977187/cooper-kupp",
+          "excerpts": [
+            "* [Seattle Seahawks Seahawks](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks)\n* \\#10\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 1\", 205 lbs\n* Birthdate\n  \n  6/15/1993 (33)\n* College\n  \n  [E Washington](https://www.espn.com/college-football/team/_/id/331/eastern-washington-eagles)\n\nFollow\n\n* HT/WT\n  \n  6' 1\", 205 lbs\n* Birthdate\n  \n  6/15/1993 (33)\n* College\n  \n  [E Washington](https://www.espn.com/college-football/team/_/id/331/eastern-washington-eagles)\n* Draft Info\n  \n  2017: Rd 3, Pk 69 (LAR)\n* Status\n  \n  Active"
+          ],
+          "title": "Cooper Kupp Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Kupp grew up in Yakima, attended a Seahawks game at age 13, and got to miss class the next day.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44309037/seahawks-kupp-pushes-real-tough-situation-rams",
+          "excerpts": [
+            "-- [Cooper Kupp](https://www.espn.com/nfl/player/_/id/2977187/cooper-kupp) attended one Seahawks game as a kid while growing up about 140 miles southeast of Seattle in Yakima. It was a 2006 win over the Green Bay Packers on a snowy Monday night at what was then called Qwest Field.\n\nThe 13-year-old grade-schooler got to miss class the next day.\n\n\"I was up in the very top, frozen as an icicle up there,\" Kupp recalled. \"... I have memories of being there, being part of that environment, and it's such a cool thing."
+          ],
+          "title": "Seahawks' Kupp pushes past 'real tough situation' with Rams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states that as a freshman Kupp caught a touchdown in his first 14 games, an FCS record, and lists his freshman national marks for receptions, yards, and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=13387626&src=desktop",
+          "excerpts": [
+            "Through two seasons, Kupp is on pace to be one of the top wide receivers in FCS history. In first 28 career games, totaled 197 receptions for 3,122 yards and 37 touchdowns. ... As a freshman in 2013, caught a touchdown in his first 14 games (an FCS record). As he won FCS freshman of the year honors, he set national freshman marks in receptions (92), receiving yards (1,691) and touchdown receptions (21). ... In 2014, had 104 receptions in only 13 games, turning them into 1,431 yards and 16 touchdowns as Eastern Washington won a third straight Big Sky Conference championship."
+          ],
+          "title": "Cooper Kupp Offensive Bio - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Kupp as a four-time consensus FCS All-American.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33109684/the-making-cooper-kupp-los-angeles-rams-receiver-credits-wife-inspiration-superstar-turn",
+          "excerpts": [
+            "\"But as a married couple, we thought we needed to be able to separate and be us and take care of ourselves.\"\n\nTheir efforts paid off, as Kupp was named a four-time consensus FCS All-American and established 15 FCS records at Eastern Washington."
+          ],
+          "title": "The making of Cooper Kupp: Los Angeles Rams receiver credits wife's inspiration for superstar turn - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Kupp set FCS records for 428 receptions and 73 receiving touchdowns at Eastern Washington.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/241673/how-cooper-kupp-went-from-no-college-offers-to-several-college-records",
+          "excerpts": [
+            "So, right in the middle of the season, I lost the only interest that I had.\"\n\nRams receiver Cooper Kupp set Football Championship Subdivision records for receptions (428) and receiving touchdowns (73) at Eastern Washington."
+          ],
+          "title": "How Cooper Kupp went from no college offers to several college records - ESPN - NFL Nation- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage reports Kupp's 2021 receiving triple crown totals and says he was named MVP of Super Bowl LVI.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/44309037/seahawks-kupp-pushes-real-tough-situation-rams",
+          "excerpts": [
+            "Kupp spent the first eight seasons of his career with the Rams, going from a third-round pick out of Eastern Washington to a centerpiece of Sean McVay's offense. He won the NFL's receiving triple crown in 2021 -- finishing with a league-high 145 catches, 1,947 yards and 16 touchdowns -- before being named MVP of Super Bowl LVI."
+          ],
+          "title": "Seahawks' Kupp pushes past 'real tough situation' with Rams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Chuba Hubbard",
+  "espn_id": "4241416",
+  "team": "Carolina Panthers",
+  "team_abbr": "CAR",
+  "number": "30",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Oklahoma State",
+  "experience": 6,
+  "fun_facts": [
+    "Chuba set Canadian records in two races as a kid.",
+    "Chuba ran for 2,094 yards in college in 2019.",
+    "Chuba won a trophy for being the top Canadian player in college football."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2021",
+        "CAR",
+        "17",
+        "172",
+        "612",
+        "3.6",
+        "5"
+      ],
+      [
+        "2022",
+        "CAR",
+        "15",
+        "95",
+        "466",
+        "4.9",
+        "2"
+      ],
+      [
+        "2023",
+        "CAR",
+        "17",
+        "238",
+        "902",
+        "3.8",
+        "5"
+      ],
+      [
+        "2024",
+        "CAR",
+        "15",
+        "250",
+        "1,195",
+        "4.8",
+        "10"
+      ],
+      [
+        "2025",
+        "CAR",
+        "15",
+        "134",
+        "511",
+        "3.8",
+        "1"
+      ],
+      [
+        "2026",
+        "CAR",
+        "9",
+        "161",
+        "711",
+        "4.4",
+        "7"
+      ]
+    ]
+  }
+}

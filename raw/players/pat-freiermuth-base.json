@@ -1,0 +1,166 @@
+{
+  "run_id": "trun_415f3f698c1f435ba8195d451a2ec5e6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 61.5,
+  "input": {
+    "player": "Pat Freiermuth",
+    "team": "Pittsburgh Steelers",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Penn State",
+    "fun_facts": [
+      "In high school, Pat Freiermuth\u2019s cousin Pat Foley coached him as both a linebacker and a tight end.",
+      "He attended Brooks School in Massachusetts before playing at Penn State.",
+      "During his three-year college career, he had no dropped passes in the red zone.",
+      "Penn State named him its most valuable offensive player in 2019, and he tied the school record for career touchdown receptions by a tight end, with 15.",
+      "In 2019, he caught 43 passes for 507 yards and seven touchdowns."
+    ],
+    "draft": "2021, round 2, pick 55"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists Penn State as Pat Freiermuth\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361411/pat-freiermuth",
+          "excerpts": [
+            "# Pat Freiermuth\n\nPittsburgh Steelers\n\n* [Pittsburgh Steelers Steelers](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)\n* \\#88\n* Tight End TE\n\n* HT/WT\n  \n  6' 5\", 258 lbs\n* Birthdate\n  \n  10/25/1998 (28)\n* College\n  \n  [Penn State](https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions)"
+          ],
+          "title": "Pat Freiermuth Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN and NFL passages report Foley\u2019s high-school coaching, Brooks School, Freiermuth\u2019s red-zone record, Penn State honors and touchdown-reception record, and his 2019 receiving totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/pittsburgh-steelers/post/_/id/32914/the-next-heath-miller-pat-freiermuth-drawing-favorable-comparisons-to-a-great-steelers-te",
+          "excerpts": [
+            "A red zone machine at Penn State with no dropped passes in the area during his three-year collegiate career, Freiermuth credits his high school coach -- and cousin -- Pat Foley with helping him fall",
+            "Once he started coaching Freiermuth as a linebacker and tight end in high school, Foley knew his ability to take full advantage of every opportunity would help slingshot him to the next level."
+          ],
+          "title": "The next Heath Miller? Steelers TE Pat Freiermuth no longer flying under the radar - ESPN - Pittsburgh Steelers Blog- ESPN"
+        },
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/combine/_/id/223060/patrick-freiermuth",
+          "excerpts": [
+            "# Patrick Freiermuth\n\n* \n\n6-5, 248 | 40: 4.95 | Class of 2018\n\n* Hometown [North Andover, Mass.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/24/hometown/17/class/2018)\n* School [Brooks School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/1542)\n* Position [Tight End-Y](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-Y/class/2018)\n* Status Signed [Penn State](https://www.espn.com/college-sports/football/recruiting/school/_/id/213) 08/16/2016\n\n#### Scout Grade\n\n* 81\n*\n\n|8 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-y/class/2018/view/position) |\n| --- |"
+          ],
+          "title": "Football Recruiting - Patrick Freiermuth - Player Profiles - ESPN"
+        },
+        {
+          "url": "https://amp.nfl.com/news/scouting-pat-freiermuth-penn-state-te-similar-to-hunter-henry",
+          "excerpts": [
+            "Penn State's Pat Freiermuth, named the team's most valuable offensive player in 2019, is tied with Mike Gesicki for the most career touchdown receptions by a tight end in school history (15).",
+            "**2019 statistics:** 43 catches for 507 yards (11.8 average) and seven touchdowns."
+          ],
+          "title": "Scouting Pat Freiermuth: Penn State TE similar to Hunter Henry\r"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography gives his draft information as 2021, round 2, pick 55, selected by Pittsburgh.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361411/pat-freiermuth",
+          "excerpts": [
+            "2021: Rd 2, Pk 55 (PIT)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* REC\n  \n  25\n  \n  Tied-82nd\n  \n  YDS\n  \n  235\n  \n  Tied-100th\n  \n  TD\n  \n  4\n  \n  Tied-16th\n  \n  AVG\n  \n  9\\.4"
+          ],
+          "title": "Pat Freiermuth Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN passage identifies Pat Foley as Freiermuth\u2019s cousin and says Foley coached him as a linebacker and tight end in high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/pittsburgh-steelers/post/_/id/32914/the-next-heath-miller-pat-freiermuth-drawing-favorable-comparisons-to-a-great-steelers-te",
+          "excerpts": [
+            "A red zone machine at Penn State with no dropped passes in the area during his three-year collegiate career, Freiermuth credits his high school coach -- and cousin -- Pat Foley with helping him fall",
+            "Once he started coaching Freiermuth as a linebacker and tight end in high school, Foley knew his ability to take full advantage of every opportunity would help slingshot him to the next level."
+          ],
+          "title": "The next Heath Miller? Steelers TE Pat Freiermuth no longer flying under the radar - ESPN - Pittsburgh Steelers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN\u2019s recruiting profile lists Brooks School as Freiermuth\u2019s school.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/combine/_/id/223060/patrick-freiermuth",
+          "excerpts": [
+            "# Patrick Freiermuth\n\n* \n\n6-5, 248 | 40: 4.95 | Class of 2018\n\n* Hometown [North Andover, Mass.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/24/hometown/17/class/2018)\n* School [Brooks School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/1542)\n* Position [Tight End-Y](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-Y/class/2018)\n* Status Signed [Penn State](https://www.espn.com/college-sports/football/recruiting/school/_/id/213) 08/16/2016\n\n#### Scout Grade\n\n* 81\n*\n\n|8 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-y/class/2018/view/position) |\n| --- |"
+          ],
+          "title": "Football Recruiting - Patrick Freiermuth - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN passage says he had no dropped passes in the red-zone area during his three-year college career.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/pittsburgh-steelers/post/_/id/32914/the-next-heath-miller-pat-freiermuth-drawing-favorable-comparisons-to-a-great-steelers-te",
+          "excerpts": [
+            "A red zone machine at Penn State with no dropped passes in the area during his three-year collegiate career, Freiermuth credits his high school coach -- and cousin -- Pat Foley with helping him fall"
+          ],
+          "title": "The next Heath Miller? Steelers TE Pat Freiermuth no longer flying under the radar - ESPN - Pittsburgh Steelers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com reports that Penn State named him its 2019 most valuable offensive player and that his 15 career touchdown receptions tied the school record for tight ends.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/scouting-pat-freiermuth-penn-state-te-similar-to-hunter-henry",
+          "excerpts": [
+            "Penn State's Pat Freiermuth, named the team's most valuable offensive player in 2019, is tied with Mike Gesicki for the most career touchdown receptions by a tight end in school history (15)."
+          ],
+          "title": "Scouting Pat Freiermuth: Penn State TE similar to Hunter Henry\r"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com\u2019s scouting report gives his 2019 totals as 43 catches, 507 yards, and seven touchdowns.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/scouting-pat-freiermuth-penn-state-te-similar-to-hunter-henry",
+          "excerpts": [
+            "**2019 statistics:** 43 catches for 507 yards (11.8 average) and seven touchdowns."
+          ],
+          "title": "Scouting Pat Freiermuth: Penn State TE similar to Hunter Henry\r"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

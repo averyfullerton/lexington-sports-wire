@@ -1,0 +1,48 @@
+{
+  "name": "Ollie Gordon II",
+  "espn_id": "4711533",
+  "team": "Miami Dolphins",
+  "team_abbr": "MIA",
+  "number": "0",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Oklahoma State",
+  "experience": 2,
+  "fun_facts": [
+    "Ollie ran for 1,732 yards and 21 touchdowns in 2023.",
+    "Ollie tied Oklahoma State\u2019s record with five rushing touchdowns against BYU.",
+    "Ollie had a 53-yard run in his first 100-yard NFL game."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "MIA",
+        "17",
+        "70",
+        "199",
+        "2.8",
+        "3"
+      ],
+      [
+        "2026",
+        "MIA",
+        "9",
+        "127",
+        "539",
+        "4.2",
+        "4"
+      ]
+    ]
+  }
+}

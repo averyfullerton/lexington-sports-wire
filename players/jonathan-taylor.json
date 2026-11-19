@@ -1,0 +1,93 @@
+{
+  "name": "Jonathan Taylor",
+  "espn_id": "4242335",
+  "team": "Indianapolis Colts",
+  "team_abbr": "IND",
+  "number": "28",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Wisconsin",
+  "experience": 7,
+  "fun_facts": [
+    "Jonathan broke the FBS freshman rushing record in college with 1,977 yards.",
+    "Jonathan was the fastest player to reach 5,000 rushing yards in FBS history.",
+    "Jonathan won the Doak Walker Award twice."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2020",
+        "IND",
+        "15",
+        "232",
+        "1,169",
+        "5.0",
+        "11"
+      ],
+      [
+        "2021",
+        "IND",
+        "17",
+        "332",
+        "1,811",
+        "5.5",
+        "18"
+      ],
+      [
+        "2022",
+        "IND",
+        "11",
+        "192",
+        "861",
+        "4.5",
+        "4"
+      ],
+      [
+        "2023",
+        "IND",
+        "10",
+        "169",
+        "741",
+        "4.4",
+        "7"
+      ],
+      [
+        "2024",
+        "IND",
+        "14",
+        "303",
+        "1,431",
+        "4.7",
+        "11"
+      ],
+      [
+        "2025",
+        "IND",
+        "17",
+        "323",
+        "1,585",
+        "4.9",
+        "18"
+      ],
+      [
+        "2026",
+        "IND",
+        "10",
+        "177",
+        "739",
+        "4.2",
+        "8"
+      ]
+    ]
+  }
+}

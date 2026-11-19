@@ -1,0 +1,75 @@
+{
+  "name": "James Cook III",
+  "espn_id": "4379399",
+  "team": "Buffalo Bills",
+  "team_abbr": "BUF",
+  "number": "4",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Georgia",
+  "experience": 5,
+  "fun_facts": [
+    "James caught a 39-yard touchdown for Georgia in the college Orange Bowl.",
+    "James ran for 216 yards and two touchdowns on 19 carries in a 2025 game.",
+    "James tied the Bills\u2019 record by scoring a rushing touchdown in seven straight games."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "BUF",
+        "16",
+        "89",
+        "507",
+        "5.7",
+        "2"
+      ],
+      [
+        "2023",
+        "BUF",
+        "17",
+        "237",
+        "1,122",
+        "4.7",
+        "2"
+      ],
+      [
+        "2024",
+        "BUF",
+        "16",
+        "207",
+        "1,009",
+        "4.9",
+        "16"
+      ],
+      [
+        "2025",
+        "BUF",
+        "17",
+        "309",
+        "1,621",
+        "5.2",
+        "12"
+      ],
+      [
+        "2026",
+        "BUF",
+        "9",
+        "187",
+        "971",
+        "5.2",
+        "9"
+      ]
+    ]
+  }
+}

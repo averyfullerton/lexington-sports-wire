@@ -1,0 +1,66 @@
+{
+  "name": "Bijan Robinson",
+  "espn_id": "4430807",
+  "team": "Atlanta Falcons",
+  "team_abbr": "ATL",
+  "number": "7",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Texas",
+  "experience": 4,
+  "fun_facts": [
+    "Bijan\u2019s first team was the Tucson Falcons, and he later joined the Atlanta Falcons.",
+    "Bijan\u2019s youth football teammates called him Smiley because he smiled so easily.",
+    "Bijan forced 91 missed tackles in one college season, the most in college football."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "ATL",
+        "17",
+        "214",
+        "976",
+        "4.6",
+        "4"
+      ],
+      [
+        "2024",
+        "ATL",
+        "17",
+        "304",
+        "1,456",
+        "4.8",
+        "14"
+      ],
+      [
+        "2025",
+        "ATL",
+        "17",
+        "287",
+        "1,478",
+        "5.2",
+        "7"
+      ],
+      [
+        "2026",
+        "ATL",
+        "10",
+        "185",
+        "951",
+        "5.1",
+        "6"
+      ]
+    ]
+  }
+}

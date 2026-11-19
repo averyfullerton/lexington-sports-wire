@@ -1,0 +1,66 @@
+{
+  "name": "Jaxon Smith-Njigba",
+  "espn_id": "4430878",
+  "team": "Seattle Seahawks",
+  "team_abbr": "SEA",
+  "number": "11",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Ohio State",
+  "experience": 4,
+  "fun_facts": [
+    "Jaxon\u2019s family called him \u201cPookie\u201d when he was a kid.",
+    "Jaxon caught 15 passes in the Rose Bowl, a record for that game.",
+    "He had 1,328 receiving yards in 12 varsity football games at age 15."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "SEA",
+        "17",
+        "63",
+        "628",
+        "4",
+        "35"
+      ],
+      [
+        "2024",
+        "SEA",
+        "17",
+        "100",
+        "1,130",
+        "6",
+        "46"
+      ],
+      [
+        "2025",
+        "SEA",
+        "17",
+        "119",
+        "1,793",
+        "10",
+        "63"
+      ],
+      [
+        "2026",
+        "SEA",
+        "10",
+        "79",
+        "1,207",
+        "10",
+        "82"
+      ]
+    ]
+  }
+}

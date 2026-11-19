@@ -1,0 +1,66 @@
+{
+  "name": "Chase Brown",
+  "espn_id": "4362238",
+  "team": "Cincinnati Bengals",
+  "team_abbr": "CIN",
+  "number": "30",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Illinois",
+  "experience": 4,
+  "fun_facts": [
+    "He ran for 352 yards and returned 12 kickoffs as a college freshman.",
+    "In college, Chase led the Power 5 with 1,643 rushing yards in 2022.",
+    "Chase was the first Illinois running back to be a Doak Walker Award finalist."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "CIN",
+        "12",
+        "44",
+        "179",
+        "4.1",
+        "0"
+      ],
+      [
+        "2024",
+        "CIN",
+        "16",
+        "229",
+        "990",
+        "4.3",
+        "7"
+      ],
+      [
+        "2025",
+        "CIN",
+        "17",
+        "232",
+        "1,019",
+        "4.4",
+        "6"
+      ],
+      [
+        "2026",
+        "CIN",
+        "9",
+        "113",
+        "441",
+        "3.9",
+        "1"
+      ]
+    ]
+  }
+}

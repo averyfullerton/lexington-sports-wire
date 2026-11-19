@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_415f3f698c1f435b80de768d34866eac",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 176.2,
+  "input": {
+    "player": "C.J. Stroud",
+    "team": "Houston Texans",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Ohio State",
+    "fun_facts": [
+      "C.J. Stroud was born in California\u2019s Inland Empire.",
+      "When C.J. Stroud was 3, he kept dunking on kindergartners who were at least two years older than him.",
+      "C.J. Stroud didn\u2019t become Rancho Cucamonga High\u2019s starting quarterback until his junior year; that fall, he threw for 3,878 yards and 47 touchdowns.",
+      "In the Rose Bowl, C.J. Stroud set an Ohio State team record with 573 passing yards and tied the record with six touchdown passes.",
+      "C.J. Stroud\u2019s 470 passing yards against Tampa Bay set the NFL record for most passing yards by a rookie in one game. "
+    ],
+    "draft": "2023, round 1, pick 2"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Ohio State as C.J. Stroud\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432577/cj-stroud",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 3\", 218 lbs\n\nBirthdate 10/3/2001 (25)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 2 (HOU)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Inland Empire, CA"
+          ],
+          "title": "C.J. Stroud Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Stroud\u2019s birthplace. ESPN\u2019s childhood account says he dunked on older children at age 3. Another ESPN account states he did not start in high school until his junior season and gives his passing totals that fall. The Rose Bowl account reports his 573-yard team record and six-touchdown tie. ESPN\u2019s rookie-game account identifies his 470-yard performance as the rookie single-game record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432577/cj-stroud",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 3\", 218 lbs\n\nBirthdate 10/3/2001 (25)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 2 (HOU)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Inland Empire, CA"
+          ],
+          "title": "C.J. Stroud Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38834279/houston-texans-rookie-qb-cj-stroud-already-nfl-star",
+          "excerpts": [
+            "\"No, I'm serious.\"\n\nThe children had been outside playing basketball with a Little Tikes hoop that day, and C.J. kept slam-dunking on the kindergartners. They were at least two years older than him."
+          ],
+          "title": "Houston Texans rookie QB C.J. Stroud's NFL star is born - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35307042/ohio-state-cj-stroud-ryan-day-face-pressure-opportunity",
+          "excerpts": [
+            "premier teams, and who soon will be earning millions in the NFL.\n\nBut unlike many college quarterbacks at his level, Stroud didn't come from the world of private coaches and nationally known high school programs. He didn't start until his junior season at Rancho Cucamonga High, 45 miles east of Los Angeles, and his recruitment took off only after he won MVP honors at the Elite 11 finals in June 2019.\n\nThe next fall, he had 3,878 passing yards and 47 touchdowns.",
+            "Then, even with the Big Ten title and CFP off the table, Stroud set a team record with 573 passing yards and tied the mark for touchdown passes (6) against Utah. Both totals marked Rose Bowl records."
+          ],
+          "title": "Ohio State's C.J. Stroud, Ryan Day face pressure and opportunity - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38826838/cj-stroud-huge-game-late-heroics-lift-texans-victory",
+          "excerpts": [
+            "## Most pass yards by rookie in game\n\nThe Texans' C.J. Stroud set the record for most passing yards in a game by a rookie in NFL history with his 470 yards against the Buccaneers on Sunday."
+          ],
+          "title": "C.J. Stroud's huge game, late heroics lift Texans to victory - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists his draft information as 2023, round 1, pick 2, for Houston.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432577/cj-stroud",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 3\", 218 lbs\n\nBirthdate 10/3/2001 (25)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 2 (HOU)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Inland Empire, CA"
+          ],
+          "title": "C.J. Stroud Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies the Inland Empire, California, as Stroud\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432577/cj-stroud",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 3\", 218 lbs\n\nBirthdate 10/3/2001 (25)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 2 (HOU)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Inland Empire, CA"
+          ],
+          "title": "C.J. Stroud Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account describes Stroud dunking on kindergartners at age 3 and notes they were at least two years older.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38834279/houston-texans-rookie-qb-cj-stroud-already-nfl-star",
+          "excerpts": [
+            "\"No, I'm serious.\"\n\nThe children had been outside playing basketball with a Little Tikes hoop that day, and C.J. kept slam-dunking on the kindergartners. They were at least two years older than him."
+          ],
+          "title": "Houston Texans rookie QB C.J. Stroud's NFL star is born - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The account says Stroud earned the starting role in his junior year and gives his 3,878 passing yards and 47 touchdowns that fall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35307042/ohio-state-cj-stroud-ryan-day-face-pressure-opportunity",
+          "excerpts": [
+            "premier teams, and who soon will be earning millions in the NFL.\n\nBut unlike many college quarterbacks at his level, Stroud didn't come from the world of private coaches and nationally known high school programs. He didn't start until his junior season at Rancho Cucamonga High, 45 miles east of Los Angeles, and his recruitment took off only after he won MVP honors at the Elite 11 finals in June 2019.\n\nThe next fall, he had 3,878 passing yards and 47 touchdowns."
+          ],
+          "title": "Ohio State's C.J. Stroud, Ryan Day face pressure and opportunity - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The account reports Stroud\u2019s Ohio State team record of 573 passing yards and his tie of the six-touchdown Rose Bowl mark.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35307042/ohio-state-cj-stroud-ryan-day-face-pressure-opportunity",
+          "excerpts": [
+            "Then, even with the Big Ten title and CFP off the table, Stroud set a team record with 573 passing yards and tied the mark for touchdown passes (6) against Utah. Both totals marked Rose Bowl records."
+          ],
+          "title": "Ohio State's C.J. Stroud, Ryan Day face pressure and opportunity - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN identifies Stroud\u2019s 470 passing yards against Tampa Bay as the most by a rookie in an NFL game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38826838/cj-stroud-huge-game-late-heroics-lift-texans-victory",
+          "excerpts": [
+            "## Most pass yards by rookie in game\n\nThe Texans' C.J. Stroud set the record for most passing yards in a game by a rookie in NFL history with his 470 yards against the Buccaneers on Sunday."
+          ],
+          "title": "C.J. Stroud's huge game, late heroics lift Texans to victory - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "run_id": "trun_415f3f698c1f435b90174eee26bd0e62",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 41.6,
+  "input": {
+    "player": "Dalton Schultz",
+    "team": "Houston Texans",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Stanford",
+    "fun_facts": [
+      "Dalton Schultz\u2019s birthplace is South Jordan, Utah.",
+      "Dalton Schultz said that playing in the NFL was a childhood dream of his.",
+      "Dalton Schultz earned All-Pac-12 honors in his final college season.",
+      "In three seasons at Stanford, Dalton Schultz had 55 catches for 555 yards and five touchdowns.",
+      "In 2021, Dalton Schultz caught 78 passes for 808 yards and eight touchdowns."
+    ],
+    "draft": "2018, round 4, pick 137"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography lists Stanford as Dalton Schultz\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3117256/dalton-schultz",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Dalton Schultz\n\nHouston Texans\n\n* [Houston Texans Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n* \\#86\n* Tight End TE\n\n* HT/WT\n  \n  6' 5\", 242 lbs\n* Birthdate\n  \n  7/11/1996 (30)\n* College\n  \n  [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n\nFollow\n\n* HT/WT\n  \n  6' 5\", 242 lbs\n* Birthdate\n  \n  7/11/1996 (30)\n* College\n  \n  [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n* Draft Info\n  \n  2018: Rd 4, Pk 137 (DAL)\n* Status\n  \n  Active"
+          ],
+          "title": "Dalton Schultz Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The biography gives Dalton Schultz\u2019s birthplace. The college report states that playing in the NFL was his childhood dream, notes his All-Pac-12 honor, and gives his Stanford career totals. ESPN\u2019s report supplies his 2021 receiving totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3117256/dalton-schultz",
+          "excerpts": [
+            "Draft Info 2018: Rd 4, Pk 137 (DAL)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace South Jordan, UT\n\n### Career History"
+          ],
+          "title": "Dalton Schultz Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story?id=21951829&src=desktop",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=21951829)\n\nSTANFORD, Calif. -- Stanford tight end [Dalton Schultz](https://www.espn.com/college-football/player/_/id/3117256/dalton-schultz) will skip his final season of eligibility and enter the NFL draft.\n\nSchultz said Wednesday that he will cherish his memories from Stanford but wants to pursue his childhood dream of playing in the NFL.\n\nSchultz was an All-Pac-12 selection this season when he had 22 catches for 212 yards and three touchdowns. In three seasons for the Cardinal, Schultz had 55 catches for 555 yards and five TDs."
+          ],
+          "title": "Stanford TE Dalton Schultz enters NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35906095/sources-texans-add-te-dalton-schultz-rb-devin-singletary",
+          "excerpts": [
+            "A fourth-round pick in 2018 out of [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal) , Schultz became a full-time starter in 2020 and was one of quarterback [Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) 's trusted targets. He caught 63 passes for 615 yards and four touchdowns in 2020 and followed that up with a 78-catch, 808-yard, eight-touchdown season in 2021.\n\nSchultz is fifth in Cowboys team history among catches for tight ends with 211 and has four multiple-touchdown games, trailing only Jason Witten and Billy Joe DuPree (five each) in team history.\n\nOver the past three seasons, Singletary was the primary running back for the [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills) ."
+          ],
+          "title": "Sources - Texans add TE Dalton Schultz, RB Devin Singletary - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists Dalton Schultz as a 2018 fourth-round pick, pick 137.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3117256/dalton-schultz",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Dalton Schultz\n\nHouston Texans\n\n* [Houston Texans Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n* \\#86\n* Tight End TE\n\n* HT/WT\n  \n  6' 5\", 242 lbs\n* Birthdate\n  \n  7/11/1996 (30)\n* College\n  \n  [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n\nFollow\n\n* HT/WT\n  \n  6' 5\", 242 lbs\n* Birthdate\n  \n  7/11/1996 (30)\n* College\n  \n  [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n* Draft Info\n  \n  2018: Rd 4, Pk 137 (DAL)\n* Status\n  \n  Active"
+          ],
+          "title": "Dalton Schultz Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists South Jordan, Utah, as Dalton Schultz\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3117256/dalton-schultz",
+          "excerpts": [
+            "Draft Info 2018: Rd 4, Pk 137 (DAL)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace South Jordan, UT\n\n### Career History"
+          ],
+          "title": "Dalton Schultz Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The report says Dalton Schultz wanted to pursue his childhood dream of playing in the NFL.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=21951829&src=desktop",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=21951829)\n\nSTANFORD, Calif. -- Stanford tight end [Dalton Schultz](https://www.espn.com/college-football/player/_/id/3117256/dalton-schultz) will skip his final season of eligibility and enter the NFL draft.\n\nSchultz said Wednesday that he will cherish his memories from Stanford but wants to pursue his childhood dream of playing in the NFL.\n\nSchultz was an All-Pac-12 selection this season when he had 22 catches for 212 yards and three touchdowns. In three seasons for the Cardinal, Schultz had 55 catches for 555 yards and five TDs."
+          ],
+          "title": "Stanford TE Dalton Schultz enters NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The report identifies Dalton Schultz as an All-Pac-12 selection in his final Stanford season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=21951829&src=desktop",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=21951829)\n\nSTANFORD, Calif. -- Stanford tight end [Dalton Schultz](https://www.espn.com/college-football/player/_/id/3117256/dalton-schultz) will skip his final season of eligibility and enter the NFL draft.\n\nSchultz said Wednesday that he will cherish his memories from Stanford but wants to pursue his childhood dream of playing in the NFL.\n\nSchultz was an All-Pac-12 selection this season when he had 22 catches for 212 yards and three touchdowns. In three seasons for the Cardinal, Schultz had 55 catches for 555 yards and five TDs."
+          ],
+          "title": "Stanford TE Dalton Schultz enters NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The report states Dalton Schultz had 55 catches, 555 receiving yards, and five touchdowns in three seasons at Stanford.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=21951829&src=desktop",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=21951829)\n\nSTANFORD, Calif. -- Stanford tight end [Dalton Schultz](https://www.espn.com/college-football/player/_/id/3117256/dalton-schultz) will skip his final season of eligibility and enter the NFL draft.\n\nSchultz said Wednesday that he will cherish his memories from Stanford but wants to pursue his childhood dream of playing in the NFL.\n\nSchultz was an All-Pac-12 selection this season when he had 22 catches for 212 yards and three touchdowns. In three seasons for the Cardinal, Schultz had 55 catches for 555 yards and five TDs."
+          ],
+          "title": "Stanford TE Dalton Schultz enters NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN report lists Dalton Schultz\u2019s 2021 season as 78 catches, 808 yards, and eight touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35906095/sources-texans-add-te-dalton-schultz-rb-devin-singletary",
+          "excerpts": [
+            "A fourth-round pick in 2018 out of [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal) , Schultz became a full-time starter in 2020 and was one of quarterback [Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) 's trusted targets. He caught 63 passes for 615 yards and four touchdowns in 2020 and followed that up with a 78-catch, 808-yard, eight-touchdown season in 2021.\n\nSchultz is fifth in Cowboys team history among catches for tight ends with 211 and has four multiple-touchdown games, trailing only Jason Witten and Billy Joe DuPree (five each) in team history.\n\nOver the past three seasons, Singletary was the primary running back for the [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills) ."
+          ],
+          "title": "Sources - Texans add TE Dalton Schultz, RB Devin Singletary - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "run_id": "trun_415f3f698c1f435bb725416132f62c65",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 157.1,
+  "input": {
+    "player": "DJ Moore",
+    "team": "Buffalo Bills",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Maryland",
+    "fun_facts": [
+      "DJ Moore is from Philadelphia, Pennsylvania.",
+      "At Maryland in 2017, he earned first-team All-Big Ten honors and Big Ten Receiver of the Year. He led the conference with 80 catches for 1,033 yards and eight touchdowns.",
+      "He finished his Maryland career with 146 catches, 2,027 receiving yards, and 17 touchdowns.",
+      "When he was 5, DJ Moore won a Little League championship wearing No. 2\u2014the first number he remembers having\u2014and he still has that jersey.",
+      "In his first three NFL seasons, DJ Moore set the Panthers\u2019 franchise record for receiving yards by a wide receiver, with 3,055.",
+      "In 2023, DJ Moore became the fifth Bears receiver in team history to surpass 1,300 receiving yards; he finished with a career-high 1,364."
+    ],
+    "draft": "2018, round 1, pick 24"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Maryland as DJ Moore\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# DJ Moore\n\nBuffalo Bills\n\n* [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills)\n* \\#2\n* Wide Receiver\n\n* HT/WT\n  \n  6' 0\", 213 lbs\n* Birthdate\n  \n  4/14/1997 (29)\n* College\n  \n  [Maryland](https://www.espn.com/college-football/team/_/id/120/maryland-terrapins)\n* Draft Info\n  \n  2018: Rd 1, Pk 24 (CAR)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* REC\n  \n  16\n  \n  Tied-115th\n  \n  YDS\n  \n  260\n  \n  69th\n  \n  TD\n  \n  2\n  \n  Tied-44th\n  \n  AVG\n  \n  16\\.3\n  \n  9th"
+          ],
+          "title": "DJ Moore Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the hometown, Maryland accolades and career totals, childhood jersey story, Panthers receiving-yard milestone, and 2023 Bears receiving milestone, respectively.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/panthers/mb2b6ppnlf8ozczygxxd.pdf",
+          "excerpts": [
+            "\u2022 Panthers wide receiver DJ Moore is a native of Philadelphia,\n\nPa.\n\n\u2022 Panthers wide receiver Damiere Byrd is a native of Sicklerville,\n\nN.J.\n\n\u2022 Eagles wide receiver Alshon Jeffery is from St."
+          ],
+          "title": "PANTHERS WRAP UP NFC EAST PLAY IN PHILADELPHIA"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2018/story/_/id/21816326/maryland-terrapins-wr-dj-moore-entering-nfl-draft",
+          "excerpts": [
+            "> \u2014 Moore II (@Djmoore1\\_) [December 19, 2017](https://twitter.com/Djmoore1_/status/943164219842859008?ref_src=twsrc%5Etfw)\n\nMoore earned first-team All-Big Ten honors and was named the league's Richter-Howard Receiver of the Year after recording 1,033 yards and eight touchdowns on 80 receptions. He led the Big Ten in both yards and receptions and finishes his Maryland career with 146 catches for 2,027 yards and 17 touchdowns."
+          ],
+          "title": "Maryland's D.J. Moore decides to enter NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/panthers-wr-dj-moore-switches-jersey-number-from-no-12-to-no-2",
+          "excerpts": [
+            "\"(It) came about when I was in little league,\" he said. \"It was my first ever real number I had when I won a championship when I was 5 years old.\n\n\"I still have the same exact jersey.\"\n\nMoore, the 24th overall pick in 2018, logged his best season as a pro in 2020, recording a career-high 1,193 yards to go with four touchdowns. He led Carolina in rec. yards and yards per reception (18.1) and ranked second and third in targets (118) and receptions (66), respectively."
+          ],
+          "title": "Panthers WR DJ Moore switches jersey number from No. 12 to No. 2 | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/saints/pf350yloukswwbv4wita.pdf",
+          "excerpts": [
+            "\u2022 Moore has totaled 3,055 receiving yards in his career since entering the NFL in 2018. He owns the franchise record for most receiving yards by a WR through his first three career seasons."
+          ],
+          "title": "Carolina Panthers"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39323360/chicago-bears-dj-moore-eager-build-big-season",
+          "excerpts": [
+            "DJ Moore became just the fifth receiver in Bears history to top 1,300 receiving yards with a career-high 1,364 this season. Quinn Harris/Getty Images"
+          ],
+          "title": "Bears' DJ Moore eager to build on big season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography lists his draft information as 2018, Round 1, Pick 24.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# DJ Moore\n\nBuffalo Bills\n\n* [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills)\n* \\#2\n* Wide Receiver\n\n* HT/WT\n  \n  6' 0\", 213 lbs\n* Birthdate\n  \n  4/14/1997 (29)\n* College\n  \n  [Maryland](https://www.espn.com/college-football/team/_/id/120/maryland-terrapins)\n* Draft Info\n  \n  2018: Rd 1, Pk 24 (CAR)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* REC\n  \n  16\n  \n  Tied-115th\n  \n  YDS\n  \n  260\n  \n  69th\n  \n  TD\n  \n  2\n  \n  Tied-44th\n  \n  AVG\n  \n  16\\.3\n  \n  9th"
+          ],
+          "title": "DJ Moore Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage identifies DJ Moore as a native of Philadelphia, Pennsylvania.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/panthers/mb2b6ppnlf8ozczygxxd.pdf",
+          "excerpts": [
+            "\u2022 Panthers wide receiver DJ Moore is a native of Philadelphia,\n\nPa.\n\n\u2022 Panthers wide receiver Damiere Byrd is a native of Sicklerville,\n\nN.J.\n\n\u2022 Eagles wide receiver Alshon Jeffery is from St."
+          ],
+          "title": "PANTHERS WRAP UP NFC EAST PLAY IN PHILADELPHIA"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states his 2017 first-team All-Big Ten and Receiver of the Year honors, and gives his 80 receptions, 1,033 yards, and eight touchdowns while noting he led the Big Ten in yards and receptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2018/story/_/id/21816326/maryland-terrapins-wr-dj-moore-entering-nfl-draft",
+          "excerpts": [
+            "> \u2014 Moore II (@Djmoore1\\_) [December 19, 2017](https://twitter.com/Djmoore1_/status/943164219842859008?ref_src=twsrc%5Etfw)\n\nMoore earned first-team All-Big Ten honors and was named the league's Richter-Howard Receiver of the Year after recording 1,033 yards and eight touchdowns on 80 receptions. He led the Big Ten in both yards and receptions and finishes his Maryland career with 146 catches for 2,027 yards and 17 touchdowns."
+          ],
+          "title": "Maryland's D.J. Moore decides to enter NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage gives his Maryland career totals: 146 catches, 2,027 yards, and 17 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2018/story/_/id/21816326/maryland-terrapins-wr-dj-moore-entering-nfl-draft",
+          "excerpts": [
+            "> \u2014 Moore II (@Djmoore1\\_) [December 19, 2017](https://twitter.com/Djmoore1_/status/943164219842859008?ref_src=twsrc%5Etfw)\n\nMoore earned first-team All-Big Ten honors and was named the league's Richter-Howard Receiver of the Year after recording 1,033 yards and eight touchdowns on 80 receptions. He led the Big Ten in both yards and receptions and finishes his Maryland career with 146 catches for 2,027 yards and 17 touchdowns."
+          ],
+          "title": "Maryland's D.J. Moore decides to enter NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage quotes Moore explaining that No. 2 was his first Little League number, that he won a championship with it at age 5, and that he still has the jersey.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/panthers-wr-dj-moore-switches-jersey-number-from-no-12-to-no-2",
+          "excerpts": [
+            "\"(It) came about when I was in little league,\" he said. \"It was my first ever real number I had when I won a championship when I was 5 years old.\n\n\"I still have the same exact jersey.\"\n\nMoore, the 24th overall pick in 2018, logged his best season as a pro in 2020, recording a career-high 1,193 yards to go with four touchdowns. He led Carolina in rec. yards and yards per reception (18.1) and ranked second and third in targets (118) and receptions (66), respectively."
+          ],
+          "title": "Panthers WR DJ Moore switches jersey number from No. 12 to No. 2 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage states that Moore had 3,055 career receiving yards through his first three NFL seasons, a Panthers record for a wide receiver.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/saints/pf350yloukswwbv4wita.pdf",
+          "excerpts": [
+            "\u2022 Moore has totaled 3,055 receiving yards in his career since entering the NFL in 2018. He owns the franchise record for most receiving yards by a WR through his first three career seasons."
+          ],
+          "title": "Carolina Panthers"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage says Moore was the fifth receiver in Bears history to top 1,300 receiving yards and records his career-high 1,364 yards in 2023.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39323360/chicago-bears-dj-moore-eager-build-big-season",
+          "excerpts": [
+            "DJ Moore became just the fifth receiver in Bears history to top 1,300 receiving yards with a career-high 1,364 this season. Quinn Harris/Getty Images"
+          ],
+          "title": "Bears' DJ Moore eager to build on big season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

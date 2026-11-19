@@ -1,0 +1,181 @@
+{
+  "run_id": "trun_415f3f698c1f435bb766efae57a6cc33",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 54.9,
+  "input": {
+    "player": "Matthew Stafford",
+    "team": "Los Angeles Rams",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Georgia",
+    "fun_facts": [
+      "Growing up in Dallas, Matthew Stafford once wore a star helmet, a jersey and full pads while trick-or-treating.",
+      "As a kid, Matthew Stafford played on baseball, basketball and football teams.",
+      "At Georgia, Matthew Stafford was a three-year starter, went 3-0 in bowl games and earned All-America honors as a junior.",
+      "Matthew Stafford reached 25,000 career passing yards in 90 games, faster than any quarterback before him at the time.",
+      "Matthew Stafford became the 10th quarterback to pass for 60,000 career yards; he reached the milestone in 223 games, tied for the second-fastest."
+    ],
+    "draft": "2009, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN's player biography explicitly lists Georgia as Matthew Stafford's college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/12483/matthew-stafford",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Matthew Stafford\n\nLos Angeles Rams\n\n* [Los Angeles Rams Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams)\n* \\#9\n* Quarterback QB\n\n* HT/WT\n  \n  6' 3\", 214 lbs\n* Birthdate\n  \n  2/7/1988 (38)\n* College\n  \n  [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nFollow\n\n* HT/WT\n  \n  6' 3\", 214 lbs\n* Birthdate\n  \n  2/7/1988 (38)\n* College\n  \n  [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n* Draft Info\n  \n  2009: Rd 1, Pk 1 (DET)\n* Status\n  \n  Active"
+          ],
+          "title": "Matthew Stafford Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support Stafford's Dallas childhood and trick-or-treating, childhood participation in three sports, and Georgia career. ESPN and NFL passages document his 25,000-yard and 60,000-yard passing milestones.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/detroit-lions/post/_/id/2285/morning-roar-stafford-growing-up-cowboy",
+          "excerpts": [
+            "* [Print](https://www.espn.com/blog/detroit-lions/print?id=2285)\n\n_Good morning and ROOOOAARRRR!!!!_\n\nALLEN PARK, Mich. -- One year, when Matthew Stafford was growing up in Dallas, he picked up a plastic helmet with a star on it, pulled on the jersey over full pads, left his house and went in search of candy.\n\nIt was Halloween. Stafford had the Troy Aikman and Michael Irvin trading cards, the posters on the wall. At the time, he couldn't have known he would be an NFL quarterback. And he couldn't have known he was going to one day face the team he grew up watching.\n\n\"There are so many. They were playing such good football,\" Stafford said."
+          ],
+          "title": "Morning Roar: Stafford growing up Cowboy - ESPN - Detroit Lions Blog- ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/nfcnorth/post/_/id/76506/to-select-few-lions-qb-matthew-stafford-simply-is-our-friend-matthew",
+          "excerpts": [
+            "He met his high school friends as kids on baseball, basketball and football teams. His close college friends were recruited with him to Georgia.\n\nKris Durham (left), Matthew Stafford, Kelly Stafford and Shaun Chapas (bottom). Photo courtesy of Kris Durham\n\nAnd they all say the same thing: Stafford is just a normal dude."
+          ],
+          "title": "Matthew Stafford stays true to himself, loved ones by keeping close - ESPN - NFC North- ESPN"
+        },
+        {
+          "url": "https://www.espn.com/espn/feature/story/_/id/32076314/new-los-angeles-ram-matthew-stafford-ready-win",
+          "excerpts": [
+            "**STAFFORD SCRIBBLES HIS** way through the ballroom, and it ends up becoming an accidental tour of his career. He picks up a University of Georgia helmet. He was a three-year starter for the Bulldogs, a five-star recruit out of Highland Park, Texas, where he was schooled in the art of throwing by his father, John, and where he emulated John Elway, Troy Aikman and Brett Favre. He went 3-0 in bowl games and was All-America as a college junior. There's a little note on the helmet requesting that he sign it with his career statistics: 7,731 yards and"
+          ],
+          "title": "New Los Angeles Ram Matthew Stafford is ready to win"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/14358039/detroit-lions-qb-matthew-stafford-fastest-ever-25000-passing-yards",
+          "excerpts": [
+            "LOUIS -- [Matthew Stafford](https://www.espn.com/nfl/player/_/id/12483/matthew-stafford) has once again accomplished something faster than any quarterback in NFL history.\n\nWith a 5-yard pass to [Theo Riddick](https://www.espn.com/nfl/player/_/id/15994/theo-riddick) in the third quarter of the Lions' 21-14 loss to the St. Louis Rams, Stafford eclipsed 25,000 passing yards in 90 career games, fewer than any quarterback before him.\n\nIn Sunday's loss to the Rams, Lions quarterback Matt Stafford eclipsed 25,000 passing yards in just his 90th career game -- faster than any quarterback in the NFL history. AP Photo/Tom Gannam\n\nFormer Miami Dolphins quarterback Dan Marino was the previous owner of the mark, reaching 25,000 yards in 92 games. Stafford also reached 20,000 yards faster than any other quarterback, hitting the milestone in 71 games."
+          ],
+          "title": "Lions QB Matthew Stafford reaches 25,000 yards passing in 90 games - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/rams-matthew-stafford-becomes-10th-player-to-pass-for-60-000-career-yards",
+          "excerpts": [
+            "Los Angeles Rams quarterback [Matthew Stafford](https://www.nfl.com/players/matthew-stafford) joined elite company in the first game of his 17th NFL season.",
+            "Entering Sunday, Stafford stood at 59,809 career passing yards, needing 191 to hit 60K. Stafford is now at 60,054, having finished the game with 245 yards -- the final 24 going to Nacua to clinch the win in the closing moments.\n\nReaching 60K in his 223rd career game, Stafford ties Matt Ryan as the second-fastest player to reach the milestone, according to NFL Research."
+          ],
+          "title": "Rams' Matthew Stafford becomes 10th player to pass for 60,000 career yards | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN's player biography states that Stafford was selected in 2009, round 1, pick 1, by Detroit.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/12483/matthew-stafford",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Matthew Stafford\n\nLos Angeles Rams\n\n* [Los Angeles Rams Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams)\n* \\#9\n* Quarterback QB\n\n* HT/WT\n  \n  6' 3\", 214 lbs\n* Birthdate\n  \n  2/7/1988 (38)\n* College\n  \n  [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nFollow\n\n* HT/WT\n  \n  6' 3\", 214 lbs\n* Birthdate\n  \n  2/7/1988 (38)\n* College\n  \n  [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n* Draft Info\n  \n  2009: Rd 1, Pk 1 (DET)\n* Status\n  \n  Active"
+          ],
+          "title": "Matthew Stafford Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Stafford was growing up in Dallas when he wore a star helmet, jersey and full pads to look for Halloween candy.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/detroit-lions/post/_/id/2285/morning-roar-stafford-growing-up-cowboy",
+          "excerpts": [
+            "* [Print](https://www.espn.com/blog/detroit-lions/print?id=2285)\n\n_Good morning and ROOOOAARRRR!!!!_\n\nALLEN PARK, Mich. -- One year, when Matthew Stafford was growing up in Dallas, he picked up a plastic helmet with a star on it, pulled on the jersey over full pads, left his house and went in search of candy.\n\nIt was Halloween. Stafford had the Troy Aikman and Michael Irvin trading cards, the posters on the wall. At the time, he couldn't have known he would be an NFL quarterback. And he couldn't have known he was going to one day face the team he grew up watching.\n\n\"There are so many. They were playing such good football,\" Stafford said."
+          ],
+          "title": "Morning Roar: Stafford growing up Cowboy - ESPN - Detroit Lions Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Stafford met childhood friends through baseball, basketball and football teams.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nfcnorth/post/_/id/76506/to-select-few-lions-qb-matthew-stafford-simply-is-our-friend-matthew",
+          "excerpts": [
+            "He met his high school friends as kids on baseball, basketball and football teams. His close college friends were recruited with him to Georgia.\n\nKris Durham (left), Matthew Stafford, Kelly Stafford and Shaun Chapas (bottom). Photo courtesy of Kris Durham\n\nAnd they all say the same thing: Stafford is just a normal dude."
+          ],
+          "title": "Matthew Stafford stays true to himself, loved ones by keeping close - ESPN - NFC North- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Stafford as a three-year Georgia starter, a 3-0 bowl-game player and an All-American as a college junior.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/espn/feature/story/_/id/32076314/new-los-angeles-ram-matthew-stafford-ready-win",
+          "excerpts": [
+            "**STAFFORD SCRIBBLES HIS** way through the ballroom, and it ends up becoming an accidental tour of his career. He picks up a University of Georgia helmet. He was a three-year starter for the Bulldogs, a five-star recruit out of Highland Park, Texas, where he was schooled in the art of throwing by his father, John, and where he emulated John Elway, Troy Aikman and Brett Favre. He went 3-0 in bowl games and was All-America as a college junior. There's a little note on the helmet requesting that he sign it with his career statistics: 7,731 yards and"
+          ],
+          "title": "New Los Angeles Ram Matthew Stafford is ready to win"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage states Stafford reached 25,000 passing yards in 90 games, faster than any quarterback before him at that time.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/14358039/detroit-lions-qb-matthew-stafford-fastest-ever-25000-passing-yards",
+          "excerpts": [
+            "LOUIS -- [Matthew Stafford](https://www.espn.com/nfl/player/_/id/12483/matthew-stafford) has once again accomplished something faster than any quarterback in NFL history.\n\nWith a 5-yard pass to [Theo Riddick](https://www.espn.com/nfl/player/_/id/15994/theo-riddick) in the third quarter of the Lions' 21-14 loss to the St. Louis Rams, Stafford eclipsed 25,000 passing yards in 90 career games, fewer than any quarterback before him.\n\nIn Sunday's loss to the Rams, Lions quarterback Matt Stafford eclipsed 25,000 passing yards in just his 90th career game -- faster than any quarterback in the NFL history. AP Photo/Tom Gannam\n\nFormer Miami Dolphins quarterback Dan Marino was the previous owner of the mark, reaching 25,000 yards in 92 games. Stafford also reached 20,000 yards faster than any other quarterback, hitting the milestone in 71 games."
+          ],
+          "title": "Lions QB Matthew Stafford reaches 25,000 yards passing in 90 games - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL passage states Stafford became the 10th player to pass 60,000 career yards and reached the mark in his 223rd game, tying Matt Ryan as the second-fastest.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/rams-matthew-stafford-becomes-10th-player-to-pass-for-60-000-career-yards",
+          "excerpts": [
+            "Los Angeles Rams quarterback [Matthew Stafford](https://www.nfl.com/players/matthew-stafford) joined elite company in the first game of his 17th NFL season.",
+            "Entering Sunday, Stafford stood at 59,809 career passing yards, needing 191 to hit 60K. Stafford is now at 60,054, having finished the game with 245 yards -- the final 24 going to Nacua to clinch the win in the closing moments.\n\nReaching 60K in his 223rd career game, Stafford ties Matt Ryan as the second-fastest player to reach the milestone, according to NFL Research."
+          ],
+          "title": "Rams' Matthew Stafford becomes 10th player to pass for 60,000 career yards | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

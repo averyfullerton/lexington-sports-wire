@@ -1,0 +1,182 @@
+{
+  "run_id": "trun_415f3f698c1f435b8990af927a80796d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 78.9,
+  "input": {
+    "player": "Chris Johnson",
+    "team": "Miami Dolphins",
+    "position": "Cornerback",
+    "season": 2026
+  },
+  "content": {
+    "college": "San Diego State",
+    "fun_facts": [
+      "Chris Johnson\u2019s hometown is Eastvale, California.",
+      "At Eleanor Roosevelt High School, Chris Johnson was a two-way standout: as a senior he had 62 tackles and 3 interceptions on defense, plus 342 receiving yards and 6 touchdowns.",
+      "At San Diego State, Chris Johnson played in 47 games, made six interceptions, and returned two of them for touchdowns.",
+      "Chris Johnson once returned an interception 97 yards for a touchdown in San Diego State\u2019s 34\u20130 win over previously unbeaten California.",
+      "In 2025, Chris Johnson was a second-team All-American and co-Mountain West Defensive Player of the Year, and a Jim Thorpe Award semifinalist.",
+      "Chris Johnson\u2019s first career interception came against Detroit in Week 9; it marked the first time in Dolphins history that three rookies each recorded an interception in the same season."
+    ],
+    "draft": "2026, round 1, pick 27"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists San Diego State as Chris Johnson\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chris-johnson-8",
+          "excerpts": [
+            "[video ### Chris Johnson, the No. 27 pick of 2026 draft, snags his first career INT against Jared Goff Miami Dolphins cornerback Chris Johnson intercepts Detroit Lions quarterback Jared"
+          ],
+          "title": "Chris Johnson Stats, News and Video - CB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile identifies Johnson\u2019s hometown; the Dolphins player bio gives his high-school statistics, college career totals and honors; ESPN\u2019s recap reports the 97-yard interception return; and the Dolphins release records the rookie interception milestone.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chris-johnson-8",
+          "excerpts": [
+            "[video ### Chris Johnson, the No. 27 pick of 2026 draft, snags his first career INT against Jared Goff Miami Dolphins cornerback Chris Johnson intercepts Detroit Lions quarterback Jared"
+          ],
+          "title": "Chris Johnson Stats, News and Video - CB | NFL.com"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/abwgys8pjqfnd3linyme",
+          "excerpts": [
+            "**HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.):**\n\n**SENIOR:** 62 tackles (41 solo), 3 interceptions and 18 passes defensed; 16 receptions for 342 yards (22.0 avg.) and 6 TDs.",
+            "Miami Dolphins Chris Johnson 2026 1\n\n**NFL CAREER**\n\n**TRANSACTIONS:**\n\n1st-round-pick (27th overall) by Miami in the 2026 NFL Draft.\n\n**BEFORE THE NFL**\n\n**COLLEGE (SAN DIEGO STATE):**\n\n4-year letterman (2022-25) and 2-year starter.\n\n**CAREER:** Played in 47 games with 23 starts; 152 tackles (105 solo), 1.0 sack, 6 interceptions, 20 passes defensed and 5 forced fumbles; 2 interceptions returned for TDs; 2 kick returns for 78 yards (39.0 avg.).\n\n**SENIOR (2025):** Started 11 games; 49 tackles (36 solo), 1.0 sack, 4 interceptions, 13 passes defensed and 1 forced fumble; 2 interceptions returned for TDs.\n\n2nd-team All-American. Co-Mountain West Defensive Player of the Year. 1st-team All-Mountain West. Jim Thorpe Award semifinalist."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: BEFORE THE NFL COLLEGE (SAN DIEGO STATE): HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.): OFF THE"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401754540",
+          "excerpts": [
+            "* [Play Fantasy Football](https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2025)\n\n# Johnson's 97-yard pick-6 highlights Aztecs' 34-0 rout of previously undefeated Cal\n\n* * *\n\nBy AP\n\nSep 21, 2025, 02:47 am\n\nFacebook Facebook Messenger Twitter Email\n\nSAN DIEGO -- \u2014 [Chris Johnson](http://www.espn.com/college-football/player/_/id/4869579/chris-johnson) returned an interception 97 yards for a touchdown and [Dwayne McDougle](http://www.espn.com/college-football/player/_/id/5084740/dwayne-mcdougle) had a 35-yard fumble return for a score as San Diego State stunned previously undefeated California 34--0 on Saturday night.\n\n[Jayden Denegal](http://www.espn.com/college-football/player/_/id/4685311/jayden-denegal) hit [Jordan Napier](http://www.espn.com/college-football/player/_/id/4918108/jordan-napier)"
+          ],
+          "title": "San Diego State 34-0 California (Sep 20, 2025) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/dt1f5e2tyjtqfhoo4kpu",
+          "excerpts": [
+            "Rookie CB Chris Johnson joined them with his first career interception in Week 9 vs. Detroit, marking the first time in team history that three rookies have each recorded an interception in the same season."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Dolphins\u2019 player bio states that Miami selected Chris Johnson with the 27th overall pick in the 2026 NFL Draft and identifies him as a first-round pick.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/abwgys8pjqfnd3linyme",
+          "excerpts": [
+            "Miami Dolphins Chris Johnson 2026 1\n\n**NFL CAREER**\n\n**TRANSACTIONS:**\n\n1st-round-pick (27th overall) by Miami in the 2026 NFL Draft.\n\n**BEFORE THE NFL**\n\n**COLLEGE (SAN DIEGO STATE):**\n\n4-year letterman (2022-25) and 2-year starter.\n\n**CAREER:** Played in 47 games with 23 starts; 152 tackles (105 solo), 1.0 sack, 6 interceptions, 20 passes defensed and 5 forced fumbles; 2 interceptions returned for TDs; 2 kick returns for 78 yards (39.0 avg.).\n\n**SENIOR (2025):** Started 11 games; 49 tackles (36 solo), 1.0 sack, 4 interceptions, 13 passes defensed and 1 forced fumble; 2 interceptions returned for TDs.\n\n2nd-team All-American. Co-Mountain West Defensive Player of the Year. 1st-team All-Mountain West. Jim Thorpe Award semifinalist."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: BEFORE THE NFL COLLEGE (SAN DIEGO STATE): HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.): OFF THE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL profile lists Eastvale, California, as Chris Johnson\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chris-johnson-8",
+          "excerpts": [
+            "[video ### Chris Johnson, the No. 27 pick of 2026 draft, snags his first career INT against Jared Goff Miami Dolphins cornerback Chris Johnson intercepts Detroit Lions quarterback Jared"
+          ],
+          "title": "Chris Johnson Stats, News and Video - CB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Dolphins bio gives his senior-year Eleanor Roosevelt High School defensive and receiving statistics.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/abwgys8pjqfnd3linyme",
+          "excerpts": [
+            "**HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.):**\n\n**SENIOR:** 62 tackles (41 solo), 3 interceptions and 18 passes defensed; 16 receptions for 342 yards (22.0 avg.) and 6 TDs."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: BEFORE THE NFL COLLEGE (SAN DIEGO STATE): HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.): OFF THE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Dolphins bio states that he played in 47 games at San Diego State, recorded six interceptions, and returned two for touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/abwgys8pjqfnd3linyme",
+          "excerpts": [
+            "Miami Dolphins Chris Johnson 2026 1\n\n**NFL CAREER**\n\n**TRANSACTIONS:**\n\n1st-round-pick (27th overall) by Miami in the 2026 NFL Draft.\n\n**BEFORE THE NFL**\n\n**COLLEGE (SAN DIEGO STATE):**\n\n4-year letterman (2022-25) and 2-year starter.\n\n**CAREER:** Played in 47 games with 23 starts; 152 tackles (105 solo), 1.0 sack, 6 interceptions, 20 passes defensed and 5 forced fumbles; 2 interceptions returned for TDs; 2 kick returns for 78 yards (39.0 avg.).\n\n**SENIOR (2025):** Started 11 games; 49 tackles (36 solo), 1.0 sack, 4 interceptions, 13 passes defensed and 1 forced fumble; 2 interceptions returned for TDs.\n\n2nd-team All-American. Co-Mountain West Defensive Player of the Year. 1st-team All-Mountain West. Jim Thorpe Award semifinalist."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: BEFORE THE NFL COLLEGE (SAN DIEGO STATE): HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.): OFF THE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game recap says Chris Johnson returned an interception 97 yards for a touchdown as San Diego State defeated previously unbeaten California 34\u20130.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401754540",
+          "excerpts": [
+            "* [Play Fantasy Football](https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2025)\n\n# Johnson's 97-yard pick-6 highlights Aztecs' 34-0 rout of previously undefeated Cal\n\n* * *\n\nBy AP\n\nSep 21, 2025, 02:47 am\n\nFacebook Facebook Messenger Twitter Email\n\nSAN DIEGO -- \u2014 [Chris Johnson](http://www.espn.com/college-football/player/_/id/4869579/chris-johnson) returned an interception 97 yards for a touchdown and [Dwayne McDougle](http://www.espn.com/college-football/player/_/id/5084740/dwayne-mcdougle) had a 35-yard fumble return for a score as San Diego State stunned previously undefeated California 34--0 on Saturday night.\n\n[Jayden Denegal](http://www.espn.com/college-football/player/_/id/4685311/jayden-denegal) hit [Jordan Napier](http://www.espn.com/college-football/player/_/id/4918108/jordan-napier)"
+          ],
+          "title": "San Diego State 34-0 California (Sep 20, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Dolphins bio lists his 2025 second-team All-American and co-Mountain West Defensive Player of the Year honors, as well as his Jim Thorpe Award semifinalist status.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/abwgys8pjqfnd3linyme",
+          "excerpts": [
+            "Miami Dolphins Chris Johnson 2026 1\n\n**NFL CAREER**\n\n**TRANSACTIONS:**\n\n1st-round-pick (27th overall) by Miami in the 2026 NFL Draft.\n\n**BEFORE THE NFL**\n\n**COLLEGE (SAN DIEGO STATE):**\n\n4-year letterman (2022-25) and 2-year starter.\n\n**CAREER:** Played in 47 games with 23 starts; 152 tackles (105 solo), 1.0 sack, 6 interceptions, 20 passes defensed and 5 forced fumbles; 2 interceptions returned for TDs; 2 kick returns for 78 yards (39.0 avg.).\n\n**SENIOR (2025):** Started 11 games; 49 tackles (36 solo), 1.0 sack, 4 interceptions, 13 passes defensed and 1 forced fumble; 2 interceptions returned for TDs.\n\n2nd-team All-American. Co-Mountain West Defensive Player of the Year. 1st-team All-Mountain West. Jim Thorpe Award semifinalist."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: BEFORE THE NFL COLLEGE (SAN DIEGO STATE): HIGH SCHOOL (ELEANOR ROOSEVELT HS - EASTVALE, CALIF.): OFF THE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Dolphins release identifies his first career interception as coming against Detroit in Week 9 and says it was the first season in team history with three rookies each recording an interception.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/dt1f5e2tyjtqfhoo4kpu",
+          "excerpts": [
+            "Rookie CB Chris Johnson joined them with his first career interception in Week 9 vs. Detroit, marking the first time in team history that three rookies have each recorded an interception in the same season."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

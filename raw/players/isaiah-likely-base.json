@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435b8368aa628b40189d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 222.2,
+  "input": {
+    "player": "Isaiah Likely",
+    "team": "New York Giants",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Coastal Carolina",
+    "fun_facts": [
+      "Isaiah Likely\u2019s hometown is Everett, Massachusetts, and he attended Everett High School.",
+      "Isaiah Likely is listed at 6 feet 4 inches tall.",
+      "In a 2021 game against Arkansas State, Isaiah Likely caught eight passes for 232 yards and four touchdowns.",
+      "One of those catches was a school-record 99-yard touchdown.",
+      "Through nine games with the Giants in 2026, Isaiah Likely had 55 catches, 575 receiving yards and seven touchdowns."
+    ],
+    "draft": "2022, round 4, pick 139"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The profile lists Coastal Carolina as Isaiah Likely\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/L/LikeIs00.htm",
+          "excerpts": [
+            "**College** : [Coastal Carolina](https://www.pro-football-reference.com/schools/coastalcarolina/) ( [College Stats](https://www.sports-reference.com/cfb/players/isaiah-likely-1.html) )"
+          ],
+          "title": "Isaiah Likely Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile and recruiting record give Isaiah Likely\u2019s hometown and high school; ESPN lists his height. ESPN\u2019s account of the Arkansas State game gives his receiving totals and identifies the 99-yard catch as a school record. ESPN\u2019s season update reports his 2026 Giants statistics through nine games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/231197/isaiah-likely",
+          "excerpts": [
+            "# Isaiah Likely\n\n* \n\n6-3, 220 | Class of 2018\n\n* Hometown [Everett, Mass.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/24/hometown/5712/class/2018)\n* School [Everett High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/4332)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2018)\n* Status Signed [Coastal Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/324) 12/12/2017\n\n#### Scout Grade\n\n* 71\n*\n\n|218 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2018/view/position) |\n| --- |"
+          ],
+          "title": "Isaiah Likely Wide Receiver Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361050/isaiah-likely",
+          "excerpts": [
+            "* LAC\n  \n  0-8\n* BAL\n  \n  4-5\n\nTues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Isaiah Likely\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)\n* \\#9\n* Tight End TE\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n* Draft Info\n  \n  2022: Rd 4, Pk 139 (BAL)\n* Status"
+          ],
+          "title": "Isaiah Likely Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32390225/college-football-2021-midseason-all-america-team",
+          "excerpts": [
+            "Likely's stat line through six games this season (27 catches, 513 yards, eight touchdowns) looks a lot like Florida's Kyle Pitts a year ago (29 catches, 513 yards, 11 touchdowns). In the undefeated Chanticleers' 52-20 victory at Arkansas State on Oct. 7, Likely had eight catches for 232 yards and four touchdowns, including a school-record 99-yarder on Coastal Carolina's second play from scrimmage."
+          ],
+          "title": "College football's 2021 midseason All-America team - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4361050/isaiah-likely",
+          "excerpts": [
+            "The veteran tight end now has five double-digit target tallies on the campaign, and Thursday's production, which included a 66-yard catch-and-run touchdown in the third quarter, pushed his season line to a robust 55-575-7 line across nine games."
+          ],
+          "title": "Isaiah Likely - New York Giants Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN player profile lists Isaiah Likely\u2019s draft information as 2022, round 4, pick 139.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361050/isaiah-likely",
+          "excerpts": [
+            "* LAC\n  \n  0-8\n* BAL\n  \n  4-5\n\nTues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Isaiah Likely\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)\n* \\#9\n* Tight End TE\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n* Draft Info\n  \n  2022: Rd 4, Pk 139 (BAL)\n* Status"
+          ],
+          "title": "Isaiah Likely Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile lists Everett, Massachusetts, as Isaiah Likely\u2019s hometown and Everett High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/231197/isaiah-likely",
+          "excerpts": [
+            "# Isaiah Likely\n\n* \n\n6-3, 220 | Class of 2018\n\n* Hometown [Everett, Mass.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/24/hometown/5712/class/2018)\n* School [Everett High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/4332)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2018)\n* Status Signed [Coastal Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/324) 12/12/2017\n\n#### Scout Grade\n\n* 71\n*\n\n|218 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2018/view/position) |\n| --- |"
+          ],
+          "title": "Isaiah Likely Wide Receiver Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN profile lists Isaiah Likely at 6 feet 4 inches tall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361050/isaiah-likely",
+          "excerpts": [
+            "* LAC\n  \n  0-8\n* BAL\n  \n  4-5\n\nTues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Isaiah Likely\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)\n* \\#9\n* Tight End TE\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 241 lbs\n* Birthdate\n  \n  4/18/2000 (26)\n* College\n  \n  [Coast Carolina](https://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers)\n* Draft Info\n  \n  2022: Rd 4, Pk 139 (BAL)\n* Status"
+          ],
+          "title": "Isaiah Likely Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that Isaiah Likely had eight catches for 232 yards and four touchdowns in Coastal Carolina\u2019s 2021 win at Arkansas State.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32390225/college-football-2021-midseason-all-america-team",
+          "excerpts": [
+            "Likely's stat line through six games this season (27 catches, 513 yards, eight touchdowns) looks a lot like Florida's Kyle Pitts a year ago (29 catches, 513 yards, 11 touchdowns). In the undefeated Chanticleers' 52-20 victory at Arkansas State on Oct. 7, Likely had eight catches for 232 yards and four touchdowns, including a school-record 99-yarder on Coastal Carolina's second play from scrimmage."
+          ],
+          "title": "College football's 2021 midseason All-America team - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The same ESPN account says one of Isaiah Likely\u2019s catches was a school-record 99-yard touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32390225/college-football-2021-midseason-all-america-team",
+          "excerpts": [
+            "Likely's stat line through six games this season (27 catches, 513 yards, eight touchdowns) looks a lot like Florida's Kyle Pitts a year ago (29 catches, 513 yards, 11 touchdowns). In the undefeated Chanticleers' 52-20 victory at Arkansas State on Oct. 7, Likely had eight catches for 232 yards and four touchdowns, including a school-record 99-yarder on Coastal Carolina's second play from scrimmage."
+          ],
+          "title": "College football's 2021 midseason All-America team - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports Isaiah Likely\u2019s 2026 season line with the Giants as 55 catches, 575 yards and seven touchdowns across nine games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4361050/isaiah-likely",
+          "excerpts": [
+            "The veteran tight end now has five double-digit target tallies on the campaign, and Thursday's production, which included a 66-yard catch-and-run touchdown in the third quarter, pushed his season line to a robust 55-575-7 line across nine games."
+          ],
+          "title": "Isaiah Likely - New York Giants Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

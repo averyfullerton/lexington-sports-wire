@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_415f3f698c1f435b8aa5621d8f9ebdbf",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 145.2,
+  "input": {
+    "player": "Deshaun Watson",
+    "team": "Cleveland Browns",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Clemson",
+    "fun_facts": [
+      "As a high-schooler in Gainesville, Deshaun Watson got a ball-boy job with the Falcons through the Boys & Girls Club. He helped with practice balls and equipment and folded towels.",
+      "In his first start at Clemson, true freshman Deshaun Watson threw for 435 yards and a school-record six touchdowns; those six TD passes also set an ACC record for a quarterback making his starting debut.",
+      "Deshaun Watson led Clemson to a 32\u20133 record as a starter and the 2016 national championship, winning it with a touchdown pass on his final college throw.",
+      "In the national championship game against Alabama, Deshaun Watson accounted for 483 total yards and four touchdowns.",
+      "Deshaun Watson won the Manning Award as college football\u2019s top quarterback and set ACC records in 2015 with 5,209 yards of total offense and 47 total touchdowns."
+    ],
+    "draft": "2017, round 1, pick 12"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography lists Clemson as Deshaun Watson\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3122840/deshaun-watson",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Deshaun Watson\n\nCleveland Browns\n\n* [Cleveland Browns](https://www.espn.com/nfl/team/_/name/cle/cleveland-browns)\n* \\#4\n* Quarterback\n\n* HT/WT\n  \n  6' 3\", 223 lbs\n* Birthdate\n  \n  9/14/1995 (31)\n* College\n  \n  [Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers)\n* Draft Info\n  \n  2017: Rd 1, Pk 12 (HOU)\n* Status"
+          ],
+          "title": "Deshaun Watson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support each fact: Watson\u2019s high-school ball-boy work; his record-setting first Clemson start; Clemson\u2019s 32\u20133 record and championship-winning final college pass; his title-game total yards and touchdowns; and his Manning Award and ACC records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/houston-texans/post/_/id/24123/how-deshaun-watsons-nfl-experience-began-as-ball-boy-for-the-falcons",
+          "excerpts": [
+            "He picked up balls during practice, took care of the equipment and folded towels, among other things.",
+            "\u201cI wanted to make sure they were getting the right balls thrown to them and everything like that.\u201d But those nerves went away quickly, and Watson \u201cwas just cutting it loose.\"\n\n\u201cThey were like, \u2018OK, now I see what all these schools are talking about,\u2019\u201d Watson said. \u201cIt became fun, and we became cool.\u2019\u201d\n\nWatson got the job through the Boys & Girls Club in Gainesville, one of a few high school students chosen to take part in the program that was started by Falcons owner Arthur Blank.",
+            "\u201cHe didn\u2019t have to give me anything, but he did.\u201d\n\nDuring his time with the Falcons, Watson was winning games for Gainesville High School, where he set school records and won the state championship"
+          ],
+          "title": "Falcons saw nervous ball boy Deshaun Watson evolve into QB star - ESPN - Houston Texans Blog- ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/clemson-s-deshaun-watson-throws-for-6-tds-in-first-career-start-0ap3000000401438",
+          "excerpts": [
+            "True freshman quarterback Deshaun Watson made his first start for Clemson on Saturday, and he set the bar quite high.\n\nWatson threw for 435 yards and a school-record six touchdowns as the Tigers whipped North Carolina, 50-35. The six TD passes also set an ACC record for any league quarterback making his starting debut.\n\nHe finished 27-of-36 (75 percent), and six of his completions went to sophomore wide receiver [Mike Williams](https://www.nfl.com/player/mikewilliams/2508048/profile) ; those receptions were good for 122 yards and two touchdowns. Clemson finished with 528 total yards and was 10-of-18 on third-down conversions."
+          ],
+          "title": "Clemson's Deshaun Watson throws for 6 TDs in first career start | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28440774/natural-born-winner-houston-texans-deshaun-watson-thrives-pressure",
+          "excerpts": [
+            "In two-plus seasons as the starter, Watson led Clemson to a 32-3 record and its first national championship in 35 years in the 2016 season. The Tigers rallied to beat Alabama on Watson's game-winning touchdown pass on his final college throw.\n\nSwinney said then that NFL teams that passed on Watson in the draft would come to regret it."
+          ],
+          "title": "Natural-born winner: Texans' Deshaun Watson 'thrives on pressure' - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40011094/nfl-national-champions-first-round-quarterback-draft",
+          "excerpts": [
+            "## [Deshaun Watson](https://www.espn.com/nfl/player/_/id/3122840/deshaun-watson) , [Houston Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n**Draft:** 2017 **Pick:** No. 12\n\nWatson had a key role in the [Clemson Tigers](https://www.espn.com/college-football/team/_/id/228/clemson-tigers) ending their 35-year national championship drought.\n\nHe accounted for 5,222 total yards and 50 touchdowns as Clemson finished 14-1. Against Alabama in the national title game, Watson had 483 total yards and four touchdowns.\n\nThe Texans selected Watson at No. 12 after trading up from No. 25.\n\n* * *\n\n## Cam Newton, [Carolina Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n\n**Draft:** 2011 **Pick:** No. 1"
+          ],
+          "title": "2024 NFL draft: QBs taken in first round after leaving college on top - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/clemson-s-deshaun-watson-wins-manning-award-as-top-qb-0ap3000000622429",
+          "excerpts": [
+            "Three days after showing the nation why he's the most dynamic quarterback in college football, Clemson quarterback Deshaun Watson received the hardware to prove it.\n\nThe Tigers' sophomore has won the Manning Award, the only major award to withhold its results until after the postseason, as CFB's top quarterback. Watson piled up 478 yards of total offense against Alabama in the College Football Playoff title game on Monday night, a 45-40 loss for the Tigers.\n\n\"We are honored to present this year's Manning Award to Deshaun Watson. Deshaun led his team to a perfect regular season and then an impressive win in the Playoff Semifinal before his 478-yard",
+            "For the year, the sophomore threw for 4,104 yards with 35 touchdowns and 13 interceptions, and set ACC records for total offense (5,209) and total touchdowns (47)."
+          ],
+          "title": "Clemson's Deshaun Watson wins Manning Award as top QB | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography gives his draft information as 2017, round 1, pick 12.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3122840/deshaun-watson",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Deshaun Watson\n\nCleveland Browns\n\n* [Cleveland Browns](https://www.espn.com/nfl/team/_/name/cle/cleveland-browns)\n* \\#4\n* Quarterback\n\n* HT/WT\n  \n  6' 3\", 223 lbs\n* Birthdate\n  \n  9/14/1995 (31)\n* College\n  \n  [Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers)\n* Draft Info\n  \n  2017: Rd 1, Pk 12 (HOU)\n* Status"
+          ],
+          "title": "Deshaun Watson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Watson worked as a ball boy, helping with balls and equipment and folding towels, and that he got the job through the Boys & Girls Club as a high-school student.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/houston-texans/post/_/id/24123/how-deshaun-watsons-nfl-experience-began-as-ball-boy-for-the-falcons",
+          "excerpts": [
+            "He picked up balls during practice, took care of the equipment and folded towels, among other things.",
+            "\u201cI wanted to make sure they were getting the right balls thrown to them and everything like that.\u201d But those nerves went away quickly, and Watson \u201cwas just cutting it loose.\"\n\n\u201cThey were like, \u2018OK, now I see what all these schools are talking about,\u2019\u201d Watson said. \u201cIt became fun, and we became cool.\u2019\u201d\n\nWatson got the job through the Boys & Girls Club in Gainesville, one of a few high school students chosen to take part in the program that was started by Falcons owner Arthur Blank.",
+            "\u201cHe didn\u2019t have to give me anything, but he did.\u201d\n\nDuring his time with the Falcons, Watson was winning games for Gainesville High School, where he set school records and won the state championship"
+          ],
+          "title": "Falcons saw nervous ball boy Deshaun Watson evolve into QB star - ESPN - Houston Texans Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL.com account says Watson was a true freshman in his first Clemson start, threw for 435 yards and a school-record six touchdowns, and set an ACC record for a quarterback making his starting debut.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/clemson-s-deshaun-watson-throws-for-6-tds-in-first-career-start-0ap3000000401438",
+          "excerpts": [
+            "True freshman quarterback Deshaun Watson made his first start for Clemson on Saturday, and he set the bar quite high.\n\nWatson threw for 435 yards and a school-record six touchdowns as the Tigers whipped North Carolina, 50-35. The six TD passes also set an ACC record for any league quarterback making his starting debut.\n\nHe finished 27-of-36 (75 percent), and six of his completions went to sophomore wide receiver [Mike Williams](https://www.nfl.com/player/mikewilliams/2508048/profile) ; those receptions were good for 122 yards and two touchdowns. Clemson finished with 528 total yards and was 10-of-18 on third-down conversions."
+          ],
+          "title": "Clemson's Deshaun Watson throws for 6 TDs in first career start | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states Clemson went 32\u20133 with Watson as starter, won its first national championship in 35 years in the 2016 season, and won with his touchdown pass on his final college throw.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28440774/natural-born-winner-houston-texans-deshaun-watson-thrives-pressure",
+          "excerpts": [
+            "In two-plus seasons as the starter, Watson led Clemson to a 32-3 record and its first national championship in 35 years in the 2016 season. The Tigers rallied to beat Alabama on Watson's game-winning touchdown pass on his final college throw.\n\nSwinney said then that NFL teams that passed on Watson in the draft would come to regret it."
+          ],
+          "title": "Natural-born winner: Texans' Deshaun Watson 'thrives on pressure' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage reports Watson had 483 total yards and four touchdowns against Alabama in the national title game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40011094/nfl-national-champions-first-round-quarterback-draft",
+          "excerpts": [
+            "## [Deshaun Watson](https://www.espn.com/nfl/player/_/id/3122840/deshaun-watson) , [Houston Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n**Draft:** 2017 **Pick:** No. 12\n\nWatson had a key role in the [Clemson Tigers](https://www.espn.com/college-football/team/_/id/228/clemson-tigers) ending their 35-year national championship drought.\n\nHe accounted for 5,222 total yards and 50 touchdowns as Clemson finished 14-1. Against Alabama in the national title game, Watson had 483 total yards and four touchdowns.\n\nThe Texans selected Watson at No. 12 after trading up from No. 25.\n\n* * *\n\n## Cam Newton, [Carolina Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n\n**Draft:** 2011 **Pick:** No. 1"
+          ],
+          "title": "2024 NFL draft: QBs taken in first round after leaving college on top - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Watson won the Manning Award as college football\u2019s top quarterback and set ACC records for total offense (5,209) and total touchdowns (47).",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/clemson-s-deshaun-watson-wins-manning-award-as-top-qb-0ap3000000622429",
+          "excerpts": [
+            "Three days after showing the nation why he's the most dynamic quarterback in college football, Clemson quarterback Deshaun Watson received the hardware to prove it.\n\nThe Tigers' sophomore has won the Manning Award, the only major award to withhold its results until after the postseason, as CFB's top quarterback. Watson piled up 478 yards of total offense against Alabama in the College Football Playoff title game on Monday night, a 45-40 loss for the Tigers.\n\n\"We are honored to present this year's Manning Award to Deshaun Watson. Deshaun led his team to a perfect regular season and then an impressive win in the Playoff Semifinal before his 478-yard",
+            "For the year, the sophomore threw for 4,104 yards with 35 touchdowns and 13 interceptions, and set ACC records for total offense (5,209) and total touchdowns (47)."
+          ],
+          "title": "Clemson's Deshaun Watson wins Manning Award as top QB | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

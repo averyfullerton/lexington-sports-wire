@@ -1,0 +1,330 @@
+{
+  "run_id": "trun_1714e31eeb204d3286c3ca64674c7327",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 135.6,
+  "input": {
+    "away_team": "Cincinnati Bengals",
+    "home_team": "Washington Commanders",
+    "game_date": "2026-11-23",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "7-2",
+    "away_team": "Cincinnati Bengals",
+    "storyline": "Cincinnati enters atop the AFC North at 7-2, while Washington is third in the NFC East at 3-5-1 after a 24-21 win over the Giants. Washington\u2019s win kept its NFC East title hopes alive, giving this matchup division-race stakes for both teams.",
+    "matchup_notes": [
+      "Cincinnati beat Pittsburgh 38-18 in Week 10, moving into sole possession of first place in the AFC North.",
+      "The Bengals have won five straight after starting 2-2 and scored at least 30 points in all five wins.",
+      "Washington beat the Giants 24-21 in Week 10; the win improved its record to 3-5-1 and kept it in contention in the NFC East.",
+      "Washington\u2019s defense has forced six turnovers in its past three games combined."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,795 passing yards, 27 passing TD, 6 INT",
+        "team": "Cincinnati Bengals",
+        "name": "Joe Burrow"
+      },
+      {
+        "stat_line": "64 receptions, 878 receiving yards, 7 TD",
+        "team": "Cincinnati Bengals",
+        "name": "Ja\u2019Marr Chase"
+      },
+      {
+        "stat_line": "36 receptions, 386 receiving yards, 6 TD",
+        "team": "Washington Commanders",
+        "name": "Stefon Diggs"
+      }
+    ],
+    "home_record": "3-5-1",
+    "home_team": "Washington Commanders",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL team page gives Cincinnati\u2019s current record as 7-2-0, equivalent to 7-2.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/cincinnati-bengals/",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 2 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL team page identifies the team as the Cincinnati Bengals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/cincinnati-bengals/",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 2 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL team pages establish Cincinnati\u2019s 7-2 record and first-place AFC North standing, and Washington\u2019s 3-5-1 record and third-place NFC East standing. ESPN reports Washington\u2019s 24-21 win and says it kept the team\u2019s NFC East title contention alive; together these facts support the division-race context.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/cincinnati-bengals/",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 2 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/washington-commanders/",
+          "excerpts": [
+            "# Washington Commanders News, Scores, Stats, Schedule | NFL.com\n\nWashington Commanders\n\n3rd NFC East\n\n3 - 5 - 1\n\n[Buy Gear](https://store.washingtonfootball.com/)"
+          ],
+          "title": "Washington Commanders News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf",
+          "excerpts": [
+            "If nothing else, the Commanders extended the belief that they can contend for the NFC East title.\n\nWashington's comeback [24-21 win](https://www.espn.com/nfl/game?gameId=401873052) against the [New York Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) improved its record to 3-5-1. Now, the Commanders are two games behind New York while owning the tiebreaker."
+          ],
+          "title": "Commanders keep NFC East hopes alive with win over Giants - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited recap records Cincinnati\u2019s 38-18 Week 10 win and its move into first place. The Commanders\u2019 Week 11 quick hits report the five-game winning streak and 30-point scoring run. ESPN documents Washington\u2019s Week 10 win and NFC East context, and its game analysis reports six forced turnovers over the preceding three games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873064",
+          "excerpts": [
+            "## Aaron Rodgers finds DK Metcalf for a much-needed Steelers TD\n\n* * *\n\nBy AP\n\nNov 16, 2026, 04:36 am\n\nFacebook Facebook Messenger Twitter Email\n\nCINCINNATI -- \u2014 [Joe Burrow](http://www.espn.com/nfl/player/_/id/3915511/joe-burrow) passed for 409 yards and four touchdowns, [Ja'Marr Chase](http://www.espn.com/nfl/player/_/id/4362628/ja'marr-chase) had 11 catches for 231 yards and the [Cincinnati Bengals](http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) dominated the [Pittsburgh Steelers](http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) 38-18 on Sunday night to move into sole possession of first place in the AFC North."
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-bengals-week-11-quick-hits",
+          "excerpts": [
+            "**Overview  \nWeek 10: Defeated Steelers (38-18)**\n\n* Cincinnati is coming off a 20-point win over its rival Steelers. The Bengals handed the Steelers their first loss of 20+ points in their last 56 games.\n* The Bengals have won five straight games following a 2-2 start to the season. It's their longest win streak since winning the final five games of the 2024 regular season.\n* The last time Cincinnati won six straight games in a season was the 2022 season, when it won its final",
+            "* Cincinnati's seven wins this season are already one more than last season (6-11 record).\n* The Bengals are 2-0 vs.",
+            "* Cincinnati has scored at least 30 points in all five games during this current win streak (36.2 PPG during win streak)."
+          ],
+          "title": "Quick hits on Week 11 vs. Bengals"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf",
+          "excerpts": [
+            "If nothing else, the Commanders extended the belief that they can contend for the NFC East title.\n\nWashington's comeback [24-21 win](https://www.espn.com/nfl/game?gameId=401873052) against the [New York Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) improved its record to 3-5-1. Now, the Commanders are two games behind New York while owning the tiebreaker.",
+            "**Trend to watch:** Washington's defense has forced six turnovers in its past three games combined."
+          ],
+          "title": "Commanders keep NFC East hopes alive with win over Giants - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL Week 11 quarterback stats list Burrow\u2019s 2,795 passing yards, 27 passing touchdowns, and six interceptions. The NFL player statistics page lists Chase with 64 receptions, 878 yards, and seven touchdowns. ESPN\u2019s Commanders team page lists Diggs with 386 receiving yards, 36 receptions, and six touchdowns.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/nfl-qb-rankings-index-week-11-2026-nfl-season",
+          "excerpts": [
+            "## TIER 1\n\nRank\n\n1\n\n[Joe Burrow](https://amp.nfl.com/players/joe-burrow/ \"Joe Burrow\")\n\nCincinnati Bengals \u00b7 Year 7\n\n**2026 stats:** 9 games | 74.7 pct | 2795 pass yds | 8.2 ypa | 27 pass TDs | 6 INTs | 85 rush yds | 3 rush TDs | 2 fumbles\n\nRank\n\n2\n\n3"
+          ],
+          "title": "NFL QB rankings, Week 11: Kirk Cousins climbs; Josh Allen slips from top three"
+        },
+        {
+          "url": "https://www.nfl.com/players/ja-marr-chase/stats",
+          "excerpts": [
+            "|2025 |Cincinnati Bengals |16 |16 |125 |1412 |11\\.3 |64 |8 |3 |14 |4\\.7 |9 |0 |1 |1 |\n|2026 |Cincinnati Bengals |9 |9 |64 |878 |13\\.7 |53 |7 | | | | | |1 |0 |"
+          ],
+          "title": "Ja'Marr Chase Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+          "excerpts": [
+            "[## Receiving Yards Stefon Diggs ### Stefon Diggs WR #3 386 REC 36 TD 6](https://www.espn.com/nfl/player/_/id/2976212/stefon-diggs)\n\n[Full Team Statistics](https://www.espn.com/nfl/team/stats/_/name/wsh)\n\n### 2026 Team Stats\n\nPassing Yards\n\n210\\.2\n\n20 th\n\nRushing Yards\n\n116\\.8\n\n13 th\n\nPoints For\n\n21\\.8\n\n21 st\n\nPoints Against\n\n24\\.8\n\n20 th\n\n[Full Team Stats](https://www.espn.com/nfl/stats/team)\n\n### 2026 Draft Picks\n\n|RD(PK) |PLAYER |POS |SCHOOL |\n| --- | --- | --- | --- |"
+          ],
+          "title": "Washington Commanders Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL Commanders page lists Washington\u2019s record as 3-5-1.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/washington-commanders/",
+          "excerpts": [
+            "# Washington Commanders News, Scores, Stats, Schedule | NFL.com\n\nWashington Commanders\n\n3rd NFC East\n\n3 - 5 - 1\n\n[Buy Gear](https://store.washingtonfootball.com/)"
+          ],
+          "title": "Washington Commanders News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL team page identifies the home team as the Washington Commanders.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/washington-commanders/",
+          "excerpts": [
+            "# Washington Commanders News, Scores, Stats, Schedule | NFL.com\n\nWashington Commanders\n\n3rd NFC East\n\n3 - 5 - 1\n\n[Buy Gear](https://store.washingtonfootball.com/)"
+          ],
+          "title": "Washington Commanders News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The official schedule lists Bengals at home against the Commanders on November 23. The stated current date is November 19, so the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/schedule",
+          "excerpts": [
+            "Week 11\n\n**vs. Bengals**  \n\ud83d\uddd3 Monday, November 23  \n\u23f0 8:15 PM  \n**\ud83d\udccd HOME:** Northwest Stadium  \n[GET TICKETS \u00bb](https://seatgeek.com/washington-commanders-tickets/primary-only/event/18142264?aid=15950&pid=web-schedule-carousel&rid=990004&utm_medium=partnership&utm_source=commanders_ticketing&utm_campaign=web-schedule-carousel)\n\nWeek 14"
+          ],
+          "title": "Commanders 2026 Schedule: NFL Season Schedule"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Week 10 recap reports Cincinnati\u2019s 38-18 victory over Pittsburgh and says the Bengals moved into sole possession of first place in the AFC North.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873064",
+          "excerpts": [
+            "## Aaron Rodgers finds DK Metcalf for a much-needed Steelers TD\n\n* * *\n\nBy AP\n\nNov 16, 2026, 04:36 am\n\nFacebook Facebook Messenger Twitter Email\n\nCINCINNATI -- \u2014 [Joe Burrow](http://www.espn.com/nfl/player/_/id/3915511/joe-burrow) passed for 409 yards and four touchdowns, [Ja'Marr Chase](http://www.espn.com/nfl/player/_/id/4362628/ja'marr-chase) had 11 catches for 231 yards and the [Cincinnati Bengals](http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) dominated the [Pittsburgh Steelers](http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) 38-18 on Sunday night to move into sole possession of first place in the AFC North."
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Bengals\u2019 Week 11 quick hits say Cincinnati won five straight after a 2-2 start and scored at least 30 points in each game of the streak.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-bengals-week-11-quick-hits",
+          "excerpts": [
+            "**Overview  \nWeek 10: Defeated Steelers (38-18)**\n\n* Cincinnati is coming off a 20-point win over its rival Steelers. The Bengals handed the Steelers their first loss of 20+ points in their last 56 games.\n* The Bengals have won five straight games following a 2-2 start to the season. It's their longest win streak since winning the final five games of the 2024 regular season.\n* The last time Cincinnati won six straight games in a season was the 2022 season, when it won its final",
+            "* Cincinnati's seven wins this season are already one more than last season (6-11 record).\n* The Bengals are 2-0 vs.",
+            "* Cincinnati has scored at least 30 points in all five games during this current win streak (36.2 PPG during win streak)."
+          ],
+          "title": "Quick hits on Week 11 vs. Bengals"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "ESPN reports Washington\u2019s 24-21 comeback win over New York, its resulting 3-5-1 record, and that the win kept the NFC East race open for Washington.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf",
+          "excerpts": [
+            "If nothing else, the Commanders extended the belief that they can contend for the NFC East title.\n\nWashington's comeback [24-21 win](https://www.espn.com/nfl/game?gameId=401873052) against the [New York Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) improved its record to 3-5-1. Now, the Commanders are two games behind New York while owning the tiebreaker."
+          ],
+          "title": "Commanders keep NFC East hopes alive with win over Giants - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The report states that Washington\u2019s defense forced six turnovers in its past three games combined.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf",
+          "excerpts": [
+            "**Trend to watch:** Washington's defense has forced six turnovers in its past three games combined."
+          ],
+          "title": "Commanders keep NFC East hopes alive with win over Giants - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 stats listed for Joe Burrow are 2,795 passing yards, 27 passing touchdowns, and six interceptions.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/nfl-qb-rankings-index-week-11-2026-nfl-season",
+          "excerpts": [
+            "## TIER 1\n\nRank\n\n1\n\n[Joe Burrow](https://amp.nfl.com/players/joe-burrow/ \"Joe Burrow\")\n\nCincinnati Bengals \u00b7 Year 7\n\n**2026 stats:** 9 games | 74.7 pct | 2795 pass yds | 8.2 ypa | 27 pass TDs | 6 INTs | 85 rush yds | 3 rush TDs | 2 fumbles\n\nRank\n\n2\n\n3"
+          ],
+          "title": "NFL QB rankings, Week 11: Kirk Cousins climbs; Josh Allen slips from top three"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Ja\u2019Marr Chase\u2019s 2026 season row lists 64 receptions, 878 receiving yards, and seven touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ja-marr-chase/stats",
+          "excerpts": [
+            "|2025 |Cincinnati Bengals |16 |16 |125 |1412 |11\\.3 |64 |8 |3 |14 |4\\.7 |9 |0 |1 |1 |\n|2026 |Cincinnati Bengals |9 |9 |64 |878 |13\\.7 |53 |7 | | | | | |1 |0 |"
+          ],
+          "title": "Ja'Marr Chase Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "ESPN lists Stefon Diggs with 386 receiving yards, 36 receptions, and six touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+          "excerpts": [
+            "[## Receiving Yards Stefon Diggs ### Stefon Diggs WR #3 386 REC 36 TD 6](https://www.espn.com/nfl/player/_/id/2976212/stefon-diggs)\n\n[Full Team Statistics](https://www.espn.com/nfl/team/stats/_/name/wsh)\n\n### 2026 Team Stats\n\nPassing Yards\n\n210\\.2\n\n20 th\n\nRushing Yards\n\n116\\.8\n\n13 th\n\nPoints For\n\n21\\.8\n\n21 st\n\nPoints Against\n\n24\\.8\n\n20 th\n\n[Full Team Stats](https://www.espn.com/nfl/stats/team)\n\n### 2026 Draft Picks\n\n|RD(PK) |PLAYER |POS |SCHOOL |\n| --- | --- | --- | --- |"
+          ],
+          "title": "Washington Commanders Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Bengals have won 5 games in a row. On Monday, the 7-2 Cincinnati Bengals play the 3-5-1 Washington Commanders in Washington. Both teams want to claim a division title! Washington has forced 6 turnovers in its last 3 games. Watch Joe Burrow throw: he has 2,795 passing yards and 27 passing TDs!",
+    "big_words": [
+      {
+        "word": "claim",
+        "definition": "To take or earn something for yourself.",
+        "example": "Sofia raced across the grass to claim the soccer ball at recess."
+      }
+    ],
+    "opener": "Start with one team's streak or last game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1137,
+        "output": 277
+      }
+    ]
+  }
+}

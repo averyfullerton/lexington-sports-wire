@@ -1,0 +1,202 @@
+{
+  "run_id": "trun_415f3f698c1f435b8c98ed8bd9b4d580",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 156.5,
+  "input": {
+    "player": "Jayden Daniels",
+    "team": "Washington Commanders",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "LSU (Louisiana State University)",
+    "fun_facts": [
+      "Jayden Daniels was born in San Bernardino, California.",
+      "He began his college career at Arizona State before transferring to LSU.",
+      "He won the 2023 Heisman Trophy.",
+      "In one game at LSU, he totaled 606 yards and became the first FBS quarterback to throw for at least 350 yards and rush for at least 200 yards in a game.",
+      "In 2023, he became the first SEC player since Johnny Manziel in 2012 to record at least 3,500 passing yards and 1,000 rushing yards in a season.",
+      "In his first five NFL games, he became the first player in NFL history to exceed 1,000 passing yards and 250 rushing yards. "
+    ],
+    "draft": "2024, round 1, pick 2"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s bio lists LSU as Jayden Daniels\u2019s college. The Commanders\u2019 draft announcement also identifies him as an LSU quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426348/jayden-daniels",
+          "excerpts": [
+            "# Jayden Daniels\n\nWashington Commanders\n\n* [Washington Commanders Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)\n* \\#5\n* Quarterback QB\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 2 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Jayden Daniels Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN bio gives Daniels\u2019s birthplace; ESPN\u2019s draft coverage describes his Arizona State-to-LSU college path; ESPN reports his Heisman win and the college records; and the Commanders\u2019 release states the first-five-games NFL milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426348/jayden-daniels",
+          "excerpts": [
+            "# Jayden Daniels\n\nWashington Commanders\n\n* [Washington Commanders Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)\n* \\#5\n* Quarterback QB\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 2 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Jayden Daniels Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40025859/jayden-daniels-commanders-no-2-pick-nfl-draft",
+          "excerpts": [
+            "As a fifth-year senior for LSU last season, Daniels threw for 3,812 yards and 40 touchdowns with only four interceptions. He also ran 135 times for 1,134 yards and eight touchdowns. He started 55 games in his college career, including all 29 contests he played over three seasons at Arizona State, which is where he began his college career.\n\nWhen asked why Daniels, Peters responded, \"Why not Jayden?\n\n\"To us, he was special in every way, on the field and off the field,\" he said."
+          ],
+          "title": "Jayden Daniels to Commanders with No. 2 pick in NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39079484/jayden-daniels-lsu-tigers-heisman-award",
+          "excerpts": [
+            "[Jayden Daniels](https://www.espn.com/college-football/player/_/id/4426348/jayden-daniels) is the 2023 Heisman Trophy winner.\n\n## Editor's Picks",
+            "He had 3,500 passing yards and 1,000 rushing yards this season, becoming the first SEC player to do so since Johnny Manziel in 2012.\n\nThe win also makes Daniels the second California native to earn the Heisman award in the last three years -- Bryce Young won in 2021. Before Young, California native Reggie Bush won the Heisman in 2005.\n\nHere are the key numbers behind Daniels' Heisman-winning season.\n\n**50:** Daniels found the end zone often throughout the season. He had an FBS high 50 total touchdowns, 40 passing and 10 rushing, the fifth SEC player to do so -- Young (2021), Burrow (2019), Cam Newton (2010) and Tim Tebow (2007)."
+          ],
+          "title": "Notable numbers from Jayden Daniels' Heisman Trophy-winning season - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38877135/jayden-daniels-makes-history-606-yards-5-tds-lsu-win",
+          "excerpts": [
+            "-- [Jayden Daniels](https://www.espn.com/college-football/player/_/id/4426348/jayden-daniels) accounted for 606 total yards and five touchdowns as he became the first quarterback in FBS history to have at least 350 passing yards and 200 rushing yards in a game as No. 19 [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) defeated",
+            "Daniels continued to make his Heisman Trophy case, leading the Tigers (7-3, 5-2 SEC) to touchdowns on five consecutive second-half possessions, completing 17 of 26 passes for 372 yards and three touchdowns and running 12 times for 234 yards and two touchdowns.\n\n\"If [Daniels] didn't win [the Heisman Trophy] tonight, he has got to be the leading candidate,\" LSU coach Brian Kelly said."
+          ],
+          "title": "Jayden Daniels makes history with 606 yards, 5 TDs in LSU win - ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/jayden-daniels-voted-pfwa-2024-rookie-of-the-year-and-offensive-rookie-of-the-year",
+          "excerpts": [
+            "Daniels is also the second Washington player to be the PFWA's Offensive Rookie of the Year, joining quarterback **Robert Griffin III** , who won the award in 2012.\n\nVerse, the 19th overall selection in the 2024 NFL Draft out of Florida State, played in all 17 games with 16 starts."
+          ],
+          "title": "Jayden Daniels voted PFWA 2024 Rookie of the Year and Offensive Rookie of the Year"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Commanders\u2019 announcement says the team selected Jayden Daniels with the No. 2 overall pick in the 2024 NFL Draft; ESPN\u2019s bio specifies this was round 1, pick 2.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-draft-jayden-daniels-with-no-2-overall-pick",
+          "excerpts": [
+            "Apr 25, 2024 at 08:26 PM\n\n[Zach Selby](https://www.commanders.com/author/zach-selby)\n\nSenior Writer\n\n[](https://twitter.com/ZachSelbyWC) [](mailto:zach.selby@commanders.com)\n\n* \n* \n* \n*\n\nThe Washington Commanders have selected LSU quarterback Jayden Daniels with the No. 2 overall pick in the 2024 NFL Draft.\n\nDaniels, who started his college career at Arizona State before transferring to LSU, completed 65% of his passes for 12,749 yards with 89 touchdowns and 20 interceptions. Daniels also adds dynamic ability as a runner, ranking first among quarterbacks in 2023 with 1,134 yards and 10 touchdowns."
+          ],
+          "title": "Commanders draft Jayden Daniels with No. 2 overall pick"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426348/jayden-daniels",
+          "excerpts": [
+            "# Jayden Daniels\n\nWashington Commanders\n\n* [Washington Commanders Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)\n* \\#5\n* Quarterback QB\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 2 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Jayden Daniels Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN\u2019s bio gives San Bernardino, California, as Jayden Daniels\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426348/jayden-daniels",
+          "excerpts": [
+            "# Jayden Daniels\n\nWashington Commanders\n\n* [Washington Commanders Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)\n* \\#5\n* Quarterback QB\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 210 lbs\n* Birthdate\n  \n  12/18/2000 (25)\n* College\n  \n  [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 2 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Jayden Daniels Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN states that Daniels played three seasons at Arizona State and began his college career there before attending LSU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40025859/jayden-daniels-commanders-no-2-pick-nfl-draft",
+          "excerpts": [
+            "As a fifth-year senior for LSU last season, Daniels threw for 3,812 yards and 40 touchdowns with only four interceptions. He also ran 135 times for 1,134 yards and eight touchdowns. He started 55 games in his college career, including all 29 contests he played over three seasons at Arizona State, which is where he began his college career.\n\nWhen asked why Daniels, Peters responded, \"Why not Jayden?\n\n\"To us, he was special in every way, on the field and off the field,\" he said."
+          ],
+          "title": "Jayden Daniels to Commanders with No. 2 pick in NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN explicitly identifies Daniels as the 2023 Heisman Trophy winner.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39079484/jayden-daniels-lsu-tigers-heisman-award",
+          "excerpts": [
+            "[Jayden Daniels](https://www.espn.com/college-football/player/_/id/4426348/jayden-daniels) is the 2023 Heisman Trophy winner.\n\n## Editor's Picks"
+          ],
+          "title": "Notable numbers from Jayden Daniels' Heisman Trophy-winning season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports that Daniels totaled 606 yards in the game and was the first FBS quarterback to reach both 350 passing yards and 200 rushing yards in a game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38877135/jayden-daniels-makes-history-606-yards-5-tds-lsu-win",
+          "excerpts": [
+            "-- [Jayden Daniels](https://www.espn.com/college-football/player/_/id/4426348/jayden-daniels) accounted for 606 total yards and five touchdowns as he became the first quarterback in FBS history to have at least 350 passing yards and 200 rushing yards in a game as No. 19 [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) defeated",
+            "Daniels continued to make his Heisman Trophy case, leading the Tigers (7-3, 5-2 SEC) to touchdowns on five consecutive second-half possessions, completing 17 of 26 passes for 372 yards and three touchdowns and running 12 times for 234 yards and two touchdowns.\n\n\"If [Daniels] didn't win [the Heisman Trophy] tonight, he has got to be the leading candidate,\" LSU coach Brian Kelly said."
+          ],
+          "title": "Jayden Daniels makes history with 606 yards, 5 TDs in LSU win - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN says Daniels had 3,500 passing yards and 1,000 rushing yards in 2023, the first SEC player to do so since Johnny Manziel in 2012.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39079484/jayden-daniels-lsu-tigers-heisman-award",
+          "excerpts": [
+            "He had 3,500 passing yards and 1,000 rushing yards this season, becoming the first SEC player to do so since Johnny Manziel in 2012.\n\nThe win also makes Daniels the second California native to earn the Heisman award in the last three years -- Bryce Young won in 2021. Before Young, California native Reggie Bush won the Heisman in 2005.\n\nHere are the key numbers behind Daniels' Heisman-winning season.\n\n**50:** Daniels found the end zone often throughout the season. He had an FBS high 50 total touchdowns, 40 passing and 10 rushing, the fifth SEC player to do so -- Young (2021), Burrow (2019), Cam Newton (2010) and Tim Tebow (2007)."
+          ],
+          "title": "Notable numbers from Jayden Daniels' Heisman Trophy-winning season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Commanders\u2019 release says Daniels became the first player in NFL history to exceed 1,000 passing yards and 250 rushing yards in his first five career games.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/jayden-daniels-voted-pfwa-2024-rookie-of-the-year-and-offensive-rookie-of-the-year",
+          "excerpts": [
+            "Daniels is also the second Washington player to be the PFWA's Offensive Rookie of the Year, joining quarterback **Robert Griffin III** , who won the award in 2012.\n\nVerse, the 19th overall selection in the 2024 NFL Draft out of Florida State, played in all 17 games with 16 starts."
+          ],
+          "title": "Jayden Daniels voted PFWA 2024 Rookie of the Year and Offensive Rookie of the Year"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

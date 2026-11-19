@@ -1,0 +1,102 @@
+{
+  "name": "Deebo Samuel Sr.",
+  "espn_id": "3126486",
+  "team": "San Francisco 49ers",
+  "team_abbr": "SF",
+  "number": "19",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "South Carolina",
+  "experience": 8,
+  "fun_facts": [
+    "Deebo scored a school-record 53 touchdowns in high school.",
+    "Deebo scored four kickoff-return touchdowns in college, a school record.",
+    "Deebo set a playoff receiver record with 72 rushing yards against Dallas."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2019",
+        "SF",
+        "15",
+        "57",
+        "802",
+        "3",
+        "42"
+      ],
+      [
+        "2020",
+        "SF",
+        "7",
+        "33",
+        "391",
+        "1",
+        "35"
+      ],
+      [
+        "2021",
+        "SF",
+        "16",
+        "77",
+        "1,405",
+        "6",
+        "83"
+      ],
+      [
+        "2022",
+        "SF",
+        "13",
+        "56",
+        "632",
+        "2",
+        "57"
+      ],
+      [
+        "2023",
+        "SF",
+        "15",
+        "60",
+        "892",
+        "7",
+        "54"
+      ],
+      [
+        "2024",
+        "SF",
+        "15",
+        "51",
+        "670",
+        "3",
+        "76"
+      ],
+      [
+        "2025",
+        "WSH",
+        "16",
+        "72",
+        "727",
+        "5",
+        "41"
+      ],
+      [
+        "2026",
+        "SF",
+        "6",
+        "19",
+        "237",
+        "4",
+        "80"
+      ]
+    ]
+  }
+}

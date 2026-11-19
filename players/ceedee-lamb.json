@@ -1,0 +1,93 @@
+{
+  "name": "CeeDee Lamb",
+  "espn_id": "4241389",
+  "team": "Dallas Cowboys",
+  "team_abbr": "DAL",
+  "number": "88",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Oklahoma",
+  "experience": 7,
+  "fun_facts": [
+    "CeeDee caught 14 touchdowns in college at Oklahoma.",
+    "CeeDee set Cowboys records with 135 catches and 1,749 yards in one NFL season.",
+    "He made 17 catches in one NFL game in 2026."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2020",
+        "DAL",
+        "16",
+        "74",
+        "935",
+        "5",
+        "52"
+      ],
+      [
+        "2021",
+        "DAL",
+        "16",
+        "79",
+        "1,102",
+        "6",
+        "49"
+      ],
+      [
+        "2022",
+        "DAL",
+        "17",
+        "107",
+        "1,359",
+        "9",
+        "39"
+      ],
+      [
+        "2023",
+        "DAL",
+        "17",
+        "135",
+        "1,749",
+        "12",
+        "92"
+      ],
+      [
+        "2024",
+        "DAL",
+        "15",
+        "101",
+        "1,194",
+        "6",
+        "65"
+      ],
+      [
+        "2025",
+        "DAL",
+        "14",
+        "75",
+        "1,077",
+        "3",
+        "74"
+      ],
+      [
+        "2026",
+        "DAL",
+        "10",
+        "77",
+        "976",
+        "8",
+        "49"
+      ]
+    ]
+  }
+}

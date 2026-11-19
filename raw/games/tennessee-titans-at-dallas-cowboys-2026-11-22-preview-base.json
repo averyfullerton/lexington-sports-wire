@@ -1,0 +1,359 @@
+{
+  "run_id": "trun_1714e31eeb204d32a66c435f520c8149",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 205.2,
+  "input": {
+    "away_team": "Tennessee Titans",
+    "home_team": "Dallas Cowboys",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "1-8",
+    "away_team": "Tennessee Titans",
+    "storyline": "Dallas (4-6, second in the NFC East) hosts Tennessee (1-8, fourth in the AFC South). The matchup also pits Dallas\u2019s 28.6 points per game (5th) against Tennessee\u2019s 18.6 (28th).",
+    "matchup_notes": [
+      "Tennessee lost 40-23 to Jacksonville in Week 10.",
+      "Dallas lost 46-40 to San Francisco in Week 10.",
+      "Dallas is second in the NFC East; Tennessee is fourth in the AFC South.",
+      "Dallas averages 368.3 yards per game (8th), while Tennessee averages 278.6 (29th)."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,714 passing yards, 8 TD, 6 INT",
+        "team": "Tennessee Titans",
+        "name": "Cam Ward"
+      },
+      {
+        "stat_line": "628 rushing yards, 142 carries, 6 TD",
+        "team": "Tennessee Titans",
+        "name": "Tony Pollard"
+      },
+      {
+        "stat_line": "2,724 passing yards, 21 TD, 6 INT",
+        "team": "Dallas Cowboys",
+        "name": "Dak Prescott"
+      },
+      {
+        "stat_line": "692 rushing yards, 170 carries, 9 TD",
+        "team": "Dallas Cowboys",
+        "name": "Javonte Williams"
+      }
+    ],
+    "home_record": "4-6",
+    "home_team": "Dallas Cowboys",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game preview lists Tennessee at 1-8, establishing the Titans\u2019 record entering this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nTennessee Titans\n\nTEN\n\nTennessee Titans\n\nTITANS\n\nTennessee Titans\n\nTENNESSEE\n\nTITANS\n\n1-8\n\n1 win, 8 losses, 0 ties\n\nDallas Cowboys\n\nDAL\n\nDallas Cowboys\n\nCOWBOYS\n\nDallas Cowboys\n\nDALLAS\n\nCOWBOYS\n\n4-6\n\n4 wins, 6 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTennessee Titans\n\nDallas Cowboys\n\nTennessee Titans, POINTS PER GAME, 18.6, ranked 28th.\n\n18\\.6\n\n28TH\n\nPOINTS PER GAME\n\nDallas Cowboys, POINTS PER GAME, 28.6, ranked 5th.\n\n28\\.6\n\n5TH"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game-release heading identifies Tennessee as the away team in the Week 11 matchup.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/dh0gyubzn5svp8y6dnul",
+          "excerpts": [
+            "FOR IMMEDIATE RELEASE NOVEMBER 17, 2026\n\n## TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018\n\n### **Tennessee Titans (1-8) at Dallas Cowboys (4-6)**\n\n_Sunday, Nov. 22, 2026 \u2022 12 p.m."
+          ],
+          "title": "TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The sources state both teams\u2019 records, their respective divisional positions, and the teams\u2019 points-per-game averages and ranks, supporting the matchup\u2019s standings and scoring context.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/dh0gyubzn5svp8y6dnul",
+          "excerpts": [
+            "FOR IMMEDIATE RELEASE NOVEMBER 17, 2026\n\n## TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018\n\n### **Tennessee Titans (1-8) at Dallas Cowboys (4-6)**\n\n_Sunday, Nov. 22, 2026 \u2022 12 p.m."
+          ],
+          "title": "TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018"
+        },
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nTennessee Titans\n\nTEN\n\nTennessee Titans\n\nTITANS\n\nTennessee Titans\n\nTENNESSEE\n\nTITANS\n\n1-8\n\n1 win, 8 losses, 0 ties\n\nDallas Cowboys\n\nDAL\n\nDallas Cowboys\n\nCOWBOYS\n\nDallas Cowboys\n\nDALLAS\n\nCOWBOYS\n\n4-6\n\n4 wins, 6 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTennessee Titans\n\nDallas Cowboys\n\nTennessee Titans, POINTS PER GAME, 18.6, ranked 28th.\n\n18\\.6\n\n28TH\n\nPOINTS PER GAME\n\nDallas Cowboys, POINTS PER GAME, 28.6, ranked 5th.\n\n28\\.6\n\n5TH"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/dal",
+          "excerpts": [
+            "Week 10 Week 11 Week 12\n\n[](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Dallas Cowboys Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/teams/tennessee-titans",
+          "excerpts": [
+            "# Tennessee Titans News, Scores, Stats, Schedule | NFL.com\n\nTennessee Titans\n\n4th AFC South\n\n1 - 8 - 0"
+          ],
+          "title": "Tennessee Titans News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited schedule/game information gives each team\u2019s Week 10 result; the team pages identify their current division positions; and the official preview provides the season-to-date yards-per-game figures and ranks.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/tennessee-titans",
+          "excerpts": [
+            "### Week 9\n\n* TITANS' BYE WEEK\n\n### Week 10\n\n* [Jaguars 40, Titans 23, FINAL, Sunday, November 15th](https://www.nfl.com/games/jaguars-at-titans-2026-reg-10)"
+          ],
+          "title": "NFL 2026 Tennessee Titans Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/dallas-cowboys",
+          "excerpts": [
+            "Indianapolis Colts Team Logo COLTS 2-7\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/cowboys-at-colts-2026-reg-9)\n\n### Week 10\n\nCURRENT WEEK\n\n* [49ers 46, Cowboys 40, FINAL, Sunday, November 15th](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10)\n  \n  Final\n  \n  San Francisco 49ers Team Logo 49ERS 8-1\n  \n  Hidden Score\n  \n  Dallas Cowboys Team Logo COWBOYS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10)\n\n### Week 11"
+          ],
+          "title": "NFL 2026 Dallas Cowboys Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/dal",
+          "excerpts": [
+            "Week 10 Week 11 Week 12\n\n[](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Dallas Cowboys Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/teams/tennessee-titans",
+          "excerpts": [
+            "# Tennessee Titans News, Scores, Stats, Schedule | NFL.com\n\nTennessee Titans\n\n4th AFC South\n\n1 - 8 - 0"
+          ],
+          "title": "Tennessee Titans News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/dh0gyubzn5svp8y6dnul",
+          "excerpts": [
+            "## G A M E R E L E A S E - G A M E P R E V IE W\n\nTENNESSEE TITANS **8** WEEK 11: TITANS @ COWBOYS\n\n**2026 OFFENSIVE STATISTICS AND NFL RANKING TITANS COWBOYS OFFENSIVE CATEGORY STAT (RANK) STAT (RANK)** Yards / Game 278.6 (29) 368.3 (8) Yards / Play 4.94 (24) 5.59 (10) Rushing Yards / Game 100.1 (23) 102.8 (21) Rushing Yards / Play 4.37 (10) 4.00 (21) Passing Yards / Game 178.4 (26) 265.5"
+          ],
+          "title": "TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The game center lists season-to-date statistics for Ward, Pollard, Prescott, and Williams, which are summarized in the player entries.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Ward 1714 YDS 63\\.8%CMP 8TD 6INT](https://www.nfl.com/players/cam-ward/stats)\n\nPASSING\n\n[R. Prescott 2724 YDS 64\\.1%CMP 21TD 6INT](https://www.nfl.com/players/dak-prescott/stats)\n\nRUSHING\n\n[T. Pollard 628 YDS 142ATT 6TD 4\\.4AVG](https://www.nfl.com/players/tony-pollard/stats)\n\nRUSHING\n\n[J. Williams 692 YDS 170ATT 9TD 4\\.1AVG](https://www.nfl.com/players/javonte-williams/stats)\n\nRECEIVING\n\n[C. Tate 413 YDS 34REC 1TD 12\\.2AVG](https://www.nfl.com/players/carnell-tate/stats)\n\nRECEIVING"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The game preview lists Dallas at 4-6 before the scheduled game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nTennessee Titans\n\nTEN\n\nTennessee Titans\n\nTITANS\n\nTennessee Titans\n\nTENNESSEE\n\nTITANS\n\n1-8\n\n1 win, 8 losses, 0 ties\n\nDallas Cowboys\n\nDAL\n\nDallas Cowboys\n\nCOWBOYS\n\nDallas Cowboys\n\nDALLAS\n\nCOWBOYS\n\n4-6\n\n4 wins, 6 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTennessee Titans\n\nDallas Cowboys\n\nTennessee Titans, POINTS PER GAME, 18.6, ranked 28th.\n\n18\\.6\n\n28TH\n\nPOINTS PER GAME\n\nDallas Cowboys, POINTS PER GAME, 28.6, ranked 5th.\n\n28\\.6\n\n5TH"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game-release heading names Dallas as the home team in the Week 11 matchup.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/dh0gyubzn5svp8y6dnul",
+          "excerpts": [
+            "FOR IMMEDIATE RELEASE NOVEMBER 17, 2026\n\n## TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018\n\n### **Tennessee Titans (1-8) at Dallas Cowboys (4-6)**\n\n_Sunday, Nov. 22, 2026 \u2022 12 p.m."
+          ],
+          "title": "TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The official schedule lists Titans at Cowboys as the Week 11 game on November 22; with the stated current date of November 19, it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/tennessee-titans",
+          "excerpts": [
+            "[Watch Replay](https://www.nfl.com/games/jaguars-at-titans-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* [Titans at Cowboys, Sunday, November 22nd, 1:00 PM, FOX](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11)\n  \n  LOCAL\n  \n  Tennessee Titans Team Logo TITANS\n  \n  Dallas Cowboys Team Logo COWBOYS\n  \n* * *\n  \n  LOCAL\n  \n  [Tickets](https://www.ticketmaster.com/event/0C00646CBC939043?wt.mc_id=NFL_LEAGUE_SCHED_PG_DAL_LINK6&utm_source=NFL.com&utm_medium=client&utm"
+          ],
+          "title": "NFL 2026 Tennessee Titans Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The schedule records Jacksonville\u2019s 40-23 win over Tennessee in Week 10.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/tennessee-titans",
+          "excerpts": [
+            "### Week 9\n\n* TITANS' BYE WEEK\n\n### Week 10\n\n* [Jaguars 40, Titans 23, FINAL, Sunday, November 15th](https://www.nfl.com/games/jaguars-at-titans-2026-reg-10)"
+          ],
+          "title": "NFL 2026 Tennessee Titans Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The schedule records San Francisco\u2019s 46-40 win over Dallas in Week 10.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/dallas-cowboys",
+          "excerpts": [
+            "Indianapolis Colts Team Logo COLTS 2-7\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/cowboys-at-colts-2026-reg-9)\n\n### Week 10\n\nCURRENT WEEK\n\n* [49ers 46, Cowboys 40, FINAL, Sunday, November 15th](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10)\n  \n  Final\n  \n  San Francisco 49ers Team Logo 49ERS 8-1\n  \n  Hidden Score\n  \n  Dallas Cowboys Team Logo COWBOYS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10)\n\n### Week 11"
+          ],
+          "title": "NFL 2026 Dallas Cowboys Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The team listings place Dallas second in the NFC East and Tennessee fourth in the AFC South.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/dal",
+          "excerpts": [
+            "Week 10 Week 11 Week 12\n\n[](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Dallas Cowboys Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/teams/tennessee-titans",
+          "excerpts": [
+            "# Tennessee Titans News, Scores, Stats, Schedule | NFL.com\n\nTennessee Titans\n\n4th AFC South\n\n1 - 8 - 0"
+          ],
+          "title": "Tennessee Titans News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The official preview gives Dallas\u2019s 368.3 yards per game, ranked 8th, and Tennessee\u2019s 278.6, ranked 29th.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/dh0gyubzn5svp8y6dnul",
+          "excerpts": [
+            "## G A M E R E L E A S E - G A M E P R E V IE W\n\nTENNESSEE TITANS **8** WEEK 11: TITANS @ COWBOYS\n\n**2026 OFFENSIVE STATISTICS AND NFL RANKING TITANS COWBOYS OFFENSIVE CATEGORY STAT (RANK) STAT (RANK)** Yards / Game 278.6 (29) 368.3 (8) Yards / Play 4.94 (24) 5.59 (10) Rushing Yards / Game 100.1 (23) 102.8 (21) Rushing Yards / Play 4.37 (10) 4.00 (21) Passing Yards / Game 178.4 (26) 265.5"
+          ],
+          "title": "TITANS TRAVEL TO DALLAS FOR FIRST TIME SINCE 2018"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The game center lists Cam Ward\u2019s passing totals, which are summarized in this entry.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Ward 1714 YDS 63\\.8%CMP 8TD 6INT](https://www.nfl.com/players/cam-ward/stats)\n\nPASSING\n\n[R. Prescott 2724 YDS 64\\.1%CMP 21TD 6INT](https://www.nfl.com/players/dak-prescott/stats)\n\nRUSHING\n\n[T. Pollard 628 YDS 142ATT 6TD 4\\.4AVG](https://www.nfl.com/players/tony-pollard/stats)\n\nRUSHING\n\n[J. Williams 692 YDS 170ATT 9TD 4\\.1AVG](https://www.nfl.com/players/javonte-williams/stats)\n\nRECEIVING\n\n[C. Tate 413 YDS 34REC 1TD 12\\.2AVG](https://www.nfl.com/players/carnell-tate/stats)\n\nRECEIVING"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The game center lists Tony Pollard\u2019s rushing totals, which are summarized in this entry.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Ward 1714 YDS 63\\.8%CMP 8TD 6INT](https://www.nfl.com/players/cam-ward/stats)\n\nPASSING\n\n[R. Prescott 2724 YDS 64\\.1%CMP 21TD 6INT](https://www.nfl.com/players/dak-prescott/stats)\n\nRUSHING\n\n[T. Pollard 628 YDS 142ATT 6TD 4\\.4AVG](https://www.nfl.com/players/tony-pollard/stats)\n\nRUSHING\n\n[J. Williams 692 YDS 170ATT 9TD 4\\.1AVG](https://www.nfl.com/players/javonte-williams/stats)\n\nRECEIVING\n\n[C. Tate 413 YDS 34REC 1TD 12\\.2AVG](https://www.nfl.com/players/carnell-tate/stats)\n\nRECEIVING"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The game center lists Dak Prescott\u2019s passing totals, which are summarized in this entry.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Ward 1714 YDS 63\\.8%CMP 8TD 6INT](https://www.nfl.com/players/cam-ward/stats)\n\nPASSING\n\n[R. Prescott 2724 YDS 64\\.1%CMP 21TD 6INT](https://www.nfl.com/players/dak-prescott/stats)\n\nRUSHING\n\n[T. Pollard 628 YDS 142ATT 6TD 4\\.4AVG](https://www.nfl.com/players/tony-pollard/stats)\n\nRUSHING\n\n[J. Williams 692 YDS 170ATT 9TD 4\\.1AVG](https://www.nfl.com/players/javonte-williams/stats)\n\nRECEIVING\n\n[C. Tate 413 YDS 34REC 1TD 12\\.2AVG](https://www.nfl.com/players/carnell-tate/stats)\n\nRECEIVING"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The game center lists Javonte Williams\u2019s rushing totals, which are summarized in this entry.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Ward 1714 YDS 63\\.8%CMP 8TD 6INT](https://www.nfl.com/players/cam-ward/stats)\n\nPASSING\n\n[R. Prescott 2724 YDS 64\\.1%CMP 21TD 6INT](https://www.nfl.com/players/dak-prescott/stats)\n\nRUSHING\n\n[T. Pollard 628 YDS 142ATT 6TD 4\\.4AVG](https://www.nfl.com/players/tony-pollard/stats)\n\nRUSHING\n\n[J. Williams 692 YDS 170ATT 9TD 4\\.1AVG](https://www.nfl.com/players/javonte-williams/stats)\n\nRECEIVING\n\n[C. Tate 413 YDS 34REC 1TD 12\\.2AVG](https://www.nfl.com/players/carnell-tate/stats)\n\nRECEIVING"
+          ],
+          "title": "Tennessee Titans at Dallas Cowboys 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.2",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "2,724 passing yards for Dak Prescott this season! He and the Dallas Cowboys (4-6) host the Tennessee Titans (1-8) in Dallas. Prescott also has 21 passing touchdowns. Titans QB Cam Ward steps into the spotlight with 1,714 passing yards and 8 touchdowns! Tennessee needs this game most, sitting fourth in the AFC South at 1-8.",
+    "big_words": [
+      {
+        "word": "spotlight",
+        "definition": "A lot of attention from others.",
+        "example": "Mateo stepped into the spotlight when his garden sunflower grew taller than him."
+      }
+    ],
+    "opener": "Start with a striking number from this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1113,
+        "output": 171
+      }
+    ]
+  }
+}

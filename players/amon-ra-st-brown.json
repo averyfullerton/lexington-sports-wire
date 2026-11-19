@@ -1,0 +1,84 @@
+{
+  "name": "Amon-Ra St. Brown",
+  "espn_id": "4374302",
+  "team": "Detroit Lions",
+  "team_abbr": "DET",
+  "number": "14",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "USC",
+  "experience": 6,
+  "fun_facts": [
+    "Amon-Ra spoke English, German, and French as a kid.",
+    "Amon-Ra catches 202 balls after practice, a habit he started in middle school.",
+    "Amon-Ra set Lions rookie records with 90 catches and 912 receiving yards."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2021",
+        "DET",
+        "17",
+        "90",
+        "912",
+        "5",
+        "37"
+      ],
+      [
+        "2022",
+        "DET",
+        "16",
+        "106",
+        "1,161",
+        "6",
+        "49"
+      ],
+      [
+        "2023",
+        "DET",
+        "16",
+        "119",
+        "1,515",
+        "10",
+        "70"
+      ],
+      [
+        "2024",
+        "DET",
+        "17",
+        "115",
+        "1,263",
+        "12",
+        "66"
+      ],
+      [
+        "2025",
+        "DET",
+        "17",
+        "117",
+        "1,401",
+        "11",
+        "52"
+      ],
+      [
+        "2026",
+        "DET",
+        "9",
+        "65",
+        "755",
+        "7",
+        "56"
+      ]
+    ]
+  }
+}

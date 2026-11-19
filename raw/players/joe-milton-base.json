@@ -1,0 +1,163 @@
+{
+  "run_id": "trun_415f3f698c1f435b8fdd23fa377e2d42",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 51.0,
+  "input": {
+    "player": "Joe Milton",
+    "team": "Philadelphia Eagles",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Tennessee",
+    "fun_facts": [
+      "Joe Milton\u2019s hometown was Orlando, Florida, and he attended Olympia High School.",
+      "In Michigan\u2019s 2020 season opener, Joe Milton completed 15 of 22 passes for 225 yards and a touchdown.",
+      "Joe Milton transferred from Michigan to Tennessee in 2021.",
+      "In the 2022 Orange Bowl, Joe Milton threw for 251 yards and three touchdowns as Tennessee beat Clemson."
+    ],
+    "draft": "2024, round 6, pick 193"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player profile lists Tennessee as Joe Milton\u2019s college. ESPN\u2019s coverage also says he transferred to Tennessee from Michigan, supporting Tennessee as the last college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360698/joe-milton",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 5\", 236 lbs\n\nBirthdate 3/6/2000 (26)\n\nCollege [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers)\n\nDraft Info 2024: Rd 6, Pk 193 (NE)"
+          ],
+          "title": "Joe Milton Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32114242/tennessee-volunteers-start-michigan-wolverines-transfer-joe-milton-iii-qb",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=32114242)\n\nTennessee will start [Joe Milton III](https://www.espn.com/college-football/player/_/id/4360698/joe-milton) at quarterback for its season-opening game against Bowling Green on Thursday night.\n\nFirst-year coach Josh Heupel announced the decision during a news conference Monday, citing Milton's skills and decision-making.\n\nIn April, Milton transferred to Tennessee from Michigan , where he began last season as"
+          ],
+          "title": "Tennessee Volunteers to start Michigan Wolverines transfer Joe Milton III at QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages give Joe Milton\u2019s hometown and high school, his 2020 Michigan opener passing line, his move from Michigan to Tennessee, and his passing performance in Tennessee\u2019s Orange Bowl win over Clemson.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/226799/joe-milton",
+          "excerpts": [
+            "# Joe Milton\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2018)\n\n* \n\n6-5, 222 | 40: 4.80 | Class of 2018\n\n* Hometown [Orlando, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/11249/class/2018)\n* School [Olympia High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/10152)"
+          ],
+          "title": "Football Recruiting - Joe Milton - Player Profiles - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30923758/michigan-wolverines-qb-joe-milton-enters-transfer-portal",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=30923758)\n\nMichigan quarterback Joe Milton entered his name in the transfer portal on Thursday. The third-year quarterback will have three years of eligibility remaining, as the NCAA has granted an extra year of eligibility and Milton has not used his redshirt season yet.\n\nMilton was an ESPN 300 prospect in the 2018 class, described as raw and needing time to develop, and played in four games in his first season.\n\nAfter playing in four games in 2019, Milton was named as the starter to open the 2020 season. He helped lead Michigan to a win against Minnesota in the opener, completing 15 of 22 passes for 225 yards and a touchdown.\n\nHe threw for 644 yards, three touchdowns and two interceptions in the next two games, both losses, against Michigan State and Indiana."
+          ],
+          "title": "Michigan Wolverines QB Joe Milton enters NCAA transfer portal - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32114242/tennessee-volunteers-start-michigan-wolverines-transfer-joe-milton-iii-qb",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=32114242)\n\nTennessee will start [Joe Milton III](https://www.espn.com/college-football/player/_/id/4360698/joe-milton) at quarterback for its season-opening game against Bowling Green on Thursday night.\n\nFirst-year coach Josh Heupel announced the decision during a news conference Monday, citing Milton's skills and decision-making.\n\nIn April, Milton transferred to Tennessee from Michigan , where he began last season as"
+          ],
+          "title": "Tennessee Volunteers to start Michigan Wolverines transfer Joe Milton III at QB - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35351456/tennessee-tops-clemson-orange-bowl-cap-best-year-01",
+          "excerpts": [
+            "# Tennessee tops Clemson in Orange Bowl to cap best year since '01\n\nplay\n\nJoe Milton's stellar performance helps Tennessee win the Orange Bowl (2:03)\n\nTennessee QB Joe Milton III tosses for 251 yards and three touchdowns as the Volunteers defeat Clemson in the Capital One Orange Bowl. (2:03)\n\n* ESPN News Services\n\nDec 31, 2022, 12:31 AM ET\n\n*"
+          ],
+          "title": "Tennessee tops Clemson in Orange Bowl to cap best year since '01 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN lists Joe Milton\u2019s draft information as 2024, round 6, pick 193.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360698/joe-milton",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 5\", 236 lbs\n\nBirthdate 3/6/2000 (26)\n\nCollege [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers)\n\nDraft Info 2024: Rd 6, Pk 193 (NE)"
+          ],
+          "title": "Joe Milton Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN recruiting profile identifies Orlando, Florida, as Joe Milton\u2019s hometown and lists Olympia High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/226799/joe-milton",
+          "excerpts": [
+            "# Joe Milton\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2018)\n\n* \n\n6-5, 222 | 40: 4.80 | Class of 2018\n\n* Hometown [Orlando, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/11249/class/2018)\n* School [Olympia High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/10152)"
+          ],
+          "title": "Football Recruiting - Joe Milton - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN reports that Milton completed 15 of 22 passes for 225 yards and a touchdown in Michigan\u2019s opener against Minnesota.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30923758/michigan-wolverines-qb-joe-milton-enters-transfer-portal",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=30923758)\n\nMichigan quarterback Joe Milton entered his name in the transfer portal on Thursday. The third-year quarterback will have three years of eligibility remaining, as the NCAA has granted an extra year of eligibility and Milton has not used his redshirt season yet.\n\nMilton was an ESPN 300 prospect in the 2018 class, described as raw and needing time to develop, and played in four games in his first season.\n\nAfter playing in four games in 2019, Milton was named as the starter to open the 2020 season. He helped lead Michigan to a win against Minnesota in the opener, completing 15 of 22 passes for 225 yards and a touchdown.\n\nHe threw for 644 yards, three touchdowns and two interceptions in the next two games, both losses, against Michigan State and Indiana."
+          ],
+          "title": "Michigan Wolverines QB Joe Milton enters NCAA transfer portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN states that Milton transferred to Tennessee from Michigan in April 2021.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32114242/tennessee-volunteers-start-michigan-wolverines-transfer-joe-milton-iii-qb",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=32114242)\n\nTennessee will start [Joe Milton III](https://www.espn.com/college-football/player/_/id/4360698/joe-milton) at quarterback for its season-opening game against Bowling Green on Thursday night.\n\nFirst-year coach Josh Heupel announced the decision during a news conference Monday, citing Milton's skills and decision-making.\n\nIn April, Milton transferred to Tennessee from Michigan , where he began last season as"
+          ],
+          "title": "Tennessee Volunteers to start Michigan Wolverines transfer Joe Milton III at QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN\u2019s Orange Bowl coverage reports Milton\u2019s 251 passing yards and three touchdowns in Tennessee\u2019s win over Clemson.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35351456/tennessee-tops-clemson-orange-bowl-cap-best-year-01",
+          "excerpts": [
+            "# Tennessee tops Clemson in Orange Bowl to cap best year since '01\n\nplay\n\nJoe Milton's stellar performance helps Tennessee win the Orange Bowl (2:03)\n\nTennessee QB Joe Milton III tosses for 251 yards and three touchdowns as the Volunteers defeat Clemson in the Capital One Orange Bowl. (2:03)\n\n* ESPN News Services\n\nDec 31, 2022, 12:31 AM ET\n\n*"
+          ],
+          "title": "Tennessee tops Clemson in Orange Bowl to cap best year since '01 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

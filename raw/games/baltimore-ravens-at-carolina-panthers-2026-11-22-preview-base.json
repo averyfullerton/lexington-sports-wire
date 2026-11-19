@@ -1,0 +1,325 @@
+{
+  "run_id": "trun_1714e31eeb204d3295597179775cf6e5",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 103.7,
+  "input": {
+    "away_team": "Baltimore Ravens",
+    "home_team": "Carolina Panthers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "4-6",
+    "away_team": "Baltimore Ravens",
+    "storyline": "Carolina enters as the NFC South leader at 4-5, while Baltimore is fourth in the AFC North at 4-6. The game gives both teams an opportunity to improve their position in their respective division races.",
+    "matchup_notes": [
+      "The Ravens are fourth in the AFC North at 4-6; the Panthers lead the NFC South at 4-5.",
+      "Baltimore is coming off a 23-20 Week 10 loss to the Los Angeles Chargers.",
+      "Carolina is averaging 24.3 points per game, ranked 12th, while Baltimore is averaging 20.9, ranked 22nd.",
+      "The Panthers average 353.6 yards per game, ranked 10th; the Ravens average 328.3, ranked 16th."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "699 rushing yards, 10 TD",
+        "team": "Baltimore Ravens",
+        "name": "Derrick Henry"
+      },
+      {
+        "stat_line": "2,397 passing yards, 16 TD, 6 INT",
+        "team": "Carolina Panthers",
+        "name": "Bryce Young"
+      }
+    ],
+    "home_record": "4-5",
+    "home_team": "Carolina Panthers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game-center entry lists the Ravens at 4-6 before the scheduled Week 11 matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Baltimore Ravens BAL Baltimore Ravens RAVENS Baltimore Ravens BALTIMORE RAVENS 4-6 4 wins, 6 losses, 0 ties Carolina Panthers CAR Carolina Panthers PANTHERS Carolina Panthers CAROLINA PANTHERS 4-5 4 wins, 5 losses, 0 ties FOX network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center entry names the Baltimore Ravens as the away team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Baltimore Ravens BAL Baltimore Ravens RAVENS Baltimore Ravens BALTIMORE RAVENS 4-6 4 wins, 6 losses, 0 ties Carolina Panthers CAR Carolina Panthers PANTHERS Carolina Panthers CAROLINA PANTHERS 4-5 4 wins, 5 losses, 0 ties FOX network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The standings identify Baltimore as fourth in the AFC North at 4-6 and Carolina as first in the NFC South at 4-5. These positions ground the division-race context of the matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "Baltimore Ravens 4th AFC North 4 - 6 - 0 [Buy Gear](https://www.nflshop.com/baltimore-ravens/t-36590255+z-9152346-3829362677?_s=bm-nflcom-team-page-buy-gear-052220-Ravens)"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/carolina-panthers",
+          "excerpts": [
+            "Carolina Panthers 1st NFC South 4 - 5 - 0 [Buy Gear](https://www.nflshop.com/carolina-panthers/t-36484679+z-9917544-2409711364?_s=bm-nflcom-team-page-buy-gear-052220-Panthers)"
+          ],
+          "title": "Carolina Panthers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited standings support the teams' division positions and records. The game-center recent-games entry shows Baltimore's Week 10 loss, and its season-at-a-glance figures report each team's points and yards per game and rankings.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "Baltimore Ravens 4th AFC North 4 - 6 - 0 [Buy Gear](https://www.nflshop.com/baltimore-ravens/t-36590255+z-9152346-3829362677?_s=bm-nflcom-team-page-buy-gear-052220-Ravens)"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/carolina-panthers",
+          "excerpts": [
+            "Carolina Panthers 1st NFC South 4 - 5 - 0 [Buy Gear](https://www.nflshop.com/carolina-panthers/t-36484679+z-9917544-2409711364?_s=bm-nflcom-team-page-buy-gear-052220-Panthers)"
+          ],
+          "title": "Carolina Panthers News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "[Week 10 Wk 10 vs versus Los Angeles Chargers Logo CHARGERS L Loss 23-20 23 to 20 points Watch Replay Replay Button](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10?active-tab=watch) [Week 9 Wk 9 vs versus Jacksonville Jaguars Logo JAGUARS L Loss 33-10 33 to 10 points Watch Replay Replay",
+            "Baltimore Ravens Carolina Panthers Baltimore Ravens, POINTS PER GAME, 20.9, ranked 22nd. 20.9 22ND POINTS PER GAME Carolina Panthers, POINTS PER GAME, 24.3, ranked 12th. 24.3 12TH Baltimore Ravens, YARDS PER GAME, 328.3, ranked 16th. 328.3 16TH YARDS PER GAME Carolina Panthers, YARDS PER GAME, 353.6, ranked 10th."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL game-center leaders provide Henry's rushing total and touchdown count and Young's passing yards, touchdowns, and interceptions. The player references identify Henry by his full name, and the Panthers player record identifies Bryce Young by his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Young 2397 YDS 60.1%CMP 16TD 6INT](https://www.nfl.com/players/bryce-young/stats) RUSHING [D. Henry 699 YDS 185ATT 10TD 3.8AVG](https://www.nfl.com/players/derrick-henry/stats) RUSHING [C."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/bal/season/2026/seasontype/2/sort/receivingBigPlays",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Lamar Jackson ### Lamar Jackson QB 967](https://www.espn.com/nfl/player/_/id/3916387/lamar-jackson) [## Rushing Yards Derrick Henry ### Derrick Henry RB 632](https://www.espn.com/nfl/player/_/id/3043078/derrick-henry) [## Receiving Yards Zay Flowers ### Zay Flowers WR 608](https://www.espn.com/nfl/player/_/id/4429615/zay-flowers) [## Tackles Roquan"
+          ],
+          "title": "Baltimore Ravens 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://amp.nfl.com/players/bryce-young/stats/",
+          "excerpts": [
+            "# Bryce Young Stats Summary | NFL.com\n\n# Bryce Young\n\nQB \u2022 \\#9\n\n[Carolina Panthers](https://amp.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://amp.nfl.com/players/bryce-young/)"
+          ],
+          "title": "Bryce Young Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game-center entry lists the Panthers at 4-5 before the scheduled Week 11 matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Baltimore Ravens BAL Baltimore Ravens RAVENS Baltimore Ravens BALTIMORE RAVENS 4-6 4 wins, 6 losses, 0 ties Carolina Panthers CAR Carolina Panthers PANTHERS Carolina Panthers CAROLINA PANTHERS 4-5 4 wins, 5 losses, 0 ties FOX network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center entry names the Carolina Panthers as the home team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content Baltimore Ravens BAL Baltimore Ravens RAVENS Baltimore Ravens BALTIMORE RAVENS 4-6 4 wins, 6 losses, 0 ties Carolina Panthers CAR Carolina Panthers PANTHERS Carolina Panthers CAROLINA PANTHERS 4-5 4 wins, 5 losses, 0 ties FOX network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists Ravens at Panthers for Sunday, November 22. Since the specified current date is November 19, the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/baltimore-ravens",
+          "excerpts": [
+            "Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* [Ravens at Panthers, Sunday, November 22nd, 1:00 PM, FOX](https://www.nfl.com/games/ravens-at-panthers-2026-reg-11)\n  \n  LOCAL\n  \n  Baltimore Ravens Team Logo RAVENS"
+          ],
+          "title": "NFL 2026 Baltimore Ravens Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The team entries show Baltimore fourth in the AFC North at 4-6 and Carolina first in the NFC South at 4-5.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "Baltimore Ravens 4th AFC North 4 - 6 - 0 [Buy Gear](https://www.nflshop.com/baltimore-ravens/t-36590255+z-9152346-3829362677?_s=bm-nflcom-team-page-buy-gear-052220-Ravens)"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/carolina-panthers",
+          "excerpts": [
+            "Carolina Panthers 1st NFC South 4 - 5 - 0 [Buy Gear](https://www.nflshop.com/carolina-panthers/t-36484679+z-9917544-2409711364?_s=bm-nflcom-team-page-buy-gear-052220-Panthers)"
+          ],
+          "title": "Carolina Panthers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Ravens' recent-games entry records a Week 10 loss to the Chargers by a score of 23-20.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "[Week 10 Wk 10 vs versus Los Angeles Chargers Logo CHARGERS L Loss 23-20 23 to 20 points Watch Replay Replay Button](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10?active-tab=watch) [Week 9 Wk 9 vs versus Jacksonville Jaguars Logo JAGUARS L Loss 33-10 33 to 10 points Watch Replay Replay"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The game-center season summary gives Carolina's 24.3 points per game and 12th-place ranking, compared with Baltimore's 20.9 and 22nd-place ranking.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Baltimore Ravens Carolina Panthers Baltimore Ravens, POINTS PER GAME, 20.9, ranked 22nd. 20.9 22ND POINTS PER GAME Carolina Panthers, POINTS PER GAME, 24.3, ranked 12th."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The season summary reports Baltimore at 328.3 yards per game, ranked 16th, and Carolina at 353.6, ranked 10th.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "24.3 12TH Baltimore Ravens, YARDS PER GAME, 328.3, ranked 16th. 328.3 16TH YARDS PER GAME Carolina Panthers, YARDS PER GAME, 353.6, ranked 10th."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NFL game-center rushing leader entry lists 699 yards and 10 touchdowns for Henry; the linked player record supplies his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Young 2397 YDS 60.1%CMP 16TD 6INT](https://www.nfl.com/players/bryce-young/stats) RUSHING [D. Henry 699 YDS 185ATT 10TD 3.8AVG](https://www.nfl.com/players/derrick-henry/stats) RUSHING [C."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/bal/season/2026/seasontype/2/sort/receivingBigPlays",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Lamar Jackson ### Lamar Jackson QB 967](https://www.espn.com/nfl/player/_/id/3916387/lamar-jackson) [## Rushing Yards Derrick Henry ### Derrick Henry RB 632](https://www.espn.com/nfl/player/_/id/3043078/derrick-henry) [## Receiving Yards Zay Flowers ### Zay Flowers WR 608](https://www.espn.com/nfl/player/_/id/4429615/zay-flowers) [## Tackles Roquan"
+          ],
+          "title": "Baltimore Ravens 2026 NFL Regular Season Players Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL game-center passing leader entry lists Young with 2,397 yards, 16 touchdowns, and six interceptions; the Panthers player record gives his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Jackson 967 YDS 70.1%CMP 6TD 1INT](https://www.nfl.com/players/lamar-jackson/stats) PASSING [B. Young 2397 YDS 60.1%CMP 16TD 6INT](https://www.nfl.com/players/bryce-young/stats) RUSHING [D."
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://amp.nfl.com/players/bryce-young/stats/",
+          "excerpts": [
+            "# Bryce Young Stats Summary | NFL.com\n\n# Bryce Young\n\nQB \u2022 \\#9\n\n[Carolina Panthers](https://amp.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://amp.nfl.com/players/bryce-young/)"
+          ],
+          "title": "Bryce Young Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Derrick Henry has 699 rushing yards and 10 TDs this season! Watch his powerful runs. His Baltimore Ravens (4-6) visit the Carolina Panthers (4-5) in Carolina. Both teams can climb in their division races. The Panthers lead the NFC South. They average 24.3 points per game.",
+    "big_words": [
+      {
+        "word": "powerful",
+        "definition": "Very strong.",
+        "example": "Omar watched a powerful lion stretch at the zoo."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1068,
+        "output": 268
+      }
+    ]
+  }
+}

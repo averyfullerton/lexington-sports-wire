@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_415f3f698c1f435b8b92f5b6753c16c3",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 78.4,
+  "input": {
+    "player": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Illinois",
+    "fun_facts": [
+      "Chase Brown was born in London, Ontario, two minutes before his identical twin, Sydney; they played football together in peewee leagues.",
+      "As a freshman at Western Michigan, Chase Brown gained 352 rushing yards and returned 12 kickoffs.",
+      "In 2022, Chase Brown led the Power 5 in rushing with 1,643 yards and scored 10 touchdowns.",
+      "Chase Brown became Illinois' first running back to be a Doak Walker Award finalist and finished as the school's second-leading career rusher, with 3,558 yards."
+    ],
+    "draft": "2023, round 5, pick 163"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN account says Chase Brown spent one year at Western Michigan before transferring to Illinois, where he played four seasons. Pro-Football-Reference lists both colleges in that order, supporting Illinois as his last college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-rookie-rb-chase-brown-turning-heads-late-in-season-he-s-a-fast-guy-real-",
+          "excerpts": [
+            "He's had opportunities to show how fast he is. Second fastest? That's pretty good. He's a fast guy. Real fast.\"\n\nBrown spent one year at Western Michigan before transferring to Illinois in 2019, where he spent four seasons. In his final year with the Illini, the running back gobbled up 1,643 yards and 10 TDs on 328 carries.\n\n\"I was more slow-paced (in college),\" Brown said."
+          ],
+          "title": "Bengals rookie RB Chase Brown turning heads late in season: 'He's a fast guy. Real fast' | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BrowCh10/gamelog/2024/advanced",
+          "excerpts": [
+            "**College** : [Western Michigan](https://www.pro-football-reference.com/schools/westmichigan/) , [Illinois](https://www.pro-football-reference.com/schools/illinois/) ( [College Stats](https://www.sports-reference.com/cfb/players/chase-brown-3.html) )\n\n**[Weighted Career AV (100-95-...)](https://www.pro-football-reference.com/about/approximate_value.htm) :** 22 (5359th overall since 1960)"
+          ],
+          "title": "Chase Brown 2024 Advanced Game Log | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support the twin and peewee-football fact, Brown's freshman statistics at Western Michigan, his 2022 Power 5 rushing and touchdown totals, and his Illinois Doak Walker and career-rushing milestones.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/42002557/twins-sports-nfl-nba-mlb-nhl-wnba-soccer-tennis-olympics-nascar",
+          "excerpts": [
+            "The two not only know each other, but they [grew up together](https://www.espn.com/college-football/story/_/id/35524090/twins-chase-brown-sydney-brown-nfl-draft-dreams) . They were born together. They're identical twins.\n\nBorn two minutes apart on March 21, 2000, in London, Ontario, the two brothers played together in pee wee leagues and later became football stars together for the [Illinois Fighting Illini](https://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini) .\n\nTheir paths continued to intertwine with the NFL, when they both were drafted in 2023. Sydney, a safety, was a third-round pick with the [Philadelphia Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) , while Chase, a running back, was selected two rounds later by"
+          ],
+          "title": "Twins in sports include Barbers, Cansecos, Lundqvists, more - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35524090/twins-chase-brown-sydney-brown-nfl-draft-dreams",
+          "excerpts": [
+            "Like many twins, though, the Browns are drawn to each other.\n\nAs a freshman in 2018, Chase had 352 rushing yards for Western Michigan and returned 12 kickoffs."
+          ],
+          "title": "'It's been a journey': The Brown twins' long road toward NFL dreams - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35311034/illinois-chase-brown-entering-nfl-draft-led-power-5-rushing",
+          "excerpts": [
+            "Brown led the Power 5 and was third in the FBS this season with 1,643 rushing yards along with 10 touchdowns.\n\nThe first running back in program history to be named a Doak Walker Award finalist, Brown leaves Champaign as the school's second-leading career rusher (3,558 yards from 2019 to '22) behind Robert Holcombe (4,105 yards from 1994 to '97) and with the third-highest single-season rushing total behind Mikel Leshoure (1,697 yards in 2010) and Rashard Mendenhall (1,681 yards in 2007)."
+          ],
+          "title": "Illinois' Chase Brown entering NFL draft; led Power 5 in rushing - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN's player biography states that Chase Brown was selected in 2023, in round 5, pick 163, by Cincinnati.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4362238/chase-brown",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Chase Brown\n\nCincinnati Bengals\n\n* [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n* \\#30\n* Running Back\n\n* HT/WT\n  \n  5' 10\", 210 lbs\n* Birthdate\n  \n  3/21/2000 (26)\n* College\n  \n  [Illinois](https://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini)\n* Draft Info\n  \n  2023: Rd 5, Pk 163 (CIN)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* CAR\n  \n  94\n  \n  Tied-22nd\n  \n  YDS\n  \n  340\n  \n  24th\n  \n  TD\n  \n  1\n  \n  Tied-37th\n  \n  AVG\n  \n  3\\.6\n  \n  35th"
+          ],
+          "title": "Chase Brown Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage identifies Chase and Sydney as identical twins born two minutes apart in London, Ontario, and says they played together in peewee leagues.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/42002557/twins-sports-nfl-nba-mlb-nhl-wnba-soccer-tennis-olympics-nascar",
+          "excerpts": [
+            "The two not only know each other, but they [grew up together](https://www.espn.com/college-football/story/_/id/35524090/twins-chase-brown-sydney-brown-nfl-draft-dreams) . They were born together. They're identical twins.\n\nBorn two minutes apart on March 21, 2000, in London, Ontario, the two brothers played together in pee wee leagues and later became football stars together for the [Illinois Fighting Illini](https://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini) .\n\nTheir paths continued to intertwine with the NFL, when they both were drafted in 2023. Sydney, a safety, was a third-round pick with the [Philadelphia Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) , while Chase, a running back, was selected two rounds later by"
+          ],
+          "title": "Twins in sports include Barbers, Cansecos, Lundqvists, more - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says that as a Western Michigan freshman, Chase Brown had 352 rushing yards and returned 12 kickoffs.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35524090/twins-chase-brown-sydney-brown-nfl-draft-dreams",
+          "excerpts": [
+            "Like many twins, though, the Browns are drawn to each other.\n\nAs a freshman in 2018, Chase had 352 rushing yards for Western Michigan and returned 12 kickoffs."
+          ],
+          "title": "'It's been a journey': The Brown twins' long road toward NFL dreams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that Brown led the Power 5 with 1,643 rushing yards and had 10 touchdowns that season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35311034/illinois-chase-brown-entering-nfl-draft-led-power-5-rushing",
+          "excerpts": [
+            "Brown led the Power 5 and was third in the FBS this season with 1,643 rushing yards along with 10 touchdowns.\n\nThe first running back in program history to be named a Doak Walker Award finalist, Brown leaves Champaign as the school's second-leading career rusher (3,558 yards from 2019 to '22) behind Robert Holcombe (4,105 yards from 1994 to '97) and with the third-highest single-season rushing total behind Mikel Leshoure (1,697 yards in 2010) and Rashard Mendenhall (1,681 yards in 2007)."
+          ],
+          "title": "Illinois' Chase Brown entering NFL draft; led Power 5 in rushing - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage names Brown as the first running back in Illinois program history to be a Doak Walker Award finalist and says he left as the school's second-leading career rusher with 3,558 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35311034/illinois-chase-brown-entering-nfl-draft-led-power-5-rushing",
+          "excerpts": [
+            "Brown led the Power 5 and was third in the FBS this season with 1,643 rushing yards along with 10 touchdowns.\n\nThe first running back in program history to be named a Doak Walker Award finalist, Brown leaves Champaign as the school's second-leading career rusher (3,558 yards from 2019 to '22) behind Robert Holcombe (4,105 yards from 1994 to '97) and with the third-highest single-season rushing total behind Mikel Leshoure (1,697 yards in 2010) and Rashard Mendenhall (1,681 yards in 2007)."
+          ],
+          "title": "Illinois' Chase Brown entering NFL draft; led Power 5 in rushing - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

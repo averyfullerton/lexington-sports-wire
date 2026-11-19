@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_415f3f698c1f435b8aebc4631da137af",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 145.6,
+  "input": {
+    "player": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oregon",
+    "fun_facts": [
+      "At age 7, Justin Herbert entered a track meet in his hometown of Eugene and competed in the softball throw; after a string of wins, he made it to a national meet in Hershey, Pennsylvania.",
+      "Justin Herbert was a three-sport star at Sheldon High School in Eugene, Oregon.",
+      "In 2016, Justin Herbert became Oregon\u2019s first true freshman to start at quarterback in 33 years.",
+      "Justin Herbert ran for three touchdowns in Oregon\u2019s Rose Bowl win, becoming the first quarterback to do that in the Rose Bowl since Vince Young.",
+      "As a senior at Oregon in 2019, Justin Herbert threw for 3,471 yards and 32 touchdowns."
+    ],
+    "draft": "2020, round 1, pick 6"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Justin Herbert\u2019s college as Oregon.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4038941/justin-herbert",
+          "excerpts": [
+            "# Justin Herbert\n\nLos Angeles Chargers\n\n* [Los Angeles Chargers Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers)\n* \\#10\n* Quarterback QB\n\n* HT/WT\n  \n  6' 6\", 236 lbs\n* Birthdate\n  \n  3/10/1998 (28)\n* College\n  \n  [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks)\n\nFollow\n\n* HT/WT\n  \n  6' 6\", 236 lbs\n* Birthdate\n  \n  3/10/1998 (28)\n* College\n  \n  [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks)\n* Draft Info\n  \n  2020: Rd 1, Pk 6 (LAC)\n* Status\n  \n  Active"
+          ],
+          "title": "Justin Herbert Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support, respectively, Herbert\u2019s childhood softball-throw competition, three-sport high-school background, Oregon freshman starting milestone, Rose Bowl rushing achievement, and senior-season passing figures. Each fact is also cited individually below.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35426623/how-justin-herbert-helped-turn-la-chargers-around",
+          "excerpts": [
+            "This is nothing new. Herbert has always been great at this throwing business. He was 7 when he entered his first all-comers track meet in his hometown of Eugene, Oregon, where his grandfather was a track coach. There was no discus or shot put for 7-year-olds, so Justin competed in the softball throw. From one week to the next, he kept throwing and winning until that arm carried him all the way to Hershey, Pennsylvania, where he competed in a national meet."
+          ],
+          "title": "'A silent killer with great hair': How Justin Herbert helped turn the L.A. Chargers around - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/24726591/oregon-ducks-justin-herbert-garnering-heisman-trophy-nfl-draft-buzz",
+          "excerpts": [
+            "Herbert wasn't highly recruited as a three-sport star at Sheldon High School in Eugene. For a while, he thought he would play at Montana State, one of his first scholarship offers, and where his older brother Mitch played receiver.",
+            "Herbert committed almost immediately.\n\nIn 2016, he became the first true freshman to start at quarterback for the Ducks in 33 years, but his career trajectory hasn't always been smooth."
+          ],
+          "title": "If you haven't seen Oregon QB Justin Herbert yet, you're missing out - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28407477/justin-herbert-leads-oregon-rose-bowl-win-3-rushing-tds",
+          "excerpts": [
+            "# Justin Herbert leads Oregon to Rose Bowl win with 3 rushing TDs\n\nplay\n\nJustin Herbert runs for 3 TDs in Rose Bowl win (2:37)\n\n* Kyle Bonagura Jan 1, 2020, 11:21 PM ET\n  \n  Close\n  \n    + Covers college football.\n    + Joined ESPN in 2014.\n    + Attended Washington State University.\n  \n  [Follow on X](http://twitter.com/intent/user?screen_name=BonaguraESPN)\n\n* Copy Link"
+          ],
+          "title": "Justin Herbert leads Oregon to Rose Bowl win with 3 rushing TDs - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/los-angeles-chargers/post/_/id/27748/justin-herberts-long-ball-skills-already-paying-dividends-for-the-chargers",
+          "excerpts": [
+            "He threw for more than 3,100 yards in each of his final two seasons at Oregon -- passing for 3,151 yards and 29 touchdowns as a junior in 2018 and 3,471 yards and 32 touchdowns as a senior in 2019 after coaches told him, finally, to air it out."
+          ],
+          "title": "Justin Herbert's long ball already paying dividends for Chargers - ESPN - Los Angeles Chargers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography gives his draft information as 2020, Round 1, Pick 6 for the Chargers.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4038941/justin-herbert",
+          "excerpts": [
+            "# Justin Herbert\n\nLos Angeles Chargers\n\n* [Los Angeles Chargers Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers)\n* \\#10\n* Quarterback QB\n\n* HT/WT\n  \n  6' 6\", 236 lbs\n* Birthdate\n  \n  3/10/1998 (28)\n* College\n  \n  [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks)\n\nFollow\n\n* HT/WT\n  \n  6' 6\", 236 lbs\n* Birthdate\n  \n  3/10/1998 (28)\n* College\n  \n  [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks)\n* Draft Info\n  \n  2020: Rd 1, Pk 6 (LAC)\n* Status\n  \n  Active"
+          ],
+          "title": "Justin Herbert Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Herbert entered a hometown track meet at age 7, competed in the softball throw, kept winning, and reached a national meet in Hershey.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35426623/how-justin-herbert-helped-turn-la-chargers-around",
+          "excerpts": [
+            "This is nothing new. Herbert has always been great at this throwing business. He was 7 when he entered his first all-comers track meet in his hometown of Eugene, Oregon, where his grandfather was a track coach. There was no discus or shot put for 7-year-olds, so Justin competed in the softball throw. From one week to the next, he kept throwing and winning until that arm carried him all the way to Hershey, Pennsylvania, where he competed in a national meet."
+          ],
+          "title": "'A silent killer with great hair': How Justin Herbert helped turn the L.A. Chargers around - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage describes Herbert as a three-sport star at Sheldon High School in Eugene.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/24726591/oregon-ducks-justin-herbert-garnering-heisman-trophy-nfl-draft-buzz",
+          "excerpts": [
+            "Herbert wasn't highly recruited as a three-sport star at Sheldon High School in Eugene. For a while, he thought he would play at Montana State, one of his first scholarship offers, and where his older brother Mitch played receiver."
+          ],
+          "title": "If you haven't seen Oregon QB Justin Herbert yet, you're missing out - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that in 2016 Herbert became the first true freshman to start at quarterback for Oregon in 33 years.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/24726591/oregon-ducks-justin-herbert-garnering-heisman-trophy-nfl-draft-buzz",
+          "excerpts": [
+            "Herbert committed almost immediately.\n\nIn 2016, he became the first true freshman to start at quarterback for the Ducks in 33 years, but his career trajectory hasn't always been smooth."
+          ],
+          "title": "If you haven't seen Oregon QB Justin Herbert yet, you're missing out - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN passage headline states that Herbert led Oregon\u2019s Rose Bowl win with three rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28407477/justin-herbert-leads-oregon-rose-bowl-win-3-rushing-tds",
+          "excerpts": [
+            "# Justin Herbert leads Oregon to Rose Bowl win with 3 rushing TDs\n\nplay\n\nJustin Herbert runs for 3 TDs in Rose Bowl win (2:37)\n\n* Kyle Bonagura Jan 1, 2020, 11:21 PM ET\n  \n  Close\n  \n    + Covers college football.\n    + Joined ESPN in 2014.\n    + Attended Washington State University.\n  \n  [Follow on X](http://twitter.com/intent/user?screen_name=BonaguraESPN)\n\n* Copy Link"
+          ],
+          "title": "Justin Herbert leads Oregon to Rose Bowl win with 3 rushing TDs - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage gives Herbert\u2019s Oregon senior-season 2019 totals as 3,471 passing yards and 32 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/los-angeles-chargers/post/_/id/27748/justin-herberts-long-ball-skills-already-paying-dividends-for-the-chargers",
+          "excerpts": [
+            "He threw for more than 3,100 yards in each of his final two seasons at Oregon -- passing for 3,151 yards and 29 touchdowns as a junior in 2018 and 3,471 yards and 32 touchdowns as a senior in 2019 after coaches told him, finally, to air it out."
+          ],
+          "title": "Justin Herbert's long ball already paying dividends for Chargers - ESPN - Los Angeles Chargers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

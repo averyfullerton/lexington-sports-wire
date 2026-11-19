@@ -1,0 +1,186 @@
+{
+  "run_id": "trun_415f3f698c1f435ba5d8b378618dea1b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 106.2,
+  "input": {
+    "player": "KC Concepcion",
+    "team": "Cleveland Browns",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas A&M",
+    "fun_facts": [
+      "KC Concepcion was born in Charlotte, North Carolina.",
+      "His college stops included NC State and Texas A&M.",
+      "KC Concepcion won the 2025 Paul Hornung Award, which recognizes college football\u2019s most versatile player.",
+      "In his Texas A&M debut, he caught a touchdown pass and returned a punt for a touchdown. He was the first Aggies player to do both in one game since Christian Kirk in 2017."
+    ],
+    "draft": "2026, round 1, pick 24"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The career-history entry lists Texas A&M and NC State; the college season listings place Concepcion at Texas A&M in 2025, making it his last college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4870653/kevin-concepcion",
+          "excerpts": [
+            "[Texas A&M Aggies Texas A&M Aggies 2025-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies) [NC State Wolfpack NC State Wolfpack 2023-2025 (2 Seasons)](https://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack)",
+            "Texas A&M Aggies vs. LSU Tigers: Full Highlights\n\n* 1:14\n\nKC Concepcion takes punt return to the house for Texas A&M\n\n* 0:36"
+          ],
+          "title": "KC Concepcion Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The ESPN biography gives Charlotte as Concepcion\u2019s birthplace. His career history names NC State and Texas A&M. ESPN\u2019s award listings identify him as the 2025 Paul Hornung Award winner and describe the award as recognizing the most versatile player. The game recap reports his touchdown catch and punt-return touchdown in his Texas A&M debut, and says he was the first Aggies player to record both in one game since 2017.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/news/_/id/4870653/kc-concepcion",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nTexas A&M Aggies KC Concepcion\n\n# KC Concepcion\n\nTexas A&M Aggies\n\n* [Texas A&M Aggies](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n* \\#7\n* Wide Receiver\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 11\", 190 lbs\n* Birthplace\n  \n  Charlotte, NC\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* REC\n  \n  61\n  \n  Tied-57th\n* YDS\n  \n  919\n  \n  37th\n* TD\n  \n  9\n  \n  Tied-17th\n* AVG\n  \n  15\\.1\n  \n  95th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion)"
+          ],
+          "title": "KC Concepcion News - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4870653/kevin-concepcion",
+          "excerpts": [
+            "[Texas A&M Aggies Texas A&M Aggies 2025-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies) [NC State Wolfpack NC State Wolfpack 2023-2025 (2 Seasons)](https://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack)",
+            "Texas A&M Aggies vs. LSU Tigers: Full Highlights\n\n* 1:14\n\nKC Concepcion takes punt return to the house for Texas A&M\n\n* 0:36"
+          ],
+          "title": "KC Concepcion Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/awards/_/year/2025",
+          "excerpts": [
+            "|Lott IMPACT Trophy |[Caleb Downs](https://www.espn.com/college-football/player/_/id/4870706/caleb-downs) |[Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes) |\n|Paul Hornung Award |[KC Concepcion](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) |[Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-a%26m-aggies) |\n|Disney Spirit Award |[Jeremiyah Love](https://www.espn.com/college-football/player/_/id/4870808/jeremiyah-love) |[Notre"
+          ],
+          "title": "2025 NCAA College Football Awards Winners - ESPN"
+        },
+        {
+          "url": "http://www.espn.com/college-football/awards",
+          "excerpts": [
+            "|[2023](http://www.espn.com/college-football/awards/_/year/2023) |[Junior Colson](https://www.espn.com/college-football/player/_/id/4431212/junior-colson) |[MICH](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) |\n|[View All Winners](http://www.espn.com/college-football/awards/_/id/30) | | |\n\n|Paul Hornung Award | | |\n| --- | --- | --- |\n|Most Versatile Player | | |\n|[2025](http://www.espn.com/college-football/awards/_/year/2025) |[KC Concepcion](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) |[TA&M](https://www.espn.com/college-football/team/_/id/245/texas-a%26m-aggies) |"
+          ],
+          "title": "NCAA College Football Awards - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752678",
+          "excerpts": [
+            "# Reed's career-high 4 TD passes and Concepcion's strong debut lead Texas A&M to 42-24 win over UTSA\n\n0:49\n\n## KC Concepcion with a spectacular touchdown vs. UTSA Roadrunners\n\n* * *\n\nBy AP\n\nAug 31, 2025, 03:50 pm\n\nFacebook Facebook Messenger Twitter Email\n\nCOLLEGE STATION, Texas -- \u2014 [Marcel Reed](http://www.espn.com/college-football/player/_/id/4870971/marcel-reed) threw for a career-high four touchdowns and [KC Concepcion](http://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) had a TD reception and returned a punt for another score in his Texas A&M debut as the 19th-ranked Aggies rolled to a season-opening 42-24 win over UTSA on Saturday night.\n\n[Robert Henry Jr](http://www.espn.com/college-football/player/_/id/5151317/robert-henry-jr) .\u2019s 75-yard touchdown run on the first play of the second half cut Texas A&M's lead to 21-17."
+          ],
+          "title": "Texas A&M 42-24 UTSA (Aug 30, 2025) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401752678",
+          "excerpts": [
+            "He had 72 yards receiving and became the first Aggies player to have a punt return touchdown and a TD grab in a game since Christian Kirk did it in 2017 against New Mexico."
+          ],
+          "title": "Texas A&M 42-24 UTSA (Aug 30, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft report states that Cleveland selected KC Concepcion in Round 1 of the 2026 draft with the No. 24 overall pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/browns-select-kc-concepcion-with-no-24-pick-in-2026-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Browns select KC Concepcion with No. 24 pick in 2026 draft\n\nThe Cleveland Browns select Texas A&M Aggies wide receiver KC Concepcion in Round 1 of the 2026 NFL Draft with the No. 24 overall pick (via a trade with the Jacksonville Jaguars).\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Cleveland Browns select Texas A&M Aggies wide receiver KC Concepcion with No. 24 pick in 2026 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The player biography lists Charlotte, North Carolina, as Concepcion\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/news/_/id/4870653/kc-concepcion",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nTexas A&M Aggies KC Concepcion\n\n# KC Concepcion\n\nTexas A&M Aggies\n\n* [Texas A&M Aggies](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n* \\#7\n* Wide Receiver\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 11\", 190 lbs\n* Birthplace\n  \n  Charlotte, NC\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* REC\n  \n  61\n  \n  Tied-57th\n* YDS\n  \n  919\n  \n  37th\n* TD\n  \n  9\n  \n  Tied-17th\n* AVG\n  \n  15\\.1\n  \n  95th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion)"
+          ],
+          "title": "KC Concepcion News - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The career history lists both Texas A&M and NC State, supporting the fact that those were his college stops.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4870653/kevin-concepcion",
+          "excerpts": [
+            "[Texas A&M Aggies Texas A&M Aggies 2025-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies) [NC State Wolfpack NC State Wolfpack 2023-2025 (2 Seasons)](https://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack)",
+            "Texas A&M Aggies vs. LSU Tigers: Full Highlights\n\n* 1:14\n\nKC Concepcion takes punt return to the house for Texas A&M\n\n* 0:36"
+          ],
+          "title": "KC Concepcion Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The award listing names KC Concepcion as the 2025 Paul Hornung Award winner, and the award table identifies it as the most-versatile-player award.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/awards/_/year/2025",
+          "excerpts": [
+            "|Lott IMPACT Trophy |[Caleb Downs](https://www.espn.com/college-football/player/_/id/4870706/caleb-downs) |[Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes) |\n|Paul Hornung Award |[KC Concepcion](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) |[Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-a%26m-aggies) |\n|Disney Spirit Award |[Jeremiyah Love](https://www.espn.com/college-football/player/_/id/4870808/jeremiyah-love) |[Notre"
+          ],
+          "title": "2025 NCAA College Football Awards Winners - ESPN"
+        },
+        {
+          "url": "http://www.espn.com/college-football/awards",
+          "excerpts": [
+            "|[2023](http://www.espn.com/college-football/awards/_/year/2023) |[Junior Colson](https://www.espn.com/college-football/player/_/id/4431212/junior-colson) |[MICH](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) |\n|[View All Winners](http://www.espn.com/college-football/awards/_/id/30) | | |\n\n|Paul Hornung Award | | |\n| --- | --- | --- |\n|Most Versatile Player | | |\n|[2025](http://www.espn.com/college-football/awards/_/year/2025) |[KC Concepcion](https://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) |[TA&M](https://www.espn.com/college-football/team/_/id/245/texas-a%26m-aggies) |"
+          ],
+          "title": "NCAA College Football Awards - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap says Concepcion had a touchdown reception and returned a punt for a touchdown in his Texas A&M debut; it also identifies him as the first Aggies player since 2017 to do both in a game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752678",
+          "excerpts": [
+            "# Reed's career-high 4 TD passes and Concepcion's strong debut lead Texas A&M to 42-24 win over UTSA\n\n0:49\n\n## KC Concepcion with a spectacular touchdown vs. UTSA Roadrunners\n\n* * *\n\nBy AP\n\nAug 31, 2025, 03:50 pm\n\nFacebook Facebook Messenger Twitter Email\n\nCOLLEGE STATION, Texas -- \u2014 [Marcel Reed](http://www.espn.com/college-football/player/_/id/4870971/marcel-reed) threw for a career-high four touchdowns and [KC Concepcion](http://www.espn.com/college-football/player/_/id/4870653/kc-concepcion) had a TD reception and returned a punt for another score in his Texas A&M debut as the 19th-ranked Aggies rolled to a season-opening 42-24 win over UTSA on Saturday night.\n\n[Robert Henry Jr](http://www.espn.com/college-football/player/_/id/5151317/robert-henry-jr) .\u2019s 75-yard touchdown run on the first play of the second half cut Texas A&M's lead to 21-17."
+          ],
+          "title": "Texas A&M 42-24 UTSA (Aug 30, 2025) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401752678",
+          "excerpts": [
+            "He had 72 yards receiving and became the first Aggies player to have a punt return touchdown and a TD grab in a game since Christian Kirk did it in 2017 against New Mexico."
+          ],
+          "title": "Texas A&M 42-24 UTSA (Aug 30, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

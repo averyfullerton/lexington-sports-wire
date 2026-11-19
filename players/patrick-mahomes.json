@@ -1,0 +1,131 @@
+{
+  "name": "Patrick Mahomes",
+  "espn_id": "3139477",
+  "team": "Kansas City Chiefs",
+  "team_abbr": "KC",
+  "number": "15",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Texas Tech",
+  "experience": 10,
+  "fun_facts": [
+    "Patrick pitched a no-hitter and struck out 16 batters in high school.",
+    "Patrick started playing football in seventh grade.",
+    "Patrick was the youngest quarterback to win Super Bowl MVP."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2017",
+        "KC",
+        "1",
+        "22",
+        "35",
+        "284",
+        "0",
+        "1"
+      ],
+      [
+        "2018",
+        "KC",
+        "16",
+        "383",
+        "580",
+        "5,097",
+        "50",
+        "12"
+      ],
+      [
+        "2019",
+        "KC",
+        "14",
+        "319",
+        "484",
+        "4,031",
+        "26",
+        "5"
+      ],
+      [
+        "2020",
+        "KC",
+        "15",
+        "390",
+        "588",
+        "4,740",
+        "38",
+        "6"
+      ],
+      [
+        "2021",
+        "KC",
+        "17",
+        "436",
+        "658",
+        "4,839",
+        "37",
+        "13"
+      ],
+      [
+        "2022",
+        "KC",
+        "17",
+        "435",
+        "648",
+        "5,250",
+        "41",
+        "12"
+      ],
+      [
+        "2023",
+        "KC",
+        "16",
+        "401",
+        "597",
+        "4,183",
+        "27",
+        "14"
+      ],
+      [
+        "2024",
+        "KC",
+        "16",
+        "392",
+        "581",
+        "3,928",
+        "26",
+        "11"
+      ],
+      [
+        "2025",
+        "KC",
+        "14",
+        "315",
+        "502",
+        "3,587",
+        "22",
+        "11"
+      ],
+      [
+        "2026",
+        "KC",
+        "9",
+        "199",
+        "298",
+        "2,385",
+        "19",
+        "4"
+      ]
+    ]
+  }
+}

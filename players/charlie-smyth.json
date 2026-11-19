@@ -1,0 +1,48 @@
+{
+  "name": "Charlie Smyth",
+  "espn_id": "5208518",
+  "team": "New Orleans Saints",
+  "team_abbr": "NO",
+  "number": "39",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": null,
+  "experience": 2,
+  "fun_facts": [
+    "Charlie made a 56-yard field goal and an onside kick in his NFL debut.",
+    "Charlie first kicked an American football in August 2023.",
+    "Charlie played goalkeeper for Down in Gaelic football before becoming an NFL kicker."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2025",
+        "NO",
+        "6",
+        "12-16",
+        "75.0",
+        "57",
+        "49"
+      ],
+      [
+        "2026",
+        "NO",
+        "2",
+        "4-5",
+        "80.0",
+        "55",
+        "16"
+      ]
+    ]
+  }
+}

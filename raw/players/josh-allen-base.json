@@ -1,0 +1,215 @@
+{
+  "run_id": "trun_415f3f698c1f435bb4a3b1114a09e426",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 71.0,
+  "input": {
+    "player": "Josh Allen",
+    "team": "Buffalo Bills",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Wyoming",
+    "fun_facts": [
+      "Josh Allen was born and raised in Firebaugh, California, a farming town of around 8,000 people.",
+      "Growing up, Josh Allen played baseball, basketball, football, golf, gymnastics, karate, and swimming.",
+      "At Firebaugh High School, Josh Allen was the basketball team\u2019s leading scorer and pitched a baseball at 90 mph.",
+      "In 2016 at Wyoming, Josh Allen threw for 3,203 yards and 28 touchdowns while helping the Cowboys reach an 8\u20136 record and the conference championship game.",
+      "Josh Allen won the NFL MVP award in 2024, becoming the first Buffalo Bills player to win it since Thurman Thomas in 1991.",
+      "In 2023, Josh Allen set an NFL single-season record by playing 11 games with both a passing and a rushing touchdown."
+    ],
+    "draft": "2018, round 1, pick 7"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN account says Allen began at Reedley College, transferred to Wyoming, and played there from 2015 to 2017. ESPN\u2019s player biography also lists Wyoming as his college, supporting Wyoming as the last college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/46159015/bills-qb-josh-allen-college-jersey-retired-wyoming",
+          "excerpts": [
+            "After starting his collegiate career as a no-star recruit and playing at Reedley College, a juco program in central California, Allen transferred to Wyoming, playing there from 2015 to 2017."
+          ],
+          "title": "Bills QB Josh Allen to have college jersey retired at Wyoming - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen",
+          "excerpts": [
+            "College [Wyoming](https://www.espn.com/college-football/team/_/id/2751/wyoming-cowboys)\n\nDraft Info 2018: Rd 1, Pk 7 (BUF)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Firebaugh, CA"
+          ],
+          "title": "Josh Allen Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited sources give Allen\u2019s hometown and childhood setting, the sports he played, his high-school basketball and baseball accomplishments, his 2016 Wyoming season, his 2024 MVP recognition and its place in Bills history, and his 2023 dual-touchdown-game record.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bills/fq5rnupbikgmglbhxahg",
+          "excerpts": [
+            "The son of Joel and LaVonne Allen, Josh is the second of four children (two sisters and one brother). He earned his degree from Wyoming with a major in communications. Also played basketball and baseball at Firebaugh HS.\n\n# **JOSH ALLEN**\n\n## **QB | 17**\n\n**AGE:** 28 (May 21, 1996) **|** **HT:** 6-5 **|** **WT:** 237\n\n**COLLEGE:** Wyoming\n\n**HOMETOWN:** Firebaugh, CA\n\n**JoshAllenQB**\n\n**NFL EXP:** 7 Years\n\n**ACQUIRED:** Draft (2018, R1)\n\n**joshallenqb**\n\n# **JOSH ALLEN**\n\n## **QB | 17**\n\n### HUMBLE BEGINNINGS\n\nAllen\u2019s journey to Buffalo has been no short trek. Born and raised in Firebaugh, California, Allen grew up in a farming town with a population of around 8,000 people."
+          ],
+          "title": "JOSH ALLEN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/20117075/wyoming-cowboys-josh-allen-goes-unknown-no-1-pick-nfl-draft-buzz",
+          "excerpts": [
+            "Joel and his wife, LaVonne, raised their four children on the ranch, and Josh, his younger brother Jason and sisters Nicala and Makenna were involved in sports at an early age. There is a basketball goal, swimming pool and batting cage at the ranch, and Josh grew up playing nearly every sport, including baseball, basketball, football, golf, gymnastics, karate and swimming."
+          ],
+          "title": "The NFL draft darling who couldn't get a college scholarship - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/next-big-thing",
+          "excerpts": [
+            "Allen did become a local star in Firebaugh, an agricultural community of roughly 7,500 people located 40 miles from Fresno. He was a standout quarterback, the leading scorer on the basketball team, a pitcher with a 90 mph fastball and a stellar student who served as the president of the Fellowship of Christian Athletes.",
+            "If you think that doesn't matter, just consider what being overlooked did for Tom Brady and Aaron Rodgers.\n\nIn 2016, Allen threw for 3,203 yards with 28 touchdown passes and 15 interceptions. He also led Wyoming, a team that was picked to finish last in the Mountain West's Mountain Division, to an 8-6 record, a spot in the conference championship game and a berth in the school's first bowl game in five years. Last season, he led the Cowboys to an 8-5 record and a win over Central Michigan in the Famous Idaho Potato Bowl."
+          ],
+          "title": "Why some are calling Josh Allen the best QB prospect since Cam Newton"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/3918298/josh-allen",
+          "excerpts": [
+            "College [Wyoming](https://africa.espn.com/college-football/team/_/id/2751/wyoming-cowboys)\n\nDraft Info 2018: Rd 1, Pk 7 (BUF)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Firebaugh, CA\n\n### Career History\n\n[Buffalo Bills Buffalo Bills 2018-CURRENT (9 Seasons)](https://africa.espn.com/nfl/team/_/name/buf/buffalo-bills)\n\n### Career Highlights\n\nNFL\n\nNFL MVP\n\nNFL MVP\n\n2024"
+          ],
+          "title": "Josh Allen Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43535835/buffalo-bills-josh-allen-quarterback-leader-present-2024-afc-championship-round",
+          "excerpts": [
+            "Allen is the first to win the MVP award in Buffalo since Thurman Thomas in 1991.\n\nWho is Josh Allen, the leader? And how has he grown in command? ESPN asked those who have witnessed Allen's leadership and growth, up close and personal.\n\n## **Firebaugh era**\n\nFirebaugh High School | Firebaugh, California\n\n2010-2014\n\n**\"Anytime that you were on his team, you had an opportunity to win, no matter what it was.\"**"
+          ],
+          "title": "Allen's teammates, past and present, reflect on the QB's leadership - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bills/swhqgdxrazwoqjvkmtzx",
+          "excerpts": [
+            "\u2022 In 2023, set an NFL single season record with 11 games\n\nwith a passing and rushing touchdown.\n\n\u2022 Recorded three consecutive games vs. KC with 300+\n\npassing yards, 3+ TDs and no interceptions."
+          ],
+          "title": "JOSH ALLEN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography explicitly lists the draft information as 2018, first round, pick 7, for Buffalo.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen",
+          "excerpts": [
+            "College [Wyoming](https://www.espn.com/college-football/team/_/id/2751/wyoming-cowboys)\n\nDraft Info 2018: Rd 1, Pk 7 (BUF)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Firebaugh, CA"
+          ],
+          "title": "Josh Allen Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Buffalo Bills biography says Allen was born and raised in Firebaugh and describes it as a farming town with around 8,000 people.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bills/fq5rnupbikgmglbhxahg",
+          "excerpts": [
+            "The son of Joel and LaVonne Allen, Josh is the second of four children (two sisters and one brother). He earned his degree from Wyoming with a major in communications. Also played basketball and baseball at Firebaugh HS.\n\n# **JOSH ALLEN**\n\n## **QB | 17**\n\n**AGE:** 28 (May 21, 1996) **|** **HT:** 6-5 **|** **WT:** 237\n\n**COLLEGE:** Wyoming\n\n**HOMETOWN:** Firebaugh, CA\n\n**JoshAllenQB**\n\n**NFL EXP:** 7 Years\n\n**ACQUIRED:** Draft (2018, R1)\n\n**joshallenqb**\n\n# **JOSH ALLEN**\n\n## **QB | 17**\n\n### HUMBLE BEGINNINGS\n\nAllen\u2019s journey to Buffalo has been no short trek. Born and raised in Firebaugh, California, Allen grew up in a farming town with a population of around 8,000 people."
+          ],
+          "title": "JOSH ALLEN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN article says Allen grew up playing baseball, basketball, football, golf, gymnastics, karate, and swimming.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/20117075/wyoming-cowboys-josh-allen-goes-unknown-no-1-pick-nfl-draft-buzz",
+          "excerpts": [
+            "Joel and his wife, LaVonne, raised their four children on the ranch, and Josh, his younger brother Jason and sisters Nicala and Makenna were involved in sports at an early age. There is a basketball goal, swimming pool and batting cage at the ranch, and Josh grew up playing nearly every sport, including baseball, basketball, football, golf, gymnastics, karate and swimming."
+          ],
+          "title": "The NFL draft darling who couldn't get a college scholarship - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL article describes Allen as Firebaugh\u2019s leading basketball scorer and a pitcher with a 90 mph fastball.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/next-big-thing",
+          "excerpts": [
+            "Allen did become a local star in Firebaugh, an agricultural community of roughly 7,500 people located 40 miles from Fresno. He was a standout quarterback, the leading scorer on the basketball team, a pitcher with a 90 mph fastball and a stellar student who served as the president of the Fellowship of Christian Athletes."
+          ],
+          "title": "Why some are calling Josh Allen the best QB prospect since Cam Newton"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL article gives Allen\u2019s 2016 passing totals and says he led Wyoming to an 8\u20136 season and the conference championship game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/next-big-thing",
+          "excerpts": [
+            "If you think that doesn't matter, just consider what being overlooked did for Tom Brady and Aaron Rodgers.\n\nIn 2016, Allen threw for 3,203 yards with 28 touchdown passes and 15 interceptions. He also led Wyoming, a team that was picked to finish last in the Mountain West's Mountain Division, to an 8-6 record, a spot in the conference championship game and a berth in the school's first bowl game in five years. Last season, he led the Cowboys to an 8-5 record and a win over Central Michigan in the Famous Idaho Potato Bowl."
+          ],
+          "title": "Why some are calling Josh Allen the best QB prospect since Cam Newton"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN lists Allen\u2019s 2024 NFL MVP honor; its account of his leadership says he was the first to win the award in Buffalo since Thurman Thomas in 1991.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/3918298/josh-allen",
+          "excerpts": [
+            "College [Wyoming](https://africa.espn.com/college-football/team/_/id/2751/wyoming-cowboys)\n\nDraft Info 2018: Rd 1, Pk 7 (BUF)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Firebaugh, CA\n\n### Career History\n\n[Buffalo Bills Buffalo Bills 2018-CURRENT (9 Seasons)](https://africa.espn.com/nfl/team/_/name/buf/buffalo-bills)\n\n### Career Highlights\n\nNFL\n\nNFL MVP\n\nNFL MVP\n\n2024"
+          ],
+          "title": "Josh Allen Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43535835/buffalo-bills-josh-allen-quarterback-leader-present-2024-afc-championship-round",
+          "excerpts": [
+            "Allen is the first to win the MVP award in Buffalo since Thurman Thomas in 1991.\n\nWho is Josh Allen, the leader? And how has he grown in command? ESPN asked those who have witnessed Allen's leadership and growth, up close and personal.\n\n## **Firebaugh era**\n\nFirebaugh High School | Firebaugh, California\n\n2010-2014\n\n**\"Anytime that you were on his team, you had an opportunity to win, no matter what it was.\"**"
+          ],
+          "title": "Allen's teammates, past and present, reflect on the QB's leadership - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Bills source states that Allen set an NFL single-season record in 2023 with 11 games featuring both a passing and a rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bills/swhqgdxrazwoqjvkmtzx",
+          "excerpts": [
+            "\u2022 In 2023, set an NFL single season record with 11 games\n\nwith a passing and rushing touchdown.\n\n\u2022 Recorded three consecutive games vs. KC with 300+\n\npassing yards, 3+ TDs and no interceptions."
+          ],
+          "title": "JOSH ALLEN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

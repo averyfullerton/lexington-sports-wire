@@ -1,0 +1,39 @@
+{
+  "name": "Chris Johnson",
+  "espn_id": "4869579",
+  "team": "Miami Dolphins",
+  "team_abbr": "MIA",
+  "number": "3",
+  "position": "Cornerback",
+  "position_abbr": "CB",
+  "college": "San Diego State",
+  "experience": 0,
+  "fun_facts": [
+    "Chris ran an interception back 97 yards for a touchdown in college.",
+    "Chris had 3 interceptions and 6 touchdowns in high school.",
+    "Chris was one of 3 Dolphins rookies with an interception that NFL season."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2026",
+        "MIA",
+        "9",
+        "46",
+        "0",
+        "2",
+        "1"
+      ]
+    ]
+  }
+}

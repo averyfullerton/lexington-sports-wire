@@ -1,0 +1,71 @@
+{
+  "name": "C.J. Stroud",
+  "espn_id": "4432577",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "7",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Ohio State",
+  "experience": 4,
+  "fun_facts": [
+    "C.J. dunked on kindergartners when he was just 3!",
+    "C.J. set a college team record with 573 passing yards in the Rose Bowl.",
+    "C.J. set an NFL rookie record with 470 passing yards in one game."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "HOU",
+        "15",
+        "319",
+        "499",
+        "4,108",
+        "23",
+        "5"
+      ],
+      [
+        "2024",
+        "HOU",
+        "17",
+        "336",
+        "532",
+        "3,727",
+        "20",
+        "12"
+      ],
+      [
+        "2025",
+        "HOU",
+        "14",
+        "273",
+        "423",
+        "3,041",
+        "19",
+        "8"
+      ],
+      [
+        "2026",
+        "HOU",
+        "9",
+        "201",
+        "320",
+        "2,462",
+        "19",
+        "3"
+      ]
+    ]
+  }
+}

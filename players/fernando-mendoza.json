@@ -1,0 +1,41 @@
+{
+  "name": "Fernando Mendoza",
+  "espn_id": "4837248",
+  "team": "Las Vegas Raiders",
+  "team_abbr": "LV",
+  "number": "15",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Indiana",
+  "experience": 0,
+  "fun_facts": [
+    "Fernando was the first Indiana Hoosier to win the Heisman Trophy.",
+    "Fernando helped Indiana go 16-0 and win the national championship.",
+    "Fernando won the Heisman and national championship, then went first in the NFL draft."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "LV",
+        "2",
+        "23",
+        "37",
+        "191",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

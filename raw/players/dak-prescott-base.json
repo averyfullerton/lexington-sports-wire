@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435b8df9d3fff0ee7d9b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 43.1,
+  "input": {
+    "player": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Mississippi State",
+    "fun_facts": [
+      "Dak Prescott grew up in Haughton, Louisiana, and played football wherever he could\u2014even on streets and in parking lots.",
+      "As a kid, Dak Prescott played tackle football without pads against his older, much bigger brothers and their friends.",
+      "Dak Prescott led Mississippi State to its first No. 1 ranking in 2014.",
+      "Dak Prescott left Mississippi State with 38 school records.",
+      "Rayne Dakota Prescott is his full name, and his family has called him Dak since birth."
+    ],
+    "draft": "2016, round 4, pick 135 (overall)"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN's biography identifies Prescott's college as Mississippi State (abbreviated there as Miss St).",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2577417/dak-prescott",
+          "excerpts": [
+            "Team [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\nPosition Quarterback\n\nHT/WT 6' 2\", 230 lbs\n\nBirthdate 7/29/1993 (33)\n\nCollege [Miss St](https://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs)\n\nDraft Info 2016: Rd 4, Pk 135 (DAL)\n\nStatus Active\n\nExperience 11th Season\n\nBirthplace Haughton, LA\n\n### Career History"
+          ],
+          "title": "Dak Prescott Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN accounts support Prescott's Haughton upbringing and childhood football, his Mississippi State ranking and school records, and the NFL.com article gives his full name and explains his family's nickname for him.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nfceast/post/_/id/85789/cowboys-dak-prescott-has-turned-backyard-field-into-his-home-office",
+          "excerpts": [
+            "FRISCO, Texas -- As [Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) looks out to his backyard these days, he can see the spoils of his success as the [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys) ' quarterback.\n\nGrowing up in Haughton, Louisiana, he would play football anywhere -- the street, a sliver of land most likely without grass, a parking lot. He just wanted to play, and those spots sparked his love affair with football and helped build a work ethic that carries him to this day."
+          ],
+          "title": "Cowboys' Dak Prescott has turned backyard field into his home office - ESPN - NFC East- ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/17788375/not-tebow-not-brady-dallas-cowboys-qb-dak-prescott-comparisons-continue-2016-nfl",
+          "excerpts": [
+            "As a child Dak would often play tackle football (without pads) with his older, much bigger brothers and their older, much bigger friends.",
+            "At Mississippi State, the 6-2, 225-pound Prescott led the Bulldogs to its first No. 1 ranking in 2014. AP Photo/Rainier Ehrhardt\n\nMullen and Mississippi State never wanted him to change positions, and by the time LSU came around to seeing Prescott as a quarterback, it was too late."
+          ],
+          "title": "Dak Prescott rode the Tim Tebow system into Tom Brady's NFL - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/14981566/mississippi-state-bulldogs-dak-prescott-leads-list-college-football-most-irreplaceable-players",
+          "excerpts": [
+            "What it doesn't have is Prescott, Mississippi State's most decorated player with 38 school records."
+          ],
+          "title": "Life without Dak Prescott for Mississippi State and 10 more irreplaceable players - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/the-real-names-of-your-favorite-nfl-stars-0ap3000000849437",
+          "excerpts": [
+            "From Quintorris Lopez Jones to Elisha Nelson Manning, check out the real names of your favorite NFL stars.\n\nDak Prescott: **Rayne Dakota Prescott**\n\nKids can be cruel, classmates used to ridicule [Dak Prescott](https://www.nfl.com/player/dakprescott/2555260/profile) for his given name. \"When I started off school, they would always call me Rayne [RAINY], or Rayne [RYE-KNEE], or something,\" said Prescott on The Fan's Shan and RJ Show. \"They'd be like, 'This is a girl's name,' so I just always went by Dakota, but I was given Dak by birth, so my family's always called me Dak.\"\n\nNearly two decades later, Rayne is a [Pro Bowl](http://www.nfl.com/probowl) quarterback leading America's Team."
+          ],
+          "title": "The Real Names of Your Favorite NFL Stars | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN's biography states the draft information as 2016, round 4, pick 135 for Dallas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2577417/dak-prescott",
+          "excerpts": [
+            "Team [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\nPosition Quarterback\n\nHT/WT 6' 2\", 230 lbs\n\nBirthdate 7/29/1993 (33)\n\nCollege [Miss St](https://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs)\n\nDraft Info 2016: Rd 4, Pk 135 (DAL)\n\nStatus Active\n\nExperience 11th Season\n\nBirthplace Haughton, LA\n\n### Career History"
+          ],
+          "title": "Dak Prescott Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN states that Prescott grew up in Haughton, Louisiana, and played football in places including streets and parking lots.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nfceast/post/_/id/85789/cowboys-dak-prescott-has-turned-backyard-field-into-his-home-office",
+          "excerpts": [
+            "FRISCO, Texas -- As [Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) looks out to his backyard these days, he can see the spoils of his success as the [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys) ' quarterback.\n\nGrowing up in Haughton, Louisiana, he would play football anywhere -- the street, a sliver of land most likely without grass, a parking lot. He just wanted to play, and those spots sparked his love affair with football and helped build a work ethic that carries him to this day."
+          ],
+          "title": "Cowboys' Dak Prescott has turned backyard field into his home office - ESPN - NFC East- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN describes Prescott playing tackle football without pads with his older, much bigger brothers and their friends.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/17788375/not-tebow-not-brady-dallas-cowboys-qb-dak-prescott-comparisons-continue-2016-nfl",
+          "excerpts": [
+            "As a child Dak would often play tackle football (without pads) with his older, much bigger brothers and their older, much bigger friends."
+          ],
+          "title": "Dak Prescott rode the Tim Tebow system into Tom Brady's NFL - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that Prescott led Mississippi State to its first No. 1 ranking in 2014, and separately describes that ranking as the first in school history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/17788375/not-tebow-not-brady-dallas-cowboys-qb-dak-prescott-comparisons-continue-2016-nfl",
+          "excerpts": [
+            "At Mississippi State, the 6-2, 225-pound Prescott led the Bulldogs to its first No. 1 ranking in 2014. AP Photo/Rainier Ehrhardt\n\nMullen and Mississippi State never wanted him to change positions, and by the time LSU came around to seeing Prescott as a quarterback, it was too late."
+          ],
+          "title": "Dak Prescott rode the Tim Tebow system into Tom Brady's NFL - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/nfceast/post/_/id/77732/as-his-profile-grows-dak-prescott-remains-committed-to-winning",
+          "excerpts": [
+            "He was not highly recruited coming out of Haughton, Louisiana. He went to Mississippi State, a solid SEC school, and drove them to No. 1 in the polls -- a first in school history."
+          ],
+          "title": "As profile grows, Cowboys' Dak Prescott remains committed to winning - ESPN - NFC East- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN identifies Prescott as Mississippi State's most decorated player and says he held 38 school records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/14981566/mississippi-state-bulldogs-dak-prescott-leads-list-college-football-most-irreplaceable-players",
+          "excerpts": [
+            "What it doesn't have is Prescott, Mississippi State's most decorated player with 38 school records."
+          ],
+          "title": "Life without Dak Prescott for Mississippi State and 10 more irreplaceable players - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com gives his full name as Rayne Dakota Prescott and quotes him explaining that his family has called him Dak since birth.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/the-real-names-of-your-favorite-nfl-stars-0ap3000000849437",
+          "excerpts": [
+            "From Quintorris Lopez Jones to Elisha Nelson Manning, check out the real names of your favorite NFL stars.\n\nDak Prescott: **Rayne Dakota Prescott**\n\nKids can be cruel, classmates used to ridicule [Dak Prescott](https://www.nfl.com/player/dakprescott/2555260/profile) for his given name. \"When I started off school, they would always call me Rayne [RAINY], or Rayne [RYE-KNEE], or something,\" said Prescott on The Fan's Shan and RJ Show. \"They'd be like, 'This is a girl's name,' so I just always went by Dakota, but I was given Dak by birth, so my family's always called me Dak.\"\n\nNearly two decades later, Rayne is a [Pro Bowl](http://www.nfl.com/probowl) quarterback leading America's Team."
+          ],
+          "title": "The Real Names of Your Favorite NFL Stars | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

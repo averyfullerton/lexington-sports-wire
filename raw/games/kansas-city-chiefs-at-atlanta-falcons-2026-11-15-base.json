@@ -1,0 +1,421 @@
+{
+  "run_id": "trun_3df3487a122343d492c342fb12d50cd1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 111.5,
+  "input": {
+    "away_team": "Kansas City Chiefs",
+    "home_team": "Atlanta Falcons",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Kansas City Chiefs",
+    "key_plays": [
+      "Q1 8:53: Emmett Johnson 12-yard TD pass from Patrick Mahomes",
+      "Q2 0:18: Josh Downs 18-yard TD pass from Patrick Mahomes",
+      "Q3 5:02: Cyrus Allen 39-yard TD pass from Patrick Mahomes",
+      "Q4 8:12: Bijan Robinson 3-yard rushing TD",
+      "Q4 4:18: Andrew Armstrong 43-yard TD pass from Patrick Mahomes"
+    ],
+    "away_score": 35,
+    "storyline": "Kansas City moved into a first-place tie in the AFC West at 7-2. Rookie Emmett Johnson made his first start and had 101 rushing yards and two receiving touchdowns; Josh Downs scored in his Chiefs debut. Atlanta fell to 3-7 after its third straight loss, and had lost five of six.",
+    "top_performers": [
+      {
+        "stat_line": "22/35, 348 yards, 5 TD, 0 INT",
+        "team": "Kansas City Chiefs",
+        "name": "Patrick Mahomes"
+      },
+      {
+        "stat_line": "22 carries, 101 yards; 6 catches, 70 yards, 2 TD",
+        "team": "Kansas City Chiefs",
+        "name": "Emmett Johnson"
+      },
+      {
+        "stat_line": "4 catches, 53 yards, 1 TD",
+        "team": "Kansas City Chiefs",
+        "name": "Josh Downs"
+      },
+      {
+        "stat_line": "16 carries, 71 yards, 1 TD",
+        "team": "Atlanta Falcons",
+        "name": "Bijan Robinson"
+      }
+    ],
+    "home_record_after": "3-7",
+    "tough_day": [
+      {
+        "stat_line": "23/43, 286 yards, 0 TD, 1 INT",
+        "team": "Atlanta Falcons",
+        "name": "Michael Penix Jr."
+      }
+    ],
+    "away_record_after": "7-2",
+    "home_team": "Atlanta Falcons",
+    "home_score": 13
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary identifies the Chiefs as the visitor, gives the final quarter-by-quarter score, and dates the completed game Sunday, November 15, 2026.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Kansas City Chiefs 7 7 7 14 0 35 HOME: Atlanta Falcons 0 3 0 10 0 13 **1 2 3 4 OT Total** Replay Official: Cerimeli, Tyler (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Paid Attendance: 72,045 Time: 3:09 Date: Sunday, 11/15/2026"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary labels Kansas City as the visitor, establishing the Chiefs as the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Kansas City Chiefs 7 7 7 14 0 35 HOME: Atlanta Falcons 0 3 0 10 0 13 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring-play table records these five touchdown plays with the quarter and game clock, in chronological order.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs E.Johnson 12 yd. pass from P.Mahomes (H.Butker kick) (10-80, 5:08) 7 0 1 8:53",
+            "Chiefs J.Downs 18 yd. pass from P.Mahomes (H.Butker kick) (7-79, 1:56) 14 3 2 0:18",
+            "Chiefs C.Allen 39 yd. pass from P.Mahomes (H.Butker kick) (4-50, 1:52) 21 3 3 5:02",
+            "Falcons B.Robinson 3 yd. run (J.Moody kick) (6-73, 1:43) 28 10 4 8:12",
+            "Chiefs A.Armstrong 43 yd. pass from P.Mahomes (H.Butker kick) (5-75, 2:27) 35 13 4 4:18"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The NFL game summary lists the visitor, Kansas City, with a final score of 35.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Kansas City Chiefs 7 7 7 14 0 35 HOME: Atlanta Falcons 0 3 0 10 0 13 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says the win moved Kansas City into a first-place tie in the AFC West, identifies Downs's debut and Johnson's first start and production, and notes Atlanta's three-game losing streak and five losses in six games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873058",
+          "excerpts": [
+            "[Patrick Mahomes](http://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes) threw five touchdown passes, including one to newly acquired [](https://x.com/Chiefs/status/2122048070552559941/video/1) [Josh Downs](http://www.espn.com/nfl/player/_/id/4688813/josh-downs) and two to rookie [Emmett Johnson](http://www.espn.com/nfl/player/_/id/4832955/emmett-johnson) , and the Chiefs beat the struggling [Atlanta Falcons](http://www.espn.com/nfl/team/_/name/atl/atlanta-falcons) 35-13 on Sunday to move into a first-place tie in the AFC West. In addition to Downs playing in his first game with Kansas City, Johnson was making his first start. ... \u201cThere were some guys that stepped in and really helped us out today,\u201d said Chiefs coach Andy Reid. \u201cFor these young guys, they\u2019re getting better. We\u2019re one of the youngest teams in the league, and they\u2019re getting better every week.\u201d The Chiefs (7-2) leaned on Johnson at running back after ruling out [Kenneth Walker](https://apnews.com/article/chiefs-kenneth-walker-injury-ed605a71b982f0dba42e3230a1c4cc2d?utm--source=copy&utm--medium=share) on Saturday because of a groin injury. Johnson had 22 carries for 101 yards and six catches for 70 yards and two touchdowns. The Chiefs moved into a first-place tie with Denver, which had its bye week.",
+            "The Falcons (3-7) have lost three straight and five of six."
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The box score gives Mahomes's passing line and Downs's receiving figures. The recap supplies Johnson's carries, rushing yards, catches, receiving yards and two touchdowns, and Robinson's carries and rushing yards; the NFL scoring table confirms Robinson's touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873058/chiefs-falcons",
+          "excerpts": [
+            "| [Patrick Mahomes](https://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes) #15 | | team | | C/ATT | YDS | TD | INT | SACKS | | 22/35 | 348 | 5 | 0 | 1-9 |"
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873058",
+          "excerpts": [
+            "The Chiefs (7-2) leaned on Johnson at running back after ruling out [Kenneth Walker](https://apnews.com/article/chiefs-kenneth-walker-injury-ed605a71b982f0dba42e3230a1c4cc2d?utm--source=copy&utm--medium=share) on Saturday because of a groin injury. Johnson had 22 carries for 101 yards and six catches for 70 yards and two touchdowns.",
+            "Robinson, the NFL rushing leader, ran for 71 yards on 16 carries. [Michael Penix Jr](http://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr) . completed 23 of 43 passes for 286 yards and one interception."
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** E.Johnson 70 11.7 2 6 7 D.London 109 18.2 0 6 12 38 34 R.Rice 82 16.4 0 5 6 K.Pitts 50 12.5 0 4 5",
+            "Falcons B.Robinson 3 yd. run (J.Moody kick) (6-73, 1:43) 28 10 4 8:12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The Week 10 recap lists Atlanta's record as 3-7 following the final result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Kansas City Chiefs and the Atlanta Falcons during the 2026 NFL season.\n\nSCORE\n\n35\n\n[Kansas City Chiefs 7-2](https://www.nfl.com/teams/kansas-city-chiefs)\n\nSCORE\n\n13\n\n[Atlanta Falcons 3-7](https://www.nfl.com/teams/atlanta-falcons)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The box score lists Penix's passing as 23 of 43 for 286 yards, with no touchdowns and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873058/chiefs-falcons",
+          "excerpts": [
+            "| [Michael Penix Jr.](https://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr) #9 | | team | | C/ATT | YDS | TD | INT | SACKS | | 23/43 | 286 | 0 | 1 | 3-16 |"
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The Week 10 recap lists Kansas City's record as 7-2 following the final result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Kansas City Chiefs and the Atlanta Falcons during the 2026 NFL season.\n\nSCORE\n\n35\n\n[Kansas City Chiefs 7-2](https://www.nfl.com/teams/kansas-city-chiefs)\n\nSCORE\n\n13\n\n[Atlanta Falcons 3-7](https://www.nfl.com/teams/atlanta-falcons)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game summary labels Atlanta as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Kansas City Chiefs 7 7 7 14 0 35 HOME: Atlanta Falcons 0 3 0 10 0 13 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The NFL game summary lists the home team, Atlanta, with a final score of 13.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Kansas City Chiefs 7 7 7 14 0 35 HOME: Atlanta Falcons 0 3 0 10 0 13 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring table records Emmett Johnson's 12-yard touchdown catch at 8:53 of the first quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs E.Johnson 12 yd. pass from P.Mahomes (H.Butker kick) (10-80, 5:08) 7 0 1 8:53"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring table records Josh Downs's 18-yard touchdown catch at 0:18 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs J.Downs 18 yd. pass from P.Mahomes (H.Butker kick) (7-79, 1:56) 14 3 2 0:18"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring table records Cyrus Allen's 39-yard touchdown catch at 5:02 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs C.Allen 39 yd. pass from P.Mahomes (H.Butker kick) (4-50, 1:52) 21 3 3 5:02"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring table records Bijan Robinson's 3-yard rushing touchdown at 8:12 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Falcons B.Robinson 3 yd. run (J.Moody kick) (6-73, 1:43) 28 10 4 8:12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring table records Alex Armstrong's 43-yard touchdown catch at 4:18 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs A.Armstrong 43 yd. pass from P.Mahomes (H.Butker kick) (5-75, 2:27) 35 13 4 4:18"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box-score passing table identifies Mahomes and lists 22 completions on 35 attempts, 348 yards, five touchdowns and zero interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873058/chiefs-falcons",
+          "excerpts": [
+            "| [Patrick Mahomes](https://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes) #15 | | team | | C/ATT | YDS | TD | INT | SACKS | | 22/35 | 348 | 5 | 0 | 1-9 |"
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The recap states Johnson had 22 carries for 101 yards and six catches for 70 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873058",
+          "excerpts": [
+            "The Chiefs (7-2) leaned on Johnson at running back after ruling out [Kenneth Walker](https://apnews.com/article/chiefs-kenneth-walker-injury-ed605a71b982f0dba42e3230a1c4cc2d?utm--source=copy&utm--medium=share) on Saturday because of a groin injury. Johnson had 22 carries for 101 yards and six catches for 70 yards and two touchdowns."
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The scoring table shows Downs's touchdown, and the receiving statistics provide his four catches for 53 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs J.Downs 18 yd. pass from P.Mahomes (H.Butker kick) (7-79, 1:56) 14 3 2 0:18",
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** E.Johnson 70 11.7 2 6 7 D.London 109 18.2 0 6 12 38 34 R.Rice 82 16.4 0 5 6 K.Pitts 50 12.5 0 4 5"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The recap gives Robinson's 16 carries for 71 yards, and the scoring table records his rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873058",
+          "excerpts": [
+            "Robinson, the NFL rushing leader, ran for 71 yards on 16 carries. [Michael Penix Jr](http://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr) . completed 23 of 43 passes for 286 yards and one interception."
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab582f5b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Falcons B.Robinson 3 yd. run (J.Moody kick) (6-73, 1:43) 28 10 4 8:12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The box score records Penix's 23 completions on 43 attempts, 286 yards, zero touchdowns and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873058/chiefs-falcons",
+          "excerpts": [
+            "| [Michael Penix Jr.](https://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr) #9 | | team | | C/ATT | YDS | TD | INT | SACKS | | 23/43 | 286 | 0 | 1 | 3-16 |"
+          ],
+          "title": "Chiefs 35-13 Falcons (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "storyline",
+      "top_performers",
+      "top_performers.2",
+      "top_performers.3"
+    ],
+    "off_allowlist_citations": []
+  },
+  "auto_corrections": [
+    {
+      "from": "Alex Armstrong",
+      "to": "Andrew Armstrong",
+      "source": "ESPN box score"
+    }
+  ],
+  "recap": {
+    "paragraph": "101 rushing yards made Emmett Johnson's first start a big one! He also caught 2 touchdown passes from Patrick Mahomes. Josh Downs scored in his Chiefs debut. Mahomes threw 5 touchdown passes as Kansas City beat Atlanta 35-13! Bijan Robinson ran for a Falcons touchdown. The win moved the Chiefs into a first-place tie in the AFC West at 7-2.",
+    "big_words": [
+      {
+        "word": "debut",
+        "definition": "A person's first time doing something.",
+        "example": "Marcus made his garden debut by planting bright yellow flowers."
+      }
+    ],
+    "opener": "Start with a striking number from the facts (yards, points, a streak, a record).",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1176,
+        "output": 167
+      }
+    ]
+  }
+}

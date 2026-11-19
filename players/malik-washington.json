@@ -1,0 +1,57 @@
+{
+  "name": "Malik Washington",
+  "espn_id": "4569603",
+  "team": "Miami Dolphins",
+  "team_abbr": "MIA",
+  "number": "6",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Virginia",
+  "experience": 3,
+  "fun_facts": [
+    "Malik caught 110 passes in college in 2023, setting Virginia and ACC records.",
+    "He set a Virginia record with 1,426 receiving yards in college in 2023.",
+    "He had 10 college games with at least 100 receiving yards in 2023, most in the FBS."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "MIA",
+        "14",
+        "26",
+        "223",
+        "0",
+        "20"
+      ],
+      [
+        "2025",
+        "MIA",
+        "17",
+        "46",
+        "317",
+        "3",
+        "28"
+      ],
+      [
+        "2026",
+        "MIA",
+        "9",
+        "36",
+        "400",
+        "1",
+        "31"
+      ]
+    ]
+  }
+}

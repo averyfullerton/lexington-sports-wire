@@ -1,0 +1,201 @@
+{
+  "run_id": "trun_415f3f698c1f435b9bb05f701ab04cb2",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 56.2,
+  "input": {
+    "player": "Patrick Mahomes",
+    "team": "Kansas City Chiefs",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas Tech",
+    "fun_facts": [
+      "Patrick Mahomes grew up in Tyler, Texas.",
+      "As a kid, Patrick Mahomes mostly played baseball and basketball; he started playing football in seventh grade.",
+      "In high school, Patrick Mahomes pitched a no-hitter and struck out 16 batters.",
+      "At Texas Tech, Patrick Mahomes led the FBS in passing yards in 2016.",
+      "Patrick Mahomes has been called \u201cShowtime Mahomes.\u201d",
+      "At age 24 years and 138 days, Patrick Mahomes became the youngest quarterback to win Super Bowl MVP; he also led three double-digit comebacks in one postseason, a first for an NFL quarterback."
+    ],
+    "draft": "2017, round 1, pick 10"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography lists Patrick Mahomes's college as Texas Tech, supporting the answer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3139477/patrick-mahomes",
+          "excerpts": [
+            "# Patrick Mahomes\n\nKansas City Chiefs\n\n* [Kansas City Chiefs Chiefs](https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs)\n* \\#15\n* Quarterback QB\n\n* HT/WT\n  \n  6' 2\", 225 lbs\n* Birthdate\n  \n  9/17/1995 (31)\n* College\n  \n  [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders)\n\nFollow\n\n* HT/WT\n  \n  6' 2\", 225 lbs\n* Birthdate\n  \n  9/17/1995 (31)\n* College\n  \n  [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders)\n* Draft Info\n  \n  2017: Rd 1, Pk 10 (KC)\n* Status"
+          ],
+          "title": "Patrick Mahomes Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the six facts respectively: Tyler, Texas; his childhood sports and starting football in seventh grade; his high-school no-hitter and 16 strikeouts; leading the FBS in passing yards in 2016; the Showtime nickname; and the Super Bowl MVP age record and postseason comeback milestone.",
+      "citations": [
+        {
+          "url": "https://operations.nfl.com/media/nppjkdp1/2023-record-and-fact-book.pdf",
+          "excerpts": [
+            "15 Mahomes, Patrick\n\nQB 6-2\n\n225 9/17/1995\n\n7\n\nTexas Tech\n\nTyler, Texas\n\nD1-17\n\n17/17\n\n22 McDuffie, Trent\n\nCB 5-11 193 9/13/2000\n\n2\n\nWashington\n\nWestminster, Calif.\n\nD1a-22\n\n11/11\n\n1 McKinnon, Jerick"
+          ],
+          "title": "2023 Record And Fact Book"
+        },
+        {
+          "url": "https://www.nfl.com/news/patrick-mahomes-perfectly-fine-learning-behind-another-qb-0ap3000000801135",
+          "excerpts": [
+            "You look at Dak, he did not expect to start immediately, but he really trained so he was gonna be ready when the time came and it did.\n\n**I didn't do any football stuff when I was a kid.** ... Mostly baseball and basketball the whole time. That's all I did. I played football starting in seventh grade. As I got older, I started playing a little bit more. Then in high school, I really fell in love with it."
+          ],
+          "title": "Patrick Mahomes: 'Perfectly fine' learning behind another QB | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28629805/patrick-mahomes-realizes-disney-dream-spoke-existence",
+          "excerpts": [
+            "And now I have and I'm here -- it's amazing.\n\n\"When I won the game and they came up and told me [I'd won the MVP], it was amazing -- just to be able to say those words and to be here now. ... I tried to dream it, and I tweeted it, and I kinda spoke it into existence.\"\n\nAt the time of his tweet, Mahomes was a multisport athlete in Tyler, Texas, trying to decide what he wanted to do next. His father, Pat Mahomes Sr., was a Major League Baseball pitcher for 11 seasons and tried to talk his son into quitting football so he could focus on baseball, in which he pitched a no-hitter with 16 strikeouts in high school. In football, Mahomes wasn't listed among ESPN's top 300 football recruits.\n\nBut he chose to follow his passion, which he acknowledged wasn't easy.\n\n\"I was never that kid [to go against my parents],\" Mahomes told ESPN. \"To me it was just, 'Let's just go try this football thing out. Let's go to college and play it."
+          ],
+          "title": "Patrick Mahomes realizes Disney dream: 'Spoke it into existence' - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/chiefs-qb-patrick-mahomes-grad-speech-we-re-built-to-persevere",
+          "excerpts": [
+            "Mahomes played football and baseball for the Red Raiders. He led the FBS in passing yards in 2016 before being drafted No. 10 overall by the Chiefs the following spring. In his first two full seasons, he's claimed league MVP and Super Bowl MVP. But he hasn't forgotten where he came from."
+          ],
+          "title": "Chiefs QB Patrick Mahomes' grad message: 'We\u2019re built to persevere' | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/24772591/patrick-mahomes-kansas-city-chiefs-sets-nfl-mark-13th-td-season",
+          "excerpts": [
+            "Adam Teicher\n\n\"He's the Showtime Mahomes,'' tight end [Travis Kelce](https://www.espn.com/nfl/player/_/id/15847/travis-kelce) said."
+          ],
+          "title": "Patrick Mahomes breaks Peyton Manning's record with 13th TD in 1st 3 games - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28623988/patrick-mahomes-named-mvp-super-bowl-liv-leading-chiefs-comeback",
+          "excerpts": [
+            "Mahomes became the youngest quarterback to be named Super Bowl MVP, joining [Tom Brady](http://www.espn.com/nfl/player/_/id/2330/tom-brady) as the only ones to do so before turning 25. Mahomes is the third-youngest Super Bowl MVP overall, trailing only [Marcus Allen](https://www.espn.com/nfl/player/_/id/3116149/marcus-allen) and Lynn Swann. He also became the youngest quarterback in NFL history, at 24 years and 138 days, to win a Super Bowl and league MVP (2018)."
+          ],
+          "title": "Patrick Mahomes named MVP of Super Bowl LIV after leading Chiefs' comeback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft tracker lists Patrick Mahomes among Kansas City's 2017 picks, showing round 1 and pick 10.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2017/teams/kansas-city-chiefs",
+          "excerpts": [
+            "Skip to main content\n\n# DRAFT TRACKER 2017\n\n2017\n\n2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026\n\n[Rounds](https://www.nfl.com/draft/tracker/2017/rounds/1) [Prospects](https://www.nfl.com/draft/tracker/2017/prospects) [Teams](https://www.nfl.com/draft/tracker/2017/teams)\n\n### KANSAS CITY CHIEFS\n\nKC\n\nTOP NEEDS\n\nLB\n\nQB\n\nCB\n\nDL\n\nRB\n\nNEEDS ANALYSIS\n\nThe Chiefs will need to find the next Derrick Johnson at an inside linebacker spot at some point, while adding depth along the defensive line with Dontari Poe's departure. The Chiefs are in the market for a young quarterback as well. Finding more help in the secondary could happen as early as Day 2.\n\n2026 SEASON RECORD\n\n0-0 1st in AFC West\n\nTeam Draft Picks\n\nRND\n\nPICK\n\nPLAYER\n\n1\n\n10\n\nPATRICK MAHOMES\n\nQB TEXAS TECH\n\nBUF KC\n\n2\n\n27\n\n(59)\n\nTANOH KPASSAGNON\n\nDE VILLANOVA\n\n3\n\n22\n\n(86)\n\nKAREEM HUNT\n\nRB TOLEDO\n\nMIA MIN KC\n\n4\n\n32\n\n(139)\n\nJEHU CHESSON\n\nWR MICHIGAN\n\nCOMP CLE PHI MIN KC\n\n5\n\n39\n\n(183)\n\nUKEME ELIGWE\n\nLB GEORGIA SOUTHERN"
+          ],
+          "title": "Kansas City Chiefs 2017 Draft Picks | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL record book identifies Mahomes with Tyler, Texas, supporting that he grew up there.",
+      "citations": [
+        {
+          "url": "https://operations.nfl.com/media/nppjkdp1/2023-record-and-fact-book.pdf",
+          "excerpts": [
+            "15 Mahomes, Patrick\n\nQB 6-2\n\n225 9/17/1995\n\n7\n\nTexas Tech\n\nTyler, Texas\n\nD1-17\n\n17/17\n\n22 McDuffie, Trent\n\nCB 5-11 193 9/13/2000\n\n2\n\nWashington\n\nWestminster, Calif.\n\nD1a-22\n\n11/11\n\n1 McKinnon, Jerick"
+          ],
+          "title": "2023 Record And Fact Book"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "Mahomes says he mostly played baseball and basketball as a child and began playing football in seventh grade.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/patrick-mahomes-perfectly-fine-learning-behind-another-qb-0ap3000000801135",
+          "excerpts": [
+            "You look at Dak, he did not expect to start immediately, but he really trained so he was gonna be ready when the time came and it did.\n\n**I didn't do any football stuff when I was a kid.** ... Mostly baseball and basketball the whole time. That's all I did. I played football starting in seventh grade. As I got older, I started playing a little bit more. Then in high school, I really fell in love with it."
+          ],
+          "title": "Patrick Mahomes: 'Perfectly fine' learning behind another QB | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that Mahomes pitched a high-school no-hitter with 16 strikeouts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28629805/patrick-mahomes-realizes-disney-dream-spoke-existence",
+          "excerpts": [
+            "And now I have and I'm here -- it's amazing.\n\n\"When I won the game and they came up and told me [I'd won the MVP], it was amazing -- just to be able to say those words and to be here now. ... I tried to dream it, and I tweeted it, and I kinda spoke it into existence.\"\n\nAt the time of his tweet, Mahomes was a multisport athlete in Tyler, Texas, trying to decide what he wanted to do next. His father, Pat Mahomes Sr., was a Major League Baseball pitcher for 11 seasons and tried to talk his son into quitting football so he could focus on baseball, in which he pitched a no-hitter with 16 strikeouts in high school. In football, Mahomes wasn't listed among ESPN's top 300 football recruits.\n\nBut he chose to follow his passion, which he acknowledged wasn't easy.\n\n\"I was never that kid [to go against my parents],\" Mahomes told ESPN. \"To me it was just, 'Let's just go try this football thing out. Let's go to college and play it."
+          ],
+          "title": "Patrick Mahomes realizes Disney dream: 'Spoke it into existence' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL report says Mahomes led the FBS in passing yards in 2016.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/chiefs-qb-patrick-mahomes-grad-speech-we-re-built-to-persevere",
+          "excerpts": [
+            "Mahomes played football and baseball for the Red Raiders. He led the FBS in passing yards in 2016 before being drafted No. 10 overall by the Chiefs the following spring. In his first two full seasons, he's claimed league MVP and Super Bowl MVP. But he hasn't forgotten where he came from."
+          ],
+          "title": "Chiefs QB Patrick Mahomes' grad message: 'We\u2019re built to persevere' | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN passage quotes the nickname \u201cShowtime Mahomes.\u201d",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/24772591/patrick-mahomes-kansas-city-chiefs-sets-nfl-mark-13th-td-season",
+          "excerpts": [
+            "Adam Teicher\n\n\"He's the Showtime Mahomes,'' tight end [Travis Kelce](https://www.espn.com/nfl/player/_/id/15847/travis-kelce) said."
+          ],
+          "title": "Patrick Mahomes breaks Peyton Manning's record with 13th TD in 1st 3 games - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage states his age when he became the youngest quarterback to win Super Bowl MVP and notes he led three double-digit comebacks in one postseason, a first for an NFL quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/28623988/patrick-mahomes-named-mvp-super-bowl-liv-leading-chiefs-comeback",
+          "excerpts": [
+            "Mahomes became the youngest quarterback to be named Super Bowl MVP, joining [Tom Brady](http://www.espn.com/nfl/player/_/id/2330/tom-brady) as the only ones to do so before turning 25. Mahomes is the third-youngest Super Bowl MVP overall, trailing only [Marcus Allen](https://www.espn.com/nfl/player/_/id/3116149/marcus-allen) and Lynn Swann. He also became the youngest quarterback in NFL history, at 24 years and 138 days, to win a Super Bowl and league MVP (2018)."
+          ],
+          "title": "Patrick Mahomes named MVP of Super Bowl LIV after leading Chiefs' comeback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

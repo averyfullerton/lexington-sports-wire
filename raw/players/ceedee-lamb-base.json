@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_415f3f698c1f435b8843044c7c41eecd",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 49.9,
+  "input": {
+    "player": "CeeDee Lamb",
+    "team": "Dallas Cowboys",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oklahoma",
+    "fun_facts": [
+      "CeeDee Lamb grew up in Richmond, Texas, and attended a game at the Cowboys\u2019 stadium as a kid.",
+      "At Foster High School, CeeDee Lamb spent hours with quarterback Alex Ramart during spring and summer seasons.",
+      "At Oklahoma, CeeDee Lamb was a first-team All-American in 2019, catching 62 passes for 1,327 yards and 14 touchdowns; his catches and yards were both fifth-best nationally.",
+      "In 2023, CeeDee Lamb broke the Cowboys\u2019 single-season records for receptions and receiving yards, with 135 catches for 1,749 yards.",
+      "In a 2026 game, CeeDee Lamb\u2019s 17 catches were the most by a player since Keenan Allen had 18 in 2023."
+    ],
+    "draft": "2020, round 1, pick 17"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Oklahoma as CeeDee Lamb\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4241389/ceedee-lamb",
+          "excerpts": [
+            "Team [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\nPosition Wide Receiver\n\nHT/WT 6' 2\", 198 lbs\n\nBirthdate 4/8/1999 (27)\n\nCollege [Oklahoma](https://www.espn.com/college-football/team/_/id/201/oklahoma-sooners)\n\nDraft Info 2020: Rd 1, Pk 17 (DAL)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Richmond, TX\n\n### Career History"
+          ],
+          "title": "CeeDee Lamb Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support, respectively, Lamb\u2019s Richmond childhood and attending a game as a kid; hours spent with his high-school quarterback; his 2019 All-American season and statistics; his 2023 Cowboys receiving records; and the 2026 17-catch milestone compared with Keenan Allen\u2019s 2023 performance.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50104876/ceedee-lamb-17-catches-go-ahead-score-power-cowboys",
+          "excerpts": [
+            "Ian Rapoport\n\n2 Related\n\n\"My grandma came out, that was really good to see,\" said Lamb, who had attended a game at the stadium as a kid growing up in Richmond, Texas.",
+            "Lamb's 17 catches were the most by any player since [Keenan Allen](https://www.espn.com/nfl/player/_/id/15818/keenan-allen) (18 in Week 3, 2023) and the most by a player who also had a touchdown reception since Brandon Marshall (Week 14, 2009).\n\nAnd the 17th catch might have been one of the easiest."
+          ],
+          "title": "CeeDee Lamb's 17 catches, go-ahead score power Cowboys - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/29747543/next-great-88-dallas-cowboys-ceedee-lamb-proving-all-hype-legit",
+          "excerpts": [
+            "> \u2014 Dallas Cowboys (@dallascowboys) [August 21, 2020](https://twitter.com/dallascowboys/status/1296948710673391621?ref_src=twsrc%5Etfw)\n\n## 'Had the will and determination'\n\nAlex Ramart was Lamb's quarterback at Foster High School in Richmond, Texas, roughly 30 miles outside of Houston. They spent hours together during numerous spring and summer seasons. If they couldn't use the high school field to practice, they would retreat to another nearby schoolyard and find an open"
+          ],
+          "title": "Next great 88? Dallas Cowboys' CeeDee Lamb proving all the hype is legit - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28392128/oklahoma-receiver-ceedee-lamb-declares-nfl-draft",
+          "excerpts": [
+            "> \u2014 CeeDee Lamb (@\\_CeeDeeThree) [December 29, 2019](https://twitter.com/_CeeDeeThree/status/1211415327206236161?ref_src=twsrc%5Etfw)\n\nThis season, Lamb was one of the nation's most productive FBS receivers. A first-team All-American, Lamb caught 62 passes for 1,327 yards and 14 touchdowns. His yardage and receiving totals were both fifth-best nationally.\n\nThe 6-foot-2, 191-pound Lamb recorded at least 800 receiving yards in each of his three seasons with the Sooners, including more"
+          ],
+          "title": "Oklahoma receiver CeeDee Lamb declares for NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40186103/ceedee-lamb-cowboys-greatest-no-88-contract-extension",
+          "excerpts": [
+            "In 2023, Lamb broke Irvin's records for catches and yards in a season, finishing with 135 receptions for 1,749 yards. Irvin had 111 catches for 1,603 yards in 1995."
+          ],
+          "title": "With deal, will CeeDee Lamb become Cowboys' greatest No. 88? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists the draft information as 2020, round 1, pick 17, for Dallas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4241389/ceedee-lamb",
+          "excerpts": [
+            "Team [Dallas Cowboys](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\nPosition Wide Receiver\n\nHT/WT 6' 2\", 198 lbs\n\nBirthdate 4/8/1999 (27)\n\nCollege [Oklahoma](https://www.espn.com/college-football/team/_/id/201/oklahoma-sooners)\n\nDraft Info 2020: Rd 1, Pk 17 (DAL)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Richmond, TX\n\n### Career History"
+          ],
+          "title": "CeeDee Lamb Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Lamb attended a game at the stadium as a kid growing up in Richmond, Texas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50104876/ceedee-lamb-17-catches-go-ahead-score-power-cowboys",
+          "excerpts": [
+            "Ian Rapoport\n\n2 Related\n\n\"My grandma came out, that was really good to see,\" said Lamb, who had attended a game at the stadium as a kid growing up in Richmond, Texas."
+          ],
+          "title": "CeeDee Lamb's 17 catches, go-ahead score power Cowboys - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage identifies Alex Ramart as Lamb\u2019s Foster High quarterback and says they spent hours together during spring and summer seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/29747543/next-great-88-dallas-cowboys-ceedee-lamb-proving-all-hype-legit",
+          "excerpts": [
+            "> \u2014 Dallas Cowboys (@dallascowboys) [August 21, 2020](https://twitter.com/dallascowboys/status/1296948710673391621?ref_src=twsrc%5Etfw)\n\n## 'Had the will and determination'\n\nAlex Ramart was Lamb's quarterback at Foster High School in Richmond, Texas, roughly 30 miles outside of Houston. They spent hours together during numerous spring and summer seasons. If they couldn't use the high school field to practice, they would retreat to another nearby schoolyard and find an open"
+          ],
+          "title": "Next great 88? Dallas Cowboys' CeeDee Lamb proving all the hype is legit - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage calls Lamb a first-team All-American and gives his 62 catches, 1,327 yards, and 14 touchdowns in 2019; it says his receiving totals and yardage were fifth-best nationally.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28392128/oklahoma-receiver-ceedee-lamb-declares-nfl-draft",
+          "excerpts": [
+            "> \u2014 CeeDee Lamb (@\\_CeeDeeThree) [December 29, 2019](https://twitter.com/_CeeDeeThree/status/1211415327206236161?ref_src=twsrc%5Etfw)\n\nThis season, Lamb was one of the nation's most productive FBS receivers. A first-team All-American, Lamb caught 62 passes for 1,327 yards and 14 touchdowns. His yardage and receiving totals were both fifth-best nationally.\n\nThe 6-foot-2, 191-pound Lamb recorded at least 800 receiving yards in each of his three seasons with the Sooners, including more"
+          ],
+          "title": "Oklahoma receiver CeeDee Lamb declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Lamb broke Michael Irvin\u2019s Cowboys single-season records and finished with 135 receptions for 1,749 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40186103/ceedee-lamb-cowboys-greatest-no-88-contract-extension",
+          "excerpts": [
+            "In 2023, Lamb broke Irvin's records for catches and yards in a season, finishing with 135 receptions for 1,749 yards. Irvin had 111 catches for 1,603 yards in 1995."
+          ],
+          "title": "With deal, will CeeDee Lamb become Cowboys' greatest No. 88? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage states Lamb\u2019s 17 catches were the most by a player since Keenan Allen\u2019s 18-catch game in Week 3 of 2023.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50104876/ceedee-lamb-17-catches-go-ahead-score-power-cowboys",
+          "excerpts": [
+            "Lamb's 17 catches were the most by any player since [Keenan Allen](https://www.espn.com/nfl/player/_/id/15818/keenan-allen) (18 in Week 3, 2023) and the most by a player who also had a touchdown reception since Brandon Marshall (Week 14, 2009).\n\nAnd the 17th catch might have been one of the easiest."
+          ],
+          "title": "CeeDee Lamb's 17 catches, go-ahead score power Cowboys - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

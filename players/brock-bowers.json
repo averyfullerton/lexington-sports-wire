@@ -1,0 +1,57 @@
+{
+  "name": "Brock Bowers",
+  "espn_id": "4432665",
+  "team": "Las Vegas Raiders",
+  "team_abbr": "LV",
+  "number": "89",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Georgia",
+  "experience": 3,
+  "fun_facts": [
+    "Brock helped Georgia win two college national titles.",
+    "Brock was the first to win the John Mackey Award twice in college.",
+    "Brock set an NFL record with 13 catches in one game as a rookie tight end."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "LV",
+        "17",
+        "112",
+        "1,194",
+        "5",
+        "57"
+      ],
+      [
+        "2025",
+        "LV",
+        "12",
+        "64",
+        "680",
+        "7",
+        "38"
+      ],
+      [
+        "2026",
+        "LV",
+        "8",
+        "50",
+        "676",
+        "6",
+        "33"
+      ]
+    ]
+  }
+}

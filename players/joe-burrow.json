@@ -1,0 +1,101 @@
+{
+  "name": "Joe Burrow",
+  "espn_id": "3915511",
+  "team": "Cincinnati Bengals",
+  "team_abbr": "CIN",
+  "number": "9",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "LSU",
+  "experience": 7,
+  "fun_facts": [
+    "Joe threw 60 touchdown passes in college, an NCAA record for one season.",
+    "Joe won the Heisman Trophy when LSU won the national championship in college.",
+    "Joe had the nicknames Joe Brrr and Joe Burreaux."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2020",
+        "CIN",
+        "10",
+        "264",
+        "404",
+        "2,688",
+        "13",
+        "5"
+      ],
+      [
+        "2021",
+        "CIN",
+        "16",
+        "366",
+        "520",
+        "4,611",
+        "34",
+        "14"
+      ],
+      [
+        "2022",
+        "CIN",
+        "16",
+        "414",
+        "606",
+        "4,475",
+        "35",
+        "12"
+      ],
+      [
+        "2023",
+        "CIN",
+        "10",
+        "244",
+        "365",
+        "2,309",
+        "15",
+        "6"
+      ],
+      [
+        "2024",
+        "CIN",
+        "17",
+        "460",
+        "652",
+        "4,918",
+        "43",
+        "9"
+      ],
+      [
+        "2025",
+        "CIN",
+        "8",
+        "173",
+        "259",
+        "1,809",
+        "17",
+        "5"
+      ],
+      [
+        "2026",
+        "CIN",
+        "9",
+        "254",
+        "340",
+        "2,795",
+        "27",
+        "6"
+      ]
+    ]
+  }
+}

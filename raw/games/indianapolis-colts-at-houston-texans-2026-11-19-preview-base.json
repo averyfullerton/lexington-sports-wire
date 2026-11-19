@@ -1,0 +1,392 @@
+{
+  "run_id": "trun_1714e31eeb204d328a2aaf6ef93582c7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 106.5,
+  "input": {
+    "away_team": "Indianapolis Colts",
+    "home_team": "Houston Texans",
+    "game_date": "2026-11-19",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "3-7",
+    "away_team": "Indianapolis Colts",
+    "storyline": "Houston enters this AFC South matchup after losing 27-24 to Cleveland despite leading 17-3, with its playoff hopes still in play. Indianapolis beat Houston 19-17 in Week 3 and comes in after a 24-22 win over Miami.",
+    "matchup_notes": [
+      "The AFC South standings entering the game had Jacksonville at 7-2, Houston at 3-6, Indianapolis at 3-7, and Tennessee at 1-8.",
+      "In Week 10, Indianapolis beat Miami 24-22, while Houston lost to Cleveland 27-24.",
+      "Indianapolis won the teams\u2019 Week 3 meeting, 19-17.",
+      "Houston had 33 defensive sacks, second in the league; Indianapolis had 22, ranking 14th."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "739 rushing yards, 8 TD on 177 carries",
+        "team": "Indianapolis Colts",
+        "name": "Jonathan Taylor"
+      },
+      {
+        "stat_line": "2,462 passing yards, 19 TD, 3 INT",
+        "team": "Houston Texans",
+        "name": "C.J. Stroud"
+      },
+      {
+        "stat_line": "478 receiving yards, 37 receptions, 5 TD",
+        "team": "Houston Texans",
+        "name": "Nico Collins"
+      },
+      {
+        "stat_line": "1,830 passing yards, 7 TD, 12 INT",
+        "team": "Indianapolis Colts",
+        "name": "Daniel Jones"
+      }
+    ],
+    "home_record": "3-6",
+    "home_team": "Houston Texans",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game center lists Indianapolis at 3-7 and spells that out as three wins, seven losses, and no ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "3-7 3 wins, 7 losses, 0 ties"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game center identifies the away team as the Indianapolis Colts.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Indianapolis Colts"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL preview describes the Texans\u2019 27-24 loss after leading 17-3 and says their playoff chances remained alive. The game information also notes Indianapolis\u2019s Week 3 win over Houston; the matchup preview lists the Colts\u2019 Week 10 win over Miami.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "Thursday night\u2019s divisional tussle had the potential to mark the Texans\u2019 return to .500, with Houston riding the wave to a potential second-half surge. Instead, after blowing a 17-point lead to the Browns [on Sunday](https://www.nfl.com/games/texans-at-browns-2026-reg-10?tab=recap) , Houston heads home licking its wounds and hoping to launch one last-ditch effort to rescue its season from massive disappointment. Standing in the Texans\u2019 way are the rival Colts, who [narrowly defeated](https://www.nfl.com/games/dolphins-at-colts-2026-reg-10?tab=recap) the rebuilding Dolphins last week but have lost 14 of their last 17 games dating back to the 2025 season. They beat Houston, 19-17, [in Week 3](https://www.nfl.com/games/texans-at-colts-2026-reg-3?tab=recap) , but that was before Indianapolis held [its fire sale](https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season) leading up to the trade deadline. So, will both AFC South squads be commiserating over a lost season when the clock hits zeros on Thursday, or will the Texans emerge clinging to at least a sliver of hope heading into Thanksgiving?",
+            "Offensive coordinator Nick Caley faced questions -- including from Texans [starting guard Ed Ingram](https://x.com/Cody_Stoots/status/2122375825529913697) \\-- about his ability to make in-game adjustments after the offense went three-and-out on six of its last eight possessions against Cleveland last week, turning what was once a 17-3 lead into a 27-24 loss. They have now lost four games in which they held a fourth-quarter lead (most in the NFL), blowing a lead in the final two minutes of regulation four times. They are the 14th team since 1982 with four or more such losses in a season. Of that group, only the 2022 Ravens made the playoffs (Baltimore lost in the opening round). The Texans are four games behind the Jaguars in the AFC South race and 2.5 games behind the Browns for the final AFC wild-card spot. Plus, Cleveland holds the head-to-head tiebreaker after upsetting Houston on Sunday. Yes, things look bleak, but DeMeco Ryans\u2019 crew isn\u2019t dead yet. While the Colts\u2019 playoff probability will be less than 5% whether they win or lose on Thursday, the Texans\u2019 chances are currently at 20% and they have the league\u2019s fourth-easiest remaining strength of schedule. A Week 11 loss would drop Houston\u2019s odds to 7%, per Next Gen Stats."
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/preview/_/gameId/401873066",
+          "excerpts": [
+            "Need to know\n\nIndianapolis (3-7) at Houston (3-6).\n\nWhen/where to watch: Thursday, 8:15 p.m. EST, Prime Video.\n\nLatest odds: Texans by 12 \u00bd.\n\nAgainst the spread: Colts 5-5; Texans 3-6.\n\nLast week: Colts beat Dolphins 24-22; Texans lost to Browns 27-24.\n\nLast meeting: Colts beat Texans 19-17 on Sept. 27 in Indianapolis.\n\nSeries record: Colts lead 34-15-1.\n\nMatchup to watch"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The NFL standings give the AFC South records. The Week 10 results are stated in the matchup preview, the NFL article confirms Indianapolis\u2019s 19-17 Week 3 win, and the game center lists each team\u2019s sack total and league rank.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "[JAGUARS JAX JAGUARS JAGUARS 7 7 wins 2 2 losses 0 0 ties 0\\.778 0\\.778 win percentage](https://www.nfl.com/teams/jacksonville-jaguars) [TEXANS HOU TEXANS TEXANS 3 3 wins 6 6 losses 0 0 ties 0\\.333 0\\.333 win percentage](https://www.nfl.com/teams/houston-texans) [COLTS IND COLTS COLTS 3 3 wins 7 7 losses 0 0 ties 0\\.3 0\\.3 win percentage](https://www.nfl.com/teams/indianapolis-colts) [TITANS TEN TITANS TITANS 1 1 wins 8 8 losses 0 0 ties 0\\.111 0\\.111 win percentage](https://www.nfl.com/teams/tennessee-titans)",
+            "Indianapolis Colts, TOTAL DEF SACKS, 22, ranked 14th. 22 14TH TOTAL DEF SACKS Houston Texans, TOTAL DEF SACKS, 33, ranked 2nd"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/preview/_/gameId/401873066",
+          "excerpts": [
+            "Need to know\n\nIndianapolis (3-7) at Houston (3-6).\n\nWhen/where to watch: Thursday, 8:15 p.m. EST, Prime Video.\n\nLatest odds: Texans by 12 \u00bd.\n\nAgainst the spread: Colts 5-5; Texans 3-6.\n\nLast week: Colts beat Dolphins 24-22; Texans lost to Browns 27-24.\n\nLast meeting: Colts beat Texans 19-17 on Sept. 27 in Indianapolis.\n\nSeries record: Colts lead 34-15-1.\n\nMatchup to watch"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Pregame - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "They beat Houston, 19-17, [in Week 3](https://www.nfl.com/games/texans-at-colts-2026-reg-3?tab=recap) , but that was before Indianapolis held [its fire sale](https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season) leading up to the trade deadline."
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL game center lists season-to-date rushing, passing, and receiving leaders and their stats. The player pages and preview identify the full names used for those abbreviated game-center entries.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Taylor 739 YDS 177ATT 8TD 4\\.2AVG",
+            "[C. Stroud 2462 YDS 62\\.8%CMP 19TD 3INT](https://www.nfl.com/players/c-j-stroud/stats)",
+            "Collins 478 YDS 37REC 5TD 12\\.9AVG",
+            "Jones 1830 YDS 59\\.6%CMP 7TD 12INT"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/jonathan-taylor/stats/logs/2026/",
+          "excerpts": [
+            "# Jonathan Taylor 2026 Logs Stats | NFL.com\n\n# Jonathan Taylor\n\nRB \u2022 \\#28\n\n[Indianapolis Colts](https://www.nfl.com/teams/indianapolis-colts/)\n\n### active"
+          ],
+          "title": "Jonathan Taylor 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/c-j-stroud/stats/logs/2026",
+          "excerpts": [
+            "# C.J. Stroud 2026 Logs Stats | NFL.com\n\n# C.J. Stroud\n\nQB \u2022 \\#7\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/c-j-stroud/)"
+          ],
+          "title": "C.J. Stroud 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "Stroud hasn\u2019t been perfect -- he missed go-to guy [Nico Collins](https://www.nfl.com/players/nico-collins/) on a third-down throw late in Sunday\u2019s loss to the Browns, when the Texans still held the lead and were looking to salt the game away."
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/daniel-jones/stats/logs/2026",
+          "excerpts": [
+            "# Daniel Jones 2026 Logs Stats | NFL.com\n\n# Daniel Jones\n\nQB \u2022 \\#17\n\n[Indianapolis Colts](https://www.nfl.com/teams/indianapolis-colts/)\n\n### active"
+          ],
+          "title": "Daniel Jones 2026 Logs Stats | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game center lists Houston at 3-6 and spells that out as three wins, six losses, and no ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "3-6 3 wins, 6 losses, 0 ties"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game center identifies the home team as the Houston Texans.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Houston Texans"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The Week 11 schedule lists the Colts at Texans for November 19 at 8:15 p.m. ET, and the NFL preview describes the game as Thursday night\u2019s upcoming matchup. The evidence presents it as scheduled rather than completed, so this is treated as a preview.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "* [WEEK 18](https://www.nfl.com/schedules/2026/by-week/week-18)\n\n* * *\n\nShow Only NFL+ Availability\n\nTNF football logo\n\n### Thursday Night Football\n\n* [Colts at Texans, Thursday, November 19th, 8:15 PM, PRIME](https://www.nfl.com/games/colts-at-texans-2026-reg-11)\n  \n  LOCAL\n  \n  Indianapolis Colts Team Logo COLTS\n  \n  Houston Texans Team Logo TEXANS\n  \n* * *\n  \n  LOCAL\n  \n  [Tickets](https://www.ticketmaster.com/event/3A00647B802747BA?wt.mc_id=NFL_LEAGUE_SCHED_PG_HOU_LINK3&utm_source=NFL.com&utm_medium=client&utm"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        },
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "**WHERE:** Reliant Stadium (Houston) **WHEN:** [Thursday, 8:15 p.m. ET](https://www.nfl.com/games/colts-at-texans-2026-reg-11?tab=overview) **WAYS TO WATCH:** [Prime Video, NFL](https://www.nfl.com/ways-to-watch/by-week/week-11) [\\+](https://www.nfl.com/ways-to-watch/by-week/week-10)"
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The NFL AFC South standings list Jacksonville at 7-2, Houston at 3-6, Indianapolis at 3-7, and Tennessee at 1-8.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "[JAGUARS JAX JAGUARS JAGUARS 7 7 wins 2 2 losses 0 0 ties 0\\.778 0\\.778 win percentage](https://www.nfl.com/teams/jacksonville-jaguars) [TEXANS HOU TEXANS TEXANS 3 3 wins 6 6 losses 0 0 ties 0\\.333 0\\.333 win percentage](https://www.nfl.com/teams/houston-texans) [COLTS IND COLTS COLTS 3 3 wins 7 7 losses 0 0 ties 0\\.3 0\\.3 win percentage](https://www.nfl.com/teams/indianapolis-colts) [TITANS TEN TITANS TITANS 1 1 wins 8 8 losses 0 0 ties 0\\.111 0\\.111 win percentage](https://www.nfl.com/teams/tennessee-titans)"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The game preview states that Indianapolis beat Miami 24-22 and Houston lost to Cleveland 27-24 in Week 10.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/preview/_/gameId/401873066",
+          "excerpts": [
+            "Need to know\n\nIndianapolis (3-7) at Houston (3-6).\n\nWhen/where to watch: Thursday, 8:15 p.m. EST, Prime Video.\n\nLatest odds: Texans by 12 \u00bd.\n\nAgainst the spread: Colts 5-5; Texans 3-6.\n\nLast week: Colts beat Dolphins 24-22; Texans lost to Browns 27-24.\n\nLast meeting: Colts beat Texans 19-17 on Sept. 27 in Indianapolis.\n\nSeries record: Colts lead 34-15-1.\n\nMatchup to watch"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The NFL preview states Indianapolis beat Houston 19-17 in Week 3.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "They beat Houston, 19-17, [in Week 3](https://www.nfl.com/games/texans-at-colts-2026-reg-3?tab=recap) , but that was before Indianapolis held [its fire sale](https://www.nfl.com/news/nfl-trade-deadline-track-every-move-since-start-of-2026-regular-season) leading up to the trade deadline."
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL game center lists Indianapolis with 22 sacks, ranked 14th, and Houston with 33 sacks, ranked second.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Indianapolis Colts, TOTAL DEF SACKS, 22, ranked 14th. 22 14TH TOTAL DEF SACKS Houston Texans, TOTAL DEF SACKS, 33, ranked 2nd"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NFL game center lists Taylor with 739 rushing yards, 177 carries, and eight touchdowns; the player page identifies him as Jonathan Taylor.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Taylor 739 YDS 177ATT 8TD 4\\.2AVG"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/jonathan-taylor/stats/logs/2026/",
+          "excerpts": [
+            "# Jonathan Taylor 2026 Logs Stats | NFL.com\n\n# Jonathan Taylor\n\nRB \u2022 \\#28\n\n[Indianapolis Colts](https://www.nfl.com/teams/indianapolis-colts/)\n\n### active"
+          ],
+          "title": "Jonathan Taylor 2026 Logs Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL game center lists Stroud with 2,462 passing yards, a 19-to-3 touchdown-to-interception count, and the linked player page identifies him as C.J. Stroud.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "[C. Stroud 2462 YDS 62\\.8%CMP 19TD 3INT](https://www.nfl.com/players/c-j-stroud/stats)"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/c-j-stroud/stats/logs/2026",
+          "excerpts": [
+            "# C.J. Stroud 2026 Logs Stats | NFL.com\n\n# C.J. Stroud\n\nQB \u2022 \\#7\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/c-j-stroud/)"
+          ],
+          "title": "C.J. Stroud 2026 Logs Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The NFL game center lists Collins with 478 receiving yards, 37 receptions, and five touchdowns; the NFL preview names him Nico Collins.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Collins 478 YDS 37REC 5TD 12\\.9AVG"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/colts-vs-texans-three-must-know-storylines-for-thursday-s-week-11-prime-time-game",
+          "excerpts": [
+            "Stroud hasn\u2019t been perfect -- he missed go-to guy [Nico Collins](https://www.nfl.com/players/nico-collins/) on a third-down throw late in Sunday\u2019s loss to the Browns, when the Texans still held the lead and were looking to salt the game away."
+          ],
+          "title": "Colts vs. Texans: Three must-know storylines for Thursday's Week 11 prime-time game | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The NFL game center lists Jones with 1,830 passing yards, seven touchdowns, and 12 interceptions; his player page identifies him as Daniel Jones.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/colts-at-texans-2026-reg-11",
+          "excerpts": [
+            "Jones 1830 YDS 59\\.6%CMP 7TD 12INT"
+          ],
+          "title": "Indianapolis Colts at Houston Texans 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/daniel-jones/stats/logs/2026",
+          "excerpts": [
+            "# Daniel Jones 2026 Logs Stats | NFL.com\n\n# Daniel Jones\n\nQB \u2022 \\#17\n\n[Indianapolis Colts](https://www.nfl.com/teams/indianapolis-colts/)\n\n### active"
+          ],
+          "title": "Daniel Jones 2026 Logs Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "players_to_watch",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Jonathan Taylor has 739 rushing yards and 8 TDs this season! His Indianapolis Colts (3-7) visit the Houston Texans (3-6) in Houston on Thursday. The Texans are eager to stay in the playoff race. Watch C.J. Stroud, who has 2,462 passing yards and 19 TDs! Houston has 33 sacks.",
+    "big_words": [
+      {
+        "word": "eager",
+        "definition": "Excited and ready for something.",
+        "example": "Ava was eager to open her birthday gifts."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1136,
+        "output": 118
+      }
+    ]
+  }
+}

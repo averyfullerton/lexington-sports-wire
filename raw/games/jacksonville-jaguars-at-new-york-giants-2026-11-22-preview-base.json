@@ -1,0 +1,305 @@
+{
+  "run_id": "trun_1714e31eeb204d329a24fe098b630481",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 263.2,
+  "input": {
+    "away_team": "Jacksonville Jaguars",
+    "home_team": "New York Giants",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "7-2",
+    "away_team": "Jacksonville Jaguars",
+    "storyline": "The matchup brings together the AFC South-leading Jaguars and NFC East-leading Giants. Both enter with winning records: Jacksonville at 7-2 and New York at 5-3-1.",
+    "matchup_notes": [
+      "Jacksonville entered 7-2 atop the AFC South, while New York entered 5-3-1 atop the NFC East.",
+      "The Jaguars had won three consecutive games entering Week 11.",
+      "Jacksonville beat Tennessee 40-23 in Week 10.",
+      "The Giants lost to Washington 24-21 in Week 10."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,284 passing yards, 21 TD",
+        "team": "Jacksonville Jaguars",
+        "name": "Trevor Lawrence"
+      },
+      {
+        "stat_line": "692 receiving yards, 58 receptions, 2 TD",
+        "team": "New York Giants",
+        "name": "Malik Nabers"
+      }
+    ],
+    "home_record": "5-3-1",
+    "home_team": "New York Giants",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Week 11 schedule listing identifies Jacksonville's record as 7-2 before its visit to New York.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/where-to-watch-jaguars-vs-giants-week-11-of-2026-nfl-season",
+          "excerpts": [
+            "Giants, Week 11 of 2026 NFL Season\n\nNov 18, 2026 at 05:30 PM\n\n* \n* \n* \n*\n\n**WEEK 11** \u00b7 Sun 11/22 \u00b7 4:25 PM EST\n\nAT\n\nGiants\n\nNew York Giants\n\nCBS47 \u2022 PARAMOUNT+\n\n1010XL | 92.5 FM | 99.9 FM\n\nMETLIFE STADIUM\n\n[GAME CENTER](https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/) [WATCH PARTY](https://www.jaguars.com/game-day/watch-party/)\n\nThe Jacksonville Jaguars (7-2) visit the New York Giants (5-3-1) at MetLife Stadium in Week 11 for their third consecutive road matchup. The all-time series between the Jaguars and Giants is tied at four wins apiece. Jacksonville has averaged 23.8 points per game against the Giants, its second highest output against any opponent. The team's last meeting with the Giants at MetLife Stadium resulted in a 20-15 Jaguars victory in Week 1 of 2018."
+          ],
+          "title": "Where to Watch, Listen & Stream: Jaguars' Week 10 vs. Titans"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The schedule listing names the visiting team as the Jacksonville Jaguars.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/where-to-watch-jaguars-vs-giants-week-11-of-2026-nfl-season",
+          "excerpts": [
+            "Giants, Week 11 of 2026 NFL Season\n\nNov 18, 2026 at 05:30 PM\n\n* \n* \n* \n*\n\n**WEEK 11** \u00b7 Sun 11/22 \u00b7 4:25 PM EST\n\nAT\n\nGiants\n\nNew York Giants\n\nCBS47 \u2022 PARAMOUNT+\n\n1010XL | 92.5 FM | 99.9 FM\n\nMETLIFE STADIUM\n\n[GAME CENTER](https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/) [WATCH PARTY](https://www.jaguars.com/game-day/watch-party/)\n\nThe Jacksonville Jaguars (7-2) visit the New York Giants (5-3-1) at MetLife Stadium in Week 11 for their third consecutive road matchup. The all-time series between the Jaguars and Giants is tied at four wins apiece. Jacksonville has averaged 23.8 points per game against the Giants, its second highest output against any opponent. The team's last meeting with the Giants at MetLife Stadium resulted in a 20-15 Jaguars victory in Week 1 of 2018."
+          ],
+          "title": "Where to Watch, Listen & Stream: Jaguars' Week 10 vs. Titans"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The source identifies Jacksonville as AFC South-leading and New York as NFC East-leading, grounding the division-leaders storyline and their pregame records.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/jaguars-wednesday-a-great-challenge",
+          "excerpts": [
+            "Going To Be Ready\u2026\" QB Trevor Lawrence on C Jonah Monheim, who will make his first start of the 2026 season when the AFC South-leading Jaguars (7-2) play the NFC East-leading New York Giants (5-3-1)"
+          ],
+          "title": "Jaguars Wednesday: \u201cA Great Challenge\u2026\u201d"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited sources establish the teams' division-leading records, Jacksonville's three-game winning streak and Week 10 win over Tennessee, and New York's Week 10 loss to Washington.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/jaguars-wednesday-a-great-challenge",
+          "excerpts": [
+            "Going To Be Ready\u2026\" QB Trevor Lawrence on C Jonah Monheim, who will make his first start of the 2026 season when the AFC South-leading Jaguars (7-2) play the NFC East-leading New York Giants (5-3-1)"
+          ],
+          "title": "Jaguars Wednesday: \u201cA Great Challenge\u2026\u201d"
+        },
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23",
+          "excerpts": [
+            "The Jaguars (7-2) won their third consecutive game, with the Titans (1-8) losing a third consecutive game."
+          ],
+          "title": "Game Report: Jacksonville Jaguars 40, Tennessee Titans 23"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Jacksonville Jaguars and the Tennessee Titans during the 2026 NFL season.\n\nSCORE\n\n40\n\n[Jacksonville Jaguars 7-2](https://www.nfl.com/teams/jacksonville-jaguars)\n\nSCORE\n\n23\n\n[Tennessee Titans 1-8](https://www.nfl.com/teams/tennessee-titans)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794566919/gamecenter/ab5828d9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Washington Commanders 0 10 7 7 0 24\n\nHOME: New York Giants 0 7 7 7 0 21\n\n**1 2 3 4 OT Total**\n\nReplay Official: Crudup, Denise (0)\n\n**Game Day Weather**\n\n**Field Goals (made ( ) & missed)**\n\n**Scoring Plays**\n\nPaid Attendance: 80,450 Time: 3:04\n\nDate: Thursday, 11/12/2026\n\n**New York Giants Washington Commanders**\n\n**Offense Defense Offense Defense**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Jaguars\u2019 game-center stats identify Lawrence\u2019s passing production, and the accompanying 2026 stats list gives his touchdowns. The Giants player page identifies Malik Nabers and lists his season receptions, receiving yards, and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/jax",
+          "excerpts": [
+            "[## Passing Yards Trevor Lawrence ### Trevor Lawrence QB 2,284](https://www.espn.com/nfl/player/_/id/4360310/trevor-lawrence) [## Rushing Yards Bhayshul Tuten ### Bhayshul Tuten RB"
+          ],
+          "title": "Jacksonville Jaguars 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "http://www.nfl.com/games/jaguars-at-giants-2026-reg-11",
+          "excerpts": [
+            "PASSING\n\n[W. Lawrence 2284 YDS 66%CMP 21TD 5INT](http://www.nfl.com/players/trevor-lawrence/stats)\n\nPASSING\n\n[J. Winston 1028 YDS 57\\.8%CMP 8TD 5INT](http://www.nfl.com/players/jameis-winston/stats)\n\nRUSHING\n\n[B. Tuten 609 YDS 148ATT 5TD 4\\.1AVG](http://www.nfl.com/players/bhayshul-tuten/stats)\n\nRUSHING\n\n[C. Skattebo 496 YDS 116ATT 4TD 4\\.3AVG](http://www.nfl.com/players/cam-skattebo/stats)\n\nRECEIVING\n\n[C. Washington 645 YDS 36REC 6TD 17\\.9AVG](http://www.nfl.com/players/parker-washington/stats)"
+          ],
+          "title": "Jacksonville Jaguars at New York Giants 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4595348/malik-nabers",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Nabers\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)",
+            "[LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 6 (NYG)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  58\n  \n  Tied-8th\n  \n  YDS\n  \n  692\n  \n  11th\n  \n  TD\n  \n  2\n  \n  Tied-54th\n  \n  AVG\n  \n  11\\.9\n  \n  60th"
+          ],
+          "title": "Malik Nabers - New York Giants Wide Receiver - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Week 11 schedule listing gives New York's pregame record as 5-3-1.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/where-to-watch-jaguars-vs-giants-week-11-of-2026-nfl-season",
+          "excerpts": [
+            "Giants, Week 11 of 2026 NFL Season\n\nNov 18, 2026 at 05:30 PM\n\n* \n* \n* \n*\n\n**WEEK 11** \u00b7 Sun 11/22 \u00b7 4:25 PM EST\n\nAT\n\nGiants\n\nNew York Giants\n\nCBS47 \u2022 PARAMOUNT+\n\n1010XL | 92.5 FM | 99.9 FM\n\nMETLIFE STADIUM\n\n[GAME CENTER](https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/) [WATCH PARTY](https://www.jaguars.com/game-day/watch-party/)\n\nThe Jacksonville Jaguars (7-2) visit the New York Giants (5-3-1) at MetLife Stadium in Week 11 for their third consecutive road matchup. The all-time series between the Jaguars and Giants is tied at four wins apiece. Jacksonville has averaged 23.8 points per game against the Giants, its second highest output against any opponent. The team's last meeting with the Giants at MetLife Stadium resulted in a 20-15 Jaguars victory in Week 1 of 2018."
+          ],
+          "title": "Where to Watch, Listen & Stream: Jaguars' Week 10 vs. Titans"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The schedule listing identifies the New York Giants as the home team at MetLife Stadium.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/where-to-watch-jaguars-vs-giants-week-11-of-2026-nfl-season",
+          "excerpts": [
+            "Giants, Week 11 of 2026 NFL Season\n\nNov 18, 2026 at 05:30 PM\n\n* \n* \n* \n*\n\n**WEEK 11** \u00b7 Sun 11/22 \u00b7 4:25 PM EST\n\nAT\n\nGiants\n\nNew York Giants\n\nCBS47 \u2022 PARAMOUNT+\n\n1010XL | 92.5 FM | 99.9 FM\n\nMETLIFE STADIUM\n\n[GAME CENTER](https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/) [WATCH PARTY](https://www.jaguars.com/game-day/watch-party/)\n\nThe Jacksonville Jaguars (7-2) visit the New York Giants (5-3-1) at MetLife Stadium in Week 11 for their third consecutive road matchup. The all-time series between the Jaguars and Giants is tied at four wins apiece. Jacksonville has averaged 23.8 points per game against the Giants, its second highest output against any opponent. The team's last meeting with the Giants at MetLife Stadium resulted in a 20-15 Jaguars victory in Week 1 of 2018."
+          ],
+          "title": "Where to Watch, Listen & Stream: Jaguars' Week 10 vs. Titans"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists the game for Sunday, November 22, 2026; with the specified current date of November 19, it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/where-to-watch-jaguars-vs-giants-week-11-of-2026-nfl-season",
+          "excerpts": [
+            "Giants, Week 11 of 2026 NFL Season\n\nNov 18, 2026 at 05:30 PM\n\n* \n* \n* \n*\n\n**WEEK 11** \u00b7 Sun 11/22 \u00b7 4:25 PM EST\n\nAT\n\nGiants\n\nNew York Giants\n\nCBS47 \u2022 PARAMOUNT+\n\n1010XL | 92.5 FM | 99.9 FM\n\nMETLIFE STADIUM\n\n[GAME CENTER](https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/) [WATCH PARTY](https://www.jaguars.com/game-day/watch-party/)\n\nThe Jacksonville Jaguars (7-2) visit the New York Giants (5-3-1) at MetLife Stadium in Week 11 for their third consecutive road matchup. The all-time series between the Jaguars and Giants is tied at four wins apiece. Jacksonville has averaged 23.8 points per game against the Giants, its second highest output against any opponent. The team's last meeting with the Giants at MetLife Stadium resulted in a 20-15 Jaguars victory in Week 1 of 2018."
+          ],
+          "title": "Where to Watch, Listen & Stream: Jaguars' Week 10 vs. Titans"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The source states Jacksonville's 7-2 record and AFC South lead, and New York's 5-3-1 record and NFC East lead.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/jaguars-wednesday-a-great-challenge",
+          "excerpts": [
+            "Going To Be Ready\u2026\" QB Trevor Lawrence on C Jonah Monheim, who will make his first start of the 2026 season when the AFC South-leading Jaguars (7-2) play the NFC East-leading New York Giants (5-3-1)"
+          ],
+          "title": "Jaguars Wednesday: \u201cA Great Challenge\u2026\u201d"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 10 game report says Jacksonville won its third consecutive game.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23",
+          "excerpts": [
+            "The Jaguars (7-2) won their third consecutive game, with the Titans (1-8) losing a third consecutive game."
+          ],
+          "title": "Game Report: Jacksonville Jaguars 40, Tennessee Titans 23"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 10 result is listed as Jacksonville 40, Tennessee 23.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Jacksonville Jaguars and the Tennessee Titans during the 2026 NFL season.\n\nSCORE\n\n40\n\n[Jacksonville Jaguars 7-2](https://www.nfl.com/teams/jacksonville-jaguars)\n\nSCORE\n\n23\n\n[Tennessee Titans 1-8](https://www.nfl.com/teams/tennessee-titans)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The game summary records Washington defeating the New York Giants 24-21 on November 12.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794566919/gamecenter/ab5828d9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Washington Commanders 0 10 7 7 0 24\n\nHOME: New York Giants 0 7 7 7 0 21\n\n**1 2 3 4 OT Total**\n\nReplay Official: Crudup, Denise (0)\n\n**Game Day Weather**\n\n**Field Goals (made ( ) & missed)**\n\n**Scoring Plays**\n\nPaid Attendance: 80,450 Time: 3:04\n\nDate: Thursday, 11/12/2026\n\n**New York Giants Washington Commanders**\n\n**Offense Defense Offense Defense**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The stats identify Trevor Lawrence with 2,284 passing yards; the game-center passing line also lists 21 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/jax",
+          "excerpts": [
+            "[## Passing Yards Trevor Lawrence ### Trevor Lawrence QB 2,284](https://www.espn.com/nfl/player/_/id/4360310/trevor-lawrence) [## Rushing Yards Bhayshul Tuten ### Bhayshul Tuten RB"
+          ],
+          "title": "Jacksonville Jaguars 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "http://www.nfl.com/games/jaguars-at-giants-2026-reg-11",
+          "excerpts": [
+            "PASSING\n\n[W. Lawrence 2284 YDS 66%CMP 21TD 5INT](http://www.nfl.com/players/trevor-lawrence/stats)\n\nPASSING\n\n[J. Winston 1028 YDS 57\\.8%CMP 8TD 5INT](http://www.nfl.com/players/jameis-winston/stats)\n\nRUSHING\n\n[B. Tuten 609 YDS 148ATT 5TD 4\\.1AVG](http://www.nfl.com/players/bhayshul-tuten/stats)\n\nRUSHING\n\n[C. Skattebo 496 YDS 116ATT 4TD 4\\.3AVG](http://www.nfl.com/players/cam-skattebo/stats)\n\nRECEIVING\n\n[C. Washington 645 YDS 36REC 6TD 17\\.9AVG](http://www.nfl.com/players/parker-washington/stats)"
+          ],
+          "title": "Jacksonville Jaguars at New York Giants 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The player page identifies Malik Nabers as a Giants receiver and lists 58 receptions, 692 receiving yards, and two touchdowns for 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4595348/malik-nabers",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Nabers\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)",
+            "[LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n* Draft Info\n  \n  2024: Rd 1, Pk 6 (NYG)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  58\n  \n  Tied-8th\n  \n  YDS\n  \n  692\n  \n  11th\n  \n  TD\n  \n  2\n  \n  Tied-54th\n  \n  AVG\n  \n  11\\.9\n  \n  60th"
+          ],
+          "title": "Malik Nabers - New York Giants Wide Receiver - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "2,284 passing yards and 21 TDs make Trevor Lawrence one to watch! His 7-2 Jacksonville Jaguars visit the 5-3-1 New York Giants in New York. Both teams lead their divisions! Giants star Malik Nabers has 692 receiving yards and 2 TDs. The Giants are hungry for a win after losing to Washington.",
+    "big_words": [
+      {
+        "word": "hungry",
+        "definition": "Wanting something very much.",
+        "example": "Priya was hungry to sing at the talent show."
+      }
+    ],
+    "opener": "Start with a striking number from this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1025,
+        "output": 272
+      }
+    ]
+  }
+}

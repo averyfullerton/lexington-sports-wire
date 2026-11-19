@@ -1,0 +1,184 @@
+{
+  "run_id": "trun_415f3f698c1f435bbabbe7caf226dd97",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 53.2,
+  "input": {
+    "player": "Stefon Diggs",
+    "team": "Washington Commanders",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Maryland",
+    "fun_facts": [
+      "Stefon Diggs grew up in Olney, Maryland, and played high-school football at Good Counsel.",
+      "He was ESPN\u2019s No. 13-ranked recruit in the 2012 class and chose nearby Maryland, in part to stay close to his family in Gaithersburg.",
+      "In three seasons at Maryland, Stefon Diggs caught 150 passes for 2,227 yards and 14 touchdowns; he ranks second in school history in receiving yards.",
+      "Stefon Diggs once threw the first pitch at a Baltimore Orioles game.",
+      "In one early NFL game against Kansas City, Stefon Diggs had seven catches for 129 yards.",
+      "Stefon Diggs has had seven 1,000-yard receiving seasons, made four Pro Bowls, and been named an All-Pro twice."
+    ],
+    "draft": "2015, round 5, pick 146"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Commanders\u2019 player announcement says Stefon Diggs played three seasons at the University of Maryland, directly supporting Maryland as his college.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-wr-stefon-diggs",
+          "excerpts": [
+            "Diggs is sixth among active receivers in receiving yards. In addition to the Vikings and Patriots, he has also spent time with the Buffalo Bills and Houston Texans.\n\nDigg grew up in Olney, Maryland, and played high school football at Good Counsel. Diggs played three seasons at the University of Maryland and caught 150 passes for 2,227 yards and 14 touchdowns. Diggs is second in school history in receiving yards, sixth in receptions and tied for sixth in career touchdowns.\n\n## Related Content"
+          ],
+          "title": "Commanders sign WR Stefon Diggs"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the childhood and high-school detail, recruit ranking and choice of Maryland, college statistics and ranking, Orioles first-pitch appearance, a seven-catch 129-yard game against Kansas City, and career Pro Bowl, All-Pro, and 1,000-yard-season milestones.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-wr-stefon-diggs",
+          "excerpts": [
+            "Diggs is sixth among active receivers in receiving yards. In addition to the Vikings and Patriots, he has also spent time with the Buffalo Bills and Houston Texans.\n\nDigg grew up in Olney, Maryland, and played high school football at Good Counsel. Diggs played three seasons at the University of Maryland and caught 150 passes for 2,227 yards and 14 touchdowns. Diggs is second in school history in receiving yards, sixth in receptions and tied for sixth in career touchdowns.\n\n## Related Content",
+            "The Washington Commanders have signed veteran wide receiver Stefon Diggs.\n\nDiggs, a fifth-round pick by the Minnesota Vikings in 2015, has appeared in 161 games with 152 starts. Diggs is a four-time Pro Bowler and two-time All-Pro with 11,504 yards and 74 touchdowns in his career. He has seven 1,000-yard seasons, the most recent of which came in 2025 with the New England Patriots."
+          ],
+          "title": "Commanders sign WR Stefon Diggs"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33052793/brothers-stefon-trevon-diggs-push-other-greater-heights",
+          "excerpts": [
+            "You got to watch your brothers,'\" Stephanie said. \"So [Stefon] kind of took that literally.\"\n\nBoth boys excelled at football. Stefon was ESPN's No. 13-ranked recruit in the 2012 class. He chose to go to nearby Maryland to play football even with offers from Ohio State, Florida and other major programs because he wanted to stay a short drive from his family in Gaithersburg."
+          ],
+          "title": "Brothers Stefon and Trevon Diggs push each other to greater heights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/stefon-diggs-should-benefit-from-better-surrounding-talent-0ap1000000235190",
+          "excerpts": [
+            "Maryland sophomore wide receiver Stefon Diggs threw out the first pitch at the Aug. 18 Baltimore Orioles game against Colorado. It wasn't a strike -- which means it might be the last less-than-stellar thing Diggs has done for a while.\n\nDiggs (6 feet, 195 pounds) arrived amid a ton of hype out of high school in the Baltimore area, then began to live up to it."
+          ],
+          "title": "Stefon Diggs should benefit from better surrounding talent | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/stefon-diggs-shines-as-starter-for-vikings-0ap3000000566165",
+          "excerpts": [
+            "The [Chiefs](https://www.nfl.com/teams/kansascitychiefs/profile?team=KC) also didn't have an answer for the shifty Diggs, who recorded seven receptions and 129 receiving yards."
+          ],
+          "title": "Stefon Diggs shines as starter for Vikings | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists the draft information as 2015, round 5, pick 146, supporting the stated draft year, round, and pick.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2976212/stefon-diggs",
+          "excerpts": [
+            "* Draft Info\n  \n  2015: Rd 5, Pk 146 (MIN)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  36\n  \n  Tied-31st\n  \n  YDS\n  \n  386"
+          ],
+          "title": "Stefon Diggs Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Commanders\u2019 announcement states that he grew up in Olney and played high-school football at Good Counsel.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-wr-stefon-diggs",
+          "excerpts": [
+            "Diggs is sixth among active receivers in receiving yards. In addition to the Vikings and Patriots, he has also spent time with the Buffalo Bills and Houston Texans.\n\nDigg grew up in Olney, Maryland, and played high school football at Good Counsel. Diggs played three seasons at the University of Maryland and caught 150 passes for 2,227 yards and 14 touchdowns. Diggs is second in school history in receiving yards, sixth in receptions and tied for sixth in career touchdowns.\n\n## Related Content"
+          ],
+          "title": "Commanders sign WR Stefon Diggs"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN identifies Diggs as the No. 13-ranked recruit in the 2012 class and says he chose nearby Maryland to stay a short drive from family in Gaithersburg.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33052793/brothers-stefon-trevon-diggs-push-other-greater-heights",
+          "excerpts": [
+            "You got to watch your brothers,'\" Stephanie said. \"So [Stefon] kind of took that literally.\"\n\nBoth boys excelled at football. Stefon was ESPN's No. 13-ranked recruit in the 2012 class. He chose to go to nearby Maryland to play football even with offers from Ohio State, Florida and other major programs because he wanted to stay a short drive from his family in Gaithersburg."
+          ],
+          "title": "Brothers Stefon and Trevon Diggs push each other to greater heights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Commanders\u2019 announcement gives his three-season Maryland totals and says he ranks second in school history in receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-wr-stefon-diggs",
+          "excerpts": [
+            "Diggs is sixth among active receivers in receiving yards. In addition to the Vikings and Patriots, he has also spent time with the Buffalo Bills and Houston Texans.\n\nDigg grew up in Olney, Maryland, and played high school football at Good Counsel. Diggs played three seasons at the University of Maryland and caught 150 passes for 2,227 yards and 14 touchdowns. Diggs is second in school history in receiving yards, sixth in receptions and tied for sixth in career touchdowns.\n\n## Related Content"
+          ],
+          "title": "Commanders sign WR Stefon Diggs"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL.com passage says Diggs threw out the first pitch at a Baltimore Orioles game against Colorado.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/stefon-diggs-should-benefit-from-better-surrounding-talent-0ap1000000235190",
+          "excerpts": [
+            "Maryland sophomore wide receiver Stefon Diggs threw out the first pitch at the Aug. 18 Baltimore Orioles game against Colorado. It wasn't a strike -- which means it might be the last less-than-stellar thing Diggs has done for a while.\n\nDiggs (6 feet, 195 pounds) arrived amid a ton of hype out of high school in the Baltimore area, then began to live up to it."
+          ],
+          "title": "Stefon Diggs should benefit from better surrounding talent | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage records seven receptions and 129 receiving yards for Diggs against the Chiefs.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/stefon-diggs-shines-as-starter-for-vikings-0ap3000000566165",
+          "excerpts": [
+            "The [Chiefs](https://www.nfl.com/teams/kansascitychiefs/profile?team=KC) also didn't have an answer for the shifty Diggs, who recorded seven receptions and 129 receiving yards."
+          ],
+          "title": "Stefon Diggs shines as starter for Vikings | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Commanders\u2019 announcement states he has seven 1,000-yard seasons, is a four-time Pro Bowler, and is a two-time All-Pro.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-wr-stefon-diggs",
+          "excerpts": [
+            "The Washington Commanders have signed veteran wide receiver Stefon Diggs.\n\nDiggs, a fifth-round pick by the Minnesota Vikings in 2015, has appeared in 161 games with 152 starts. Diggs is a four-time Pro Bowler and two-time All-Pro with 11,504 yards and 74 touchdowns in his career. He has seven 1,000-yard seasons, the most recent of which came in 2025 with the New England Patriots."
+          ],
+          "title": "Commanders sign WR Stefon Diggs"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

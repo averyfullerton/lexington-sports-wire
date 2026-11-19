@@ -1,0 +1,138 @@
+{
+  "name": "Christian McCaffrey",
+  "espn_id": "3117251",
+  "team": "San Francisco 49ers",
+  "team_abbr": "SF",
+  "number": "23",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Stanford",
+  "experience": 10,
+  "fun_facts": [
+    "Christian played running back, defensive back, and punter in high school.",
+    "Christian set a Rose Bowl record with 368 all-purpose yards against Iowa.",
+    "Christian set an NFL record for running backs with 116 catches in 2019."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2017",
+        "CAR",
+        "16",
+        "117",
+        "435",
+        "3.7",
+        "2"
+      ],
+      [
+        "2018",
+        "CAR",
+        "16",
+        "219",
+        "1,098",
+        "5.0",
+        "7"
+      ],
+      [
+        "2019",
+        "CAR",
+        "16",
+        "287",
+        "1,387",
+        "4.8",
+        "15"
+      ],
+      [
+        "2020",
+        "CAR",
+        "3",
+        "59",
+        "225",
+        "3.8",
+        "5"
+      ],
+      [
+        "2021",
+        "CAR",
+        "7",
+        "99",
+        "442",
+        "4.5",
+        "1"
+      ],
+      [
+        "2022",
+        "CAR",
+        "6",
+        "85",
+        "393",
+        "4.6",
+        "2"
+      ],
+      [
+        "2022",
+        "SF",
+        "11",
+        "159",
+        "746",
+        "4.7",
+        "6"
+      ],
+      [
+        "2022",
+        "",
+        "17",
+        "244",
+        "1,139",
+        "4.7",
+        "8"
+      ],
+      [
+        "2023",
+        "SF",
+        "16",
+        "272",
+        "1,459",
+        "5.4",
+        "14"
+      ],
+      [
+        "2024",
+        "SF",
+        "4",
+        "50",
+        "202",
+        "4.0",
+        "0"
+      ],
+      [
+        "2025",
+        "SF",
+        "17",
+        "311",
+        "1,202",
+        "3.9",
+        "10"
+      ],
+      [
+        "2026",
+        "SF",
+        "9",
+        "115",
+        "519",
+        "4.5",
+        "10"
+      ]
+    ]
+  }
+}

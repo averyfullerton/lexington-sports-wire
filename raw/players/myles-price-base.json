@@ -1,0 +1,182 @@
+{
+  "run_id": "trun_415f3f698c1f435b989912efed73f9a7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 83.8,
+  "input": {
+    "player": "Myles Price",
+    "team": "Minnesota Vikings",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Indiana",
+    "fun_facts": [
+      "Myles Price was born in Dallas, Texas.",
+      "Myles Price played college football at Texas Tech before Indiana.",
+      "When the Vikings called in spring 2025 to sign Myles Price as an undrafted free agent, he was sitting in his bathroom at home in Dallas.",
+      "In 2025, Myles Price returned 57 kickoffs for 1,479 yards, averaging 25.9 yards per return.",
+      "In 2026, Myles Price\u2019s punt-return stats included an 86-yard long return and one punt-return touchdown."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Pro-Football-Reference profile lists Texas Tech followed by Indiana, and ESPN identifies Indiana as Myles Price\u2019s college. Together, they support Indiana as the last college listed.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/P/PricMy00.htm",
+          "excerpts": [
+            "* [Logout](https://www.sports-reference.com/account/api/logout)\n* [Ad-Free Login](https://www.sports-reference.com/users/login.cgi?token=1)\n* \n\nPhoto of Myles Price\n\n# Myles Price\n\n**Myles Price**\n\n**Position** : WR\n\n5-9 , 183lb (175cm, 83kg)\n\n**Team** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2026.htm)\n\n**Born:** [December 16](https://www.pro-football-reference.com/friv/birthdays.cgi?month=12&day=16) , 2001 in Dallas, [TX](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=TX) (Age: 24-335d)\n\n**College** : [Texas Tech](https://www.pro-football-reference.com/schools/texastech/) , [Indiana](https://www.pro-football-reference.com/schools/indiana/) ( [College Stats](https://www.sports-reference.com/cfb/players/myles-price-1.html) )"
+          ],
+          "title": "Myles Price Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4430656/myles-price",
+          "excerpts": [
+            "1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Myles Price\n\nMinnesota Vikings\n\n* [Minnesota Vikings Vikings](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n* \\#4\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 9\", 183 lbs\n* Birthdate\n  \n  12/16/2001 (24)\n* College\n  \n  [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nFollow\n\n* HT/WT\n  \n  5' 9\", 183 lbs\n* Birthdate\n  \n  12/16/2001 (24)\n* College\n  \n  [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n* Status\n  \n  Active\n* Experience\n  \n  2nd Season"
+          ],
+          "title": "Myles Price Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Dallas as his birthplace; the college profile lists Texas Tech and Indiana in that order. The NFL account describes the bathroom setting when he received the Vikings\u2019 undrafted signing call. The 2025 returns table gives his kickoff-return totals and average, and the 2026 NFL stats row records an 86-yard punt-return long and one punt-return touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4430656/myles-price",
+          "excerpts": [
+            "* [Game Log](https://www.espn.com/nfl/player/gamelog/_/id/4430656/myles-price)\n\n### Biography\n\nTeam [Minnesota Vikings](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\nPosition Wide Receiver\n\nHT/WT 5' 9\", 183 lbs\n\nBirthdate 12/16/2001 (24)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Dallas, TX"
+          ],
+          "title": "Myles Price Biography - ESPN"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/P/PricMy00.htm",
+          "excerpts": [
+            "* [Logout](https://www.sports-reference.com/account/api/logout)\n* [Ad-Free Login](https://www.sports-reference.com/users/login.cgi?token=1)\n* \n\nPhoto of Myles Price\n\n# Myles Price\n\n**Myles Price**\n\n**Position** : WR\n\n5-9 , 183lb (175cm, 83kg)\n\n**Team** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2026.htm)\n\n**Born:** [December 16](https://www.pro-football-reference.com/friv/birthdays.cgi?month=12&day=16) , 2001 in Dallas, [TX](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=TX) (Age: 24-335d)\n\n**College** : [Texas Tech](https://www.pro-football-reference.com/schools/texastech/) , [Indiana](https://www.pro-football-reference.com/schools/indiana/) ( [College Stats](https://www.sports-reference.com/cfb/players/myles-price-1.html) )"
+          ],
+          "title": "Myles Price Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/what-s-behind-the-vikings-shocking-5-0-start-exceptional-defense-reliable-special-teams",
+          "excerpts": [
+            "O'Connell has said several times this season that he knew how hard his defense would be to face. That understanding reinforced an overarching philosophy centered on ball control and field position."
+          ],
+          "title": "What's behind the Vikings' shocking 5-0 start? Exceptional defense, reliable special teams | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/years/2025/returns.htm",
+          "excerpts": [
+            "|2 |[Jaylin Noel](https://www.pro-football-reference.com/players/N/NoelJa00.htm) |23 |[HOU](https://www.pro-football-reference.com/teams/htx/2025.htm) |WR |17 |3 |31 |335 |0 |53 |10\\.8 |29 |799 |0 |69 |27\\.6 |1438 | |\n|3 |[Myles Price](https://www.pro-football-reference.com/players/P/PricMy00.htm) |24 |[MIN](https://www.pro-football-reference.com/teams/min/2025.htm) |WR |16 |0 |30 |298 |0 |43 |9\\.9 |57 |1479 |0 |61 |25\\.9 |1777 | |"
+          ],
+          "title": "2025 NFL Kick & Punt Returns | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/myles-price/stats/career",
+          "excerpts": [
+            "|2026 |Minnesota Vikings |9 |28 |818 |29\\.2 |68 |0 |28 |3 |0 |1 |\n|2025 |Minnesota Vikings |16 |57 |1479 |26 |61 |0 |49 |1 |0 |2 |\n|TOTAL | |25 |85 |2297 |27 |68 |0 |77 |4 |0 |3 |\n\n### Punt Return\n\n|YEAR |TEAM |G |RET |YDS |AVG |LNG |TD |20+ |40+ |FC |FUM |"
+          ],
+          "title": "Myles Price Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL account states that the Vikings signed Myles Price as an undrafted free agent in spring 2025, supporting the answer \u201cUndrafted.\u201d",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/what-s-behind-the-vikings-shocking-5-0-start-exceptional-defense-reliable-special-teams",
+          "excerpts": [
+            "O'Connell has said several times this season that he knew how hard his defense would be to face. That understanding reinforced an overarching philosophy centered on ball control and field position."
+          ],
+          "title": "What's behind the Vikings' shocking 5-0 start? Exceptional defense, reliable special teams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN\u2019s biography lists Dallas, Texas as Myles Price\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4430656/myles-price",
+          "excerpts": [
+            "* [Game Log](https://www.espn.com/nfl/player/gamelog/_/id/4430656/myles-price)\n\n### Biography\n\nTeam [Minnesota Vikings](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\nPosition Wide Receiver\n\nHT/WT 5' 9\", 183 lbs\n\nBirthdate 12/16/2001 (24)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Dallas, TX"
+          ],
+          "title": "Myles Price Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile lists Texas Tech followed by Indiana as Myles Price\u2019s colleges, supporting that he played at Texas Tech before Indiana.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/P/PricMy00.htm",
+          "excerpts": [
+            "* [Logout](https://www.sports-reference.com/account/api/logout)\n* [Ad-Free Login](https://www.sports-reference.com/users/login.cgi?token=1)\n* \n\nPhoto of Myles Price\n\n# Myles Price\n\n**Myles Price**\n\n**Position** : WR\n\n5-9 , 183lb (175cm, 83kg)\n\n**Team** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2026.htm)\n\n**Born:** [December 16](https://www.pro-football-reference.com/friv/birthdays.cgi?month=12&day=16) , 2001 in Dallas, [TX](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=TX) (Age: 24-335d)\n\n**College** : [Texas Tech](https://www.pro-football-reference.com/schools/texastech/) , [Indiana](https://www.pro-football-reference.com/schools/indiana/) ( [College Stats](https://www.sports-reference.com/cfb/players/myles-price-1.html) )"
+          ],
+          "title": "Myles Price Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL account says Price was at home in Dallas, sitting in his bathroom, when the Vikings called to sign him as an undrafted free agent.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/what-s-behind-the-vikings-shocking-5-0-start-exceptional-defense-reliable-special-teams",
+          "excerpts": [
+            "O'Connell has said several times this season that he knew how hard his defense would be to face. That understanding reinforced an overarching philosophy centered on ball control and field position."
+          ],
+          "title": "What's behind the Vikings' shocking 5-0 start? Exceptional defense, reliable special teams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The 2025 returns table lists Price with 57 kickoff returns, 1,479 kickoff-return yards and a 25.9-yard average.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/years/2025/returns.htm",
+          "excerpts": [
+            "|2 |[Jaylin Noel](https://www.pro-football-reference.com/players/N/NoelJa00.htm) |23 |[HOU](https://www.pro-football-reference.com/teams/htx/2025.htm) |WR |17 |3 |31 |335 |0 |53 |10\\.8 |29 |799 |0 |69 |27\\.6 |1438 | |\n|3 |[Myles Price](https://www.pro-football-reference.com/players/P/PricMy00.htm) |24 |[MIN](https://www.pro-football-reference.com/teams/min/2025.htm) |WR |16 |0 |30 |298 |0 |43 |9\\.9 |57 |1479 |0 |61 |25\\.9 |1777 | |"
+          ],
+          "title": "2025 NFL Kick & Punt Returns | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The 2026 punt-return row lists a longest return of 86 yards and one punt-return touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/myles-price/stats/career",
+          "excerpts": [
+            "|2026 |Minnesota Vikings |9 |28 |818 |29\\.2 |68 |0 |28 |3 |0 |1 |\n|2025 |Minnesota Vikings |16 |57 |1479 |26 |61 |0 |49 |1 |0 |2 |\n|TOTAL | |25 |85 |2297 |27 |68 |0 |77 |4 |0 |3 |\n\n### Punt Return\n\n|YEAR |TEAM |G |RET |YDS |AVG |LNG |TD |20+ |40+ |FC |FUM |"
+          ],
+          "title": "Myles Price Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

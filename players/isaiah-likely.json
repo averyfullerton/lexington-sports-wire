@@ -1,0 +1,75 @@
+{
+  "name": "Isaiah Likely",
+  "espn_id": "4361050",
+  "team": "New York Giants",
+  "team_abbr": "NYG",
+  "number": "9",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Coastal Carolina",
+  "experience": 5,
+  "fun_facts": [
+    "Isaiah caught a school-record 99-yard touchdown.",
+    "Isaiah caught four touchdowns in a 2021 game against Arkansas State.",
+    "He caught seven touchdowns in nine games with the Giants in 2026."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2022",
+        "BAL",
+        "16",
+        "36",
+        "373",
+        "3",
+        "34"
+      ],
+      [
+        "2023",
+        "BAL",
+        "17",
+        "30",
+        "411",
+        "5",
+        "54"
+      ],
+      [
+        "2024",
+        "BAL",
+        "16",
+        "42",
+        "477",
+        "6",
+        "49"
+      ],
+      [
+        "2025",
+        "BAL",
+        "14",
+        "27",
+        "307",
+        "1",
+        "43"
+      ],
+      [
+        "2026",
+        "NYG",
+        "9",
+        "55",
+        "575",
+        "7",
+        "66"
+      ]
+    ]
+  }
+}

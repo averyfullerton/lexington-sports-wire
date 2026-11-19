@@ -1,0 +1,338 @@
+{
+  "run_id": "trun_1714e31eeb204d32b616d8e9b25a6e8a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 107.1,
+  "input": {
+    "away_team": "Miami Dolphins",
+    "home_team": "Buffalo Bills",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "1-8",
+    "away_team": "Miami Dolphins",
+    "storyline": "This AFC East matchup pits division-leading Buffalo (8-1) against Miami (1-8). It is Miami\u2019s third divisional game of the season.",
+    "matchup_notes": [
+      "Buffalo beat the New York Jets 31-12 in Week 10.",
+      "Miami lost its last three games: 24-22 to Indianapolis, 19-9 to Detroit and 24-19 to New England.",
+      "Entering Week 11, Buffalo averaged 31.9 points per game (first in the NFL), while Miami averaged 16.4 (30th).",
+      "Dolphins quarterback Kyle McCord made his NFL debut in Week 10, completing 17 of 32 passes for 209 yards and adding a rushing touchdown."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "36 receptions, 400 receiving yards",
+        "team": "Miami Dolphins",
+        "name": "Malik Washington"
+      },
+      {
+        "stat_line": "539 rushing yards, 4 TD",
+        "team": "Miami Dolphins",
+        "name": "Ollie Gordon II"
+      },
+      {
+        "stat_line": "2,223 passing yards, 13 TD, 7 INT",
+        "team": "Buffalo Bills",
+        "name": "Josh Allen"
+      },
+      {
+        "stat_line": "971 rushing yards, 9 TD",
+        "team": "Buffalo Bills",
+        "name": "James Cook"
+      }
+    ],
+    "home_record": "8-1",
+    "home_team": "Buffalo Bills",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The pregame matchup page lists Miami with one win, eight losses and no ties, which is a 1-8 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "1 win, 8 losses, 0 ties"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup page identifies the visiting team as the Miami Dolphins.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Miami Dolphins"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The AFC East standings show Buffalo at 8-1 and Miami at 1-8; the Dolphins\u2019 weekly release states this is Miami\u2019s third divisional game of the season.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Standings AFC EAST TEAM W Wins L Losses T Ties PCT Win Percentage"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "This marks Miami's third divisional game of the year and third in the last five weeks."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL sources establish Buffalo\u2019s Week 10 win, Miami\u2019s recent run of losses, the teams\u2019 scoring averages and rankings, and McCord\u2019s Week 10 debut and statistics.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Munich**\n\n* Detroit Lions 35, New England Patriots 10\n\n**Early Window**\n\n* Kansas City Chiefs 35, Atlanta Falcons 13\n* Cleveland Browns 27, Houston Texans 24\n* Minnesota Vikings 30, Green Bay Packers 10\n* Indianapolis Colts 24, Miami Dolphins 22\n* Carolina Panthers 20, New Orleans Saints 17\n* Buffalo Bills 31, New York Jets 12"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Week 10 Wk 10 @ at Indianapolis Colts Logo COLTS L Loss 22-24 22 to 24 points Watch Replay Replay Button",
+            "Miami Dolphins, POINTS PER GAME, 16.4, ranked 30th. 16\\.4 30TH POINTS PER GAME Buffalo Bills, POINTS PER GAME, 31.9, ranked 1st"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "MCCORD MAKES STRONG FIRST IMPRESSION** With QB Malik Willis on injured reserve, QB Kyle McCord made his NFL debut in Week 10 at Indianapolis. McCord completed 17-of-32 passes (53.1 pct.) for 209 yards and added four rushing yards and a touchdown on two carries. He became the fifth player in franchise history and the first quarterback to score a rushing touchdown in his NFL debut."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The sources give Washington\u2019s and Gordon\u2019s Miami production and the Bills\u2019 passing and rushing leader lines for Allen and Cook, including the listed season totals.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "Washington leads the Dolphins with 36 catches for 400 yards (11.1 avg.) this season.",
+            "GORDON II ANSWERS THE CALL** After losing RB De'Von Achane to injury in Week 3, Miami turned to RB Ollie Gordon II, who has recorded 127 carries for 539 yards (4.2 avg.) and four touchdowns."
+          ],
+          "title": "MIAMI DOLPHINS"
+        },
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING [J. Allen 2223 YDS 65%CMP 13TD 7INT",
+            "RUSHING [J. Cook 971 YDS 187ATT 9TD 5\\.2AVG](https://www.nfl.com/players/james-cook/stats)"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The pregame matchup page lists Buffalo with eight wins, one loss and no ties, which is an 8-1 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "8 wins, 1 loss, 0 ties"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup page identifies the home team as the Buffalo Bills.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Buffalo Bills"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The Week 11 release lists the game for Sunday, November 22, 2026; the date supplied for this request is November 19, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "WEEK 11 \u2022 MIAMI DOLPHINS (1-8) AT BUFFALO BILLS (8-1) SUNDAY, NOVEMBER 22, 2026 \u2022 1 PM ET"
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Week 10 results list Buffalo\u2019s 31-12 win over the New York Jets.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Munich**\n\n* Detroit Lions 35, New England Patriots 10\n\n**Early Window**\n\n* Kansas City Chiefs 35, Atlanta Falcons 13\n* Cleveland Browns 27, Houston Texans 24\n* Minnesota Vikings 30, Green Bay Packers 10\n* Indianapolis Colts 24, Miami Dolphins 22\n* Carolina Panthers 20, New Orleans Saints 17\n* Buffalo Bills 31, New York Jets 12"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The recent-games list records Miami\u2019s losses in Weeks 8, 9 and 10, following its Week 7 win.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Week 10 Wk 10 @ at Indianapolis Colts Logo COLTS L Loss 22-24 22 to 24 points Watch Replay Replay Button"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The matchup page lists Miami at 16.4 points per game, ranked 30th, and Buffalo at 31.9, ranked first.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Miami Dolphins, POINTS PER GAME, 16.4, ranked 30th. 16\\.4 30TH POINTS PER GAME Buffalo Bills, POINTS PER GAME, 31.9, ranked 1st"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The Dolphins\u2019 weekly release says McCord made his NFL debut in Week 10 and records his passing and rushing touchdown stats from that game.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "MCCORD MAKES STRONG FIRST IMPRESSION** With QB Malik Willis on injured reserve, QB Kyle McCord made his NFL debut in Week 10 at Indianapolis. McCord completed 17-of-32 passes (53.1 pct.) for 209 yards and added four rushing yards and a touchdown on two carries. He became the fifth player in franchise history and the first quarterback to score a rushing touchdown in his NFL debut."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The Dolphins\u2019 release says Washington led the team with 36 catches for 400 receiving yards.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "Washington leads the Dolphins with 36 catches for 400 yards (11.1 avg.) this season."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The Dolphins\u2019 release identifies Ollie Gordon II and lists 539 rushing yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/pgfkv0r0ckdnuv8qfxyk",
+          "excerpts": [
+            "GORDON II ANSWERS THE CALL** After losing RB De'Von Achane to injury in Week 3, Miami turned to RB Ollie Gordon II, who has recorded 127 carries for 539 yards (4.2 avg.) and four touchdowns."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The Bills\u2019 passing leader is J. Allen, listed with 2,223 yards, 13 touchdowns and seven interceptions; the linked player record identifies Josh Allen.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING [J. Allen 2223 YDS 65%CMP 13TD 7INT"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The Bills\u2019 rushing leader is J. Cook, listed with 971 yards and nine touchdowns; the linked player record identifies James Cook.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=preview",
+          "excerpts": [
+            "RUSHING [J. Cook 971 YDS 187ATT 9TD 5\\.2AVG](https://www.nfl.com/players/james-cook/stats)"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "matchup_notes.1",
+      "players_to_watch",
+      "players_to_watch.2",
+      "players_to_watch.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Buffalo Bills lead the AFC East. The 8-1 Bills host the 1-8 Miami Dolphins in New York. Buffalo\u2019s James Cook has 971 rushing yards and 9 touchdowns. Miami\u2019s Ollie Gordon II has 539 rushing yards and 4 touchdowns. Watch their fierce running matchup!",
+    "big_words": [
+      {
+        "word": "fierce",
+        "definition": "Full of energy and strength.",
+        "example": "Kofi gave the thick cookie dough a fierce stir."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1115,
+        "output": 219
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435bbcc2bf2c0bbf2c54",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 37.7,
+  "input": {
+    "player": "Jared Goff",
+    "team": "Detroit Lions",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "California",
+    "fun_facts": [
+      "ESPN lists Jared Goff\u2019s hometown as Kentfield, California.",
+      "Jared Goff finished his three varsity seasons at Marin Catholic with a 39-4 record.",
+      "Jared Goff became the first quarterback in California history to start as a true freshman.",
+      "In 2015, Jared Goff threw 43 touchdown passes, breaking the Pac-12 single-season record.",
+      "Jared Goff threw six touchdown passes in the Armed Forces Bowl, setting Cal and bowl records."
+    ],
+    "draft": "2016, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies California as Jared Goff\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3046779/jared-goff",
+          "excerpts": [
+            "HT/WT 6' 4\", 217 lbs\n\nBirthdate 10/14/1994 (32)\n\nCollege [California](https://www.espn.com/college-football/team/_/id/25/california-golden-bears)\n\nDraft Info 2016: Rd 1, Pk 1 (LAR)\n\nStatus Active"
+          ],
+          "title": "Jared Goff Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages give Jared Goff\u2019s hometown, his high-school record and Cal freshman-starting milestone, his 2015 Pac-12 touchdown-pass record, and his six-touchdown Armed Forces Bowl performance and records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/154163/jared-goff",
+          "excerpts": [
+            "# Jared Goff\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2013)\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/108/class/2013)\n\n* \n\n6-4, 175 | Class of 2013\n\n* Hometown [Kentfield, Calif.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/6/hometown/10256/class/2013)\n* School [Marin Catholic High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2013/highschool/8218)"
+          ],
+          "title": "Jared Goff Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/49962106/jared-goff-lions-family-wife-christen-goff-fatherhood-daughter-super-bowl-2026-season",
+          "excerpts": [
+            "Those lessons ultimately helped Jared finish his prep career with a 39-4 record over three varsity football seasons at Marin Catholic High School in Kentfield, California. He was the first quarterback in Cal history to start as a true freshman, then the No. 1 pick in the 2016 NFL draft by the [Los Angeles Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) ."
+          ],
+          "title": "How family and fatherhood are fueling Lions QB Jared Goff - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2016/story/_/id/14470735/qb-jared-goff-california-golden-bears-plans-announce-enter-nfl-draft",
+          "excerpts": [
+            "With 43 TD passes in 2015, he broke the Pac-12's single-season touchdown pass record, which was previously held by [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) 's [Marcus Mariota](https://www.espn.com/nfl/player/_/id/2576980/marcus-mariota) , who had 42 in 2014.\n\nAfter going 1-11 in the 2013 season, during which he became the first true freshman QB in Cal history to start a season opener, Goff led the Bears to an 8-5 record in 2015, the program's best finish in six years. Cal finished fourth in the Pac-12 North at 4-5, and Goff shared first-team all-conference honors with [Washington"
+          ],
+          "title": "Cal QB Jared Goff enters NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/ncfnation/post/_/id/123675/jared-goff-leads-cal-over-air-force-lands-bears-first-bowl-win-since-2008",
+          "excerpts": [
+            "With a record six TD passes on Tuesday, Jared Goff led Cal past Air Force 55-36 in the Armed Forces Bowl. Tom Pennington/Getty Images\n\n**Player of the game:** Goff. The junior recorded six touchdown passes against Air Force, setting Cal bowl and Armed Forces Bowl records."
+          ],
+          "title": "Jared Goff leads Cal over Air Force, Bears' first bowl win since 2008 - ESPN - College Football Nation Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography states that Jared Goff was selected in 2016, round 1, pick 1.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3046779/jared-goff",
+          "excerpts": [
+            "HT/WT 6' 4\", 217 lbs\n\nBirthdate 10/14/1994 (32)\n\nCollege [California](https://www.espn.com/college-football/team/_/id/25/california-golden-bears)\n\nDraft Info 2016: Rd 1, Pk 1 (LAR)\n\nStatus Active"
+          ],
+          "title": "Jared Goff Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN recruiting profile explicitly lists Kentfield, California, as Jared Goff\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/154163/jared-goff",
+          "excerpts": [
+            "# Jared Goff\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2013)\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/108/class/2013)\n\n* \n\n6-4, 175 | Class of 2013\n\n* Hometown [Kentfield, Calif.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/6/hometown/10256/class/2013)\n* School [Marin Catholic High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2013/highschool/8218)"
+          ],
+          "title": "Jared Goff Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states Jared Goff finished three varsity seasons with a 39-4 record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/49962106/jared-goff-lions-family-wife-christen-goff-fatherhood-daughter-super-bowl-2026-season",
+          "excerpts": [
+            "Those lessons ultimately helped Jared finish his prep career with a 39-4 record over three varsity football seasons at Marin Catholic High School in Kentfield, California. He was the first quarterback in Cal history to start as a true freshman, then the No. 1 pick in the 2016 NFL draft by the [Los Angeles Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) ."
+          ],
+          "title": "How family and fatherhood are fueling Lions QB Jared Goff - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Jared Goff as the first quarterback in Cal history to start as a true freshman.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/49962106/jared-goff-lions-family-wife-christen-goff-fatherhood-daughter-super-bowl-2026-season",
+          "excerpts": [
+            "Those lessons ultimately helped Jared finish his prep career with a 39-4 record over three varsity football seasons at Marin Catholic High School in Kentfield, California. He was the first quarterback in Cal history to start as a true freshman, then the No. 1 pick in the 2016 NFL draft by the [Los Angeles Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) ."
+          ],
+          "title": "How family and fatherhood are fueling Lions QB Jared Goff - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Jared Goff\u2019s 43 touchdown passes in 2015 broke the Pac-12 single-season touchdown-pass record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2016/story/_/id/14470735/qb-jared-goff-california-golden-bears-plans-announce-enter-nfl-draft",
+          "excerpts": [
+            "With 43 TD passes in 2015, he broke the Pac-12's single-season touchdown pass record, which was previously held by [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) 's [Marcus Mariota](https://www.espn.com/nfl/player/_/id/2576980/marcus-mariota) , who had 42 in 2014.\n\nAfter going 1-11 in the 2013 season, during which he became the first true freshman QB in Cal history to start a season opener, Goff led the Bears to an 8-5 record in 2015, the program's best finish in six years. Cal finished fourth in the Pac-12 North at 4-5, and Goff shared first-team all-conference honors with [Washington"
+          ],
+          "title": "Cal QB Jared Goff enters NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage describes Jared Goff throwing six touchdown passes in the Armed Forces Bowl and setting Cal and bowl records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/ncfnation/post/_/id/123675/jared-goff-leads-cal-over-air-force-lands-bears-first-bowl-win-since-2008",
+          "excerpts": [
+            "With a record six TD passes on Tuesday, Jared Goff led Cal past Air Force 55-36 in the Armed Forces Bowl. Tom Pennington/Getty Images\n\n**Player of the game:** Goff. The junior recorded six touchdown passes against Air Force, setting Cal bowl and Armed Forces Bowl records."
+          ],
+          "title": "Jared Goff leads Cal over Air Force, Bears' first bowl win since 2008 - ESPN - College Football Nation Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

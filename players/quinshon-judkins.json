@@ -1,0 +1,48 @@
+{
+  "name": "Quinshon Judkins",
+  "espn_id": "4685702",
+  "team": "Cleveland Browns",
+  "team_abbr": "CLE",
+  "number": "10",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Ohio State",
+  "experience": 2,
+  "fun_facts": [
+    "Quinshon set Ole Miss records with 1,567 rushing yards and 16 rushing touchdowns in 2022.",
+    "He scored three of Ohio State's four touchdowns in the national championship game.",
+    "He scored 50 touchdowns in three college seasons."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "CLE",
+        "14",
+        "230",
+        "827",
+        "3.6",
+        "7"
+      ],
+      [
+        "2026",
+        "CLE",
+        "9",
+        "126",
+        "423",
+        "3.4",
+        "4"
+      ]
+    ]
+  }
+}

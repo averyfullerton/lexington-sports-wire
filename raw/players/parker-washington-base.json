@@ -1,0 +1,149 @@
+{
+  "run_id": "trun_415f3f698c1f435b951b24f506fb0e25",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 64.7,
+  "input": {
+    "player": "Parker Washington",
+    "team": "Jacksonville Jaguars",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Penn State",
+    "fun_facts": [
+      "Parker Washington was a four-star recruit and a first-team All-Houston Area selection as a senior at William B. Travis High School.",
+      "Parker Washington started all nine games as a true freshman at Penn State, catching 36 passes for 489 yards and six touchdowns. He also returned five kickoffs for 100 yards.",
+      "In 2021, Parker Washington caught 64 passes for 820 yards and four touchdowns.",
+      "In 2022, Parker Washington was an honorable mention All-Big Ten selection and caught 46 passes for 611 yards and two touchdowns.",
+      "Across three seasons at Penn State, Parker Washington made 146 catches for 1,920 yards and 12 touchdowns."
+    ],
+    "draft": "2023, round 6, pick 185"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars' draft announcement identifies Parker Washington as a wide receiver from Penn State University and says he played three seasons there.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The Jaguars' draft profile gives Washington's four-star recruiting status and high-school recognition, along with his freshman starting role and stats. The Jaguars' draft announcement records his 2021 and 2022 receiving totals, 2022 All-Big Ten recognition, and three-season career totals at Penn State.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023/",
+          "excerpts": [
+            "## Round 6\n\nPick 8 (185)\n\n### [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/)\n\nWR Penn State\n\n5-9 204 LBS\n\nFrom Jets\n\nThe cousin of NFL quarterback Joshua Dobbs was a four-star recruit and first-team All-Houston Area selection as a senior at William B. Travis High School. He stepped into the starting lineup for Penn State as a true freshman, beginning all nine games (36-489-13.6, six TDs receiving; 5-100-20.0 on kick returns)."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        },
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars' announcement states he was selected in the 2023 draft's sixth round, No. 185 overall.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Jaguars' draft profile calls him a four-star recruit and a first-team All-Houston Area selection as a senior at William B. Travis High School.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023/",
+          "excerpts": [
+            "## Round 6\n\nPick 8 (185)\n\n### [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/)\n\nWR Penn State\n\n5-9 204 LBS\n\nFrom Jets\n\nThe cousin of NFL quarterback Joshua Dobbs was a four-star recruit and first-team All-Houston Area selection as a senior at William B. Travis High School. He stepped into the starting lineup for Penn State as a true freshman, beginning all nine games (36-489-13.6, six TDs receiving; 5-100-20.0 on kick returns)."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile says he started all nine games as a true freshman and lists 36 catches, 489 yards, six receiving touchdowns, and five kickoff returns for 100 yards.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023/",
+          "excerpts": [
+            "## Round 6\n\nPick 8 (185)\n\n### [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/)\n\nWR Penn State\n\n5-9 204 LBS\n\nFrom Jets\n\nThe cousin of NFL quarterback Joshua Dobbs was a four-star recruit and first-team All-Houston Area selection as a senior at William B. Travis High School. He stepped into the starting lineup for Penn State as a true freshman, beginning all nine games (36-489-13.6, six TDs receiving; 5-100-20.0 on kick returns)."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Jaguars' announcement states that he caught 64 passes for 820 yards and four touchdowns in 2021.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The announcement reports his 2022 totals of 46 catches, 611 yards, and two touchdowns, and names him an honorable mention All-Big Ten selection that year.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The announcement says he played three seasons at Penn State and totaled 146 career catches, 1,920 yards, and 12 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-6-pick-185-overall-washington-is-the-selection",
+          "excerpts": [
+            "Parker Washington, a wide receiver from Penn State University, on Saturday was selected by the Jaguars in Round 6 of the 2023 NFL Draft \u2013 the No. 185 overall selection.\n\nWashington (5-feet-10, 204 pounds), who played three seasons for Penn State, caught 146 career passes for 1,920 yards and 12 touchdowns. He caught 46 passes for 611 yards and two touchdowns in 2022 after catching 64 passes for 820 yards and four touchdowns in 2021.\n\nHe caught a career-high six touchdown passes on 36 receptions with 489 yards in 2020. He was an honorable mention All-Big 10 selection in 2022.\n\nWashington became the fourth Penn State player selected by the Jaguars in the NFL Draft. They selected Penn State tight end Brenton Strange Friday in Round 2 of the '23 draft."
+          ],
+          "title": "Jaguars Select Parker Washington with Pick 185 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

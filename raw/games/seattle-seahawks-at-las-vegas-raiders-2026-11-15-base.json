@@ -1,0 +1,468 @@
+{
+  "run_id": "trun_3df3487a122343d48051ffa1519c1599",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 150.4,
+  "input": {
+    "away_team": "Seattle Seahawks",
+    "home_team": "Las Vegas Raiders",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Seattle Seahawks",
+    "key_plays": [
+      "Q1 7:41: Fernando Mendoza 10-yard rushing touchdown for the Raiders",
+      "Q1 2:32: Drew Lock 34-yard touchdown pass to Cooper Kupp",
+      "Q3 9:28: Jadarian Price 12-yard rushing touchdown",
+      "Q3 7:10: Drew Lock 71-yard touchdown pass to Jaxon Smith-Njigba",
+      "Q4 2:04: Matt Gay 43-yard field goal for the Raiders"
+    ],
+    "away_score": 21,
+    "storyline": "The defending Super Bowl champion Seahawks (6-4) had won three of four entering their bye, and this was their first regular-season game at Allegiant Stadium. Seattle spoiled rookie Fernando Mendoza\u2019s first start as the Raiders\u2019 quarterback.",
+    "top_performers": [
+      {
+        "stat_line": "14/17, 240 yards, 2 TD, 0 INT",
+        "team": "Seattle Seahawks",
+        "name": "Drew Lock"
+      },
+      {
+        "stat_line": "8 receptions, 171 yards, 1 TD",
+        "team": "Seattle Seahawks",
+        "name": "Jaxon Smith-Njigba"
+      },
+      {
+        "stat_line": "20 carries, 94 yards, 4.7 avg, 0 TD",
+        "team": "Seattle Seahawks",
+        "name": "Zach Charbonnet"
+      },
+      {
+        "stat_line": "9 carries, 36 yards, 4.0 avg, 1 TD",
+        "team": "Seattle Seahawks",
+        "name": "Jadarian Price"
+      },
+      {
+        "stat_line": "1 reception, 34 yards, 1 TD",
+        "team": "Seattle Seahawks",
+        "name": "Cooper Kupp"
+      }
+    ],
+    "home_record_after": "4-6",
+    "tough_day": [
+      {
+        "stat_line": "17/29, 143 yards, 0 TD, 0 INT; sacked 6 times for 45 yards",
+        "team": "Las Vegas Raiders",
+        "name": "Fernando Mendoza"
+      }
+    ],
+    "away_record_after": "6-4",
+    "home_team": "Las Vegas Raiders",
+    "home_score": 13
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary identifies the Seahawks and Raiders, gives their game scoring totals, dates the game November 15, 2026, and labels the individual statistics as final.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Seattle Seahawks 7 0 14 0 0 21 HOME: Las Vegas Raiders 7 3 0 3 0 13 **1 2 3 4 OT Total** Replay Official: Van Geffen, Jim (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Paid Attendance: 62,624 Time: 2:52 Date: Sunday, 11/15/2026",
+            "**Final Individual Statistics** **Seattle Seahawks vs Las Vegas Raiders** **11/15/2026 at Allegiant Stadium**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game summary names Seattle as the visiting team in the matchup heading.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Seattle Seahawks at Las Vegas Raiders** Start Time: 1:05 PM PST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring summary lists the touchdowns and field goals chronologically with their quarter and game-clock times.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Raiders F.Mendoza 10 yd. run (M.Gay kick) (11-46, 6:21) 0 7 1 7:41 Seahawks C.Kupp 34 yd. pass from D.Lock (J.Myers kick) (8-73, 5:09) 7 7 1 2:32 Raiders M.Gay 34 yd. Field Goal (11-49, 6:19) 7 10 2 11:13 Seahawks J.Price 12 yd. run (J.Myers kick) (8-87, 3:59) 14 10 3 9:28 Seahawks J.Smith-Njigba 71 yd. pass from D.Lock (J.Myers kick) (3-78, 1:02) 21 10 3 7:10 Raiders M.Gay 43 yd. Field Goal (10-44, 2:18) 21 13 4 2:04"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The game summary shows Seattle as the visitor with 21 points and gives the final score as 21-13.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Seattle Seahawks 7 0 14 0 0 21",
+            "21 13 **FINAL SCORE** 31:41 28:19 **TIME OF POSSESSION**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says the Seahawks were the defending Super Bowl champions, were 6-4, had won three of four entering their bye, and were playing their first regular-season game at Allegiant Stadium. It also states that Mendoza was making his first start and that Seattle spoiled his debut.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873062",
+          "excerpts": [
+            "But it was [Drew Lock](http://www.espn.com/nfl/player/_/id/3924327/drew-lock) , the Seahawks' journeyman backup, who shined.\n\nLock passed for 240 yards and two touchdowns, including a game-breaking 71-yard scoring toss to [Jaxon Smith-Njigba](http://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) , and Seattle beat Las Vegas 21-13 to spoil Mendoza's debut.\n\nThe defending Super Bowl champion but injury-riddled Seahawks (6-4), playing their first regular-season game at Allegiant Stadium, have won three of four entering their bye week."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873062",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/nfl/video/_/gameId/401873062)\n\n# Seahawks beat Raiders 21-13 as Drew Lock throws for 2 TDs and Seattle sacks Fernando Mendoza 6 times\n\n1:00\n\n## Seattle Seahawks vs. Las Vegas Raiders: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 16, 2026, 01:55 am\n\nFacebook Facebook Messenger Twitter Email\n\nLAS VEGAS -- \u2014 The lead-up to Sunday's Seattle-Las Vegas matchup was almost all about [Fernando Mendoza](http://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) , at last receiving his first start as the Raiders' quarterback.",
+            "Lock passed for 240 yards and two touchdowns, including a game-breaking 71-yard scoring toss to [Jaxon Smith-Njigba](http://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) , and Seattle beat Las Vegas 21-13 to spoil Mendoza's debut."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL final individual statistics give Lock\u2019s passing line, Charbonnet\u2019s and Price\u2019s rushing lines, and Smith-Njigba\u2019s and Kupp\u2019s receiving lines. ESPN\u2019s player and game summaries supply the corresponding full names.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** D.Lock 240 2 17 14 3/8 0 158.0 F.Mendoza 143 0 29 17 6/45 0 71.5 38 **71** 29 143 0 17 6/45 0 71.5 14 240 2 17 3/8 0 158.0 Total Total 38 71",
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** Z.Charbonnet 94 4.7 0 20 24 M.Washington 23 2.9 0 8 9 J.Price 36 4.0 1 9 **12** F.Mendoza 22 3.7 1 6 **10**",
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Smith-Njigba 171 21.4 1 8 10 A.Jeanty 46 11.5 0 4 4 38 **71** A.Barner 19 6.3 0 3 3 B.Bowers 18 9.0 0 2 2 12 9 C.Kupp 34 34.0 1 1 1 M.Mayer 16 8.0 0 2 3 9 **34** R.Shaheed 8 8.0 0 1 2 J.Bech 10 5.0 0 2 7 6 8 J.Price 8 8.0 0 1 1 C.Heyward 6 3.0 0 2 2 5 8 C.White 22 22.0 0 1 1 22 I.Thomas 13 13.0 0 1 1 13 T.Tucker 9 9.0 0 1 2 9 M.Washington 4 4.0 0 1 1 4 J.Nailor -1"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The ESPN final score listing shows Las Vegas at 4-6 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873062/seahawks-raiders",
+          "excerpts": [
+            "4-6 , 1-4 Home\n\n13\n\n4-6 , 1-4 Home\n\n# Seattle Seahawks @ Las Vegas Raiders\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873062/seahawks-raiders)"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The box score lists Mendoza at 17/29 for 143 yards with no touchdowns or interceptions and six sacks for 45 yards; the recap headline independently notes the six sacks.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873062",
+          "excerpts": [
+            "|[Fernando Mendoza](https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) \\#15 |\n|team |\n\n|C/ATT |YDS |TD |INT |SACKS |\n| --- | --- | --- | --- | --- |\n|17/29 |143 |0 |0 |6-45 |"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873062",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/nfl/video/_/gameId/401873062)\n\n# Seahawks beat Raiders 21-13 as Drew Lock throws for 2 TDs and Seattle sacks Fernando Mendoza 6 times\n\n1:00\n\n## Seattle Seahawks vs. Las Vegas Raiders: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 16, 2026, 01:55 am\n\nFacebook Facebook Messenger Twitter Email\n\nLAS VEGAS -- \u2014 The lead-up to Sunday's Seattle-Las Vegas matchup was almost all about [Fernando Mendoza](http://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) , at last receiving his first start as the Raiders' quarterback."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The ESPN final score listing shows Seattle at 6-4 after the win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873062/seahawks-raiders",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks)\n\n[Seattle Seahawks Seahawks SEA](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks)\n\n6-4 , 2-2 Away\n\n21\n\n6-4 , 2-2 Away\n\nFinal"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game summary names Las Vegas as the home team in the matchup heading.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Seattle Seahawks at Las Vegas Raiders** Start Time: 1:05 PM PST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The game summary gives Las Vegas\u2019s home total as 13 and lists the final score as 21-13.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Las Vegas Raiders 7 3 0 3 0 13",
+            "21 13 **FINAL SCORE**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Mendoza\u2019s 10-yard rushing touchdown for Las Vegas in the first quarter at 7:41.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Raiders F.Mendoza 10 yd. run (M.Gay kick) (11-46, 6:21) 0 7 1 7:41"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Kupp\u2019s 34-yard touchdown reception from Lock in the first quarter at 2:32.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Seahawks C.Kupp 34 yd. pass from D.Lock (J.Myers kick) (8-73, 5:09) 7 7 1 2:32"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Price\u2019s 12-yard rushing touchdown in the third quarter at 9:28.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Seahawks J.Price 12 yd. run (J.Myers kick) (8-87, 3:59) 14 10 3 9:28"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Smith-Njigba\u2019s 71-yard touchdown reception from Lock in the third quarter at 7:10.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Seahawks J.Smith-Njigba 71 yd. pass from D.Lock (J.Myers kick) (3-78, 1:02) 21 10 3 7:10"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records Gay\u2019s 43-yard field goal in the fourth quarter at 2:04.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Raiders M.Gay 43 yd. Field Goal (10-44, 2:18) 21 13 4 2:04"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The final passing statistics give Lock\u2019s completions, attempts, yards, touchdowns, and interceptions; the recap also identifies him as the Seahawks\u2019 passer and reports 240 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** D.Lock 240 2 17 14 3/8 0 158.0 F.Mendoza 143 0 29 17 6/45 0 71.5 38 **71** 29 143 0 17 6/45 0 71.5 14 240 2 17 3/8 0 158.0 Total Total 38 71"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873062",
+          "excerpts": [
+            "But it was [Drew Lock](http://www.espn.com/nfl/player/_/id/3924327/drew-lock) , the Seahawks' journeyman backup, who shined.\n\nLock passed for 240 yards and two touchdowns, including a game-breaking 71-yard scoring toss to [Jaxon Smith-Njigba](http://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) , and Seattle beat Las Vegas 21-13 to spoil Mendoza's debut.\n\nThe defending Super Bowl champion but injury-riddled Seahawks (6-4), playing their first regular-season game at Allegiant Stadium, have won three of four entering their bye week."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The final receiving statistics show Smith-Njigba with eight catches, 171 yards, and a touchdown; the recap names him as the recipient of Lock\u2019s 71-yard scoring pass.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Smith-Njigba 171 21.4 1 8 10 A.Jeanty 46 11.5 0 4 4 38 **71**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873062",
+          "excerpts": [
+            "Lock passed for 240 yards and two touchdowns, including a game-breaking 71-yard scoring toss to [Jaxon Smith-Njigba](http://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) , and Seattle beat Las Vegas 21-13 to spoil Mendoza's debut."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The NFL final rushing statistics report Charbonnet\u2019s 20 carries for 94 yards, a 4.7 average, and no touchdowns; ESPN identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** Z.Charbonnet 9"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/boxscore/_/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace/bettingContentEnabled/true/bettingLinksEnabled/true/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/region/us/lang/en/appearance/dark/gameId/401873062",
+          "excerpts": [
+            "|[Zach Charbonnet](https://espn.com/nfl/player/_/id/4426385/zach-charbonnet) \\#26 |\n|[Jadarian Price](https://espn.com/nfl/player/_/id/4685512/jadarian-price) \\#8 |"
+          ],
+          "title": "Seahawks vs. Raiders (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The final rushing statistics show Price with 36 yards, a touchdown, nine carries, and a 4.0 average; ESPN\u2019s player listing identifies him as Jadarian Price.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Price 36 4.0 1 9 **12** F.Mendoza 22 3.7 1 6 **10**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/boxscore/_/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace/bettingContentEnabled/true/bettingLinksEnabled/true/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/region/us/lang/en/appearance/dark/gameId/401873062",
+          "excerpts": [
+            "|[Zach Charbonnet](https://espn.com/nfl/player/_/id/4426385/zach-charbonnet) \\#26 |\n|[Jadarian Price](https://espn.com/nfl/player/_/id/4685512/jadarian-price) \\#8 |"
+          ],
+          "title": "Seahawks vs. Raiders (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The NFL final receiving statistics list Kupp\u2019s 34-yard touchdown reception, and the ESPN scoring play identifies him by full name as Cooper Kupp.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818925/gamecenter/ab78a43c-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Smith-Njigba 171 21.4 1 8 10 A.Jeanty 46 11.5 0 4 4 38 **71** A.Barner 19 6.3 0 3 3 B.Bowers 18 9.0 0 2 2 12 9 C.Kupp 34 34.0 1 1 1 M.Mayer 16 8.0 0 2 3 9 **34**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/game/_/gameId/401873062/seahawks-raiders?age_band=NOT_APPLICABLE&appName=espnapp&appearance=light&appsrc=sc&appversion=8.29.1&bettingContentEnabled=true&bettingLinksEnabled=false&consent_mode=cpra&device=handset&features=button-service%2CgpVertsDeepLink%2CfanProfileFetch%2CfantasyModule%2CshowFollowButton%2CwatchOptions%2CshowMarketplace%2Cliquidglass&modifier=webview&platform=ios&playabilitySource=playbackId&region=us&requestDateFormats=true&useEPlus=true",
+          "excerpts": [
+            "[## Seahawks beat Raiders 21-13 as Drew Lock throws for 2 TDs and Seattle sacks Fernando Mendoza 6 times \u2014 Drew Lock passed for 240 yards and two touchdowns, including a game-breaking 71-yard scoring toss to Jaxon Smith-Njigba, and the Seattle Seahawks beat Las Vegas 21-13 on Sunday to spoil the debut start of Raiders rookie quarterback Fernando Mendoza."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The box-score row reports Mendoza\u2019s 17 completions on 29 attempts, 143 yards, no touchdowns or interceptions, and six sacks for 45 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873062",
+          "excerpts": [
+            "|[Fernando Mendoza](https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) \\#15 |\n|team |\n\n|C/ATT |YDS |TD |INT |SACKS |\n| --- | --- | --- | --- | --- |\n|17/29 |143 |0 |0 |6-45 |"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873062",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/nfl/video/_/gameId/401873062)\n\n# Seahawks beat Raiders 21-13 as Drew Lock throws for 2 TDs and Seattle sacks Fernando Mendoza 6 times\n\n1:00\n\n## Seattle Seahawks vs. Las Vegas Raiders: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 16, 2026, 01:55 am\n\nFacebook Facebook Messenger Twitter Email\n\nLAS VEGAS -- \u2014 The lead-up to Sunday's Seattle-Las Vegas matchup was almost all about [Fernando Mendoza](http://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) , at last receiving his first start as the Raiders' quarterback."
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.2",
+      "top_performers.3"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Drew Lock tossed 2 touchdown passes as the Seahawks beat the Raiders 21-13! In Las Vegas, Fernando Mendoza ran 10 yards for a Raiders touchdown. Lock then zipped a 34-yard touchdown pass to Cooper Kupp. Jadarian Price ran for a touchdown in the third quarter. Lock struck again with a spectacular 71-yard touchdown pass to Jaxon Smith-Njigba! The defending Super Bowl champs moved to 6-4, while the Raiders fell to 4-6.",
+    "big_words": [
+      {
+        "word": "spectacular",
+        "definition": "Amazing to see.",
+        "example": "Lily made a spectacular pink sign for her lemonade stand."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1230,
+        "output": 144
+      }
+    ]
+  }
+}

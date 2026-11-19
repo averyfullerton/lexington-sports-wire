@@ -1,0 +1,51 @@
+{
+  "name": "J.J. McCarthy",
+  "espn_id": "4433970",
+  "team": "New York Giants",
+  "team_abbr": "NYG",
+  "number": "18",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Michigan",
+  "experience": 3,
+  "fun_facts": [
+    "J.J. went 36-2 as a starter in high school.",
+    "He helped Michigan go 15-0 and win a national championship in 2023.",
+    "He was the first to have a hand in three fourth-quarter touchdowns in an NFL debut."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "MIN",
+        "10",
+        "140",
+        "243",
+        "1,632",
+        "11",
+        "12"
+      ],
+      [
+        "2026",
+        "NYG",
+        "5",
+        "66",
+        "104",
+        "915",
+        "2",
+        "2"
+      ]
+    ]
+  }
+}

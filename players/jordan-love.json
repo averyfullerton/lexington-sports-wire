@@ -1,0 +1,91 @@
+{
+  "name": "Jordan Love",
+  "espn_id": "4036378",
+  "team": "Green Bay Packers",
+  "team_abbr": "GB",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Utah State",
+  "experience": 7,
+  "fun_facts": [
+    "Jordan threw 32 touchdowns and just six interceptions in college in 2018.",
+    "Jordan set five team records at Utah State in college in 2018.",
+    "Jordan\u2019s nickname is \u201cPookie.\u201d"
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2021",
+        "GB",
+        "6",
+        "36",
+        "62",
+        "411",
+        "2",
+        "3"
+      ],
+      [
+        "2022",
+        "GB",
+        "4",
+        "14",
+        "21",
+        "195",
+        "1",
+        "0"
+      ],
+      [
+        "2023",
+        "GB",
+        "17",
+        "372",
+        "579",
+        "4,159",
+        "32",
+        "11"
+      ],
+      [
+        "2024",
+        "GB",
+        "15",
+        "268",
+        "425",
+        "3,389",
+        "25",
+        "11"
+      ],
+      [
+        "2025",
+        "GB",
+        "15",
+        "291",
+        "439",
+        "3,381",
+        "23",
+        "6"
+      ],
+      [
+        "2026",
+        "GB",
+        "10",
+        "232",
+        "368",
+        "2,838",
+        "20",
+        "7"
+      ]
+    ]
+  }
+}

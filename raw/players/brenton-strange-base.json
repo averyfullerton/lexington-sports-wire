@@ -1,0 +1,151 @@
+{
+  "run_id": "trun_415f3f698c1f435bbe4bbfd8c1748cde",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.9,
+  "input": {
+    "player": "Brenton Strange",
+    "team": "Jacksonville Jaguars",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Penn State",
+    "fun_facts": [
+      "Brenton Strange is from Parkersburg, West Virginia.",
+      "Brenton Strange was a four-star recruit who left West Virginia to attend Penn State after a standout career at Parkersburg High School.",
+      "As a true freshman at Penn State, Brenton Strange started all nine games, caught 36 passes for 489 yards and six touchdowns, and returned five kickoffs for 100 yards.",
+      "In 2022, Brenton Strange caught 32 passes for 362 yards and five touchdowns and earned third-team All-Big Ten honors.",
+      "Brenton Strange finished his Penn State career with 70 catches, 755 receiving yards and 11 touchdowns in 37 games, including 31 starts."
+    ],
+    "draft": "2023, round 2, pick 61"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars player profile identifies Penn State as Brenton Strange\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/team/players-roster/brenton-strange",
+          "excerpts": [
+            "Austin Trammell Bhayshul Tuten Cole Van Lanen Travon Walker Parker Washington CJ Williams Wesley Williams Michael Wortham Kilian Zierer\n\n# Brenton Strange\n\n### TE\n\n### \\#85\n\n**Experience:** 4 years\n\n**Height:** 6-4\n\n**Weight:** 253 lbs\n\n**College:** Penn State\n\n## Biography\n\n**KEY TRANSACTIONS**\n\n* Originally drafted by Jacksonville in the second round (61st overall) in the 2023 draft\n\nREAD MORE"
+          ],
+          "title": "Brenton Strange"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The Jaguars\u2019 biographical and draft-profile information supports the hometown, four-star recruiting background, freshman receiving and kick-return numbers, 2022 All-Big Ten honor, and Penn State career totals stated in the facts.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/roster-moves-jaguars-extend-te-brenton-strange",
+          "excerpts": [
+            "A native of Parkersburg, W.Va., Strange played collegiately at Penn State from 2019-22 where he registered 70 receptions for 755 yards and 11 touchdowns in 37 games played (31 starts).\n\nKam Nedd/Jacksonville Jaguars\n\n[### Brenton Strange \\#85 TE * Height: 6-4 * Weight: 253 lbs * College: Penn State](https://www.jaguars.com/team/players-roster/brenton-strange/)"
+          ],
+          "title": "Roster Moves: Jaguars Extend TE Brenton Strange"
+        },
+        {
+          "url": "https://www.jaguars.com/draft/2023",
+          "excerpts": [
+            "### [Brenton Strange](https://www.jaguars.com/team/players-roster/brenton-strange/)\n\nTE Penn State\n\n6-3 253 LBS\n\nFrom 49ers through Panthers and Bears\n\nA four-star recruit, Strange left West Virginia to sign with the Nittany Lions after a stellar career at Parkersburg High School.",
+            "Travis High School. He stepped into the starting lineup for Penn State as a true freshman, beginning all nine games (36-489-13.6, six TDs receiving; 5-100-20.0 on kick returns).",
+            "Strange started five of nine games played in 2020 (17-164-9.6, two TDs) and then began all 13 games in 2021 (20-225-11.3, three TDs). He scored five times on 32 receptions (362 yards, 11.3 per) and started all 13 contests in 2022 to garner third-team All-Big Ten Conference accolades. -- by Chad Reuter\n\n* [1 on 1 with Brenton Strange | 2023 NFL Draft | Jacksonville Jaguars](https://www.jaguars.com/video/1-on-1-with-brenton-strange-2023-nfl-draft-jacksonville-jaguars \"1 on 1 with Brenton Strange |"
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars profile states that Brenton Strange was drafted by Jacksonville in the second round, 61st overall, in the 2023 draft.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/team/players-roster/brenton-strange",
+          "excerpts": [
+            "Austin Trammell Bhayshul Tuten Cole Van Lanen Travon Walker Parker Washington CJ Williams Wesley Williams Michael Wortham Kilian Zierer\n\n# Brenton Strange\n\n### TE\n\n### \\#85\n\n**Experience:** 4 years\n\n**Height:** 6-4\n\n**Weight:** 253 lbs\n\n**College:** Penn State\n\n## Biography\n\n**KEY TRANSACTIONS**\n\n* Originally drafted by Jacksonville in the second round (61st overall) in the 2023 draft\n\nREAD MORE"
+          ],
+          "title": "Brenton Strange"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Jaguars biography says Brenton Strange is a native of Parkersburg, West Virginia.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/roster-moves-jaguars-extend-te-brenton-strange",
+          "excerpts": [
+            "A native of Parkersburg, W.Va., Strange played collegiately at Penn State from 2019-22 where he registered 70 receptions for 755 yards and 11 touchdowns in 37 games played (31 starts).\n\nKam Nedd/Jacksonville Jaguars\n\n[### Brenton Strange \\#85 TE * Height: 6-4 * Weight: 253 lbs * College: Penn State](https://www.jaguars.com/team/players-roster/brenton-strange/)"
+          ],
+          "title": "Roster Moves: Jaguars Extend TE Brenton Strange"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Jaguars draft profile describes Brenton Strange as a four-star recruit who left West Virginia for Penn State after a stellar career at Parkersburg High School.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023",
+          "excerpts": [
+            "### [Brenton Strange](https://www.jaguars.com/team/players-roster/brenton-strange/)\n\nTE Penn State\n\n6-3 253 LBS\n\nFrom 49ers through Panthers and Bears\n\nA four-star recruit, Strange left West Virginia to sign with the Nittany Lions after a stellar career at Parkersburg High School."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Jaguars draft profile gives his true-freshman record: all nine games started, 36 receptions for 489 yards and six receiving touchdowns, plus five kickoff returns for 100 yards.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023",
+          "excerpts": [
+            "Travis High School. He stepped into the starting lineup for Penn State as a true freshman, beginning all nine games (36-489-13.6, six TDs receiving; 5-100-20.0 on kick returns)."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Jaguars draft profile says Strange scored five times on 32 catches for 362 yards in 2022 and earned third-team All-Big Ten recognition.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023",
+          "excerpts": [
+            "Strange started five of nine games played in 2020 (17-164-9.6, two TDs) and then began all 13 games in 2021 (20-225-11.3, three TDs). He scored five times on 32 receptions (362 yards, 11.3 per) and started all 13 contests in 2022 to garner third-team All-Big Ten Conference accolades. -- by Chad Reuter\n\n* [1 on 1 with Brenton Strange | 2023 NFL Draft | Jacksonville Jaguars](https://www.jaguars.com/video/1-on-1-with-brenton-strange-2023-nfl-draft-jacksonville-jaguars \"1 on 1 with Brenton Strange |"
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Jaguars biography states that Strange registered 70 receptions for 755 yards and 11 touchdowns in 37 games, including 31 starts, at Penn State.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/roster-moves-jaguars-extend-te-brenton-strange",
+          "excerpts": [
+            "A native of Parkersburg, W.Va., Strange played collegiately at Penn State from 2019-22 where he registered 70 receptions for 755 yards and 11 touchdowns in 37 games played (31 starts).\n\nKam Nedd/Jacksonville Jaguars\n\n[### Brenton Strange \\#85 TE * Height: 6-4 * Weight: 253 lbs * College: Penn State](https://www.jaguars.com/team/players-roster/brenton-strange/)"
+          ],
+          "title": "Roster Moves: Jaguars Extend TE Brenton Strange"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

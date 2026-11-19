@@ -1,0 +1,84 @@
+{
+  "name": "Josh Downs",
+  "espn_id": "4688813",
+  "team": "Kansas City Chiefs",
+  "team_abbr": "KC",
+  "number": "2",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "North Carolina",
+  "experience": 4,
+  "fun_facts": [
+    "Josh set a Colts rookie record with 68 catches in his first NFL season.",
+    "Josh caught 22 touchdown passes in three college seasons at North Carolina.",
+    "Josh had over 1,000 receiving yards in two straight college seasons at North Carolina."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "IND",
+        "17",
+        "68",
+        "771",
+        "2",
+        "59"
+      ],
+      [
+        "2024",
+        "IND",
+        "14",
+        "72",
+        "803",
+        "5",
+        "69"
+      ],
+      [
+        "2025",
+        "IND",
+        "16",
+        "58",
+        "566",
+        "4",
+        "34"
+      ],
+      [
+        "2026",
+        "IND",
+        "9",
+        "33",
+        "354",
+        "1",
+        "42"
+      ],
+      [
+        "2026",
+        "KC",
+        "1",
+        "4",
+        "53",
+        "1",
+        "21"
+      ],
+      [
+        "2026",
+        "",
+        "10",
+        "37",
+        "407",
+        "2",
+        "42"
+      ]
+    ]
+  }
+}

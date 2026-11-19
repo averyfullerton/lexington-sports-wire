@@ -1,0 +1,138 @@
+{
+  "name": "Stefon Diggs",
+  "espn_id": "2976212",
+  "team": "Washington Commanders",
+  "team_abbr": "WSH",
+  "number": "3",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Maryland",
+  "experience": 12,
+  "fun_facts": [
+    "Stefon threw the first pitch at a Baltimore Orioles game.",
+    "Stefon ranks second in Maryland college history for receiving yards.",
+    "He had seven 1,000-yard receiving seasons in the NFL."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2015",
+        "MIN",
+        "13",
+        "52",
+        "720",
+        "4",
+        "40"
+      ],
+      [
+        "2016",
+        "MIN",
+        "13",
+        "84",
+        "903",
+        "3",
+        "46"
+      ],
+      [
+        "2017",
+        "MIN",
+        "14",
+        "64",
+        "849",
+        "8",
+        "59"
+      ],
+      [
+        "2018",
+        "MIN",
+        "15",
+        "102",
+        "1,021",
+        "9",
+        "75"
+      ],
+      [
+        "2019",
+        "MIN",
+        "15",
+        "63",
+        "1,130",
+        "6",
+        "66"
+      ],
+      [
+        "2020",
+        "BUF",
+        "16",
+        "127",
+        "1,535",
+        "8",
+        "55"
+      ],
+      [
+        "2021",
+        "BUF",
+        "17",
+        "103",
+        "1,225",
+        "10",
+        "61"
+      ],
+      [
+        "2022",
+        "BUF",
+        "16",
+        "108",
+        "1,429",
+        "11",
+        "53"
+      ],
+      [
+        "2023",
+        "BUF",
+        "17",
+        "107",
+        "1,183",
+        "8",
+        "55"
+      ],
+      [
+        "2024",
+        "HOU",
+        "8",
+        "47",
+        "496",
+        "3",
+        "49"
+      ],
+      [
+        "2025",
+        "NE",
+        "17",
+        "85",
+        "1,013",
+        "4",
+        "34"
+      ],
+      [
+        "2026",
+        "WSH",
+        "8",
+        "36",
+        "386",
+        "6",
+        "42"
+      ]
+    ]
+  }
+}

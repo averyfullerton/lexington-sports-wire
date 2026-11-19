@@ -1,0 +1,66 @@
+{
+  "name": "Jahmyr Gibbs",
+  "espn_id": "4429795",
+  "team": "Detroit Lions",
+  "team_abbr": "DET",
+  "number": "0",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Alabama",
+  "experience": 4,
+  "fun_facts": [
+    "Jahmyr's first college touch was a 75-yard kickoff return.",
+    "Jahmyr scored 40 touchdowns in his senior year of high school.",
+    "Jahmyr's hometown high school retired his No. 1 jersey."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "DET",
+        "15",
+        "182",
+        "945",
+        "5.2",
+        "10"
+      ],
+      [
+        "2024",
+        "DET",
+        "17",
+        "250",
+        "1,412",
+        "5.6",
+        "16"
+      ],
+      [
+        "2025",
+        "DET",
+        "17",
+        "243",
+        "1,223",
+        "5.0",
+        "13"
+      ],
+      [
+        "2026",
+        "DET",
+        "9",
+        "199",
+        "1,000",
+        "5.0",
+        "11"
+      ]
+    ]
+  }
+}

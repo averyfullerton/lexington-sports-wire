@@ -1,0 +1,177 @@
+{
+  "run_id": "trun_415f3f698c1f435bb9d5a2da8b5a3ea6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 44.0,
+  "input": {
+    "player": "Cam Ward",
+    "team": "Tennessee Titans",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "University of Miami",
+    "fun_facts": [
+      "Cameron Ward is from West Columbia, Texas.",
+      "Cameron Ward was a zero-star recruit coming out of high school.",
+      "Cameron Ward played two seasons at Incarnate Word, two at Washington State, and one at Miami.",
+      "Cameron Ward set the NCAA Division I career record with 158 passing touchdowns.",
+      "In his season at Miami, Cameron Ward set school single-season records with 4,313 passing yards and 39 passing touchdowns, and won the Davey O\u2019Brien Award for the nation\u2019s top quarterback."
+    ],
+    "draft": "2025, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Tennessee Titans media guide says Cameron Ward ended his college career at the University of Miami, identifying Miami as his last college.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/knw8xfzd6qxipewqq0tm",
+          "excerpts": [
+            "**COLLEGE:** \u2022 Ward began his career at Incarnate Word before transferring to Washington State and then ending his career at the University of Miami. In five total seasons on the field, he started in 57 games, completing 1,516 of 2,330 passes for 18,184 yards with 158 touchdowns. Totaled 399 rushes for 473 yards and 20 touchdowns. Ward finished his career with a 10-3 record at Miami, leading the Canes to their first 10-win season since 2017. Ward broke the record for Division I touchdown passes."
+          ],
+          "title": "CAMERON WARD"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography identifies West Columbia as Ward\u2019s birthplace. ESPN states he was a zero-star recruit and lists his five-year college path through Incarnate Word, Washington State, and Miami. NFL.com reports his Division I career record of 158 passing touchdowns. ESPN reports his Miami single-season passing records and Davey O\u2019Brien Award.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4688380/cam-ward",
+          "excerpts": [
+            "Tennessee Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans)\n\nPosition Quarterback\n\nHT/WT 6' 2\", 219 lbs\n\nBirthdate 5/25/2002 (24)\n\nCollege [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\nDraft Info 2025: Rd 1, Pk 1 (TEN)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace West Columbia, TX"
+          ],
+          "title": "Cam Ward Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45258215/titans-sign-no-1-pick-cam-ward-four-year-rookie-deal",
+          "excerpts": [
+            "Ward, who was a zero-star recruit out of high school and began his collegiate career at Incarnate Word, is the first No. 1 overall pick that played FCS football since 1979. His five-year college career included two seasons at Incarnate Word, two at Washington State and one at Miami. He set the career combined FCS (71) and FBS (87) record with 158 touchdown passes."
+          ],
+          "title": "Titans sign No. 1 pick Cam Ward to four-year rookie deal - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44841150/titans-select-cam-ward-no-1-pick-2025-nfl-draft",
+          "excerpts": [
+            "Ward's five-year college career included two seasons at Incarnate Word, two seasons at Washington State and one season at Miami."
+          ],
+          "title": "Titans select Cam Ward with No. 1 pick in 2025 NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/cam-ward-debut-brian-callahan-titans-anything-superhuman",
+          "excerpts": [
+            "He started at Incarnate Word, spent two seasons at Washington State and wound up fourth in the Heisman Trophy voting for his lone season at Miami. He set a NCAA Division I record throwing 158 touchdowns in his career, including 39 at Miami.\n\nHe also faces tall odds of leaving Denver with a win in his NFL debut.\n\nQuarterbacks taken at No."
+          ],
+          "title": "Cam Ward debut: Brian Callahan says Titans don't need 'anything superhuman' from rookie in first start | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45493280/tennessee-titans-qb-cameron-ward-fathers-day-message-calvin",
+          "excerpts": [
+            "He doesn't care about all of that. Cameron just wants to go play football.\"\n\nCameron passed for 4,313 yards and 39 touchdowns last season -- both Miami single-season records. He also won the Davey O'Brien Award, given to the nation's top quarterback, and finished fourth in voting for the Heisman Trophy. He set the career combined FCS (71) and FBS (87) record with 158 touchdown passes. The performance helped cement him as the top quarterback in the draft."
+          ],
+          "title": "Titans' Cam Ward reflects on dad's impact for Father's Day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Titans media guide says the team selected Cameron Ward in the first round, first overall, of the 2025 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/knw8xfzd6qxipewqq0tm",
+          "excerpts": [
+            "**2024 MEDIA GUIDE TENNESSEE TITANS** **70**\n\n**PRO:** The Titans selected Cameron Ward in the first round (first overall) of the 2025 NFL Draft."
+          ],
+          "title": "CAMERON WARD"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography lists Ward\u2019s birthplace as West Columbia, Texas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4688380/cam-ward",
+          "excerpts": [
+            "Tennessee Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans)\n\nPosition Quarterback\n\nHT/WT 6' 2\", 219 lbs\n\nBirthdate 5/25/2002 (24)\n\nCollege [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\nDraft Info 2025: Rd 1, Pk 1 (TEN)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace West Columbia, TX"
+          ],
+          "title": "Cam Ward Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN describes Ward as a zero-star recruit out of high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45258215/titans-sign-no-1-pick-cam-ward-four-year-rookie-deal",
+          "excerpts": [
+            "Ward, who was a zero-star recruit out of high school and began his collegiate career at Incarnate Word, is the first No. 1 overall pick that played FCS football since 1979. His five-year college career included two seasons at Incarnate Word, two at Washington State and one at Miami. He set the career combined FCS (71) and FBS (87) record with 158 touchdown passes."
+          ],
+          "title": "Titans sign No. 1 pick Cam Ward to four-year rookie deal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN lists two seasons at Incarnate Word, two at Washington State, and one at Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44841150/titans-select-cam-ward-no-1-pick-2025-nfl-draft",
+          "excerpts": [
+            "Ward's five-year college career included two seasons at Incarnate Word, two seasons at Washington State and one season at Miami."
+          ],
+          "title": "Titans select Cam Ward with No. 1 pick in 2025 NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com states Ward set the NCAA Division I career passing-touchdown record with 158.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/cam-ward-debut-brian-callahan-titans-anything-superhuman",
+          "excerpts": [
+            "He started at Incarnate Word, spent two seasons at Washington State and wound up fourth in the Heisman Trophy voting for his lone season at Miami. He set a NCAA Division I record throwing 158 touchdowns in his career, including 39 at Miami.\n\nHe also faces tall odds of leaving Denver with a win in his NFL debut.\n\nQuarterbacks taken at No."
+          ],
+          "title": "Cam Ward debut: Brian Callahan says Titans don't need 'anything superhuman' from rookie in first start | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports Ward\u2019s Miami single-season records of 4,313 passing yards and 39 touchdowns, and that he won the Davey O\u2019Brien Award.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45493280/tennessee-titans-qb-cameron-ward-fathers-day-message-calvin",
+          "excerpts": [
+            "He doesn't care about all of that. Cameron just wants to go play football.\"\n\nCameron passed for 4,313 yards and 39 touchdowns last season -- both Miami single-season records. He also won the Davey O'Brien Award, given to the nation's top quarterback, and finished fourth in voting for the Heisman Trophy. He set the career combined FCS (71) and FBS (87) record with 158 touchdown passes. The performance helped cement him as the top quarterback in the draft."
+          ],
+          "title": "Titans' Cam Ward reflects on dad's impact for Father's Day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

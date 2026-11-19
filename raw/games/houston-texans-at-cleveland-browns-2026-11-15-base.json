@@ -1,0 +1,423 @@
+{
+  "run_id": "trun_3df3487a122343d49cd1fd3837750a45",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 240.5,
+  "input": {
+    "away_team": "Houston Texans",
+    "home_team": "Cleveland Browns",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Houston Texans",
+    "key_plays": [
+      "Q2 11:21: Xavier Hutchinson 11-yard touchdown pass from C.J. Stroud put Houston ahead 17-0.",
+      "Q2 4:12: Deshaun Watson ran 6 yards for a Browns touchdown, cutting the deficit to 17-10.",
+      "Q3 8:35: KC Concepcion ran 6 yards for a Browns touchdown, tying the game 17-17.",
+      "Q4 9:17: Dalton Schultz caught an 11-yard touchdown pass from C.J. Stroud to put Houston ahead 24-20.",
+      "Q4 0:53: Quinshon Judkins ran 5 yards for the go-ahead Browns touchdown in the 27-24 win."
+    ],
+    "away_score": 24,
+    "storyline": "Cleveland rallied from a 17-0 deficit and won on Quinshon Judkins\u2019 5-yard touchdown run with 53 seconds left. The win snapped the Browns\u2019 two-game losing streak and moved them to 6-4.",
+    "top_performers": [
+      {
+        "stat_line": "25 of 40, 312 yards, 0 TD, 1 INT; 8 carries, 49 yards, 1 TD",
+        "team": "Cleveland Browns",
+        "name": "Deshaun Watson"
+      },
+      {
+        "stat_line": "20 of 38, 211 yards, 3 TD, 1 INT",
+        "team": "Houston Texans",
+        "name": "C.J. Stroud"
+      },
+      {
+        "stat_line": "9 receptions, 94 yards, 1 TD",
+        "team": "Houston Texans",
+        "name": "Nico Collins"
+      },
+      {
+        "stat_line": "7 receptions, 91 yards, 0 TD",
+        "team": "Cleveland Browns",
+        "name": "Harold Fannin Jr."
+      },
+      {
+        "stat_line": "10 carries, 38 yards, 1 TD; 3 receptions, 33 yards",
+        "team": "Cleveland Browns",
+        "name": "Quinshon Judkins"
+      }
+    ],
+    "home_record_after": "6-4",
+    "tough_day": [
+      {
+        "stat_line": "13 penalties, 112 yards; 3 of 12 on third down",
+        "team": "Houston Texans",
+        "name": "Houston Texans offense"
+      }
+    ],
+    "away_record_after": "3-6",
+    "home_team": "Cleveland Browns",
+    "home_score": 27
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL gamebook identifies the Houston Texans as the visitor and Cleveland Browns as the home team, gives the final score, and dates the game Sunday, November 15, 2026.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Houston Texans 10 7 0 7 0 24 HOME: Cleveland Browns 0 10 10 7 0 27 **1 2 3 4 OT Total** Replay Official: Wollan, Joe (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Date: Sunday, 11/15/2026"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The gamebook labels Houston Texans as the visitor, establishing the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Houston Texans 10 7 0 7 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The gamebook\u2019s scoring-play sequence records the game-changing touchdowns by Hutchinson, Watson, Concepcion, Schultz, and Judkins, including their quarters, times, and scores.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans X.Hutchinson 11 yd. pass from C.Stroud (K.Fairbairn kick) (9-75, 4:32) 17 0 2 11:21 Browns A.Szmyt 49 yd. Field Goal (7-39, 2:19) 17 3 2 9:02 Browns D.Watson 6 yd. run (A.Szmyt kick) (2-71, 0:53) 17 10 2 4:12 Browns K.Concepcion 6 yd. run (A.Szmyt kick) (5-47, 2:13) 17 17 3 8:35 Browns A.Szmyt 26 yd. Field Goal (15-74, 6:07) 17 20 3 0:12 Texans D.Schultz 11 yd. pass from C.Stroud (K.Fairbairn kick) (5-56, 1:45) 24 20 4 9:17 Browns Q.Judkins 5 yd. run (A.Szmyt kick) (3-49, 0:47) 24 27 4 0:53"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official gamebook lists the Texans\u2019 final total as 24.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Houston Texans 10 7 0 7 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The scoring sequence shows Houston reaching a 17-0 lead and Judkins scoring the winning touchdown with 53 seconds left; the recap says the win snapped Cleveland\u2019s two-game losing streak and improved the Browns to 6-4.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans X.Hutchinson 11 yd. pass from C.Stroud (K.Fairbairn kick) (9-75, 4:32) 17 0 2 11:21 Browns A.Szmyt 49 yd. Field Goal (7-39, 2:19) 17 3 2 9:02 Browns D.Watson 6 yd. run (A.Szmyt kick) (2-71, 0:53) 17 10 2 4:12 Browns K.Concepcion 6 yd. run (A.Szmyt kick) (5-47, 2:13) 17 17 3 8:35 Browns A.Szmyt 26 yd. Field Goal (15-74, 6:07) 17 20 3 0:12 Texans D.Schultz 11 yd. pass from C.Stroud (K.Fairbairn kick) (5-56, 1:45) 24 20 4 9:17 Browns Q.Judkins 5 yd. run (A.Szmyt kick) (3-49, 0:47) 24 27 4 0:53"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873056",
+          "excerpts": [
+            "The Browns improved to 6-4 by snapping a two-game losing streak, with all six wins coming by four points or fewer, and all of them featuring go-ahead, fourth-quarter drives by led Watson."
+          ],
+          "title": "Browns 27-24 Texans (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The gamebook\u2019s individual statistics list Watson\u2019s passing and rushing totals, Stroud\u2019s passing line, Collins\u2019 receiving totals, and Fannin\u2019s receiving totals.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "W.Marks 50 4.2 0 12 11 D.Watson 49 6.1 1 8 20 C.Stroud 20 6.7 0 3 11 Q.Judkins 38 3.8 1 10 8 E.Demercado 16 2.3 0 7 13 D.Sampson 6 1.5 0 4 3 D.Ogunbowale 2 2.0 0 1 2 K.Concepcion 6 6.0 1 1 **6** T.Dell 0 0.0 0 1 0 24 88 3.7 13 0 Total 23 99 4.3 20 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Stroud 211 3 38 20 1/9 1 84.4 D.Watson 312 0 40 25 4/32 1 76.2 65 29 40 312 0 25 4/32 1 76.2 20 211 3 38 1/9 1 84.4 Total Total 65 29 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** N.Collins 94 10.4 1 9 16 H.Fannin 91 13.0 0 7 9 30 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The recap lists Cleveland at 6-4 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873056",
+          "excerpts": [
+            "[Cleveland Browns Browns CLE](https://www.espn.com/nfl/team/_/name/cle/cleveland-browns)\n\n6-4 , 4-0 Home\n\n27\n\n6-4 , 4-0 Home\n\n## Houston Texans @ Cleveland Browns"
+          ],
+          "title": "Browns 27-24 Texans (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The gamebook records Houston\u2019s 3-for-12 third-down conversion rate and 13 penalties for 112 yards; these are the cited struggles for the Texans offense.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "3-12-25.0% 7-15-46.7% **THIRD DOWN EFFICIENCY** 0-1-0.0% 0-0-0.0% **FOURTH DOWN EFFICIENCY** 290 379 **TOTAL NET YARDS** 63 67 Total Offensive Plays (inc. times thrown passing) 4\\.6 5.7 Average gain per offensive play 88 99 **NET YARDS RUSHING** 24 23 Total Rushing Plays 3\\.7 4.3 Average gain per rushing play 0-0 0-0 Tackles for a loss-number and yards 202 280 **NET YARDS PASSING** 1-9 4-32 Times thrown - yards lost attempting to pass 211 312 Gross yards passing 38-20-1 40-25-1 **PASS ATTEMPTS-COMPLETIONS-HAD INTERCEPTED** 5\\.2 6.4 Avg gain per pass play (inc.# thrown passing) 5-1-0 6-0-0 **KICKOFFS Number-In End Zone-Touchbacks** 7-42.0 5-45.0 **PUNTS Number and Average** 0 0 Had Blocked 0-0 0-0 **FGs - PATs Had Blocked** 35\\.9 39.2 **Net Punting Average** 32 38 **TOTAL RETURN YARDAGE (Not Including Kickoffs)** 2-29 5-43 No. and Yards Punt Returns 6-160 5-127 No. and Yards Kickoff Returns 1-3 1--5 No. and Yards Interception Returns 13-112 2-47 **PENALTIES Number and Yards**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The recap lists Houston at 3-6 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873056",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n[Houston Texans Texans HOU](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n3-6 , 3-2 Away\n\n24\n\n3-6 , 3-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans) HOU |10 |7 |0 |7 |24 |"
+          ],
+          "title": "Browns 27-24 Texans (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The gamebook labels Cleveland Browns as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Cleveland Browns 0 10 10 7 0 27"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official gamebook lists Cleveland\u2019s final total as 27.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Cleveland Browns 0 10 10 7 0 27"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The gamebook lists Hutchinson\u2019s 11-yard touchdown reception in the second quarter at 11:21.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans X.Hutchinson 11 yd. pass from C.Stroud (K.Fairbairn kick) (9-75, 4:32) 17 0 2 11:21"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The gamebook lists Watson\u2019s 6-yard rushing touchdown in the second quarter at 4:12.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Browns D.Watson 6 yd. run (A.Szmyt kick) (2-71, 0:53) 17 10 2 4:12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The gamebook lists Concepcion\u2019s 6-yard rushing touchdown in the third quarter at 8:35.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Browns K.Concepcion 6 yd. run (A.Szmyt kick) (5-47, 2:13) 17 17 3 8:35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The gamebook lists Schultz\u2019s 11-yard touchdown reception in the fourth quarter at 9:17.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans D.Schultz 11 yd. pass from C.Stroud (K.Fairbairn kick) (5-56, 1:45) 24 20 4 9:17"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The gamebook lists Judkins\u2019 5-yard touchdown run in the fourth quarter at 0:53.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Browns Q.Judkins 5 yd. run (A.Szmyt kick) (3-49, 0:47) 24 27 4 0:53"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The gamebook records Watson\u2019s 49 rushing yards and one rushing touchdown, and his passing total of 312 yards with one interception and no passing touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "W.Marks 50 4.2 0 12 11 D.Watson 49 6.1 1 8 20 C.Stroud 20 6.7 0 3 11 Q.Judkins 38 3.8 1 10 8 E.Demercado 16 2.3 0 7 13 D.Sampson 6 1.5 0 4 3 D.Ogunbowale 2 2.0 0 1 2 K.Concepcion 6 6.0 1 1 **6** T.Dell 0 0.0 0 1 0 24 88 3.7 13 0 Total 23 99 4.3 20 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Stroud 211 3 38 20 1/9 1 84.4 D.Watson 312 0 40 25 4/32 1 76.2 65 29"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The gamebook records Stroud\u2019s 20 completions on 38 attempts, 211 yards, three touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Stroud 211 3 38 20 1/9 1 84.4 D.Watson 312 0 40 25 4/32 1 76.2 65 29"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The gamebook records Collins\u2019 9 receptions for 94 yards and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "N.Collins 94 10.4 1 9 16 H.Fannin 91 13.0 0 7 9 30 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official receiving statistics in the gamebook list Fannin with 7 receptions for 91 yards and no touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "N.Collins 94 10.4 1 9 16 H.Fannin 91 13.0 0 7 9 30 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The gamebook lists Judkins\u2019 rushing and receiving totals: 10 carries for 38 yards and a touchdown, plus 3 receptions for 33 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Stroud 20 6.7 0 3 11 Q.Judkins 38 3.8 1 10 8 E.Demercado 16 2.3 0 7 13 D.Sampson 6 1.5 0 4 3 D.Ogunbowale 2 2.0 0 1 2 K.Concepcion 6 6.0 1 1 **6** T.Dell 0 0.0 0 1 0 24 88 3.7 13 0 Total 23 99 4.3 20 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Stroud 211 3 38 20 1/9 1 84.4 D.Watson 312 0 40 25 4/32 1 76.2 65 29 40 312 0 25 4/32 1 76.2 20 211 3 38 1/9 1 84.4 Total Total 65 29 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** N.Collins 94 10.4 1 9 16 H.Fannin 91 13.0 0 7 9 30 22 X.Hutchinson 58 14.5 1 4 9 D.Sampson 31 7.8 0 4 6 18 29 T.Dell 21 7.0 0 3 4 M.Corley 37 12.3 0 3 3 18 29 W.Marks 15 15.0 0 1 1 Q.Judkins 33 11.0 0 3 5 21 15"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The gamebook lists Houston\u2019s 13 penalties for 112 yards and third-down efficiency of 3-for-12.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829724/gamecenter/ab583279-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "3-12-25.0% 7-15-46.7% **THIRD DOWN EFFICIENCY** 0-1-0.0% 0-0-0.0% **FOURTH DOWN EFFICIENCY** 290 379 **TOTAL NET YARDS** 63 67 Total Offensive Plays (inc. times thrown passing) 4\\.6 5.7 Average gain per offensive play 88 99 **NET YARDS RUSHING** 24 23 Total Rushing Plays 3\\.7 4.3 Average gain per rushing play 0-0 0-0 Tackles for a loss-number and yards 202 280 **NET YARDS PASSING** 1-9 4-32 Times thrown - yards lost attempting to pass 211 312 Gross yards passing 38-20-1 40-25-1 **PASS ATTEMPTS-COMPLETIONS-HAD INTERCEPTED** 5\\.2 6.4 Avg gain per pass play (inc.# thrown passing) 5-1-0 6-0-0 **KICKOFFS Number-In End Zone-Touchbacks** 7-42.0 5-45.0 **PUNTS Number and Average** 0 0 Had Blocked 0-0 0-0 **FGs - PATs Had Blocked** 35\\.9 39.2 **Net Punting Average** 32 38 **TOTAL RETURN YARDAGE (Not Including Kickoffs)** 2-29 5-43 No. and Yards Punt Returns 6-160 5-127 No. and Yards Kickoff Returns 1-3 1--5 No. and Yards Interception Returns 13-112 2-47 **PENALTIES Number and Yards**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "manual_corrections": [
+    {
+      "field": "key_plays",
+      "from": "Kyle Concepcion",
+      "to": "KC Concepcion",
+      "reason": "Parallel expanded gamebook initial 'K.Concepcion' to a guessed first name; ESPN roster name is KC Concepcion",
+      "date": "2026-11-19"
+    }
+  ],
+  "recap": {
+    "paragraph": "In Cleveland, the Browns hoped to end a 2-game losing streak. Houston jumped ahead 17-0 on a touchdown pass to Xavier Hutchinson. Deshaun Watson ran for a score, and KC Concepcion tied it at 17-17. Then C.J. Stroud found Dalton Schultz to put Houston back on top. The Browns had one more comeback in them! Quinshon Judkins ran 5 yards for the winning touchdown with 53 seconds left. Cleveland won 27-24 and moved to 6-4.",
+    "big_words": [
+      {
+        "word": "streak",
+        "definition": "A string of things that happen one after another.",
+        "example": "Sofia kept her streak of talent show practice going for 3 days."
+      },
+      {
+        "word": "comeback",
+        "definition": "A return after falling behind.",
+        "example": "Sofia made a comeback after forgetting a line at the talent show."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1285,
+        "output": 250
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "run_id": "trun_1714e31eeb204d3280bc331cfa6a9a8a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 300.3,
+  "input": {
+    "away_team": "New York Jets",
+    "home_team": "Los Angeles Chargers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "2-8",
+    "away_team": "New York Jets",
+    "storyline": "The matchup brings together the third-place Jets (2-8) and fourth-place Chargers (1-8) in their divisions. Los Angeles arrives after its first win of 2026, 23-20 at Baltimore, while New York is coming off a 31-12 loss to Buffalo.",
+    "matchup_notes": [
+      "The Jets are third in the AFC East at 2-8; the Chargers are fourth in the AFC West at 1-8.",
+      "New York lost 31-12 to Buffalo in Week 10.",
+      "Los Angeles beat Baltimore 23-20 in Week 10, earning its first win of the season after an 0-8 start.",
+      "The Jets are averaging 19.4 points per game (26th); the Chargers are averaging 16.0 (32nd)."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,226 passing yards, 12 TD, 3 INT",
+        "team": "New York Jets",
+        "name": "Geno Smith"
+      },
+      {
+        "stat_line": "1,720 passing yards, 6 TD, 11 INT",
+        "team": "Los Angeles Chargers",
+        "name": "Justin Herbert"
+      }
+    ],
+    "home_record": "1-8",
+    "home_team": "Los Angeles Chargers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game center lists the Jets at 2-8, or two wins, eight losses and no ties, entering this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "2-8 2 wins, 8 losses, 0 ties"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game center identifies the away team as the New York Jets.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "New York Jets"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Chargers' game release lists the Jets third in the AFC East at 2-8 and the Chargers fourth in the AFC West at 1-8. The ESPN recap reports that Los Angeles earned its first win of 2026 at Baltimore; the NFL game center shows the Jets' Week 10 loss to Buffalo.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/mpyoc4rzobwrlxmfs6c8",
+          "excerpts": [
+            "**OVERALL:** 2-8-0 **HOME:** 1-4-0 **AWAY:** 1-4-0 **STANDING:** 3rd AFC East",
+            "**OVERALL:** 1-8-0 **HOME:** 0-4-0 **AWAY:** 1-4-0 **STANDING:** 4th AFC East"
+          ],
+          "title": "Los Angeles Chargers 2026 Game Release \u2014 Week 11 vs. New York Jets"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=50506286)\n\nOpen Extended Reactions\n\nBALTIMORE -- The [Los Angeles Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) , who had opened 2026 at 0-8 and had not won a game since Week 16 of the 2025 season, finally breathed a sigh of relief after a 23-20 win over the [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens) on Monday night.\n\nNot that they didn't have to slug it out to get there."
+          ],
+          "title": "Justin Herbert, defense lift Chargers to 1st win, top Ravens - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "Week 10 Wk 10 vs versus Buffalo Bills Logo BILLS L Loss 31-12 31 to 12 points Watch Replay Replay Button](https://www.nfl.com/games/bills-at-jets-2026-reg-10?active-tab=watch)"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited release gives both teams' division positions and records, and reports the Chargers' Week 10 win. The NFL game center lists the Jets' Week 10 result and both teams' points-per-game figures and rankings.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/mpyoc4rzobwrlxmfs6c8",
+          "excerpts": [
+            "**OVERALL:** 2-8-0 **HOME:** 1-4-0 **AWAY:** 1-4-0 **STANDING:** 3rd AFC East **OVERALL:** 5-5-0 **HOME:** 3-1-0 **AWAY:** 2-4-0 **STANDING:** 2nd AFC East **OVERALL:** 3-6-0 **HOME:** 1-4-0 **AWAY:** 2-2-0 **STANDING:** 2nd NFC South **OVERALL:** 8-1-0 **HOME:** 5-0-0 **AWAY:** 3-1-0 **STANDING:** 1st NFC West **OVERALL:** 1-8-0 **HOME:** 0-4-0 **AWAY:** 1-4-0 **STANDING:** 4th AFC East",
+            "10 Mon., Nov. 16 at Baltimore ESPN W, 23-20"
+          ],
+          "title": "Los Angeles Chargers 2026 Game Release \u2014 Week 11 vs. New York Jets"
+        },
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "Week 10 Wk 10 vs versus Buffalo Bills Logo BILLS L Loss 31-12 31 to 12 points Watch Replay Replay Button](https://www.nfl.com/games/bills-at-jets-2026-reg-10?active-tab=watch)",
+            "New York Jets, POINTS PER GAME, 19.4, ranked 26th. 19\\.4 26TH POINTS PER GAME Los Angeles Chargers, POINTS PER GAME, 16, ranked 32nd"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL player pages identify Geno Smith and Justin Herbert by full name. The NFL game center's team leaders show Smith with 2,226 passing yards, 12 touchdowns and 3 interceptions, and Herbert with 1,720 passing yards, 6 touchdowns and 11 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats/",
+          "excerpts": [
+            "# Geno Smith Stats Summary | NFL.com\n\n# Geno Smith\n\nQB \u2022 \\#7\n\n[New York Jets](https://www.nfl.com/teams/new-york-jets/)\n\n### active\n\n* [Info](https://www.nfl.com/players/geno-smith/)"
+          ],
+          "title": "Geno Smith Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "PASSING [E. Smith 2226 YDS 67\\.1%CMP 12TD 3INT](https://www.nfl.com/players/geno-smith/stats)",
+            "PASSING [J. Herbert 1720 YDS 61\\.7%CMP 6TD 11INT](https://www.nfl.com/players/justin-herbert/stats)"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/justin-herbert/stats",
+          "excerpts": [
+            "# Justin Herbert Stats Summary | NFL.com\n\n# Justin Herbert\n\nQB \u2022 \\#10\n\n[Los Angeles Chargers](https://www.nfl.com/teams/los-angeles-chargers/)\n\n### active"
+          ],
+          "title": "Justin Herbert Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game center lists the Chargers at 1-8, or one win, eight losses and no ties, entering this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "1-8 1 win, 8 losses, 0 ties"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game center identifies the home team as the Los Angeles Chargers.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "Los Angeles Chargers"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The Week 11 game release schedules the Jets matchup for Sunday, November 22. Since the stated current date is November 19, the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/mpyoc4rzobwrlxmfs6c8",
+          "excerpts": [
+            "WEEK 11 | SUN. NOV. 22 | 1:05 PM PT **1** **L O S A N G E L E S C H A R G E R S G A M E R E L E A S E W E E K 1 1 v s .",
+            "11 Sun., Nov. 22 N.Y. JETS FOX 1:05 p.m."
+          ],
+          "title": "Los Angeles Chargers 2026 Game Release \u2014 Week 11 vs. New York Jets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Week 11 Chargers release lists New York at 2-8 and third in the AFC East, and Los Angeles at 1-8 and fourth in the AFC West.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/mpyoc4rzobwrlxmfs6c8",
+          "excerpts": [
+            "**OVERALL:** 2-8-0 **HOME:** 1-4-0 **AWAY:** 1-4-0 **STANDING:** 3rd AFC East",
+            "**OVERALL:** 1-8-0 **HOME:** 0-4-0 **AWAY:** 1-4-0 **STANDING:** 4th AFC East"
+          ],
+          "title": "Los Angeles Chargers 2026 Game Release \u2014 Week 11 vs. New York Jets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The NFL game center's recent-games entry gives the Jets' Week 10 loss to Buffalo, 31-12.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "Week 10 Wk 10 vs versus Buffalo Bills Logo BILLS L Loss 31-12 31 to 12 points Watch Replay Replay Button](https://www.nfl.com/games/bills-at-jets-2026-reg-10?active-tab=watch)"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The release records the Chargers' 23-20 Week 10 win at Baltimore, and the recap states that this was their first win after an 0-8 start.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/mpyoc4rzobwrlxmfs6c8",
+          "excerpts": [
+            "10 Mon., Nov. 16 at Baltimore ESPN W, 23-20"
+          ],
+          "title": "Los Angeles Chargers 2026 Game Release \u2014 Week 11 vs. New York Jets"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=50506286)\n\nOpen Extended Reactions\n\nBALTIMORE -- The [Los Angeles Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) , who had opened 2026 at 0-8 and had not won a game since Week 16 of the 2025 season, finally breathed a sigh of relief after a 23-20 win over the [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens) on Monday night.\n\nNot that they didn't have to slug it out to get there."
+          ],
+          "title": "Justin Herbert, defense lift Chargers to 1st win, top Ravens - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL game center lists the Jets at 19.4 points per game, ranked 26th, and the Chargers at 16 points per game, ranked 32nd.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "New York Jets, POINTS PER GAME, 19.4, ranked 26th. 19\\.4 26TH POINTS PER GAME Los Angeles Chargers, POINTS PER GAME, 16, ranked 32nd"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NFL player page identifies Geno Smith; the game center lists his season totals as 2,226 passing yards, 12 touchdowns and 3 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats/",
+          "excerpts": [
+            "# Geno Smith Stats Summary | NFL.com\n\n# Geno Smith\n\nQB \u2022 \\#7\n\n[New York Jets](https://www.nfl.com/teams/new-york-jets/)\n\n### active\n\n* [Info](https://www.nfl.com/players/geno-smith/)"
+          ],
+          "title": "Geno Smith Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "PASSING [E. Smith 2226 YDS 67\\.1%CMP 12TD 3INT](https://www.nfl.com/players/geno-smith/stats)"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL player page identifies Justin Herbert; the game center lists his season totals as 1,720 passing yards, 6 touchdowns and 11 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/justin-herbert/stats",
+          "excerpts": [
+            "# Justin Herbert Stats Summary | NFL.com\n\n# Justin Herbert\n\nQB \u2022 \\#10\n\n[Los Angeles Chargers](https://www.nfl.com/teams/los-angeles-chargers/)\n\n### active"
+          ],
+          "title": "Justin Herbert Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/jets-at-chargers-2026-reg-11",
+          "excerpts": [
+            "PASSING [J. Herbert 1720 YDS 61\\.7%CMP 6TD 11INT](https://www.nfl.com/players/justin-herbert/stats)"
+          ],
+          "title": "New York Jets at Los Angeles Chargers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Jets are third in the AFC East, and the Chargers are fourth in the AFC West. The 2-8 New York Jets visit the 1-8 Los Angeles Chargers in Los Angeles. Jets QB Geno Smith has 2,226 passing yards and 12 TDs this season. Chargers QB Justin Herbert has 1,720 passing yards and 6 TDs. Watch for a lively QB matchup!",
+    "big_words": [
+      {
+        "word": "lively",
+        "definition": "Full of energy and action.",
+        "example": "Grace made a lively splash at her swimming lesson."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1078,
+        "output": 218
+      }
+    ]
+  }
+}

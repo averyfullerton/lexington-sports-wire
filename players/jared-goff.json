@@ -1,0 +1,141 @@
+{
+  "name": "Jared Goff",
+  "espn_id": "3046779",
+  "team": "Detroit Lions",
+  "team_abbr": "DET",
+  "number": "16",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "California",
+  "experience": 11,
+  "fun_facts": [
+    "Jared threw 43 touchdown passes in 2015, setting a Pac-12 record.",
+    "Jared threw six touchdown passes in the Armed Forces Bowl, setting two records.",
+    "Jared went 39-4 in three high school varsity seasons at Marin Catholic."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2016",
+        "LAR",
+        "7",
+        "112",
+        "205",
+        "1,089",
+        "5",
+        "7"
+      ],
+      [
+        "2017",
+        "LAR",
+        "15",
+        "296",
+        "477",
+        "3,804",
+        "28",
+        "7"
+      ],
+      [
+        "2018",
+        "LAR",
+        "16",
+        "364",
+        "561",
+        "4,688",
+        "32",
+        "12"
+      ],
+      [
+        "2019",
+        "LAR",
+        "16",
+        "394",
+        "626",
+        "4,638",
+        "22",
+        "16"
+      ],
+      [
+        "2020",
+        "LAR",
+        "15",
+        "370",
+        "552",
+        "3,952",
+        "20",
+        "13"
+      ],
+      [
+        "2021",
+        "DET",
+        "14",
+        "332",
+        "494",
+        "3,245",
+        "19",
+        "8"
+      ],
+      [
+        "2022",
+        "DET",
+        "17",
+        "382",
+        "587",
+        "4,438",
+        "29",
+        "7"
+      ],
+      [
+        "2023",
+        "DET",
+        "17",
+        "407",
+        "605",
+        "4,575",
+        "30",
+        "12"
+      ],
+      [
+        "2024",
+        "DET",
+        "17",
+        "390",
+        "539",
+        "4,629",
+        "37",
+        "12"
+      ],
+      [
+        "2025",
+        "DET",
+        "17",
+        "393",
+        "578",
+        "4,564",
+        "34",
+        "8"
+      ],
+      [
+        "2026",
+        "DET",
+        "9",
+        "205",
+        "304",
+        "2,437",
+        "18",
+        "4"
+      ]
+    ]
+  }
+}

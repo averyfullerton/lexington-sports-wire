@@ -1,0 +1,120 @@
+{
+  "name": "Aaron Jones Sr.",
+  "espn_id": "3042519",
+  "team": "Minnesota Vikings",
+  "team_abbr": "MIN",
+  "number": "33",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "UTEP",
+  "experience": 10,
+  "fun_facts": [
+    "Aaron won a race at practice to play running back.",
+    "Aaron scored four rushing touchdowns in one game against the Cowboys.",
+    "Aaron caught seven passes for 159 yards and two touchdowns in one game."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2017",
+        "GB",
+        "12",
+        "81",
+        "448",
+        "5.5",
+        "4"
+      ],
+      [
+        "2018",
+        "GB",
+        "12",
+        "133",
+        "728",
+        "5.5",
+        "8"
+      ],
+      [
+        "2019",
+        "GB",
+        "16",
+        "236",
+        "1,084",
+        "4.6",
+        "16"
+      ],
+      [
+        "2020",
+        "GB",
+        "14",
+        "201",
+        "1,104",
+        "5.5",
+        "9"
+      ],
+      [
+        "2021",
+        "GB",
+        "15",
+        "171",
+        "799",
+        "4.7",
+        "4"
+      ],
+      [
+        "2022",
+        "GB",
+        "17",
+        "213",
+        "1,121",
+        "5.3",
+        "2"
+      ],
+      [
+        "2023",
+        "GB",
+        "11",
+        "142",
+        "656",
+        "4.6",
+        "2"
+      ],
+      [
+        "2024",
+        "MIN",
+        "17",
+        "255",
+        "1,138",
+        "4.5",
+        "5"
+      ],
+      [
+        "2025",
+        "MIN",
+        "12",
+        "132",
+        "548",
+        "4.2",
+        "2"
+      ],
+      [
+        "2026",
+        "MIN",
+        "9",
+        "126",
+        "521",
+        "4.1",
+        "3"
+      ]
+    ]
+  }
+}

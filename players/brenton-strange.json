@@ -1,0 +1,66 @@
+{
+  "name": "Brenton Strange",
+  "espn_id": "4430539",
+  "team": "Jacksonville Jaguars",
+  "team_abbr": "JAX",
+  "number": "85",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Penn State",
+  "experience": 4,
+  "fun_facts": [
+    "Brenton caught six touchdowns as a college freshman.",
+    "He returned five kickoffs for 100 yards in college.",
+    "He caught 70 passes in 37 college games."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "JAX",
+        "14",
+        "5",
+        "35",
+        "1",
+        "17"
+      ],
+      [
+        "2024",
+        "JAX",
+        "17",
+        "40",
+        "411",
+        "2",
+        "30"
+      ],
+      [
+        "2025",
+        "JAX",
+        "12",
+        "46",
+        "540",
+        "3",
+        "30"
+      ],
+      [
+        "2026",
+        "JAX",
+        "9",
+        "32",
+        "365",
+        "2",
+        "46"
+      ]
+    ]
+  }
+}

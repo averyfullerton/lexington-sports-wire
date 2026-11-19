@@ -1,0 +1,189 @@
+{
+  "run_id": "trun_415f3f698c1f435ba386114e450ae70f",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 169.9,
+  "input": {
+    "player": "Bijan Robinson",
+    "team": "Atlanta Falcons",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas",
+    "fun_facts": [
+      "Bijan Robinson's first football team was the Tucson Falcons, whose Falcons mascot matched the Atlanta team he later joined.",
+      "In 2014, Bijan Robinson won a Pop Warner national title with the Marana Broncos, playing both running back and linebacker.",
+      "His youth football teammates nicknamed him \u201cSmiley\u201d because he smiled so easily.",
+      "Bijan Robinson won the Doak Walker Award in 2022.",
+      "Against Kansas, Bijan Robinson ran for a career-high 243 yards and four touchdowns in one game.",
+      "In one college season, Bijan Robinson forced 91 missed tackles\u2014the most of any player in college football that season."
+    ],
+    "draft": "2023, round 1, pick 8"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL.com article says Robinson played three seasons at Texas, directly identifying his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/falcons-select-texas-rb-bijan-robinson-with-no-8-overall-pick-in-2023-nfl-draft",
+          "excerpts": [
+            "In three seasons at Texas, Robinson generated 1,580 rushing yards on 539 carries with 33 touchdowns and added 60 catches for 805 yards and eight more scores."
+          ],
+          "title": "Falcons select Texas RB Bijan Robinson with No. 8 overall pick in 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support the six facts respectively: his first team and its shared mascot, his Pop Warner title and positions, his youth nickname, his 2022 Doak Walker Award, his career-high game against Kansas, and his college missed-tackle total.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36314581/2023-nfl-draft-first-round-atlanta-falcons-bijan-robinson",
+          "excerpts": [
+            "Mel Kiper Jr.\n\n2 Related\n\nThere was a sense of symmetry for Robinson. His first professional team and the first football team he played on shared a mascot -- the Falcons.\n\nOf course, the Tucson Falcons were nowhere close to the Atlanta Falcons. Not in the same state or time zone -- Robinson grew up in Arizona -- but it did begin the running back's love of the game he'll now be paid to do.",
+            "In between, he played for the Salpointe Catholic Lancers in high school and the [Texas Longhorns](https://www.espn.com/college-football/team/_/id/251/texas-longhorns) before being drafted by Atlanta. He won a Pop Warner league national title playing for the Marana Broncos in 2014 as a running back and linebacker."
+          ],
+          "title": "Inside Bijan Robinson's second stint with the Falcons - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2023/story/_/id/36234668/why-bijan-robinson-break-nfl-draft-running-back-bias",
+          "excerpts": [
+            "Robinson offers no inkling that he's vexed by his lot in NFL life. He smiles easily -- so big it looks like he might pull a cheek muscle; so often he once earned the nickname Smiley on his youth football team, for goodness' sake.",
+            "By just about every measure, Robinson has been a marvel. A sampling: He forced 91 missed tackles last season, more than any other player in college football."
+          ],
+          "title": "Meet Bijan Robinson, a generational NFL draft talent in the wrong generation - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4430807/bijan-robinson",
+          "excerpts": [
+            "Team [Atlanta Falcons](https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons)\n\nPosition Running Back\n\nHT/WT 5' 11\", 215 lbs\n\nBirthdate 1/30/2002 (24)\n\nCollege [Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\nDraft Info 2023: Rd 1, Pk 8 (ATL)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Tucson, AZ\n\n### Career History\n\n[Atlanta Falcons Atlanta Falcons 2023-CURRENT (4 Seasons)](https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons)\n\n### Career Highlights\n\nNCAAF\n\nDoak Walker Award\n\nDoak Walker Award\n\n2022"
+          ],
+          "title": "Bijan Robinson Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401404116",
+          "excerpts": [
+            "# Robinson runs for 243 yards, 4 TDs as Texas routs KU 55-14\n\nBy AP\n\nNov 19, 2022, 08:12 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLAWRENCE, Kan. -- \u2014 Texas standout [Bijan Robinson](http://www.espn.com/college-football/player/_/id/4430807/bijan-robinson) ran through, over and around Kansas for a career-high 243 yards and four touchdowns on Saturday, helping the Longhorns earn a measure of revenge with a frigid 55-14 victory.\n\nNow, Robinson and his buddies are suddenly the Jayhawks' biggest fans.\n\nThe Longhorns, who lost a 57-56 overtime thriller to Kansas a year ago in Austin, need to knock off Baylor next week while getting some help from the team they just trounced."
+          ],
+          "title": "Texas 55-14 Kansas (Nov 19, 2022) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL.com draft announcement identifies the selection as Round 1 of the 2023 NFL Draft and No. 8 overall.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/falcons-select-bijan-robinson-with-no-8-pick-in-2023-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Falcons select Bijan Robinson with No. 8 pick in 2023 draft\n\nChristopher and Shane from Big Brothers Big Sisters of America announce the Atlanta Falcons' selection of Texas Longhorns running back Bijan Robinson in Round 1 of the 2023 NFL Draft with the No. 8 overall pick."
+          ],
+          "title": "Atlanta Falcons select running back Bijan Robinson with the No. 8 pick in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN identifies the Tucson Falcons as Robinson's first football team and says its mascot matched that of his later professional team, the Atlanta Falcons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36314581/2023-nfl-draft-first-round-atlanta-falcons-bijan-robinson",
+          "excerpts": [
+            "Mel Kiper Jr.\n\n2 Related\n\nThere was a sense of symmetry for Robinson. His first professional team and the first football team he played on shared a mascot -- the Falcons.\n\nOf course, the Tucson Falcons were nowhere close to the Atlanta Falcons. Not in the same state or time zone -- Robinson grew up in Arizona -- but it did begin the running back's love of the game he'll now be paid to do."
+          ],
+          "title": "Inside Bijan Robinson's second stint with the Falcons - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN states that Robinson won a 2014 Pop Warner league national title with the Marana Broncos while playing running back and linebacker.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36314581/2023-nfl-draft-first-round-atlanta-falcons-bijan-robinson",
+          "excerpts": [
+            "In between, he played for the Salpointe Catholic Lancers in high school and the [Texas Longhorns](https://www.espn.com/college-football/team/_/id/251/texas-longhorns) before being drafted by Atlanta. He won a Pop Warner league national title playing for the Marana Broncos in 2014 as a running back and linebacker."
+          ],
+          "title": "Inside Bijan Robinson's second stint with the Falcons - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN says Robinson smiled easily and that he earned the youth-football nickname \u201cSmiley.\u201d",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2023/story/_/id/36234668/why-bijan-robinson-break-nfl-draft-running-back-bias",
+          "excerpts": [
+            "Robinson offers no inkling that he's vexed by his lot in NFL life. He smiles easily -- so big it looks like he might pull a cheek muscle; so often he once earned the nickname Smiley on his youth football team, for goodness' sake."
+          ],
+          "title": "Meet Bijan Robinson, a generational NFL draft talent in the wrong generation - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN lists the Doak Walker Award under Robinson's college career highlights and gives the year as 2022.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4430807/bijan-robinson",
+          "excerpts": [
+            "Team [Atlanta Falcons](https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons)\n\nPosition Running Back\n\nHT/WT 5' 11\", 215 lbs\n\nBirthdate 1/30/2002 (24)\n\nCollege [Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\nDraft Info 2023: Rd 1, Pk 8 (ATL)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Tucson, AZ\n\n### Career History\n\n[Atlanta Falcons Atlanta Falcons 2023-CURRENT (4 Seasons)](https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons)\n\n### Career Highlights\n\nNCAAF\n\nDoak Walker Award\n\nDoak Walker Award\n\n2022"
+          ],
+          "title": "Bijan Robinson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN's game recap reports Robinson's career-high 243 rushing yards and four touchdowns against Kansas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401404116",
+          "excerpts": [
+            "# Robinson runs for 243 yards, 4 TDs as Texas routs KU 55-14\n\nBy AP\n\nNov 19, 2022, 08:12 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLAWRENCE, Kan. -- \u2014 Texas standout [Bijan Robinson](http://www.espn.com/college-football/player/_/id/4430807/bijan-robinson) ran through, over and around Kansas for a career-high 243 yards and four touchdowns on Saturday, helping the Longhorns earn a measure of revenge with a frigid 55-14 victory.\n\nNow, Robinson and his buddies are suddenly the Jayhawks' biggest fans.\n\nThe Longhorns, who lost a 57-56 overtime thriller to Kansas a year ago in Austin, need to knock off Baylor next week while getting some help from the team they just trounced."
+          ],
+          "title": "Texas 55-14 Kansas (Nov 19, 2022) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN reports that Robinson forced 91 missed tackles last season, more than any other college football player.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2023/story/_/id/36234668/why-bijan-robinson-break-nfl-draft-running-back-bias",
+          "excerpts": [
+            "By just about every measure, Robinson has been a marvel. A sampling: He forced 91 missed tackles last season, more than any other player in college football."
+          ],
+          "title": "Meet Bijan Robinson, a generational NFL draft talent in the wrong generation - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "KC Concepcion",
+  "espn_id": "4870653",
+  "team": "Cleveland Browns",
+  "team_abbr": "CLE",
+  "number": "1",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Texas A&M",
+  "experience": 0,
+  "fun_facts": [
+    "KC played college football at NC State and Texas A&M.",
+    "KC won a 2025 award for doing many things well in college football.",
+    "KC caught a touchdown and returned a punt for a touchdown in his Aggies debut."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "CLE",
+        "10",
+        "40",
+        "458",
+        "1",
+        "64"
+      ]
+    ]
+  }
+}

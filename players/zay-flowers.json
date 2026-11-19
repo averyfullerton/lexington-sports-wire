@@ -1,0 +1,66 @@
+{
+  "name": "Zay Flowers",
+  "espn_id": "4429615",
+  "team": "Baltimore Ravens",
+  "team_abbr": "BAL",
+  "number": "4",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Boston College",
+  "experience": 4,
+  "fun_facts": [
+    "Zay set a college record with 78 catches in one season.",
+    "Zay set Ravens rookie records with 77 catches for 858 yards.",
+    "Zay was the first Ravens player to get 1,000 receiving yards within two years."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "BAL",
+        "16",
+        "77",
+        "858",
+        "5",
+        "75"
+      ],
+      [
+        "2024",
+        "BAL",
+        "17",
+        "74",
+        "1,059",
+        "4",
+        "53"
+      ],
+      [
+        "2025",
+        "BAL",
+        "17",
+        "86",
+        "1,211",
+        "5",
+        "64"
+      ],
+      [
+        "2026",
+        "BAL",
+        "9",
+        "49",
+        "688",
+        "3",
+        "54"
+      ]
+    ]
+  }
+}

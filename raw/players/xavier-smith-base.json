@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435ba3f8e918455a5dc4",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 85.6,
+  "input": {
+    "player": "Xavier Smith",
+    "team": "Los Angeles Rams",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Florida A&M",
+    "fun_facts": [
+      "Xavier Smith is from Haines City, Florida.",
+      "Xavier Smith played running back in high school before switching to wide receiver.",
+      "In 2019, Xavier Smith recorded 77 catches, 1,159 receiving yards and 11 touchdowns.",
+      "As a senior in 2022, Xavier Smith was named an HBCU All-American and posted career highs of 87 catches, 1,021 receiving yards and 11 touchdowns.",
+      "Xavier Smith was the 2023 HBCU Legacy Bowl Offensive MVP and scored the game's only touchdown."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Florida A&M as Xavier Smith\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4386544/xavier-smith",
+          "excerpts": [
+            "# Xavier Smith\n\nLos Angeles Rams\n\n* [Los Angeles Rams Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams)\n* \\#14\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 9\", 180 lbs\n* Birthdate\n  \n  9/21/1997 (29)\n* College\n  \n  [Florida A&M](https://www.espn.com/college-football/team/_/id/50/florida-am-rattlers)\n\nFollow\n\n* HT/WT\n  \n  5' 9\", 180 lbs\n* Birthdate\n  \n  9/21/1997 (29)\n* College\n  \n  [Florida A&M](https://www.espn.com/college-football/team/_/id/50/florida-am-rattlers)\n* Status\n  \n  Active\n* Experience\n  \n  3rd Season\n\n## 2026 regular season stats\n\n* REC\n  \n  2\n  \n  YDS\n  \n  40\n  \n  TD\n  \n  1\n  \n  AVG\n  \n  20\\.0\n\n* [Overview](https://www.espn.com/nfl/player/_/id/4386544/xavier-smith)"
+          ],
+          "title": "Xavier Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited segments establish Xavier Smith\u2019s hometown, his high-school position and transition to receiver, his 2019 receiving totals, his senior-season honors and statistics, and his HBCU Legacy Bowl MVP performance and touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/xavier-smith",
+          "excerpts": [
+            "# Xavier Smith Stats, News and Video - WR | NFL.com\n\n# Xavier Smith\n\nWR \u2022 \\#19\n\n[Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)\n\n### active\n\n* [Info](https://www.nfl.com/players/xavier-smith/)\n* [Stats](https://www.nfl.com/players/xavier-smith/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-9\n* Weight\n  \n  180\n* Arms\n* Hands\n\n* Experience\n  \n  3\n* College\n  \n  Florida A&M\n* Age\n  \n  29\n* Hometown\n  \n  Haines City, FL\n\n## Related Content - Articles"
+          ],
+          "title": "Xavier Smith Stats, News and Video - WR | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35993184/how-xavier-smith-went-amazon-worker-nfl-draft-prospect",
+          "excerpts": [
+            "## What to know for the 2023 NFL draft\n\nBut once the younger Smith got out on the field, Jerry was able to see what Kareem had been telling him all along. Smith's speed and quickness made him a believer, and Jerry became influential in converting him to wide receiver from running back (the position he played in high school).",
+            "The Mid-Eastern Athletic Conference canceled fall football in 2020 amid the pandemic, resuming play in the fall of 2021 when Smith recorded 64 receptions for 713 yards and four touchdowns. In 2022, he was named an HBCU All-American with a career-high 87 receptions for 1,021 yards and 11 touchdowns as a senior.\n\nSmith concluded his collegiate career in the game he dreamed about all of his life, where he had five catches for 73 yards in the Rattlers' 41-20 win over Bethune-Cookman in the Florida Classic."
+          ],
+          "title": "From Amazon to NFL hopeful: How FAMU's Xavier Smith turned dreams to reality - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2023/story/_/id/34420510/nfl-draft-2023-jordan-reid-hbcu-preseason-top-50-prospect-rankings-including-isaiah-land-shaquan-davis-davius-richard",
+          "excerpts": [
+            "* * *\n\n## 14\\. [Xavier Smith](https://www.espn.com/college-football/player/_/id/4386544/xavier-smith) , WR, [Florida A&M](https://www.espn.com/college-football/team/_/id/50/florida-rattlers)\n\n**HT:** 5-foot-10 | **WT:** 170 | **Class:** Graduate student\n\nSmith is one of the most experienced players in the country. The former walk-on has become one of the main fixtures of the Rattlers' offense and is searching to regain his 2019 form, when he recorded career-highs in catches (77), receiving yards (1,159) and receiving touchdowns (11).\n\nNick Tre. Smith/Icon Sportswire\n\n* * *\n\n## 15\\. Emanuel Wilson, RB, [Fort Valley State](https://www.espn.com/college-football/team/_/id/2232/fort-valley-state-wildcats)"
+          ],
+          "title": "NFL draft 2023: Jordan Reid's HBCU preseason top 50 prospect rankings, including Isaiah Land, Shaquan Davis, Davius Richard - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2023-nfl-draft-joshua-pryor-xavier-smith-headline-standouts-from-hbcu-legacy-bow",
+          "excerpts": [
+            "He made catches whether he was wide open or facing tight coverage. He was an easy pick for the Offensive MVP in the game, scoring the contest\u2019s lone touchdown. Smith provides punt return ability, too."
+          ],
+          "title": "2023 NFL Draft: Joshua Pryor, Xavier Smith headline standouts from HBCU Legacy Bowl Week | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL article explicitly says Xavier Smith went undrafted.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/team-gaither-outlasts-team-robinson-to-win-fifth-annual-allstate-hbcu-legacy-bowl",
+          "excerpts": [
+            "linebacker [James Houston](https://amp.nfl.com/players/james-houston/ \"James Houston\") , both drafted in 2022, as well as Durant's teammate [Xavier Smith](https://amp.nfl.com/players/xavier-smith/ \"Xavier Smith\") , the offensive MVP of the '23 Legacy Bowl who went undrafted but has played 31 games for Los Angeles over the past two seasons. Ravens offensive lineman [Carson Vinson](https://amp.nfl.com/players/carson-vinson/ \"Carson Vinson\") , an Alabama A&M alum, was drafted in the fifth round of last year's draft."
+          ],
+          "title": "Team Gaither outlasts Team Robinson to win fifth annual Allstate HBCU Legacy Bowl"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL profile lists Haines City, Florida, as Xavier Smith\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/xavier-smith",
+          "excerpts": [
+            "# Xavier Smith Stats, News and Video - WR | NFL.com\n\n# Xavier Smith\n\nWR \u2022 \\#19\n\n[Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)\n\n### active\n\n* [Info](https://www.nfl.com/players/xavier-smith/)\n* [Stats](https://www.nfl.com/players/xavier-smith/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-9\n* Weight\n  \n  180\n* Arms\n* Hands\n\n* Experience\n  \n  3\n* College\n  \n  Florida A&M\n* Age\n  \n  29\n* Hometown\n  \n  Haines City, FL\n\n## Related Content - Articles"
+          ],
+          "title": "Xavier Smith Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN article says Xavier Smith played running back in high school and was converted to wide receiver.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35993184/how-xavier-smith-went-amazon-worker-nfl-draft-prospect",
+          "excerpts": [
+            "## What to know for the 2023 NFL draft\n\nBut once the younger Smith got out on the field, Jerry was able to see what Kareem had been telling him all along. Smith's speed and quickness made him a believer, and Jerry became influential in converting him to wide receiver from running back (the position he played in high school)."
+          ],
+          "title": "From Amazon to NFL hopeful: How FAMU's Xavier Smith turned dreams to reality - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN article reports Xavier Smith\u2019s 2019 career highs: 77 catches, 1,159 receiving yards and 11 receiving touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2023/story/_/id/34420510/nfl-draft-2023-jordan-reid-hbcu-preseason-top-50-prospect-rankings-including-isaiah-land-shaquan-davis-davius-richard",
+          "excerpts": [
+            "* * *\n\n## 14\\. [Xavier Smith](https://www.espn.com/college-football/player/_/id/4386544/xavier-smith) , WR, [Florida A&M](https://www.espn.com/college-football/team/_/id/50/florida-rattlers)\n\n**HT:** 5-foot-10 | **WT:** 170 | **Class:** Graduate student\n\nSmith is one of the most experienced players in the country. The former walk-on has become one of the main fixtures of the Rattlers' offense and is searching to regain his 2019 form, when he recorded career-highs in catches (77), receiving yards (1,159) and receiving touchdowns (11).\n\nNick Tre. Smith/Icon Sportswire\n\n* * *\n\n## 15\\. Emanuel Wilson, RB, [Fort Valley State](https://www.espn.com/college-football/team/_/id/2232/fort-valley-state-wildcats)"
+          ],
+          "title": "NFL draft 2023: Jordan Reid's HBCU preseason top 50 prospect rankings, including Isaiah Land, Shaquan Davis, Davius Richard - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN article identifies Xavier Smith as a 2022 HBCU All-American and gives his senior-year totals of 87 receptions, 1,021 yards and 11 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35993184/how-xavier-smith-went-amazon-worker-nfl-draft-prospect",
+          "excerpts": [
+            "The Mid-Eastern Athletic Conference canceled fall football in 2020 amid the pandemic, resuming play in the fall of 2021 when Smith recorded 64 receptions for 713 yards and four touchdowns. In 2022, he was named an HBCU All-American with a career-high 87 receptions for 1,021 yards and 11 touchdowns as a senior.\n\nSmith concluded his collegiate career in the game he dreamed about all of his life, where he had five catches for 73 yards in the Rattlers' 41-20 win over Bethune-Cookman in the Florida Classic."
+          ],
+          "title": "From Amazon to NFL hopeful: How FAMU's Xavier Smith turned dreams to reality - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL article says Xavier Smith was the HBCU Legacy Bowl Offensive MVP and scored the game\u2019s lone touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2023-nfl-draft-joshua-pryor-xavier-smith-headline-standouts-from-hbcu-legacy-bow",
+          "excerpts": [
+            "He made catches whether he was wide open or facing tight coverage. He was an easy pick for the Offensive MVP in the game, scoring the contest\u2019s lone touchdown. Smith provides punt return ability, too."
+          ],
+          "title": "2023 NFL Draft: Joshua Pryor, Xavier Smith headline standouts from HBCU Legacy Bowl Week | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

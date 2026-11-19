@@ -1,0 +1,158 @@
+{
+  "run_id": "trun_415f3f698c1f435b9811c4f78379634a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 82.7,
+  "input": {
+    "player": "Emmett Johnson",
+    "team": "Kansas City Chiefs",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Nebraska",
+    "fun_facts": [
+      "Emmett Johnson was born in Minneapolis, Minnesota.",
+      "Emmett Johnson finished third among FBS rushers with 1,451 rushing yards in his breakout season.",
+      "He was named Big Ten Running Back of the Year and earned first-team all-conference honors.",
+      "Emmett Johnson led Big Ten running backs with 46 catches for 370 yards.",
+      "He topped 100 rushing yards in 8 of 12 games, including a 217-yard game against Iowa."
+    ],
+    "draft": "2026, round 5, pick 161"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Chiefs\u2019 roster lists Emmett Johnson as a running back and identifies Nebraska as his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/kansas-city-chiefs/roster",
+          "excerpts": [
+            "|[Creed Humphrey](https://www.nfl.com/players/creed-humphrey/) |52 |C |ACT |76 |302 |6 |Oklahoma |\n|[Fred Johnson](https://www.nfl.com/players/fred-johnson/) | |OT |DEV |79 |326 |8 |Florida |\n|[Emmett Johnson](https://www.nfl.com/players/emmett-johnson-2/) |10 |RB |ACT |70 |202 |R |Nebraska |\n|[Cam Jones](https://www.nfl.com/players/cam-jones/) |45 |LB |CUT |74 |227 |4 |Indiana |"
+          ],
+          "title": "Kansas City Chiefs 2026 Player Roster | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Minneapolis as Emmett Johnson\u2019s birthplace. ESPN\u2019s account of his Nebraska season reports his FBS rushing rank and total, Big Ten honors, reception totals, and 100-yard games including his 217-yard season finale against Iowa.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4832955/emmett-johnson",
+          "excerpts": [
+            "Team [Kansas City Chiefs](https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs)\n\nPosition Running Back\n\nHT/WT 5' 11\", 200 lbs\n\nBirthdate 10/10/2003 (23)\n\nCollege [Nebraska](https://www.espn.com/college-football/team/_/id/158/nebraska-cornhuskers)\n\nDraft Info 2026: Rd 5, Pk 161 (KC)\n\nStatus Active\n\nExperience Rookie\n\nBirthplace Minneapolis, MN"
+          ],
+          "title": "Emmett Johnson Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47213796/nebraska-rb-emmett-johnson-declares-2026-nfl-draft",
+          "excerpts": [
+            "Johnson](https://www.espn.com/college-football/player/_/id/4832955/emmett-johnson) announced Friday he'll [declare for the 2026 NFL Draft](https://x.com/emmett21johnson/status/1997004106163237159) .\n\nJohnson enjoyed a breakout year as the third-leading rusher in FBS this season with 1,451 rushing yards, earning Big Ten Running Back of the Year and first-team all-conference honors.\n\n## Editor's Picks\n\n* [](https://www.espn.com/nfl/draft2026/story/_/id/47097046/2026-nfl-draft-questions-top-prospects-qb-class-risers)",
+            "In his addition to his rushing production, Johnson led all Big Ten running backs with 46 receptions for 370 yards.\n\nJohnson surpassed 100 rushing yards in eight of 12 games, including a career-high 217 yards in his season finale against Iowa."
+          ],
+          "title": "Nebraska RB Emmett Johnson declares for the 2026 NFL Draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL\u2019s rookie rankings identify Emmett Johnson as drafted in Round 5, No. 161 overall, which corresponds to 2026, pick 161.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-offensive-rookie-rankings-49ers-kaelon-black-chiefs-emmett-johnson-enter-top-five",
+          "excerpts": [
+            "[Emmett Johnson KC RB](https://www.nfl.com/players/emmett-johnson-2)\n\n**DRAFTED** : Round 5, No. 161 overall\n\nJohnson leads all rookie running backs with 519 scrimmage yards and four touchdowns despite seeing a smaller percentage of touches than others in his class. He plays with tremendous energy and offers chunk-play ability on all three downs. In his first start in the Chiefs' backfield in Week 10, Johnson ran for 101 yards, had 70 yards receiving and added two scores. Johnson has quickly become a legitimate passing game weapon, recording a catch of 10 yards or more in seven of nine games and averaging 15.4 yards per reception."
+          ],
+          "title": "NFL offensive rookie rankings: 49ers' Kaelon Black, Chiefs' Emmett Johnson enter top five | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN\u2019s biography lists Minneapolis, Minnesota as Emmett Johnson\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4832955/emmett-johnson",
+          "excerpts": [
+            "Team [Kansas City Chiefs](https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs)\n\nPosition Running Back\n\nHT/WT 5' 11\", 200 lbs\n\nBirthdate 10/10/2003 (23)\n\nCollege [Nebraska](https://www.espn.com/college-football/team/_/id/158/nebraska-cornhuskers)\n\nDraft Info 2026: Rd 5, Pk 161 (KC)\n\nStatus Active\n\nExperience Rookie\n\nBirthplace Minneapolis, MN"
+          ],
+          "title": "Emmett Johnson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account says he was the third-leading FBS rusher with 1,451 yards during his breakout season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47213796/nebraska-rb-emmett-johnson-declares-2026-nfl-draft",
+          "excerpts": [
+            "Johnson](https://www.espn.com/college-football/player/_/id/4832955/emmett-johnson) announced Friday he'll [declare for the 2026 NFL Draft](https://x.com/emmett21johnson/status/1997004106163237159) .\n\nJohnson enjoyed a breakout year as the third-leading rusher in FBS this season with 1,451 rushing yards, earning Big Ten Running Back of the Year and first-team all-conference honors.\n\n## Editor's Picks\n\n* [](https://www.espn.com/nfl/draft2026/story/_/id/47097046/2026-nfl-draft-questions-top-prospects-qb-class-risers)"
+          ],
+          "title": "Nebraska RB Emmett Johnson declares for the 2026 NFL Draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The same account states that he earned Big Ten Running Back of the Year and first-team all-conference honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47213796/nebraska-rb-emmett-johnson-declares-2026-nfl-draft",
+          "excerpts": [
+            "Johnson](https://www.espn.com/college-football/player/_/id/4832955/emmett-johnson) announced Friday he'll [declare for the 2026 NFL Draft](https://x.com/emmett21johnson/status/1997004106163237159) .\n\nJohnson enjoyed a breakout year as the third-leading rusher in FBS this season with 1,451 rushing yards, earning Big Ten Running Back of the Year and first-team all-conference honors.\n\n## Editor's Picks\n\n* [](https://www.espn.com/nfl/draft2026/story/_/id/47097046/2026-nfl-draft-questions-top-prospects-qb-class-risers)"
+          ],
+          "title": "Nebraska RB Emmett Johnson declares for the 2026 NFL Draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The account says he led Big Ten running backs with 46 receptions for 370 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47213796/nebraska-rb-emmett-johnson-declares-2026-nfl-draft",
+          "excerpts": [
+            "In his addition to his rushing production, Johnson led all Big Ten running backs with 46 receptions for 370 yards.\n\nJohnson surpassed 100 rushing yards in eight of 12 games, including a career-high 217 yards in his season finale against Iowa."
+          ],
+          "title": "Nebraska RB Emmett Johnson declares for the 2026 NFL Draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The account reports he exceeded 100 rushing yards in eight of 12 games and had a career-high 217 yards in his season finale against Iowa.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47213796/nebraska-rb-emmett-johnson-declares-2026-nfl-draft",
+          "excerpts": [
+            "In his addition to his rushing production, Johnson led all Big Ten running backs with 46 receptions for 370 yards.\n\nJohnson surpassed 100 rushing yards in eight of 12 games, including a career-high 217 yards in his season finale against Iowa."
+          ],
+          "title": "Nebraska RB Emmett Johnson declares for the 2026 NFL Draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

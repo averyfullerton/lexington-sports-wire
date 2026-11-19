@@ -1,0 +1,93 @@
+{
+  "name": "Cameron Dicker",
+  "espn_id": "4362081",
+  "team": "Los Angeles Chargers",
+  "team_abbr": "LAC",
+  "number": "11",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": "Texas",
+  "experience": 5,
+  "fun_facts": [
+    "Cameron is called \u201cDicker the Kicker.\u201d",
+    "He made the NFL\u2019s first fair-catch field goal since 1976, from 57 yards.",
+    "Cameron made the Chargers\u2019 longest field goal, at 59 yards."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2022",
+        "PHI",
+        "1",
+        "2-2",
+        "100.0",
+        "42",
+        "8"
+      ],
+      [
+        "2022",
+        "LAC",
+        "10",
+        "19-20",
+        "95.0",
+        "48",
+        "79"
+      ],
+      [
+        "2022",
+        "",
+        "11",
+        "21-22",
+        "95.5",
+        "48",
+        "87"
+      ],
+      [
+        "2023",
+        "LAC",
+        "17",
+        "31-33",
+        "93.9",
+        "55",
+        "128"
+      ],
+      [
+        "2024",
+        "LAC",
+        "17",
+        "39-42",
+        "92.9",
+        "59",
+        "150"
+      ],
+      [
+        "2025",
+        "LAC",
+        "17",
+        "38-41",
+        "92.7",
+        "59",
+        "148"
+      ],
+      [
+        "2026",
+        "LAC",
+        "9",
+        "18-20",
+        "90.0",
+        "52",
+        "66"
+      ]
+    ]
+  }
+}

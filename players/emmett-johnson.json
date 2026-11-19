@@ -1,0 +1,39 @@
+{
+  "name": "Emmett Johnson",
+  "espn_id": "4832955",
+  "team": "Kansas City Chiefs",
+  "team_abbr": "KC",
+  "number": "10",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Nebraska",
+  "experience": 0,
+  "fun_facts": [
+    "Emmett ran for 217 yards against Iowa.",
+    "Emmett led Big Ten running backs with 46 catches.",
+    "Emmett was Big Ten Running Back of the Year."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "KC",
+        "9",
+        "48",
+        "212",
+        "4.4",
+        "1"
+      ]
+    ]
+  }
+}

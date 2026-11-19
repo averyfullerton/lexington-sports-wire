@@ -1,0 +1,39 @@
+{
+  "name": "J. Michael Sturdivant",
+  "espn_id": "4635009",
+  "team": "Green Bay Packers",
+  "team_abbr": "GB",
+  "number": "87",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Florida",
+  "experience": 0,
+  "fun_facts": [
+    "He caught a touchdown and gained 142 yards in a UCLA college game.",
+    "He ran the 40-yard dash in 4.40 seconds at the NFL Scouting Combine.",
+    "He caught a touchdown and gained 112 yards in a Packers preseason game."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "GB",
+        "9",
+        "6",
+        "75",
+        "1",
+        "32"
+      ]
+    ]
+  }
+}

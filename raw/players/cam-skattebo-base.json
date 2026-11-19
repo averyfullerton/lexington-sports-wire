@@ -1,0 +1,181 @@
+{
+  "run_id": "trun_415f3f698c1f435b83fcb865d4eda613",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 90.2,
+  "input": {
+    "player": "Cam Skattebo",
+    "team": "New York Giants",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Arizona State",
+    "fun_facts": [
+      "Cam Skattebo is from Rio Linda, California.",
+      "As a little kid, Cam Skattebo got the nickname \u201cHoudini\u201d because he could escape from car seats.",
+      "Cam Skattebo began college at Sacramento State, then transferred to Arizona State before 2023.",
+      "In 2024, Cam Skattebo piled up 2,316 yards from scrimmage and 24 touchdowns, and finished fifth in Heisman Trophy voting.",
+      "Against BYU in 2024, Cam Skattebo ran for 147 yards and three touchdowns; after the third, he autographed the football."
+    ],
+    "draft": "2025, round 4, pick 105"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Arizona State as Cam Skattebo\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/cam-skattebo",
+          "excerpts": [
+            "# Cam Skattebo Stats, News and Video - RB | NFL.com\n\n# Cam Skattebo\n\nRB \u2022 \\#44\n\n[New York Giants](https://www.nfl.com/teams/new-york-giants/)\n\n### active\n\n* [Info](https://www.nfl.com/players/cam-skattebo/)\n* [Stats](https://www.nfl.com/players/cam-skattebo/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  215\n* Arms\n  \n  30\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Arizona State\n* Age\n  \n  24\n* Hometown\n  \n  Rio Linda, CA\n\n## Related Content - Articles\n\n[news ### Commanders-Giants on 'Thursday Night Football': What We Learned from Washington's 24-21 win NFL.com's Grant Gordon dissects the Washington Commanders' comeback win over the division-rival"
+          ],
+          "title": "Cam Skattebo Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN and NFL passages support the hometown, childhood nickname, college transfer, 2024 season totals and Heisman finish, and the BYU game performance and autograph.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/cam-skattebo",
+          "excerpts": [
+            "# Cam Skattebo Stats, News and Video - RB | NFL.com\n\n# Cam Skattebo\n\nRB \u2022 \\#44\n\n[New York Giants](https://www.nfl.com/teams/new-york-giants/)\n\n### active\n\n* [Info](https://www.nfl.com/players/cam-skattebo/)\n* [Stats](https://www.nfl.com/players/cam-skattebo/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  215\n* Arms\n  \n  30\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Arizona State\n* Age\n  \n  24\n* Hometown\n  \n  Rio Linda, CA\n\n## Related Content - Articles\n\n[news ### Commanders-Giants on 'Thursday Night Football': What We Learned from Washington's 24-21 win NFL.com's Grant Gordon dissects the Washington Commanders' comeback win over the division-rival"
+          ],
+          "title": "Cam Skattebo Stats, News and Video - RB | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46531343/new-york-giants-eccentric-rookie-cam-skattebo-stories",
+          "excerpts": [
+            "\"Cam has always been able to figure out how to get up, over and through things. He would get out of every car seat you can find. That's how he ended up with the 'Houdini' nickname because if he didn't want to be somewhere, he was getting out of the situation he was in. ... He would put his brother's shoulder pads on and he would run into telephone poles. Once he got onto the field, it was no surprise the punishment he [inflicted on his own body and everybody"
+          ],
+          "title": "Moments with Giants' eccentric rookie Cam Skattebo - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42837612/arizona-state-stakes-cfp-claim-dominate-win-vs-iowa-state",
+          "excerpts": [
+            "Skattebo, who transferred from Sacramento State to ASU before the 2023 season, said he did the Heisman pose because he deserves to be there."
+          ],
+          "title": "Arizona State advocates for CFP bye after winning 1st Big 12 title - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-nfl-draft-giants-select-arizona-state-rb-cam-skattebo-with-no-105-overall-pick",
+          "excerpts": [
+            "The New York Giants added another hammer to their running back room.\n\nBig Blue drafted Arizona State RB [Cam Skattebo](https://www.nfl.com/prospects/cam-skattebo/3200534b-4157-8439-e202-fa5ff0631271) with the No. 105 overall pick in the 2025 NFL Draft.\n\nSkattebo looks like a pinball on the football field, bouncing off tackles and flattening defenders with leverage and power.\n\nA dual threat, the 5-foot-9, 216-pound Skattebo turned from fan favorite to Sun Devils legend with his 2024 season, totaling 2,316 yards from scrimmage and 24 touchdowns, finishing fifth in the Heisman Trophy voting."
+          ],
+          "title": "2025 NFL Draft: Giants select Arizona State RB Cam Skattebo with No. 105 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story?id=42570404",
+          "excerpts": [
+            "# After fans storm field early, No. 21 Arizona St stops Hail Mary try for 28-23 win over No. 14 BYU\n\nplay\n\nCam Skattebo celebrates 3rd TD by autographing football (0:30)\n\nArizona State's Cam Skattebo immediately autographs a football after scoring his third rushing touchdown of the game. (0:30)\n\n* AP\n\nNov 23, 2024, 08:30 PM ET\n\n* Copy Link",
+            "* [Print](https://www.espn.com/espn/print?id=42570404)\n\nTEMPE, Ariz. -- \u2014 [Cam Skattebo](https://www.espn.com/college-football/player/_/id/4696981/cam-skattebo) was the workhorse once again for Arizona State, carrying the Sun Devils on his back by rushing for 147 yards and three touchdowns. His reward was a well-earned celebration with fans.\n\nTwice.\n\nSkattebo had another big game, [Sam Leavitt](http://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) threw for 247 yards and No. 21 Arizona State held on in the final minutes to beat No. 14 BYU 28-23 on Saturday."
+          ],
+          "title": "After fans storm field early, No. 21 Arizona St stops Hail Mary try for 28-23 win over No. 14 BYU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography states that Cam Skattebo was selected in the 2025 draft, in Round 4, with pick 105.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4696981/cam-skattebo",
+          "excerpts": [
+            "# Cam Skattebo\n\nNew York Giants\n\n* [New York Giants Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants)\n* \\#44\n* Running Back RB\n\n* HT/WT\n  \n  5' 11\", 215 lbs\n* Birthdate\n  \n  2/5/2002 (24)\n* College\n  \n  [Arizona St](https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils)\n\nFollow\n\n* HT/WT\n  \n  5' 11\", 215 lbs\n* Birthdate\n  \n  2/5/2002 (24)\n* College\n  \n  [Arizona St](https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils)\n* Draft Info\n  \n  2025: Rd 4, Pk 105 (NYG)\n* Status\n  \n  Active"
+          ],
+          "title": "Cam Skattebo Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL player profile gives Rio Linda, California, as Cam Skattebo\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/cam-skattebo",
+          "excerpts": [
+            "# Cam Skattebo Stats, News and Video - RB | NFL.com\n\n# Cam Skattebo\n\nRB \u2022 \\#44\n\n[New York Giants](https://www.nfl.com/teams/new-york-giants/)\n\n### active\n\n* [Info](https://www.nfl.com/players/cam-skattebo/)\n* [Stats](https://www.nfl.com/players/cam-skattebo/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  215\n* Arms\n  \n  30\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Arizona State\n* Age\n  \n  24\n* Hometown\n  \n  Rio Linda, CA\n\n## Related Content - Articles\n\n[news ### Commanders-Giants on 'Thursday Night Football': What We Learned from Washington's 24-21 win NFL.com's Grant Gordon dissects the Washington Commanders' comeback win over the division-rival"
+          ],
+          "title": "Cam Skattebo Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN passage says Cam Skattebo was nicknamed \u201cHoudini\u201d because he could get out of car seats when he was little.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46531343/new-york-giants-eccentric-rookie-cam-skattebo-stories",
+          "excerpts": [
+            "\"Cam has always been able to figure out how to get up, over and through things. He would get out of every car seat you can find. That's how he ended up with the 'Houdini' nickname because if he didn't want to be somewhere, he was getting out of the situation he was in. ... He would put his brother's shoulder pads on and he would run into telephone poles. Once he got onto the field, it was no surprise the punishment he [inflicted on his own body and everybody"
+          ],
+          "title": "Moments with Giants' eccentric rookie Cam Skattebo - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN states that Cam Skattebo transferred from Sacramento State to Arizona State before the 2023 season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42837612/arizona-state-stakes-cfp-claim-dominate-win-vs-iowa-state",
+          "excerpts": [
+            "Skattebo, who transferred from Sacramento State to ASU before the 2023 season, said he did the Heisman pose because he deserves to be there."
+          ],
+          "title": "Arizona State advocates for CFP bye after winning 1st Big 12 title - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL passage reports his 2,316 scrimmage yards, 24 touchdowns, and fifth-place Heisman finish for the 2024 season.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2025-nfl-draft-giants-select-arizona-state-rb-cam-skattebo-with-no-105-overall-pick",
+          "excerpts": [
+            "The New York Giants added another hammer to their running back room.\n\nBig Blue drafted Arizona State RB [Cam Skattebo](https://www.nfl.com/prospects/cam-skattebo/3200534b-4157-8439-e202-fa5ff0631271) with the No. 105 overall pick in the 2025 NFL Draft.\n\nSkattebo looks like a pinball on the football field, bouncing off tackles and flattening defenders with leverage and power.\n\nA dual threat, the 5-foot-9, 216-pound Skattebo turned from fan favorite to Sun Devils legend with his 2024 season, totaling 2,316 yards from scrimmage and 24 touchdowns, finishing fifth in the Heisman Trophy voting."
+          ],
+          "title": "2025 NFL Draft: Giants select Arizona State RB Cam Skattebo with No. 105 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN caption says he autographed the football after his third rushing touchdown, and the game recap reports 147 rushing yards and three touchdowns against BYU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=42570404",
+          "excerpts": [
+            "# After fans storm field early, No. 21 Arizona St stops Hail Mary try for 28-23 win over No. 14 BYU\n\nplay\n\nCam Skattebo celebrates 3rd TD by autographing football (0:30)\n\nArizona State's Cam Skattebo immediately autographs a football after scoring his third rushing touchdown of the game. (0:30)\n\n* AP\n\nNov 23, 2024, 08:30 PM ET\n\n* Copy Link",
+            "* [Print](https://www.espn.com/espn/print?id=42570404)\n\nTEMPE, Ariz. -- \u2014 [Cam Skattebo](https://www.espn.com/college-football/player/_/id/4696981/cam-skattebo) was the workhorse once again for Arizona State, carrying the Sun Devils on his back by rushing for 147 yards and three touchdowns. His reward was a well-earned celebration with fans.\n\nTwice.\n\nSkattebo had another big game, [Sam Leavitt](http://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) threw for 247 yards and No. 21 Arizona State held on in the final minutes to beat No. 14 BYU 28-23 on Saturday."
+          ],
+          "title": "After fans storm field early, No. 21 Arizona St stops Hail Mary try for 28-23 win over No. 14 BYU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

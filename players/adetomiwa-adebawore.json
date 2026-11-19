@@ -1,0 +1,66 @@
+{
+  "name": "Adetomiwa Adebawore",
+  "espn_id": "4427635",
+  "team": "Indianapolis Colts",
+  "team_abbr": "IND",
+  "number": "95",
+  "position": "Defensive Tackle",
+  "position_abbr": "DT",
+  "college": "Northwestern",
+  "experience": 4,
+  "fun_facts": [
+    "Adetomiwa ran the 40-yard dash in 4.49 seconds at the 2023 combine.",
+    "Adetomiwa recovered a fumble for a touchdown against the Miami Dolphins.",
+    "Adetomiwa matched his career high of four sacks in eight games in 2026."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2023",
+        "IND",
+        "10",
+        "5",
+        "1.5",
+        "0",
+        "0"
+      ],
+      [
+        "2024",
+        "IND",
+        "16",
+        "7",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "2025",
+        "IND",
+        "17",
+        "36",
+        "4",
+        "0",
+        "0"
+      ],
+      [
+        "2026",
+        "IND",
+        "10",
+        "24",
+        "4",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "run_id": "trun_415f3f698c1f435b81c3ab94ebc3bc49",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 119.5,
+  "input": {
+    "player": "Malik Washington",
+    "team": "Miami Dolphins",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Virginia",
+    "fun_facts": [
+      "Malik Washington is from Lawrenceville, Georgia.",
+      "After playing at Northwestern, Malik Washington transferred to Virginia as a graduate student.",
+      "In 2023, Malik Washington caught 110 passes, breaking the single-season reception records at Virginia and in the ACC; his 1,426 receiving yards also set a Virginia single-season record.",
+      "Malik Washington had 10 games with 100 or more receiving yards in 2023, the most in the FBS that season.",
+      "In 2023, Malik Washington was a team captain and earned first-team All-ACC and second-team All-American honors."
+    ],
+    "draft": "2024, round 6, pick 184"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN lists Virginia as Malik Washington's college. The team biography says he transferred to Virginia from Northwestern, so Virginia is the last college listed.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4569603/malik-washington",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Washington\n\nMiami Dolphins\n\n* [Miami Dolphins Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n\nFollow\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n* Draft Info\n  \n  2024: Rd 6, Pk 184 (MIA)\n* Status\n  \n  Active"
+          ],
+          "title": "Malik Washington Biography - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/wet1nonnehwxqnow74ic",
+          "excerpts": [
+            "JETS (1/5):** 4 receptions for 48 yards (12.0 avg.); 3 kickoff returns for 122 yards (40.7 avg.).\n\nMiami Dolphins Players 2026 81\n\n**BEFORE THE NFL**\n\n**COLLEGE (VIRGINIA):**\n\n2-year starter (2022-23) Transferred to Virginia from Northwestern as a graduate transfer following his senior season (2022)."
+          ],
+          "title": "2025 (MIAMI): NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "ESPN's biography gives Lawrenceville, Georgia, as Malik Washington's birthplace. The Dolphins' biography identifies his transfer from Northwestern to Virginia and records his 2023 receiving totals, FBS-leading count of 100-yard receiving games, captaincy, and All-ACC and All-American honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4569603/malik-washington",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Washington\n\nMiami Dolphins\n\n* [Miami Dolphins Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n\nFollow\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n* Draft Info\n  \n  2024: Rd 6, Pk 184 (MIA)\n* Status\n  \n  Active"
+          ],
+          "title": "Malik Washington Biography - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/wet1nonnehwxqnow74ic",
+          "excerpts": [
+            "JETS (1/5):** 4 receptions for 48 yards (12.0 avg.); 3 kickoff returns for 122 yards (40.7 avg.).\n\nMiami Dolphins Players 2026 81\n\n**BEFORE THE NFL**\n\n**COLLEGE (VIRGINIA):**\n\n2-year starter (2022-23) Transferred to Virginia from Northwestern as a graduate transfer following his senior season (2022)."
+          ],
+          "title": "2025 (MIAMI): NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/qwj3t8ylbmuldhx0gbpl",
+          "excerpts": [
+            "**GRADUDATE (2023 AT VIRGINIA):** Played in 12 games with 11 starts; 110 receptions for 1,426 yards (13.0 avg.) and 9 TDs; 3 carries for 7 yards (2.3 avg.).\n\n1st-team All-ACC. 2nd-team All-American. Served as team captain. Led the FBS with 10 games of 100+ receiving yards. His 110 receptions broke single-season records for both UVA and the ACC, and his 1,426 receiving yards set a single-season record at Virginia."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: 2024 (MIAMI): HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN's biography states that Malik Washington was drafted in 2024 in round 6, pick 184, by Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4569603/malik-washington",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Washington\n\nMiami Dolphins\n\n* [Miami Dolphins Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n\nFollow\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n* Draft Info\n  \n  2024: Rd 6, Pk 184 (MIA)\n* Status\n  \n  Active"
+          ],
+          "title": "Malik Washington Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN lists Malik Washington's birthplace as Lawrenceville, Georgia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4569603/malik-washington",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Malik Washington\n\nMiami Dolphins\n\n* [Miami Dolphins Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n\nFollow\n\n* HT/WT\n  \n  5' 8\", 195 lbs\n* Birthdate\n  \n  1/4/2001 (25)\n* College\n  \n  [Virginia](https://www.espn.com/college-football/team/_/id/258/virginia-cavaliers)\n* Draft Info\n  \n  2024: Rd 6, Pk 184 (MIA)\n* Status\n  \n  Active"
+          ],
+          "title": "Malik Washington Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Dolphins' biography says Malik Washington transferred to Virginia from Northwestern as a graduate transfer.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/wet1nonnehwxqnow74ic",
+          "excerpts": [
+            "JETS (1/5):** 4 receptions for 48 yards (12.0 avg.); 3 kickoff returns for 122 yards (40.7 avg.).\n\nMiami Dolphins Players 2026 81\n\n**BEFORE THE NFL**\n\n**COLLEGE (VIRGINIA):**\n\n2-year starter (2022-23) Transferred to Virginia from Northwestern as a graduate transfer following his senior season (2022)."
+          ],
+          "title": "2025 (MIAMI): NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Dolphins' biography states that Malik Washington had 110 receptions, breaking Virginia's and the ACC's single-season records, and set Virginia's single-season receiving-yards record with 1,426.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/qwj3t8ylbmuldhx0gbpl",
+          "excerpts": [
+            "**GRADUDATE (2023 AT VIRGINIA):** Played in 12 games with 11 starts; 110 receptions for 1,426 yards (13.0 avg.) and 9 TDs; 3 carries for 7 yards (2.3 avg.).\n\n1st-team All-ACC. 2nd-team All-American. Served as team captain. Led the FBS with 10 games of 100+ receiving yards. His 110 receptions broke single-season records for both UVA and the ACC, and his 1,426 receiving yards set a single-season record at Virginia."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: 2024 (MIAMI): HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Dolphins' biography says Malik Washington led the FBS with 10 games of at least 100 receiving yards.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/qwj3t8ylbmuldhx0gbpl",
+          "excerpts": [
+            "**GRADUDATE (2023 AT VIRGINIA):** Played in 12 games with 11 starts; 110 receptions for 1,426 yards (13.0 avg.) and 9 TDs; 3 carries for 7 yards (2.3 avg.).\n\n1st-team All-ACC. 2nd-team All-American. Served as team captain. Led the FBS with 10 games of 100+ receiving yards. His 110 receptions broke single-season records for both UVA and the ACC, and his 1,426 receiving yards set a single-season record at Virginia."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: 2024 (MIAMI): HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Dolphins' biography identifies Malik Washington as a team captain and lists his first-team All-ACC and second-team All-American honors.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/qwj3t8ylbmuldhx0gbpl",
+          "excerpts": [
+            "**GRADUDATE (2023 AT VIRGINIA):** Played in 12 games with 11 starts; 110 receptions for 1,426 yards (13.0 avg.) and 9 TDs; 3 carries for 7 yards (2.3 avg.).\n\n1st-team All-ACC. 2nd-team All-American. Served as team captain. Led the FBS with 10 games of 100+ receiving yards. His 110 receptions broke single-season records for both UVA and the ACC, and his 1,426 receiving yards set a single-season record at Virginia."
+          ],
+          "title": "NFL CAREER TRANSACTIONS: CAREER HIGHLIGHTS: 2024 (MIAMI): HIGHEST CAREER KICKOFF RETURN AVERAGE IN DOLPHINS HISTORY (MIN. 50 RETURNS) HIGHEST KICKOFF"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

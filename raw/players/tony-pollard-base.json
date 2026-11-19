@@ -1,0 +1,146 @@
+{
+  "run_id": "trun_415f3f698c1f435b9ef009253f7c5b82",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 26.1,
+  "input": {
+    "player": "Tony Pollard",
+    "team": "Tennessee Titans",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Memphis",
+    "fun_facts": [
+      "Tony Pollard is from Memphis, Tennessee.",
+      "At Memphis, Tony Pollard played both running back and wide receiver, totaling 2,233 offensive yards and 18 touchdowns.",
+      "Tony Pollard averaged 30.1 yards per kickoff return in college and tied an NCAA record with seven kickoff-return touchdowns.",
+      "In 2022, Tony Pollard rushed for 1,007 yards and nine touchdowns, averaged 5.2 yards per carry, and earned his first Pro Bowl selection.",
+      "Tony Pollard was voted a team captain for the first time in 2025."
+    ],
+    "draft": "2019, round 4, pick 128"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The source identifies the University of Memphis as Tony Pollard\u2019s college.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "At the University of Memphis, he played in 40 games at running back and wide receiver, amassing 2,233 yards and 18 touchdowns on offense."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages state Pollard\u2019s hometown, his college positions and offensive totals, his kickoff-return average and NCAA record, his 2022 rushing and Pro Bowl milestones, and his first team-captain selection in 2025.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "The Memphis native was signed as an unrestricted free agent on March 14, 2024.",
+            "At the University of Memphis, he played in 40 games at running back and wide receiver, amassing 2,233 yards and 18 touchdowns on offense.",
+            "He also averaged 30.1 yards per kickoff return and tied an NCAA record with seven kickoff returns for touchdowns.",
+            "In 2022, he set career marks with 193 carries for 1,007 yards and nine scores, averaging 5.2 yards-per-carry to rank third in the NFL and earn his first Pro Bowl nod.",
+            "In 2025, Pollard was voted a team captain for the first time in his career."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The source says Dallas selected Tony Pollard in the fourth round, 128th overall, of the 2019 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "Prior to joining the Titans, Pollard spent five seasons (2019-23) with the Dallas Cowboys, who selected him in the fourth round (128th overall) of the 2019 NFL Draft."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage identifies Pollard as a Memphis native.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "The Memphis native was signed as an unrestricted free agent on March 14, 2024."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states that Pollard played running back and wide receiver and gives his offensive yardage and touchdown totals at Memphis.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "At the University of Memphis, he played in 40 games at running back and wide receiver, amassing 2,233 yards and 18 touchdowns on offense."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage gives his kickoff-return average and says he tied the NCAA record with seven kickoff-return touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "He also averaged 30.1 yards per kickoff return and tied an NCAA record with seven kickoff returns for touchdowns."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage reports his 2022 rushing totals, yards-per-carry average, and first Pro Bowl selection.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "In 2022, he set career marks with 193 carries for 1,007 yards and nine scores, averaging 5.2 yards-per-carry to rank third in the NFL and earn his first Pro Bowl nod."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Pollard was voted a team captain for the first time in 2025.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/pkhpxs4ahxfeyo4awzbc",
+          "excerpts": [
+            "In 2025, Pollard was voted a team captain for the first time in his career."
+          ],
+          "title": "TITANS TO HOST JAGUARS, WEAR MUSIC CITY UNIFORMS"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "run_id": "trun_415f3f698c1f435bb59769fba8435fa0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 218.3,
+  "input": {
+    "player": "Amon-Ra St. Brown",
+    "team": "Detroit Lions",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "USC",
+    "fun_facts": [
+      "Amon-Ra St. Brown was born in Anaheim Hills, California.",
+      "From childhood, Amon-Ra St. Brown spoke English, German, and French fluently.",
+      "Amon-Ra St. Brown started playing soccer at age five, when he joined a soccer club in Leverkusen, Germany.",
+      "At 15, Amon-Ra St. Brown won MVP honors at the European Championship in Dresden, Germany.",
+      "Amon-Ra St. Brown has a post-practice routine of catching exactly 202 balls on a Jugs machine; he started the routine in middle school.",
+      "As a rookie, Amon-Ra St. Brown set Lions single-season records for a rookie with 90 receptions and 912 receiving yards."
+    ],
+    "draft": "2021, round 4, pick 112"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists USC as Amon-Ra St. Brown\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4374302/amon-ra-st-brown",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Amon-Ra St. Brown\n\nDetroit Lions\n\n* [Detroit Lions Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n* \\#14\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 202 lbs\n* Birthdate\n  \n  10/24/1999 (27)\n* College\n  \n  [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nFollow\n\n* HT/WT\n  \n  6' 0\", 202 lbs\n* Birthdate\n  \n  10/24/1999 (27)\n* College\n  \n  [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n* Draft Info\n  \n  2021: Rd 4, Pk 112 (DET)\n* Status\n  \n  Active"
+          ],
+          "title": "Amon-Ra St. Brown Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited sources state his birthplace, the three languages he spoke from childhood, when he began soccer, his European Championship MVP honor, details of his Jugs-machine routine, and his rookie receiving records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4374302/amon-ra-st-brown",
+          "excerpts": [
+            "Team [Detroit Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n\nPosition Wide Receiver\n\nHT/WT 6' 0\", 202 lbs\n\nBirthdate 10/24/1999 (27)\n\nCollege [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nDraft Info 2021: Rd 4, Pk 112 (DET)\n\nStatus Active\n\nExperience 6th Season\n\nBirthplace Anaheim Hills, CA\n\n### Career History"
+          ],
+          "title": "Amon-Ra St. Brown Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/usc-wr-amon-ra-st-brown-was-built-by-his-father-for-the-nfl",
+          "excerpts": [
+            "They all carried GPAs of 4.0 or better in school, spoke fluently in English, German and French from childhood, and struck fear in the hearts of high school defensive backs all over Southern California."
+          ],
+          "title": "USC WR Amon-Ra St. Brown was built (by his father) for the NFL | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+          "excerpts": [
+            "When he was 5 years old, Amon-Ra's promising ability led Miriam to enroll him at the SC Hitdorf soccer club, located in the Hitdorf district of Leverkusen.",
+            "At the European Championship in Dresden, Germany, Amon-Ra, just 15 years old and undersized compared with the competition, won MVP honors -- a feat that wasn't surprising to his brothers."
+          ],
+          "title": "Stories of Lions WR Amon-Ra St. Brown's German upbringing - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/detroit-lions/post/_/id/39233/man-on-a-mission-how-daily-jugs-routine-has-lions-star-amon-ra-st-brown-primed-for-big-season",
+          "excerpts": [
+            "Brown, the Lions\u2019 third-year receiver, caught exactly 202 balls on the Jugs machine \u2013 continuing a post-practice routine that began all the way back in middle school."
+          ],
+          "title": "How daily JUGS routine has Lions' Amon-Ra St. Brown ready for big 2023 - ESPN - Detroit Lions Blog- ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38743246/lions-wr-amon-ra-st-brown-driven-great",
+          "excerpts": [
+            "When given a bigger opportunity later in the year, he capitalized, setting Lions' franchise marks for receptions (90) and receiving yards (912) by a rookie in a single season."
+          ],
+          "title": "Lions WR Amon-Ra St. Brown driven to be an NFL great - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography gives the draft information as 2021, round 4, pick 112.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4374302/amon-ra-st-brown",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Amon-Ra St. Brown\n\nDetroit Lions\n\n* [Detroit Lions Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n* \\#14\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 202 lbs\n* Birthdate\n  \n  10/24/1999 (27)\n* College\n  \n  [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nFollow\n\n* HT/WT\n  \n  6' 0\", 202 lbs\n* Birthdate\n  \n  10/24/1999 (27)\n* College\n  \n  [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n* Draft Info\n  \n  2021: Rd 4, Pk 112 (DET)\n* Status\n  \n  Active"
+          ],
+          "title": "Amon-Ra St. Brown Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography identifies Anaheim Hills, California, as his birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4374302/amon-ra-st-brown",
+          "excerpts": [
+            "Team [Detroit Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n\nPosition Wide Receiver\n\nHT/WT 6' 0\", 202 lbs\n\nBirthdate 10/24/1999 (27)\n\nCollege [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nDraft Info 2021: Rd 4, Pk 112 (DET)\n\nStatus Active\n\nExperience 6th Season\n\nBirthplace Anaheim Hills, CA\n\n### Career History"
+          ],
+          "title": "Amon-Ra St. Brown Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL.com article says Amon-Ra St. Brown and his brothers spoke English, German, and French fluently from childhood.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/usc-wr-amon-ra-st-brown-was-built-by-his-father-for-the-nfl",
+          "excerpts": [
+            "They all carried GPAs of 4.0 or better in school, spoke fluently in English, German and French from childhood, and struck fear in the hearts of high school defensive backs all over Southern California."
+          ],
+          "title": "USC WR Amon-Ra St. Brown was built (by his father) for the NFL | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that at age five he was enrolled at the SC Hitdorf soccer club in Leverkusen.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+          "excerpts": [
+            "When he was 5 years old, Amon-Ra's promising ability led Miriam to enroll him at the SC Hitdorf soccer club, located in the Hitdorf district of Leverkusen."
+          ],
+          "title": "Stories of Lions WR Amon-Ra St. Brown's German upbringing - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that Amon-Ra St. Brown won MVP honors at the European Championship in Dresden when he was 15.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+          "excerpts": [
+            "At the European Championship in Dresden, Germany, Amon-Ra, just 15 years old and undersized compared with the competition, won MVP honors -- a feat that wasn't surprising to his brothers."
+          ],
+          "title": "Stories of Lions WR Amon-Ra St. Brown's German upbringing - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN describes his routine of catching exactly 202 balls on a Jugs machine and says the routine began in middle school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/detroit-lions/post/_/id/39233/man-on-a-mission-how-daily-jugs-routine-has-lions-star-amon-ra-st-brown-primed-for-big-season",
+          "excerpts": [
+            "Brown, the Lions\u2019 third-year receiver, caught exactly 202 balls on the Jugs machine \u2013 continuing a post-practice routine that began all the way back in middle school."
+          ],
+          "title": "How daily JUGS routine has Lions' Amon-Ra St. Brown ready for big 2023 - ESPN - Detroit Lions Blog- ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN reports that he set Lions rookie records with 90 receptions and 912 receiving yards in a single season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38743246/lions-wr-amon-ra-st-brown-driven-great",
+          "excerpts": [
+            "When given a bigger opportunity later in the year, he capitalized, setting Lions' franchise marks for receptions (90) and receiving yards (912) by a rookie in a single season."
+          ],
+          "title": "Lions WR Amon-Ra St. Brown driven to be an NFL great - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

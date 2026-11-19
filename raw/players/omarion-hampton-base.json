@@ -1,0 +1,177 @@
+{
+  "run_id": "trun_415f3f698c1f435baef1ad13705ca21c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 65.8,
+  "input": {
+    "player": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "North Carolina",
+    "fun_facts": [
+      "Omarion Hampton was born in Clayton, North Carolina.",
+      "At Cleveland High School in Clayton, he rushed for 5,370 yards and 88 touchdowns. He also averaged 10.4 yards per carry and 127.8 rushing yards per game.",
+      "In a 2024 game against Florida State, Omarion Hampton scored five touchdowns: four rushing and one on a 49-yard catch.",
+      "His 2,033 all-purpose yards in 2024 set a North Carolina single-season school record.",
+      "Across his three seasons at North Carolina, he had 19 games with at least 100 rushing yards\u2014the third-most nationally over that span."
+    ],
+    "draft": "2025, round 1, pick 22"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Chargers' announcement identifies Hampton as a North Carolina running back, supporting North Carolina as his college.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/io02pfiftwymztw0suvj",
+          "excerpts": [
+            "**FOR IMMEDIATE RELEASE Thursday, April 24, 2025**\n\n## **Chargers Select Omarion Hampton in First Round of 2025 NFL Draft**\n\n### The Los Angeles Chargers selected North Carolina running back **Omarion Hampton** with the No. 22 overall pick in the 2025 NFL Draft. He is the eighth Tar Heel ever drafted by the Bolts and the first since 2010. Hampton finished his career at North Carolina as one of the most prolific running backs in college football, ranking No. 2 in the nation over the last two years with 3,164 rushing yards. He was the only back in the nation to eclipse at least 1,500 rushing yards and 15 rushing scores in each of the last two seasons, earning _Associated Press_ second-team All-America and first-team All-Atlantic Coast Conference recognition each year."
+          ],
+          "title": "Chargers Select Omarion Hampton in First Round of 2025 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Hampton's birthplace; the Chargers bio gives his high-school rushing totals and averages; the game recap records his five-touchdown game; ESPN reports the 2024 school record; and the Chargers' announcement states his total of 100-yard rushing games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685382/omarion-hampton",
+          "excerpts": [
+            "Birthdate 3/16/2003 (23)\n\nCollege [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels)\n\nDraft Info 2025: Rd 1, Pk 22 (LAC)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Clayton, NC\n\n### Career History\n\n[Los Angeles Chargers Los Angeles Chargers 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers)\n\nESPN"
+          ],
+          "title": "Omarion Hampton Biography - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/chvpfwusdlsoge3lcefx",
+          "excerpts": [
+            "HIGH SCHOOL & PERSONAL: Attended Cleveland High School in Clayton, N.C....Named North Carolina Gatorade Player of the Year.. Tabbed The Charlotte Observer\u2019s Mr. Football for North Carolina... A two-time MaxPreps Player of the Year.. Rushed for 5,370 yards and 88 TDs during his prep Son of Leslie Hampton and Cory Chappell...",
+            "Averaged 10.4 yards per carry and 127.8 yards per game.. Also caught 28 passes for 503 yards and eight TDs.\n\n# omarion hampton\n\n## **RUNNING BACK | NORTH CAROLINA** 6-0 | 220 lbs | CLAYTON, N.C."
+          ],
+          "title": "Omarion Hampton Bio"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401635602",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401635602)\n\n# Hampton scores 5 TDs, Brown gets first win over Florida State as North Carolina rolls to 35-11 win\n\n* * *\n\nBy AP\n\nNov 2, 2024, 09:08 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Omarion Hampton](http://www.espn.com/college-football/player/_/id/4685382/omarion-hampton) had four touchdown runs and a 49-yard TD reception as North Carolina cruised to a 35-11 victory over Florida State on Saturday.\n\nHampton racked up 172 rushing yards and 93 receiving yards and now has 14 touchdowns for UNC (5-4, 2/3 Atlantic Coast Conference).\n\nHampton is a man of many yards but not so many words."
+          ],
+          "title": "North Carolina 35-11 Florida State (Nov 2, 2024) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42994249/unc-tar-heels-rb-omarion-hampton-declares-2025-nfl-draft",
+          "excerpts": [
+            "Hampton finished second in the country in rushing behind [Ashton Jeanty](https://www.espn.com/college-football/player/_/id/4890973/ashton-jeanty) with 1,660 yards in 12 games, with 15 touchdown runs. He set a new school single-season record with his 2,033 all-purpose yards, surpassing the previous mark of 2,021 set by Don McCauley in 1970.\n\nThe junior has rushed for 3,565 career yards, ranking fourth all-time in school history.\n\nMel Kiper Jr. has Hampton ranked as the [No."
+          ],
+          "title": "UNC RB Omarion Hampton declares for 2025 NFL draft - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/io02pfiftwymztw0suvj",
+          "excerpts": [
+            "**FOR IMMEDIATE RELEASE Thursday, April 24, 2025**\n\n## **Chargers Select Omarion Hampton in First Round of 2025 NFL Draft**\n\n### The Los Angeles Chargers selected North Carolina running back **Omarion Hampton** with the No. 22 overall pick in the 2025 NFL Draft. He is the eighth Tar Heel ever drafted by the Bolts and the first since 2010. Hampton finished his career at North Carolina as one of the most prolific running backs in college football, ranking No. 2 in the nation over the last two years with 3,164 rushing yards. He was the only back in the nation to eclipse at least 1,500 rushing yards and 15 rushing scores in each of the last two seasons, earning _Associated Press_ second-team All-America and first-team All-Atlantic Coast Conference recognition each year. Hampton totaled 19 100-yard rushing games, the third-most in the nation over his three-year career (2022-24). The Clayton, N.C., native was a two-time finalist for the Doak Walker Award (2023-24), which annually recognizes"
+          ],
+          "title": "Chargers Select Omarion Hampton in First Round of 2025 NFL Draft"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The official draft report lists Hampton as the Chargers' selection at pick 22 in round 1; the report is for the 2025 draft.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/ofhnz8nfhq3uvwjvekf2",
+          "excerpts": [
+            "1 19 19 TAMPA BAY Egbuka, Emeka WR Ohio State\n\n1 20 20 DENVER Barron, Jahdae DB Texas\n\n1 21 21 PITTSBURGH Harmon, Derrick DT Oregon\n\n1 22 22 LOS ANGELES CHARGERS Hampton, Omarion RB North Carolina"
+          ],
+          "title": "2025 NFL Draft Day 1 Reports"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN bio identifies Clayton, North Carolina, as Hampton's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685382/omarion-hampton",
+          "excerpts": [
+            "Birthdate 3/16/2003 (23)\n\nCollege [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels)\n\nDraft Info 2025: Rd 1, Pk 22 (LAC)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Clayton, NC\n\n### Career History\n\n[Los Angeles Chargers Los Angeles Chargers 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers)\n\nESPN"
+          ],
+          "title": "Omarion Hampton Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Chargers bio names Cleveland High School in Clayton and gives Hampton's high-school rushing totals and per-game and per-carry averages.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/chvpfwusdlsoge3lcefx",
+          "excerpts": [
+            "HIGH SCHOOL & PERSONAL: Attended Cleveland High School in Clayton, N.C....Named North Carolina Gatorade Player of the Year.. Tabbed The Charlotte Observer\u2019s Mr. Football for North Carolina... A two-time MaxPreps Player of the Year.. Rushed for 5,370 yards and 88 TDs during his prep Son of Leslie Hampton and Cory Chappell...",
+            "Averaged 10.4 yards per carry and 127.8 yards per game.. Also caught 28 passes for 503 yards and eight TDs.\n\n# omarion hampton\n\n## **RUNNING BACK | NORTH CAROLINA** 6-0 | 220 lbs | CLAYTON, N.C."
+          ],
+          "title": "Omarion Hampton Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The game recap says Hampton scored four rushing touchdowns and a 49-yard touchdown reception against Florida State, for five total scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401635602",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401635602)\n\n# Hampton scores 5 TDs, Brown gets first win over Florida State as North Carolina rolls to 35-11 win\n\n* * *\n\nBy AP\n\nNov 2, 2024, 09:08 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Omarion Hampton](http://www.espn.com/college-football/player/_/id/4685382/omarion-hampton) had four touchdown runs and a 49-yard TD reception as North Carolina cruised to a 35-11 victory over Florida State on Saturday.\n\nHampton racked up 172 rushing yards and 93 receiving yards and now has 14 touchdowns for UNC (5-4, 2/3 Atlantic Coast Conference).\n\nHampton is a man of many yards but not so many words."
+          ],
+          "title": "North Carolina 35-11 Florida State (Nov 2, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that Hampton's 2,033 all-purpose yards set North Carolina's single-season record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42994249/unc-tar-heels-rb-omarion-hampton-declares-2025-nfl-draft",
+          "excerpts": [
+            "Hampton finished second in the country in rushing behind [Ashton Jeanty](https://www.espn.com/college-football/player/_/id/4890973/ashton-jeanty) with 1,660 yards in 12 games, with 15 touchdown runs. He set a new school single-season record with his 2,033 all-purpose yards, surpassing the previous mark of 2,021 set by Don McCauley in 1970.\n\nThe junior has rushed for 3,565 career yards, ranking fourth all-time in school history.\n\nMel Kiper Jr. has Hampton ranked as the [No."
+          ],
+          "title": "UNC RB Omarion Hampton declares for 2025 NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Chargers' announcement says Hampton recorded 19 100-yard rushing games, the third-most nationally over his three-year college career.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/io02pfiftwymztw0suvj",
+          "excerpts": [
+            "**FOR IMMEDIATE RELEASE Thursday, April 24, 2025**\n\n## **Chargers Select Omarion Hampton in First Round of 2025 NFL Draft**\n\n### The Los Angeles Chargers selected North Carolina running back **Omarion Hampton** with the No. 22 overall pick in the 2025 NFL Draft. He is the eighth Tar Heel ever drafted by the Bolts and the first since 2010. Hampton finished his career at North Carolina as one of the most prolific running backs in college football, ranking No. 2 in the nation over the last two years with 3,164 rushing yards. He was the only back in the nation to eclipse at least 1,500 rushing yards and 15 rushing scores in each of the last two seasons, earning _Associated Press_ second-team All-America and first-team All-Atlantic Coast Conference recognition each year. Hampton totaled 19 100-yard rushing games, the third-most in the nation over his three-year career (2022-24). The Clayton, N.C., native was a two-time finalist for the Doak Walker Award (2023-24), which annually recognizes"
+          ],
+          "title": "Chargers Select Omarion Hampton in First Round of 2025 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

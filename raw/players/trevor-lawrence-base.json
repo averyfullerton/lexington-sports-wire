@@ -1,0 +1,159 @@
+{
+  "run_id": "trun_415f3f698c1f435b890203d6eb6b2f16",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 180.5,
+  "input": {
+    "player": "Trevor Lawrence",
+    "team": "Jacksonville Jaguars",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Clemson",
+    "fun_facts": [
+      "Trevor Lawrence was born in Cartersville, Georgia.",
+      "At Cartersville High, Trevor Lawrence helped his team win two state championships as a starter.",
+      "As a true freshman at Clemson, Trevor Lawrence helped the Tigers win the national championship.",
+      "At Clemson, Trevor Lawrence\u2019s teams went 34\u20132 in his starts, and he threw 90 career passing touchdowns.",
+      "At Cartersville High, Trevor Lawrence broke Georgia high-school career records with 13,908 passing yards and 161 touchdown passes."
+    ],
+    "draft": "2021, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars roster biography lists Clemson as Trevor Lawrence\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/team/players-roster/trevor-lawrence",
+          "excerpts": [
+            "Austin Trammell Bhayshul Tuten Cole Van Lanen Travon Walker Parker Washington CJ Williams Wesley Williams Michael Wortham Kilian Zierer\n\n# Trevor Lawrence\n\n### QB\n\n### \\#16\n\n**Experience:** 6 years\n\n**Height:** 6-6\n\n**Age:** 27\n\n**Weight:** 220 lbs\n\n**College:** Clemson\n\n[](https://twitter.com/Trevorlawrencee) [](https://www.instagram.com/tlawrence16/)\n\n## Biography\n\n**KEY TRANSACTIONS**\n\n* Originally drafted by Jacksonville in the first round (1st overall) in the 2021 draft\n* Signed a contract extension with Jacksonville on 6/14/24\n\nREAD MORE\n\n* [Summary](https://www.jaguars.com/team/players-roster/trevor-lawrence/index)\n* [Career](https://www.jaguars.com/team/players-roster/trevor-lawrence/career)"
+          ],
+          "title": "Trevor Lawrence"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the birthplace, high-school championships and records, and Clemson championship and career statistics stated in the list.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360310/trevor-lawrence",
+          "excerpts": [
+            "### Biography\n\nTeam [Jacksonville Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nPosition Quarterback\n\nHT/WT 6' 6\", 220 lbs\n\nBirthdate 10/6/1999 (27)\n\nCollege [Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers)\n\nDraft Info 2021: Rd 1, Pk 1 (JAX)\n\nStatus Active\n\nExperience 6th Season\n\nBirthplace Cartersville, GA"
+          ],
+          "title": "Trevor Lawrence Biography - ESPN"
+        },
+        {
+          "url": "https://www.jaguars.com/draft/2021",
+          "excerpts": [
+            "Advertising\n\n# Jacksonville Jaguars: NFL Draft\n\nYear 2026 2025 2024 2023 2022 2021 2020 2019\n\nROUND 7\n\n2021 NFL DRAFT HAS ENDED\n\n## Round 1\n\nPick 1 (1)\n\n### [Trevor Lawrence](https://www.jaguars.com/team/players-roster/trevor-lawrence/)\n\nQB Clemson\n\n6-5 213 LBS\n\nLawrence broke Deshaun Watson's Georgia high school career passing yards (13,908) and passing touchdowns (161) records, won two state titles as a starter and was the USA Today National Player of the Year as a senior."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        },
+        {
+          "url": "https://www.nfl.com/news/trevor-lawrence-jaguars-selected-no-1-overall-2021-nfl-draft",
+          "excerpts": [
+            "A three-year starter at Clemson, Lawrence generated 90 passing touchdowns in his college career. The Tigers went 34-2 in his 36 starts including three straight College Football Playoff appearances (winning it all in his freshman campaign in 2018)."
+          ],
+          "title": "Trevor Lawrence selected No. 1 overall by Jaguars in 2021 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars biography states Trevor Lawrence was originally drafted by Jacksonville in the first round (first overall) in the 2021 draft.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/team/players-roster/trevor-lawrence",
+          "excerpts": [
+            "Austin Trammell Bhayshul Tuten Cole Van Lanen Travon Walker Parker Washington CJ Williams Wesley Williams Michael Wortham Kilian Zierer\n\n# Trevor Lawrence\n\n### QB\n\n### \\#16\n\n**Experience:** 6 years\n\n**Height:** 6-6\n\n**Age:** 27\n\n**Weight:** 220 lbs\n\n**College:** Clemson\n\n[](https://twitter.com/Trevorlawrencee) [](https://www.instagram.com/tlawrence16/)\n\n## Biography\n\n**KEY TRANSACTIONS**\n\n* Originally drafted by Jacksonville in the first round (1st overall) in the 2021 draft\n* Signed a contract extension with Jacksonville on 6/14/24\n\nREAD MORE\n\n* [Summary](https://www.jaguars.com/team/players-roster/trevor-lawrence/index)\n* [Career](https://www.jaguars.com/team/players-roster/trevor-lawrence/career)"
+          ],
+          "title": "Trevor Lawrence"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies Cartersville, Georgia, as Trevor Lawrence\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360310/trevor-lawrence",
+          "excerpts": [
+            "### Biography\n\nTeam [Jacksonville Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nPosition Quarterback\n\nHT/WT 6' 6\", 220 lbs\n\nBirthdate 10/6/1999 (27)\n\nCollege [Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers)\n\nDraft Info 2021: Rd 1, Pk 1 (JAX)\n\nStatus Active\n\nExperience 6th Season\n\nBirthplace Cartersville, GA"
+          ],
+          "title": "Trevor Lawrence Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Jaguars draft profile says he won two state titles as a starter at Cartersville High.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2021",
+          "excerpts": [
+            "Advertising\n\n# Jacksonville Jaguars: NFL Draft\n\nYear 2026 2025 2024 2023 2022 2021 2020 2019\n\nROUND 7\n\n2021 NFL DRAFT HAS ENDED\n\n## Round 1\n\nPick 1 (1)\n\n### [Trevor Lawrence](https://www.jaguars.com/team/players-roster/trevor-lawrence/)\n\nQB Clemson\n\n6-5 213 LBS\n\nLawrence broke Deshaun Watson's Georgia high school career passing yards (13,908) and passing touchdowns (161) records, won two state titles as a starter and was the USA Today National Player of the Year as a senior."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL account says Clemson won the national championship in Lawrence\u2019s freshman campaign.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/trevor-lawrence-jaguars-selected-no-1-overall-2021-nfl-draft",
+          "excerpts": [
+            "A three-year starter at Clemson, Lawrence generated 90 passing touchdowns in his college career. The Tigers went 34-2 in his 36 starts including three straight College Football Playoff appearances (winning it all in his freshman campaign in 2018)."
+          ],
+          "title": "Trevor Lawrence selected No. 1 overall by Jaguars in 2021 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage states that Clemson went 34\u20132 in Lawrence\u2019s 36 starts and that he generated 90 passing touchdowns in his college career.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/trevor-lawrence-jaguars-selected-no-1-overall-2021-nfl-draft",
+          "excerpts": [
+            "A three-year starter at Clemson, Lawrence generated 90 passing touchdowns in his college career. The Tigers went 34-2 in his 36 starts including three straight College Football Playoff appearances (winning it all in his freshman campaign in 2018)."
+          ],
+          "title": "Trevor Lawrence selected No. 1 overall by Jaguars in 2021 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Jaguars profile says Lawrence broke Georgia high-school career passing-yard and passing-touchdown records, listing 13,908 yards and 161 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2021",
+          "excerpts": [
+            "Advertising\n\n# Jacksonville Jaguars: NFL Draft\n\nYear 2026 2025 2024 2023 2022 2021 2020 2019\n\nROUND 7\n\n2021 NFL DRAFT HAS ENDED\n\n## Round 1\n\nPick 1 (1)\n\n### [Trevor Lawrence](https://www.jaguars.com/team/players-roster/trevor-lawrence/)\n\nQB Clemson\n\n6-5 213 LBS\n\nLawrence broke Deshaun Watson's Georgia high school career passing yards (13,908) and passing touchdowns (161) records, won two state titles as a starter and was the USA Today National Player of the Year as a senior."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Josh Allen",
+  "espn_id": "3918298",
+  "team": "Buffalo Bills",
+  "team_abbr": "BUF",
+  "number": "17",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Wyoming",
+  "experience": 9,
+  "fun_facts": [
+    "Josh played football, baseball, basketball, golf, gymnastics, karate, and swam growing up.",
+    "Josh pitched a baseball at 90 miles per hour in high school.",
+    "Josh set an NFL record in 2023 with 11 games with passing and rushing touchdowns."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2018",
+        "BUF",
+        "12",
+        "169",
+        "320",
+        "2,074",
+        "10",
+        "12"
+      ],
+      [
+        "2019",
+        "BUF",
+        "16",
+        "271",
+        "461",
+        "3,089",
+        "20",
+        "9"
+      ],
+      [
+        "2020",
+        "BUF",
+        "16",
+        "396",
+        "572",
+        "4,544",
+        "37",
+        "10"
+      ],
+      [
+        "2021",
+        "BUF",
+        "17",
+        "409",
+        "646",
+        "4,407",
+        "36",
+        "15"
+      ],
+      [
+        "2022",
+        "BUF",
+        "16",
+        "359",
+        "567",
+        "4,283",
+        "35",
+        "14"
+      ],
+      [
+        "2023",
+        "BUF",
+        "17",
+        "385",
+        "579",
+        "4,306",
+        "29",
+        "18"
+      ],
+      [
+        "2024",
+        "BUF",
+        "17",
+        "307",
+        "483",
+        "3,731",
+        "28",
+        "6"
+      ],
+      [
+        "2025",
+        "BUF",
+        "17",
+        "319",
+        "460",
+        "3,668",
+        "25",
+        "10"
+      ],
+      [
+        "2026",
+        "BUF",
+        "9",
+        "167",
+        "257",
+        "2,223",
+        "13",
+        "7"
+      ]
+    ]
+  }
+}

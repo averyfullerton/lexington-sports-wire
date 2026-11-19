@@ -1,0 +1,161 @@
+{
+  "name": "Geno Smith",
+  "espn_id": "15864",
+  "team": "New York Jets",
+  "team_abbr": "NYJ",
+  "number": "7",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "West Virginia",
+  "experience": 14,
+  "fun_facts": [
+    "Geno chose football over a spot at an art school.",
+    "Geno set college records with 656 passing yards and eight touchdown passes in one game.",
+    "Geno led the nation with 42 touchdown passes in college in 2012."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2013",
+        "NYJ",
+        "16",
+        "247",
+        "443",
+        "3,046",
+        "12",
+        "21"
+      ],
+      [
+        "2014",
+        "NYJ",
+        "14",
+        "219",
+        "367",
+        "2,525",
+        "13",
+        "13"
+      ],
+      [
+        "2015",
+        "NYJ",
+        "1",
+        "27",
+        "42",
+        "265",
+        "2",
+        "1"
+      ],
+      [
+        "2016",
+        "NYJ",
+        "2",
+        "8",
+        "14",
+        "126",
+        "1",
+        "1"
+      ],
+      [
+        "2017",
+        "NYG",
+        "2",
+        "21",
+        "36",
+        "212",
+        "1",
+        "0"
+      ],
+      [
+        "2018",
+        "LAC",
+        "5",
+        "1",
+        "4",
+        "8",
+        "0",
+        "0"
+      ],
+      [
+        "2020",
+        "SEA",
+        "1",
+        "4",
+        "5",
+        "33",
+        "0",
+        "0"
+      ],
+      [
+        "2021",
+        "SEA",
+        "4",
+        "65",
+        "95",
+        "702",
+        "5",
+        "1"
+      ],
+      [
+        "2022",
+        "SEA",
+        "17",
+        "399",
+        "572",
+        "4,282",
+        "30",
+        "11"
+      ],
+      [
+        "2023",
+        "SEA",
+        "15",
+        "323",
+        "499",
+        "3,624",
+        "20",
+        "9"
+      ],
+      [
+        "2024",
+        "SEA",
+        "17",
+        "407",
+        "578",
+        "4,320",
+        "21",
+        "15"
+      ],
+      [
+        "2025",
+        "LV",
+        "15",
+        "302",
+        "448",
+        "3,025",
+        "19",
+        "17"
+      ],
+      [
+        "2026",
+        "NYJ",
+        "10",
+        "196",
+        "292",
+        "2,226",
+        "12",
+        "3"
+      ]
+    ]
+  }
+}

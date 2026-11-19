@@ -1,0 +1,93 @@
+{
+  "name": "Justin Jefferson",
+  "espn_id": "4262921",
+  "team": "Minnesota Vikings",
+  "team_abbr": "MIN",
+  "number": "18",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "LSU",
+  "experience": 7,
+  "fun_facts": [
+    "Justin threw a football far and raced to catch it before it hit the ground.",
+    "He set an NFL rookie record with 1,400 receiving yards.",
+    "He was the youngest NFL player to reach 8,000 receiving yards."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2020",
+        "MIN",
+        "16",
+        "88",
+        "1,400",
+        "7",
+        "71"
+      ],
+      [
+        "2021",
+        "MIN",
+        "17",
+        "108",
+        "1,616",
+        "10",
+        "56"
+      ],
+      [
+        "2022",
+        "MIN",
+        "17",
+        "128",
+        "1,809",
+        "8",
+        "64"
+      ],
+      [
+        "2023",
+        "MIN",
+        "10",
+        "68",
+        "1,074",
+        "5",
+        "52"
+      ],
+      [
+        "2024",
+        "MIN",
+        "17",
+        "103",
+        "1,533",
+        "10",
+        "97"
+      ],
+      [
+        "2025",
+        "MIN",
+        "17",
+        "84",
+        "1,048",
+        "2",
+        "50"
+      ],
+      [
+        "2026",
+        "MIN",
+        "8",
+        "40",
+        "467",
+        "4",
+        "39"
+      ]
+    ]
+  }
+}

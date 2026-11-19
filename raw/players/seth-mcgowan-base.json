@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435bbd332211901a3f77",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 95.2,
+  "input": {
+    "player": "Seth McGowan",
+    "team": "Indianapolis Colts",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Kentucky",
+    "fun_facts": [
+      "Seth McGowan is from Mesquite, Texas, and attended Poteet High School.",
+      "In 2024, Seth McGowan rushed for 823 yards at New Mexico State, averaging 5.4 yards per carry.",
+      "At Kentucky in 2025, Seth McGowan scored 12 rushing touchdowns\u2014one of just four players in the SEC to reach that total.",
+      "Seth McGowan rushed for 104 yards and three touchdowns in Kentucky\u2019s 2025 win over Eastern Michigan.",
+      "Seth McGowan has had an NFL game with career highs of 12 carries and 77 rushing yards."
+    ],
+    "draft": "2026, round 7, pick 237"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s college-season listing shows Kentucky (UK) as Seth McGowan\u2019s latest listed college team, in 2025. ESPN\u2019s draft listing also identifies him as a Kentucky running back, supporting Kentucky as the requested last college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/stats/_/id/4686468/seth-mcgowan",
+          "excerpts": [
+            "|season |Team |\n| --- | --- |\n|2020 |OU [OU](https://www.espn.com/college-football/team/_/id/201/oklahoma-sooners) |\n|2024 |NMSU [NMSU](https://www.espn.com/college-football/team/_/id/166/new-mexico-state-aggies) |\n|2025 |UK [UK](https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats) |\n|Career | |"
+          ],
+          "title": "Seth McGowan Career Stats - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2026/story/_/id/48450484/indianapolis-colts-nfl-draft-picks-2026-selection-analysis-depth-chart",
+          "excerpts": [
+            "* * *\n\n## Round 7, No. 237 overall: [Seth McGowan](https://insider.espn.com/nfl/draft/player/_/id/111036/seth-mcgowan) , RB, Kentucky\n\n**My take:** The Colts lacked running back depth coming into the draft, and McGowan will be thrown into the mix to compete behind veteran [Jonathan Taylor](https://www.espn.com/nfl/player/_/id/4242335/jonathan-taylor) . McGowan is well-traveled, having been to five different schools following a 2021 arrest for armed robbery and assault and battery with a dangerous weapon. McGowan lit up the scoreboard in 2025, 12 touchdowns on 165 rushes.\n\n* * *\n\n## Round 7, No."
+          ],
+          "title": "Indianapolis Colts' 2026 NFL draft picks: Full list, analysis - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN recruiting profile gives Mesquite as his hometown and Poteet High School as his school. ESPN\u2019s account gives his 2024 New Mexico State rushing total and average, and reports his 2025 Kentucky touchdown total and SEC comparison. ESPN\u2019s game recap states his rushing yards and touchdowns against Eastern Michigan. NFL.com reports his single-game career highs of 12 carries and 77 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/233646/seth-mcgowan",
+          "excerpts": [
+            "# Seth McGowan\n\n* \n\n5-11, 201 | Class of 2020\n\n* Hometown [Mesquite, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/6544/class/2020)\n* School [Poteet High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2020/highschool/11028)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2020)\n* Status Signed [Oklahoma](https://www.espn.com/college-sports/football/recruiting/school/_/id/201) 06/06/2019\n\n#### Scout Grade\n\n* 83\n*"
+          ],
+          "title": "Seth McGowan Running Back Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/48647017/nfl-draft-indianapolis-colts-seth-mcgowan-arrest-new-start",
+          "excerpts": [
+            "He went on to rush for a career-high 823 yards, averaging 5.4 yards per rush. In 2025, he transferred to Kentucky and established himself as one of the more physical rushers in the SEC. He ran for 12 touchdowns, one of just four players in the conference to do so.\n\nOn Saturday, McGowan was in a familiar predicament: waiting."
+          ],
+          "title": "After 'unfortunate decision,' Colts' Seth McGowan eyes fresh start - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401752698",
+          "excerpts": [
+            "# McGowan runs for 3 TDs, Boley passes for 2 scores as Kentucky beats E. Michigan 48-23\n\n* * *\n\nBy AP\n\nSep 14, 2025, 12:08 am\n\nFacebook Facebook Messenger Twitter Email\n\nLEXINGTON, Ky. -- \u2014 [Seth McGowan](http://www.espn.com/college-football/player/_/id/4686468/seth-mcgowan) rushed for 104 yards and three touchdowns, [Cutter Boley](http://www.espn.com/college-football/player/_/id/5141378/cutter-boley) threw two touchdown passes in his first start of the season, and Kentucky to a 48-23 win over Eastern Michigan on Saturday night.\n\nBoley replaced [Zach Calzada](http://www.espn.com/college-football/player/_/id/4426847/zach-calzada) , who started Kentucky\u2019s first two games but injured his right shoulder late in"
+          ],
+          "title": "Kentucky 48-23 Eastern Michigan (Sep 13, 2025) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/with-colts-pass-game-broken-rookie-seth-mcgowan-is-giving-the-backfield-a-boost",
+          "excerpts": [
+            "Taylor totaled 16 carries for 83 yards, while McGowan notched career highs of 12 carries and 77 yards."
+          ],
+          "title": "With Colts' pass game broken, rookie Seth McGowan is giving the backfield a boost | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "NFL.com\u2019s 2026 draft list names Seth McGowan at No. 237 in Round 7, which supports the stated draft year, round, and pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-draft-final-snap-grades-for-every-team",
+          "excerpts": [
+            "156): Edge [George Gumbs Jr.](https://www.nfl.com/prospects/george-gumbs-jr/32004755-4d48-7168-11b7-d4795d8a7e60) , Florida\n* **Round 6** (No. 214): Edge [Caden Curry](https://www.nfl.com/prospects/caden-curry/32004355-5243-2980-b193-88a03dae0337) , Ohio State\n* **Round 7** (No. 237): RB [Seth McGowan](https://www.nfl.com/prospects/seth-mcgowan/32004d43-4754-7540-65ee-9a2adef16080) , Kentucky\n* **Round 7** (No. 254): WR [Deion Burks](https://www.nfl.com/prospects/deion-burks/32004255-5227-1406-efca-4967eba16df2) , Oklahoma\n\n#### Grades:\n\n* **[Day 1:](https://www.nfl.com/news/2026-nfl-draft-snap-grades-for-every-team-after-day-1)**"
+          ],
+          "title": "2026 NFL Draft: Final snap grades for every team | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN recruiting profile lists Mesquite, Texas, as Seth McGowan\u2019s hometown and Poteet High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/233646/seth-mcgowan",
+          "excerpts": [
+            "# Seth McGowan\n\n* \n\n5-11, 201 | Class of 2020\n\n* Hometown [Mesquite, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/6544/class/2020)\n* School [Poteet High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2020/highschool/11028)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2020)\n* Status Signed [Oklahoma](https://www.espn.com/college-sports/football/recruiting/school/_/id/201) 06/06/2019\n\n#### Scout Grade\n\n* 83\n*"
+          ],
+          "title": "Seth McGowan Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN reports that Seth McGowan rushed for 823 yards at New Mexico State in 2024, averaging 5.4 yards per carry.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/48647017/nfl-draft-indianapolis-colts-seth-mcgowan-arrest-new-start",
+          "excerpts": [
+            "He went on to rush for a career-high 823 yards, averaging 5.4 yards per rush. In 2025, he transferred to Kentucky and established himself as one of the more physical rushers in the SEC. He ran for 12 touchdowns, one of just four players in the conference to do so.\n\nOn Saturday, McGowan was in a familiar predicament: waiting."
+          ],
+          "title": "After 'unfortunate decision,' Colts' Seth McGowan eyes fresh start - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that Seth McGowan scored 12 rushing touchdowns at Kentucky in 2025 and that only three other SEC players matched that total.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/48647017/nfl-draft-indianapolis-colts-seth-mcgowan-arrest-new-start",
+          "excerpts": [
+            "He went on to rush for a career-high 823 yards, averaging 5.4 yards per rush. In 2025, he transferred to Kentucky and established himself as one of the more physical rushers in the SEC. He ran for 12 touchdowns, one of just four players in the conference to do so.\n\nOn Saturday, McGowan was in a familiar predicament: waiting."
+          ],
+          "title": "After 'unfortunate decision,' Colts' Seth McGowan eyes fresh start - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN\u2019s recap states that Seth McGowan rushed for 104 yards and three touchdowns in Kentucky\u2019s 48\u201323 win over Eastern Michigan.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401752698",
+          "excerpts": [
+            "# McGowan runs for 3 TDs, Boley passes for 2 scores as Kentucky beats E. Michigan 48-23\n\n* * *\n\nBy AP\n\nSep 14, 2025, 12:08 am\n\nFacebook Facebook Messenger Twitter Email\n\nLEXINGTON, Ky. -- \u2014 [Seth McGowan](http://www.espn.com/college-football/player/_/id/4686468/seth-mcgowan) rushed for 104 yards and three touchdowns, [Cutter Boley](http://www.espn.com/college-football/player/_/id/5141378/cutter-boley) threw two touchdown passes in his first start of the season, and Kentucky to a 48-23 win over Eastern Michigan on Saturday night.\n\nBoley replaced [Zach Calzada](http://www.espn.com/college-football/player/_/id/4426847/zach-calzada) , who started Kentucky\u2019s first two games but injured his right shoulder late in"
+          ],
+          "title": "Kentucky 48-23 Eastern Michigan (Sep 13, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com reports that Seth McGowan set career highs of 12 carries and 77 yards in that game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/with-colts-pass-game-broken-rookie-seth-mcgowan-is-giving-the-backfield-a-boost",
+          "excerpts": [
+            "Taylor totaled 16 carries for 83 yards, while McGowan notched career highs of 12 carries and 77 yards."
+          ],
+          "title": "With Colts' pass game broken, rookie Seth McGowan is giving the backfield a boost | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

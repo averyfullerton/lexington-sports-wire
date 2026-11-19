@@ -1,0 +1,66 @@
+{
+  "name": "Parker Washington",
+  "espn_id": "4432620",
+  "team": "Jacksonville Jaguars",
+  "team_abbr": "JAX",
+  "number": "11",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Penn State",
+  "experience": 4,
+  "fun_facts": [
+    "Parker was a four-star recruit in high school.",
+    "He caught six touchdowns as a freshman at Penn State.",
+    "He made 146 catches in three seasons at Penn State."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "JAX",
+        "9",
+        "16",
+        "132",
+        "2",
+        "19"
+      ],
+      [
+        "2024",
+        "JAX",
+        "17",
+        "32",
+        "390",
+        "3",
+        "30"
+      ],
+      [
+        "2025",
+        "JAX",
+        "16",
+        "58",
+        "847",
+        "5",
+        "63"
+      ],
+      [
+        "2026",
+        "JAX",
+        "9",
+        "36",
+        "645",
+        "6",
+        "51"
+      ]
+    ]
+  }
+}

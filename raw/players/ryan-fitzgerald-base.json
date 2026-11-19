@@ -1,0 +1,169 @@
+{
+  "run_id": "trun_415f3f698c1f435ba1536061c75e1694",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 57.0,
+  "input": {
+    "player": "Ryan Fitzgerald",
+    "team": "Carolina Panthers",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "college": "Florida State",
+    "fun_facts": [
+      "Ryan Fitzgerald is from Coolidge, Georgia.",
+      "At Florida State, Ryan Fitzgerald made a 59-yard field goal in 2024; it was his career long and the second-longest in school history.",
+      "As a rookie, Ryan Fitzgerald made four game-winning field goals, tied for the most by any rookie since 2000.",
+      "Ryan Fitzgerald played in all 17 games in 2025 and was only the second rookie kicker in Panthers history.",
+      "Ryan Fitzgerald earned NFC Special Teams Player of the Week after making all three field-goal attempts\u2014including one from 55 yards\u2014and all three extra points in a win over Dallas."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "NFL.com\u2019s player profile identifies Florida State as Ryan Fitzgerald\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ryan-fitzgerald",
+          "excerpts": [
+            "# Ryan Fitzgerald Stats, News and Video - K | NFL.com\n\n# Ryan Fitzgerald\n\nK \u2022 \\#10\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ryan-fitzgerald/)\n* [Stats](https://www.nfl.com/players/ryan-fitzgerald/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  193\n* Arms\n  \n  30\n* Hands\n  \n  8 1/4\n\n* Experience\n  \n  2\n* College\n  \n  Florida State\n* Age\n  \n  26\n* Hometown\n  \n  Coolidge, GA\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Kickers in Week 10 Which leg should be in your lineup?"
+          ],
+          "title": "Ryan Fitzgerald Stats, News and Video - K | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Fitzgerald\u2019s hometown. ESPN reports that his 59-yard kick was his career long and the second-longest in Florida State history. The Panthers\u2019 media guide records four game-winning field goals, tied for the most by a rookie since 2000, and says he played all 17 games and was the team\u2019s second rookie kicker. The NFL\u2019s Week 6 announcement names him NFC Player of the Week and describes his three field goals, 55-yarder, and three extra points against Dallas.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ryan-fitzgerald",
+          "excerpts": [
+            "# Ryan Fitzgerald Stats, News and Video - K | NFL.com\n\n# Ryan Fitzgerald\n\nK \u2022 \\#10\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ryan-fitzgerald/)\n* [Stats](https://www.nfl.com/players/ryan-fitzgerald/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  193\n* Arms\n  \n  30\n* Hands\n  \n  8 1/4\n\n* Experience\n  \n  2\n* College\n  \n  Florida State\n* Age\n  \n  26\n* Hometown\n  \n  Coolidge, GA\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Kickers in Week 10 Which leg should be in your lineup?"
+          ],
+          "title": "Ryan Fitzgerald Stats, News and Video - K | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40979435/georgia-tech-stuns-no-10-florida-state-late-field-goal",
+          "excerpts": [
+            "Birr came on with five seconds left to hit the winner that just stayed inside the left upright.\n\nUiagalelei completed 19 of 27 passes for 193 yards in his Florida State debut, hitting mostly shorter passes until the late fourth-down plays.\n\n[Ryan Fitzgerald](https://www.espn.com/college-football/player/_/id/4568263/ryan-fitzgerald) made a 59-yard field goal, a career long and the second longest in school history, just before halftime to tie the game at 14. Fitzgerald had a 52-yarder earlier.\n\nThe teams had just seven drives apiece."
+          ],
+          "title": "Georgia Tech stuns No. 10 Florida State on late field goal - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/league/apps/league-site/media-guides/2026/Carolina-Panthers-2026-Media-Guide.pdf",
+          "excerpts": [
+            "Undrafted rookie kicker Ryan Fitzgerald converted four game-winning field goals, tied for the most by any rookie since 2000.",
+            "**ADMIN & COACHES VETERAN PLAYERS DRAFT & OFAS 2025 SEASON REVIEW TEAM HISTORY MISC.**\n\n# Ryan Fitzgerald 10\n\n### **KICKER**\n\n**Florida State | Coolidge, Ga.**\n\nPRO CAREER\n\n**2025 (Panthers):** Only the second rookie kicker in Panthers history, he appeared in all 17 games as an undrafted rookie\u2026 Connected on 24-of-29 field goal attempts (82.8%) and 27- of-30 extra"
+          ],
+          "title": "Carolina Panthers 2026 Media Guide"
+        },
+        {
+          "url": "https://media.nfl.com/football-information/2025/awards/week-6---nfc-players-of-the-week",
+          "excerpts": [
+            "# Bijan Robinson, Jamel Dean & Ryan Fitzgerald Named Week 6 NFC Players of the Week\n\nAwards Players of the Week Week 06 Football Communications\n\nOct 15, 2025\n\nShare\n\n**NEW YORK \u2014** **Oct. 15, 2025** \u2014 Atlanta Falcons running back **Bijan Robinson** , Tampa Bay Buccaneers cornerback **Jamel Dean** and Carolina Panthers kicker **Ryan Fitzgerald** are the NFC Offensive, Defensive and",
+            "* Fitzgerald converted all three of his field goal attempts \u2013 including one from 55 yards \u2013 as well as all three of his point-after attempts in Carolina\u2019s 30-27 victory over Dallas. His 55-yard field goal marked the longest in the NFC in Week 6.\n* This is Fitzpatrick\u2019s first-career Player of the Week Award, becoming the third Panthers rookie to earn the honor in the past"
+          ],
+          "title": "Week 6 - NFC Players of the Week"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Panthers\u2019 media guide explicitly describes Ryan Fitzgerald as an undrafted rookie, so he was not selected in the NFL draft.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/league/apps/league-site/media-guides/2026/Carolina-Panthers-2026-Media-Guide.pdf",
+          "excerpts": [
+            "Undrafted rookie kicker Ryan Fitzgerald converted four game-winning field goals, tied for the most by any rookie since 2000."
+          ],
+          "title": "Carolina Panthers 2026 Media Guide"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL.com profile lists Coolidge, Georgia, as Fitzgerald\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ryan-fitzgerald",
+          "excerpts": [
+            "# Ryan Fitzgerald Stats, News and Video - K | NFL.com\n\n# Ryan Fitzgerald\n\nK \u2022 \\#10\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ryan-fitzgerald/)\n* [Stats](https://www.nfl.com/players/ryan-fitzgerald/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  193\n* Arms\n  \n  30\n* Hands\n  \n  8 1/4\n\n* Experience\n  \n  2\n* College\n  \n  Florida State\n* Age\n  \n  26\n* Hometown\n  \n  Coolidge, GA\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Kickers in Week 10 Which leg should be in your lineup?"
+          ],
+          "title": "Ryan Fitzgerald Stats, News and Video - K | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN reports that Fitzgerald\u2019s 59-yard field goal was his career long and the second-longest in Florida State history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40979435/georgia-tech-stuns-no-10-florida-state-late-field-goal",
+          "excerpts": [
+            "Birr came on with five seconds left to hit the winner that just stayed inside the left upright.\n\nUiagalelei completed 19 of 27 passes for 193 yards in his Florida State debut, hitting mostly shorter passes until the late fourth-down plays.\n\n[Ryan Fitzgerald](https://www.espn.com/college-football/player/_/id/4568263/ryan-fitzgerald) made a 59-yard field goal, a career long and the second longest in school history, just before halftime to tie the game at 14. Fitzgerald had a 52-yarder earlier.\n\nThe teams had just seven drives apiece."
+          ],
+          "title": "Georgia Tech stuns No. 10 Florida State on late field goal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Panthers\u2019 media guide says Fitzgerald made four game-winning field goals, tied for the most by a rookie since 2000.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/league/apps/league-site/media-guides/2026/Carolina-Panthers-2026-Media-Guide.pdf",
+          "excerpts": [
+            "Undrafted rookie kicker Ryan Fitzgerald converted four game-winning field goals, tied for the most by any rookie since 2000."
+          ],
+          "title": "Carolina Panthers 2026 Media Guide"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Panthers\u2019 media guide says Fitzgerald appeared in all 17 games in 2025 and was only the second rookie kicker in team history.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/league/apps/league-site/media-guides/2026/Carolina-Panthers-2026-Media-Guide.pdf",
+          "excerpts": [
+            "**ADMIN & COACHES VETERAN PLAYERS DRAFT & OFAS 2025 SEASON REVIEW TEAM HISTORY MISC.**\n\n# Ryan Fitzgerald 10\n\n### **KICKER**\n\n**Florida State | Coolidge, Ga.**\n\nPRO CAREER\n\n**2025 (Panthers):** Only the second rookie kicker in Panthers history, he appeared in all 17 games as an undrafted rookie\u2026 Connected on 24-of-29 field goal attempts (82.8%) and 27- of-30 extra"
+          ],
+          "title": "Carolina Panthers 2026 Media Guide"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL\u2019s Week 6 announcement names Fitzgerald as an NFC Player of the Week and says he made all three field goals, including a 55-yarder, and all three extra points against Dallas.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/football-information/2025/awards/week-6---nfc-players-of-the-week",
+          "excerpts": [
+            "# Bijan Robinson, Jamel Dean & Ryan Fitzgerald Named Week 6 NFC Players of the Week\n\nAwards Players of the Week Week 06 Football Communications\n\nOct 15, 2025\n\nShare\n\n**NEW YORK \u2014** **Oct. 15, 2025** \u2014 Atlanta Falcons running back **Bijan Robinson** , Tampa Bay Buccaneers cornerback **Jamel Dean** and Carolina Panthers kicker **Ryan Fitzgerald** are the NFC Offensive, Defensive and",
+            "* Fitzgerald converted all three of his field goal attempts \u2013 including one from 55 yards \u2013 as well as all three of his point-after attempts in Carolina\u2019s 30-27 victory over Dallas. His 55-yard field goal marked the longest in the NFC in Week 6.\n* This is Fitzpatrick\u2019s first-career Player of the Week Award, becoming the third Panthers rookie to earn the honor in the past"
+          ],
+          "title": "Week 6 - NFC Players of the Week"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.1"
+    ],
+    "off_allowlist_citations": []
+  }
+}

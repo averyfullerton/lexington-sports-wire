@@ -1,0 +1,413 @@
+{
+  "run_id": "trun_1714e31eeb204d3285ce7dd38c4523d7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 221.0,
+  "input": {
+    "away_team": "Pittsburgh Steelers",
+    "home_team": "Philadelphia Eagles",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "6-3",
+    "away_team": "Pittsburgh Steelers",
+    "storyline": "Pittsburgh enters after an 18\u201338 Week 10 loss, while Philadelphia returns from a bye at 2\u20137 after a seven-game skid and with Joe Milton named its Week 11 starting quarterback.",
+    "matchup_notes": [
+      "Pittsburgh lost 38\u201318 to Cincinnati in Week 10; the Bengals were 7\u20132 and the Steelers 6\u20133.",
+      "Philadelphia's last result before its bye was a 19\u201311 loss to the Giants, its seventh straight defeat.",
+      "The Eagles had a Week 10 bye and are fourth in the NFC East at 2\u20137.",
+      "Philadelphia has named Joe Milton its starting quarterback for Week 11."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,014 passing yards, 15 TD, 6 INT",
+        "team": "Pittsburgh Steelers",
+        "name": "Aaron Rodgers"
+      },
+      {
+        "stat_line": "432 receiving yards, 35 receptions, 2 TD",
+        "team": "Pittsburgh Steelers",
+        "name": "DK Metcalf"
+      },
+      {
+        "stat_line": "296 rushing yards, 69 carries, 3 TD",
+        "team": "Philadelphia Eagles",
+        "name": "Saquon Barkley"
+      },
+      {
+        "stat_line": "312 receiving yards, 37 receptions, 1 TD",
+        "team": "Philadelphia Eagles",
+        "name": "Makai Lemon"
+      }
+    ],
+    "home_record": "2-7",
+    "home_team": "Philadelphia Eagles",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game-center listing gives Pittsburgh's record as 6-3.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nPittsburgh Steelers\n\nPIT\n\nPittsburgh Steelers\n\nSTEELERS\n\nPittsburgh Steelers\n\nPITTSBURGH\n\nSTEELERS\n\n6-3\n\n6 wins, 3 losses, 0 ties\n\nPhiladelphia Eagles\n\nPHI\n\nPhiladelphia Eagles\n\nEAGLES\n\nPhiladelphia Eagles\n\nPHILADELPHIA\n\nEAGLES\n\n2-7\n\n2 wins, 7 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nPittsburgh Steelers\n\nPhiladelphia Eagles\n\nPittsburgh Steelers, POINTS PER GAME, 22, ranked 19th.\n\n22\n\n19TH\n\nPOINTS PER GAME\n\nPhiladelphia Eagles, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nPittsburgh Steelers, YARDS PER GAME, 316.2, ranked 20th.\n\n316\\.2\n\n20TH\n\nYARDS PER GAME\n\nPhiladelphia Eagles, YARDS PER GAME, 260.2, ranked 32nd.\n\n260\\.2\n\n32ND"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing identifies the away team as the Pittsburgh Steelers.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nPittsburgh Steelers\n\nPIT\n\nPittsburgh Steelers\n\nSTEELERS\n\nPittsburgh Steelers\n\nPITTSBURGH\n\nSTEELERS\n\n6-3\n\n6 wins, 3 losses, 0 ties\n\nPhiladelphia Eagles\n\nPHI\n\nPhiladelphia Eagles\n\nEAGLES\n\nPhiladelphia Eagles\n\nPHILADELPHIA\n\nEAGLES\n\n2-7\n\n2 wins, 7 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nPittsburgh Steelers\n\nPhiladelphia Eagles\n\nPittsburgh Steelers, POINTS PER GAME, 22, ranked 19th.\n\n22\n\n19TH\n\nPOINTS PER GAME\n\nPhiladelphia Eagles, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nPittsburgh Steelers, YARDS PER GAME, 316.2, ranked 20th.\n\n316\\.2\n\n20TH\n\nYARDS PER GAME\n\nPhiladelphia Eagles, YARDS PER GAME, 260.2, ranked 32nd.\n\n260\\.2\n\n32ND"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The sources establish Pittsburgh's Week 10 loss, Philadelphia's seven-game losing streak and Week 10 bye, and Joe Milton's Week 11 starting-quarterback nod.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Pittsburgh Steelers and the Cincinnati Bengals during the 2026 NFL season.\n\nSCORE\n\n18\n\n[Pittsburgh Steelers 6-3](https://www.nfl.com/teams/pittsburgh-steelers)\n\nSCORE\n\n38\n\n[Cincinnati Bengals 7-2](https://www.nfl.com/teams/cincinnati-bengals)\n\n**REWATCH:** [Steelers-Bengals on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://espn.com/nfl/recap/_/gameId/401873044",
+          "excerpts": [
+            "# Winston, McCarthy combine to lead Giants to 19-11 win and hand Eagles 7th straight loss\n\n* * *\n\nBy AP\n\nNov 8, 2026, 04:38 pm\n\nFacebook Facebook Messenger Twitter Email\n\nPHILADELPHIA -- \u2014 [Jameis Winston](http://www.espn.com/nfl/player/_/id/2969939/jameis-winston) replaced the injured [J.J.",
+            "Giants](http://www.espn.com/nfl/team/_/name/nyg/new-york-giants) keep their grip on the NFC East and beat Philadelphia 19-11 on Sunday to hand the Eagles their seventh straight loss."
+          ],
+          "title": "Giants 19-11 Eagles (Nov 8, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-nfc-east-playoff-race-week-11-giants-cowboys-eagles",
+          "excerpts": [
+            "Advertising\n\n# News | Washington Commanders - Commanders.com\n\n# NFC East roundup | Still alive in the division race\n\nNov 19, 2026 at 11:53 AM\n\n[Hayley Salvatore](https://www.commanders.com/author/hayley-salvatore)\n\nContributor\n\n* \n* \n* \n*\n\nEmily Faith Morgan/Washington Commanders\n\nWeek 10 of the 2026 NFL season saw the Washington Commanders face off against the New York Giants on Thursday Night Football, the Dallas Cowboys hosted the San Francisco 49ers. The Philadelphia Eagles rested up on a bye week.\n\nNFC East Standings:\n\n1. New York Giants (5-3-1; Point differential: +7)\n\n1. Dallas Cowboys (4-6; Point differential: +4)\n\n1. Washington Commanders (3-5-1; Point differential: -27)\n\n1. Philadelphia Eagles (2-7; Point differential: -73)"
+          ],
+          "title": "NFC East roundup | Still alive in the division race"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n* 18h\n\n0:30\n\n## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n## Eagles\n\n### NFL"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited Week 10 result and Eagles recap support the first two notes; the NFC East roundup states the bye and division position, and the Week 11 headline identifies Milton's starting role.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Pittsburgh Steelers and the Cincinnati Bengals during the 2026 NFL season.\n\nSCORE\n\n18\n\n[Pittsburgh Steelers 6-3](https://www.nfl.com/teams/pittsburgh-steelers)\n\nSCORE\n\n38\n\n[Cincinnati Bengals 7-2](https://www.nfl.com/teams/cincinnati-bengals)\n\n**REWATCH:** [Steelers-Bengals on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://espn.com/nfl/recap/_/gameId/401873044",
+          "excerpts": [
+            "# Winston, McCarthy combine to lead Giants to 19-11 win and hand Eagles 7th straight loss\n\n* * *\n\nBy AP\n\nNov 8, 2026, 04:38 pm\n\nFacebook Facebook Messenger Twitter Email\n\nPHILADELPHIA -- \u2014 [Jameis Winston](http://www.espn.com/nfl/player/_/id/2969939/jameis-winston) replaced the injured [J.J.",
+            "Giants](http://www.espn.com/nfl/team/_/name/nyg/new-york-giants) keep their grip on the NFC East and beat Philadelphia 19-11 on Sunday to hand the Eagles their seventh straight loss."
+          ],
+          "title": "Giants 19-11 Eagles (Nov 8, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-nfc-east-playoff-race-week-11-giants-cowboys-eagles",
+          "excerpts": [
+            "Advertising\n\n# News | Washington Commanders - Commanders.com\n\n# NFC East roundup | Still alive in the division race\n\nNov 19, 2026 at 11:53 AM\n\n[Hayley Salvatore](https://www.commanders.com/author/hayley-salvatore)\n\nContributor\n\n* \n* \n* \n*\n\nEmily Faith Morgan/Washington Commanders\n\nWeek 10 of the 2026 NFL season saw the Washington Commanders face off against the New York Giants on Thursday Night Football, the Dallas Cowboys hosted the San Francisco 49ers. The Philadelphia Eagles rested up on a bye week.\n\nNFC East Standings:\n\n1. New York Giants (5-3-1; Point differential: +7)\n\n1. Dallas Cowboys (4-6; Point differential: +4)\n\n1. Washington Commanders (3-5-1; Point differential: -27)\n\n1. Philadelphia Eagles (2-7; Point differential: -73)"
+          ],
+          "title": "NFC East roundup | Still alive in the division race"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n* 18h\n\n0:30\n\n## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n## Eagles\n\n### NFL"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The team-stat listings identify the players, and the game-center team leaders give the season-to-date passing, rushing, and receiving figures included for them.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/pit/pittsburgh-steelers",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB 2,014](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) [## Rushing Yards Jaylen Warren ### Jaylen Warren RB",
+            "* TD: Passing Touchdowns\n* INT: Interceptions\n* SACK: Total Sacks\n* SYL: Sack Yards Lost\n* RTG: Passer Rating\n* CAR: Rushing Attempts\n* YDS: Rushing Yards\n* AVG: Yards Per Rush Attempt",
+            "* LST: Rushing Fumbles Lost\n* FD: Rushing 1st downs\n* REC: Receptions\n* TGTS: Receiving Targets\n* YDS: Receiving Yards\n* AVG: Yards Per Reception\n* TD: Receiving Touchdowns\n* LNG: Long Reception"
+          ],
+          "title": "Pittsburgh Steelers 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/pit/season/2026/seasontype/2/sort/rushingYards",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB 1,871](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) [## Rushing Yards Jaylen Warren ### Jaylen Warren RB 704](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) [## Receiving Yards DK Metcalf ### DK Metcalf WR 378](https://www.espn.com/nfl/player/_/id/4047650/dk-metcalf) [## Tackles"
+          ],
+          "title": "Pittsburgh Steelers 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/phi",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Jalen Hurts ### Jalen Hurts QB 933](https://www.espn.com/nfl/player/_/id/4040715/jalen-hurts) [## Rushing Yards Saquon Barkley ### Saquon Barkley RB 296](https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley) [## Receiving Yards Makai Lemon ### Makai Lemon WR 312](https://www.espn.com/nfl/player/_/id/4870795/makai-lemon) [## Tackles Zack",
+            "* TGTS: Receiving Targets\n* YDS: Receiving Yards\n* AVG: Yards Per Reception\n* TD: Receiving Touchdowns\n* LNG: Long Reception\n* BIG: 20+ Yard Receiving Plays\n* YDS/G: Receiving Yards Per Game"
+          ],
+          "title": "Philadelphia Eagles 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "## TEAM LEADERS\n\nPASSING\n\n[A. Rodgers 2014 YDS 59\\.9%CMP 15TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)\n\nPASSING\n\n[J. Hurts 933 YDS 57\\.8%CMP 8TD 3INT](https://www.nfl.com/players/jalen-hurts/stats)\n\nRUSHING\n\n[D. Warren 719 YDS 126ATT 2TD 5\\.7AVG](https://www.nfl.com/players/jaylen-warren/stats)\n\nRUSHING\n\n[S. Barkley 296 YDS 69ATT 3TD 4\\.3AVG](https://www.nfl.com/players/saquon-barkley/stats)\n\nRECEIVING\n\n[D. Metcalf 432 YDS 35REC 2TD 12\\.3AVG](https://www.nfl.com/players/dk-metcalf/stats)\n\nRECEIVING\n\n[M. Lemon 312 YDS 37REC 1TD 8\\.4AVG](https://www.nfl.com/players/makai-lemon/stats)\n\n## Injury Report\n\nSteelers\n\n### Steelers\n\nSteelers\u2019 Injury Report is not available at this time.\n\nEagles\n\n### Eagles"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game-center listing gives Philadelphia's record as 2-7.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nPittsburgh Steelers\n\nPIT\n\nPittsburgh Steelers\n\nSTEELERS\n\nPittsburgh Steelers\n\nPITTSBURGH\n\nSTEELERS\n\n6-3\n\n6 wins, 3 losses, 0 ties\n\nPhiladelphia Eagles\n\nPHI\n\nPhiladelphia Eagles\n\nEAGLES\n\nPhiladelphia Eagles\n\nPHILADELPHIA\n\nEAGLES\n\n2-7\n\n2 wins, 7 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nPittsburgh Steelers\n\nPhiladelphia Eagles\n\nPittsburgh Steelers, POINTS PER GAME, 22, ranked 19th.\n\n22\n\n19TH\n\nPOINTS PER GAME\n\nPhiladelphia Eagles, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nPittsburgh Steelers, YARDS PER GAME, 316.2, ranked 20th.\n\n316\\.2\n\n20TH\n\nYARDS PER GAME\n\nPhiladelphia Eagles, YARDS PER GAME, 260.2, ranked 32nd.\n\n260\\.2\n\n32ND"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing identifies the home team as the Philadelphia Eagles.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nPittsburgh Steelers\n\nPIT\n\nPittsburgh Steelers\n\nSTEELERS\n\nPittsburgh Steelers\n\nPITTSBURGH\n\nSTEELERS\n\n6-3\n\n6 wins, 3 losses, 0 ties\n\nPhiladelphia Eagles\n\nPHI\n\nPhiladelphia Eagles\n\nEAGLES\n\nPhiladelphia Eagles\n\nPHILADELPHIA\n\nEAGLES\n\n2-7\n\n2 wins, 7 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nPittsburgh Steelers\n\nPhiladelphia Eagles\n\nPittsburgh Steelers, POINTS PER GAME, 22, ranked 19th.\n\n22\n\n19TH\n\nPOINTS PER GAME\n\nPhiladelphia Eagles, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nPittsburgh Steelers, YARDS PER GAME, 316.2, ranked 20th.\n\n316\\.2\n\n20TH\n\nYARDS PER GAME\n\nPhiladelphia Eagles, YARDS PER GAME, 260.2, ranked 32nd.\n\n260\\.2\n\n32ND"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL schedule lists Steelers at Eagles for Sunday, November 22; that is after the stated current date of November 19, 2026.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "* [Steelers at Eagles, Sunday, November 22nd, 1:00 PM, CBS](https://www.nfl.com/games/steelers-at-eagles-2026-reg-11)\n  \n  LOCAL\n  \n  Pittsburgh Steelers Team Logo STEELERS\n  \n  Philadelphia Eagles Team Logo EAGLES\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Week 10 score listing shows Pittsburgh with 18 points and Cincinnati with 38, and gives their records as 6-3 and 7-2.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Pittsburgh Steelers and the Cincinnati Bengals during the 2026 NFL season.\n\nSCORE\n\n18\n\n[Pittsburgh Steelers 6-3](https://www.nfl.com/teams/pittsburgh-steelers)\n\nSCORE\n\n38\n\n[Cincinnati Bengals 7-2](https://www.nfl.com/teams/cincinnati-bengals)\n\n**REWATCH:** [Steelers-Bengals on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The recap states the Giants beat the Eagles 19-11 and describes it as Philadelphia's seventh straight loss.",
+      "citations": [
+        {
+          "url": "https://espn.com/nfl/recap/_/gameId/401873044",
+          "excerpts": [
+            "# Winston, McCarthy combine to lead Giants to 19-11 win and hand Eagles 7th straight loss\n\n* * *\n\nBy AP\n\nNov 8, 2026, 04:38 pm\n\nFacebook Facebook Messenger Twitter Email\n\nPHILADELPHIA -- \u2014 [Jameis Winston](http://www.espn.com/nfl/player/_/id/2969939/jameis-winston) replaced the injured [J.J.",
+            "Giants](http://www.espn.com/nfl/team/_/name/nyg/new-york-giants) keep their grip on the NFC East and beat Philadelphia 19-11 on Sunday to hand the Eagles their seventh straight loss."
+          ],
+          "title": "Giants 19-11 Eagles (Nov 8, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The NFC East roundup says Philadelphia rested on its Week 10 bye and lists the Eagles fourth in the division at 2-7.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-nfc-east-playoff-race-week-11-giants-cowboys-eagles",
+          "excerpts": [
+            "Advertising\n\n# News | Washington Commanders - Commanders.com\n\n# NFC East roundup | Still alive in the division race\n\nNov 19, 2026 at 11:53 AM\n\n[Hayley Salvatore](https://www.commanders.com/author/hayley-salvatore)\n\nContributor\n\n* \n* \n* \n*\n\nEmily Faith Morgan/Washington Commanders\n\nWeek 10 of the 2026 NFL season saw the Washington Commanders face off against the New York Giants on Thursday Night Football, the Dallas Cowboys hosted the San Francisco 49ers. The Philadelphia Eagles rested up on a bye week.\n\nNFC East Standings:\n\n1. New York Giants (5-3-1; Point differential: +7)\n\n1. Dallas Cowboys (4-6; Point differential: +4)\n\n1. Washington Commanders (3-5-1; Point differential: -27)\n\n1. Philadelphia Eagles (2-7; Point differential: -73)"
+          ],
+          "title": "NFC East roundup | Still alive in the division race"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The Week 11 headline reports that Joe Milton is getting the Eagles' starting quarterback nod.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n* 18h\n\n0:30\n\n## Nick Sirianni: Joe Milton getting starting QB nod in Week 11\n\n## Eagles\n\n### NFL"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The player-stat listing names Aaron Rodgers and shows his 2,014 passing yards; the game-center leader line gives his 15 TD and 6 INT.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/pit/pittsburgh-steelers",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB 2,014](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) [## Rushing Yards Jaylen Warren ### Jaylen Warren RB",
+            "* TD: Passing Touchdowns\n* INT: Interceptions\n* SACK: Total Sacks\n* SYL: Sack Yards Lost\n* RTG: Passer Rating\n* CAR: Rushing Attempts\n* YDS: Rushing Yards\n* AVG: Yards Per Rush Attempt",
+            "* LST: Rushing Fumbles Lost\n* FD: Rushing 1st downs\n* REC: Receptions\n* TGTS: Receiving Targets\n* YDS: Receiving Yards\n* AVG: Yards Per Reception\n* TD: Receiving Touchdowns\n* LNG: Long Reception"
+          ],
+          "title": "Pittsburgh Steelers 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "## TEAM LEADERS\n\nPASSING\n\n[A. Rodgers 2014 YDS 59\\.9%CMP 15TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)\n\nPASSING\n\n[J. Hurts 933 YDS 57\\.8%CMP 8TD 3INT](https://www.nfl.com/players/jalen-hurts/stats)\n\nRUSHING\n\n[D. Warren 719 YDS 126ATT 2TD 5\\.7AVG](https://www.nfl.com/players/jaylen-warren/stats)\n\nRUSHING\n\n[S. Barkley 296 YDS 69ATT 3TD 4\\.3AVG](https://www.nfl.com/players/saquon-barkley/stats)\n\nRECEIVING\n\n[D. Metcalf 432 YDS 35REC 2TD 12\\.3AVG](https://www.nfl.com/players/dk-metcalf/stats)\n\nRECEIVING\n\n[M. Lemon 312 YDS 37REC 1TD 8\\.4AVG](https://www.nfl.com/players/makai-lemon/stats)\n\n## Injury Report\n\nSteelers\n\n### Steelers\n\nSteelers\u2019 Injury Report is not available at this time.\n\nEagles\n\n### Eagles"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The Steelers' player-stat listing identifies DK Metcalf, and the game-center leader line reports 432 receiving yards, 35 receptions, and 2 TD.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/pit/season/2026/seasontype/2/sort/rushingYards",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB 1,871](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) [## Rushing Yards Jaylen Warren ### Jaylen Warren RB 704](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) [## Receiving Yards DK Metcalf ### DK Metcalf WR 378](https://www.espn.com/nfl/player/_/id/4047650/dk-metcalf) [## Tackles"
+          ],
+          "title": "Pittsburgh Steelers 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "## TEAM LEADERS\n\nPASSING\n\n[A. Rodgers 2014 YDS 59\\.9%CMP 15TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)\n\nPASSING\n\n[J. Hurts 933 YDS 57\\.8%CMP 8TD 3INT](https://www.nfl.com/players/jalen-hurts/stats)\n\nRUSHING\n\n[D. Warren 719 YDS 126ATT 2TD 5\\.7AVG](https://www.nfl.com/players/jaylen-warren/stats)\n\nRUSHING\n\n[S. Barkley 296 YDS 69ATT 3TD 4\\.3AVG](https://www.nfl.com/players/saquon-barkley/stats)\n\nRECEIVING\n\n[D. Metcalf 432 YDS 35REC 2TD 12\\.3AVG](https://www.nfl.com/players/dk-metcalf/stats)\n\nRECEIVING\n\n[M. Lemon 312 YDS 37REC 1TD 8\\.4AVG](https://www.nfl.com/players/makai-lemon/stats)\n\n## Injury Report\n\nSteelers\n\n### Steelers\n\nSteelers\u2019 Injury Report is not available at this time.\n\nEagles\n\n### Eagles"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The Eagles' player-stat listing identifies Saquon Barkley and his 296 rushing yards; the game-center leader line gives 69 carries and 3 TD.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/phi",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Jalen Hurts ### Jalen Hurts QB 933](https://www.espn.com/nfl/player/_/id/4040715/jalen-hurts) [## Rushing Yards Saquon Barkley ### Saquon Barkley RB 296](https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley) [## Receiving Yards Makai Lemon ### Makai Lemon WR 312](https://www.espn.com/nfl/player/_/id/4870795/makai-lemon) [## Tackles Zack",
+            "* TGTS: Receiving Targets\n* YDS: Receiving Yards\n* AVG: Yards Per Reception\n* TD: Receiving Touchdowns\n* LNG: Long Reception\n* BIG: 20+ Yard Receiving Plays\n* YDS/G: Receiving Yards Per Game"
+          ],
+          "title": "Philadelphia Eagles 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "## TEAM LEADERS\n\nPASSING\n\n[A. Rodgers 2014 YDS 59\\.9%CMP 15TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)\n\nPASSING\n\n[J. Hurts 933 YDS 57\\.8%CMP 8TD 3INT](https://www.nfl.com/players/jalen-hurts/stats)\n\nRUSHING\n\n[D. Warren 719 YDS 126ATT 2TD 5\\.7AVG](https://www.nfl.com/players/jaylen-warren/stats)\n\nRUSHING\n\n[S. Barkley 296 YDS 69ATT 3TD 4\\.3AVG](https://www.nfl.com/players/saquon-barkley/stats)\n\nRECEIVING\n\n[D. Metcalf 432 YDS 35REC 2TD 12\\.3AVG](https://www.nfl.com/players/dk-metcalf/stats)\n\nRECEIVING\n\n[M. Lemon 312 YDS 37REC 1TD 8\\.4AVG](https://www.nfl.com/players/makai-lemon/stats)\n\n## Injury Report\n\nSteelers\n\n### Steelers\n\nSteelers\u2019 Injury Report is not available at this time.\n\nEagles\n\n### Eagles"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The Eagles' player-stat listing identifies Makai Lemon and his 312 receiving yards; the game-center leader line gives 37 receptions and 1 TD.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/phi",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Jalen Hurts ### Jalen Hurts QB 933](https://www.espn.com/nfl/player/_/id/4040715/jalen-hurts) [## Rushing Yards Saquon Barkley ### Saquon Barkley RB 296](https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley) [## Receiving Yards Makai Lemon ### Makai Lemon WR 312](https://www.espn.com/nfl/player/_/id/4870795/makai-lemon) [## Tackles Zack",
+            "* TGTS: Receiving Targets\n* YDS: Receiving Yards\n* AVG: Yards Per Reception\n* TD: Receiving Touchdowns\n* LNG: Long Reception\n* BIG: 20+ Yard Receiving Plays\n* YDS/G: Receiving Yards Per Game"
+          ],
+          "title": "Philadelphia Eagles 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+          "excerpts": [
+            "## TEAM LEADERS\n\nPASSING\n\n[A. Rodgers 2014 YDS 59\\.9%CMP 15TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)\n\nPASSING\n\n[J. Hurts 933 YDS 57\\.8%CMP 8TD 3INT](https://www.nfl.com/players/jalen-hurts/stats)\n\nRUSHING\n\n[D. Warren 719 YDS 126ATT 2TD 5\\.7AVG](https://www.nfl.com/players/jaylen-warren/stats)\n\nRUSHING\n\n[S. Barkley 296 YDS 69ATT 3TD 4\\.3AVG](https://www.nfl.com/players/saquon-barkley/stats)\n\nRECEIVING\n\n[D. Metcalf 432 YDS 35REC 2TD 12\\.3AVG](https://www.nfl.com/players/dk-metcalf/stats)\n\nRECEIVING\n\n[M. Lemon 312 YDS 37REC 1TD 8\\.4AVG](https://www.nfl.com/players/makai-lemon/stats)\n\n## Injury Report\n\nSteelers\n\n### Steelers\n\nSteelers\u2019 Injury Report is not available at this time.\n\nEagles\n\n### Eagles"
+          ],
+          "title": "Pittsburgh Steelers at Philadelphia Eagles 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "matchup_notes.2",
+      "matchup_notes.3",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "players_to_watch.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The 6-3 Pittsburgh Steelers head to Philadelphia for a fresh chance to climb! The 2-7 Eagles are back from a bye. Steelers QB Aaron Rodgers has 2,014 passing yards and 15 TDs this season. Eagles QB Joe Milton is set to start! A win would put Pittsburgh at 7-3 or Philadelphia at 3-7.",
+    "big_words": [
+      {
+        "word": "fresh",
+        "definition": "New and ready to begin.",
+        "example": "Nia took a fresh path on her bike ride."
+      }
+    ],
+    "opener": "Start with the road team's side of the story.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1128,
+        "output": 319
+      }
+    ]
+  }
+}

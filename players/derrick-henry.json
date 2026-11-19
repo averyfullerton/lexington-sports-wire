@@ -1,0 +1,129 @@
+{
+  "name": "Derrick Henry",
+  "espn_id": "3043078",
+  "team": "Baltimore Ravens",
+  "team_abbr": "BAL",
+  "number": "22",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Alabama",
+  "experience": 11,
+  "fun_facts": [
+    "Derrick ran past 9-year-olds when he was just 7!",
+    "In high school, Derrick ran for 482 yards and six touchdowns in one game!",
+    "In the NFL, Derrick ran for 2,027 yards in one season!"
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2016",
+        "TEN",
+        "15",
+        "110",
+        "490",
+        "4.5",
+        "5"
+      ],
+      [
+        "2017",
+        "TEN",
+        "16",
+        "176",
+        "744",
+        "4.2",
+        "5"
+      ],
+      [
+        "2018",
+        "TEN",
+        "16",
+        "215",
+        "1,059",
+        "4.9",
+        "12"
+      ],
+      [
+        "2019",
+        "TEN",
+        "15",
+        "303",
+        "1,540",
+        "5.1",
+        "16"
+      ],
+      [
+        "2020",
+        "TEN",
+        "16",
+        "378",
+        "2,027",
+        "5.4",
+        "17"
+      ],
+      [
+        "2021",
+        "TEN",
+        "8",
+        "219",
+        "937",
+        "4.3",
+        "10"
+      ],
+      [
+        "2022",
+        "TEN",
+        "16",
+        "349",
+        "1,538",
+        "4.4",
+        "13"
+      ],
+      [
+        "2023",
+        "TEN",
+        "17",
+        "280",
+        "1,167",
+        "4.2",
+        "12"
+      ],
+      [
+        "2024",
+        "BAL",
+        "17",
+        "325",
+        "1,921",
+        "5.9",
+        "16"
+      ],
+      [
+        "2025",
+        "BAL",
+        "17",
+        "307",
+        "1,595",
+        "5.2",
+        "16"
+      ],
+      [
+        "2026",
+        "BAL",
+        "10",
+        "185",
+        "699",
+        "3.8",
+        "10"
+      ]
+    ]
+  }
+}

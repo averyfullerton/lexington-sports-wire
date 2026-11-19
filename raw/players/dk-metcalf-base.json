@@ -1,0 +1,194 @@
+{
+  "run_id": "trun_415f3f698c1f435b80861288bf829ade",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 73.6,
+  "input": {
+    "player": "DK Metcalf",
+    "team": "Pittsburgh Steelers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Ole Miss",
+    "fun_facts": [
+      "His full name is DeKaylin Zecharius \u201cDK\u201d Metcalf.",
+      "At Oxford High School, DK Metcalf played football, basketball and track, and set the school's triple-jump record.",
+      "In high school, DK Metcalf was a standout hurdler and long-jumper and ran on Oxford High School\u2019s 4x100-meter relay team.",
+      "At the NFL Combine, DK Metcalf ran the 40-yard dash in 4.33 seconds and completed 27 reps on the 225-pound bench press.",
+      "DK Metcalf set an NFL rookie postseason record with a 160-yard receiving game in a playoff win over the Eagles.",
+      "DK Metcalf caught 83 passes for 1,303 yards in a Pro Bowl season, setting Seattle\u2019s single-season franchise record for receiving yards."
+    ],
+    "draft": "2019, round 2, pick 64"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Ole Miss as DK Metcalf\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4047650/dk-metcalf",
+          "excerpts": [
+            "College [Ole Miss](https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels)\n\nDraft Info 2019: Rd 2, Pk 64 (SEA)\n\nStatus Active\n\nExperience 8th Season\n\nBirthplace Oxford, MS"
+          ],
+          "title": "DK Metcalf Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the listed facts: the NFL prospect profile gives Metcalf\u2019s full name; ESPN reports his Oxford High School sports and triple-jump record, his track events, his Combine results, his rookie postseason record, and his Seattle receiving-yard record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/prospects/dk-metcalf/32004d45-5436-3377-5806-d2746f1b94aa",
+          "excerpts": [
+            "Skip to main content\nAdvertising\n\nDK Metcalf\n\nDK Metcalf\n\nDK Metcalf headshot\n\nDK Metcalf\n\nMississippi\nWR\n\nProspect Info\n\nCollege\nMississippi\nHometown\nClass\nOxford, MS\nr-Sophomore\nHeight\n6'3 3/8\"\nWeight\n228 lbs\nArm\n34 7/8\"\nHand\n9 7/8\"\n\nProspect Grade\n\n6.80\nYear 1 starter\n81 Good\nView All Prospects\n\n2019 Draft Results\n\nDrafted by\nSeattle\nSeahawks\nSeattle Seahawks\nRound 2 \u2027 Pick 32\nRead More\n\nScore Breakdown\n\nScore Breakdown\n\nProduction Score\n\n67\n2019 Combine WR Rank: 24th\n2019 Combine WR Rank: 24th\n\nAthleticism Score *est\n\n94\n2019 Combine WR Rank: 3rd\n2019 Combine WR Rank: 3rd\n\nTotal Score\n\n81\n2019 Combine WR Rank: 7th\n2019 Combine WR Rank: 7th\n\nCombine Results\n\nu-unofficial\n\n40-Yard Dash\n\n4.33\nSeconds\n\n10-Yard Split\n\n1.45\nSeconds\n\nVertical Jump\n\n40.5\u2019\u2019\n\nBroad Jump\n\n11\u2019 2\u2019\u2019\n\n...\n\nDeKaylin Zecharius \"DK\" Metcalf decided to leave Ole Miss after his redshirt sophomore season to follow in the footsteps of his father, (former Ole Miss guard Terrance), grandfather (St."
+          ],
+          "title": "DK Metcalf NFL Combine and Draft Prospects | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/26414636/how-dk-metcalf-became-internet-breaking-nfl-wide-receiver-prospect",
+          "excerpts": [
+            "He made varsity his freshman year of high school and played all four years -- first at safety and then at wide receiver. DK was a three-sport athlete at Oxford High School, running track and playing basketball as well. Bursting with athleticism, he set a school record in the triple jump."
+          ],
+          "title": "How DK Metcalf became an internet-breaking NFL wide receiver prospect - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/31417650/seattle-seahawks-wr-dk-metcalf-runs-100-1037-finishes-15th-17-event",
+          "excerpts": [
+            "Before Sunday, Metcalf hadn't competed in track since high school, when he was a standout hurdler and long-jumper and also competed on Oxford High School's 4x100 meter relay team in Mississippi."
+          ],
+          "title": "Seattle Seahawks WR DK Metcalf runs 100 in 10.37 seconds, finishes 15th out of 17 in event - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story?id=26391370",
+          "excerpts": [
+            "Metcalf](https://www.espn.com/college-football/player/_/id/4047650/dk-metcalf) stands out as a physical marvel.\n\nHe's 6-foot-3, 228 pounds and had his body fat measured at a ridiculously low 1.9 percent. He ran the 40-yard dash in a blistering 4.33 seconds. He did 27 repetitions of 225 pounds on the bench press."
+          ],
+          "title": "More than muscles: Metcalf works to show NFL all-around game - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/30425759/dk-metcalf-posts-career-high-receiving-yards-seattle-seahawks-soar-philadelphia",
+          "excerpts": [
+            "That topped his 160-yard performance at the same stadium in January, when he [set an NFL rookie postseason record](https://www.espn.com/nfl/story/_/id/28430694/seahawks-dk-metcalf-revels-record-day) in Seattle's wild-card win over the Eagles."
+          ],
+          "title": "DK Metcalf posts career high in receiving yards as Seattle Seahawks soar in Philadelphia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "NFL.com states that Seattle selected Metcalf with the No. 64 overall pick in the 2019 draft and that it was the final pick of the second round.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/seahawks-snag-ole-miss-receiver-d-k-metcalf-0ap3000001028440",
+          "excerpts": [
+            "Metcalf](https://www.nfl.com/player/d.k.metcalf/2562685/profile) 's draft slide ended with the final pick of the second round.\n\nThe [Seattle Seahawks](https://www.nfl.com/teams/seattleseahawks/profile?team=SEA) used the No. 64 overall selection in the 2019 [NFL Draft](http://www.nfl.com/draft) to snag the Ole Miss receiver.\n\nMetcalf is a workout warrior, running a blazing 4.33-second 40-yard-dash at the NFL [Scouting Combine](http://www.nfl.com/combine) . The 6-foot-3, 228-pound wideout owns a rare combination of size, speed and athleticism to go along with a famously ripped physique."
+          ],
+          "title": "Seahawks snag Ole Miss receiver D.K. Metcalf | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL prospect profile gives his full name as DeKaylin Zecharius \u201cDK\u201d Metcalf.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/prospects/dk-metcalf/32004d45-5436-3377-5806-d2746f1b94aa",
+          "excerpts": [
+            "Skip to main content\nAdvertising\n\nDK Metcalf\n\nDK Metcalf\n\nDK Metcalf headshot\n\nDK Metcalf\n\nMississippi\nWR\n\nProspect Info\n\nCollege\nMississippi\nHometown\nClass\nOxford, MS\nr-Sophomore\nHeight\n6'3 3/8\"\nWeight\n228 lbs\nArm\n34 7/8\"\nHand\n9 7/8\"\n\nProspect Grade\n\n6.80\nYear 1 starter\n81 Good\nView All Prospects\n\n2019 Draft Results\n\nDrafted by\nSeattle\nSeahawks\nSeattle Seahawks\nRound 2 \u2027 Pick 32\nRead More\n\nScore Breakdown\n\nScore Breakdown\n\nProduction Score\n\n67\n2019 Combine WR Rank: 24th\n2019 Combine WR Rank: 24th\n\nAthleticism Score *est\n\n94\n2019 Combine WR Rank: 3rd\n2019 Combine WR Rank: 3rd\n\nTotal Score\n\n81\n2019 Combine WR Rank: 7th\n2019 Combine WR Rank: 7th\n\nCombine Results\n\nu-unofficial\n\n40-Yard Dash\n\n4.33\nSeconds\n\n10-Yard Split\n\n1.45\nSeconds\n\nVertical Jump\n\n40.5\u2019\u2019\n\nBroad Jump\n\n11\u2019 2\u2019\u2019\n\n...\n\nDeKaylin Zecharius \"DK\" Metcalf decided to leave Ole Miss after his redshirt sophomore season to follow in the footsteps of his father, (former Ole Miss guard Terrance), grandfather (St."
+          ],
+          "title": "DK Metcalf NFL Combine and Draft Prospects | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN says Metcalf was a three-sport athlete at Oxford High School, played basketball and ran track, and set the school triple-jump record; the passage also identifies his football participation.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/26414636/how-dk-metcalf-became-internet-breaking-nfl-wide-receiver-prospect",
+          "excerpts": [
+            "He made varsity his freshman year of high school and played all four years -- first at safety and then at wide receiver. DK was a three-sport athlete at Oxford High School, running track and playing basketball as well. Bursting with athleticism, he set a school record in the triple jump."
+          ],
+          "title": "How DK Metcalf became an internet-breaking NFL wide receiver prospect - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN describes Metcalf as a high-school standout hurdler and long-jumper and says he competed on Oxford High School\u2019s 4x100 relay team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/31417650/seattle-seahawks-wr-dk-metcalf-runs-100-1037-finishes-15th-17-event",
+          "excerpts": [
+            "Before Sunday, Metcalf hadn't competed in track since high school, when he was a standout hurdler and long-jumper and also competed on Oxford High School's 4x100 meter relay team in Mississippi."
+          ],
+          "title": "Seattle Seahawks WR DK Metcalf runs 100 in 10.37 seconds, finishes 15th out of 17 in event - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports his 4.33-second 40-yard dash and 27 repetitions of 225 pounds on the bench press.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=26391370",
+          "excerpts": [
+            "Metcalf](https://www.espn.com/college-football/player/_/id/4047650/dk-metcalf) stands out as a physical marvel.\n\nHe's 6-foot-3, 228 pounds and had his body fat measured at a ridiculously low 1.9 percent. He ran the 40-yard dash in a blistering 4.33 seconds. He did 27 repetitions of 225 pounds on the bench press."
+          ],
+          "title": "More than muscles: Metcalf works to show NFL all-around game - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN says Metcalf\u2019s 160-yard performance in Philadelphia set an NFL rookie postseason record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/30425759/dk-metcalf-posts-career-high-receiving-yards-seattle-seahawks-soar-philadelphia",
+          "excerpts": [
+            "That topped his 160-yard performance at the same stadium in January, when he [set an NFL rookie postseason record](https://www.espn.com/nfl/story/_/id/28430694/seahawks-dk-metcalf-revels-record-day) in Seattle's wild-card win over the Eagles."
+          ],
+          "title": "DK Metcalf posts career high in receiving yards as Seattle Seahawks soar in Philadelphia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN reports that Metcalf caught 83 passes for a franchise-record 1,303 receiving yards in the season after which he made the Pro Bowl.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/31417650/seattle-seahawks-wr-dk-metcalf-runs-100-1037-finishes-15th-17-event",
+          "excerpts": [
+            "Before Sunday, Metcalf hadn't competed in track since high school, when he was a standout hurdler and long-jumper and also competed on Oxford High School's 4x100 meter relay team in Mississippi."
+          ],
+          "title": "Seattle Seahawks WR DK Metcalf runs 100 in 10.37 seconds, finishes 15th out of 17 in event - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

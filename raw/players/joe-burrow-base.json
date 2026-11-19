@@ -1,0 +1,180 @@
+{
+  "run_id": "trun_415f3f698c1f435bba28a0b319c24568",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.3,
+  "input": {
+    "player": "Joe Burrow",
+    "team": "Cincinnati Bengals",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "LSU",
+    "fun_facts": [
+      "Joe Burrow grew up in Athens, Ohio.",
+      "He was coached in basketball and baseball; when he got tall enough to dunk, he sent videos of his dunks to his older brothers.",
+      "He won the Heisman Trophy during LSU\u2019s national-championship season.",
+      "In that LSU season, he set NCAA single-season records with 60 passing touchdowns and 65 total scores.",
+      "Some of his nicknames were Joe Brrr and Joe Burreaux."
+    ],
+    "draft": "2020, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The season history shows Joe Burrow at Ohio State in earlier seasons and LSU in his final listed college seasons; ESPN\u2019s biography also identifies LSU as his college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/stats?id=3915511&type=college-football",
+          "excerpts": [
+            "NCAA - Football National Football League\n\nPassing\n\n|season |Team |\n| --- | --- |\n|2016 |OSU [OSU](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes) |\n|2017 |OSU [OSU](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes) |\n|2018 |LSU [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) |\n|2019 |LSU [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) |"
+          ],
+          "title": "Joe Burrow Career Stats - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3915511/joe-burrow",
+          "excerpts": [
+            "### Biography\n\nTeam [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\nPosition Quarterback\n\nHT/WT 6' 4\", 215 lbs\n\nBirthdate 12/10/1996 (29)\n\nCollege [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nDraft Info 2020: Rd 1, Pk 1 (CIN)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Athens, OH\n\n### Career History"
+          ],
+          "title": "Joe Burrow Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages directly support the five facts: Burrow grew up in Athens; he was coached in basketball and baseball and shared dunk videos with his brothers; his Heisman season coincided with LSU\u2019s national title; he set the stated NCAA scoring records; and the article lists his nicknames.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=28313366&src=desktop",
+          "excerpts": [
+            "After finishing strong for the Tigers in 2018, he broke out this season. He set a Southeastern Conference record with 48 touchdown passes and leading top-ranked LSU (13-0) to its first College Football Playoff appearance."
+          ],
+          "title": "Burrow's Heisman speech inspires giving to hometown charity - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27582165/the-tales-super-burrow-lsu-ultra-confident-breakout-star-qb",
+          "excerpts": [
+            "\"He was dropping like 40-yard bombs,\" Jamie said. \"I was like, 'Is that normal? I don't think that's normal.'\"\n\nWhen Joe was tall enough to dunk a basketball, he sent cellphone videos of him doing it to his older brothers.",
+            "Don Cooley, who also coached Burrow in basketball and baseball, said his best attribute wasn't necessarily his athleticism.\n\n\"He wasn't a freak,\" Cooley said."
+          ],
+          "title": "The tales of Super Burrow, LSU's ultra-confident breakout star QB - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29099447/lsu-sees-14-players-selected-nfl-draft-tying-7-round-record",
+          "excerpts": [
+            "Three months after winning a national championship, [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) is still dominating the football landscape.\n\nStarting with Heisman Trophy-winning quarterback [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) at No. 1 overall, the Tigers went on to tie the record by having 14 players selected in a seven-round [NFL draft](https://www.espn.com/nfl/draft/news) , matching Ohio State's mark from 2004.\n\nThe NFL switched to a seven-round format in 1994. The only team with more players selected in the common draft era (since 1967) was Texas, which saw 17 players chosen during a 12-round draft in 1984, according to research by ESPN Stats & Information and the Elias Sports Bureau.\n\n## Editor's Picks"
+          ],
+          "title": "LSU sees 14 players selected in NFL draft, tying 7-round record - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41346139/joe-burrow-nfl-cincinnati-bengals",
+          "excerpts": [
+            "The magic had been uncorked. LSU romps to a college football record seven wins against top-10 teams. Burrow throws for 5,000 yards and sets an NCAA record with 60 passing touchdowns and 65 total scores. Burrow had become Joe Burr, Joe Brrr, Joe Burreaux, Joe Scheisty and a slew of other nicknames."
+          ],
+          "title": "Practice brawls, crawfish and bonfires: Inside Joe Burrow's rise to football stardom - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography explicitly lists his draft as 2020, round 1, pick 1, for Cincinnati.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3915511/joe-burrow",
+          "excerpts": [
+            "### Biography\n\nTeam [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\nPosition Quarterback\n\nHT/WT 6' 4\", 215 lbs\n\nBirthdate 12/10/1996 (29)\n\nCollege [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers)\n\nDraft Info 2020: Rd 1, Pk 1 (CIN)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Athens, OH\n\n### Career History"
+          ],
+          "title": "Joe Burrow Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Burrow talked about growing up in Athens and identifies it as his Ohio hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story?id=28313366&src=desktop",
+          "excerpts": [
+            "After finishing strong for the Tigers in 2018, he broke out this season. He set a Southeastern Conference record with 48 touchdown passes and leading top-ranked LSU (13-0) to its first College Football Playoff appearance."
+          ],
+          "title": "Burrow's Heisman speech inspires giving to hometown charity - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Burrow was coached in basketball and baseball and describes him sending his older brothers videos of his dunks.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27582165/the-tales-super-burrow-lsu-ultra-confident-breakout-star-qb",
+          "excerpts": [
+            "\"He was dropping like 40-yard bombs,\" Jamie said. \"I was like, 'Is that normal? I don't think that's normal.'\"\n\nWhen Joe was tall enough to dunk a basketball, he sent cellphone videos of him doing it to his older brothers.",
+            "Don Cooley, who also coached Burrow in basketball and baseball, said his best attribute wasn't necessarily his athleticism.\n\n\"He wasn't a freak,\" Cooley said."
+          ],
+          "title": "The tales of Super Burrow, LSU's ultra-confident breakout star QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The report connects LSU\u2019s national-championship season with Burrow as its Heisman Trophy-winning quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29099447/lsu-sees-14-players-selected-nfl-draft-tying-7-round-record",
+          "excerpts": [
+            "Three months after winning a national championship, [LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) is still dominating the football landscape.\n\nStarting with Heisman Trophy-winning quarterback [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) at No. 1 overall, the Tigers went on to tie the record by having 14 players selected in a seven-round [NFL draft](https://www.espn.com/nfl/draft/news) , matching Ohio State's mark from 2004.\n\nThe NFL switched to a seven-round format in 1994. The only team with more players selected in the common draft era (since 1967) was Texas, which saw 17 players chosen during a 12-round draft in 1984, according to research by ESPN Stats & Information and the Elias Sports Bureau.\n\n## Editor's Picks"
+          ],
+          "title": "LSU sees 14 players selected in NFL draft, tying 7-round record - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The article says Burrow set an NCAA record with 60 passing touchdowns and 65 total scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41346139/joe-burrow-nfl-cincinnati-bengals",
+          "excerpts": [
+            "The magic had been uncorked. LSU romps to a college football record seven wins against top-10 teams. Burrow throws for 5,000 yards and sets an NCAA record with 60 passing touchdowns and 65 total scores. Burrow had become Joe Burr, Joe Brrr, Joe Burreaux, Joe Scheisty and a slew of other nicknames."
+          ],
+          "title": "Practice brawls, crawfish and bonfires: Inside Joe Burrow's rise to football stardom - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The article names Joe Brrr and Joe Burreaux among Burrow\u2019s nicknames.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41346139/joe-burrow-nfl-cincinnati-bengals",
+          "excerpts": [
+            "The magic had been uncorked. LSU romps to a college football record seven wins against top-10 teams. Burrow throws for 5,000 yards and sets an NCAA record with 60 passing touchdowns and 65 total scores. Burrow had become Joe Burr, Joe Brrr, Joe Burreaux, Joe Scheisty and a slew of other nicknames."
+          ],
+          "title": "Practice brawls, crawfish and bonfires: Inside Joe Burrow's rise to football stardom - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

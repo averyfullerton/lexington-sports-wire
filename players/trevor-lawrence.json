@@ -1,0 +1,91 @@
+{
+  "name": "Trevor Lawrence",
+  "espn_id": "4360310",
+  "team": "Jacksonville Jaguars",
+  "team_abbr": "JAX",
+  "number": "16",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Clemson",
+  "experience": 6,
+  "fun_facts": [
+    "Trevor helped his high school team win two state titles as a starter.",
+    "Trevor helped Clemson win a national title in his first year of college.",
+    "Trevor broke Georgia high school records with 13,908 passing yards and 161 touchdown passes."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2021",
+        "JAX",
+        "17",
+        "359",
+        "602",
+        "3,641",
+        "12",
+        "17"
+      ],
+      [
+        "2022",
+        "JAX",
+        "17",
+        "387",
+        "584",
+        "4,113",
+        "25",
+        "8"
+      ],
+      [
+        "2023",
+        "JAX",
+        "16",
+        "370",
+        "564",
+        "4,016",
+        "21",
+        "14"
+      ],
+      [
+        "2024",
+        "JAX",
+        "10",
+        "172",
+        "284",
+        "2,045",
+        "11",
+        "7"
+      ],
+      [
+        "2025",
+        "JAX",
+        "17",
+        "341",
+        "560",
+        "4,007",
+        "29",
+        "12"
+      ],
+      [
+        "2026",
+        "JAX",
+        "9",
+        "171",
+        "259",
+        "2,284",
+        "21",
+        "5"
+      ]
+    ]
+  }
+}

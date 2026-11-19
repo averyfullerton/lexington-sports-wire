@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_415f3f698c1f435b9759cc3be474d15f",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.7,
+  "input": {
+    "player": "Jordan Love",
+    "team": "Green Bay Packers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Utah State",
+    "fun_facts": [
+      "Jordan Love grew up in Bakersfield, California.",
+      "Before his senior year of high school, Jordan Love loved basketball and had not yet received a Division I football offer.",
+      "In 2018, Jordan Love threw for 3,567 yards and 32 touchdowns, with just six interceptions, while leading Utah State to an 11\u20132 record.",
+      "Jordan Love set five Utah State single-season team records in 2018.",
+      "Jordan Love\u2019s nickname is \u201cPookie.\u201d"
+    ],
+    "draft": "2020, round 1, pick 26"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists Jordan Love\u2019s college as Utah State.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4036378/jordan-love",
+          "excerpts": [
+            "* More Sports\n\n* [Watch ESPN Watch](http://www.espn.com/watch/)\n\n* [ESPN Fantasy Fantasy](https://www.espn.com/fantasy/)\n\n* [Where to Watch](https://www.espn.com/where-to-watch)\n\n*\n\n# Jordan Love\n\nGreen Bay Packers\n\n* [Green Bay Packers Packers](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n* \\#10\n* Quarterback QB\n\n* HT/WT\n  \n  6' 4\", 219 lbs\n* Birthdate\n  \n  11/2/1998 (28)\n* College\n  \n  [Utah State](https://www.espn.com/college-football/team/_/id/328/utah-state-aggies)\n\n* HT/WT\n  \n  6' 4\", 219 lbs\n* Birthdate\n  \n  11/2/1998 (28)\n* College"
+          ],
+          "title": "Jordan Love Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "ESPN identifies Bakersfield as Jordan Love\u2019s birthplace. ESPN also says he loved basketball and had no Division I football offer before his senior year. ESPN reports his 2018 passing totals and Utah State\u2019s 11\u20132 record, and separately notes that he set five single-season team records that year. Pro-Football-Reference lists \u201cPookie\u201d as his nickname.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4036378/jordan-love",
+          "excerpts": [
+            "Team [Green Bay Packers](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n\nPosition Quarterback\n\nHT/WT 6' 4\", 219 lbs\n\nBirthdate 11/2/1998 (28)\n\nCollege [Utah State](https://www.espn.com/college-football/team/_/id/328/utah-state-aggies)\n\nDraft Info 2020: Rd 1, Pk 26 (GB)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Bakersfield, CA"
+          ],
+          "title": "Jordan Love Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2020/story/_/id/29001156/jordan-love-nfl-draft-prospects-illustrate-mystery-drafting-quarterback",
+          "excerpts": [
+            "Before his senior year at Liberty High in Bakersfield, California, Love went to a Utah State summer team camp as a jangly 180-pound kid who loved basketball and didn't have a single Division I football offer."
+          ],
+          "title": "Jordan Love's NFL draft prospects illustrate the mystery of drafting a quarterback - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28270139/utah-state-qb-jordan-love-declares-nfl-draft",
+          "excerpts": [
+            "In 31 starts in three seasons, Love threw for 8,283 yards with 57 touchdown passes and 28 interceptions. He burst onto the scene in 2018 by throwing for 3,567 yards with 32 touchdowns and six interceptions while leading Utah State to an 11-2 record.\n\nLove will play in the Tropical Smoothie Cafe Frisco Bowl against Kent State on Dec."
+          ],
+          "title": "Utah State QB Jordan Love declares for NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28320632/qb-jordan-love-three-utah-state-players-cited-pot",
+          "excerpts": [
+            "Logan City assistant police chief Jeff Simmons told the Cache Valley Daily that all of the suspects cooperated with police.\n\nLove, who set five single-season team records in 2018 and has eclipsed 3,000 passing yards in each of the past two seasons, announced last week that he would skip his final season to enter the NFL draft. He had planned to play Friday in the Tropical Smoothie Cafe Frisco Bowl against Kent State."
+          ],
+          "title": "QB Jordan Love among three Utah State players cited for pot - ESPN"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/L/LoveJo03.htm",
+          "excerpts": [
+            "* \n\nPhoto of Jordan Love\n\n# Jordan Love\n\n**Jordan Love ( Pookie )**\n\n**Position** : QB **Throws:** Right\n\n6-4 , 219lb (193cm, 99kg)"
+          ],
+          "title": "Jordan Love Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The player record states that Jordan Love was selected by Green Bay in the first round, 26th overall, of the 2020 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/L/LoveJo03.htm",
+          "excerpts": [
+            "**Draft** : [Green Bay Packers](https://www.pro-football-reference.com/teams/gnb/2020_draft.htm) in the 1st round (26th overall) of the [2020 NFL Draft](https://www.pro-football-reference.com/years/2020/draft.htm) ."
+          ],
+          "title": "Jordan Love Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN lists Bakersfield, California, as Jordan Love\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4036378/jordan-love",
+          "excerpts": [
+            "Team [Green Bay Packers](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n\nPosition Quarterback\n\nHT/WT 6' 4\", 219 lbs\n\nBirthdate 11/2/1998 (28)\n\nCollege [Utah State](https://www.espn.com/college-football/team/_/id/328/utah-state-aggies)\n\nDraft Info 2020: Rd 1, Pk 26 (GB)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Bakersfield, CA"
+          ],
+          "title": "Jordan Love Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN says he loved basketball and had no Division I football offer before his senior year of high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2020/story/_/id/29001156/jordan-love-nfl-draft-prospects-illustrate-mystery-drafting-quarterback",
+          "excerpts": [
+            "Before his senior year at Liberty High in Bakersfield, California, Love went to a Utah State summer team camp as a jangly 180-pound kid who loved basketball and didn't have a single Division I football offer."
+          ],
+          "title": "Jordan Love's NFL draft prospects illustrate the mystery of drafting a quarterback - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN gives his 2018 passing totals and says he led Utah State to an 11\u20132 record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28270139/utah-state-qb-jordan-love-declares-nfl-draft",
+          "excerpts": [
+            "In 31 starts in three seasons, Love threw for 8,283 yards with 57 touchdown passes and 28 interceptions. He burst onto the scene in 2018 by throwing for 3,567 yards with 32 touchdowns and six interceptions while leading Utah State to an 11-2 record.\n\nLove will play in the Tropical Smoothie Cafe Frisco Bowl against Kent State on Dec."
+          ],
+          "title": "Utah State QB Jordan Love declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that Jordan Love set five single-season team records in 2018.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28320632/qb-jordan-love-three-utah-state-players-cited-pot",
+          "excerpts": [
+            "Logan City assistant police chief Jeff Simmons told the Cache Valley Daily that all of the suspects cooperated with police.\n\nLove, who set five single-season team records in 2018 and has eclipsed 3,000 passing yards in each of the past two seasons, announced last week that he would skip his final season to enter the NFL draft. He had planned to play Friday in the Tropical Smoothie Cafe Frisco Bowl against Kent State."
+          ],
+          "title": "QB Jordan Love among three Utah State players cited for pot - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "Pro-Football-Reference lists \u201cPookie\u201d next to Jordan Love\u2019s name.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/L/LoveJo03.htm",
+          "excerpts": [
+            "* \n\nPhoto of Jordan Love\n\n# Jordan Love\n\n**Jordan Love ( Pookie )**\n\n**Position** : QB **Throws:** Right\n\n6-4 , 219lb (193cm, 99kg)"
+          ],
+          "title": "Jordan Love Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

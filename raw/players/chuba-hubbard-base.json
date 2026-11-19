@@ -1,0 +1,195 @@
+{
+  "run_id": "trun_415f3f698c1f435b91f58515cf2678ef",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 49.6,
+  "input": {
+    "player": "Chuba Hubbard",
+    "team": "Carolina Panthers",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oklahoma State University",
+    "fun_facts": [
+      "Chuba Hubbard is from Sherwood Park, Alberta, Canada.",
+      "As a child, Chuba Hubbard set Canadian records in the 100- and 200-meter races with the Edmonton Olympic Track and Field Club.",
+      "As a teenager, Chuba Hubbard ran the 100 meters in 10.60 seconds at the 2015 World Youth Championships\u2014the fourth-fastest time in his age group.",
+      "In 2019, Chuba Hubbard rushed for 2,094 yards, second only to Barry Sanders' legendary Oklahoma State season, and tied Sanders with 12 100-yard games.",
+      "Chuba Hubbard was named AP Big 12 Offensive Player of the Year and finished eighth in Heisman Trophy voting.",
+      "Chuba Hubbard won the Cornish Trophy, awarded annually to the top Canadian player in NCAA football."
+    ],
+    "draft": "2021, round 4, pick 126"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile identifies Chuba Hubbard and lists Oklahoma State as his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chuba-hubbard",
+          "excerpts": [
+            "# Chuba Hubbard Stats, News and Video - RB | NFL.com\n\n# Chuba Hubbard\n\nRB \u2022 \\#30\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/chuba-hubbard/)\n* [Stats](https://www.nfl.com/players/chuba-hubbard/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-1\n* Weight\n  \n  210\n* Arms\n  \n  32\n* Hands\n  \n  9\n\n* Experience\n  \n  6\n* College\n  \n  Oklahoma State\n* Age\n  \n  27\n* Hometown\n  \n  Sherwood Park, Alberta\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game? Which highly drafted running back should be parked on your bench? Check out all of Matt Okada's fantasy RB starts and sits for Week 10 of the 2026 NFL"
+          ],
+          "title": "Chuba Hubbard Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Hubbard's hometown. ESPN reports his childhood Canadian sprint records, his 2019 rushing totals and comparison with Barry Sanders, and his Big 12 and Heisman honors. NFL.com reports his age-group sprint time, while ESPN describes the Cornish Trophy and its significance.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chuba-hubbard",
+          "excerpts": [
+            "# Chuba Hubbard Stats, News and Video - RB | NFL.com\n\n# Chuba Hubbard\n\nRB \u2022 \\#30\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/chuba-hubbard/)\n* [Stats](https://www.nfl.com/players/chuba-hubbard/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-1\n* Weight\n  \n  210\n* Arms\n  \n  32\n* Hands\n  \n  9\n\n* Experience\n  \n  6\n* College\n  \n  Oklahoma State\n* Age\n  \n  27\n* Hometown\n  \n  Sherwood Park, Alberta\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game? Which highly drafted running back should be parked on your bench? Check out all of Matt Okada's fantasy RB starts and sits for Week 10 of the 2026 NFL"
+          ],
+          "title": "Chuba Hubbard Stats, News and Video - RB | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45498715/nfl-carolina-panthers-chuba-hubbard-olympics-flag-football-track",
+          "excerpts": [
+            "\"He knows what we're looking for and how we want it to feel, and so he just kind of champions the cause.''\n\nBut before football, Hubbard's first goal was to become an Olympic champion as a sprinter. It began in elementary school and junior high when he was setting Canadian records in the 100 and 200 meters for the Edmonton Olympic Track and Field Club.\n\n## Best of NFL Nation"
+          ],
+          "title": "How flag football has revived Chuba Hubbard's Olympic dreams - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/panthers-add-dynamic-rb-chuba-hubbard-to-christian-mccaffrey-led-backfield-with-",
+          "excerpts": [
+            "As if the Carolina Panthers didn\u2019t have enough open-field juice in their offensive backfield with [Christian McCaffrey](https://www.nfl.com/players/christian-mccaffrey) \ufeff, the club added a home-run hitter Saturday in selecting Oklahoma State running back [Chuba Hubbard](https://www.nfl.com/players/chuba-hubbard) in the fourth round of the 2021 NFL Draft with overall pick No. 126.\n\nWhat Hubbard brings to the NFL foremost is speed -- a world-class sprinter as a teenager, he once clocked the world\u2019s fourth-fastest time in his age group in the 100-meter dash (10.60 seconds) at the IAAF World Youth Championships in 2015."
+          ],
+          "title": "Panthers add dynamic RB Chuba Hubbard to Christian McCaffrey-led backfield with fourth-round pick | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29851770/ranking-big-12-25-best-college-football-players-2020",
+          "excerpts": [
+            "[Chuba Hubbard](https://www.espn.com/college-football/player/_/id/4241416/chuba-hubbard) , RB, Oklahoma State**\n\nThe Big 12's best player already has earned a place in OSU history. Hubbard's 2,094 yards in 2019 ranked behind only Barry Sanders' legendary 1988 season, and his 12 100-yard games rank tied with Sanders."
+          ],
+          "title": "Ranking the Big 12's 25 best college football players for 2020 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29143607/oklahoma-state-rb-chuba-hubbard-top-canadian-player",
+          "excerpts": [
+            "# Oklahoma State RB Chuba Hubbard top Canadian player\n\nplay\n\nHubbard runs 84 yards for a TD (0:32)\n\nChuba Hubbard gets loose and takes the ball 84 yards, putting Oklahoma State up 23-3. (0:32)\n\n* Associated Press\n\nMay 6, 2020, 05:07 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Oklahoma%20State%20RB%20Chuba%20Hubbard%20top%20Canadian%20player&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F29143607)\n* [Print](https://www.espn.com/espn/print?id=29143607)\n\nOpen Extended Reactions\n\nSTILLWATER, Okla.",
+            "has won the Cornish Trophy, presented annually to the top Canadian player in NCAA football.\n\nThe announcement was made via YouTube on Wednesday.\n\nHubbard was the AP Big 12 Offensive Player of the Year and finished eighth in the Heisman Trophy voting, the third-best finish for a Canadian player."
+          ],
+          "title": "Oklahoma State RB Chuba Hubbard top Canadian player - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "NFL.com states that Carolina selected Chuba Hubbard in the fourth round of the 2021 NFL Draft with overall pick No. 126.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/panthers-add-dynamic-rb-chuba-hubbard-to-christian-mccaffrey-led-backfield-with-",
+          "excerpts": [
+            "As if the Carolina Panthers didn\u2019t have enough open-field juice in their offensive backfield with [Christian McCaffrey](https://www.nfl.com/players/christian-mccaffrey) \ufeff, the club added a home-run hitter Saturday in selecting Oklahoma State running back [Chuba Hubbard](https://www.nfl.com/players/chuba-hubbard) in the fourth round of the 2021 NFL Draft with overall pick No. 126.\n\nWhat Hubbard brings to the NFL foremost is speed -- a world-class sprinter as a teenager, he once clocked the world\u2019s fourth-fastest time in his age group in the 100-meter dash (10.60 seconds) at the IAAF World Youth Championships in 2015."
+          ],
+          "title": "Panthers add dynamic RB Chuba Hubbard to Christian McCaffrey-led backfield with fourth-round pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL player profile lists Sherwood Park, Alberta as Hubbard's hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/chuba-hubbard",
+          "excerpts": [
+            "# Chuba Hubbard Stats, News and Video - RB | NFL.com\n\n# Chuba Hubbard\n\nRB \u2022 \\#30\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/chuba-hubbard/)\n* [Stats](https://www.nfl.com/players/chuba-hubbard/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-1\n* Weight\n  \n  210\n* Arms\n  \n  32\n* Hands\n  \n  9\n\n* Experience\n  \n  6\n* College\n  \n  Oklahoma State\n* Age\n  \n  27\n* Hometown\n  \n  Sherwood Park, Alberta\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game? Which highly drafted running back should be parked on your bench? Check out all of Matt Okada's fantasy RB starts and sits for Week 10 of the 2026 NFL"
+          ],
+          "title": "Chuba Hubbard Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN says Hubbard set Canadian records in the 100 and 200 meters during elementary school and junior high while with the Edmonton Olympic Track and Field Club.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45498715/nfl-carolina-panthers-chuba-hubbard-olympics-flag-football-track",
+          "excerpts": [
+            "\"He knows what we're looking for and how we want it to feel, and so he just kind of champions the cause.''\n\nBut before football, Hubbard's first goal was to become an Olympic champion as a sprinter. It began in elementary school and junior high when he was setting Canadian records in the 100 and 200 meters for the Edmonton Olympic Track and Field Club.\n\n## Best of NFL Nation"
+          ],
+          "title": "How flag football has revived Chuba Hubbard's Olympic dreams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "NFL.com reports Hubbard's 10.60-second 100-meter time at the 2015 IAAF World Youth Championships and says it was the fourth-fastest in his age group.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/panthers-add-dynamic-rb-chuba-hubbard-to-christian-mccaffrey-led-backfield-with-",
+          "excerpts": [
+            "As if the Carolina Panthers didn\u2019t have enough open-field juice in their offensive backfield with [Christian McCaffrey](https://www.nfl.com/players/christian-mccaffrey) \ufeff, the club added a home-run hitter Saturday in selecting Oklahoma State running back [Chuba Hubbard](https://www.nfl.com/players/chuba-hubbard) in the fourth round of the 2021 NFL Draft with overall pick No. 126.\n\nWhat Hubbard brings to the NFL foremost is speed -- a world-class sprinter as a teenager, he once clocked the world\u2019s fourth-fastest time in his age group in the 100-meter dash (10.60 seconds) at the IAAF World Youth Championships in 2015."
+          ],
+          "title": "Panthers add dynamic RB Chuba Hubbard to Christian McCaffrey-led backfield with fourth-round pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports Hubbard's 2,094 rushing yards in 2019, ranking behind only Barry Sanders' season, and says his 12 100-yard games tied Sanders.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29851770/ranking-big-12-25-best-college-football-players-2020",
+          "excerpts": [
+            "[Chuba Hubbard](https://www.espn.com/college-football/player/_/id/4241416/chuba-hubbard) , RB, Oklahoma State**\n\nThe Big 12's best player already has earned a place in OSU history. Hubbard's 2,094 yards in 2019 ranked behind only Barry Sanders' legendary 1988 season, and his 12 100-yard games rank tied with Sanders."
+          ],
+          "title": "Ranking the Big 12's 25 best college football players for 2020 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN article identifies Hubbard as AP Big 12 Offensive Player of the Year and says he finished eighth in Heisman Trophy voting.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29143607/oklahoma-state-rb-chuba-hubbard-top-canadian-player",
+          "excerpts": [
+            "# Oklahoma State RB Chuba Hubbard top Canadian player\n\nplay\n\nHubbard runs 84 yards for a TD (0:32)\n\nChuba Hubbard gets loose and takes the ball 84 yards, putting Oklahoma State up 23-3. (0:32)\n\n* Associated Press\n\nMay 6, 2020, 05:07 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Oklahoma%20State%20RB%20Chuba%20Hubbard%20top%20Canadian%20player&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F29143607)\n* [Print](https://www.espn.com/espn/print?id=29143607)\n\nOpen Extended Reactions\n\nSTILLWATER, Okla.",
+            "has won the Cornish Trophy, presented annually to the top Canadian player in NCAA football.\n\nThe announcement was made via YouTube on Wednesday.\n\nHubbard was the AP Big 12 Offensive Player of the Year and finished eighth in the Heisman Trophy voting, the third-best finish for a Canadian player."
+          ],
+          "title": "Oklahoma State RB Chuba Hubbard top Canadian player - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The ESPN article says Hubbard won the Cornish Trophy and describes it as an annual award for the top Canadian player in NCAA football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/29143607/oklahoma-state-rb-chuba-hubbard-top-canadian-player",
+          "excerpts": [
+            "# Oklahoma State RB Chuba Hubbard top Canadian player\n\nplay\n\nHubbard runs 84 yards for a TD (0:32)\n\nChuba Hubbard gets loose and takes the ball 84 yards, putting Oklahoma State up 23-3. (0:32)\n\n* Associated Press\n\nMay 6, 2020, 05:07 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Oklahoma%20State%20RB%20Chuba%20Hubbard%20top%20Canadian%20player&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F29143607)\n* [Print](https://www.espn.com/espn/print?id=29143607)\n\nOpen Extended Reactions\n\nSTILLWATER, Okla.",
+            "has won the Cornish Trophy, presented annually to the top Canadian player in NCAA football.\n\nThe announcement was made via YouTube on Wednesday.\n\nHubbard was the AP Big 12 Offensive Player of the Year and finished eighth in the Heisman Trophy voting, the third-best finish for a Canadian player."
+          ],
+          "title": "Oklahoma State RB Chuba Hubbard top Canadian player - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

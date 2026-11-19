@@ -1,0 +1,412 @@
+{
+  "run_id": "trun_3df3487a122343d4b79b40be80bd84b0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 291.7,
+  "input": {
+    "away_team": "San Francisco 49ers",
+    "home_team": "Dallas Cowboys",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "San Francisco 49ers",
+    "key_plays": [
+      "Q2 2:43: Brock Purdy 74-yard TD pass to Christian McCaffrey",
+      "Q3 7:13: Deebo Samuel 70-yard rushing touchdown",
+      "Q4 11:34: Christian McCaffrey 16-yard rushing touchdown",
+      "Q4 3:32: Brock Purdy 66-yard TD pass to Christian McCaffrey",
+      "Q4 0:47: Dak Prescott 1-yard TD pass to CeeDee Lamb"
+    ],
+    "away_score": 46,
+    "storyline": "San Francisco improved to 8-1, while Dallas fell to 4-6. After the 49ers led 38-19 in the fourth quarter, the Cowboys scored three touchdowns but finished six points short.",
+    "top_performers": [
+      {
+        "stat_line": "22 of 28, 389 yards, 3 TD, 0 INT",
+        "team": "San Francisco 49ers",
+        "name": "Brock Purdy"
+      },
+      {
+        "stat_line": "13 carries, 62 yards, 1 rushing TD; 4 receptions, 161 yards, 2 receiving TD",
+        "team": "San Francisco 49ers",
+        "name": "Christian McCaffrey"
+      },
+      {
+        "stat_line": "11 receptions, 145 yards, 3 TD",
+        "team": "Dallas Cowboys",
+        "name": "George Pickens"
+      },
+      {
+        "stat_line": "30 of 51, 343 yards, 5 TD, 1 INT",
+        "team": "Dallas Cowboys",
+        "name": "Dak Prescott"
+      }
+    ],
+    "home_record_after": "4-6",
+    "tough_day": [
+      {
+        "stat_line": "Allowed 46 points",
+        "team": "Dallas Cowboys",
+        "name": "Dallas Cowboys defense"
+      }
+    ],
+    "away_record_after": "8-1",
+    "home_team": "Dallas Cowboys",
+    "home_score": 40
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary gives the visitor and home final totals and lists the game date, confirming the matchup was played to a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: San Francisco 49ers 7 10 14 15 0 46 HOME: Dallas Cowboys 10 6 3 21 0 40 **1 2 3 4 OT Total** Replay Official: Wakefield, Chad (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Date: Sunday, 11/15/2026"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies San Francisco as the visiting team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: San Francisco 49ers 7 10 14 15 0 46"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The cited play-by-play entries give the quarter-specific game-clock times, players, play descriptions, and touchdowns for the listed key plays.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(2:43) (Shotgun) B.Purdy pass short right to C.McCaffrey for 74 yards, TOUCHDOWN.",
+            "(7:13) D.Samuel left end for 70 yards, TOUCHDOWN.** 1-10-SF 30 R18",
+            "(11:34) C.McCaffrey left tackle for 16 yards, TOUCHDOWN.** 1-10-DAL 16 R24",
+            "(3:32) (Shotgun) B.Purdy pass short right to C.McCaffrey for 66 yards, TOUCHDOWN.** 2-10-SF 34 P26",
+            "(:47) (Shotgun) D.Prescott pass short left to C.Lamb for 1 yard, TOUCHDOWN.** 1-1-SF 1 P27"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official game summary lists the 49ers' final total as 46.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: San Francisco 49ers 7 10 14 15 0 46"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The score records show a 46-40 San Francisco win and the teams' postgame records. The official scoring summary shows San Francisco leading 38-19 after its fourth-quarter touchdown, followed by three Dallas touchdowns, with the last at 0:43 and the final margin six.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873063",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n[San Francisco 49ers 49ers SF](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n8-1 , 3-1 Away\n\n46\n\n8-1 , 3-1 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) SF |7 |10 |14 |15 |46 |"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys",
+          "excerpts": [
+            "[Dallas Cowboys Cowboys DAL](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\n4-6 , 1-4 Home\n\n40\n\n4-6 , 1-4 Home\n\n# San Francisco 49ers @ Dallas Cowboys\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys)"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers C.McCaffrey 16 yd. run (E.Pineiro kick) (12-90, 7:10) 38 19 4 11:26 Cowboys G.Pickens 5 yd. pass from D.Prescott (pass failed) (6-65, 2:18) 38 25 4 9:08 Cowboys R.Flournoy 11 yd. pass from D.Prescott (B.Aubrey kick) (10-66, 3:00) 38 32 4 3:42 49ers C.McCaffrey 66 yd. pass from B.Purdy (B.Purdy-C.McCaffrey pass) (2-66, 0:19) 46 32 4 3:23 Cowboys C.Lamb 1 yd. pass from D.Prescott (D.Prescott run) (12-76, 2:40) 46 40 4 0:43"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The cited box-score rows support Purdy's passing line, McCaffrey's rushing and receiving totals, Pickens' receiving totals, and Prescott's passing line.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873063",
+          "excerpts": [
+            "Brock Purdy](https://www.espn.com/nfl/player/_/id/4361741/brock-purdy) #13 | | team | | C/ATT | YDS | TD | INT | SACKS | | 22/28 | 389 | 3 | 0 | 5-19 |",
+            "Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) #4 | | team | | C/ATT | YDS | TD | INT | SACKS | | 30/51 | 343 | 5 | 1 | 1-0 |"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.McCaffrey 62 4.8 1 13 17",
+            "C.McCaffrey 161 40.3 2 4 4 R.Flournoy 71 11.8 1 6 7 23 **74**",
+            "G.Kittle 74 12.3 0 6 9 G.Pickens 145 13.2 3 11 18 **39** 20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The game listing gives Dallas's postgame record as 4-6.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys",
+          "excerpts": [
+            "[Dallas Cowboys Cowboys DAL](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys)\n\n4-6 , 1-4 Home\n\n40\n\n4-6 , 1-4 Home\n\n# San Francisco 49ers @ Dallas Cowboys\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys)"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The final score shows Dallas conceded 46 points in the game.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: San Francisco 49ers 7 10 14 15 0 46 HOME: Dallas Cowboys 10 6 3 21 0 40"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The game listing gives San Francisco's postgame record as 8-1.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873063",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n[San Francisco 49ers 49ers SF](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n8-1 , 3-1 Away\n\n46\n\n8-1 , 3-1 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) SF |7 |10 |14 |15 |46 |"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary identifies Dallas as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Dallas Cowboys 10 6 3 21 0 40"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary lists the Cowboys' final total as 40.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Dallas Cowboys 10 6 3 21 0 40"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The play-by-play records Purdy's 74-yard touchdown pass to McCaffrey at 2:43 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(2:43) (Shotgun) B.Purdy pass short right to C.McCaffrey for 74 yards, TOUCHDOWN."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The play-by-play records Samuel's 70-yard rushing touchdown at 7:13 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(7:13) D.Samuel left end for 70 yards, TOUCHDOWN.** 1-10-SF 30 R18"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play records McCaffrey's 16-yard rushing touchdown at 11:34 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(11:34) C.McCaffrey left tackle for 16 yards, TOUCHDOWN.** 1-10-DAL 16 R24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The play-by-play records Purdy's 66-yard touchdown pass to McCaffrey at 3:32 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(3:32) (Shotgun) B.Purdy pass short right to C.McCaffrey for 66 yards, TOUCHDOWN.** 2-10-SF 34 P26"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The play-by-play records Prescott's one-yard touchdown pass to Lamb with 0:47 remaining in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(:47) (Shotgun) D.Prescott pass short left to C.Lamb for 1 yard, TOUCHDOWN.** 1-1-SF 1 P27"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box-score row lists Purdy at 22 of 28 for 389 yards, three touchdowns, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873063",
+          "excerpts": [
+            "Brock Purdy](https://www.espn.com/nfl/player/_/id/4361741/brock-purdy) #13 | | team | | C/ATT | YDS | TD | INT | SACKS | | 22/28 | 389 | 3 | 0 | 5-19 |"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official statistics list McCaffrey with 13 carries for 62 yards and one rushing touchdown, plus four receptions for 161 yards and two receiving touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.McCaffrey 62 4.8 1 13 17",
+            "C.McCaffrey 161 40.3 2 4 4 R.Flournoy 71 11.8 1 6 7 23 **74**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving statistics list Pickens with 11 catches for 145 yards and three touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Kittle 74 12.3 0 6 9 G.Pickens 145 13.2 3 11 18 **39** 20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The box-score row lists Prescott at 30 of 51 for 343 yards, five touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873063",
+          "excerpts": [
+            "Dak Prescott](https://www.espn.com/nfl/player/_/id/2577417/dak-prescott) #4 | | team | | C/ATT | YDS | TD | INT | SACKS | | 30/51 | 343 | 5 | 1 | 1-0 |"
+          ],
+          "title": "49ers 46-40 Cowboys (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The final score shows the Cowboys' opponent scored 46 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794790580/gamecenter/ab78a748-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: San Francisco 49ers 7 10 14 15 0 46 HOME: Dallas Cowboys 10 6 3 21 0 40"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Dallas, the 49ers and Cowboys chased a big win. Brock Purdy zipped a 74-yard touchdown pass to Christian McCaffrey! Then Deebo Samuel raced 70 yards for another 49ers touchdown. The 49ers led 38-19 in the fourth quarter, but Dallas was determined. The Cowboys scored 3 touchdowns, with Dak Prescott finding CeeDee Lamb for the last one! San Francisco held on to win 46-40. The 49ers climbed to 8-1, while Dallas fell to 4-6.",
+    "big_words": [
+      {
+        "word": "determined",
+        "definition": "Not willing to give up.",
+        "example": "Zoe was determined to build her block tower as tall as her chair."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1190,
+        "output": 200
+      }
+    ]
+  }
+}

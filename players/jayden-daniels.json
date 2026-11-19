@@ -1,0 +1,61 @@
+{
+  "name": "Jayden Daniels",
+  "espn_id": "4426348",
+  "team": "Washington Commanders",
+  "team_abbr": "WSH",
+  "number": "5",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "LSU",
+  "experience": 3,
+  "fun_facts": [
+    "Jayden won the Heisman Trophy in 2023.",
+    "Jayden gained 606 total yards in one college game at LSU.",
+    "Jayden topped 1,000 passing yards and 250 rushing yards in his first five NFL games."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "WSH",
+        "17",
+        "331",
+        "480",
+        "3,568",
+        "25",
+        "9"
+      ],
+      [
+        "2025",
+        "WSH",
+        "7",
+        "114",
+        "188",
+        "1,262",
+        "8",
+        "3"
+      ],
+      [
+        "2026",
+        "WSH",
+        "7",
+        "138",
+        "213",
+        "1,499",
+        "10",
+        "2"
+      ]
+    ]
+  }
+}

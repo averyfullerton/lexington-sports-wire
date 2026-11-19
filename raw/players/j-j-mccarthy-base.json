@@ -1,0 +1,194 @@
+{
+  "run_id": "trun_415f3f698c1f435b81fa7f753340f8ca",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 70.0,
+  "input": {
+    "player": "J.J. McCarthy",
+    "team": "New York Giants",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Michigan",
+    "fun_facts": [
+      "J.J. McCarthy grew up in La Grange Park, outside Chicago.",
+      "He went 36-2 as a high-school starter at Nazareth Academy and IMG Academy.",
+      "He finished his Michigan career with a 27-1 record as a starter.",
+      "J.J. McCarthy helped lead Michigan to a 15-0 season and a national championship in 2023.",
+      "He became the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut.",
+      "He began meditating in high school and uses meditation as part of his pregame routine."
+    ],
+    "draft": "2024, round 1, pick 10"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Michigan as J.J. McCarthy's college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/j-j-mccarthy",
+          "excerpts": [
+            "* [Info](https://www.nfl.com/players/j-j-mccarthy/)\n* [Stats](https://www.nfl.com/players/j-j-mccarthy/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-3\n* Weight\n  \n  219\n* Arms\n  \n  31 3/4\n* Hands\n  \n  9\n\n* Experience\n  \n  3\n* College\n  \n  Michigan\n* Age\n  \n  23\n* Hometown\n  \n  La Grange Park, IL\n\n## Related Content - Articles\n\n[news ### Commanders-Giants on 'Thursday Night Football': What We Learned from Washington's 24-21 win NFL.com's Grant Gordon dissects the Washington Commanders' comeback win over the division-rival"
+          ],
+          "title": "J.J. McCarthy Stats, News and Video - QB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the hometown, high-school starting record, Michigan starting record and championship season, NFL debut milestone, and meditation routine stated in the list.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
+          "excerpts": [
+            "In all, McCarthy completed 13 of 20 passes for 143 yards. In the process, he became the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut. He also joined Steve Young as the only quarterbacks in the past 45 years to overcome a double-digit deficit in the fourth quarter of their debut and win.\n\nMcCarthy grew up in La Grange Park, outside of Chicago, and said he largely blocked out the cheers and jeers Bears fans subjected him to."
+          ],
+          "title": "J.J. McCarthy directs fourth-quarter comeback as Vikings take down Bears - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2024-nfl-scouting-combine-what-we-learned-during-friday-s-activities-in-indianapolis",
+          "excerpts": [
+            "while recording a combined starting record of 36-2 at Nazareth Academy (in his hometown of La Grange Park, Illinois) and IMG Academy (the illustrious football factory in Bradenton, Florida, where McCarthy spent his senior season). But in Michigan\u2019s run-first offense, he only reached 300 yards passing in three of his 40 career games (28 starts), spawning questions about his ability to carry an NFL team on the strength of his right arm."
+          ],
+          "title": "2024 NFL Scouting Combine: What We Learned during Friday's activities in Indianapolis | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2024/story/_/id/39919928/jj-mccarthy-michigan-wolverines-2024-nfl-draft-stats-scouting-report-rank",
+          "excerpts": [
+            "McCarthy](https://www.espn.com/college-football/player/_/id/4433970/jj-mccarthy) scouting report and rankings\n\n## Scouts Inc. ranking : No. 12 overall, No. 4 QB\n\nMcCarthy finished his college career with a 27-1 record as a starter. He can throw into tight windows against zone looks and complete passes against press-man coverage thanks to his anticipation, accuracy and arm strength."
+          ],
+          "title": "J.J. McCarthy 2024 NFL draft scouting report, rankings, stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/vikings-trade-up-to-select-michigan-qb-j-j-mccarthy-with-no-10-pick-in-2024-nfl-draft-jets-receive-three-picks",
+          "excerpts": [
+            "But he wouldn\u2019t lose another college game, leading Michigan to a 15-0 mark and a national championship victory over Washington after beating Alabama in the Rose Bowl."
+          ],
+          "title": "Vikings trade up twice in Round 1 to select J.J. McCarthy, Dallas Turner | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39197659/rose-bowl-michigan-jj-mccarthy-jim-harbaugh-college-football-playoff",
+          "excerpts": [
+            "McCarthy found meditation in high school while playing at IMG Academy in Bradenton, Florida. He was a four-star prospect, ranked as the No. 25 player in his class. But, he felt stuck away from his home in La Grange, Illinois. That led him to search for ways to strengthen his mind. He used guided meditation apps and various methods that have helped him center himself.\n\nJ.J. McCarthy began meditating in high school and has made it a part of his pregame preparations. Aaron J."
+          ],
+          "title": "How J.J. McCarthy meshed with Jim Harbaugh and became possibly Michigan's best QB ever - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The draft record identifies the Minnesota Vikings' first-round selection as the 10th overall pick in the 2024 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/M/McCaJJ00.htm",
+          "excerpts": [
+            "**Draft** : [Minnesota Vikings](https://www.pro-football-reference.com/teams/min/2024_draft.htm) in the 1st round (10th overall) of the [2024 NFL Draft](https://www.pro-football-reference.com/years/2024/draft.htm) ."
+          ],
+          "title": "J.J. McCarthy Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says McCarthy grew up in La Grange Park, outside Chicago.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
+          "excerpts": [
+            "In all, McCarthy completed 13 of 20 passes for 143 yards. In the process, he became the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut. He also joined Steve Young as the only quarterbacks in the past 45 years to overcome a double-digit deficit in the fourth quarter of their debut and win.\n\nMcCarthy grew up in La Grange Park, outside of Chicago, and said he largely blocked out the cheers and jeers Bears fans subjected him to."
+          ],
+          "title": "J.J. McCarthy directs fourth-quarter comeback as Vikings take down Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage gives his combined 36-2 high-school starting record at Nazareth Academy and IMG Academy.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2024-nfl-scouting-combine-what-we-learned-during-friday-s-activities-in-indianapolis",
+          "excerpts": [
+            "while recording a combined starting record of 36-2 at Nazareth Academy (in his hometown of La Grange Park, Illinois) and IMG Academy (the illustrious football factory in Bradenton, Florida, where McCarthy spent his senior season). But in Michigan\u2019s run-first offense, he only reached 300 yards passing in three of his 40 career games (28 starts), spawning questions about his ability to carry an NFL team on the strength of his right arm."
+          ],
+          "title": "2024 NFL Scouting Combine: What We Learned during Friday's activities in Indianapolis | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage explicitly states that he completed his college career with a 27-1 record as a starter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2024/story/_/id/39919928/jj-mccarthy-michigan-wolverines-2024-nfl-draft-stats-scouting-report-rank",
+          "excerpts": [
+            "McCarthy](https://www.espn.com/college-football/player/_/id/4433970/jj-mccarthy) scouting report and rankings\n\n## Scouts Inc. ranking : No. 12 overall, No. 4 QB\n\nMcCarthy finished his college career with a 27-1 record as a starter. He can throw into tight windows against zone looks and complete passes against press-man coverage thanks to his anticipation, accuracy and arm strength."
+          ],
+          "title": "J.J. McCarthy 2024 NFL draft scouting report, rankings, stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says he led Michigan to a 15-0 mark and a national championship victory in 2023.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/vikings-trade-up-to-select-michigan-qb-j-j-mccarthy-with-no-10-pick-in-2024-nfl-draft-jets-receive-three-picks",
+          "excerpts": [
+            "But he wouldn\u2019t lose another college game, leading Michigan to a 15-0 mark and a national championship victory over Washington after beating Alabama in the Rose Bowl."
+          ],
+          "title": "Vikings trade up twice in Round 1 to select J.J. McCarthy, Dallas Turner | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage states that McCarthy became the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46203851/in-nfl-debut-qb-jj-mccarthy-rallies-vikings-bears",
+          "excerpts": [
+            "In all, McCarthy completed 13 of 20 passes for 143 yards. In the process, he became the first quarterback in NFL history to account for three touchdowns in the fourth quarter of his NFL debut. He also joined Steve Young as the only quarterbacks in the past 45 years to overcome a double-digit deficit in the fourth quarter of their debut and win.\n\nMcCarthy grew up in La Grange Park, outside of Chicago, and said he largely blocked out the cheers and jeers Bears fans subjected him to."
+          ],
+          "title": "J.J. McCarthy directs fourth-quarter comeback as Vikings take down Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage describes his discovery of meditation in high school and his use of guided meditation apps and other methods.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39197659/rose-bowl-michigan-jj-mccarthy-jim-harbaugh-college-football-playoff",
+          "excerpts": [
+            "McCarthy found meditation in high school while playing at IMG Academy in Bradenton, Florida. He was a four-star prospect, ranked as the No. 25 player in his class. But, he felt stuck away from his home in La Grange, Illinois. That led him to search for ways to strengthen his mind. He used guided meditation apps and various methods that have helped him center himself.\n\nJ.J. McCarthy began meditating in high school and has made it a part of his pregame preparations. Aaron J."
+          ],
+          "title": "How J.J. McCarthy meshed with Jim Harbaugh and became possibly Michigan's best QB ever - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

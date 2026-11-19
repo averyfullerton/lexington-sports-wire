@@ -1,0 +1,183 @@
+{
+  "run_id": "trun_415f3f698c1f435baf9c184929d24aed",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 87.7,
+  "input": {
+    "player": "J. Michael Sturdivant",
+    "team": "Green Bay Packers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Florida",
+    "fun_facts": [
+      "In a 2023 UCLA game against Boise State, J. Michael Sturdivant caught four passes for 142 yards and a touchdown.",
+      "J. Michael Sturdivant finished his college career with 150 catches, 2,073 receiving yards, and 16 touchdowns.",
+      "J. Michael Sturdivant ran the 40-yard dash in 4.40 seconds at the 2026 NFL Scouting Combine.",
+      "In a 2026 Packers preseason game against the Cardinals, J. Michael Sturdivant caught six passes for 112 yards and a touchdown.",
+      "J. Michael Sturdivant played college football at California, UCLA, and Florida."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Packers roster lists Florida as J. Michael Sturdivant\u2019s college. The college list shows California, UCLA, and Florida, with Florida last.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/green-bay-packers/roster",
+          "excerpts": [
+            "|[Pierre Strong](https://www.nfl.com/players/pierre-strong/) |22 |RB |ACT |71 |207 |4 |South Dakota State |\n|[J. Michael Sturdivant](https://www.nfl.com/players/j-michael-sturdivant/) |87 |WR |ACT |75 |207 |R |Florida |\n|[Tyrod Taylor](https://www.nfl.com/players/tyrod-taylor/) |6 |QB |ACT |73 |217 |16 |Virginia Tech |\n|[Zach Bako-Bewele](https://www.nfl.com/players/zach-tom/) |50 |G |RES |76 |304 |5 |Wake Forest |"
+          ],
+          "title": "Green Bay Packers 2026 Player Roster | NFL.com"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/M/MichJ00.htm",
+          "excerpts": [
+            "**College** : [California](https://www.pro-football-reference.com/schools/california/) , [UCLA](https://www.pro-football-reference.com/schools/ucla/) , [Florida](https://www.pro-football-reference.com/schools/florida/) ( [College Stats](https://www.sports-reference.com/cfb/players/j-michael-sturdivant-1.html) )\n\n**High School** : [Blue Valley Northwest](https://www.pro-football-reference.com/schools/high_schools.cgi?id=31a1d0fc) ("
+          ],
+          "title": "J. Michael Sturdivant Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN game record gives Sturdivant\u2019s four-catch, 142-yard, one-touchdown performance against Boise State. ESPN\u2019s college career stats show his total catches, yards, and touchdowns. NFL.com identifies his 4.40-second combine dash and his Florida-to-NFL college history; ESPN\u2019s Packers-Cardinals game record gives his six catches, 112 yards, and touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401551752/ucla-boise-st",
+          "excerpts": [
+            "Tiller QB 12/21, 1 INT 117\n\nRushing Yards\n\n127 C. Schlee QB 7 CAR 127\n\nRushing Yards\n\n138 G. Holani RB 17 CAR, 2 TD 138\n\nReceiving Yards\n\n142 J. Michael Sturdivant WR 4 REC, 1 TD 142\n\nReceiving Yards\n\n45 G. Holani RB 1 REC 45\n\nSacks\n\n1 G. Murphy DL 1\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n11 D. Muasau LB 6 SOLO 11"
+          ],
+          "title": "UCLA 35-22 Boise State (Dec 16, 2023) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/stats/_/id/4635009/j-michael-sturdivant",
+          "excerpts": [
+            "|Career | |\n\n|REC |YDS |AVG |TD |LNG |\n| --- | --- | --- | --- | --- |\n|65 |755 |11\\.6 |7 |48 |\n|36 |597 |16\\.6 |4 |62 |\n|22 |315 |14\\.3 |2 |45 |\n|27 |406 |15\\.0 |3 |57 |\n|150 |2,073 |13\\.8 |16 |62 |"
+          ],
+          "title": "J. Michael Sturdivant Career Stats - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/j-michael-sturdivant",
+          "excerpts": [
+            "Michael Sturdivant runs official 4.40-second 40-yard dash at 2026 combine Florida Gators wide receiver J. Michael Sturdivant runs the 40-yard dash at the 2026 NFL Scouting Combine.](https://www.nfl.com/videos/j-michael-sturdivant-runs-40-yard-dash-at-2026-combine \"J. Michael Sturdivant runs official 4.40-second 40-yard dash at 2026 combine\")\n\nThe browser you are using is no longer supported on this site."
+          ],
+          "title": "J. Michael Sturdivant Stats, News and Video - WR | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401874102/cardinals-packers",
+          "excerpts": [
+            "Receiving Yards\n\n[94 S. Fehoko WR 5 REC, 2 TD 94](https://www.espn.com/nfl/player/_/id/4360739/simi-fehoko)\n\nReceiving Yards\n\n[112 J. Michael Sturdivant WR 6 REC, 1 TD 112](https://www.espn.com/nfl/player/_/id/4635009/j-michael-sturdivant)\n\nSacks\n\n[1\\.5 B. Ojulari LB 1\\.5](https://www.espn.com/nfl/player/_/id/4429111/bj-ojulari)"
+          ],
+          "title": "Packers 42-38 Cardinals (Aug 28, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/M/MichJ00.htm",
+          "excerpts": [
+            "**College** : [California](https://www.pro-football-reference.com/schools/california/) , [UCLA](https://www.pro-football-reference.com/schools/ucla/) , [Florida](https://www.pro-football-reference.com/schools/florida/) ( [College Stats](https://www.sports-reference.com/cfb/players/j-michael-sturdivant-1.html) )\n\n**High School** : [Blue Valley Northwest](https://www.pro-football-reference.com/schools/high_schools.cgi?id=31a1d0fc) ("
+          ],
+          "title": "J. Michael Sturdivant Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft tracker places J. Michael Sturdivant in its Undrafted list, supporting the answer that he went undrafted.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2026/prospects/all_all?collegeClass=all&page=1&status=undrafted",
+          "excerpts": [
+            "State West Chester State University West Virginia Western Carolina Western Kentucky Western Michigan Wisconsin Wyoming\n\nUndrafted\n\nSelect a status to filter prospects\n\nAll Statuses Drafted Undrafted\n\nClass\n\nSelect a class year to filter prospects\n\nAll Classes Junior R-Junior R-Sophomore Senior\n\nPLAYER\n\nGRADE\n\nPLAYER ZXAVIAN HARRIS\n\nDT MISSISSIPPI SR Senior\n\nGRADE 6\\.25\n\nPLAYER DIEGO POUNDS\n\nOT MISSISSIPPI SR Senior\n\nGRADE 6\\.13\n\nPLAYER DEONTAE LAWSON\n\nLB ALABAMA SR Senior\n\nGRADE 6\\.10\n\nPLAYER J. MICHAEL STURDIVANT\n\nWR FLORIDA SR Senior\n\nGRADE 6\\.10\n\nPLAYER LE'VEON MOSS\n\nRB TEXAS A&M SR Senior\n\nGRADE 6\\.10\n\nPLAYER MASON REIGER\n\nEDGE WISCONSIN SR Senior\n\nGRADE 6\\.10\n\nPLAYER JEFF CALDWELL\n\nWR CINCINNATI SR Senior\n\nGRADE 6\n\nPLAYER MICHAEL TRIGG\n\nTE BAYLOR SR Senior\n\nGRADE 6\n\nPLAYER RAHSUL FAISON\n\nRB SOUTH CAROLINA SR Senior\n\nGRADE 6\n\nPLAYER BISHOP FITZGERALD\n\nSAF USC SR Senior\n\nGRADE 5\\.99\n\nPLAYER J'MARI TAYLOR"
+          ],
+          "title": "\n\n\n\n\n\n    \n  \n\n\n\n    \n  All Colleges 2026 All Positions Draft Prospects | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN game record lists J. Michael Sturdivant with 142 receiving yards, four catches, and one touchdown against Boise State.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401551752/ucla-boise-st",
+          "excerpts": [
+            "Tiller QB 12/21, 1 INT 117\n\nRushing Yards\n\n127 C. Schlee QB 7 CAR 127\n\nRushing Yards\n\n138 G. Holani RB 17 CAR, 2 TD 138\n\nReceiving Yards\n\n142 J. Michael Sturdivant WR 4 REC, 1 TD 142\n\nReceiving Yards\n\n45 G. Holani RB 1 REC 45\n\nSacks\n\n1 G. Murphy DL 1\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n11 D. Muasau LB 6 SOLO 11"
+          ],
+          "title": "UCLA 35-22 Boise State (Dec 16, 2023) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN\u2019s career stats table gives his college career totals: 150 receptions, 2,073 yards, and 16 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/stats/_/id/4635009/j-michael-sturdivant",
+          "excerpts": [
+            "|Career | |\n\n|REC |YDS |AVG |TD |LNG |\n| --- | --- | --- | --- | --- |\n|65 |755 |11\\.6 |7 |48 |\n|36 |597 |16\\.6 |4 |62 |\n|22 |315 |14\\.3 |2 |45 |\n|27 |406 |15\\.0 |3 |57 |\n|150 |2,073 |13\\.8 |16 |62 |"
+          ],
+          "title": "J. Michael Sturdivant Career Stats - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "NFL.com states that J. Michael Sturdivant ran an official 4.40-second 40-yard dash at the 2026 combine.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/j-michael-sturdivant",
+          "excerpts": [
+            "Michael Sturdivant runs official 4.40-second 40-yard dash at 2026 combine Florida Gators wide receiver J. Michael Sturdivant runs the 40-yard dash at the 2026 NFL Scouting Combine.](https://www.nfl.com/videos/j-michael-sturdivant-runs-40-yard-dash-at-2026-combine \"J. Michael Sturdivant runs official 4.40-second 40-yard dash at 2026 combine\")\n\nThe browser you are using is no longer supported on this site."
+          ],
+          "title": "J. Michael Sturdivant Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN\u2019s Packers-Cardinals game record lists six receptions, 112 yards, and one touchdown for J. Michael Sturdivant.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401874102/cardinals-packers",
+          "excerpts": [
+            "Receiving Yards\n\n[94 S. Fehoko WR 5 REC, 2 TD 94](https://www.espn.com/nfl/player/_/id/4360739/simi-fehoko)\n\nReceiving Yards\n\n[112 J. Michael Sturdivant WR 6 REC, 1 TD 112](https://www.espn.com/nfl/player/_/id/4635009/j-michael-sturdivant)\n\nSacks\n\n[1\\.5 B. Ojulari LB 1\\.5](https://www.espn.com/nfl/player/_/id/4429111/bj-ojulari)"
+          ],
+          "title": "Packers 42-38 Cardinals (Aug 28, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The college list names California, UCLA, and Florida as the programs J. Michael Sturdivant attended.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/M/MichJ00.htm",
+          "excerpts": [
+            "**College** : [California](https://www.pro-football-reference.com/schools/california/) , [UCLA](https://www.pro-football-reference.com/schools/ucla/) , [Florida](https://www.pro-football-reference.com/schools/florida/) ( [College Stats](https://www.sports-reference.com/cfb/players/j-michael-sturdivant-1.html) )\n\n**High School** : [Blue Valley Northwest](https://www.pro-football-reference.com/schools/high_schools.cgi?id=31a1d0fc) ("
+          ],
+          "title": "J. Michael Sturdivant Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

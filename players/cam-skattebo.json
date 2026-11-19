@@ -1,0 +1,48 @@
+{
+  "name": "Cam Skattebo",
+  "espn_id": "4696981",
+  "team": "New York Giants",
+  "team_abbr": "NYG",
+  "number": "44",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Arizona State",
+  "experience": 2,
+  "fun_facts": [
+    "Cam got the nickname \u201cHoudini\u201d because he could escape from car seats.",
+    "Cam had 2,316 yards from scrimmage and 24 touchdowns in college in 2024.",
+    "Cam signed the football after his third touchdown against BYU in 2024."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "NYG",
+        "8",
+        "101",
+        "410",
+        "4.1",
+        "5"
+      ],
+      [
+        "2026",
+        "NYG",
+        "8",
+        "116",
+        "496",
+        "4.3",
+        "4"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "DK Metcalf",
+  "espn_id": "4047650",
+  "team": "Pittsburgh Steelers",
+  "team_abbr": "PIT",
+  "number": "4",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Ole Miss",
+  "experience": 8,
+  "fun_facts": [
+    "DK set his high school's triple-jump record.",
+    "DK ran the 40-yard dash in 4.33 seconds at the NFL Combine.",
+    "DK set an NFL rookie playoff record with 160 receiving yards in a win."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2019",
+        "SEA",
+        "16",
+        "58",
+        "900",
+        "7",
+        "54"
+      ],
+      [
+        "2020",
+        "SEA",
+        "16",
+        "83",
+        "1,303",
+        "10",
+        "62"
+      ],
+      [
+        "2021",
+        "SEA",
+        "17",
+        "75",
+        "967",
+        "12",
+        "84"
+      ],
+      [
+        "2022",
+        "SEA",
+        "17",
+        "90",
+        "1,048",
+        "6",
+        "54"
+      ],
+      [
+        "2023",
+        "SEA",
+        "16",
+        "66",
+        "1,114",
+        "8",
+        "73"
+      ],
+      [
+        "2024",
+        "SEA",
+        "15",
+        "66",
+        "992",
+        "5",
+        "71"
+      ],
+      [
+        "2025",
+        "PIT",
+        "15",
+        "59",
+        "850",
+        "6",
+        "80"
+      ],
+      [
+        "2026",
+        "PIT",
+        "9",
+        "35",
+        "432",
+        "2",
+        "51"
+      ]
+    ]
+  }
+}

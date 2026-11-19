@@ -1,0 +1,165 @@
+{
+  "run_id": "trun_415f3f698c1f435b8d4c3330aaec74d6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 61.3,
+  "input": {
+    "player": "Ollie Gordon II",
+    "team": "Miami Dolphins",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oklahoma State",
+    "fun_facts": [
+      "Ollie Gordon II\u2019s hometown is Fort Worth, Texas.",
+      "As a freshman at Oklahoma State, Ollie Gordon II rushed for 308 yards and two touchdowns.",
+      "In 2023, Ollie Gordon II rushed for 1,732 yards and 21 touchdowns.",
+      "Ollie Gordon II became Oklahoma State\u2019s first Doak Walker Award winner; his five rushing touchdowns against BYU tied Barry Sanders\u2019 school record.",
+      "In 2026, Ollie Gordon II had his first 100-yard NFL game with 100 yards on nine carries, including a career-long 53-yard run."
+    ],
+    "draft": "2025, round 6, pick 179"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile identifies Ollie Gordon II\u2019s college as Oklahoma State.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ollie-gordon-ii",
+          "excerpts": [
+            "# Ollie Gordon II Stats, News and Video - RB | NFL.com\n\n# Ollie Gordon II\n\nRB\n\n[Miami Dolphins](https://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ollie-gordon-ii/)\n* [Stats](https://www.nfl.com/players/ollie-gordon-ii/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-2\n* Weight\n  \n  225\n* Arms\n  \n  32 3/4\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Oklahoma State\n* Age\n  \n  22\n* Hometown\n  \n  Fort Worth, TX\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game?"
+          ],
+          "title": "Ollie Gordon II Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NFL profile gives Gordon\u2019s hometown. ESPN reports his freshman rushing totals and 2023 season statistics, as well as his Doak Walker Award and the BYU game that tied Barry Sanders\u2019 school record. The Dolphins\u2019 weekly release records Gordon\u2019s first 100-yard NFL game, nine carries, and 53-yard career-long run.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ollie-gordon-ii",
+          "excerpts": [
+            "# Ollie Gordon II Stats, News and Video - RB | NFL.com\n\n# Ollie Gordon II\n\nRB\n\n[Miami Dolphins](https://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ollie-gordon-ii/)\n* [Stats](https://www.nfl.com/players/ollie-gordon-ii/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-2\n* Weight\n  \n  225\n* Arms\n  \n  32 3/4\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Oklahoma State\n* Age\n  \n  22\n* Hometown\n  \n  Fort Worth, TX\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game?"
+          ],
+          "title": "Ollie Gordon II Stats, News and Video - RB | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39654433/ranking-top-10-running-backs-college-football-2024",
+          "excerpts": [
+            "[Ollie Gordon II](https://www.espn.com/college-football/player/_/id/4711533/ollie-gordon-ii) , [Oklahoma State](https://www.espn.com/college-football/team/_/id/197/oklahoma-state-cowboys)\n\nTroy Taormina/USA TODAY Sports\n\n**2023 stats:** 1,732 yards rushing, 6.1 yards per rush, 21 rushing TDs, 39 receptions, 330 receiving yards, 1 receiving TD\n\n**Points:** 98 (eight first-place votes)\n\nGordon, a 6-foot-1, 211-pound junior, exploded on the scene last season -- a true breakout story. He rushed for 308 yards and two touchdowns as a freshman, then began last season with a total of just",
+            "He became Oklahoma State's first Doak Walker Award winner, finishing the season with 1,732 yards and 21 TDs, including five against BYU, tying Barry Sanders' school record."
+          ],
+          "title": "Ranking college football's top 10 running backs in 2024 - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/mxvsb3onjywjzxi6lmuq",
+          "excerpts": [
+            "_102\\.1_\n\nOn the ground, Willis has recorded 12 rushing attempts for a league-leading 126 yards (10.5 avg.).\n\n**GORDON II ANSWERS THE CALL** After losing RB De'Von Achane to injury, Miami turned to RB Ollie Gordon II, who has recorded 72 carries for 339 yards (4.7 avg.) and four touchdowns this year, scoring in four consecutive games.\n\nGordon recorded his first career 100-yard game in Week 4 at Minnesota, rushing for 100 yards on nine carries (11.1 avg.), including a career-long 53-yard run and a touchdown."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography lists his draft information as 2025, round 6, pick 179 for Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4711533/ollie-gordon-ii",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Ollie Gordon II\n\nMiami Dolphins\n\n* [Miami Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n* \\#0\n* Running Back\n\n* HT/WT\n  \n  6' 2\", 225 lbs\n* Birthdate\n  \n  1/15/2004 (22)\n* College\n  \n  [Oklahoma St](https://www.espn.com/college-football/team/_/id/197/oklahoma-state-cowboys)\n* Draft Info\n  \n  2025: Rd 6, Pk 179 (MIA)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* CAR\n  \n  72\n  \n  27th\n  \n  YDS\n  \n  339\n  \n  20th\n  \n  TD\n  \n  4\n  \n  Tied-11th\n  \n  AVG\n  \n  4\\.7\n  \n  10th"
+          ],
+          "title": "Ollie Gordon II Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL profile lists Fort Worth, Texas, as Gordon\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/ollie-gordon-ii",
+          "excerpts": [
+            "# Ollie Gordon II Stats, News and Video - RB | NFL.com\n\n# Ollie Gordon II\n\nRB\n\n[Miami Dolphins](https://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](https://www.nfl.com/players/ollie-gordon-ii/)\n* [Stats](https://www.nfl.com/players/ollie-gordon-ii/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-2\n* Weight\n  \n  225\n* Arms\n  \n  32 3/4\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  2\n* College\n  \n  Oklahoma State\n* Age\n  \n  22\n* Hometown\n  \n  Fort Worth, TX\n\n## Related Content - Articles\n\n[news ### NFL Fantasy 2026 Start 'Em, Sit 'Em: Running backs for Week 10 Will Blake Corum score a touchdown in his sixth straight game?"
+          ],
+          "title": "Ollie Gordon II Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN says Gordon rushed for 308 yards and two touchdowns as a freshman.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39654433/ranking-top-10-running-backs-college-football-2024",
+          "excerpts": [
+            "[Ollie Gordon II](https://www.espn.com/college-football/player/_/id/4711533/ollie-gordon-ii) , [Oklahoma State](https://www.espn.com/college-football/team/_/id/197/oklahoma-state-cowboys)\n\nTroy Taormina/USA TODAY Sports\n\n**2023 stats:** 1,732 yards rushing, 6.1 yards per rush, 21 rushing TDs, 39 receptions, 330 receiving yards, 1 receiving TD\n\n**Points:** 98 (eight first-place votes)\n\nGordon, a 6-foot-1, 211-pound junior, exploded on the scene last season -- a true breakout story. He rushed for 308 yards and two touchdowns as a freshman, then began last season with a total of just"
+          ],
+          "title": "Ranking college football's top 10 running backs in 2024 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN lists 1,732 rushing yards and 21 rushing touchdowns among Gordon\u2019s 2023 statistics.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39654433/ranking-top-10-running-backs-college-football-2024",
+          "excerpts": [
+            "[Ollie Gordon II](https://www.espn.com/college-football/player/_/id/4711533/ollie-gordon-ii) , [Oklahoma State](https://www.espn.com/college-football/team/_/id/197/oklahoma-state-cowboys)\n\nTroy Taormina/USA TODAY Sports\n\n**2023 stats:** 1,732 yards rushing, 6.1 yards per rush, 21 rushing TDs, 39 receptions, 330 receiving yards, 1 receiving TD\n\n**Points:** 98 (eight first-place votes)\n\nGordon, a 6-foot-1, 211-pound junior, exploded on the scene last season -- a true breakout story. He rushed for 308 yards and two touchdowns as a freshman, then began last season with a total of just",
+            "He became Oklahoma State's first Doak Walker Award winner, finishing the season with 1,732 yards and 21 TDs, including five against BYU, tying Barry Sanders' school record."
+          ],
+          "title": "Ranking college football's top 10 running backs in 2024 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that Gordon was Oklahoma State\u2019s first Doak Walker Award winner and that his five touchdowns against BYU tied Barry Sanders\u2019 school record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39654433/ranking-top-10-running-backs-college-football-2024",
+          "excerpts": [
+            "He became Oklahoma State's first Doak Walker Award winner, finishing the season with 1,732 yards and 21 TDs, including five against BYU, tying Barry Sanders' school record."
+          ],
+          "title": "Ranking college football's top 10 running backs in 2024 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Dolphins\u2019 weekly release states that Gordon recorded his first career 100-yard game with 100 yards on nine carries, including a career-long 53-yard run.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/dolphins/mxvsb3onjywjzxi6lmuq",
+          "excerpts": [
+            "_102\\.1_\n\nOn the ground, Willis has recorded 12 rushing attempts for a league-leading 126 yards (10.5 avg.).\n\n**GORDON II ANSWERS THE CALL** After losing RB De'Von Achane to injury, Miami turned to RB Ollie Gordon II, who has recorded 72 carries for 339 yards (4.7 avg.) and four touchdowns this year, scoring in four consecutive games.\n\nGordon recorded his first career 100-yard game in Week 4 at Minnesota, rushing for 100 yards on nine carries (11.1 avg.), including a career-long 53-yard run and a touchdown."
+          ],
+          "title": "MIAMI DOLPHINS"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

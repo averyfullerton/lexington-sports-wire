@@ -1,0 +1,111 @@
+{
+  "name": "Deshaun Watson",
+  "espn_id": "3122840",
+  "team": "Cleveland Browns",
+  "team_abbr": "CLE",
+  "number": "4",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Clemson",
+  "experience": 10,
+  "fun_facts": [
+    "Deshaun was a Falcons ball boy in high school.",
+    "Deshaun threw six touchdowns in his first college start, a school record.",
+    "Deshaun won the college national championship with a touchdown pass on his final throw."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2017",
+        "HOU",
+        "7",
+        "126",
+        "204",
+        "1,699",
+        "19",
+        "8"
+      ],
+      [
+        "2018",
+        "HOU",
+        "16",
+        "345",
+        "505",
+        "4,165",
+        "26",
+        "9"
+      ],
+      [
+        "2019",
+        "HOU",
+        "15",
+        "333",
+        "495",
+        "3,852",
+        "26",
+        "12"
+      ],
+      [
+        "2020",
+        "HOU",
+        "16",
+        "382",
+        "544",
+        "4,823",
+        "33",
+        "7"
+      ],
+      [
+        "2022",
+        "CLE",
+        "6",
+        "99",
+        "170",
+        "1,102",
+        "7",
+        "5"
+      ],
+      [
+        "2023",
+        "CLE",
+        "6",
+        "105",
+        "171",
+        "1,115",
+        "7",
+        "4"
+      ],
+      [
+        "2024",
+        "CLE",
+        "7",
+        "137",
+        "216",
+        "1,148",
+        "5",
+        "3"
+      ],
+      [
+        "2026",
+        "CLE",
+        "9",
+        "188",
+        "289",
+        "2,118",
+        "7",
+        "4"
+      ]
+    ]
+  }
+}

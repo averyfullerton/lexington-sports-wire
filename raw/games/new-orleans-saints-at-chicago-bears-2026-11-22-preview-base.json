@@ -1,0 +1,306 @@
+{
+  "run_id": "trun_1714e31eeb204d32958377e5bf3419a5",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 99.5,
+  "input": {
+    "away_team": "New Orleans Saints",
+    "home_team": "Chicago Bears",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "3-6",
+    "away_team": "New Orleans Saints",
+    "storyline": "Chicago enters Week 11 at 7-2, tied with Detroit and Minnesota atop the NFC North, making this a division-position game for the Bears; New Orleans is 3-6 after a 20-17 Week 10 loss to Carolina.",
+    "matchup_notes": [
+      "Chicago's 7-2 record placed it in a tie with Detroit and Minnesota for the NFC North lead entering Week 11; the Bears were coming off their Week 10 bye.",
+      "New Orleans fell to 3-6 with a 20-17 Week 10 loss to Carolina.",
+      "The NFL matchup page listed Chicago seventh in both points per game (26.8) and yards per game (383.2); New Orleans ranked 15th in points (22.4) and 22nd in yards (314.2)."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,173 passing yards, 15 TD, 7 INT",
+        "team": "New Orleans Saints",
+        "name": "Tyler Shough"
+      },
+      {
+        "stat_line": "1,546 passing yards, 8 TD, 5 INT",
+        "team": "Chicago Bears",
+        "name": "Caleb Williams"
+      },
+      {
+        "stat_line": "576 rushing yards, 10 TD",
+        "team": "Chicago Bears",
+        "name": "D'Andre Swift"
+      }
+    ],
+    "home_record": "7-2",
+    "home_team": "Chicago Bears",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game listing gives the Saints' record as 3-6 before the scheduled Week 11 game.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/nfl-week-11-injury-report-2026-season",
+          "excerpts": [
+            "[New Orleans Saints](https://amp.nfl.com/teams/new-orleans-saints/ \"New Orleans Saints\")\n\n3-6\n\nAT\n\n[Chicago Bears](https://amp.nfl.com/teams/chicago-bears/ \"Chicago Bears\")\n\n7-2\n\n* **WHERE:** Soldier Field (Chicago)\n* **WHEN:** [1:00 p.m. ET](https://www.nfl.com/games/saints-at-bears-2026-reg-11) | [FOX](https://www.nfl.com/ways-to-watch/by-week/week-11)"
+          ],
+          "title": "NFL Week 11 injury report: Player statuses for all 13 games"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The Week 11 schedule identifies the away side as the New Orleans Saints in the Saints-at-Bears matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "* [Saints at Bears, Sunday, November 22nd, 1:00 PM, FOX](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n  \n  LOCAL\n  \n  New Orleans Saints Team Logo SAINTS\n  \n  Chicago Bears Team Logo BEARS"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Week 10 coverage says Chicago was tied with Detroit and Minnesota for the NFC North lead, and the game listing gives Chicago's 7-2 record. The Week 10 results list shows New Orleans lost to Carolina, grounding the matchup's division-position context and the Saints' recent result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week.",
+            "* Minnesota Vikings 30, Green Bay Packers 10\n* Indianapolis Colts 24, Miami Dolphins 22\n* Carolina Panthers 20, New Orleans Saints 17\n* Buffalo Bills 31, New York Jets 12"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nChicago Bears\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nChicago Bears, POINTS PER GAME, 26.8, ranked 7th.\n\n26\\.8\n\n7TH\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nChicago Bears, YARDS PER GAME, 383.2, ranked 7th.\n\n383\\.2\n\n7TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 22nd.\n\n29:52\n\n22ND\n\nTIME OF POSSESSION PER GAME\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:31, ranked 1st.\n\n34:31\n\n1ST"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited Week 10 report supports Chicago's tie atop the division and the Saints' loss; the game-center comparison gives both teams' current-season scoring and yardage averages and ranks.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week.",
+            "* Minnesota Vikings 30, Green Bay Packers 10\n* Indianapolis Colts 24, Miami Dolphins 22\n* Carolina Panthers 20, New Orleans Saints 17\n* Buffalo Bills 31, New York Jets 12"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nChicago Bears\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nChicago Bears, POINTS PER GAME, 26.8, ranked 7th.\n\n26\\.8\n\n7TH\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nChicago Bears, YARDS PER GAME, 383.2, ranked 7th.\n\n383\\.2\n\n7TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 22nd.\n\n29:52\n\n22ND\n\nTIME OF POSSESSION PER GAME\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:31, ranked 1st.\n\n34:31\n\n1ST"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The 2026 stat rows list Shough's passing yards, touchdowns and interceptions; Williams' same passing statistics; and Swift's rushing yards and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/tyler-shough/stats/career",
+          "excerpts": [
+            "|2026 |New Orleans Saints |9 |343 |229 |66\\.8 |2173 |6\\.3 |52 |15 |7 |110 |32\\.1 |23 |23 |156 |90\\.2 |\n|2025 |New Orleans Saints |11 |327 |221 |67\\.6 |2384 |7\\.3 |62 |10 |6 |107 |32\\.7 |19 |31 |195 |91\\.3 |\n|TOTAL | |20 |670 |450 |67\\.2 |4557 |6\\.8 |62 |25 |13 |217 |32\\.4 |42 |54 |351 |90\\.7 |\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |New Orleans Saints |9 |40 |187 |4\\.7 |36 |2 |14 |35 |2 |0 |6 |"
+          ],
+          "title": "Tyler Shough Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/caleb-williams/stats",
+          "excerpts": [
+            "|2026 |Chicago Bears |6 |6 |134 |195 |1546 |7\\.9 |8 |5 |14 |94 |95\\.4 |31 |145 |4\\.7 |2 |2 |0 |\n|TOTAL | |40 |40 |815 |1325 |9029 |6\\.8 |55 |18 |106 |725 |89\\.9 |189 |1022 |5\\.4 |5 |21 |6 |"
+          ],
+          "title": "Caleb Williams Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/d-andre-swift/stats/career",
+          "excerpts": [
+            "* [Situational](https://www.nfl.com/players/d-andre-swift/stats/situational/)\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Chicago Bears |9 |155 |576 |3\\.7 |32 |10 |30 |19\\.4 |2 |0 |2 |\n|2025 |Chicago Bears |16 |223 |1087 |4\\.9 |25 |9 |62 |27\\.8 |5 |0 |2 |\n|2024 |Chicago Bears |17 |253 |959 |3\\.8 |56 |6 |43 |17 |5 |1 |1 |\n|2023 |Philadelphia Eagles |16 |229 |1049 |4\\.6 |43 |5 |50 |21\\.8 |6 |1 |2 |"
+          ],
+          "title": "D'Andre Swift Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The game listing gives the Bears' record as 7-2 before the scheduled Week 11 game.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/nfl-week-11-injury-report-2026-season",
+          "excerpts": [
+            "[New Orleans Saints](https://amp.nfl.com/teams/new-orleans-saints/ \"New Orleans Saints\")\n\n3-6\n\nAT\n\n[Chicago Bears](https://amp.nfl.com/teams/chicago-bears/ \"Chicago Bears\")\n\n7-2\n\n* **WHERE:** Soldier Field (Chicago)\n* **WHEN:** [1:00 p.m. ET](https://www.nfl.com/games/saints-at-bears-2026-reg-11) | [FOX](https://www.nfl.com/ways-to-watch/by-week/week-11)"
+          ],
+          "title": "NFL Week 11 injury report: Player statuses for all 13 games"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 11 schedule identifies Chicago as the home team in the Saints-at-Bears matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "* [Saints at Bears, Sunday, November 22nd, 1:00 PM, FOX](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n  \n  LOCAL\n  \n  New Orleans Saints Team Logo SAINTS\n  \n  Chicago Bears Team Logo BEARS"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists the game for Sunday, November 22. Since the stated current date is November 19, 2026, the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "* [Saints at Bears, Sunday, November 22nd, 1:00 PM, FOX](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n  \n  LOCAL\n  \n  New Orleans Saints Team Logo SAINTS\n  \n  Chicago Bears Team Logo BEARS"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The report says Chicago was tied with Detroit and Minnesota for the division lead entering Week 11, and the matchup page lists Chicago at 7-2.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week."
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nChicago Bears\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nChicago Bears, POINTS PER GAME, 26.8, ranked 7th.\n\n26\\.8\n\n7TH\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nChicago Bears, YARDS PER GAME, 383.2, ranked 7th.\n\n383\\.2\n\n7TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 22nd.\n\n29:52\n\n22ND\n\nTIME OF POSSESSION PER GAME\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:31, ranked 1st.\n\n34:31\n\n1ST"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 10 results list records Carolina's 20-17 win over New Orleans.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Minnesota Vikings 30, Green Bay Packers 10\n* Indianapolis Colts 24, Miami Dolphins 22\n* Carolina Panthers 20, New Orleans Saints 17\n* Buffalo Bills 31, New York Jets 12"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The matchup page directly lists both teams' points-per-game and yards-per-game averages and their league ranks.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nChicago Bears\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nChicago Bears, POINTS PER GAME, 26.8, ranked 7th.\n\n26\\.8\n\n7TH\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nChicago Bears, YARDS PER GAME, 383.2, ranked 7th.\n\n383\\.2\n\n7TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 22nd.\n\n29:52\n\n22ND\n\nTIME OF POSSESSION PER GAME\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:31, ranked 1st.\n\n34:31\n\n1ST"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "Shough's 2026 row lists 2,173 passing yards, 15 touchdowns and 7 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/tyler-shough/stats/career",
+          "excerpts": [
+            "|2026 |New Orleans Saints |9 |343 |229 |66\\.8 |2173 |6\\.3 |52 |15 |7 |110 |32\\.1 |23 |23 |156 |90\\.2 |\n|2025 |New Orleans Saints |11 |327 |221 |67\\.6 |2384 |7\\.3 |62 |10 |6 |107 |32\\.7 |19 |31 |195 |91\\.3 |\n|TOTAL | |20 |670 |450 |67\\.2 |4557 |6\\.8 |62 |25 |13 |217 |32\\.4 |42 |54 |351 |90\\.7 |\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |New Orleans Saints |9 |40 |187 |4\\.7 |36 |2 |14 |35 |2 |0 |6 |"
+          ],
+          "title": "Tyler Shough Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Williams' 2026 row lists 1,546 passing yards, 8 touchdowns and 5 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/caleb-williams/stats",
+          "excerpts": [
+            "|2026 |Chicago Bears |6 |6 |134 |195 |1546 |7\\.9 |8 |5 |14 |94 |95\\.4 |31 |145 |4\\.7 |2 |2 |0 |\n|TOTAL | |40 |40 |815 |1325 |9029 |6\\.8 |55 |18 |106 |725 |89\\.9 |189 |1022 |5\\.4 |5 |21 |6 |"
+          ],
+          "title": "Caleb Williams Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "Swift's 2026 rushing row lists 576 yards and 10 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/d-andre-swift/stats/career",
+          "excerpts": [
+            "* [Situational](https://www.nfl.com/players/d-andre-swift/stats/situational/)\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Chicago Bears |9 |155 |576 |3\\.7 |32 |10 |30 |19\\.4 |2 |0 |2 |\n|2025 |Chicago Bears |16 |223 |1087 |4\\.9 |25 |9 |62 |27\\.8 |5 |0 |2 |\n|2024 |Chicago Bears |17 |253 |959 |3\\.8 |56 |6 |43 |17 |5 |1 |1 |\n|2023 |Philadelphia Eagles |16 |229 |1049 |4\\.6 |43 |5 |50 |21\\.8 |6 |1 |2 |"
+          ],
+          "title": "D'Andre Swift Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Who will make a big play? The 3-6 New Orleans Saints visit the 7-2 Chicago Bears. Bears QB Caleb Williams has 1,546 passing yards and 8 TDs. Chicago is tied for the NFC North lead in an exciting race! The game kicks off Sunday, Nov 22, in Chicago.",
+    "big_words": [
+      {
+        "word": "exciting",
+        "definition": "Making you feel happy and ready for fun.",
+        "example": "Lily built an exciting tower with blocks of every color."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask about this game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1100,
+        "output": 193
+      }
+    ]
+  }
+}

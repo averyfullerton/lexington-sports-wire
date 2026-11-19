@@ -1,0 +1,209 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc2bea6e9a0348fe",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 157.5,
+  "input": {
+    "player": "Caleb Williams",
+    "team": "Chicago Bears",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "USC",
+    "fun_facts": [
+      "Caleb Williams grew up in the Washington, D.C., area and attended Gonzaga College High School in Washington.",
+      "As a freshman at Oklahoma, Caleb Williams came into a game with the Sooners trailing 35\u201317 and led them to a 55\u201345 win.",
+      "In his 2022 Heisman-winning season, Caleb Williams threw for 4,537 yards and 42 touchdowns, with only five interceptions.",
+      "Across his college seasons at Oklahoma and USC, Caleb Williams threw for 10,082 yards and 93 touchdowns, and added 966 rushing yards and 27 rushing scores.",
+      "Caleb Williams enjoys building with LEGO bricks; he displayed his Heisman Trophy between two LEGO sets.",
+      "As a rookie, Caleb Williams set an NFL record with 353 passes without an interception and became the first Bears rookie quarterback to pass for more than 3,000 yards."
+    ],
+    "draft": "2024, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists USC as Caleb Williams\u2019s college. The NFL.com career summary says his first college season was at Oklahoma and his final two years were at USC, supporting USC as the last college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4431611/caleb-williams",
+          "excerpts": [
+            "HT/WT 6' 1\", 226 lbs\n\nBirthdate 11/18/2001 (24)\n\nCollege [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nDraft Info 2024: Rd 1, Pk 1 (CHI)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Washington, DC\n\n### Career History\n\n[Chicago Bears Chicago Bears 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/name/chi/chicago-bears)\n\n### Career Highlights\n\nNCAAF\n\nHeisman Memorial Trophy\n\nHeisman Memorial Trophy\n\n2022"
+          ],
+          "title": "Caleb Williams Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/caleb-williams-sets-goal-of-immortality-with-bears-only-way-to-reach-that-is-winning-championships",
+          "excerpts": [
+            "Between one season starting at Oklahoma and the last two years spent with USC, Williams threw for 10,082 yards, 93 touchdowns and 14 interceptions in his collegiate career. He added another 966 yards and 27 scores on the ground.\n\n## RELATED CONTENT"
+          ],
+          "title": "Caleb Williams sets goal of 'immortality' with Bears: 'Only way to reach that is winning championships' | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN and NFL.com passages directly support the hometown and school, Oklahoma comeback, Heisman-season stats, combined college totals, LEGO hobby, and rookie passing milestones stated in the list.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39614907/caleb-williams-intrigued-bears-commanders-top-draft",
+          "excerpts": [
+            "Williams' next most speculated destination is the Washington Commanders , who have the No. 2 pick. That union would mark a return home for Williams, who grew up in the area and attended Gonzaga College High School in Washington."
+          ],
+          "title": "Caleb Williams intrigued by Bears, Commanders at top of draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/usc-qb-caleb-williams-intends-to-enter-2024-nfl-draft",
+          "excerpts": [
+            "Oklahoma trailed 35-17 when Williams took over, but he led them to a dramatic 55-45 victory.\n\nWilliams transferred from Oklahoma to USC early in 2022, joining head coach Lincoln Riley after Riley"
+          ],
+          "title": "USC QB Caleb Williams intends to enter 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40025526/bears-select-qb-caleb-williams-no-1-pick-nfl-draft",
+          "excerpts": [
+            "ended Thursday night when they selected USC's [Caleb Williams](https://insider.espn.com/nfl/draft/player/_/id/108247/caleb-williams) with the No. 1 overall pick in the NFL draft.\n\nWilliams, 22, won the Heisman Trophy in 2022 when he threw for 4,537 yards, 42 touchdowns and only 5 interceptions in 500 pass attempts. He is the second Trojans quarterback to be selected with the first pick during the common draft era (Carson Palmer in 2003) and the sixth USC player to be taken at the top of the draft."
+          ],
+          "title": "Bears select QB Caleb Williams with No. 1 pick in NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/caleb-williams-sets-goal-of-immortality-with-bears-only-way-to-reach-that-is-winning-championships",
+          "excerpts": [
+            "Between one season starting at Oklahoma and the last two years spent with USC, Williams threw for 10,082 yards, 93 touchdowns and 14 interceptions in his collegiate career. He added another 966 yards and 27 scores on the ground.\n\n## RELATED CONTENT"
+          ],
+          "title": "Caleb Williams sets goal of 'immortality' with Bears: 'Only way to reach that is winning championships' | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41072207/caleb-williams-chicago-bears-usc-heisman-trophy-lego-sets",
+          "excerpts": [
+            "* Anthony Gharib Aug 31, 2024, 05:12 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Bears%27%20Caleb%20Williams%20puts%20Heisman%20trophy%20between%20Lego%20sets&body=https%3A%2F%2Fwww.espn.com%2Fnfl%2Fstory%2F_%2Fid%2F41072207)\n* [Print](https://www.espn.com/espn/print?id=41072207)\n\nOpen Extended Reactions\n\n[Caleb Williams](https://www.espn.com/nfl/player/_/id/4431611/caleb-williams) was the No. 1 overall pick in the 2024 NFL draft and is the starting quarterback for the [Chicago Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) . He's coming off a college career that included 10,082 passing yards, 120 total touchdowns and just 14 interceptions.\n\nWilliams is also fond of building with Lego bricks.\n\nSo much so that the Heisman Trophy he won during his sophomore season with the [USC Trojans](https://www.espn.com/college-football/team/_/id/30/usc-trojans) is slotted between two Lego sets."
+          ],
+          "title": "Bears' Caleb Williams puts Heisman trophy between Lego sets - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43261963/nfl-bears-caleb-williams-quarterback-ryan-poles-ben-johnson",
+          "excerpts": [
+            "Through it all, Williams flashed the potential that led to the Bears drafting him No. 1 overall. He set the NFL rookie record with 353 passes without an interception, became the first Bears rookie QB to pass for more than 3,000 yards (3,541) and set a team rookie record with 20 passing touchdowns. But he also has been sacked 68 times, which tied the Houston Texans ' David Carr in 2005 for the third-most since sacks were tracked in 1963, and he finished the season with a 46.5 QBR, which ranked 28th in the league."
+          ],
+          "title": "Inside Caleb Williams' tumultuous rookie season as Bears QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography directly lists the draft information as 2024: round 1, pick 1.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4431611/caleb-williams",
+          "excerpts": [
+            "HT/WT 6' 1\", 226 lbs\n\nBirthdate 11/18/2001 (24)\n\nCollege [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n\nDraft Info 2024: Rd 1, Pk 1 (CHI)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Washington, DC\n\n### Career History\n\n[Chicago Bears Chicago Bears 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/name/chi/chicago-bears)\n\n### Career Highlights\n\nNCAAF\n\nHeisman Memorial Trophy\n\nHeisman Memorial Trophy\n\n2022"
+          ],
+          "title": "Caleb Williams Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Caleb Williams grew up in the area and attended Gonzaga College High School in Washington.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39614907/caleb-williams-intrigued-bears-commanders-top-draft",
+          "excerpts": [
+            "Williams' next most speculated destination is the Washington Commanders , who have the No. 2 pick. That union would mark a return home for Williams, who grew up in the area and attended Gonzaga College High School in Washington."
+          ],
+          "title": "Caleb Williams intrigued by Bears, Commanders at top of draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states Oklahoma trailed 35\u201317 when Caleb Williams took over and that he led the team to a 55\u201345 victory.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/usc-qb-caleb-williams-intends-to-enter-2024-nfl-draft",
+          "excerpts": [
+            "Oklahoma trailed 35-17 when Williams took over, but he led them to a dramatic 55-45 victory.\n\nWilliams transferred from Oklahoma to USC early in 2022, joining head coach Lincoln Riley after Riley"
+          ],
+          "title": "USC QB Caleb Williams intends to enter 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Caleb Williams as the 2022 Heisman winner and gives his season totals of 4,537 passing yards, 42 touchdowns, and five interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40025526/bears-select-qb-caleb-williams-no-1-pick-nfl-draft",
+          "excerpts": [
+            "ended Thursday night when they selected USC's [Caleb Williams](https://insider.espn.com/nfl/draft/player/_/id/108247/caleb-williams) with the No. 1 overall pick in the NFL draft.\n\nWilliams, 22, won the Heisman Trophy in 2022 when he threw for 4,537 yards, 42 touchdowns and only 5 interceptions in 500 pass attempts. He is the second Trojans quarterback to be selected with the first pick during the common draft era (Carson Palmer in 2003) and the sixth USC player to be taken at the top of the draft."
+          ],
+          "title": "Bears select QB Caleb Williams with No. 1 pick in NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage gives his Oklahoma and USC college totals: 10,082 passing yards, 93 touchdowns, 14 interceptions, 966 rushing yards, and 27 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/caleb-williams-sets-goal-of-immortality-with-bears-only-way-to-reach-that-is-winning-championships",
+          "excerpts": [
+            "Between one season starting at Oklahoma and the last two years spent with USC, Williams threw for 10,082 yards, 93 touchdowns and 14 interceptions in his collegiate career. He added another 966 yards and 27 scores on the ground.\n\n## RELATED CONTENT"
+          ],
+          "title": "Caleb Williams sets goal of 'immortality' with Bears: 'Only way to reach that is winning championships' | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Caleb Williams enjoys building with LEGO bricks and kept his Heisman Trophy between two LEGO sets.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41072207/caleb-williams-chicago-bears-usc-heisman-trophy-lego-sets",
+          "excerpts": [
+            "* Anthony Gharib Aug 31, 2024, 05:12 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Bears%27%20Caleb%20Williams%20puts%20Heisman%20trophy%20between%20Lego%20sets&body=https%3A%2F%2Fwww.espn.com%2Fnfl%2Fstory%2F_%2Fid%2F41072207)\n* [Print](https://www.espn.com/espn/print?id=41072207)\n\nOpen Extended Reactions\n\n[Caleb Williams](https://www.espn.com/nfl/player/_/id/4431611/caleb-williams) was the No. 1 overall pick in the 2024 NFL draft and is the starting quarterback for the [Chicago Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) . He's coming off a college career that included 10,082 passing yards, 120 total touchdowns and just 14 interceptions.\n\nWilliams is also fond of building with Lego bricks.\n\nSo much so that the Heisman Trophy he won during his sophomore season with the [USC Trojans](https://www.espn.com/college-football/team/_/id/30/usc-trojans) is slotted between two Lego sets."
+          ],
+          "title": "Bears' Caleb Williams puts Heisman trophy between Lego sets - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage says Caleb Williams set the NFL rookie record with 353 passes without an interception and became the first Bears rookie quarterback to pass for more than 3,000 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43261963/nfl-bears-caleb-williams-quarterback-ryan-poles-ben-johnson",
+          "excerpts": [
+            "Through it all, Williams flashed the potential that led to the Bears drafting him No. 1 overall. He set the NFL rookie record with 353 passes without an interception, became the first Bears rookie QB to pass for more than 3,000 yards (3,541) and set a team rookie record with 20 passing touchdowns. But he also has been sacked 68 times, which tied the Houston Texans ' David Carr in 2005 for the third-most since sacks were tracked in 1963, and he finished the season with a 46.5 QBR, which ranked 28th in the league."
+          ],
+          "title": "Inside Caleb Williams' tumultuous rookie season as Bears QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "run_id": "trun_3df3487a122343d494d6bb9541909850",
+  "processor": "core",
+  "status": "completed",
+  "elapsed_s": 129.9,
+  "input": {
+    "away_team": "Jacksonville Jaguars",
+    "home_team": "Tennessee Titans",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Jacksonville Jaguars",
+    "key_plays": [
+      "Q3 6:28: Trevor Lawrence's 3-yard touchdown pass to Brenton Strange put Jacksonville ahead 23-13.",
+      "Q4 9:44: Trevor Lawrence's 25-yard touchdown pass to Josh Cameron extended Jacksonville's lead to 30-16.",
+      "Q4 8:21: Cam Ward's 32-yard touchdown pass to Tony Pollard cut the Jaguars' lead to 30-23.",
+      "Q4 4:31: Cam Little made a 40-yard field goal to give Jacksonville a 33-23 lead.",
+      "Q4 1:14: Bhayshul Tuten's 6-yard touchdown run made the final score 40-23."
+    ],
+    "away_score": 40.0,
+    "storyline": "Jacksonville improved to 7-2, won its third straight game, and held a four-game lead in the AFC South. Tennessee fell to 1-8 and lost its third consecutive game.",
+    "top_performers": [
+      {
+        "stat_line": "25 of 35, 352 yards, 3 TD, 1 INT",
+        "team": "Jacksonville Jaguars",
+        "name": "Trevor Lawrence"
+      },
+      {
+        "stat_line": "7 receptions, 152 yards, 1 TD",
+        "team": "Jacksonville Jaguars",
+        "name": "Parker Washington"
+      },
+      {
+        "stat_line": "26 carries, 88 yards, 1 TD",
+        "team": "Jacksonville Jaguars",
+        "name": "Bhayshul Tuten"
+      },
+      {
+        "stat_line": "9 carries, 33 yards; 8 receptions, 66 yards, 1 TD",
+        "team": "Tennessee Titans",
+        "name": "Tony Pollard"
+      },
+      {
+        "stat_line": "28 of 39, 231 yards, 2 TD, 1 INT",
+        "team": "Tennessee Titans",
+        "name": "Cam Ward"
+      }
+    ],
+    "home_record_after": "1-8",
+    "tough_day": [
+      {
+        "stat_line": "2 of 11 on third down (18.2%)",
+        "team": "Tennessee Titans",
+        "name": "Tennessee Titans offense"
+      }
+    ],
+    "away_record_after": "7-2",
+    "home_team": "Tennessee Titans",
+    "home_score": 23.0
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game center identifies the Week 10 game as Final, and ESPN's scoreboard shows the final quarter-by-quarter line and final score.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jaguars-at-titans-2026-reg-10",
+          "excerpts": [
+            "Skip to main content\n\nJacksonville Jaguars\n\nJAX\n\nJacksonville Jaguars\n\nJAGUARS\n\nJacksonville Jaguars\n\nJACKSONVILLE\n\nJAGUARS\n\nHidden Score\n\nTennessee Titans\n\nTEN\n\nTennessee Titans\n\nTITANS\n\nTennessee Titans\n\nTENNESSEE\n\nTITANS\n\nHidden Score\n\nFinal\n\nWEEK 10\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n[Download Game Book (PDF)](https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf)\n\nINFO RECAP STATS HIGHLIGHTS & REPLAYS\n\nTEAM\n\nQ1\n\nQuarter 1\n\nQ2"
+          ],
+          "title": "Jacksonville Jaguars at Tennessee Titans 2026 REG 10 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873057",
+          "excerpts": [
+            "NASCAR F1 Women's NCAA soccer Men's NCAA soccer UEFA Nations League Concacaf Nations League AFCON Qualifying WTGL\n\nWeek 9 Week 10 Week 11\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n[Jacksonville Jaguars Jaguars JAX](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n7-2 , 3-1 Away\n\n40\n\n7-2 , 3-1 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars) JAX |7 |9 |7 |17 |40 |\n|[Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans) TEN |3 |7 |6 |7 |23 |\n\n[](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans)"
+          ],
+          "title": "Jaguars 40-23 Titans (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game summary identifies Jacksonville as the visitor in this matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jacksonville Jaguars at Tennessee Titans"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official game book's play-by-play records the Strange and Cameron touchdown passes, Pollard's touchdown reception, Little's field goal, and Tuten's late touchdown run, with the corresponding quarter and game clock.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(7:18) B.Tuten left guard to TEN 3 for -1 yards (K.Winston). 3-1-TEN 2 **(6:33) (Shotgun) T.Lawrence pass short left to B.Strange for 3 yards, TOUCHDOWN.** 4-2-TEN 3 P18 C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke. Timeout at 06:28. **JAX 23 TEN 13, 10 plays, 71 yards, 1 penalty, 6:07 drive, 8:32 elapsed",
+            "(14:16) C.Rodriguez right tackle to JAX 42 for -5 yards (T.Adams). 1-10-JAX 47 (13:35) (Shotgun) T.Lawrence pass short right to P.Washington to JAX 46 for 4 yards (Jo.Williams). 2-15-JAX 42 Timeout #1 by JAX at 12:49. (12:48) (Shotgun) T.Lawrence scrambles right guard to TEN 39 for 15 yards (A.Taylor). 3-11-JAX 46 R20 (12:02) B.Tuten left tackle to TEN 36 for 3 yards (K.Winston; Jo.Williams). 1-10-TEN 39 (11:19) T.Lawrence pass short right to T.Koziol to TEN 28 for 8 yards (T.Burgess). 2-7-TEN 36 P21 (10:36) B.Tuten up the middle to TEN 25 for 3 yards (N.Stackhouse; K.Faulk). 1-10-TEN 28 **(9:50) T.Lawrence pass deep right to J.Cameron for 25 yards, TOUCHDOWN.** 2-7-TEN 25 P22 C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke. Timeout at 09:44.",
+            "**JAX 30 TEN 16, 11 plays, 65 yards, 1 penalty, 7:29 drive, 5:16 elapsed** C.Little kicks 58 yards from JAX 35 to TEN 7. C.Dike to TEN 35 for 28 yards (J.Tavai). **Tennessee Titans at 9:44, (1st play from scrimmage 9:37)** (9:37) (Shotgun) T.Pollard up the middle to TEN 40 for 5 yards (D.Godchaux). 1-10-TEN 35 (9:18) (No Huddle, Shotgun) C.Ward pass short middle to X.Restrepo to JAX 45 for 15 yards (F.Oluokun). 2-5-TEN 40 P14 (8:57) (No Huddle, Shotgun) C.Ward pass short right to C.Dike pushed ob at JAX 32 for 13 yards (M.Brown). 1-10-JAX 45 P15 **(8:30) (No Huddle, Shotgun) C.Ward pass short left to T.Pollard for 32 yards, TOUCHDOWN.** 1-10-JAX 32 P16 J.Slye extra point is GOOD, Center-M.Cox, Holder-T.Morstead. Timeout at 08:21.",
+            "2-3-TEN 21 (4:38) (Shotgun) T.Lawrence pass incomplete short left to Bri.Thomas. 3-3-TEN 21 **(4:35) C.Little 40 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.** 4-3-TEN 21 **JAX 33 TEN 23, 8 plays, 42 yards, 3:50 drive, 10:29 elapsed** C.Little kicks 65 yards from JAX 35 to landing zone to end zone, Touchback to the TEN 20",
+            "(3:05) B.Tuten right guard to TEN 28 for no gain (N.Stackhouse). 1-10-TEN 28 \\*\\* Injury Update: TEN-T.Adams is Out of the game. Timeout #2 by TEN at 03:00. (3:00) B.Tuten up the middle to TEN 24 for 4 yards (N.Stackhouse; D.Mausi). 2-10-TEN 28 Timeout #3 by TEN at 02:55. (2:55) T.Lawrence pass short right to J.Cameron to TEN 10 for 14 yards (Jo.Williams). 3-6-TEN 24 P26 (2:06) B.Tuten right tackle to TEN 9 for 1 yard (M.Diabate; I.Oliver). 1-10-TEN 10 Two-Minute Warning (2:00) B.Tuten right guard to TEN 6 for 3 yards (M.Diabate; D.Mausi). 2-9-TEN 9 **(1:14) B.Tuten left tackle for 6 yards, TOUCHDOWN.**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final scoreboard row lists Jacksonville with 40 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873057",
+          "excerpts": [
+            "NASCAR F1 Women's NCAA soccer Men's NCAA soccer UEFA Nations League Concacaf Nations League AFCON Qualifying WTGL\n\nWeek 9 Week 10 Week 11\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n[Jacksonville Jaguars Jaguars JAX](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n7-2 , 3-1 Away\n\n40\n\n7-2 , 3-1 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars) JAX |7 |9 |7 |17 |40 |\n|[Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans) TEN |3 |7 |6 |7 |23 |\n\n[](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans)"
+          ],
+          "title": "Jaguars 40-23 Titans (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Jaguars' postgame report states both teams' records, their respective three-game streaks, and Jacksonville's four-game division lead.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23",
+          "excerpts": [
+            "the Jaguars never trailed after taking an early lead. > \"Cam Little continues to do what he does at a very high level,\" Coen said. > > Join us at The 'Bank Secure tickets today for our Salute to Service game against the Titans on November 29. [Buy Tickets](https://jaguars.gofanapp.com/55757be5dfbe15b5 \"Buy Tickets\") The Jaguars (7-2) won their third consecutive game, with the Titans (1-8) losing a third consecutive game. With a loss by the Houston Texans (3-6) to the Cleveland Browns Sunday, the Jaguars lead the South by four games."
+          ],
+          "title": "Game Report: Jacksonville Jaguars 40, Tennessee Titans 23"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary's passing, rushing, and receiving tables give the listed player stat lines.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Paid Attendance: 61,239 Time: 3:10 Jaguars J.Cameron 25 yd. pass from T.Lawrence (C.Little kick) (11-65, 7:29) 30 16 4 9:44 Titans T.Pollard 32 yd. pass from C.Ward (J.Slye kick) (4-65, 1:23) 30 23 4 8:21 Jaguars C.Little 40 yd. Field Goal (8-42, 3:50) 33 23 4 4:31 Jaguars B.Tuten 6 yd. run (C.Little kick) (6-28, 1:55) 40 23 4 1:10 **Jacksonville Jaguars Tennessee Titans** **RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Tuten 88 3.4 1 26 18 C.Ward 39 13.0 0 3 26 T.Lawrence 27 6.8 0 4 15 T.Pollard 33 3.7 0 9 15 C.Rodriguez 5 1.3 0 4 6 T.Spears 28 7.0 0 4 14 T.Hunter 3 3.0 0 1 3 C.Dike 5 5.0 0 1 5 J.Meyers 0 0.0 0 1 0 36 123 3.4 18 1 Total 17 105 6.2 26 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** T.Lawrence 352 3 35 25 1/16 1 120.2 C.Ward 231 2 39 28 1/9 1 93.0 50 50 39 231 2 28 1/9 1 93.0 25 352 3 35 1/16 1 120.2 Total Total 50 50 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** P.Washington 152 21.7 1 7 9 T.Pollard 66 8.3 1 8 9 **32** 50 J.Cameron 67 22.3 1 3 3 E.Ayomanor 79 15.8 0 5 10 50 28 J.Meyers 34 11.3 0 3 6 G.Helm 23 5.8 0 4 4 9 15 Bri.Thomas 29 9.7 0 3 4 X.Restrepo 31 10.3 0 3 3 15 11 B.Tuten 25 8.3 0 3 4 W.Robinson 10 3.3 0 3 4 6 11 T.Hunter 16 8.0 0 2 2 C.Dike 16 8.0 0 2 3 13 10 B.Strange 9 4.5 1 2 3 D.Bellinger 6 3.0 1 2 3 4 6 N.Boerkircher 12 12.0 0 1 2 T.Spears 0 0.0 0 1 1 0 12 T.Koziol 8 8.0 0 1 1 8 25 352 14.1 50 3 Total 34 28 231 8.3 50 2 Total 37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The postgame report states that Tennessee's record was 1-8 after the loss.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23",
+          "excerpts": [
+            "the Jaguars never trailed after taking an early lead. > \"Cam Little continues to do what he does at a very high level,\" Coen said. > > Join us at The 'Bank Secure tickets today for our Salute to Service game against the Titans on November 29. [Buy Tickets](https://jaguars.gofanapp.com/55757be5dfbe15b5 \"Buy Tickets\") The Jaguars (7-2) won their third consecutive game, with the Titans (1-8) losing a third consecutive game. With a loss by the Houston Texans (3-6) to the Cleveland Browns Sunday, the Jaguars lead the South by four games."
+          ],
+          "title": "Game Report: Jacksonville Jaguars 40, Tennessee Titans 23"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official game summary lists Tennessee's third-down efficiency as 2-for-11, or 18.2%.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777496/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Tennessee Titans**\n\n**LOST**\n\nJ.Slye 0 0 0 0 0 0 0 1 0 0\n\nTotal 0 0 0 0 0 0 0 1 0 0\n\n## **Final Individual Statistics**\n\n**Jacksonville Jaguars vs Tennessee Titans**\n\n**11/15/2026 at Nissan Stadium**\n\n**Jacksonville Jaguars vs Tennessee Titans**\n\n**11/15/2026 at Nissan Stadium**\n\n## **Final Team Statistics**\n\n**Home Visitor**\n\n**Jaguars Titans**\n\n27 19 **TOTAL FIRST DOWNS**\n\n7 8 By Rushing\n\n19 10 By Passing\n\n1 1 By Penalty\n\n7-14-50.0% 2-11-18.2% **THIRD DOWN EFFICIENCY**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The postgame report states that Jacksonville's record was 7-2 after the win.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-10-jaguars-40-titans-23",
+          "excerpts": [
+            "the Jaguars never trailed after taking an early lead. > \"Cam Little continues to do what he does at a very high level,\" Coen said. > > Join us at The 'Bank Secure tickets today for our Salute to Service game against the Titans on November 29. [Buy Tickets](https://jaguars.gofanapp.com/55757be5dfbe15b5 \"Buy Tickets\") The Jaguars (7-2) won their third consecutive game, with the Titans (1-8) losing a third consecutive game. With a loss by the Houston Texans (3-6) to the Cleveland Browns Sunday, the Jaguars lead the South by four games."
+          ],
+          "title": "Game Report: Jacksonville Jaguars 40, Tennessee Titans 23"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game summary identifies Tennessee as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jacksonville Jaguars at Tennessee Titans"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final scoreboard row lists Tennessee with 23 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873057",
+          "excerpts": [
+            "NASCAR F1 Women's NCAA soccer Men's NCAA soccer UEFA Nations League Concacaf Nations League AFCON Qualifying WTGL\n\nWeek 9 Week 10 Week 11\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n[Jacksonville Jaguars Jaguars JAX](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\n7-2 , 3-1 Away\n\n40\n\n7-2 , 3-1 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars) JAX |7 |9 |7 |17 |40 |\n|[Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans) TEN |3 |7 |6 |7 |23 |\n\n[](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans)"
+          ],
+          "title": "Jaguars 40-23 Titans (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The play-by-play records Strange's 3-yard touchdown reception in the third quarter and the resulting 23-13 score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(7:18) B.Tuten left guard to TEN 3 for -1 yards (K.Winston). 3-1-TEN 2 **(6:33) (Shotgun) T.Lawrence pass short left to B.Strange for 3 yards, TOUCHDOWN.** 4-2-TEN 3 P18 C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke. Timeout at 06:28. **JAX 23 TEN 13, 10 plays, 71 yards, 1 penalty, 6:07 drive, 8:32 elapsed"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The fourth-quarter play-by-play records Lawrence's 25-yard touchdown pass to Cameron and the 30-16 score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(14:16) C.Rodriguez right tackle to JAX 42 for -5 yards (T.Adams). 1-10-JAX 47 (13:35) (Shotgun) T.Lawrence pass short right to P.Washington to JAX 46 for 4 yards (Jo.Williams). 2-15-JAX 42 Timeout #1 by JAX at 12:49. (12:48) (Shotgun) T.Lawrence scrambles right guard to TEN 39 for 15 yards (A.Taylor). 3-11-JAX 46 R20 (12:02) B.Tuten left tackle to TEN 36 for 3 yards (K.Winston; Jo.Williams). 1-10-TEN 39 (11:19) T.Lawrence pass short right to T.Koziol to TEN 28 for 8 yards (T.Burgess). 2-7-TEN 36 P21 (10:36) B.Tuten up the middle to TEN 25 for 3 yards (N.Stackhouse; K.Faulk). 1-10-TEN 28 **(9:50) T.Lawrence pass deep right to J.Cameron for 25 yards, TOUCHDOWN.** 2-7-TEN 25 P22 C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke. Timeout at 09:44."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play records Ward's 32-yard touchdown pass to Pollard and the resulting 30-23 score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**JAX 30 TEN 16, 11 plays, 65 yards, 1 penalty, 7:29 drive, 5:16 elapsed** C.Little kicks 58 yards from JAX 35 to TEN 7. C.Dike to TEN 35 for 28 yards (J.Tavai). **Tennessee Titans at 9:44, (1st play from scrimmage 9:37)** (9:37) (Shotgun) T.Pollard up the middle to TEN 40 for 5 yards (D.Godchaux). 1-10-TEN 35 (9:18) (No Huddle, Shotgun) C.Ward pass short middle to X.Restrepo to JAX 45 for 15 yards (F.Oluokun). 2-5-TEN 40 P14 (8:57) (No Huddle, Shotgun) C.Ward pass short right to C.Dike pushed ob at JAX 32 for 13 yards (M.Brown). 1-10-JAX 45 P15 **(8:30) (No Huddle, Shotgun) C.Ward pass short left to T.Pollard for 32 yards, TOUCHDOWN.** 1-10-JAX 32 P16 J.Slye extra point is GOOD, Center-M.Cox, Holder-T.Morstead. Timeout at 08:21."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The fourth-quarter play-by-play records Little's 40-yard field goal and Jacksonville's 33-23 lead.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "2-3-TEN 21 (4:38) (Shotgun) T.Lawrence pass incomplete short left to Bri.Thomas. 3-3-TEN 21 **(4:35) C.Little 40 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.** 4-3-TEN 21 **JAX 33 TEN 23, 8 plays, 42 yards, 3:50 drive, 10:29 elapsed** C.Little kicks 65 yards from JAX 35 to landing zone to end zone, Touchback to the TEN 20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The fourth-quarter play-by-play records Tuten's 6-yard touchdown run, which established the final margin.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(3:05) B.Tuten right guard to TEN 28 for no gain (N.Stackhouse). 1-10-TEN 28 \\*\\* Injury Update: TEN-T.Adams is Out of the game. Timeout #2 by TEN at 03:00. (3:00) B.Tuten up the middle to TEN 24 for 4 yards (N.Stackhouse; D.Mausi). 2-10-TEN 28 Timeout #3 by TEN at 02:55. (2:55) T.Lawrence pass short right to J.Cameron to TEN 10 for 14 yards (Jo.Williams). 3-6-TEN 24 P26 (2:06) B.Tuten right tackle to TEN 9 for 1 yard (M.Diabate; I.Oliver). 1-10-TEN 10 Two-Minute Warning (2:00) B.Tuten right guard to TEN 6 for 3 yards (M.Diabate; D.Mausi). 2-9-TEN 9 **(1:14) B.Tuten left tackle for 6 yards, TOUCHDOWN.**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official passing table lists Lawrence at 25 completions on 35 attempts for 352 yards, three touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.Lawrence 352 3 35 25 1/16 1 120.2 C.Ward 231 2 39 28 1/9 1 93.0 50 50 39 231 2 28 1/9 1 93.0 25 352 3 35 1/16 1 120.2 Total Total 50 50 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** P.Washington 152 21.7 1 7 9 T.Pollard 66 8.3 1 8 9 **32** 50 J.Cameron 67 22.3 1 3 3 E.Ayomanor 79 15.8 0 5 10 50 28 J.Meyers 34 11.3 0 3 6 G.Helm 23 5.8 0 4 4 9 15 Bri.Thomas 29 9.7 0 3 4 X.Restrepo 31 10.3 0 3 3 15 11 B.Tuten 25 8.3 0 3 4 W.Robinson 10 3.3 0 3 4 6 11 T.Hunter 16 8.0 0 2 2 C.Dike 16 8.0 0 2 3 13 10 B.Strange 9 4.5 1 2 3 D.Bellinger 6 3.0 1 2 3 4 6 N.Boerkircher 12 12.0 0 1 2 T.Spears 0 0.0 0 1 1 0 12 T.Koziol 8 8.0 0 1 1 8 25 352 14.1 50 3 Total 34 28 231 8.3 50 2 Total 37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official receiving table lists Washington with seven receptions, 152 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.Lawrence 352 3 35 25 1/16 1 120.2 C.Ward 231 2 39 28 1/9 1 93.0 50 50 39 231 2 28 1/9 1 93.0 25 352 3 35 1/16 1 120.2 Total Total 50 50 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** P.Washington 152 21.7 1 7 9 T.Pollard 66 8.3 1 8 9 **32** 50 J.Cameron 67 22.3 1 3 3 E.Ayomanor 79 15.8 0 5 10 50 28 J.Meyers 34 11.3 0 3 6 G.Helm 23 5.8 0 4 4 9 15 Bri.Thomas 29 9.7 0 3 4 X.Restrepo 31 10.3 0 3 3 15 11 B.Tuten 25 8.3 0 3 4 W.Robinson 10 3.3 0 3 4 6 11 T.Hunter 16 8.0 0 2 2 C.Dike 16 8.0 0 2 3 13 10 B.Strange 9 4.5 1 2 3 D.Bellinger 6 3.0 1 2 3 4 6 N.Boerkircher 12 12.0 0 1 2 T.Spears 0 0.0 0 1 1 0 12 T.Koziol 8 8.0 0 1 1 8 25 352 14.1 50 3 Total 34 28 231 8.3 50 2 Total 37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The official rushing table lists Tuten with 26 carries for 88 yards and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Paid Attendance: 61,239 Time: 3:10 Jaguars J.Cameron 25 yd. pass from T.Lawrence (C.Little kick) (11-65, 7:29) 30 16 4 9:44 Titans T.Pollard 32 yd. pass from C.Ward (J.Slye kick) (4-65, 1:23) 30 23 4 8:21 Jaguars C.Little 40 yd. Field Goal (8-42, 3:50) 33 23 4 4:31 Jaguars B.Tuten 6 yd. run (C.Little kick) (6-28, 1:55) 40 23 4 1:10 **Jacksonville Jaguars Tennessee Titans** **RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Tuten 88 3.4 1 26 18 C.Ward 39 13.0 0 3 26 T.Lawrence 27 6.8 0 4 15 T.Pollard 33 3.7 0 9 15 C.Rodriguez 5 1.3 0 4 6 T.Spears 28 7.0 0 4 14 T.Hunter 3 3.0 0 1 3 C.Dike 5 5.0 0 1 5 J.Meyers 0 0.0 0 1 0 36 123 3.4 18 1 Total 17 105 6.2 26 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official rushing and receiving tables list Pollard with nine carries for 33 yards and eight receptions for 66 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Paid Attendance: 61,239 Time: 3:10 Jaguars J.Cameron 25 yd. pass from T.Lawrence (C.Little kick) (11-65, 7:29) 30 16 4 9:44 Titans T.Pollard 32 yd. pass from C.Ward (J.Slye kick) (4-65, 1:23) 30 23 4 8:21 Jaguars C.Little 40 yd. Field Goal (8-42, 3:50) 33 23 4 4:31 Jaguars B.Tuten 6 yd. run (C.Little kick) (6-28, 1:55) 40 23 4 1:10 **Jacksonville Jaguars Tennessee Titans** **RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Tuten 88 3.4 1 26 18 C.Ward 39 13.0 0 3 26 T.Lawrence 27 6.8 0 4 15 T.Pollard 33 3.7 0 9 15 C.Rodriguez 5 1.3 0 4 6 T.Spears 28 7.0 0 4 14 T.Hunter 3 3.0 0 1 3 C.Dike 5 5.0 0 1 5 J.Meyers 0 0.0 0 1 0 36 123 3.4 18 1 Total 17 105 6.2 26 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** T.Lawrence 352 3 35 25 1/16 1 120.2 C.Ward 231 2 39 28 1/9 1 93.0 50 50 39 231 2 28 1/9 1 93.0 25 352 3 35 1/16 1 120.2 Total Total 50 50 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** P.Washington 152 21.7 1 7 9 T.Pollard 66 8.3 1 8 9 **32** 50 J.Cameron 67 22.3 1 3 3 E.Ayomanor 79 15.8 0 5 10 50 28 J.Meyers 34 11.3 0 3 6 G.Helm 23 5.8 0 4 4 9 15 Bri.Thomas 29 9.7 0 3 4 X.Restrepo 31 10.3 0 3 3 15 11 B.Tuten 25 8.3 0 3 4 W.Robinson 10 3.3 0 3 4 6 11 T.Hunter 16 8.0 0 2 2 C.Dike 16 8.0 0 2 3 13 10 B.Strange 9 4.5 1 2 3 D.Bellinger 6 3.0 1 2 3 4 6 N.Boerkircher 12 12.0 0 1 2 T.Spears 0 0.0 0 1 1 0 12 T.Koziol 8 8.0 0 1 1 8 25 352 14.1 50 3 Total 34 28 231 8.3 50 2 Total 37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The official passing table lists Ward at 28 completions on 39 attempts for 231 yards, two touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.Lawrence 352 3 35 25 1/16 1 120.2 C.Ward 231 2 39 28 1/9 1 93.0 50 50 39 231 2 28 1/9 1 93.0 25 352 3 35 1/16 1 120.2 Total Total 50 50 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** P.Washington 152 21.7 1 7 9 T.Pollard 66 8.3 1 8 9 **32** 50 J.Cameron 67 22.3 1 3 3 E.Ayomanor 79 15.8 0 5 10 50 28 J.Meyers 34 11.3 0 3 6 G.Helm 23 5.8 0 4 4 9 15 Bri.Thomas 29 9.7 0 3 4 X.Restrepo 31 10.3 0 3 3 15 11 B.Tuten 25 8.3 0 3 4 W.Robinson 10 3.3 0 3 4 6 11 T.Hunter 16 8.0 0 2 2 C.Dike 16 8.0 0 2 3 13 10 B.Strange 9 4.5 1 2 3 D.Bellinger 6 3.0 1 2 3 4 6 N.Boerkircher 12 12.0 0 1 2 T.Spears 0 0.0 0 1 1 0 12 T.Koziol 8 8.0 0 1 1 8 25 352 14.1 50 3 Total 34 28 231 8.3 50 2 Total 37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official team statistics show Tennessee converted two of 11 third downs, an 18.2% rate.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777496/gamecenter/ab789e15-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Tennessee Titans**\n\n**LOST**\n\nJ.Slye 0 0 0 0 0 0 0 1 0 0\n\nTotal 0 0 0 0 0 0 0 1 0 0\n\n## **Final Individual Statistics**\n\n**Jacksonville Jaguars vs Tennessee Titans**\n\n**11/15/2026 at Nissan Stadium**\n\n**Jacksonville Jaguars vs Tennessee Titans**\n\n**11/15/2026 at Nissan Stadium**\n\n## **Final Team Statistics**\n\n**Home Visitor**\n\n**Jaguars Titans**\n\n27 19 **TOTAL FIRST DOWNS**\n\n7 8 By Rushing\n\n19 10 By Passing\n\n1 1 By Penalty\n\n7-14-50.0% 2-11-18.2% **THIRD DOWN EFFICIENCY**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "not_high_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

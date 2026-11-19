@@ -1,0 +1,170 @@
+{
+  "run_id": "trun_415f3f698c1f435bbe8c5890ebec064d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 53.5,
+  "input": {
+    "player": "Antonio Williams",
+    "team": "Washington Commanders",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Clemson",
+    "fun_facts": [
+      "Antonio Williams\u2019s hometown is Irmo, South Carolina.",
+      "At Clemson, Antonio Williams finished with 207 catches for 2,320 receiving yards and 21 touchdowns.",
+      "Since 2024, Antonio Williams has had nine receiving touchdowns of at least 20 yards.",
+      "In his NFL debut, Antonio Williams made four catches for 64 yards and a touchdown in just 11 passing snaps; he also earned NFL Rookie of the Week honors.",
+      "In 2022, Antonio Williams was a Freshman All-American and an Honorable Mention All-ACC selection."
+    ],
+    "draft": "2026, round 3, pick 71"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile identifies Antonio Williams as a Washington Commanders wide receiver and lists Clemson as his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/antonio-williams-2",
+          "excerpts": [
+            "# Antonio Williams Stats, News and Video - WR | NFL.com\n\n# Antonio Williams\n\nWR \u2022 \\#14\n\n[Washington Commanders](https://www.nfl.com/teams/washington-commanders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/antonio-williams-2/)\n* [Stats](https://www.nfl.com/players/antonio-williams-2/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  195\n* Arms\n  \n  30 3/4\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Clemson\n* Age\n  \n  22\n* Hometown\n  \n  Irmo, SC\n\n## Related Content - Articles"
+          ],
+          "title": "Antonio Williams Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Irmo, South Carolina as his hometown. The Commanders\u2019 draft-class announcement reports his Clemson career totals; the team\u2019s draft announcement notes his nine long receiving touchdowns since 2024. NFL.com describes his debut and Rookie of the Week recognition, and its prospect bio lists his 2022 honors.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/antonio-williams-2",
+          "excerpts": [
+            "# Antonio Williams Stats, News and Video - WR | NFL.com\n\n# Antonio Williams\n\nWR \u2022 \\#14\n\n[Washington Commanders](https://www.nfl.com/teams/washington-commanders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/antonio-williams-2/)\n* [Stats](https://www.nfl.com/players/antonio-williams-2/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  195\n* Arms\n  \n  30 3/4\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Clemson\n* Age\n  \n  22\n* Hometown\n  \n  Irmo, SC\n\n## Related Content - Articles"
+          ],
+          "title": "Antonio Williams Stats, News and Video - WR | NFL.com"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-2026-draft-class",
+          "excerpts": [
+            "The Washington Commanders have officially signed all six member of their 2026 NFL Draft class.\n\nLinebacker Sonny Styles (6-foot-5, 244 pounds), a First Team All-American and All-Big Ten selection, was a key piece of the best defense in college football last season. In his senior season in 2025, he earned at least an 87 from Pro Football Focus in run game, tackling (he had an FBS-best 92.2) and coverage. The year before, he surpassed those numbers, amassing 100 tackles, six sacks and one forced fumble as the Buckeyes went on to win the national championship.\n\nWide receiver Antonio Williams, who was a standout player for the Tigers, was a Third Team All-ACC selection and led the team with 55 receptions for 604 yards and four touchdowns. A player who can make plays with the ball in his hands, Williams is a four-year contributor who has speed, quickness and rare route running ability. He had 2,320 receiving yards and 21 touchdowns on 207 catches in his career."
+          ],
+          "title": "Commanders sign 2026 draft class"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-draft-wr-antonio-williams-with-no-71-overall-pick",
+          "excerpts": [
+            "Williams was one of the better deep threats in college football over the last two seasons, recording nine receiving touchdowns of at least 20 yards since 2024."
+          ],
+          "title": "Commanders draft WR Antonio Williams with No. 71 overall pick"
+        },
+        {
+          "url": "https://www.nfl.com/news/why-commanders-rookie-receiver-antonio-williams-is-already-capturing-attention",
+          "excerpts": [
+            "But Williams' 1-yard score with a little more than a minute left capped an impressive debut that included four targets, four catches, a team-high 64 receiving yards and the NFL's rookie of the week honors -- a feat made all the more notable considering he played only 11 passing snaps.\n\nWilliams' 2.36 expected points added per target led the league in the first week."
+          ],
+          "title": "Why Commanders rookie receiver Antonio Williams is already capturing attention | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/prospects/antonio-williams-2/32005749-4c14-3106-6d4c-8265048e714b",
+          "excerpts": [
+            "Antonio Williams runs official 4.41-second 40-yard dash at 2026 combine\n\n### Player Bio\n\n* **2022:** Freshman All-American. Honorable Mention All-ACC."
+          ],
+          "title": "Antonio Williams NFL Combine and Draft Prospects | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft announcement says Washington selected Antonio Williams in Round 3 with the No. 71 overall pick in the 2026 draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/commanders-select-antonio-williams-with-no-71-pick-in-2026-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Commanders select Antonio Williams with No. 71 pick in 2026 draft\n\nTwo-time Pro Bowl selection and former NFL quarterback Mark Rypien announces the Washington Commanders' selection of Clemson Tigers wide receiver Antonio Williams in Round 3 of the 2026 NFL Draft with the No. 71 overall pick.\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Washington Commanders select wide receiver Antonio Williams with No. 71 pick in 2026 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL player profile lists Irmo, SC as Antonio Williams\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/antonio-williams-2",
+          "excerpts": [
+            "# Antonio Williams Stats, News and Video - WR | NFL.com\n\n# Antonio Williams\n\nWR \u2022 \\#14\n\n[Washington Commanders](https://www.nfl.com/teams/washington-commanders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/antonio-williams-2/)\n* [Stats](https://www.nfl.com/players/antonio-williams-2/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  195\n* Arms\n  \n  30 3/4\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Clemson\n* Age\n  \n  22\n* Hometown\n  \n  Irmo, SC\n\n## Related Content - Articles"
+          ],
+          "title": "Antonio Williams Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Commanders\u2019 announcement reports his career totals at Clemson: 2,320 receiving yards, 21 touchdowns, and 207 catches.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-2026-draft-class",
+          "excerpts": [
+            "The Washington Commanders have officially signed all six member of their 2026 NFL Draft class.\n\nLinebacker Sonny Styles (6-foot-5, 244 pounds), a First Team All-American and All-Big Ten selection, was a key piece of the best defense in college football last season. In his senior season in 2025, he earned at least an 87 from Pro Football Focus in run game, tackling (he had an FBS-best 92.2) and coverage. The year before, he surpassed those numbers, amassing 100 tackles, six sacks and one forced fumble as the Buckeyes went on to win the national championship.\n\nWide receiver Antonio Williams, who was a standout player for the Tigers, was a Third Team All-ACC selection and led the team with 55 receptions for 604 yards and four touchdowns. A player who can make plays with the ball in his hands, Williams is a four-year contributor who has speed, quickness and rare route running ability. He had 2,320 receiving yards and 21 touchdowns on 207 catches in his career."
+          ],
+          "title": "Commanders sign 2026 draft class"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Commanders\u2019 draft announcement says he recorded nine receiving touchdowns of at least 20 yards since 2024.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-draft-wr-antonio-williams-with-no-71-overall-pick",
+          "excerpts": [
+            "Williams was one of the better deep threats in college football over the last two seasons, recording nine receiving touchdowns of at least 20 yards since 2024."
+          ],
+          "title": "Commanders draft WR Antonio Williams with No. 71 overall pick"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com reports his debut included four catches, 64 receiving yards, a touchdown, and NFL Rookie of the Week honors; it also notes he played only 11 passing snaps.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/why-commanders-rookie-receiver-antonio-williams-is-already-capturing-attention",
+          "excerpts": [
+            "But Williams' 1-yard score with a little more than a minute left capped an impressive debut that included four targets, four catches, a team-high 64 receiving yards and the NFL's rookie of the week honors -- a feat made all the more notable considering he played only 11 passing snaps.\n\nWilliams' 2.36 expected points added per target led the league in the first week."
+          ],
+          "title": "Why Commanders rookie receiver Antonio Williams is already capturing attention | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL prospect bio lists Antonio Williams as a 2022 Freshman All-American and Honorable Mention All-ACC selection.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/prospects/antonio-williams-2/32005749-4c14-3106-6d4c-8265048e714b",
+          "excerpts": [
+            "Antonio Williams runs official 4.41-second 40-yard dash at 2026 combine\n\n### Player Bio\n\n* **2022:** Freshman All-American. Honorable Mention All-ACC."
+          ],
+          "title": "Antonio Williams NFL Combine and Draft Prospects | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

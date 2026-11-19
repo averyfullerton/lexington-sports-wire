@@ -1,0 +1,155 @@
+{
+  "run_id": "trun_415f3f698c1f435b880c46ac68e64c37",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 68.7,
+  "input": {
+    "player": "Jalen Tolbert",
+    "team": "Miami Dolphins",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "South Alabama",
+    "fun_facts": [
+      "Jalen Tolbert was born in Mobile, Alabama.",
+      "In his final season at South Alabama, he caught 82 passes for 1,474 yards and scored eight times.",
+      "In one South Alabama game, Jalen Tolbert had 169 receiving yards and two touchdowns.",
+      "In 2024, Jalen Tolbert caught a game-winning touchdown pass with 20 seconds left in a Cowboys win over the Steelers."
+    ],
+    "draft": "2022, round 3, pick 88"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL draft report identifies Jalen Tolbert as a wide receiver from South Alabama.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/nq4tssz0i0pfe34lwfzv",
+          "excerpts": [
+            "**NATIONAL FOOTBALL LEAGUE**\n\n_87th ANNUAL SELECTION MEETING_\n\n_APRIL 28 - APRIL 30, 2022_\n\n24-88. DALLAS Tolbert, Jalen WR South Alabama\n\n25-89. BUFFALO Bernard, Terrel LB Baylor\n\n26-90."
+          ],
+          "title": "2022 NFL Draft Day 3 Reports"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Tolbert\u2019s birthplace. ESPN\u2019s account of his final South Alabama season gives his receptions, yardage, and scores; the game summary reports his 169 receiving yards and two touchdowns; and the Steelers game account says his late touchdown pass with 20 seconds remaining won the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4249417/jalen-tolbert",
+          "excerpts": [
+            "### Biography\n\nTeam [Miami Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n\nPosition Wide Receiver\n\nHT/WT 6' 1\", 195 lbs\n\nBirthdate 2/27/1999 (27)\n\nCollege [South Alabama](https://www.espn.com/college-football/team/_/id/6/south-alabama-jaguars)\n\nDraft Info 2022: Rd 3, Pk 88 (DAL)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Mobile, AL"
+          ],
+          "title": "Jalen Tolbert Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40209215/jalen-tolbert-positioned-cowboys-wr3-ceedee-lamb-brandin-cooks",
+          "excerpts": [
+            "A hamstring injury in the spring and an overload in what he was asked to do offensively led to a crisis in confidence for Tolbert as a rookie. He spent some of the offseason at the Senior Bowl offices studying his old tape from South Alabama, where he caught 82 passes for 1,474 yards and eight scores in his final season. He also joined Prescott at the hip.\n\nThat has continued this offseason."
+          ],
+          "title": "Is Tolbert positioned to be Cowboys' WR3 behind Lamb, Cooks? - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401207101/south-alabama-southern-miss",
+          "excerpts": [
+            "RB 12 CAR 32](https://www.espn.com/college-football/player/_/id/4429805/frank-gore-jr)\n\n[169 J. Tolbert WR 6 REC, 2 TD 169](https://www.espn.com/college-football/player/_/id/4249417/jalen-tolbert)"
+          ],
+          "title": "South Alabama 32-21 Southern Mississippi (Sep 3, 2020) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41656720/cowboys-dak-prescott-delivers-last-minute-win-vs-steelers",
+          "excerpts": [
+            "Prescott threw the winning touchdown pass -- a 4-yarder to receiver [Jalen Tolbert](https://www.espn.com/nfl/player/_/id/4249417/jalen-tolbert) \\-- with 20 seconds left to give the Cowboys a crucial 20-17 win against the Steelers. It allowed the Cowboys (3-2) to stay above .500 and on the tail of the [Washington Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders) (4-1) in the NFC East. It also was the Cowboys' third road win of the season, marking their best start away from home since Prescott's rookie year in 2016."
+          ],
+          "title": "Cowboys' Dak Prescott delivers last-minute win vs. Steelers - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft report dates the selection meeting to 2022 and lists Tolbert as Dallas\u2019s third-round selection, pick 88.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/nq4tssz0i0pfe34lwfzv",
+          "excerpts": [
+            "**NATIONAL FOOTBALL LEAGUE**\n\n_87th ANNUAL SELECTION MEETING_\n\n_APRIL 28 - APRIL 30, 2022_\n\n24-88. DALLAS Tolbert, Jalen WR South Alabama\n\n25-89. BUFFALO Bernard, Terrel LB Baylor\n\n26-90.",
+            "**DALLAS COWBOYS**\n\n**Round Name Pos College Overall**\n\n\\# 1 Smith, Tyler T Tulsa 24\n\n2 Williams, Sam DE Mississippi 56\n\n3 Tolbert, Jalen WR South Alabama 88\n\n4 Ferguson, Jake TE Wisconsin 129\n\n5 Waletzko, Matt T North Dakota 155\n\nfrom CLEVELAND\n\n5 Bland, Daron DB Fresno State 167"
+          ],
+          "title": "2022 NFL Draft Day 3 Reports"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Mobile, Alabama, as Jalen Tolbert\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4249417/jalen-tolbert",
+          "excerpts": [
+            "### Biography\n\nTeam [Miami Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n\nPosition Wide Receiver\n\nHT/WT 6' 1\", 195 lbs\n\nBirthdate 2/27/1999 (27)\n\nCollege [South Alabama](https://www.espn.com/college-football/team/_/id/6/south-alabama-jaguars)\n\nDraft Info 2022: Rd 3, Pk 88 (DAL)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Mobile, AL"
+          ],
+          "title": "Jalen Tolbert Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account states that in his final South Alabama season, Tolbert caught 82 passes for 1,474 yards and eight scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40209215/jalen-tolbert-positioned-cowboys-wr3-ceedee-lamb-brandin-cooks",
+          "excerpts": [
+            "A hamstring injury in the spring and an overload in what he was asked to do offensively led to a crisis in confidence for Tolbert as a rookie. He spent some of the offseason at the Senior Bowl offices studying his old tape from South Alabama, where he caught 82 passes for 1,474 yards and eight scores in his final season. He also joined Prescott at the hip.\n\nThat has continued this offseason."
+          ],
+          "title": "Is Tolbert positioned to be Cowboys' WR3 behind Lamb, Cooks? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The game listing credits Tolbert with 169 receiving yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401207101/south-alabama-southern-miss",
+          "excerpts": [
+            "RB 12 CAR 32](https://www.espn.com/college-football/player/_/id/4429805/frank-gore-jr)\n\n[169 J. Tolbert WR 6 REC, 2 TD 169](https://www.espn.com/college-football/player/_/id/4249417/jalen-tolbert)"
+          ],
+          "title": "South Alabama 32-21 Southern Mississippi (Sep 3, 2020) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The account says Tolbert caught the winning touchdown pass with 20 seconds left in the Cowboys\u2019 20\u201317 win over Pittsburgh.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41656720/cowboys-dak-prescott-delivers-last-minute-win-vs-steelers",
+          "excerpts": [
+            "Prescott threw the winning touchdown pass -- a 4-yarder to receiver [Jalen Tolbert](https://www.espn.com/nfl/player/_/id/4249417/jalen-tolbert) \\-- with 20 seconds left to give the Cowboys a crucial 20-17 win against the Steelers. It allowed the Cowboys (3-2) to stay above .500 and on the tail of the [Washington Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders) (4-1) in the NFC East. It also was the Cowboys' third road win of the season, marking their best start away from home since Prescott's rookie year in 2016."
+          ],
+          "title": "Cowboys' Dak Prescott delivers last-minute win vs. Steelers - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

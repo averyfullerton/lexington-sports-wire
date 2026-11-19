@@ -1,0 +1,57 @@
+{
+  "name": "Blake Corum",
+  "espn_id": "4429096",
+  "team": "Los Angeles Rams",
+  "team_abbr": "LAR",
+  "number": "24",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Michigan",
+  "experience": 3,
+  "fun_facts": [
+    "Blake worked out before school when he was in fifth grade.",
+    "Blake scored a Michigan record 27 touchdowns in college in 2023.",
+    "Blake was named Offensive MVP in the CFP national championship game."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "LAR",
+        "17",
+        "58",
+        "207",
+        "3.6",
+        "0"
+      ],
+      [
+        "2025",
+        "LAR",
+        "17",
+        "145",
+        "746",
+        "5.1",
+        "6"
+      ],
+      [
+        "2026",
+        "LAR",
+        "10",
+        "103",
+        "547",
+        "5.3",
+        "5"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "run_id": "trun_1714e31eeb204d32ae2b93053cbd1a20",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 187.2,
+  "input": {
+    "away_team": "Minnesota Vikings",
+    "home_team": "San Francisco 49ers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "7-2",
+    "away_team": "Minnesota Vikings",
+    "storyline": "The Week 11 NFL Mexico City game pairs the 7-2 Vikings with the 8-1 49ers. Both are coming off Week 10 wins: Minnesota beat Green Bay 30-10, and San Francisco defeated Dallas 46-40.",
+    "matchup_notes": [
+      "Minnesota beat Green Bay 30-10 in Week 10, snapping a two-game skid.",
+      "San Francisco beat Dallas 46-40 in Week 10; Brock Purdy threw for 389 yards and three touchdowns without an interception.",
+      "Minnesota leads the NFL with 37 defensive sacks.",
+      "The game is scheduled for Sunday, November 22, at 8:20 p.m. ET on NBC in Mexico City."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "467 receiving yards, 40 receptions, 4 TD",
+        "team": "Minnesota Vikings",
+        "name": "Justin Jefferson"
+      },
+      {
+        "stat_line": "2,547 passing yards, 22 TD, 9 INT (2026 season, LV/MIN)",
+        "team": "Minnesota Vikings",
+        "name": "Kirk Cousins"
+      },
+      {
+        "stat_line": "2,369 passing yards, 20 TD, 5 INT",
+        "team": "San Francisco 49ers",
+        "name": "Brock Purdy"
+      },
+      {
+        "stat_line": "519 rushing yards, 431 receiving yards, 13 total TD",
+        "team": "San Francisco 49ers",
+        "name": "Christian McCaffrey"
+      }
+    ],
+    "home_record": "8-1",
+    "home_team": "San Francisco 49ers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The official matchup snapshot lists Minnesota at 7-2 entering the Week 11 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content Minnesota Vikings MIN Minnesota Vikings VIKINGS Minnesota Vikings MINNESOTA VIKINGS 7-2 7 wins, 2 losses, 0 ties San Francisco 49ers SF San Francisco 49ers 49ERS San Francisco 49ers SAN FRANCISCO 49ERS 8-1 8 wins, 1 loss, 0 ties NBC network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup snapshot identifies the away side as the Minnesota Vikings.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content Minnesota Vikings MIN Minnesota Vikings VIKINGS Minnesota Vikings MINNESOTA VIKINGS 7-2 7 wins, 2 losses, 0 ties San Francisco 49ers SF San Francisco 49ers 49ERS San Francisco 49ers SAN FRANCISCO 49ERS 8-1 8 wins, 1 loss, 0 ties NBC network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The matchup snapshot supplies the teams' 7-2 and 8-1 records. The Week 11 schedule places the game in Mexico City, and the Week 10 reports document Minnesota's 30-10 win and San Francisco's 46-40 win.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content Minnesota Vikings MIN Minnesota Vikings VIKINGS Minnesota Vikings MINNESOTA VIKINGS 7-2 7 wins, 2 losses, 0 ties San Francisco 49ers SF San Francisco 49ers 49ERS San Francisco 49ers SAN FRANCISCO 49ERS 8-1 8 wins, 1 loss, 0 ties NBC network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/week-11-schedule-change",
+          "excerpts": [
+            "|Las Vegas Raiders |at |Denver Broncos |4:25 pm ET |CBS | |\n|**Jacksonville Jaguars** |**at** |**New York Giants** |**4:25 pm ET** |**CBS** | |\n|Minnesota Vikings |at |San Francisco 49ers |8:20 pm ET |NBC |Mexico City |\n| | | | | | |"
+          ],
+          "title": "Week 11 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/packers/e66jpqifijzlpi12brii",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10 7 3 10 0 30\n\nHOME: Green Bay Packers 0 0 10 0 0 10\n\n**1 2 3 4 OT Total**\n\nReplay Official: Lambert, Andrew (0)\n\n**Game Day Weather**\n\n**Field Goals (made ( ) & missed)**\n\n**Scoring Plays**\n\nPaid Attendance: 78,332 Time: 2:57\n\nDate: Sunday, 11/15/2026\n\n**Green Bay Packers Minnesota Vikings**\n\n**Offense Defense Offense Defense**"
+          ],
+          "title": "Gamebook (PDF) - Week 10 Vikings"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-week-10-sunday-aftermath-bengals-equal-afc-s-best-kirk-cousins-returns-mendoza-debuts",
+          "excerpts": [
+            "Loading...\n\nGregg Rosenthal, Jourdan Rodrigue and Nick Shook recap the Week 10 matchup between the 49ers and the Cowboys.\n\n### 49ers have a Texas-sized day\n\nWe can\u2019t exit without noting the epic nature of San Francisco\u2019s [46-40 road win](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10) in Dallas. [Brock Purdy](https://www.nfl.com/players/brock-purdy) and Co. made mincemeat of the Dallas defense. Purdy threw for 389 yards and three touchdowns without an interception, joining Joe Montana (Week 5, 1985 and Week 9, 1990) and Colin Kaepernick (Week 1, 2013) as the only players in 49ers history to"
+          ],
+          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The Week 10 game report records Minnesota's 30-10 result, and its recap says the Vikings snapped a two-game skid. The 49ers report gives the Dallas score and Purdy's passing line. The official matchup snapshot lists the cited season rankings and team metrics, while the schedule gives the game's date, time, broadcast, and Mexico City location.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/packers/e66jpqifijzlpi12brii",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10 7 3 10 0 30\n\nHOME: Green Bay Packers 0 0 10 0 0 10\n\n**1 2 3 4 OT Total**\n\nReplay Official: Lambert, Andrew (0)\n\n**Game Day Weather**\n\n**Field Goals (made ( ) & missed)**\n\n**Scoring Plays**\n\nPaid Attendance: 78,332 Time: 2:57\n\nDate: Sunday, 11/15/2026\n\n**Green Bay Packers Minnesota Vikings**\n\n**Offense Defense Offense Defense**"
+          ],
+          "title": "Gamebook (PDF) - Week 10 Vikings"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873060",
+          "excerpts": [
+            "The Vikings snapped a two-game skid and beat the Packers (6-4) for the fifth time in six meetings."
+          ],
+          "title": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-week-10-sunday-aftermath-bengals-equal-afc-s-best-kirk-cousins-returns-mendoza-debuts",
+          "excerpts": [
+            "Loading...\n\nGregg Rosenthal, Jourdan Rodrigue and Nick Shook recap the Week 10 matchup between the 49ers and the Cowboys.\n\n### 49ers have a Texas-sized day\n\nWe can\u2019t exit without noting the epic nature of San Francisco\u2019s [46-40 road win](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10) in Dallas. [Brock Purdy](https://www.nfl.com/players/brock-purdy) and Co. made mincemeat of the Dallas defense. Purdy threw for 389 yards and three touchdowns without an interception, joining Joe Montana (Week 5, 1985 and Week 9, 1990) and Colin Kaepernick (Week 1, 2013) as the only players in 49ers history to"
+          ],
+          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "271.8, ranked 31st",
+            "Minnesota Vikings, TOTAL DEF SACKS, 37, ranked 1st. 37 1ST TOTAL DEF SACKS San Francisco 49ers, TOTAL DEF SACKS, 16, ranked 28th"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/week-11-schedule-change",
+          "excerpts": [
+            "|Las Vegas Raiders |at |Denver Broncos |4:25 pm ET |CBS | |\n|**Jacksonville Jaguars** |**at** |**New York Giants** |**4:25 pm ET** |**CBS** | |\n|Minnesota Vikings |at |San Francisco 49ers |8:20 pm ET |NBC |Mexico City |\n| | | | | | |"
+          ],
+          "title": "Week 11 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The matchup leaders provide Jefferson's receiving totals and Purdy's passing totals; the cited player entries establish their full names and teams. Cousins' 2026 stats are explicitly labeled LV/MIN, and McCaffrey's 2026 row gives his rushing and receiving totals and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873060",
+          "excerpts": [
+            "And he reestablished his connection with top receiver [Justin Jefferson](http://www.espn.com/nfl/player/_/id/4262921/justin-jefferson) , who had season highs in catches (nine) and targets (13) while finishing with 74 yards."
+          ],
+          "title": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Jefferson 467 YDS 40REC 4TD 11.7AVG](https://www.nfl.com/players/justin-jefferson/stats) RECEIVING [G.",
+            "Purdy 2369 YDS 70.1%CMP 20TD 5INT](https://www.nfl.com/players/brock-purdy/stats) RUSHING [A."
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/gamelog/_/id/14880/kirk-cousins",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Kirk Cousins\n\nMinnesota Vikings\n\n* [Minnesota Vikings Vikings](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n* \\#8\n* Quarterback QB\n\n* HT/WT\n  \n  6' 3\", 209 lbs\n* Birthdate",
+            "2012: Rd 4, Pk 102 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* YDS\n  \n  2,547\n  \n  5th\n  \n  TD\n  \n  22\n  \n  2nd\n  \n  INT\n  \n  9\n  \n  Tied-26th\n  \n  QBR\n  \n  65\\.0\n  \n  10th",
+            "NCAA - Football National Football League\n\n2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012\n\n|2026 Regular Season (LV/MIN) / Date |2026 Regular Season (LV/MIN) / OPP |2026 Regular Season (LV/MIN) / Result |Passing / CMP |Passing / ATT |Passing / YDS |Passing / CMP% |Passing / AVG |Passing /",
+            "|Regular Season Stats | | |223 |346 |2,547 |64\\.5 |7\\.4 |22 |9 |45 |14 |96\\.8 |65\\.0 |25 |18 |0\\.7 |2 |8 |\n\n### Glossary\n\n* ATT: Passing Attempts\n* AVG: Yards Per Pass Attempt"
+          ],
+          "title": "Kirk Cousins 2026 Stats per Game - NFL - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/brock-purdy/stats/logs/2026",
+          "excerpts": [
+            "# Brock Purdy 2026 Logs Stats | NFL.com\n\n# Brock Purdy\n\nQB \u2022 \\#13\n\n[San Francisco 49ers](https://www.nfl.com/teams/san-francisco-49ers/)\n\n### active"
+          ],
+          "title": "Brock Purdy 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/3117251/christian-mccaffrey",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Christian McCaffrey\n\nSan Francisco 49ers"
+          ],
+          "title": "Christian McCaffrey - San Francisco 49ers Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The official matchup snapshot lists San Francisco at 8-1 entering the Week 11 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content Minnesota Vikings MIN Minnesota Vikings VIKINGS Minnesota Vikings MINNESOTA VIKINGS 7-2 7 wins, 2 losses, 0 ties San Francisco 49ers SF San Francisco 49ers 49ERS San Francisco 49ers SAN FRANCISCO 49ERS 8-1 8 wins, 1 loss, 0 ties NBC network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup snapshot identifies the home side as the San Francisco 49ers.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Skip to main content Minnesota Vikings MIN Minnesota Vikings VIKINGS Minnesota Vikings MINNESOTA VIKINGS 7-2 7 wins, 2 losses, 0 ties San Francisco 49ers SF San Francisco 49ers 49ERS San Francisco 49ers SAN FRANCISCO 49ERS 8-1 8 wins, 1 loss, 0 ties NBC network icon OVERVIEW STATS STREAMS"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The Week 11 schedule lists the Vikings at 49ers for November 22; the current date supplied in the question is November 19, so the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/week-11-schedule-change",
+          "excerpts": [
+            "|Las Vegas Raiders |at |Denver Broncos |4:25 pm ET |CBS | |\n|**Jacksonville Jaguars** |**at** |**New York Giants** |**4:25 pm ET** |**CBS** | |\n|Minnesota Vikings |at |San Francisco 49ers |8:20 pm ET |NBC |Mexico City |\n| | | | | | |"
+          ],
+          "title": "Week 11 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The game summary records Minnesota's 30-10 win over Green Bay, and the recap states that the Vikings snapped a two-game skid.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/packers/e66jpqifijzlpi12brii",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10 7 3 10 0 30\n\nHOME: Green Bay Packers 0 0 10 0 0 10\n\n**1 2 3 4 OT Total**\n\nReplay Official: Lambert, Andrew (0)\n\n**Game Day Weather**\n\n**Field Goals (made ( ) & missed)**\n\n**Scoring Plays**\n\nPaid Attendance: 78,332 Time: 2:57\n\nDate: Sunday, 11/15/2026\n\n**Green Bay Packers Minnesota Vikings**\n\n**Offense Defense Offense Defense**"
+          ],
+          "title": "Gamebook (PDF) - Week 10 Vikings"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873060",
+          "excerpts": [
+            "The Vikings snapped a two-game skid and beat the Packers (6-4) for the fifth time in six meetings."
+          ],
+          "title": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 10 report states San Francisco won 46-40 and gives Purdy's 389 yards, three touchdowns, and zero interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-week-10-sunday-aftermath-bengals-equal-afc-s-best-kirk-cousins-returns-mendoza-debuts",
+          "excerpts": [
+            "Loading...\n\nGregg Rosenthal, Jourdan Rodrigue and Nick Shook recap the Week 10 matchup between the 49ers and the Cowboys.\n\n### 49ers have a Texas-sized day\n\nWe can\u2019t exit without noting the epic nature of San Francisco\u2019s [46-40 road win](https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10) in Dallas. [Brock Purdy](https://www.nfl.com/players/brock-purdy) and Co. made mincemeat of the Dallas defense. Purdy threw for 389 yards and three touchdowns without an interception, joining Joe Montana (Week 5, 1985 and Week 9, 1990) and Colin Kaepernick (Week 1, 2013) as the only players in 49ers history to"
+          ],
+          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The matchup snapshot explicitly lists San Francisco's 399.8 yards per game as first and Minnesota's 37 defensive sacks as first.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "271.8, ranked 31st",
+            "Minnesota Vikings, TOTAL DEF SACKS, 37, ranked 1st. 37 1ST TOTAL DEF SACKS San Francisco 49ers, TOTAL DEF SACKS, 16, ranked 28th"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The Week 11 schedule gives the November 22 date, 8:20 p.m. ET time, NBC broadcast, and Mexico City location.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/week-11-schedule-change",
+          "excerpts": [
+            "|Las Vegas Raiders |at |Denver Broncos |4:25 pm ET |CBS | |\n|**Jacksonville Jaguars** |**at** |**New York Giants** |**4:25 pm ET** |**CBS** | |\n|Minnesota Vikings |at |San Francisco 49ers |8:20 pm ET |NBC |Mexico City |\n| | | | | | |"
+          ],
+          "title": "Week 11 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The recap identifies Justin Jefferson as Minnesota's receiver, and the matchup leaders list 467 receiving yards, 40 receptions, and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873060",
+          "excerpts": [
+            "And he reestablished his connection with top receiver [Justin Jefferson](http://www.espn.com/nfl/player/_/id/4262921/justin-jefferson) , who had season highs in catches (nine) and targets (13) while finishing with 74 yards."
+          ],
+          "title": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Jefferson 467 YDS 40REC 4TD 11.7AVG](https://www.nfl.com/players/justin-jefferson/stats) RECEIVING [G."
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The player entry identifies Kirk Cousins with Minnesota; its 2026 regular-season row, labeled LV/MIN, gives 2,547 passing yards, 22 touchdowns, and nine interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/gamelog/_/id/14880/kirk-cousins",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Kirk Cousins\n\nMinnesota Vikings\n\n* [Minnesota Vikings Vikings](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n* \\#8\n* Quarterback QB\n\n* HT/WT\n  \n  6' 3\", 209 lbs\n* Birthdate",
+            "2012: Rd 4, Pk 102 (WSH)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* YDS\n  \n  2,547\n  \n  5th\n  \n  TD\n  \n  22\n  \n  2nd\n  \n  INT\n  \n  9\n  \n  Tied-26th\n  \n  QBR\n  \n  65\\.0\n  \n  10th",
+            "NCAA - Football National Football League\n\n2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012\n\n|2026 Regular Season (LV/MIN) / Date |2026 Regular Season (LV/MIN) / OPP |2026 Regular Season (LV/MIN) / Result |Passing / CMP |Passing / ATT |Passing / YDS |Passing / CMP% |Passing / AVG |Passing /",
+            "|Regular Season Stats | | |223 |346 |2,547 |64\\.5 |7\\.4 |22 |9 |45 |14 |96\\.8 |65\\.0 |25 |18 |0\\.7 |2 |8 |\n\n### Glossary\n\n* ATT: Passing Attempts\n* AVG: Yards Per Pass Attempt"
+          ],
+          "title": "Kirk Cousins 2026 Stats per Game - NFL - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The NFL player entry identifies Brock Purdy with San Francisco, and the matchup leaders list 2,369 passing yards, 20 touchdowns, and five interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/brock-purdy/stats/logs/2026",
+          "excerpts": [
+            "# Brock Purdy 2026 Logs Stats | NFL.com\n\n# Brock Purdy\n\nQB \u2022 \\#13\n\n[San Francisco 49ers](https://www.nfl.com/teams/san-francisco-49ers/)\n\n### active"
+          ],
+          "title": "Brock Purdy 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=preview",
+          "excerpts": [
+            "Purdy 2369 YDS 70.1%CMP 20TD 5INT](https://www.nfl.com/players/brock-purdy/stats) RUSHING [A."
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The player profile identifies Christian McCaffrey as a 49er, and the 2026 season totals give his 519 rushing yards, 431 receiving yards, and 13 total touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/3117251/christian-mccaffrey",
+          "excerpts": [
+            "Tues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Christian McCaffrey\n\nSan Francisco 49ers"
+          ],
+          "title": "Christian McCaffrey - San Francisco 49ers Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "players_to_watch.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "manual_corrections": [
+    {
+      "field": "matchup_notes.2",
+      "from": "The season snapshot lists Minnesota with 37 defensive sacks, ranked first, while San Francisco averages 399.8 yards per game, also ranked first.",
+      "to": "Minnesota leads the NFL with 37 defensive sacks.",
+      "reason": "SF 'ranked first' in yards per game was stale; ESPN after Week 10 has DET 407.6, SF 407.2"
+    }
+  ],
+  "recap": {
+    "paragraph": "On Sunday, the Vikings visit the 49ers in Mexico City. Minnesota is 7-2, and San Francisco is 8-1. Both teams won last week, making this a thrilling Week 11 test! Vikings star Justin Jefferson has 467 receiving yards and 4 touchdowns. Can the 49ers slow him down?",
+    "big_words": [
+      {
+        "word": "thrilling",
+        "definition": "Making you feel very excited.",
+        "example": "Marcus made a thrilling volcano for his science project."
+      }
+    ],
+    "opener": "Start by setting the scene: where the game is and when.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1162,
+        "output": 221
+      }
+    ]
+  }
+}

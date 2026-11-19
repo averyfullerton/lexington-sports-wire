@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_415f3f698c1f435ba2b685bed09e42d9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 58.6,
+  "input": {
+    "player": "Deebo Samuel Sr.",
+    "team": "San Francisco 49ers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "South Carolina",
+    "fun_facts": [
+      "Deebo Samuel was born in Inman, South Carolina.",
+      "His father gave Deebo Samuel the nickname \u201cDeebo\u201d after the bully in the movie Friday because, as a toddler, he was always taking things from people.",
+      "In high school, Deebo Samuel also got the nickname \u201cSweet Feet\u201d from his stepmother because of his speed.",
+      "At Chapman High, Deebo Samuel set a school record with 53 career touchdowns and totaled 3,649 yards.",
+      "At South Carolina, Deebo Samuel finished his college career with a school-record four kickoff-return touchdowns, tied for the SEC record.",
+      "In a playoff game against Dallas, Deebo Samuel set the Super Bowl-era record for most rushing yards by a primary receiver, with 72."
+    ],
+    "draft": "2019, round 2, pick 36"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography lists his college as \u201cS Carolina,\u201d meaning South Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3126486/deebo-samuel",
+          "excerpts": [
+            "* More Sports\n\n* [Watch ESPN Watch](http://www.espn.com/watch/)\n\n* [ESPN Fantasy Fantasy](https://www.espn.com/fantasy/)\n\n* [Where to Watch](https://www.espn.com/where-to-watch)\n\n*\n\n# Deebo Samuel Sr.\n\nSan Francisco 49ers\n\n* [San Francisco 49ers 49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n* \\#19\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 215 lbs\n* Birthdate\n  \n  1/15/1996 (30)\n* College\n  \n  [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\n* HT/WT\n  \n  6' 0\", 215 lbs\n* Birthdate\n  \n  1/15/1996 (30)\n* College\n  \n  [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n* Draft Info\n  \n  2019: Rd 2, Pk 36 (SF)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  19\n  \n  Tied-122nd\n  \n  YDS"
+          ],
+          "title": "Deebo Samuel Sr. Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Deebo Samuel\u2019s birthplace. The 49ers media guide explains both nicknames. The Commanders\u2019 article gives his Chapman High school record and yardage. ESPN reports his South Carolina kickoff-return record and his 72-yard playoff rushing milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3126486/deebo-samuel",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 0\", 215 lbs\n\nBirthdate 1/15/1996 (30)\n\nCollege [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\nDraft Info 2019: Rd 2, Pk 36 (SF)\n\nStatus Active\n\nExperience 8th Season\n\nBirthplace Inman, SC\n\n### Career History"
+          ],
+          "title": "Deebo Samuel Sr. Biography - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1579750274/49ers/r3t4s8sj00yxynt9pzv0.pdf",
+          "excerpts": [
+            "vs. LAR (12/9/85), and ranks 3rd in franchise history.\n\n### **SAMUEL\u2019S GOLDEN NUGGETS**\n\n\u2022 His father, Galen, gave him the nickname \u201cDeebo\u201d after a bully in the 1995 movie _Friday_ because he was always taking things away from people as a toddler. In high school, his stepmother, Precious Martin, gave him another nickname, \u201cSweet Feet,\u201d due to his speed.\n\n\u2022 Lists his favorite player growing up as Reggie Bush.\n\n## **6-0** | **215** | **SOUTH CAROLINA**\n\n## 1\\.15.96 | INMAN, SC | ROOKIE | ACQUIRED D-2 IN \u201819\n\n# **19** WR\n\n# DEEBO SAMUEL"
+          ],
+          "title": "19"
+        },
+        {
+          "url": "https://www.commanders.com/news/five-things-to-know-about-deebo-samuel",
+          "excerpts": [
+            "**2\\. He's always been a talented athlete.**\n\nSamuel played high school football at Chapman High School and was a standout athlete for the program. He was named the High School Report Class AAA Offensive Player of the Year as a senior and set a school record with 53 career touchdowns. Samuel played on both sides of the ball but had more success on offense, as he recorded 3,649 total yards in his high school career."
+          ],
+          "title": "Five things to know about Deebo Samuel"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/25445428",
+          "excerpts": [
+            "# South Carolina WR Samuel to enter NFL draft, skip Belk Bowl\n\n* ESPN\n\nDec 3, 2018, 06:00 PM ET\n\n* Copy Link"
+          ],
+          "title": "South Carolina WR Samuel to enter NFL draft, skip Belk Bowl - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33089904/san-francisco-49ers-deebo-samuel-created-own-position-wide-back",
+          "excerpts": [
+            "Against the Cowboys last week, Deebo Samuel set an NFL record for most rushing yards (72) by a primary receiver in a playoff game during the Super Bowl era. Richard Rodriguez/Getty Images"
+          ],
+          "title": "San Francisco 49ers' Deebo Samuel created his own position: 'Wide back' - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography explicitly lists the draft as 2019, round 2, pick 36.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3126486/deebo-samuel",
+          "excerpts": [
+            "* More Sports\n\n* [Watch ESPN Watch](http://www.espn.com/watch/)\n\n* [ESPN Fantasy Fantasy](https://www.espn.com/fantasy/)\n\n* [Where to Watch](https://www.espn.com/where-to-watch)\n\n*\n\n# Deebo Samuel Sr.\n\nSan Francisco 49ers\n\n* [San Francisco 49ers 49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n* \\#19\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 215 lbs\n* Birthdate\n  \n  1/15/1996 (30)\n* College\n  \n  [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\n* HT/WT\n  \n  6' 0\", 215 lbs\n* Birthdate\n  \n  1/15/1996 (30)\n* College\n  \n  [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n* Draft Info\n  \n  2019: Rd 2, Pk 36 (SF)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  19\n  \n  Tied-122nd\n  \n  YDS"
+          ],
+          "title": "Deebo Samuel Sr. Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography identifies Inman, South Carolina, as Deebo Samuel\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3126486/deebo-samuel",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 0\", 215 lbs\n\nBirthdate 1/15/1996 (30)\n\nCollege [S Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\nDraft Info 2019: Rd 2, Pk 36 (SF)\n\nStatus Active\n\nExperience 8th Season\n\nBirthplace Inman, SC\n\n### Career History"
+          ],
+          "title": "Deebo Samuel Sr. Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The 49ers media guide says his father gave him the Deebo nickname after the Friday character because he took things from people as a toddler.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1579750274/49ers/r3t4s8sj00yxynt9pzv0.pdf",
+          "excerpts": [
+            "vs. LAR (12/9/85), and ranks 3rd in franchise history.\n\n### **SAMUEL\u2019S GOLDEN NUGGETS**\n\n\u2022 His father, Galen, gave him the nickname \u201cDeebo\u201d after a bully in the 1995 movie _Friday_ because he was always taking things away from people as a toddler. In high school, his stepmother, Precious Martin, gave him another nickname, \u201cSweet Feet,\u201d due to his speed.\n\n\u2022 Lists his favorite player growing up as Reggie Bush.\n\n## **6-0** | **215** | **SOUTH CAROLINA**\n\n## 1\\.15.96 | INMAN, SC | ROOKIE | ACQUIRED D-2 IN \u201819\n\n# **19** WR\n\n# DEEBO SAMUEL"
+          ],
+          "title": "19"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The 49ers media guide says his stepmother gave him the \u201cSweet Feet\u201d nickname in high school because of his speed.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1579750274/49ers/r3t4s8sj00yxynt9pzv0.pdf",
+          "excerpts": [
+            "vs. LAR (12/9/85), and ranks 3rd in franchise history.\n\n### **SAMUEL\u2019S GOLDEN NUGGETS**\n\n\u2022 His father, Galen, gave him the nickname \u201cDeebo\u201d after a bully in the 1995 movie _Friday_ because he was always taking things away from people as a toddler. In high school, his stepmother, Precious Martin, gave him another nickname, \u201cSweet Feet,\u201d due to his speed.\n\n\u2022 Lists his favorite player growing up as Reggie Bush.\n\n## **6-0** | **215** | **SOUTH CAROLINA**\n\n## 1\\.15.96 | INMAN, SC | ROOKIE | ACQUIRED D-2 IN \u201819\n\n# **19** WR\n\n# DEEBO SAMUEL"
+          ],
+          "title": "19"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Commanders\u2019 article states that Samuel set Chapman High\u2019s record with 53 career touchdowns and recorded 3,649 total high school yards.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-things-to-know-about-deebo-samuel",
+          "excerpts": [
+            "**2\\. He's always been a talented athlete.**\n\nSamuel played high school football at Chapman High School and was a standout athlete for the program. He was named the High School Report Class AAA Offensive Player of the Year as a senior and set a school record with 53 career touchdowns. Samuel played on both sides of the ball but had more success on offense, as he recorded 3,649 total yards in his high school career."
+          ],
+          "title": "Five things to know about Deebo Samuel"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN states that Samuel finished his South Carolina career with a school-record four kickoff-return touchdowns, tied for the SEC record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/25445428",
+          "excerpts": [
+            "# South Carolina WR Samuel to enter NFL draft, skip Belk Bowl\n\n* ESPN\n\nDec 3, 2018, 06:00 PM ET\n\n* Copy Link"
+          ],
+          "title": "South Carolina WR Samuel to enter NFL draft, skip Belk Bowl - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN reports that Samuel set the Super Bowl-era playoff record for rushing yards by a primary receiver with 72 against Dallas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33089904/san-francisco-49ers-deebo-samuel-created-own-position-wide-back",
+          "excerpts": [
+            "Against the Cowboys last week, Deebo Samuel set an NFL record for most rushing yards (72) by a primary receiver in a playoff game during the Super Bowl era. Richard Rodriguez/Getty Images"
+          ],
+          "title": "San Francisco 49ers' Deebo Samuel created his own position: 'Wide back' - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

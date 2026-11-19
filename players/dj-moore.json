@@ -1,0 +1,111 @@
+{
+  "name": "DJ Moore",
+  "espn_id": "3915416",
+  "team": "Buffalo Bills",
+  "team_abbr": "BUF",
+  "number": "2",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Maryland",
+  "experience": 9,
+  "fun_facts": [
+    "DJ won a Little League championship at age 5 and still has his jersey.",
+    "DJ made 80 catches and eight touchdowns in college in 2017.",
+    "DJ set a Panthers receiving yards record in his first three NFL seasons."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2018",
+        "CAR",
+        "16",
+        "55",
+        "788",
+        "2",
+        "82"
+      ],
+      [
+        "2019",
+        "CAR",
+        "15",
+        "87",
+        "1,175",
+        "4",
+        "52"
+      ],
+      [
+        "2020",
+        "CAR",
+        "15",
+        "66",
+        "1,193",
+        "4",
+        "74"
+      ],
+      [
+        "2021",
+        "CAR",
+        "17",
+        "93",
+        "1,157",
+        "4",
+        "64"
+      ],
+      [
+        "2022",
+        "CAR",
+        "17",
+        "63",
+        "888",
+        "7",
+        "62"
+      ],
+      [
+        "2023",
+        "CHI",
+        "17",
+        "96",
+        "1,364",
+        "8",
+        "58"
+      ],
+      [
+        "2024",
+        "CHI",
+        "17",
+        "98",
+        "966",
+        "6",
+        "44"
+      ],
+      [
+        "2025",
+        "CHI",
+        "17",
+        "50",
+        "682",
+        "6",
+        "46"
+      ],
+      [
+        "2026",
+        "BUF",
+        "7",
+        "23",
+        "375",
+        "3",
+        "49"
+      ]
+    ]
+  }
+}

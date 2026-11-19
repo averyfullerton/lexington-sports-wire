@@ -1,0 +1,405 @@
+{
+  "run_id": "trun_3df3487a122343d49c9ccdf6f25774e0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 102.3,
+  "input": {
+    "away_team": "Buffalo Bills",
+    "home_team": "New York Jets",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Buffalo Bills",
+    "key_plays": [
+      "Q1 2:49: Josh Allen 1-yard rushing touchdown, Tyler Bass extra point",
+      "Q3 10:02: Jason Sanders 22-yard field goal cut Buffalo\u2019s lead to 10-9",
+      "Q3 8:02: Josh Allen 1-yard rushing touchdown extended Buffalo\u2019s lead to 17-9",
+      "Q3 3:42: Josh Allen 45-yard touchdown pass to DJ Moore made it 24-12",
+      "Q4 4:42: James Cook 74-yard rushing touchdown made it 31-12"
+    ],
+    "away_score": 31,
+    "storyline": "Buffalo improved to 8-1, its best start in 35 years and its first 8-1 start since 1991. Josh Allen\u2019s 325 regular-season touchdowns broke the record for the most by a player through his first 10 seasons; the 2-8 Jets suffered their fifth straight loss and had gone nine consecutive quarters without a touchdown.",
+    "top_performers": [
+      {
+        "stat_line": "11 of 21, 196 passing yards, 1 passing TD, 1 INT; 5 carries, 5 yards, 2 rushing TD",
+        "team": "Buffalo Bills",
+        "name": "Josh Allen"
+      },
+      {
+        "stat_line": "18 carries, 157 yards, 1 TD",
+        "team": "Buffalo Bills",
+        "name": "James Cook"
+      },
+      {
+        "stat_line": "4 receptions, 90 yards, 1 TD",
+        "team": "Buffalo Bills",
+        "name": "DJ Moore"
+      }
+    ],
+    "home_record_after": "2-8",
+    "tough_day": [
+      {
+        "stat_line": "0 touchdowns; 4 field goals",
+        "team": "New York Jets",
+        "name": "New York Jets offense"
+      }
+    ],
+    "away_record_after": "8-1",
+    "home_team": "New York Jets",
+    "home_score": 12
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary identifies the Bills as the visitor and Jets as the home team, shows their final totals, and dates the game Sunday, November 15, 2026.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Buffalo Bills 7 3 14 7 0 31 HOME: New York Jets 0 6 6 0 0 12 **1 2 3 4 OT Total** Replay Official: Stine, Kevin (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Date: Sunday, 11/15/2026"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game summary names Buffalo Bills as the visitor.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Buffalo Bills 7 3 14 7 0 31"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring summary lists the events, teams, scoring descriptions, quarters, and game times in order. It records Allen\u2019s first-quarter run, Sanders\u2019 third-quarter field goal, Allen\u2019s third-quarter rushing score, the Allen-to-Moore touchdown, and Cook\u2019s fourth-quarter touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bills J.Allen 1 yd. run (T.Bass kick) (12-63, 6:27) 7 0 1 2:49",
+            "Jets J.Sanders 22 yd. Field Goal (10-61, 4:58) 10 9 3 10:02 Bills J.Allen 1 yd. run (T.Bass kick) (4-62, 2:00) 17 9 3 8:02",
+            "Bills D.Moore 45 yd. pass from J.Allen (T.Bass kick) (2-66, 0:39) 24 12 3 3:42 Bills J.Cook 74 yd. run (T.Bass kick) (1-74, 0:10) 31 12 4 4:42"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The NFL game summary lists Buffalo\u2019s final total as 31.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Buffalo Bills 7 3 14 7 0 31"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states Buffalo was 8-1 for the first time since 1991 and describes it as the franchise\u2019s best start in 35 years; it also reports Allen\u2019s 325-touchdown milestone. The recap says the Jets fell to 2-8, lost their fifth straight game, and had gone nine quarters without a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "Allen ran for two scores and threw a TD pass to [DJ Moore](http://www.espn.com/nfl/player/_/id/3915416/dj-moore) , and the Bills pulled away from the [New York Jets](http://www.espn.com/nfl/team/_/name/nyj/new-york-jets) for a 31-12 victory Sunday that has them at 8-1 for the first time since 1991, when they ... James Cook ran for 157 yards, including a 74-yard TD scamper in the fourth quarter that helped seal the win. It came with the Bills' league-leading offense hardly looking like a juggernaut through two quarters, when Buffalo led 10-6 before sending the Jets (2-8) to their fifth straight loss. \u201cHonestly, offensively, we didn't play too well,\u201d Allen said. \u201cI know you can look at the stats sheet and (see) 31 points. I didn't feel like the first half we executed the way we wanted to.\" It wasn\u2019t a huge statistical game for Allen, who went 11 of 21 for 196 yards with the TD and an interception \u2014 just the Jets\u2019 second this season \u2014 and ran for 5 yards, including the two scoring runs. But Allen did make some more history. His 325 regular-season TDs (233 passing, 90 rushing and two receiving) broke a tie with Pro Football Hall of Famer Peyton Manning for the most by a player through their first 10 seasons \u2014 even though Allen is still in his ninth year.",
+            "But with what appeared to be at least half the crowd at MetLife Stadium decked out in blue, white and red Bills gear, the Jets managed just four field goals by [Jason Sanders](http://www.espn.com/nfl/player/_/id/3124679/jason-sanders) . New York has gone nine straight quarters without a touchdown."
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game book supplies the player box-score figures: Allen\u2019s passing and rushing lines, Cook\u2019s rushing line, and Moore\u2019s receiving line. The recap identifies the players by their full names and notes their major contributions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Allen 5 1.0 2 5 2 A.Beck 2 2.0 0 1 2 D.Moore 4 4.0 0 1 4 K.Allen -2 -1.0 0 2 -1 32 201 6.3 74 3 Total 23 109 4.7 11 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Allen 196 1 21 11 1/8 1 80.7 G.Smith 148 0 21 13 1/6 0 83.0 33 54",
+            "J.Cook 157 8.7 1 18 **74** B.Hall 41 3.7 0 11 9",
+            "D.Moore 90 22.5 1 4 6 G.Wilson 106 15.1 0 7 14 33 **45**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "It wasn\u2019t a huge statistical game for Allen, who went 11 of 21 for 196 yards with the TD and an interception \u2014 just the Jets\u2019 second this season \u2014 and ran for 5 yards, including the two scoring runs.",
+            "James Cook ran for 157 yards, including a 74-yard TD scamper in the fourth quarter that helped seal the win.",
+            "Allen ran for two scores and threw a TD pass to [DJ Moore](http://www.espn.com/nfl/player/_/id/3915416/dj-moore) , and the Bills pulled away from the [New York Jets](http://www.espn.com/nfl/team/_/name/nyj/new-york-jets) for a 31-12 victory Sunday that has them at 8-1 for the first time since 1991, when they"
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The postgame standings list New York at 2 wins and 8 losses.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "| [New York](https://www.espn.com/nfl/team/_/name/nyj/new-york-jets) | 2 | 8 | 0 | .200 | 194 | 254 |"
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap says the Jets managed four field goals and had gone nine straight quarters without a touchdown; the stat line describes the New York offense\u2019s scoring output.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "But with what appeared to be at least half the crowd at MetLife Stadium decked out in blue, white and red Bills gear, the Jets managed just four field goals by [Jason Sanders](http://www.espn.com/nfl/player/_/id/3124679/jason-sanders) . New York has gone nine straight quarters without a touchdown."
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The postgame standings list Buffalo at 8 wins and 1 loss.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "| [Buffalo](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills) | 8 | 1 | 0 | .889 | 287 | 199 |"
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game summary names the New York Jets as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: New York Jets 0 6 6 0 0 12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The NFL game summary lists the New York Jets\u2019 final total as 12.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: New York Jets 0 6 6 0 0 12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Allen\u2019s 1-yard rushing touchdown at 2:49 of the first quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bills J.Allen 1 yd. run (T.Bass kick) (12-63, 6:27) 7 0 1 2:49"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Sanders\u2019 22-yard field goal at 10:02 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jets J.Sanders 22 yd. Field Goal (10-61, 4:58) 10 9 3 10:02"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Allen\u2019s 1-yard rushing touchdown at 8:02 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bills J.Allen 1 yd. run (T.Bass kick) (4-62, 2:00) 17 9 3 8:02"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Moore\u2019s 45-yard touchdown reception from Allen at 3:42 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bills D.Moore 45 yd. pass from J.Allen (T.Bass kick) (2-66, 0:39) 24 12 3 3:42"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records Cook\u2019s 74-yard rushing touchdown at 4:42 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bills J.Cook 74 yd. run (T.Bass kick) (1-74, 0:10) 31 12 4 4:42"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The game book records Allen\u2019s 5 carries for 5 yards and 2 rushing touchdowns, and 11 completions on 21 attempts for 196 yards, 1 passing touchdown, and 1 interception. The recap confirms the corresponding passing and rushing production.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Allen 5 1.0 2 5 2 A.Beck 2 2.0 0 1 2 D.Moore 4 4.0 0 1 4 K.Allen -2 -1.0 0 2 -1 32 201 6.3 74 3 Total 23 109 4.7 11 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Allen 196 1 21 11 1/8 1 80.7 G.Smith 148 0 21 13 1/6 0 83.0 33 54"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "It wasn\u2019t a huge statistical game for Allen, who went 11 of 21 for 196 yards with the TD and an interception \u2014 just the Jets\u2019 second this season \u2014 and ran for 5 yards, including the two scoring runs."
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The game book records Cook\u2019s 18 carries for 157 yards and 1 touchdown; the recap gives his full name and highlights the 74-yard score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Cook 157 8.7 1 18 **74** B.Hall 41 3.7 0 11 9"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "James Cook ran for 157 yards, including a 74-yard TD scamper in the fourth quarter that helped seal the win."
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The game book records Moore\u2019s 4 receptions for 90 yards and 1 touchdown. The recap identifies DJ Moore as the receiver of Allen\u2019s touchdown pass.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829722/gamecenter/ab789ac9-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Moore 90 22.5 1 4 6 G.Wilson 106 15.1 0 7 14 33 **45**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "Allen ran for two scores and threw a TD pass to [DJ Moore](http://www.espn.com/nfl/player/_/id/3915416/dj-moore) , and the Bills pulled away from the [New York Jets](http://www.espn.com/nfl/team/_/name/nyj/new-york-jets) for a 31-12 victory Sunday that has them at 8-1 for the first time since 1991, when they"
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap states the Jets managed four field goals and had gone nine straight quarters without scoring a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873054",
+          "excerpts": [
+            "But with what appeared to be at least half the crowd at MetLife Stadium decked out in blue, white and red Bills gear, the Jets managed just four field goals by [Jason Sanders](http://www.espn.com/nfl/player/_/id/3124679/jason-sanders) . New York has gone nine straight quarters without a touchdown."
+          ],
+          "title": "Bills 31-12 Jets (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "James Cook races 74 yards for a Bills touchdown! Josh Allen also ran for 2 scores. His second put Buffalo ahead 17-9. Then Allen zipped a 45-yard touchdown pass to DJ Moore. The Bills beat the Jets 31-12 and climbed to 8-1. Allen also broke the record for touchdowns by a player in his first 10 seasons.",
+    "big_words": [
+      {
+        "word": "record",
+        "definition": "The best mark anyone has reached.",
+        "example": "On a rainy day, Kofi set a record for stacking blocks."
+      }
+    ],
+    "opener": "Start with the single biggest play, told as action, as if it is happening now.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1191,
+        "output": 199
+      }
+    ]
+  }
+}

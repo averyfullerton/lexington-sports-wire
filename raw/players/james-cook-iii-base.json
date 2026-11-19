@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_415f3f698c1f435b963fdacc5b6495b5",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.4,
+  "input": {
+    "player": "James Cook III",
+    "team": "Buffalo Bills",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Georgia",
+    "fun_facts": [
+      "James Cook III grew up in Miami, Florida.",
+      "At Georgia, James Cook III finished his college career with 1,503 rushing yards and 14 rushing touchdowns.",
+      "In Georgia\u2019s Orange Bowl semifinal against Michigan, James Cook III caught four passes for 112 yards, including a 39-yard touchdown.",
+      "In 2025, James Cook III rushed for 216 yards and two touchdowns on 19 carries in one game\u2014making him the fifth player since 1990 to reach 200 rushing yards and multiple rushing touchdowns on fewer than 20 attempts.",
+      "James Cook III scored a rushing touchdown in seven straight games, tying the Bills\u2019 franchise record."
+    ],
+    "draft": "2022, round 2, pick 63"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Georgia as James Cook III\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 5' 11\", 190 lbs\n\nBirthdate 9/25/1999 (27)\n\nCollege [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2022: Rd 2, Pk 63 (BUF)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Miami, FL\n\n### Career History\n\n[Buffalo Bills Buffalo Bills 2022-CURRENT (5 Seasons)](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills)\n\nESPN"
+          ],
+          "title": "James Cook III Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN account says Cook grew up in Miami and records his Georgia career rushing totals. Another ESPN account describes his four-catch, 112-yard Orange Bowl performance and touchdown. NFL.com documents his 216-yard, two-touchdown game on 19 carries and the seven-game rushing-touchdown streak that tied a Bills record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/james-cook-s-three-touchdown-homecoming-highlights-bills-win-over-dolphins-on-thursday",
+          "excerpts": [
+            "Impressive as his 2023 campaign was when he ran for 1,122 rushing yards, Cook continues his ascension, according to his coach.\n\n\u201cJames just continues to grow and get better,\u201d McDermott said.\n\nIt was a performance all the important for Cook because it came in Miami, where he grew up but has struggled as a pro."
+          ],
+          "title": "James Cook's three-touchdown homecoming highlights Bills' win over Dolphins on Thursday | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/stats/_/id/4379399/type/college-football",
+          "excerpts": [
+            "|2020 |UGA [UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) |\n|2021 |UGA [UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) |\n|Career | |\n\n|CAR |YDS |AVG |TD |LNG |\n| --- | --- | --- | --- | --- |\n|41 |284 |6\\.9 |2 |36 |\n|31 |188 |6\\.1 |2 |37 |\n|45 |303 |6\\.7 |3 |44 |\n|113 |728 |6\\.4 |7 |67 |\n|230 |1,503 |6\\.5 |14 |67 |\n\nReceiving\n\n|season |Team |\n| --- | --- |"
+          ],
+          "title": "James Cook III Career Stats - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32968549/college-football-playoff-2021-stetson-bennett-georgia-offense-their-take-moment-michigan",
+          "excerpts": [
+            "Running back James Cook hauled in four passes from Stetson Bennett for 112 yards, including this 39-yard touchdown. Jasen Vinlove/USA TODAY Sports\n\nRunning back [James Cook](https://www.espn.com/college-football/player/_/id/4379399/james-cook) , himself the recipient of a beautifully placed 53-yard reception, confirmed as much in his own postgame comments, saying, \"Like said, he ain't got no social media, he carries a flip phone around, and he lets the noise go over his head and play football. That's what I love about him."
+          ],
+          "title": "College Football Playoff 2021: Stetson Bennett and the Georgia offense have their 'Take that' moment against Michigan - ESPN"
+        },
+        {
+          "url": "https://media.nfl.com/football-information/2025/awards/week-8---afc-players-of-the-week",
+          "excerpts": [
+            "# James Cook, Jordyn Brooks & Isaiah Williams Named Week 8 AFC Players of the Week\n\nFootball Communications Awards Players of the Week Week 08\n\nOct 29, 2025\n\nShare\n\n**NEW YORK \u2014** **Oct. 29, 2025** \u2014 Buffalo Bills running back **James Cook** , Miami Dolphins linebacker **Jordyn Brooks** and New York Jets wide receiver **Isaiah Williams** are the AFC Offensive, Defensive and Special Teams Players of the Week for games played in Week 8 (October 23, 26-27).\n\n**OFFENSE : RB JAMES COOK, BUFFALO BILLS**\n\n* Cook recorded a career-high 216 rushing yards on 19 carries and had two rushing touchdowns in Buffalo\u2019s 40-9 win at Carolina. Cook became the fifth player since 1990 with at least 200 rushing yards and multiple rushing touchdowns on fewer than 20 rushing attempts, joining the De\u2019Von Achane (Sept. 24, 2023, with Miami), Derrick Henry (Dec. 6, 2018 with Tennessee), Frank Gore (Sept. 20, 2009 with San Francisco) and Barry Word (Oct. 14, 1990 with Kansas City)."
+          ],
+          "title": "Week 8 - AFC Players of the Week"
+        },
+        {
+          "url": "https://amp.nfl.com/news/james-cook-shot-out-of-a-cannon-powers-bills-win-over-dolphins",
+          "excerpts": [
+            "Wants the ball, ultimate competitor.\"\n\nThursday marked the seventh consecutive game in which Cook scored a rushing touchdown, tying him for the club record with Cookie Gilchrist (1962), O.J. Simpson (1975), and Robb Riddick (1988).\n\n## Related Links\n\n* [Dolphins-Bills on 'Thursday Night Football': What We Learned from Buffalo's 31-21 win over"
+          ],
+          "title": "James Cook, 'shot out of a cannon,' powers Bills' win over Dolphins"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists his draft information as 2022, round 2, pick 63 for Buffalo.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 5' 11\", 190 lbs\n\nBirthdate 9/25/1999 (27)\n\nCollege [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2022: Rd 2, Pk 63 (BUF)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Miami, FL\n\n### Career History\n\n[Buffalo Bills Buffalo Bills 2022-CURRENT (5 Seasons)](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills)\n\nESPN"
+          ],
+          "title": "James Cook III Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL.com article says Cook grew up in Miami.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/james-cook-s-three-touchdown-homecoming-highlights-bills-win-over-dolphins-on-thursday",
+          "excerpts": [
+            "Impressive as his 2023 campaign was when he ran for 1,122 rushing yards, Cook continues his ascension, according to his coach.\n\n\u201cJames just continues to grow and get better,\u201d McDermott said.\n\nIt was a performance all the important for Cook because it came in Miami, where he grew up but has struggled as a pro."
+          ],
+          "title": "James Cook's three-touchdown homecoming highlights Bills' win over Dolphins on Thursday | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN\u2019s college statistics table gives his career totals of 1,503 rushing yards and 14 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/stats/_/id/4379399/type/college-football",
+          "excerpts": [
+            "|2020 |UGA [UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) |\n|2021 |UGA [UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) |\n|Career | |\n\n|CAR |YDS |AVG |TD |LNG |\n| --- | --- | --- | --- | --- |\n|41 |284 |6\\.9 |2 |36 |\n|31 |188 |6\\.1 |2 |37 |\n|45 |303 |6\\.7 |3 |44 |\n|113 |728 |6\\.4 |7 |67 |\n|230 |1,503 |6\\.5 |14 |67 |\n\nReceiving\n\n|season |Team |\n| --- | --- |"
+          ],
+          "title": "James Cook III Career Stats - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that Cook caught four passes for 112 yards, including a 39-yard touchdown, in the Orange Bowl semifinal against Michigan.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32968549/college-football-playoff-2021-stetson-bennett-georgia-offense-their-take-moment-michigan",
+          "excerpts": [
+            "Running back James Cook hauled in four passes from Stetson Bennett for 112 yards, including this 39-yard touchdown. Jasen Vinlove/USA TODAY Sports\n\nRunning back [James Cook](https://www.espn.com/college-football/player/_/id/4379399/james-cook) , himself the recipient of a beautifully placed 53-yard reception, confirmed as much in his own postgame comments, saying, \"Like said, he ain't got no social media, he carries a flip phone around, and he lets the noise go over his head and play football. That's what I love about him."
+          ],
+          "title": "College Football Playoff 2021: Stetson Bennett and the Georgia offense have their 'Take that' moment against Michigan - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL report gives Cook\u2019s 216 rushing yards, two rushing touchdowns, and 19 carries, and identifies him as the fifth player since 1990 to meet that combination of marks.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/football-information/2025/awards/week-8---afc-players-of-the-week",
+          "excerpts": [
+            "# James Cook, Jordyn Brooks & Isaiah Williams Named Week 8 AFC Players of the Week\n\nFootball Communications Awards Players of the Week Week 08\n\nOct 29, 2025\n\nShare\n\n**NEW YORK \u2014** **Oct. 29, 2025** \u2014 Buffalo Bills running back **James Cook** , Miami Dolphins linebacker **Jordyn Brooks** and New York Jets wide receiver **Isaiah Williams** are the AFC Offensive, Defensive and Special Teams Players of the Week for games played in Week 8 (October 23, 26-27).\n\n**OFFENSE : RB JAMES COOK, BUFFALO BILLS**\n\n* Cook recorded a career-high 216 rushing yards on 19 carries and had two rushing touchdowns in Buffalo\u2019s 40-9 win at Carolina. Cook became the fifth player since 1990 with at least 200 rushing yards and multiple rushing touchdowns on fewer than 20 rushing attempts, joining the De\u2019Von Achane (Sept. 24, 2023, with Miami), Derrick Henry (Dec. 6, 2018 with Tennessee), Frank Gore (Sept. 20, 2009 with San Francisco) and Barry Word (Oct. 14, 1990 with Kansas City)."
+          ],
+          "title": "Week 8 - AFC Players of the Week"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com says Cook\u2019s rushing touchdown in a seventh consecutive game tied the Bills\u2019 club record.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/james-cook-shot-out-of-a-cannon-powers-bills-win-over-dolphins",
+          "excerpts": [
+            "Wants the ball, ultimate competitor.\"\n\nThursday marked the seventh consecutive game in which Cook scored a rushing touchdown, tying him for the club record with Cookie Gilchrist (1962), O.J. Simpson (1975), and Robb Riddick (1988).\n\n## Related Links\n\n* [Dolphins-Bills on 'Thursday Night Football': What We Learned from Buffalo's 31-21 win over"
+          ],
+          "title": "James Cook, 'shot out of a cannon,' powers Bills' win over Dolphins"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kyle McCord",
+  "espn_id": "4433971",
+  "team": "Miami Dolphins",
+  "team_abbr": "MIA",
+  "number": "14",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Syracuse",
+  "experience": 1,
+  "fun_facts": [
+    "In college, Kyle led the nation with 4,779 passing yards in 2024.",
+    "In college, Kyle threw for 470 yards against UConn, his most ever.",
+    "In his first NFL start for Miami, Kyle threw for 209 yards and ran for a touchdown."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "MIA",
+        "1",
+        "17",
+        "32",
+        "209",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

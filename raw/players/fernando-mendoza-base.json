@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435b9c53ff53d33b57ed",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 56.3,
+  "input": {
+    "player": "Fernando Mendoza",
+    "team": "Las Vegas Raiders",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Indiana",
+    "fun_facts": [
+      "Fernando Mendoza grew up in Miami, and Indiana\u2019s national championship game was a homecoming for him.",
+      "After three years at Cal, Fernando Mendoza transferred to Indiana in 2025.",
+      "Fernando Mendoza became the first Indiana Hoosier ever to win the Heisman Trophy.",
+      "Fernando Mendoza helped Indiana finish 16-0 and win the national championship.",
+      "Fernando Mendoza joined Joe Burrow and Cam Newton as the only players in the common-draft era to win the Heisman and national championship and then be selected No. 1 overall in the NFL draft."
+    ],
+    "draft": "2026, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN lists Indiana as Fernando Mendoza\u2019s college. NFL.com says he transferred from Cal to Indiana in 2025, supporting Indiana as his last college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
+          "excerpts": [
+            "# Fernando Mendoza\n\nLas Vegas Raiders\n\n* [Las Vegas Raiders Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n* \\#15\n* Quarterback QB\n\n* HT/WT\n  \n  6' 5\", 225 lbs\n* Birthdate\n  \n  10/1/2003 (23)\n* College\n  \n  [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nFollow\n\n* HT/WT\n  \n  6' 5\", 225 lbs\n* Birthdate\n  \n  10/1/2003 (23)\n* College\n  \n  [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n* Draft Info\n  \n  2026: Rd 1, Pk 1 (LV)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Fernando Mendoza - Las Vegas Raiders Quarterback - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Mendoza led the FBS in passing touchdowns (41) and ranked third with a 72% completion rate at Indiana.\n\nMendoza joins [Joe Burrow](https://www.nfl.com/players/joe-burrow) and Cam Newton as the only players in the common draft era to win the Heisman Trophy and national championship and be selected first overall in the NFL draft in the ensuing offseason.\n\nAfter three years at Cal, Mendoza transferred to Indiana in 2025 and took off under coach Curt Cignetti. He generated 3,535 passing yards with a 41-6 TD-INT ratio and rushed for seven scores during the undefeated season, capped off by [a 27-21 championship"
+          ],
+          "title": "2026 NFL Draft: Raiders select Indiana QB Fernando Mendoza with No. 1 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passage says Mendoza grew up in Miami and describes the championship game as a homecoming. NFL.com reports his move from Cal to Indiana, Indiana\u2019s 16-0 championship season, and that he was among the only three players to combine a Heisman, national championship, and No. 1 draft selection. ESPN identifies him as the first Hoosier to win the Heisman.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47640812/fernando-mendoza-shifts-focus-homecoming-hoosiers-run",
+          "excerpts": [
+            "-- The national championship game is a homecoming for [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) quarterback [Fernando Mendoza](https://www.espn.com/college-football/player/_/id/4837248/fernando-mendoza) , who grew up in Miami and graduated from Columbus High, but he's not exactly basking in the glory of being the prodigal son made good.\n\nThe Heisman Trophy winner talked about coming back to his hometown with a chance to win a championship Saturday, and he was quick to shift the attention from himself onto the Hoosiers' incredible run."
+          ],
+          "title": "Fernando Mendoza shifts focus from homecoming to Hoosiers' run - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Mendoza led the FBS in passing touchdowns (41) and ranked third with a 72% completion rate at Indiana.\n\nMendoza joins [Joe Burrow](https://www.nfl.com/players/joe-burrow) and Cam Newton as the only players in the common draft era to win the Heisman Trophy and national championship and be selected first overall in the NFL draft in the ensuing offseason.\n\nAfter three years at Cal, Mendoza transferred to Indiana in 2025 and took off under coach Curt Cignetti. He generated 3,535 passing yards with a 41-6 TD-INT ratio and rushed for seven scores during the undefeated season, capped off by [a 27-21 championship",
+            "The Raiders selected the Indiana quarterback No. 1 overall in the 2026 NFL Draft on Thursday night in Pittsburgh.\n\nThe Heisman Trophy winner, who was not in attendance at the draft, had been expected to be the top selection for months after he led the Hoosiers to the College Football Playoff National Championship and a 16-0 season.\n\n\u201cJust a great person,\" general"
+          ],
+          "title": "2026 NFL Draft: Raiders select Indiana QB Fernando Mendoza with No. 1 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47298246/fernando-mendoza-becomes-1st-indiana-hoosier-win-heisman",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=47298246)\n\nOpen Extended Reactions\n\nNEW YORK -- [Fernando Mendoza](https://www.espn.com/college-football/player/_/id/4837248/fernando-mendoza) , the quarterback of No. 1 [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) , won the Heisman Trophy on Saturday night, becoming the first Hoosier to win college football's most prestigious award since its inception in 1935.\n\nMendoza claimed 2,362 points, including 643 first-place votes."
+          ],
+          "title": "Fernando Mendoza becomes 1st Indiana Hoosier to win Heisman - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL.com draft video states that the Raiders selected Fernando Mendoza in Round 1 of the 2026 NFL Draft with the No. 1 overall pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/raiders-select-fernando-mendoza-with-no-1-pick-in-2026-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Raiders select Fernando Mendoza with No. 1 pick in 2026 draft\n\nThe Las Vegas Raiders select Indiana Hoosiers quarterback Fernando Mendoza in Round 1 of the 2026 NFL Draft with the No. 1 overall pick.\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Las Vegas Raiders select quarterback Fernando Mendoza with No. 1 pick in 2026 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN says Fernando Mendoza grew up in Miami and identifies the national championship game there as a homecoming.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47640812/fernando-mendoza-shifts-focus-homecoming-hoosiers-run",
+          "excerpts": [
+            "-- The national championship game is a homecoming for [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) quarterback [Fernando Mendoza](https://www.espn.com/college-football/player/_/id/4837248/fernando-mendoza) , who grew up in Miami and graduated from Columbus High, but he's not exactly basking in the glory of being the prodigal son made good.\n\nThe Heisman Trophy winner talked about coming back to his hometown with a chance to win a championship Saturday, and he was quick to shift the attention from himself onto the Hoosiers' incredible run."
+          ],
+          "title": "Fernando Mendoza shifts focus from homecoming to Hoosiers' run - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "NFL.com states that after three years at Cal, Fernando Mendoza transferred to Indiana in 2025.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Mendoza led the FBS in passing touchdowns (41) and ranked third with a 72% completion rate at Indiana.\n\nMendoza joins [Joe Burrow](https://www.nfl.com/players/joe-burrow) and Cam Newton as the only players in the common draft era to win the Heisman Trophy and national championship and be selected first overall in the NFL draft in the ensuing offseason.\n\nAfter three years at Cal, Mendoza transferred to Indiana in 2025 and took off under coach Curt Cignetti. He generated 3,535 passing yards with a 41-6 TD-INT ratio and rushed for seven scores during the undefeated season, capped off by [a 27-21 championship"
+          ],
+          "title": "2026 NFL Draft: Raiders select Indiana QB Fernando Mendoza with No. 1 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN identifies Fernando Mendoza as the first Indiana Hoosier to win the Heisman Trophy.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47298246/fernando-mendoza-becomes-1st-indiana-hoosier-win-heisman",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=47298246)\n\nOpen Extended Reactions\n\nNEW YORK -- [Fernando Mendoza](https://www.espn.com/college-football/player/_/id/4837248/fernando-mendoza) , the quarterback of No. 1 [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) , won the Heisman Trophy on Saturday night, becoming the first Hoosier to win college football's most prestigious award since its inception in 1935.\n\nMendoza claimed 2,362 points, including 643 first-place votes."
+          ],
+          "title": "Fernando Mendoza becomes 1st Indiana Hoosier to win Heisman - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com reports that Indiana finished 16-0 and that Mendoza had led the Hoosiers to the national championship.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "The Raiders selected the Indiana quarterback No. 1 overall in the 2026 NFL Draft on Thursday night in Pittsburgh.\n\nThe Heisman Trophy winner, who was not in attendance at the draft, had been expected to be the top selection for months after he led the Hoosiers to the College Football Playoff National Championship and a 16-0 season.\n\n\u201cJust a great person,\" general"
+          ],
+          "title": "2026 NFL Draft: Raiders select Indiana QB Fernando Mendoza with No. 1 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com says Mendoza joined Joe Burrow and Cam Newton as the only common-draft-era players to win the Heisman and national championship and be selected first overall in the ensuing NFL draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Mendoza led the FBS in passing touchdowns (41) and ranked third with a 72% completion rate at Indiana.\n\nMendoza joins [Joe Burrow](https://www.nfl.com/players/joe-burrow) and Cam Newton as the only players in the common draft era to win the Heisman Trophy and national championship and be selected first overall in the NFL draft in the ensuing offseason.\n\nAfter three years at Cal, Mendoza transferred to Indiana in 2025 and took off under coach Curt Cignetti. He generated 3,535 passing yards with a 41-6 TD-INT ratio and rushed for seven scores during the undefeated season, capped off by [a 27-21 championship"
+          ],
+          "title": "2026 NFL Draft: Raiders select Indiana QB Fernando Mendoza with No. 1 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

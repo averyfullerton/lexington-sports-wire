@@ -1,0 +1,48 @@
+{
+  "name": "Bhayshul Tuten",
+  "espn_id": "4882093",
+  "team": "Jacksonville Jaguars",
+  "team_abbr": "JAX",
+  "number": "33",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Virginia Tech",
+  "experience": 2,
+  "fun_facts": [
+    "Bhayshul ran for a school-record 266 yards in one game at Virginia Tech.",
+    "Bhayshul ran the 40-yard dash in 4.32 seconds.",
+    "He ran track and wrestled as a child."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "JAX",
+        "15",
+        "83",
+        "307",
+        "3.7",
+        "5"
+      ],
+      [
+        "2026",
+        "JAX",
+        "9",
+        "148",
+        "609",
+        "4.1",
+        "5"
+      ]
+    ]
+  }
+}

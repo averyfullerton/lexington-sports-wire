@@ -1,0 +1,120 @@
+{
+  "name": "Alvin Kamara",
+  "espn_id": "3054850",
+  "team": "New Orleans Saints",
+  "team_abbr": "NO",
+  "number": "41",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Tennessee",
+  "experience": 10,
+  "fun_facts": [
+    "Alvin scored six rushing touchdowns in one NFL game, tying the record!",
+    "Alvin won the AP Offensive Rookie of the Year award after his first season.",
+    "By 2023, Alvin had scored 73 touchdowns, the most ever for the Saints."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2017",
+        "NO",
+        "16",
+        "120",
+        "728",
+        "6.1",
+        "8"
+      ],
+      [
+        "2018",
+        "NO",
+        "15",
+        "194",
+        "883",
+        "4.6",
+        "14"
+      ],
+      [
+        "2019",
+        "NO",
+        "14",
+        "171",
+        "797",
+        "4.7",
+        "5"
+      ],
+      [
+        "2020",
+        "NO",
+        "15",
+        "187",
+        "932",
+        "5.0",
+        "16"
+      ],
+      [
+        "2021",
+        "NO",
+        "13",
+        "240",
+        "898",
+        "3.7",
+        "4"
+      ],
+      [
+        "2022",
+        "NO",
+        "15",
+        "223",
+        "897",
+        "4.0",
+        "2"
+      ],
+      [
+        "2023",
+        "NO",
+        "13",
+        "180",
+        "694",
+        "3.9",
+        "5"
+      ],
+      [
+        "2024",
+        "NO",
+        "14",
+        "228",
+        "950",
+        "4.2",
+        "6"
+      ],
+      [
+        "2025",
+        "NO",
+        "11",
+        "131",
+        "471",
+        "3.6",
+        "1"
+      ],
+      [
+        "2026",
+        "NO",
+        "8",
+        "49",
+        "161",
+        "3.3",
+        "3"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "run_id": "trun_3df3487a122343d4a1a2d9c8a7f2fff6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 166.7,
+  "input": {
+    "away_team": "Los Angeles Chargers",
+    "home_team": "Baltimore Ravens",
+    "game_date": "2026-11-16",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Los Angeles Chargers",
+    "key_plays": [
+      "Q1 10:39: Justin Herbert 22-yard rushing touchdown.",
+      "Q2 1:56: Omarion Hampton 1-yard rushing touchdown.",
+      "Q4 14:56: Cameron Dicker made a 35-yard field goal to put Los Angeles ahead 23-13.",
+      "Q4 10:23: Derrick Henry scored on a 1-yard run, bringing Baltimore within 23-20.",
+      "Q4 2:11: Zay Flowers fumbled after a 15-yard catch; the Chargers recovered."
+    ],
+    "away_score": 23,
+    "storyline": "Los Angeles earned its first win of the season, snapping an 11-game losing streak dating to the previous season. The Ravens lost their fifth straight, and the Chargers outrushed Baltimore 160-16.",
+    "top_performers": [
+      {
+        "stat_line": "22 carries, 105 yards, 1 TD",
+        "team": "Los Angeles Chargers",
+        "name": "Omarion Hampton"
+      },
+      {
+        "stat_line": "12 of 18, 129 passing yards, 0 TD, 0 INT; 7 carries, 51 rushing yards, 1 TD",
+        "team": "Los Angeles Chargers",
+        "name": "Justin Herbert"
+      },
+      {
+        "stat_line": "5 receptions, 86 yards",
+        "team": "Los Angeles Chargers",
+        "name": "Tre' Harris"
+      },
+      {
+        "stat_line": "8 receptions, 82 yards",
+        "team": "Baltimore Ravens",
+        "name": "Mark Andrews"
+      },
+      {
+        "stat_line": "33 of 49, 340 yards, 0 TD, 1 INT",
+        "team": "Baltimore Ravens",
+        "name": "Jacoby Brissett"
+      }
+    ],
+    "home_record_after": "4-6",
+    "tough_day": [
+      {
+        "stat_line": "10 carries, 10 yards, 2 TD",
+        "team": "Baltimore Ravens",
+        "name": "Derrick Henry"
+      },
+      {
+        "stat_line": "6 receptions, 74 yards, 1 fumble lost",
+        "team": "Baltimore Ravens",
+        "name": "Zay Flowers"
+      }
+    ],
+    "away_record_after": "1-8",
+    "home_team": "Baltimore Ravens",
+    "home_score": 20
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary identifies the visitor and home teams and lists their quarter scores and final totals, establishing that the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Los Angeles Chargers 10 7 3 3 0 23 HOME: Baltimore Ravens 0 10 3 7 0 20 **1 2 3 4 OT Total**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary labels Los Angeles the visitor and gives its full team name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Los Angeles Chargers 10 7 3 3 0 23"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring summary supplies the touchdowns and field goal with quarter, time, and play descriptions. The play-by-play records Flowers' fumble and the Chargers' recovery late in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chargers J.Herbert 22 yd. run (C.Dicker kick) (6-63, 2:49) 7 0 1 10:39 Chargers C.Dicker 38 yd. Field Goal (6-40, 2:36) 10 0 1 2:03 Ravens D.Henry 2 yd. run (R.Patterson kick) (10-65, 4:30) 10 7 2 12:33 Chargers O.Hampton 1 yd. run (C.Dicker kick) (13-48, 7:35) 17 7 2 1:56 Ravens R.Patterson 26 yd. Field Goal (10-72, 1:56) 17 10 2 0:00 Chargers C.Dicker 34 yd. Field Goal (5-21, 1:46) 20 10 3 9:03 Ravens R.Patterson 36 yd. Field Goal (12-54, 5:27) 20 13 3 3:36 Chargers C.Dicker 35 yd. Field Goal (6-53, 3:40) 23 13 4 14:56 Ravens D.Henry 1 yd. run (R.Patterson kick) (10-71, 4:33) 23 20 4 10:23",
+            "(2:11) J.Brissett pass short left to Z.Flowers to LAC 46 for 15 yards (T.Still). FUMBLES (T.Still), RECOVERED by LAC-E.Molden at LAC 46."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official summary gives the visitor's final total as 23.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Los Angeles Chargers 10 7 3 3 0 23"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap identifies this as Los Angeles' first win after an 11-game losing streak dating to the prior season, notes Baltimore's fifth consecutive loss, and reports the 160-16 rushing-yard comparison.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=50506286)\n\nOpen Extended Reactions\n\nBALTIMORE -- The [Los Angeles Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) , who had opened 2026 at 0-8 and had not won a game since Week 16 of the 2025 season, finally breathed a sigh of relief after a 23-20 win over the [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens) on Monday night.\n\nNot that they didn't have to slug it out to get there."
+          ],
+          "title": "Justin Herbert, defense lift Chargers to 1st win, top Ravens - ESPN"
+        },
+        {
+          "url": "http://www.espn.com/nfl/recap/_/gameId/401873065",
+          "excerpts": [
+            "to 10 yards on 10 carries, although he did score two touchdowns, as Baltimore (4-6) skidded to its fifth straight loss and by far the most embarrassing. The Chargers (1-8) had lost 11 in a row dating to last season, but they outrushed the Ravens 160-16."
+          ],
+          "title": "Chargers 23-20 Ravens (Nov 16, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The gamebook's rushing and receiving tables support Hampton's, Herbert's rushing, Harris's, and Andrews's stat lines; the box score gives Herbert's passing line and Brissett's passing totals.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** O.Hampton 105 4.8 1 22",
+            "PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Harris 86 17.2 0 5 5 M.Andrews 82 10.3 0 8 8 16 31"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/boxscore/_/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace,liquidglass/bettingContentEnabled/false/bettingLinksEnabled/false/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/region/us/lang/en/appearance/dark/gameId/401873065",
+          "excerpts": [
+            "# Los Angeles Chargers @ Baltimore Ravens\n\nChargers\n\nLos Angeles Passing\n\n| |\n| --- |\n|[Justin Herbert](https://espn.com/nfl/player/_/id/4038941/justin-herbert) \\#10 |\n|team |\n\n|C/ATT |YDS |AVG |TD |INT |SACKS |RTG | |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|12/18 |129 |7\\.2 |0 |0 |2-2 |87\\.5 | |\n|12/18 |127 |7\\.2 |0 |0 |2-2 |87\\.5 | |\n\nRavens\n\nBaltimore Passing",
+            "| --- | --- | --- | --- | --- | --- | --- | --- |\n|33/49 |340 |6\\.9 |0 |1 |2-9 |78\\.6 | |\n|33/49 |331 |6\\.9 |0 |1 |2-9 |78\\.6 | |\n\nChargers\n\nLos Angeles Rushing\n\n| |\n| --- |"
+          ],
+          "title": "Chargers 23-20 Ravens (Nov 16, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL Week 10 schedule lists the final game result and Baltimore's record as 4-6.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "* [Chargers 23, Ravens 20, FINAL, Monday, November 16th](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10)\n  \n  Final\n  \n  Los Angeles Chargers Team Logo CHARGERS 1-8\n  \n  Hidden Score\n  \n  Baltimore Ravens Team Logo RAVENS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10)\n\n### Teams on Bye\n\nCHI Chicago Bears\n\n7-2 7 wins, 2 losses, 0 ties\n\nDEN Denver Broncos\n\n7-2 7 wins, 2 losses, 0 ties\n\nPHI Philadelphia Eagles\n\n2-7 2 wins, 7 losses, 0 ties\n\nTB Tampa Bay Buccaneers\n\n3-6 3 wins, 6 losses, 0 ties\n\n[](https://www.nfl.com/schedules/2026/by-week/week-9) WEEK 10 [](https://www.nfl.com/schedules/2026/by-week/week-11)\n\n2026 TBD Games"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The rushing table shows Henry had 10 carries for 10 yards. The receiving table gives Flowers' catches and yards, and the final-quarter play-by-play records his fumble and the Chargers' recovery.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** O.Hampton 105 4.8 1 22 19 D.Henry 10 1.0 2 10 6",
+            "PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Harris 86 17.2 0 5 5 M.Andrews 82 10.3 0 8 8 16 31 C.Kolar 16 8.0 0 2 3 Z.Flowers 74 12.3 0 6 7 17 11",
+            "(2:11) J.Brissett pass short left to Z.Flowers to LAC 46 for 15 yards (T.Still). FUMBLES (T.Still), RECOVERED by LAC-E.Molden at LAC 46."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL Week 10 schedule lists the final game result and the Chargers' record as 1-8.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "* [Chargers 23, Ravens 20, FINAL, Monday, November 16th](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10)\n  \n  Final\n  \n  Los Angeles Chargers Team Logo CHARGERS 1-8\n  \n  Hidden Score\n  \n  Baltimore Ravens Team Logo RAVENS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/chargers-at-ravens-2026-reg-10)\n\n### Teams on Bye\n\nCHI Chicago Bears\n\n7-2 7 wins, 2 losses, 0 ties\n\nDEN Denver Broncos\n\n7-2 7 wins, 2 losses, 0 ties\n\nPHI Philadelphia Eagles\n\n2-7 2 wins, 7 losses, 0 ties\n\nTB Tampa Bay Buccaneers\n\n3-6 3 wins, 6 losses, 0 ties\n\n[](https://www.nfl.com/schedules/2026/by-week/week-9) WEEK 10 [](https://www.nfl.com/schedules/2026/by-week/week-11)\n\n2026 TBD Games"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary labels Baltimore the home team and identifies it by its full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Baltimore Ravens 0 10 3 7 0 20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official summary gives the home team's final total as 20.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Baltimore Ravens 0 10 3 7 0 20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Herbert's 22-yard rushing touchdown in the first quarter at 10:39.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chargers J.Herbert 22 yd. run (C.Dicker kick) (6-63, 2:49) 7 0 1 10:39"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Hampton's 1-yard rushing touchdown in the second quarter at 1:56.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chargers O.Hampton 1 yd. run (C.Dicker kick) (13-48, 7:35) 17 7 2 1:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Dicker's 35-yard field goal in the fourth quarter, making the score 23-13.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chargers C.Dicker 35 yd. Field Goal (6-53, 3:40) 23 13 4 14:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Henry's 1-yard rushing touchdown in the fourth quarter at 10:23.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Ravens D.Henry 1 yd. run (R.Patterson kick) (10-71, 4:33) 23 20 4 10:23"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The fourth-quarter play-by-play records Flowers' fumble and the Chargers' recovery at LAC 46.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(2:11) J.Brissett pass short left to Z.Flowers to LAC 46 for 15 yards (T.Still). FUMBLES (T.Still), RECOVERED by LAC-E.Molden at LAC 46."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The rushing table reports Hampton's 22 carries, 105 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** O.Hampton 105 4.8 1 22 19 D.Henry 10 1.0 2 10 6"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box score gives Herbert's passing line, and the gamebook rushing table records his 51 rushing yards and one rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://espn.com/nfl/boxscore/_/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace,liquidglass/bettingContentEnabled/false/bettingLinksEnabled/false/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/region/us/lang/en/appearance/dark/gameId/401873065",
+          "excerpts": [
+            "# Los Angeles Chargers @ Baltimore Ravens\n\nChargers\n\nLos Angeles Passing\n\n| |\n| --- |\n|[Justin Herbert](https://espn.com/nfl/player/_/id/4038941/justin-herbert) \\#10 |\n|team |\n\n|C/ATT |YDS |AVG |TD |INT |SACKS |RTG | |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|12/18 |129 |7\\.2 |0 |0 |2-2 |87\\.5 | |\n|12/18 |127 |7\\.2 |0 |0 |2-2 |87\\.5 | |\n\nRavens\n\nBaltimore Passing"
+          ],
+          "title": "Chargers 23-20 Ravens (Nov 16, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Herbert 51 7.3 1 7 **22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving table lists Tre Harris with five receptions for 86 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Harris 86 17.2 0 5 5 M.Andrews 82 10.3 0 8 8 16 31"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The receiving table lists Mark Andrews with eight receptions for 82 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Harris 86 17.2 0 5 5 M.Andrews 82 10.3 0 8 8 16 31"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The box score records Brissett's 33 completions on 49 attempts, 340 yards, no passing touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://espn.com/nfl/boxscore/_/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace,liquidglass/bettingContentEnabled/false/bettingLinksEnabled/false/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/region/us/lang/en/appearance/dark/gameId/401873065",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- |\n|33/49 |340 |6\\.9 |0 |1 |2-9 |78\\.6 | |\n|33/49 |331 |6\\.9 |0 |1 |2-9 |78\\.6 | |\n\nChargers\n\nLos Angeles Rushing\n\n| |\n| --- |"
+          ],
+          "title": "Chargers 23-20 Ravens (Nov 16, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The rushing table records Henry's 10 carries for 10 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** O.Hampton 105 4.8 1 22 19 D.Henry 10 1.0 2 10 6"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The receiving table gives Flowers' receptions and yards; the play-by-play records his fumble and the Chargers' recovery.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794905321/gamecenter/ab78ad5a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Harris 86 17.2 0 5 5 M.Andrews 82 10.3 0 8 8 16 31 C.Kolar 16 8.0 0 2 3 Z.Flowers 74 12.3 0 6 7 17 11",
+            "(2:11) J.Brissett pass short left to Z.Flowers to LAC 46 for 15 yards (T.Still). FUMBLES (T.Still), RECOVERED by LAC-E.Molden at LAC 46."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "storyline",
+      "top_performers",
+      "tough_day"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The final score in Baltimore read 23-20, Chargers! Justin Herbert ran 22 yards for a touchdown. Omarion Hampton ran in for another score. Cameron Dicker\u2019s field goal put Los Angeles up 23-13. Derrick Henry\u2019s touchdown run pulled the Ravens within 3 points. Then the Chargers recovered a crucial fumble by Zay Flowers. Los Angeles earned its first win of the season, ending an 11-game losing run.",
+    "big_words": [
+      {
+        "word": "crucial",
+        "definition": "Very important.",
+        "example": "Nia made a crucial catch when the birthday balloon slipped away."
+      }
+    ],
+    "opener": "Start with the final score, told in a fresh way (not 'X beat Y').",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1276,
+        "output": 196
+      }
+    ]
+  }
+}

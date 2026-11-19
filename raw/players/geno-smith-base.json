@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc8898534d7e9871",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 54.8,
+  "input": {
+    "player": "Geno Smith",
+    "team": "New York Jets",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "West Virginia",
+    "fun_facts": [
+      "Geno Smith was born in Miami, Florida.",
+      "Geno Smith is a talented artist who turned down a place at a fine-arts magnet school to focus on football.",
+      "Geno Smith majored in English at West Virginia and took classes in Shakespeare and American literature.",
+      "In one game, Geno Smith set West Virginia single-game records with 656 passing yards and eight touchdown passes.",
+      "In 2012, Geno Smith threw for 4,205 yards and led the nation with 42 touchdown passes."
+    ],
+    "draft": "2013, round 2, pick 39"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Geno Smith\u2019s college as West Virginia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15864/geno-smith",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 2\", 221 lbs\n\nBirthdate 10/10/1990 (36)\n\nCollege [West Virginia](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers)\n\nDraft Info 2013: Rd 2, Pk 39 (NYJ)\n\nStatus QUESTIONABLE\n\nExperience 14th Season\n\nBirthplace Miami, FL\n\n### Career History"
+          ],
+          "title": "Geno Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Miami as his birthplace. ESPN\u2019s college profile describes his art interests and English coursework. ESPN records coverage reports his West Virginia single-game passing records, and its draft coverage states his 2012 passing-yardage and touchdown totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15864/geno-smith",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 2\", 221 lbs\n\nBirthdate 10/10/1990 (36)\n\nCollege [West Virginia](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers)\n\nDraft Info 2013: Rd 2, Pk 39 (NYJ)\n\nStatus QUESTIONABLE\n\nExperience 14th Season\n\nBirthplace Miami, FL\n\n### Career History"
+          ],
+          "title": "Geno Smith Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/page/football-121003Maisel/west-virginia-mountaineers-quarterback-geno-smith-focus-solely-football",
+          "excerpts": [
+            "-- [Geno Smith](https://www.espn.com/college-football/player/_/id/488025/geno-smith) is a naturally gifted artist who turned down admission to a fine arts magnet school in his native south Florida in order to focus on football. The West Virginia senior is an English major, taking one class in Shakespeare and another in American literature, even as he has become the most productive college quarterback in the nation."
+          ],
+          "title": "Geno Smith: football nerd - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/statsinfo/post/_/id/52376/records-crash-in-geno-smith-masterpiece",
+          "excerpts": [
+            "The offenses combined for 19 touchdowns, the most ever in a game involving FBS teams.\n\nBut no one in Morgantown came out of the 70-63 [West Virginia Mountaineers](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers) win looking better than Geno Smith in what could have been the first Heisman Trophy-defining performance of the season.\n\n#### Most Pass Yards in Single Game  \nDivision-I History\n\nThe senior quarterback set school single-game records for completions (45), pass yards (656), total offense (687) and passing touchdowns (8) in a virtuoso performance. He threw for more touchdowns than incompletions (6).\n\nGoing back to the 2012 Orange Bowl, Smith has 26 touchdowns and zero interceptions and hasn't thrown for fewer than 323 yards in a game."
+          ],
+          "title": "Records crash in Geno Smith masterpiece - ESPN - Stats & Info- ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2013/story/_/id/9053151/2013-nfl-draft-geno-smith-60-64-passing-west-virginia-mountaineers-pro-day",
+          "excerpts": [
+            "Smith is considered to be one of the top quarterbacks available in April's NFL draft. He threw for 4,205 yards and led the nation with 42 touchdown passes in 2012."
+          ],
+          "title": "Geno Smith impresses at pro day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists Geno Smith\u2019s draft information as 2013, round 2, pick 39.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15864/geno-smith",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 2\", 221 lbs\n\nBirthdate 10/10/1990 (36)\n\nCollege [West Virginia](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers)\n\nDraft Info 2013: Rd 2, Pk 39 (NYJ)\n\nStatus QUESTIONABLE\n\nExperience 14th Season\n\nBirthplace Miami, FL\n\n### Career History"
+          ],
+          "title": "Geno Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies Miami, Florida, as Geno Smith\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15864/geno-smith",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 2\", 221 lbs\n\nBirthdate 10/10/1990 (36)\n\nCollege [West Virginia](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers)\n\nDraft Info 2013: Rd 2, Pk 39 (NYJ)\n\nStatus QUESTIONABLE\n\nExperience 14th Season\n\nBirthplace Miami, FL\n\n### Career History"
+          ],
+          "title": "Geno Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The article describes Smith as a naturally gifted artist and says he turned down admission to a fine-arts magnet school to focus on football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/page/football-121003Maisel/west-virginia-mountaineers-quarterback-geno-smith-focus-solely-football",
+          "excerpts": [
+            "-- [Geno Smith](https://www.espn.com/college-football/player/_/id/488025/geno-smith) is a naturally gifted artist who turned down admission to a fine arts magnet school in his native south Florida in order to focus on football. The West Virginia senior is an English major, taking one class in Shakespeare and another in American literature, even as he has become the most productive college quarterback in the nation."
+          ],
+          "title": "Geno Smith: football nerd - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article says Smith was an English major and was taking courses in Shakespeare and American literature.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/page/football-121003Maisel/west-virginia-mountaineers-quarterback-geno-smith-focus-solely-football",
+          "excerpts": [
+            "-- [Geno Smith](https://www.espn.com/college-football/player/_/id/488025/geno-smith) is a naturally gifted artist who turned down admission to a fine arts magnet school in his native south Florida in order to focus on football. The West Virginia senior is an English major, taking one class in Shakespeare and another in American literature, even as he has become the most productive college quarterback in the nation."
+          ],
+          "title": "Geno Smith: football nerd - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN records account states that Smith set West Virginia single-game records with 656 passing yards and eight passing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/statsinfo/post/_/id/52376/records-crash-in-geno-smith-masterpiece",
+          "excerpts": [
+            "The offenses combined for 19 touchdowns, the most ever in a game involving FBS teams.\n\nBut no one in Morgantown came out of the 70-63 [West Virginia Mountaineers](https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers) win looking better than Geno Smith in what could have been the first Heisman Trophy-defining performance of the season.\n\n#### Most Pass Yards in Single Game  \nDivision-I History\n\nThe senior quarterback set school single-game records for completions (45), pass yards (656), total offense (687) and passing touchdowns (8) in a virtuoso performance. He threw for more touchdowns than incompletions (6).\n\nGoing back to the 2012 Orange Bowl, Smith has 26 touchdowns and zero interceptions and hasn't thrown for fewer than 323 yards in a game."
+          ],
+          "title": "Records crash in Geno Smith masterpiece - ESPN - Stats & Info- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN article states that Smith threw for 4,205 yards and led the nation with 42 touchdown passes in 2012.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2013/story/_/id/9053151/2013-nfl-draft-geno-smith-60-64-passing-west-virginia-mountaineers-pro-day",
+          "excerpts": [
+            "Smith is considered to be one of the top quarterbacks available in April's NFL draft. He threw for 4,205 yards and led the nation with 42 touchdown passes in 2012."
+          ],
+          "title": "Geno Smith impresses at pro day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

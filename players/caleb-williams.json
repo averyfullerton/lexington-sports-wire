@@ -1,0 +1,61 @@
+{
+  "name": "Caleb Williams",
+  "espn_id": "4431611",
+  "team": "Chicago Bears",
+  "team_abbr": "CHI",
+  "number": "18",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "USC",
+  "experience": 3,
+  "fun_facts": [
+    "Caleb led Oklahoma to a 55\u201345 win in college after being down 35\u201317.",
+    "Caleb put his Heisman Trophy between two LEGO sets.",
+    "Caleb set an NFL record with 353 passes without an interception."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "CHI",
+        "17",
+        "351",
+        "562",
+        "3,541",
+        "20",
+        "6"
+      ],
+      [
+        "2025",
+        "CHI",
+        "17",
+        "330",
+        "568",
+        "3,942",
+        "27",
+        "7"
+      ],
+      [
+        "2026",
+        "CHI",
+        "6",
+        "134",
+        "195",
+        "1,546",
+        "8",
+        "5"
+      ]
+    ]
+  }
+}

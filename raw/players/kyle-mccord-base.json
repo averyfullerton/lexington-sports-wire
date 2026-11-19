@@ -1,0 +1,180 @@
+{
+  "run_id": "trun_415f3f698c1f435ba774a96263309c0e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 111.5,
+  "input": {
+    "player": "Kyle McCord",
+    "team": "Miami Dolphins",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Syracuse",
+    "fun_facts": [
+      "Kyle McCord played his first three college seasons at Ohio State, then transferred to Syracuse.",
+      "In 2024, Kyle McCord led the nation with 4,779 passing yards and broke the ACC career passing-yard record.",
+      "Against UConn, Kyle McCord threw for a career-high 470 yards and broke Syracuse\u2019s single-season passing-yards record during the game.",
+      "Kyle McCord went 22-4 as a college starter, and he led Syracuse to a 10-win season and a Holiday Bowl victory.",
+      "In his first NFL start for Miami, Kyle McCord passed for 209 yards and scored a 3-yard rushing touchdown."
+    ],
+    "draft": "2025, round 6, pick 181"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Syracuse as Kyle McCord\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4433971/kyle-mccord",
+          "excerpts": [
+            "* [Game Log](https://www.espn.com/nfl/player/gamelog/_/id/4433971/kyle-mccord)\n\n### Biography\n\nTeam [Miami Dolphins](https://www.espn.com/nfl/team/_/name/mia/miami-dolphins)\n\nPosition Quarterback\n\nHT/WT 6' 3\", 218 lbs\n\nBirthdate 9/19/2002 (24)\n\nCollege [Syracuse](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\nDraft Info 2025: Rd 6, Pk 181 (PHI)\n\nStatus Active"
+          ],
+          "title": "Kyle McCord Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the college timeline and records, McCord\u2019s college starting record and Syracuse season, and his first NFL start statistics.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44871354/eagles-pick-qb-kyle-mccord-sixth-round-nfl-draft",
+          "excerpts": [
+            "McCord played his first three seasons at Ohio State, with his best season coming in 2023, when he threw for 3,170 yards, 24 touchdowns and six interceptions. He played behind [C.J."
+          ],
+          "title": "Eagles pick QB Kyle McCord in sixth round of NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43360425/syracuse-quarterback-kyle-mccord-declare-nfl-draft",
+          "excerpts": [
+            "nation's leading passer in 2024, told ESPN on Friday that he will declare for the NFL draft and has decided to no longer pursue an NCAA eligibility waiver for another season.\n\nThis decision ends what he called a \"crazy ride\" through college football that saw him go 22-4 as a starting quarterback at Syracuse and Ohio State. McCord led the nation with 4,779 passing yards in 2024 and led Syracuse to a 10-win season and a victory over Washington State in the Holiday Bowl.\n\nHe broke DeShaun Watson's ACC career passing record in 2024, and the 10-win season marked the program's first since 2018."
+          ],
+          "title": "Syracuse quarterback Kyle McCord to declare for NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401635518",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401635518)\n\n# Kyle McCord leads Syracuse to first eight-win regular season in six years with win over UConn\n\n* * *\n\nBy AP\n\nNov 23, 2024, 05:33 pm\n\nFacebook Facebook Messenger Twitter Email\n\nSYRACUSE, N.Y. -- \u2014 [Kyle McCord](http://www.espn.com/college-football/player/_/id/4433971/kyle-mccord) threw for a career-high 470 yards with two touchdowns to lead Syracuse to a 31-24 win over UConn on Saturday.\n\nThe win gives the Orange (8-3) their first eight-win regular season since 2018, and third since 2000.",
+            "\u201cSo, it\u2019s just what we talked about the entire week and we didn\u2019t take it lightly.\u201d\n\nMcCord completed 37-of-47 passes for his first 400-yard game this season. He opened the game with a 77-yard touchdown drive, spanning two plays in 50 seconds. The touchdown came on a 22-yard pass to Oronde Gadsden.\n\nMcCord broke Syracuse\u2019s all-time record for single-season passing yards with 4:12 remaining in the first half."
+          ],
+          "title": "Syracuse 31-24 UConn (Nov 23, 2024) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/mlb/news/story?id=6430121/",
+          "excerpts": [
+            "The 2025 sixth-round pick completed 17-of-32 passes for 209 yards in his first career start Sunday, and scored a 3-yard rushing touchdown in a 24-22 loss to the [Indianapolis Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) . It was also McCord's first game action with Miami, which traded for him in August after the preseason ended."
+          ],
+          "title": "Miami backup QB Kyle McCord showed poise in Dolphins debut - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "NFL.com identifies Kyle McCord as the Eagles\u2019 sixth-round selection at No. 181 in the 2025 NFL Draft.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/news/2025-nfl-draft-eagles-select-syracuse-qb-kyle-mccord-with-no-181-overall-pick",
+          "excerpts": [
+            "The Philadelphia Eagles drafted quarterback [Kyle McCord](https://www.nfl.com/prospects/kyle-mccord/32004d43-4354-9616-2bb6-3e898b438243) with the No. 181 overall pick in the 2025 NFL Draft.\n\nA former quarterback at St. Joseph\u2019s Prep in Philadelphia, the sixth-round pick will battle for a backup job behind Super Bowl MVP [Jalen Hurts](http://www.nfl.com/players/jalen-hurts) . McCord will vie for reps with preseason darling [Tanner McKee](http://www.nfl.com/players/tanner-mckee) and former fifth-rounder [Dorian"
+          ],
+          "title": "2025 NFL Draft: Eagles select Syracuse QB Kyle McCord with No. 181 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN passages state that McCord played his first three seasons at Ohio State and that he transferred to Syracuse.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44871354/eagles-pick-qb-kyle-mccord-sixth-round-nfl-draft",
+          "excerpts": [
+            "McCord played his first three seasons at Ohio State, with his best season coming in 2023, when he threw for 3,170 yards, 24 touchdowns and six interceptions. He played behind [C.J."
+          ],
+          "title": "Eagles pick QB Kyle McCord in sixth round of NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39133231/kyle-mccord-transfers-syracuse-year-ohio-st-qb1",
+          "excerpts": [
+            "# Kyle McCord transfers to Syracuse after year as Ohio State's QB1\n\nplay\n\nKyle McCord's highlight-reel plays at Ohio State (2:34)\n\n* [Pete Thamel](https://www.espn.com/contributor/pete-thamel) Dec 17, 2023, 12:36 PM ET\n\n* Copy Link"
+          ],
+          "title": "Kyle McCord transfers to Syracuse after year as Ohio State's QB1 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN reports that McCord led the nation with 4,779 passing yards in 2024 and broke the ACC career passing record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43360425/syracuse-quarterback-kyle-mccord-declare-nfl-draft",
+          "excerpts": [
+            "nation's leading passer in 2024, told ESPN on Friday that he will declare for the NFL draft and has decided to no longer pursue an NCAA eligibility waiver for another season.\n\nThis decision ends what he called a \"crazy ride\" through college football that saw him go 22-4 as a starting quarterback at Syracuse and Ohio State. McCord led the nation with 4,779 passing yards in 2024 and led Syracuse to a 10-win season and a victory over Washington State in the Holiday Bowl.\n\nHe broke DeShaun Watson's ACC career passing record in 2024, and the 10-win season marked the program's first since 2018."
+          ],
+          "title": "Syracuse quarterback Kyle McCord to declare for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The UConn recap gives McCord\u2019s career-high 470 passing yards and says he broke Syracuse\u2019s single-season passing-yards record during the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401635518",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401635518)\n\n# Kyle McCord leads Syracuse to first eight-win regular season in six years with win over UConn\n\n* * *\n\nBy AP\n\nNov 23, 2024, 05:33 pm\n\nFacebook Facebook Messenger Twitter Email\n\nSYRACUSE, N.Y. -- \u2014 [Kyle McCord](http://www.espn.com/college-football/player/_/id/4433971/kyle-mccord) threw for a career-high 470 yards with two touchdowns to lead Syracuse to a 31-24 win over UConn on Saturday.\n\nThe win gives the Orange (8-3) their first eight-win regular season since 2018, and third since 2000.",
+            "\u201cSo, it\u2019s just what we talked about the entire week and we didn\u2019t take it lightly.\u201d\n\nMcCord completed 37-of-47 passes for his first 400-yard game this season. He opened the game with a 77-yard touchdown drive, spanning two plays in 50 seconds. The touchdown came on a 22-yard pass to Oronde Gadsden.\n\nMcCord broke Syracuse\u2019s all-time record for single-season passing yards with 4:12 remaining in the first half."
+          ],
+          "title": "Syracuse 31-24 UConn (Nov 23, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that McCord went 22-4 as a starter at Syracuse and Ohio State and led Syracuse to a 10-win season and Holiday Bowl victory.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43360425/syracuse-quarterback-kyle-mccord-declare-nfl-draft",
+          "excerpts": [
+            "nation's leading passer in 2024, told ESPN on Friday that he will declare for the NFL draft and has decided to no longer pursue an NCAA eligibility waiver for another season.\n\nThis decision ends what he called a \"crazy ride\" through college football that saw him go 22-4 as a starting quarterback at Syracuse and Ohio State. McCord led the nation with 4,779 passing yards in 2024 and led Syracuse to a 10-win season and a victory over Washington State in the Holiday Bowl.\n\nHe broke DeShaun Watson's ACC career passing record in 2024, and the 10-win season marked the program's first since 2018."
+          ],
+          "title": "Syracuse quarterback Kyle McCord to declare for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that in his first career start, McCord passed for 209 yards and scored a 3-yard rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/mlb/news/story?id=6430121/",
+          "excerpts": [
+            "The 2025 sixth-round pick completed 17-of-32 passes for 209 yards in his first career start Sunday, and scored a 3-yard rushing touchdown in a 24-22 loss to the [Indianapolis Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) . It was also McCord's first game action with Miami, which traded for him in August after the preseason ended."
+          ],
+          "title": "Miami backup QB Kyle McCord showed poise in Dolphins debut - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

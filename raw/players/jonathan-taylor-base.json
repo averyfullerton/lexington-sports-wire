@@ -1,0 +1,195 @@
+{
+  "run_id": "trun_415f3f698c1f435baee4752929283047",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 174.0,
+  "input": {
+    "player": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Wisconsin",
+    "fun_facts": [
+      "Jonathan Taylor was born in Salem, New Jersey.",
+      "Jonathan Taylor said he hadn\u2019t played organized sports before football; in high school, he played football and ran track.",
+      "As a freshman at Wisconsin, Jonathan Taylor broke the FBS freshman rushing record with 1,977 yards.",
+      "Jonathan Taylor was the fastest player to reach 5,000 rushing yards in FBS history, doing so before the end of his junior season.",
+      "Jonathan Taylor finished his college career with 6,174 rushing yards, the most in FBS history through a player\u2019s junior season.",
+      "Jonathan Taylor won the Doak Walker Award twice and was a unanimous first-team All-American twice."
+    ],
+    "draft": "2020, round 2, pick 41"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Wisconsin as Jonathan Taylor\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4242335/jonathan-taylor",
+          "excerpts": [
+            "College [Wisconsin](https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers)\n\nDraft Info 2020: Rd 2, Pk 41 (IND)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Salem, NJ\n\n### Career History"
+          ],
+          "title": "Jonathan Taylor Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives his birthplace; the NFL profile recounts his early sports and high-school track participation; ESPN documents his freshman rushing record and 5,000-yard milestone; and ESPN reports his career rushing total and awards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4242335/jonathan-taylor",
+          "excerpts": [
+            "College [Wisconsin](https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers)\n\nDraft Info 2020: Rd 2, Pk 41 (IND)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Salem, NJ\n\n### Career History"
+          ],
+          "title": "Jonathan Taylor Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2020-nfl-draft-how-jonathan-taylor-stumbled-upon-football-0ap3000001109266",
+          "excerpts": [
+            "I never played any organized sports until football, and once I got into high school, I started to play football and run track."
+          ],
+          "title": "2020 NFL Draft: How Jonathan Taylor stumbled upon football | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/23453503/can-wisconsin-badgers-jonathan-taylor-lead-team-college-football-playoff",
+          "excerpts": [
+            "A year ago, Wisconsin didn't know what it had in Taylor, who in 2017 reached rarefied air at the program's loftiest position: running back. He broke Adrian Peterson's FBS freshman rushing record with 1,977 yards, eclipsed 100 yards in 10 of 14 games with three 200-yard efforts, and finished sixth in the Heisman Trophy voting. An easy choice for Big Ten Freshman of the Year, Taylor earned second-team AP All-America honors and consideration for both the Doak Walker and Maxwell awards."
+          ],
+          "title": "Wisconsin's Jonathan Taylor is asking all the right questions - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27879781/wisconsin-jonathan-taylor-becomes-3rd-fbs-5000-rushing-yards-junior",
+          "excerpts": [
+            "Saturday became the third player in FBS history to reach 5,000 rushing yards before the end of his junior season -- and the fastest to reach the milestone.\n\nTaylor eclipsed the 5,000-yard mark on a 16-yard carry on the first play from scrimmage at"
+          ],
+          "title": "Wisconsin's Jonathan Taylor becomes 3rd in FBS to 5,000 rushing yards as junior - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28417818/wisconsin-rb-jonathan-taylor-skip-senior-season-nfl-draft",
+          "excerpts": [
+            "The two-time Doak Walker Award winner and two-time unanimous first-team All-American finished his college career with 6,174 yards rushing, the most by any player in FBS history through their junior season. Taylor also had 55 total touchdowns in his three seasons.\n\nThe 5-foot-11, 214-pound Taylor looks to be the first Wisconsin tailback selected in the NFL draft since Montee Ball (2013), James"
+          ],
+          "title": "Wisconsin RB Jonathan Taylor to skip senior season for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN reports that Indianapolis selected Jonathan Taylor in the second round of the 2020 draft with the 41st overall pick.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/29095812/colts-trade-draft-wisconsin-rb-jonathan-taylor",
+          "excerpts": [
+            "The Colts jumped three spots in the [2020 NFL draft](https://www.espn.com/nfl/draft/news) to add to what was a top-10 rushing offense last season when they selected [Wisconsin](https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers) running back [Jonathan Taylor](https://insider.espn.com/nfl/draft/player/_/id/104139/jonathan-taylor) in the second round with the No. 41 overall pick. The Colts, who did not have a first-round pick Thursday, gave the [Cleveland Browns](https://www.espn.com/nfl/team/_/name/cle/cleveland-browns) the 44th and 160th overall picks to move up to select Taylor."
+          ],
+          "title": "Colts trade up in NFL draft to take Wisconsin RB Jonathan Taylor - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies Salem, New Jersey, as Jonathan Taylor\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4242335/jonathan-taylor",
+          "excerpts": [
+            "College [Wisconsin](https://www.espn.com/college-football/team/_/id/275/wisconsin-badgers)\n\nDraft Info 2020: Rd 2, Pk 41 (IND)\n\nStatus Active\n\nExperience 7th Season\n\nBirthplace Salem, NJ\n\n### Career History"
+          ],
+          "title": "Jonathan Taylor Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "Jonathan Taylor says he had not played organized sports before football and that he played football and ran track in high school.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2020-nfl-draft-how-jonathan-taylor-stumbled-upon-football-0ap3000001109266",
+          "excerpts": [
+            "I never played any organized sports until football, and once I got into high school, I started to play football and run track."
+          ],
+          "title": "2020 NFL Draft: How Jonathan Taylor stumbled upon football | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that Taylor broke Adrian Peterson\u2019s FBS freshman rushing record with 1,977 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/23453503/can-wisconsin-badgers-jonathan-taylor-lead-team-college-football-playoff",
+          "excerpts": [
+            "A year ago, Wisconsin didn't know what it had in Taylor, who in 2017 reached rarefied air at the program's loftiest position: running back. He broke Adrian Peterson's FBS freshman rushing record with 1,977 yards, eclipsed 100 yards in 10 of 14 games with three 200-yard efforts, and finished sixth in the Heisman Trophy voting. An easy choice for Big Ten Freshman of the Year, Taylor earned second-team AP All-America honors and consideration for both the Doak Walker and Maxwell awards."
+          ],
+          "title": "Wisconsin's Jonathan Taylor is asking all the right questions - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Taylor was the fastest to reach 5,000 rushing yards and did so before the end of his junior season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27879781/wisconsin-jonathan-taylor-becomes-3rd-fbs-5000-rushing-yards-junior",
+          "excerpts": [
+            "Saturday became the third player in FBS history to reach 5,000 rushing yards before the end of his junior season -- and the fastest to reach the milestone.\n\nTaylor eclipsed the 5,000-yard mark on a 16-yard carry on the first play from scrimmage at"
+          ],
+          "title": "Wisconsin's Jonathan Taylor becomes 3rd in FBS to 5,000 rushing yards as junior - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage gives Taylor\u2019s 6,174 college rushing yards and says that was the most in FBS history through a player\u2019s junior season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28417818/wisconsin-rb-jonathan-taylor-skip-senior-season-nfl-draft",
+          "excerpts": [
+            "The two-time Doak Walker Award winner and two-time unanimous first-team All-American finished his college career with 6,174 yards rushing, the most by any player in FBS history through their junior season. Taylor also had 55 total touchdowns in his three seasons.\n\nThe 5-foot-11, 214-pound Taylor looks to be the first Wisconsin tailback selected in the NFL draft since Montee Ball (2013), James"
+          ],
+          "title": "Wisconsin RB Jonathan Taylor to skip senior season for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage identifies Taylor as a two-time Doak Walker Award winner and a two-time unanimous first-team All-American.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/28417818/wisconsin-rb-jonathan-taylor-skip-senior-season-nfl-draft",
+          "excerpts": [
+            "The two-time Doak Walker Award winner and two-time unanimous first-team All-American finished his college career with 6,174 yards rushing, the most by any player in FBS history through their junior season. Taylor also had 55 total touchdowns in his three seasons.\n\nThe 5-foot-11, 214-pound Taylor looks to be the first Wisconsin tailback selected in the NFL draft since Montee Ball (2013), James"
+          ],
+          "title": "Wisconsin RB Jonathan Taylor to skip senior season for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

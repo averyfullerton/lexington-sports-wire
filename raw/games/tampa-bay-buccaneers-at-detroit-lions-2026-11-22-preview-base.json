@@ -1,0 +1,361 @@
+{
+  "run_id": "trun_1714e31eeb204d329316ff08d0182950",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 122.2,
+  "input": {
+    "away_team": "Tampa Bay Buccaneers",
+    "home_team": "Detroit Lions",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "away_record": "3-6",
+    "away_team": "Tampa Bay Buccaneers",
+    "storyline": "Detroit enters Week 11 tied for the NFC North lead at 7-2, with a 2-0 divisional record. Tampa Bay comes in at 3-6, making this a chance for Detroit to maintain its position in a tightly contested division.",
+    "matchup_notes": [
+      "Detroit beat New England 35-10 in Week 10.",
+      "The Lions entered Week 11 tied for the NFC North lead and had a 2-0 division record.",
+      "Tampa Bay had 16 defensive interceptions, the most in the league; Detroit had 7, ranked 11th.",
+      "NFL reported on Nov. 15 that Baker Mayfield\u2019s availability for Week 11 was uncertain after a foot-and-ankle injury in the Week 9 loss to Chicago."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "922 passing yards, 3 TD, 4 INT",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Baker Mayfield"
+      },
+      {
+        "stat_line": "825 rushing yards, 7 TD",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Bucky Irving"
+      },
+      {
+        "stat_line": "1,000 rushing yards, 11 TD",
+        "team": "Detroit Lions",
+        "name": "Jahmyr Gibbs"
+      }
+    ],
+    "home_record": "7-2",
+    "home_team": "Detroit Lions",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game-center listing gives Tampa Bay\u2019s record as 3-6 before the game.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTampa Bay Buccaneers\n\nDetroit Lions"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing identifies Tampa Bay Buccaneers as the away team.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTampa Bay Buccaneers\n\nDetroit Lions"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL describes Detroit as tied for the NFC North lead with a 2-0 division record, and the game-center listing gives the teams\u2019 7-2 and 3-6 records. Those facts support the division-position storyline.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week. A Week 11 clash with the [potentially](https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11) [Baker Mayfield](https://www.nfl.com/players/baker-mayfield)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTampa Bay Buccaneers\n\nDetroit Lions"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL material supports the Week 10 Lions result, Detroit\u2019s division position and record within the division, the teams\u2019 interception totals and rankings, and the dated report about Mayfield\u2019s injury and uncertain Week 11 status.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Detroit Lions 35, New England Patriots 10\n\n**Early Window**\n\n* Kansas City Chiefs 35, Atlanta Falcons 13\n* Cleveland Browns 27, Houston Texans 24\n* Minnesota Vikings 30, Green Bay Packers 10"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week. A Week 11 clash with the [potentially](https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11) [Baker Mayfield](https://www.nfl.com/players/baker-mayfield)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "3RD\n\nTampa Bay Buccaneers, TOTAL DEF INTS, 16, ranked 1st.\n\n16\n\n1ST\n\nTOTAL DEF INTS\n\nDetroit Lions, TOTAL DEF INTS, 7, ranked 11th.\n\n7\n\n11TH"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11",
+          "excerpts": [
+            "Tampa Bay could return from its bye without a healthy starting quarterback.\n\nBuccaneers quarterback [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) is nursing an injury to his foot and ankle area, and his status for their Week 11 game [against](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) the Lions is uncertain, NFL Network Insider Mike Garafolo [reported](https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions) Sunday.\n\nMayfield suffered the injury during Tampa Bay's [Week 9 loss](https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9) to the Bears. During the Bucs' bye, Mayfield has been employing a walking boot to rest and rehab the injury, per Garafolo."
+          ],
+          "title": "NFL Network: Buccaneers QB Baker Mayfield dealing with lower leg injury ahead of Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Week 11 game-center stats give the season totals for Mayfield, Irving, and Gibbs. The cited reports and player-leader listing establish their full names; the Gibbs report also states his 1,000 rushing yards and 11 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[B. Mayfield 922 YDS 60\\.6%CMP 3TD 4INT](https://www.nfl.com/players/baker-mayfield/stats)\n\nPASSING\n\n[J. Goff 2437 YDS 67\\.4%CMP 18TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nRUSHING\n\n[M. Irving 825 YDS 167ATT 7TD 4\\.9AVG](https://www.nfl.com/players/bucky-irving/stats)\n\nRUSHING\n\n[J. Gibbs 1000 YDS 199ATT 11TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRECEIVING\n\n[E. Egbuka 278 YDS 31REC 2TD 9AVG](https://www.nfl.com/players/emeka-egbuka/stats)\n\nRECEIVING\n\n[A. St."
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11",
+          "excerpts": [
+            "Tampa Bay could return from its bye without a healthy starting quarterback.\n\nBuccaneers quarterback [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) is nursing an injury to his foot and ankle area, and his status for their Week 11 game [against](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) the Lions is uncertain, NFL Network Insider Mike Garafolo [reported](https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions) Sunday.\n\nMayfield suffered the injury during Tampa Bay's [Week 9 loss](https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9) to the Bears. During the Bucs' bye, Mayfield has been employing a walking boot to rest and rehab the injury, per Garafolo."
+          ],
+          "title": "NFL Network: Buccaneers QB Baker Mayfield dealing with lower leg injury ahead of Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/tb/season/2026/seasontype/2",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Baker Mayfield ### Baker Mayfield QB 679](https://www.espn.com/nfl/player/_/id/3052587/baker-mayfield) [## Rushing Yards Bucky Irving ### Bucky Irving RB 728](https://www.espn.com/nfl/player/_/id/4596448/bucky-irving) [## Receiving Yards Chris Godwin Jr."
+          ],
+          "title": "Tampa Bay Buccaneers 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/alex-anzalone-buccaneers-must-prepare-for-from-a-different-planet-jahmyr-gibbs-in-week-11",
+          "excerpts": [
+            "Over the previous three seasons with the Lions, linebacker [Alex Anzalone](https://www.nfl.com/players/alex-anzalone/) watched [Jahmyr Gibbs](https://www.nfl.com/players/jahmyr-gibbs/) twist defenses into a pretzel. After signing in Tampa Bay this offseason, Anzalone now has to try to stop the dynamic running back when Detroit hosts the Buccaneers [in Week 11](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) .",
+            "Gibbs is coming off a dominant performance, generating 252 scrimmage yards and two touchdowns in the Lions' [Week 10 win](https://www.nfl.com/games/patriots-at-lions-2026-reg-10?tab=recap) over the New England Patriots. He became just the second player to have four games with at least 200 scrimmage yards and two touchdowns before age 25, joining LaDainian Tomlinson, who had five such games from 2002 to 2003.\n\nGibbs leads the NFL with 1,000 rushing yards and 11 rushing TDs."
+          ],
+          "title": "Alex Anzalone: Buccaneers must prepare for 'from a different planet' Jahmyr Gibbs in Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game-center listing gives Detroit\u2019s record as 7-2 before the game.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTampa Bay Buccaneers\n\nDetroit Lions"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing identifies Detroit Lions as the home team.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nTampa Bay Buccaneers\n\nDetroit Lions"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The game information lists the matchup for November 22, 2026. The stated current date is November 19, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873072/buccaneers-lions",
+          "excerpts": [
+            "[Full Schedule](https://www.espn.com/nfl/team/schedule/_/name/det)\n\n## Game Information\n\n#### 6:00 PM, November 22, 2026\n\n#### Ford Field"
+          ],
+          "title": "Buccaneers vs. Lions (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The NFL Week 10 recap lists Detroit\u2019s 35-10 win over New England.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Detroit Lions 35, New England Patriots 10\n\n**Early Window**\n\n* Kansas City Chiefs 35, Atlanta Falcons 13\n* Cleveland Browns 27, Houston Texans 24\n* Minnesota Vikings 30, Green Bay Packers 10"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The NFL recap says Detroit entered Week 11 tied for the division lead and had a 2-0 divisional record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Lions keep pace in NFC North; Pats losing ground.** By virtue of their Week 10 win, Detroit will enter Week 11 tied for the lead in the ultra-competitive NFC North. The 7-2 Lions are deadlocked with the Bears (on a bye this week) and Vikings. Crucially, Detroit boasts a 2-0 division record with wins over Minnesota and Green Bay, giving it the tiebreaker atop the North for at least one week. A Week 11 clash with the [potentially](https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11) [Baker Mayfield](https://www.nfl.com/players/baker-mayfield)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The NFL game-center comparison lists Tampa Bay with 16 interceptions, ranked first, and Detroit with 7, ranked 11th.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
+          "excerpts": [
+            "3RD\n\nTampa Bay Buccaneers, TOTAL DEF INTS, 16, ranked 1st.\n\n16\n\n1ST\n\nTOTAL DEF INTS\n\nDetroit Lions, TOTAL DEF INTS, 7, ranked 11th.\n\n7\n\n11TH"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL report dated Nov. 15 says Mayfield had a foot-and-ankle injury and his Week 11 status was uncertain after the Week 9 loss to Chicago.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11",
+          "excerpts": [
+            "Tampa Bay could return from its bye without a healthy starting quarterback.\n\nBuccaneers quarterback [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) is nursing an injury to his foot and ankle area, and his status for their Week 11 game [against](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) the Lions is uncertain, NFL Network Insider Mike Garafolo [reported](https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions) Sunday.\n\nMayfield suffered the injury during Tampa Bay's [Week 9 loss](https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9) to the Bears. During the Bucs' bye, Mayfield has been employing a walking boot to rest and rehab the injury, per Garafolo."
+          ],
+          "title": "NFL Network: Buccaneers QB Baker Mayfield dealing with lower leg injury ahead of Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The game-center stats give Mayfield 922 passing yards, 3 touchdowns, and 4 interceptions; the NFL report supplies his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[B. Mayfield 922 YDS 60\\.6%CMP 3TD 4INT](https://www.nfl.com/players/baker-mayfield/stats)\n\nPASSING\n\n[J. Goff 2437 YDS 67\\.4%CMP 18TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nRUSHING\n\n[M. Irving 825 YDS 167ATT 7TD 4\\.9AVG](https://www.nfl.com/players/bucky-irving/stats)\n\nRUSHING\n\n[J. Gibbs 1000 YDS 199ATT 11TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRECEIVING\n\n[E. Egbuka 278 YDS 31REC 2TD 9AVG](https://www.nfl.com/players/emeka-egbuka/stats)\n\nRECEIVING\n\n[A. St."
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/buccaneers-qb-baker-mayfield-injury-week-11",
+          "excerpts": [
+            "Tampa Bay could return from its bye without a healthy starting quarterback.\n\nBuccaneers quarterback [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) is nursing an injury to his foot and ankle area, and his status for their Week 11 game [against](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) the Lions is uncertain, NFL Network Insider Mike Garafolo [reported](https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions) Sunday.\n\nMayfield suffered the injury during Tampa Bay's [Week 9 loss](https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9) to the Bears. During the Bucs' bye, Mayfield has been employing a walking boot to rest and rehab the injury, per Garafolo."
+          ],
+          "title": "NFL Network: Buccaneers QB Baker Mayfield dealing with lower leg injury ahead of Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The game-center stats list Irving with 825 rushing yards and 7 touchdowns; the player-leader listing supplies his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[B. Mayfield 922 YDS 60\\.6%CMP 3TD 4INT](https://www.nfl.com/players/baker-mayfield/stats)\n\nPASSING\n\n[J. Goff 2437 YDS 67\\.4%CMP 18TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nRUSHING\n\n[M. Irving 825 YDS 167ATT 7TD 4\\.9AVG](https://www.nfl.com/players/bucky-irving/stats)\n\nRUSHING\n\n[J. Gibbs 1000 YDS 199ATT 11TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRECEIVING\n\n[E. Egbuka 278 YDS 31REC 2TD 9AVG](https://www.nfl.com/players/emeka-egbuka/stats)\n\nRECEIVING\n\n[A. St."
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/tb/season/2026/seasontype/2",
+          "excerpts": [
+            "Team leaders\n\n[## Passing Yards Baker Mayfield ### Baker Mayfield QB 679](https://www.espn.com/nfl/player/_/id/3052587/baker-mayfield) [## Rushing Yards Bucky Irving ### Bucky Irving RB 728](https://www.espn.com/nfl/player/_/id/4596448/bucky-irving) [## Receiving Yards Chris Godwin Jr."
+          ],
+          "title": "Tampa Bay Buccaneers 2026 NFL Regular Season Players Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The game-center stat line gives Gibbs 1,000 rushing yards and 11 touchdowns, and the NFL report spells out his full name and confirms those totals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[B. Mayfield 922 YDS 60\\.6%CMP 3TD 4INT](https://www.nfl.com/players/baker-mayfield/stats)\n\nPASSING\n\n[J. Goff 2437 YDS 67\\.4%CMP 18TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nRUSHING\n\n[M. Irving 825 YDS 167ATT 7TD 4\\.9AVG](https://www.nfl.com/players/bucky-irving/stats)\n\nRUSHING\n\n[J. Gibbs 1000 YDS 199ATT 11TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRECEIVING\n\n[E. Egbuka 278 YDS 31REC 2TD 9AVG](https://www.nfl.com/players/emeka-egbuka/stats)\n\nRECEIVING\n\n[A. St."
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/alex-anzalone-buccaneers-must-prepare-for-from-a-different-planet-jahmyr-gibbs-in-week-11",
+          "excerpts": [
+            "Over the previous three seasons with the Lions, linebacker [Alex Anzalone](https://www.nfl.com/players/alex-anzalone/) watched [Jahmyr Gibbs](https://www.nfl.com/players/jahmyr-gibbs/) twist defenses into a pretzel. After signing in Tampa Bay this offseason, Anzalone now has to try to stop the dynamic running back when Detroit hosts the Buccaneers [in Week 11](https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=overview) .",
+            "Gibbs is coming off a dominant performance, generating 252 scrimmage yards and two touchdowns in the Lions' [Week 10 win](https://www.nfl.com/games/patriots-at-lions-2026-reg-10?tab=recap) over the New England Patriots. He became just the second player to have four games with at least 200 scrimmage yards and two touchdowns before age 25, joining LaDainian Tomlinson, who had five such games from 2002 to 2003.\n\nGibbs leads the NFL with 1,000 rushing yards and 11 rushing TDs."
+          ],
+          "title": "Alex Anzalone: Buccaneers must prepare for 'from a different planet' Jahmyr Gibbs in Week 11 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Detroit on Sunday, Nov 22, the Lions host the Tampa Bay Buccaneers. The Lions are 7-2, and the Bucs are 3-6. Detroit is tied for the NFC North lead and can stay there with a win. Lions back Jahmyr Gibbs has 1,000 rushing yards and 11 TDs! Can he find a clever way past the Bucs defense?",
+    "big_words": [
+      {
+        "word": "clever",
+        "definition": "Good at finding smart ways to do things.",
+        "example": "Zoe made a clever sign to help people find her lemonade stand."
+      }
+    ],
+    "opener": "Start by setting the scene: where the game is and when.",
+    "attempts": 2,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1100,
+        "output": 182
+      },
+      {
+        "input": 1221,
+        "output": 133
+      }
+    ]
+  }
+}

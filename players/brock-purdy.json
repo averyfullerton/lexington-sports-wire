@@ -1,0 +1,81 @@
+{
+  "name": "Brock Purdy",
+  "espn_id": "4361741",
+  "team": "San Francisco 49ers",
+  "team_abbr": "SF",
+  "number": "13",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Iowa State",
+  "experience": 5,
+  "fun_facts": [
+    "Brock broke or tied 32 school records in college.",
+    "Brock was the last pick in the 2022 NFL Draft, earning the nickname \u201cMr. Irrelevant.\u201d",
+    "Brock was the first rookie to score four touchdowns in his first NFL playoff game."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "SF",
+        "9",
+        "114",
+        "170",
+        "1,374",
+        "13",
+        "4"
+      ],
+      [
+        "2023",
+        "SF",
+        "16",
+        "308",
+        "444",
+        "4,280",
+        "31",
+        "11"
+      ],
+      [
+        "2024",
+        "SF",
+        "15",
+        "300",
+        "455",
+        "3,864",
+        "20",
+        "12"
+      ],
+      [
+        "2025",
+        "SF",
+        "9",
+        "197",
+        "284",
+        "2,167",
+        "20",
+        "10"
+      ],
+      [
+        "2026",
+        "SF",
+        "9",
+        "185",
+        "264",
+        "2,369",
+        "20",
+        "5"
+      ]
+    ]
+  }
+}

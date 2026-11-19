@@ -1,0 +1,171 @@
+{
+  "run_id": "trun_415f3f698c1f435b8b2eb907215b14a1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 48.7,
+  "input": {
+    "player": "Kirk Cousins",
+    "team": "Minnesota Vikings",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Michigan State",
+    "fun_facts": [
+      "After his family moved to western Michigan in seventh grade, Kirk Cousins became an all-conference athlete in basketball, football, and baseball at Holland Christian High School.",
+      "As a young kid in Chicago, Kirk Cousins watched Purdue quarterback Drew Brees play.",
+      "At Michigan State, Kirk Cousins finished his college career as the school\u2019s record holder in passing touchdowns, passing yards, completions, passing efficiency, total offense, and 200-yard passing games.",
+      "Kirk Cousins was a three-time team captain at Michigan State.",
+      "Kirk Cousins graduated with a degree in kinesiology, had a 3.684 GPA, and was a four-time Academic All-Big Ten selection."
+    ],
+    "draft": "2012, round 4, pick 102"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The official team announcement states that Kirk Cousins played collegiately at Michigan State, directly supporting the college answer.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/redskins-place-franchise-tag-on-kirk-cousins-16884453",
+          "excerpts": [
+            "Cousins, 27, played collegiately at Michigan State from 2007-11, where he was a three-time team captain and earned Academic All-Big Ten Conference honors all four seasons in which he played. Cousins was born on Aug. 19, 1988, and attended Holland Christian H.S. in Holland, Mich.\n\n.\n\n.\n\n.\n\nThis article has been reproduced in a new format and may be missing content or contain faulty links. Please use the"
+          ],
+          "title": "Redskins Place Franchise Tag On Kirk Cousins"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the five facts respectively: Cousins\u2019s move to western Michigan and three high-school sports; watching Drew Brees as a child; his Michigan State career records; his three team-captain seasons; and his GPA, kinesiology degree, and Academic All-Big Ten selections.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-words-father-s-lesson-inspires-kirk-cousins-15040713",
+          "excerpts": [
+            "And when Cousins approached the mound as a high-schooler at Holland (Mich.) Christian High School \u2013 his family relocated to Western Michigan in seventh grade \u2013 it's like nothing changed.\n\nWhether he was the third or second baseman, shortstop or pitcher, he didn't throw \"gas.\" But, it lit a fire under Cousins, who was an all-conference athlete in three sports at the school (basketball, football and baseball).\n\n\"I didn't throw it hard,\" Cousins said. \"I threw it hard enough to be a decent high school player. But I wasn't going to play anywhere big in college.\"\n\nSo he thought.",
+            "He finished his collegiate career as the all-time record holder in passing touchdowns (66), passing yards (9,131), completions (723), passing efficiency (146.1 rating), total offense (9,004 yards) and 200-yard passing games (26)."
+          ],
+          "title": "Five Words: Father\u2019s Lesson Inspires Kirk Cousins"
+        },
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/257620/from-food-allergies-to-pump-fakes-what-kirk-cousins-has-learned-from-drew-brees",
+          "excerpts": [
+            "Not many teams threw a lot in the Big Ten, let alone from a spread look, but one quarterback did: Purdue's [Drew Brees](https://www.espn.com/nfl/player/_/id/2580/drew-brees) . So Cousins, as a young kid in Chicago, watched him. Even now, Cousins can rattle off plays from a Purdue win that season over Ohio State, specifically Brees' touchdown pass on a post route.\n\n\"They were fun to watch,\" Cousins said. \"I've followed him ever since.\"\n\nEventually, watching turned into learning, and that's made Brees into one of the bigger influences on Cousins' career -- sometimes in subtle ways."
+          ],
+          "title": "From allergies to pump fakes, Kirk Cousins has learned from Drew Brees - ESPN - NFL Nation- ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/redskins-place-franchise-tag-on-kirk-cousins-16884453",
+          "excerpts": [
+            "Cousins, 27, played collegiately at Michigan State from 2007-11, where he was a three-time team captain and earned Academic All-Big Ten Conference honors all four seasons in which he played. Cousins was born on Aug. 19, 1988, and attended Holland Christian H.S. in Holland, Mich.\n\n.\n\n.\n\n.\n\nThis article has been reproduced in a new format and may be missing content or contain faulty links. Please use the"
+          ],
+          "title": "Redskins Place Franchise Tag On Kirk Cousins"
+        },
+        {
+          "url": "https://www.espn.com/blog/bigten/post/_/id/42459/msus-cousins-wins-senior-class-award",
+          "excerpts": [
+            "> Cousins carries a 3.684 cumulative grade point average and graduated this month with a degree in kinesiology. He is a four-time Academic All-Big Ten selection. The Holland, Mich., native is only the second three-time captain in the 115-year history of Spartan football."
+          ],
+          "title": "MSU's Cousins wins Senior CLASS Award - ESPN - Big Ten Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The official team announcement says Cousins was selected in the fourth round, 102nd overall, of the 2012 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/redskins-place-franchise-tag-on-kirk-cousins-18596439",
+          "excerpts": [
+            "Last season, Cousins completed 406-of-606 passes (67.0 percent) for 4,917 yards with 25 touchdowns and 12 interceptions for a passer rating of 97.2. He finished the year with single-season team records in attempts, completions and passing yards and matched his team record for 300-yard passing games (seven).\n\nCousins is entering his sixth NFL season after originally being selected by the Redskins in the fourth round (102nd overall) of the 2012 NFL Draft."
+          ],
+          "title": "Redskins Place Franchise Tag On Kirk Cousins"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says his family relocated to western Michigan in seventh grade and that Cousins was an all-conference athlete in basketball, football, and baseball at Holland Christian.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-words-father-s-lesson-inspires-kirk-cousins-15040713",
+          "excerpts": [
+            "And when Cousins approached the mound as a high-schooler at Holland (Mich.) Christian High School \u2013 his family relocated to Western Michigan in seventh grade \u2013 it's like nothing changed.\n\nWhether he was the third or second baseman, shortstop or pitcher, he didn't throw \"gas.\" But, it lit a fire under Cousins, who was an all-conference athlete in three sports at the school (basketball, football and baseball).\n\n\"I didn't throw it hard,\" Cousins said. \"I threw it hard enough to be a decent high school player. But I wasn't going to play anywhere big in college.\"\n\nSo he thought."
+          ],
+          "title": "Five Words: Father\u2019s Lesson Inspires Kirk Cousins"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Cousins watched Purdue\u2019s Drew Brees as a young kid in Chicago.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/257620/from-food-allergies-to-pump-fakes-what-kirk-cousins-has-learned-from-drew-brees",
+          "excerpts": [
+            "Not many teams threw a lot in the Big Ten, let alone from a spread look, but one quarterback did: Purdue's [Drew Brees](https://www.espn.com/nfl/player/_/id/2580/drew-brees) . So Cousins, as a young kid in Chicago, watched him. Even now, Cousins can rattle off plays from a Purdue win that season over Ohio State, specifically Brees' touchdown pass on a post route.\n\n\"They were fun to watch,\" Cousins said. \"I've followed him ever since.\"\n\nEventually, watching turned into learning, and that's made Brees into one of the bigger influences on Cousins' career -- sometimes in subtle ways."
+          ],
+          "title": "From allergies to pump fakes, Kirk Cousins has learned from Drew Brees - ESPN - NFL Nation- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage lists Cousins\u2019s Michigan State career records in passing touchdowns, passing yards, completions, passing efficiency, total offense, and 200-yard passing games.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-words-father-s-lesson-inspires-kirk-cousins-15040713",
+          "excerpts": [
+            "He finished his collegiate career as the all-time record holder in passing touchdowns (66), passing yards (9,131), completions (723), passing efficiency (146.1 rating), total offense (9,004 yards) and 200-yard passing games (26)."
+          ],
+          "title": "Five Words: Father\u2019s Lesson Inspires Kirk Cousins"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The official team announcement identifies Cousins as a three-time team captain at Michigan State.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/redskins-place-franchise-tag-on-kirk-cousins-16884453",
+          "excerpts": [
+            "Cousins, 27, played collegiately at Michigan State from 2007-11, where he was a three-time team captain and earned Academic All-Big Ten Conference honors all four seasons in which he played. Cousins was born on Aug. 19, 1988, and attended Holland Christian H.S. in Holland, Mich.\n\n.\n\n.\n\n.\n\nThis article has been reproduced in a new format and may be missing content or contain faulty links. Please use the"
+          ],
+          "title": "Redskins Place Franchise Tag On Kirk Cousins"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage states that Cousins had a 3.684 GPA, graduated with a kinesiology degree, and was a four-time Academic All-Big Ten selection.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/bigten/post/_/id/42459/msus-cousins-wins-senior-class-award",
+          "excerpts": [
+            "> Cousins carries a 3.684 cumulative grade point average and graduated this month with a degree in kinesiology. He is a four-time Academic All-Big Ten selection. The Holland, Mich., native is only the second three-time captain in the 115-year history of Spartan football."
+          ],
+          "title": "MSU's Cousins wins Senior CLASS Award - ESPN - Big Ten Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "run_id": "trun_415f3f698c1f435b8960de8114707bd2",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 90.5,
+  "input": {
+    "player": "Jaxon Smith-Njigba",
+    "team": "Seattle Seahawks",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Ohio State",
+    "fun_facts": [
+      "His hometown is Rockwall, Texas.",
+      "His family nickname since childhood was \u201cPookie.\u201d",
+      "At 15, Jaxon Smith-Njigba played varsity football and led his team with 1,328 receiving yards in 12 games.",
+      "In the Rose Bowl, he caught 15 passes for 347 yards and three touchdowns; his 15 catches set a Rose Bowl record.",
+      "In 2021, he set a Big Ten record with 1,606 receiving yards.",
+      "In 2025, he earned first-team All-Pro honors after setting career highs of 119 catches, 1,793 receiving yards, and 10 touchdown catches."
+    ],
+    "draft": "2023, round 1, pick 20"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists Ohio State as Jaxon Smith-Njigba\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio?id=4430878",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 0\", 197 lbs\n\nBirthdate 2/14/2002 (24)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 20 (SEA)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Rockwall, TX\n\n### Career History"
+          ],
+          "title": "Jaxon Smith-Njigba Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages identify his hometown and childhood nickname, give his high-school receiving total, describe his Rose Bowl performance and record, state his Big Ten receiving-yard record, and report his 2025 career highs and first-team All-Pro honor.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/233657/jaxon-smith-njigba",
+          "excerpts": [
+            "# Jaxon Smith-Njigba\n\n* \n\n6-1, 200 | 40: 4.64 | Class of 2020\n\n* Hometown [Rockwall, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/7404/class/2020)\n* School [Rockwall High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2020/highschool/11687)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2020)"
+          ],
+          "title": "Jaxon Smith-Njigba Wide Receiver Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47809447/2026-super-bowl-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
+          "excerpts": [
+            "## When [Jaxon Smith-Njigba](https://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) needed a ride, 'Pookie' found a way\n\nRodney Webb, head coach of the Rockwall [Texas] High School football team, isn't exactly sure where Jaxon Smith-Njigba's nickname came from, but it still makes him smile. Webb and those who have known Smith-Njigba since he was an adolescent call him Pookie -- a family nickname since his childhood, and one his brother used in a video aired on the night the Seahawks selected him with the 20th pick in the 2023 draft.\n\nWhen Jaxon Smith-Njigba commits to something, he pursues that goal to the fullest."
+          ],
+          "title": "High school stories of 11 Super Bowl stars and two coaches - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40350388/seahawks-wr-jaxon-smith-njigba-strong-start-year-2",
+          "excerpts": [
+            "What Smith-Njigba did as a sophomore at both stops bodes well for the Seahawks and their second-year wide receiver.\n\nAs a 15-year-old playing on varsity for a Class 6A program in Texas, he broke out for a team-high 1,328 receiving yards in 12 games. Four years later, he broke out again for the Buckeyes, finishing third in FBS with 1,606 receiving yards and tied for ninth in receptions with 95, leading the team in both categories despite playing"
+          ],
+          "title": "Seahawks WR Jaxon Smith-Njigba has strong start to Year 2 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32975388/ohio-state-buckeyes-jaxon-smith-njigba-smashes-receiving-records-rose-bowl",
+          "excerpts": [
+            "Smith-Njigba set several records on his own after finishing with 15 catches for 347 yards and three touchdowns in the game."
+          ],
+          "title": "Ohio State Buckeyes' Jaxon Smith-Njigba, C.J. Stroud smash records in Rose Bowl win - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32975683/rose-bowl-2021-ohio-state-buckeyes-trio-demolish-record-book-utah-utes",
+          "excerpts": [
+            "**15 and 347** : That's Smith-Njigba's stat line for receptions and receiving yards. His 15 receptions are the most ever in a Rose Bowl and is also an Ohio State single-game record."
+          ],
+          "title": "Rose Bowl 2021: Ohio State Buckeyes' trio demolish record book against Utah Utes - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35189741/ohio-state-wr-jaxon-smith-njigba-play-cfp-headed-draft",
+          "excerpts": [
+            "\"The decision to turn pro was made after I was unable to come back on multiple occasions during the season and the doctors determined I would be unable to participate in the playoffs.\"\n\nSmith-Njigba entered the season as one of the most decorated players in college football and the country's top wide receiver draft prospect, but he dealt with a lingering hamstring injury all year. He broke the Big Ten record with 1,606 yards last season, including a transcendent Rose Bowl performance in which he caught 15 passes for 347 yards and three touchdowns.\n\n## Editor's Picks"
+          ],
+          "title": "Ohio State's Jaxon Smith-Njigba headed to draft, out for CFP - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48286903/sources-seahawks-jaxon-smith-njigba-agrees-record-extension",
+          "excerpts": [
+            "Smith-Njigba, 24, set career highs in receptions (119), receiving yards (1,793) and touchdown receptions (10) en route to being named a first-team All-Pro in 2025. In three postseason games, he had 17 catches for 199 yards and two touchdowns.\n\nDrafted 20th overall in 2023, Smith-Njigba finished his rookie season with 628 receiving yards before breaking out in Year 2 with 1,130, earning a Pro Bowl berth as an alternate."
+          ],
+          "title": "Sources: Seahawks' Jaxon Smith-Njigba agrees to record extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography lists the 2023 draft as round 1, pick 20.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio?id=4430878",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 0\", 197 lbs\n\nBirthdate 2/14/2002 (24)\n\nCollege [Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nDraft Info 2023: Rd 1, Pk 20 (SEA)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace Rockwall, TX\n\n### Career History"
+          ],
+          "title": "Jaxon Smith-Njigba Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN recruiting profile names Rockwall, Texas, as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/233657/jaxon-smith-njigba",
+          "excerpts": [
+            "# Jaxon Smith-Njigba\n\n* \n\n6-1, 200 | 40: 4.64 | Class of 2020\n\n* Hometown [Rockwall, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/7404/class/2020)\n* School [Rockwall High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2020/highschool/11687)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2020)"
+          ],
+          "title": "Jaxon Smith-Njigba Wide Receiver Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN passage says \u201cPookie\u201d was a family nickname from his childhood.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47809447/2026-super-bowl-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
+          "excerpts": [
+            "## When [Jaxon Smith-Njigba](https://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba) needed a ride, 'Pookie' found a way\n\nRodney Webb, head coach of the Rockwall [Texas] High School football team, isn't exactly sure where Jaxon Smith-Njigba's nickname came from, but it still makes him smile. Webb and those who have known Smith-Njigba since he was an adolescent call him Pookie -- a family nickname since his childhood, and one his brother used in a video aired on the night the Seahawks selected him with the 20th pick in the 2023 draft.\n\nWhen Jaxon Smith-Njigba commits to something, he pursues that goal to the fullest."
+          ],
+          "title": "High school stories of 11 Super Bowl stars and two coaches - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that at 15 he played varsity football and led the team with 1,328 receiving yards in 12 games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40350388/seahawks-wr-jaxon-smith-njigba-strong-start-year-2",
+          "excerpts": [
+            "What Smith-Njigba did as a sophomore at both stops bodes well for the Seahawks and their second-year wide receiver.\n\nAs a 15-year-old playing on varsity for a Class 6A program in Texas, he broke out for a team-high 1,328 receiving yards in 12 games. Four years later, he broke out again for the Buckeyes, finishing third in FBS with 1,606 receiving yards and tied for ninth in receptions with 95, leading the team in both categories despite playing"
+          ],
+          "title": "Seahawks WR Jaxon Smith-Njigba has strong start to Year 2 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passages report his 15 catches, 347 yards, and three touchdowns in the Rose Bowl, and identify his 15 catches as a Rose Bowl record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32975388/ohio-state-buckeyes-jaxon-smith-njigba-smashes-receiving-records-rose-bowl",
+          "excerpts": [
+            "Smith-Njigba set several records on his own after finishing with 15 catches for 347 yards and three touchdowns in the game."
+          ],
+          "title": "Ohio State Buckeyes' Jaxon Smith-Njigba, C.J. Stroud smash records in Rose Bowl win - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/32975683/rose-bowl-2021-ohio-state-buckeyes-trio-demolish-record-book-utah-utes",
+          "excerpts": [
+            "**15 and 347** : That's Smith-Njigba's stat line for receptions and receiving yards. His 15 receptions are the most ever in a Rose Bowl and is also an Ohio State single-game record."
+          ],
+          "title": "Rose Bowl 2021: Ohio State Buckeyes' trio demolish record book against Utah Utes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says he broke the Big Ten record with 1,606 receiving yards in 2021.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35189741/ohio-state-wr-jaxon-smith-njigba-play-cfp-headed-draft",
+          "excerpts": [
+            "\"The decision to turn pro was made after I was unable to come back on multiple occasions during the season and the doctors determined I would be unable to participate in the playoffs.\"\n\nSmith-Njigba entered the season as one of the most decorated players in college football and the country's top wide receiver draft prospect, but he dealt with a lingering hamstring injury all year. He broke the Big Ten record with 1,606 yards last season, including a transcendent Rose Bowl performance in which he caught 15 passes for 347 yards and three touchdowns.\n\n## Editor's Picks"
+          ],
+          "title": "Ohio State's Jaxon Smith-Njigba headed to draft, out for CFP - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage reports his 2025 career highs\u2014119 catches, 1,793 receiving yards, and 10 touchdown catches\u2014and his first-team All-Pro selection.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48286903/sources-seahawks-jaxon-smith-njigba-agrees-record-extension",
+          "excerpts": [
+            "Smith-Njigba, 24, set career highs in receptions (119), receiving yards (1,793) and touchdown receptions (10) en route to being named a first-team All-Pro in 2025. In three postseason games, he had 17 catches for 199 yards and two touchdowns.\n\nDrafted 20th overall in 2023, Smith-Njigba finished his rookie season with 628 receiving yards before breaking out in Year 2 with 1,130, earning a Pro Bowl berth as an alternate."
+          ],
+          "title": "Sources: Seahawks' Jaxon Smith-Njigba agrees to record extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

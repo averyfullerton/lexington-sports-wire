@@ -1,0 +1,111 @@
+{
+  "name": "Dalton Schultz",
+  "espn_id": "3117256",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "86",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Stanford",
+  "experience": 9,
+  "fun_facts": [
+    "Dalton dreamed of playing in the NFL as a kid.",
+    "Dalton had 55 catches for 555 yards and five touchdowns in college.",
+    "Dalton caught 78 passes for 808 yards and eight touchdowns in 2021."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2018",
+        "DAL",
+        "11",
+        "12",
+        "116",
+        "0",
+        "17"
+      ],
+      [
+        "2019",
+        "DAL",
+        "16",
+        "1",
+        "6",
+        "0",
+        "6"
+      ],
+      [
+        "2020",
+        "DAL",
+        "16",
+        "63",
+        "615",
+        "4",
+        "28"
+      ],
+      [
+        "2021",
+        "DAL",
+        "17",
+        "78",
+        "808",
+        "8",
+        "32"
+      ],
+      [
+        "2022",
+        "DAL",
+        "15",
+        "57",
+        "577",
+        "5",
+        "30"
+      ],
+      [
+        "2023",
+        "HOU",
+        "15",
+        "59",
+        "635",
+        "5",
+        "31"
+      ],
+      [
+        "2024",
+        "HOU",
+        "17",
+        "53",
+        "532",
+        "2",
+        "32"
+      ],
+      [
+        "2025",
+        "HOU",
+        "17",
+        "82",
+        "777",
+        "3",
+        "47"
+      ],
+      [
+        "2026",
+        "HOU",
+        "9",
+        "36",
+        "375",
+        "1",
+        "35"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "run_id": "trun_3df3487a122343d486f81c37e28a3418",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 87.0,
+  "input": {
+    "away_team": "Carolina Panthers",
+    "home_team": "New Orleans Saints",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Carolina Panthers",
+    "key_plays": [
+      "Q4 3:49: Alvin Kamara caught a 4-yard touchdown pass from Tyler Shough to put New Orleans ahead 14-10.",
+      "Q4 1:49: Chuba Hubbard scored on a 1-yard run to put Carolina back in front, 17-14.",
+      "Q4 0:41: Charlie Smyth made a 55-yard field goal to tie the game at 17.",
+      "Q4 0:21: Kool-Aid McKinstry was called for a 30-yard pass interference penalty, giving Carolina the ball at the Saints\u2019 36-yard line.",
+      "Q4 0:02: Ryan Fitzgerald made a 54-yard field goal as time expired, giving Carolina a 20-17 win."
+    ],
+    "away_score": 20,
+    "storyline": "Carolina won on Ryan Fitzgerald\u2019s field goal as time expired, snapping a three-game slide and retaining first place in the NFC South. The win left the Panthers 4-5 and the Saints 3-6.",
+    "top_performers": [
+      {
+        "stat_line": "27 carries, 92 yards, 2 rushing TD; 5 receptions, 80 yards",
+        "team": "Carolina Panthers",
+        "name": "Chuba Hubbard"
+      },
+      {
+        "stat_line": "2 carries, 4 yards, 1 rushing TD; 3 receptions, 10 yards, 1 receiving TD",
+        "team": "New Orleans Saints",
+        "name": "Alvin Kamara"
+      },
+      {
+        "stat_line": "11 receptions, 80 yards",
+        "team": "New Orleans Saints",
+        "name": "Jordyn Tyson"
+      },
+      {
+        "stat_line": "17 of 30, 200 yards, 0 TD, 0 INT",
+        "team": "Carolina Panthers",
+        "name": "Bryce Young"
+      }
+    ],
+    "home_record_after": "3-6",
+    "tough_day": [
+      {
+        "stat_line": "25 of 35, 187 yards, 1 TD, 1 INT; 1 fumble lost",
+        "team": "New Orleans Saints",
+        "name": "Tyler Shough"
+      },
+      {
+        "stat_line": "8 carries, 14 yards",
+        "team": "New Orleans Saints",
+        "name": "Travis Etienne"
+      },
+      {
+        "stat_line": "17 penalties, 152 yards",
+        "team": "Carolina Panthers",
+        "name": "Penalty unit"
+      }
+    ],
+    "away_record_after": "4-5",
+    "home_team": "New Orleans Saints",
+    "home_score": 17
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary gives the Panthers\u2019 and Saints\u2019 final quarter-by-quarter totals, and separately labels 20-17 as the final score. This confirms the game was played to a final result.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Carolina Panthers 0 7 3 10 0 20 HOME: New Orleans Saints 0 0 7 10 0 17",
+            "20 17 **FINAL SCORE**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary identifies the matchup as Carolina Panthers at New Orleans Saints, establishing Carolina as the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Carolina Panthers at New Orleans Saints** Start Time: 12:02 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring summary specifies the fourth-quarter touchdowns and field goals, their times, and resulting scores. The recap identifies the 30-yard pass-interference penalty with 21 seconds remaining that set up Carolina\u2019s winning kick.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Panthers C.Hubbard 2 yd. run (R.Fitzgerald kick) (11-56, 4:46) 7 0 2 6:43 Saints A.Kamara 3 yd. run (C.Smyth kick) (9-64, 4:05) 7 7 3 6:33 Panthers R.Fitzgerald 55 yd. Field Goal (9-36, 4:03) 10 7 3 2:30 Saints A.Kamara 4 yd. pass from T.Shough (C.Smyth kick) (9-70, 5:41) 10 14 4 3:49 Panthers C.Hubbard 1 yd. run (R.Fitzgerald kick) (6-68, 2:00) 17 14 4 1:49 Saints C.Smyth 55 yd. Field Goal (8-41, 1:08) 17 17 4 0:41 Panthers R.Fitzgerald 54 yd. Field Goal (3-30, 0:41) 20 17 4 0:00"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Hubbard gained 172 yards from scrimmage and ran for two touchdowns, and [Ryan Fitzgerald](http://www.espn.com/nfl/player/_/id/4568263/ryan-fitzgerald) 's 54-yard field goal as time expired lifted Carolina to a 20-17 victory over the [New Orleans Saints](http://www.espn.com/nfl/team/_/name/no/new-orleans-saints) on Sunday with the NFC South Division lead at stake. \u201cThese are the moments I work hard for,\u201d Hubbard said. \u201cI was telling myself before every play to breathe, focus and explode. I was telling myself to remain calm, and when the play comes, just make it.\u201d The winning kick came after Saints cornerback [Kool-Aid McKinstry](http://www.espn.com/nfl/player/_/id/4433975/kool-aid-mckinstry) was called for a 30-yard pass interference penalty that gave Carolina the ball on the New Orleans 36-yard line with 21 seconds left."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The game summary lists Carolina\u2019s score as 20 and labels the 20-17 result as the final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Carolina Panthers 0 7 3 10 0 20 HOME: New Orleans Saints 0 0 7 10 0 17",
+            "20 17 **FINAL SCORE**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says the time-expiring field goal lifted Carolina to victory, that the Panthers had been on a three-game slide, and that the win retained their NFC South lead. It also reports Carolina at 4-5 and New Orleans at 3-6.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South By AP Updated: Nov 15, 2026, 11:41 pm Facebook Facebook Messenger Twitter Email NEW ORLEANS -- \u2014 [Chuba Hubbard](http://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard) made long gains out of short passes, pushed through tacklers and pulled the mistake-prone [Carolina Panthers](http://www.espn.com/nfl/team/_/name/car/carolina-panthers) out of a three-game slide. Hubbard gained 172 yards from scrimmage and ran for two touchdowns, and [Ryan Fitzgerald](http://www.espn.com/nfl/player/_/id/4568263/ryan-fitzgerald) 's 54-yard field goal as time expired lifted Carolina to a 20-17 victory over the [New Orleans Saints](http://www.espn.com/nfl/team/_/name/no/new-orleans-saints) on Sunday with the NFC South Division lead at stake.",
+            "| [Carolina](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) | 4 | 5 | 0 | .444 | 219 | 236 |"
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary provides the rushing and receiving figures for Hubbard and Kamara, Tyson\u2019s receiving line, and the passing totals. The recap directly confirms Young\u2019s 17 completions on 30 attempts for 200 yards without a turnover.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Hubbard 92 3.4 2 27 17 T.Shough 25 4.2 0 6 17",
+            "C.Hubbard 80 16.0 0 5 5 J.Tyson 80 7.3 0 11 13",
+            "B.Young 1 1.0 0 1 1 A.Kamara 4",
+            "D.Waller 24 12.0 0 2 4 A.Kamara 10 3.3 1 3 4 **4** 13"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Young finished 17 of 30 passing for 200 yards without a turnover. Shough was 25 of 35 for 187 yards."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The recap states that New Orleans was 3-6 after the loss, and its standings list shows the Saints at 3 wins and 6 losses.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Hubbard rushed for 92 yards on 27 carries, and also gained 80 yards on five catches for Carolina (4-5), which won despite committing a franchise-record 17 penalties for 152 yards. The Saints (3-6) by contrast, were flagged just three times, but the last cost them the game less than 30 seconds after [Charlie Smyth](http://www.espn.com/nfl/player/_/id/5208518/charlie-smyth) had hit a 55-yard field goal to tie it at 17. Saints coach Kellen Moore withheld criticism of the officials, noting that the Saints, on balance, benefitted from penalty calls. \u201cWe had plenty of opportunities in this game,\" Moore said. \u201cWe didn\u2019t get it done.\u201d While both teams entered the game with losing records, the winner was going to take the lead of their anemic division, which Carolina won in 2025 with an 8-9 record.",
+            "| [Carolina](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) | 4 | 5 | 0 | .444 | 219 | 236 |"
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official game summary gives Shough\u2019s passing line and the Saints\u2019 lost fumble; the recap also describes his interception and fumble. It reports Etienne\u2019s limited rushing output and Carolina\u2019s 17 penalties for 152 yards, which are also listed in the game summary.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Young 200 0 30 17 3/14 0 77.1 T.Shough 187 1 35 25 3/14 1 81.5 20 34",
+            "T.Shough 0 0 0 1",
+            "J.Coker 3 3.0 0 1 3 T.Etienne 14 1.8 0 8 5",
+            "17-152 3-46 **PENALTIES Number and Yards**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Carolina, which led 7-0 at halftime, was up just 10-7 when [Alvin Kamara](http://www.espn.com/nfl/player/_/id/3054850/alvin-kamara) 's 4-yard touchdown catch gave New Orleans a 14-10 lead with 3:49 left. [Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) responded with short passes to Hubbard for gains of 29 and 34 yards to set up the work-horse running back's second short TD run, putting Carolina back in front with 1:49 left. \u201cHe\u2019s the heart and soul of everything we do,\u201d Young said of Hubbard. \u201cI just wanted to get it into a special player\u2019s hands.\u201d Saints quarterback [Tyler Shough](http://www.espn.com/nfl/player/_/id/4360689/tyler-shough) , who was intercepted and lost a fumble during the game, drove New Orleans into position for Smyth's tying field goal with 41 seconds left. Young finished 17 of 30 passing for 200 yards without a turnover. Shough was 25 of 35 for 187 yards. Saints rookie receiver [Jordyn Tyson](http://www.espn.com/nfl/player/_/id/4880281/jordyn-tyson) caught 11 passes for 80 yards. But the Saints struggled to run the ball despite the return of Tavis Etienne from injured reserve. Etienne gained just 14 yards on eight carries and New Orleans finished with just 49 yards rushing."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The recap states Carolina\u2019s record was 4-5 after the win, and the standings list shows the Panthers at 4 wins and 5 losses.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Hubbard gained 172 yards from scrimmage and ran for two touchdowns, and [Ryan Fitzgerald](http://www.espn.com/nfl/player/_/id/4568263/ryan-fitzgerald) 's 54-yard field goal as time expired lifted Carolina to a 20-17 victory over the [New Orleans Saints](http://www.espn.com/nfl/team/_/name/no/new-orleans-saints) on Sunday with the NFC South Division lead at stake.",
+            "| [Carolina](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) | 4 | 5 | 0 | .444 | 219 | 236 | | [Tampa Bay](https://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers) | 3 | 6 | 0 | .333 | 202 | 178 | | [New Orleans](https://www.espn.com/nfl/team/_/name/no/new-orleans-saints) | 3 | 6 | 0 | .333 | 202 | 236 | | [Atlanta](https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons) | 3 | 7 | 0 | .300 | 201 | 258 |"
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game summary identifies New Orleans Saints as the home team in the Carolina Panthers at New Orleans Saints matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Carolina Panthers at New Orleans Saints** Start Time: 12:02 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The game summary lists New Orleans\u2019 final score as 17 in the 20-17 result.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Carolina Panthers 0 7 3 10 0 20 HOME: New Orleans Saints 0 0 7 10 0 17",
+            "20 17 **FINAL SCORE**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The official scoring summary records Kamara\u2019s 4-yard touchdown reception from Shough in the fourth quarter at 3:49, putting New Orleans ahead 14-10.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Saints A.Kamara 4 yd. pass from T.Shough (C.Smyth kick) (9-70, 5:41) 10 14 4 3:49"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Hubbard\u2019s 1-yard touchdown run at 1:49 of the fourth quarter, giving Carolina a 17-14 lead.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Panthers C.Hubbard 1 yd. run (R.Fitzgerald kick) (6-68, 2:00) 17 14 4 1:49"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Smyth\u2019s 55-yard field goal at 0:41 of the fourth quarter, tying the score at 17.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Saints C.Smyth 55 yd. Field Goal (8-41, 1:08) 17 17 4 0:41"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The recap says McKinstry\u2019s 30-yard pass-interference penalty gave Carolina the ball at the Saints\u2019 36 with 21 seconds left.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "The winning kick came after Saints cornerback [Kool-Aid McKinstry](http://www.espn.com/nfl/player/_/id/4433975/kool-aid-mckinstry) was called for a 30-yard pass interference penalty that gave Carolina the ball on the New Orleans 36-yard line with 21 seconds left."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The official scoring summary records Fitzgerald\u2019s 54-yard field goal at 0:00 of the fourth quarter and Carolina\u2019s 20-17 final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Panthers R.Fitzgerald 54 yd. Field Goal (3-30, 0:41) 20 17 4 0:00"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The game summary lists Hubbard with 27 rushes for 92 yards and 2 touchdowns, plus 5 catches for 80 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Hubbard 92 3.4 2 27 17 T.Shough 25 4.2 0 6 17",
+            "C.Hubbard 80 16.0 0 5 5 J.Tyson 80 7.3 0 11 13"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The game summary lists Kamara\u2019s 2 carries for 4 yards and a rushing touchdown, as well as 3 receptions for 10 yards and a receiving touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Young 1 1.0 0 1 1 A.Kamara 4",
+            "D.Waller 24 12.0 0 2 4 A.Kamara 10 3.3 1 3 4 **4** 13"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving table lists Jordyn Tyson with 11 receptions for 80 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Hubbard 80 16.0 0 5 5 J.Tyson 80 7.3 0 11 13"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The game summary gives Young\u2019s 17 completions on 30 attempts for 200 yards and no touchdowns or interceptions; the recap confirms he finished without a turnover.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Young 200 0 30 17 3/14 0 77.1 T.Shough 187 1 35 25 3/14 1 81.5 20 34"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Young finished 17 of 30 passing for 200 yards without a turnover."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The game summary records Shough\u2019s 25 completions on 35 attempts, 187 yards, a touchdown, an interception, and a lost fumble; the recap confirms the interception and lost fumble.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Young 200 0 30 17 3/14 0 77.1 T.Shough 187 1 35 25 3/14 1 81.5 20 34",
+            "T.Shough 0 0 0 1"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Carolina, which led 7-0 at halftime, was up just 10-7 when [Alvin Kamara](http://www.espn.com/nfl/player/_/id/3054850/alvin-kamara) 's 4-yard touchdown catch gave New Orleans a 14-10 lead with 3:49 left. [Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) responded with short passes to Hubbard for gains of 29 and 34 yards to set up the work-horse running back's second short TD run, putting Carolina back in front with 1:49 left. \u201cHe\u2019s the heart and soul of everything we do,\u201d Young said of Hubbard. \u201cI just wanted to get it into a special player\u2019s hands.\u201d Saints quarterback [Tyler Shough](http://www.espn.com/nfl/player/_/id/4360689/tyler-shough) , who was intercepted and lost a fumble during the game, drove New Orleans into position for Smyth's tying field goal with 41 seconds left."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The official rushing table and recap list Etienne\u2019s eight carries for 14 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Coker 3 3.0 0 1 3 T.Etienne 14 1.8 0 8 5"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "But the Saints struggled to run the ball despite the return of Tavis Etienne from injured reserve. Etienne gained just 14 yards on eight carries and New Orleans finished with just 49 yards rushing."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.2",
+      "reasoning": "The official game summary records Carolina\u2019s 17 penalties for 152 yards; the recap describes that total as a franchise record.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794777436/gamecenter/ab789769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "17-152 3-46 **PENALTIES Number and Yards**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873055",
+          "excerpts": [
+            "Hubbard rushed for 92 yards on 27 carries, and also gained 80 yards on five catches for Carolina (4-5), which won despite committing a franchise-record 17 penalties for 152 yards."
+          ],
+          "title": "Panthers 20-17 Saints (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "key_plays.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Ryan Fitzgerald kicked a 54-yard field goal as time ran out! The Panthers beat the Saints 20-17 in New Orleans. Earlier, Alvin Kamara caught a touchdown to put the Saints ahead. Chuba Hubbard ran for a score to put Carolina back on top. Charlie Smyth tied it with a 55-yard kick, setting up Fitzgerald's big moment. The victory ended Carolina's 3-game slide and kept the Panthers in first place in the NFC South.",
+    "big_words": [
+      {
+        "word": "victory",
+        "definition": "A win.",
+        "example": "Ava cheered after her bike ride victory over the steep hill."
+      }
+    ],
+    "opener": "Start with how the game ended: the last big moment.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1319,
+        "output": 207
+      }
+    ]
+  }
+}

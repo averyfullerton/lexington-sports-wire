@@ -1,0 +1,75 @@
+{
+  "name": "Jalen Tolbert",
+  "espn_id": "4249417",
+  "team": "Miami Dolphins",
+  "team_abbr": "MIA",
+  "number": "1",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "South Alabama",
+  "experience": 5,
+  "fun_facts": [
+    "Jalen caught a game-winning touchdown with 20 seconds left as the Cowboys beat the Steelers in 2024.",
+    "In college, Jalen caught 82 passes for 1,474 yards and scored eight times in his final season.",
+    "In one college game, Jalen had 169 receiving yards and two touchdowns."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2022",
+        "DAL",
+        "8",
+        "2",
+        "12",
+        "0",
+        "8"
+      ],
+      [
+        "2023",
+        "DAL",
+        "17",
+        "22",
+        "268",
+        "2",
+        "45"
+      ],
+      [
+        "2024",
+        "DAL",
+        "17",
+        "49",
+        "610",
+        "7",
+        "48"
+      ],
+      [
+        "2025",
+        "DAL",
+        "13",
+        "18",
+        "203",
+        "1",
+        "35"
+      ],
+      [
+        "2026",
+        "MIA",
+        "5",
+        "4",
+        "79",
+        "1",
+        "34"
+      ]
+    ]
+  }
+}

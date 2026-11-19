@@ -1,0 +1,39 @@
+{
+  "name": "Seth McGowan",
+  "espn_id": "4686468",
+  "team": "Indianapolis Colts",
+  "team_abbr": "IND",
+  "number": "20",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Kentucky",
+  "experience": 0,
+  "fun_facts": [
+    "Seth scored 12 rushing touchdowns for Kentucky in college.",
+    "Seth ran for 104 yards and three touchdowns in a college game.",
+    "Seth once ran for 77 yards on 12 carries in an NFL game."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "IND",
+        "10",
+        "55",
+        "285",
+        "5.2",
+        "2"
+      ]
+    ]
+  }
+}

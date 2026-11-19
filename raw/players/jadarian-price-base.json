@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_415f3f698c1f435b845b6f0749533045",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 50.3,
+  "input": {
+    "player": "Jadarian Price",
+    "team": "Seattle Seahawks",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Notre Dame",
+    "fun_facts": [
+      "Jadarian Price is from Denison, Texas.",
+      "In three college seasons, Jadarian Price returned three kickoffs for touchdowns.",
+      "One of those scores was a 99-yard kickoff return touchdown against USC in 2023.",
+      "In 2025, Jadarian Price averaged 37.5 yards per kickoff return\u2014the best in the FBS among players with at least 10 returns.",
+      "Across 41 games and three seasons at Notre Dame, Jadarian Price rushed for 1,692 yards and 21 touchdowns without making a start."
+    ],
+    "draft": "2026, round 1, pick 32"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Notre Dame as Jadarian Price\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/jadarian-price",
+          "excerpts": [
+            "# Jadarian Price Stats, News and Video - RB | NFL.com\n\n# Jadarian Price\n\nRB \u2022 \\#8\n\n[Seattle Seahawks](https://www.nfl.com/teams/seattle-seahawks/)\n\n### active\n\n* [Info](https://www.nfl.com/players/jadarian-price/)\n* [Stats](https://www.nfl.com/players/jadarian-price/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  209\n* Arms\n  \n  31\n* Hands\n  \n  9 3/4\n\n* Experience\n  \n  R\n* College\n  \n  Notre Dame\n* Age\n  \n  23\n* Hometown\n  \n  Denison, TX\n\n## Related Content - Articles"
+          ],
+          "title": "Jadarian Price Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography identifies Denison, Texas, as his birthplace. ESPN reports that he returned three kickoffs for touchdowns in three college seasons, including a 99-yard return against USC in 2023. ESPN also reports his 2025 kickoff-return average and his three-season Notre Dame rushing totals and lack of starts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685512/jadarian-price",
+          "excerpts": [
+            "Draft Info 2026: Rd 1, Pk 32 (SEA)\n\nStatus Active\n\nExperience Rookie\n\nBirthplace Denison, TX\n\n### Career History"
+          ],
+          "title": "Jadarian Price Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48713490/where-does-rookie-jadarian-price-fit-seattle-seahawks-backfield-2026-nfl",
+          "excerpts": [
+            "3 -- Price averaged roughly 18.5 snaps and almost nine touches per game over the past two seasons. He ran for 1,420 yards and 18 touchdowns in that span, with a 6.1-yards-per-carry average that ranked 30th among running backs.\n\nSeahawks rookie running back Jadarian Price will wear No. 8. AP Photo/Lindsey Wasson)\n\nPrice also returned three kickoffs for touchdowns in three college seasons."
+          ],
+          "title": "Where does rookie Jadarian Price fit into Seahawks' backfield? - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38662062/notre-dame-responds-adversity-authors-win-usc",
+          "excerpts": [
+            "Dame had a 5-0 edge in turnovers, tied for the fourth-best turnover margin against an AP top-10 team in the past 20 seasons.\n\nThe Irish registered six sacks, 11 tackles for loss and three quarterback hurries, overwhelming USC's offensive line and consistently putting Williams on his heels. They also became the first team in the past 20 seasons to record five takeaways and a special teams touchdown -- on [Jadarian Price](https://www.espn.com/college-football/player/_/id/4685512/jadarian-price) 's 99-yard kick return in the fourth quarter -- against an AP top-10 opponent.\n\nHartman joked afterward that he simply \"threw the ball a couple times\" and would buy defensive coordinator Al Golden \"another Ferrari.\""
+          ],
+          "title": "Notre Dame responds to 'adversity,' authors win over USC - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2026/story/_/id/48432300/seattle-seahawks-nfl-draft-picks-2026-selection-analysis-depth-chart",
+          "excerpts": [
+            "**Key stat:** Per ESPN Research, Price averaged 37.5 yards per kickoff return last season, the most in FBS among players with at least 10 returns."
+          ],
+          "title": "Seattle Seahawks' 2026 NFL draft picks: Full list, analysis - ESPN"
+        },
+        {
+          "url": "https://amp.nfl.com/news/jadarian-price-seahawks-no-32-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Despite not logging a single start, Price generated 1,692 rushing yards and 21 touchdowns in 41 games the past three seasons. At seemingly any other program, he'd have been a No."
+          ],
+          "title": "2026 NFL Draft: Seahawks select Notre Dame RB Jadarian Price at No. 32 overall"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography states that Jadarian Price\u2019s draft information is 2026, round 1, pick 32, for Seattle.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685512/jadarian-price",
+          "excerpts": [
+            "Draft Info 2026: Rd 1, Pk 32 (SEA)\n\nStatus Active\n\nExperience Rookie\n\nBirthplace Denison, TX\n\n### Career History"
+          ],
+          "title": "Jadarian Price Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography gives his birthplace as Denison, Texas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685512/jadarian-price",
+          "excerpts": [
+            "Draft Info 2026: Rd 1, Pk 32 (SEA)\n\nStatus Active\n\nExperience Rookie\n\nBirthplace Denison, TX\n\n### Career History"
+          ],
+          "title": "Jadarian Price Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN reports that Price returned three kickoffs for touchdowns in three college seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48713490/where-does-rookie-jadarian-price-fit-seattle-seahawks-backfield-2026-nfl",
+          "excerpts": [
+            "3 -- Price averaged roughly 18.5 snaps and almost nine touches per game over the past two seasons. He ran for 1,420 yards and 18 touchdowns in that span, with a 6.1-yards-per-carry average that ranked 30th among running backs.\n\nSeahawks rookie running back Jadarian Price will wear No. 8. AP Photo/Lindsey Wasson)\n\nPrice also returned three kickoffs for touchdowns in three college seasons."
+          ],
+          "title": "Where does rookie Jadarian Price fit into Seahawks' backfield? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN identifies Price\u2019s 99-yard kick return touchdown against USC in 2023.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38662062/notre-dame-responds-adversity-authors-win-usc",
+          "excerpts": [
+            "Dame had a 5-0 edge in turnovers, tied for the fourth-best turnover margin against an AP top-10 team in the past 20 seasons.\n\nThe Irish registered six sacks, 11 tackles for loss and three quarterback hurries, overwhelming USC's offensive line and consistently putting Williams on his heels. They also became the first team in the past 20 seasons to record five takeaways and a special teams touchdown -- on [Jadarian Price](https://www.espn.com/college-football/player/_/id/4685512/jadarian-price) 's 99-yard kick return in the fourth quarter -- against an AP top-10 opponent.\n\nHartman joked afterward that he simply \"threw the ball a couple times\" and would buy defensive coordinator Al Golden \"another Ferrari.\""
+          ],
+          "title": "Notre Dame responds to 'adversity,' authors win over USC - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN says his 2025 average of 37.5 yards per kickoff return led the FBS among players with at least 10 returns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2026/story/_/id/48432300/seattle-seahawks-nfl-draft-picks-2026-selection-analysis-depth-chart",
+          "excerpts": [
+            "**Key stat:** Per ESPN Research, Price averaged 37.5 yards per kickoff return last season, the most in FBS among players with at least 10 returns."
+          ],
+          "title": "Seattle Seahawks' 2026 NFL draft picks: Full list, analysis - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that Price had 1,692 rushing yards and 21 touchdowns in 41 games over three seasons, without recording a start.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/jadarian-price-seahawks-no-32-overall-pick-2026-nfl-draft",
+          "excerpts": [
+            "Despite not logging a single start, Price generated 1,692 rushing yards and 21 touchdowns in 41 games the past three seasons. At seemingly any other program, he'd have been a No."
+          ],
+          "title": "2026 NFL Draft: Seahawks select Notre Dame RB Jadarian Price at No. 32 overall"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

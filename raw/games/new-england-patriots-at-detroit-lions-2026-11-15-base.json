@@ -1,0 +1,385 @@
+{
+  "run_id": "trun_3df3487a122343d4aa8e4e70b86110fb",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 234.4,
+  "input": {
+    "away_team": "New England Patriots",
+    "home_team": "Detroit Lions",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "New England Patriots",
+    "key_plays": [
+      "Q1 6:13: Jared Goff 56-yard touchdown pass to Amon-Ra St. Brown",
+      "Q2 12:57: Jared Goff 12-yard touchdown pass to Isaac TeSlaa",
+      "Q2 2:06: Jahmyr Gibbs 5-yard rushing touchdown",
+      "Q3 8:16: Jared Goff 28-yard touchdown pass to Amon-Ra St. Brown",
+      "Q4 8:56: Jahmyr Gibbs 28-yard rushing touchdown"
+    ],
+    "away_score": 10,
+    "storyline": "Detroit improved to 7-2 with the 35-10 Munich win while New England moved to 5-5. Amon-Ra St. Brown scored twice in his German homecoming, Jahmyr Gibbs recorded 252 scrimmage yards and two touchdowns, and Patriots quarterback Drake Maye exited early with an ankle injury.",
+    "top_performers": [
+      {
+        "stat_line": "22 carries, 153 rushing yards, 2 rushing TD; 7 receptions, 99 receiving yards",
+        "team": "Detroit Lions",
+        "name": "Jahmyr Gibbs"
+      },
+      {
+        "stat_line": "4 receptions, 98 yards, 2 TD",
+        "team": "Detroit Lions",
+        "name": "Amon-Ra St. Brown"
+      },
+      {
+        "stat_line": "303 passing yards, 3 TD, 2 INT",
+        "team": "Detroit Lions",
+        "name": "Jared Goff"
+      }
+    ],
+    "home_record_after": "7-2",
+    "tough_day": [
+      {
+        "stat_line": "12 of 24, 81 passing yards, 1 TD, 1 INT",
+        "team": "New England Patriots",
+        "name": "Tommy DeVito"
+      }
+    ],
+    "away_record_after": "5-5",
+    "home_team": "Detroit Lions",
+    "home_score": 35
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary identifies the visitor and home teams, lists their quarter-by-quarter scoring, and gives the game date, establishing that this exact matchup reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New England Patriots 3 0 0 7 0 10 HOME: Detroit Lions 7 14 7 7 0 35 **1 2 3 4 OT Total** Replay Official: Thompson, Bryant (0) **Game Day Weather** **Field Goals (made ( ) & missed)** **Scoring Plays** Paid Attendance: 70,225 Time: 3:04 Date: Sunday, 11/15/2026"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary labels New England as the visitor.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New England Patriots 3 0 0 7 0 10"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring-play table lists the touchdowns, scorers, quarters, and times used for the selected key plays.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Patriots A.Borregales 33 yd. Field Goal (11-60, 5:48) 3 0 1 9:12 Lions A.St. Brown 56 yd. pass from J.Goff (J.Bates kick) (6-70, 2:59) 3 7 1 6:13 Lions I.TeSlaa 12 yd. pass from J.Goff (J.Bates kick) (11-97, 5:28) 3 14 2 12:57 Lions J.Gibbs 5 yd. run (J.Bates kick) (7-84, 2:53) 3 21 2 2:06 Lions A.St. Brown 28 yd. pass from J.Goff (J.Bates kick) (7-54, 3:30) 3 28 3 8:16 Patriots L.Larison 10 yd. pass from T.DeVito (A.Borregales kick) (13-87, 6:30) 10 28 4 12:40 Lions J.Gibbs 28 yd. run (J.Bates kick) (6-60, 3:44) 10 35 4 8:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The game summary lists New England as the visitor and gives its quarter scores totaling 10.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New England Patriots 3 0 0 7 0 10 HOME: Detroit Lions 7 14 7 7 0 35 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap describes St. Brown\u2019s Germany homecoming and Gibbs\u2019s scrimmage-yard and touchdown totals; the injury report states that Maye left the game with an ankle injury. The final records are also reflected in the game result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/lions-wr-amon-ra-st-brown-put-on-a-show-for-his-home-fans-in-germany",
+          "excerpts": [
+            "No matter when you knew, you knew it was coming. A game for the ages from Amon-Ra St. Brown, one of Germany's finest, back in a place of familiarity.\n\n\"It was a memorable three days, three days that I'll never forget,\" St. Brown said after the Lions' 35-10 win over the Patriots on Sunday in Munich. \"My first game in Germany, a place that I call basically my second home.\"\n\nEverything this week was about St. Brown.",
+            "The Lions recorded a season-high 495 yards. Jahmyr Gibbs offered a casual 252 scrimmage yards and two touchdowns on 29 touches. Goff, on an off day, threw for 303 yards, three touchdowns and two interceptions. The Lions converted 53.3 percent of their third-down tries, averaged 7.2 yards per play and rushed for 191 yards."
+          ],
+          "title": "Lions WR Amon-Ra St. Brown put on a show for his 'home fans' in Germany | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions",
+          "excerpts": [
+            "suffered an ankle injury on the first series and did not return to Sunday's [35-10 loss](https://www.nfl.com/games/patriots-at-lions-2026-reg-10) to the Detroit Lions in Munich.\n\nPatriots coach Mike Vrabel did not have an update after the game on the severity of Maye's injury, which he called a lower leg injury, adding that the QB will \"get more tests run.\"\n\n\"He couldn't function, couldn't play, couldn't do whatever he needed to do to play quarterback, to protect himself, to execute or function at that level,\" Vrabel said, explaining the decision to rule out Maye.",
+            "Maye was initially deemed questionable to return before being downgraded in the second quarter.\n\nThe third-year QB was 3-of-4 passing for 48 yards, with an 11-yard scramble, at the time of his exit."
+          ],
+          "title": "Patriots QB Drake Maye suffers ankle injury early in loss to Lions | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official game book lists Gibbs\u2019s rushing and receiving figures and St. Brown\u2019s receiving line. The NFL recap states Goff\u2019s passing yards, touchdowns, and interceptions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** C.Kiner 25 2.5 0 10 7 J.Gibbs 153 7.0 2 22 **28** T.DeVito 19 4.8 0 4 11 S.Vaki 28 4.7 0 6 8 D.Maye 11 11.0 0 1 11 J.Saylors 9 4.5 0 2 6 R.Stevenson 4 0.7 0 6 4 J.Goff 3 3.0 0 1 3 L.Larison 2 2.0 0 1 2 J.Dobbs -2 -0.7 0 3 0 22 61 2.8 11 0 Total 34 191 5.6 28 2 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** T.DeVito 81 1 24 12 4/37 1 54.3 J.Goff 303 3 31 20 2/7 2 101.9 **56** 21 D.Maye 48 0 4 3 1/2 0 114.6 J.Dobbs 7 0 1 1 0/0 0 95.8 7 26 32 310 3 21 2/7 2 102.3 15 129 1 28 5/39 1 62.9 Total Total 56 26 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Hollins 48 9.6 0 5 6 J.Gibbs 99 14.1 0 7 8 50 26",
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Hollins 48 9.6 0 5 6 J.Gibbs 99 14.1 0 7 8 50 26 A.Brown 27 13.5 0 2 6 A.St. Brown 98 24.5 2 4 5 **56** 21"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/lions-wr-amon-ra-st-brown-put-on-a-show-for-his-home-fans-in-germany",
+          "excerpts": [
+            "The Lions recorded a season-high 495 yards. Jahmyr Gibbs offered a casual 252 scrimmage yards and two touchdowns on 29 touches. Goff, on an off day, threw for 303 yards, three touchdowns and two interceptions. The Lions converted 53.3 percent of their third-down tries, averaged 7.2 yards per play and rushed for 191 yards."
+          ],
+          "title": "Lions WR Amon-Ra St. Brown put on a show for his 'home fans' in Germany | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final-score listing gives Detroit\u2019s record as 7-2 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard/_/date/20261115",
+          "excerpts": [
+            "### Sunday, November 15, 2026\n\nFinal\n\n1\n\n2\n\n3\n\n4\n\nT\n\n* [](https://www.espn.com/nfl/team/_/name/ne/new-england-patriots)\n  \n  [Patriots](https://www.espn.com/nfl/team/_/name/ne/new-england-patriots)\n  \n  ( 5-5 )\n  \n  3\n  \n  0\n  \n  0\n  \n  7\n  \n  10\n* [](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n  \n  [Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n  \n  ( 7-2 )\n  \n  7\n  \n  14\n  \n  7\n  \n  7\n  \n  35\n\nNFL Munich Game\n\n1:05\n\n## New England Patriots vs. Detroit Lions: Game Highlights"
+          ],
+          "title": "NFL Scores - November 15, 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The NFL report states that DeVito finished 12-of-24 for 81 yards, one touchdown, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions",
+          "excerpts": [
+            "suffered an ankle injury on the first series and did not return to Sunday's [35-10 loss](https://www.nfl.com/games/patriots-at-lions-2026-reg-10) to the Detroit Lions in Munich.\n\nPatriots coach Mike Vrabel did not have an update after the game on the severity of Maye's injury, which he called a lower leg injury, adding that the QB will \"get more tests run.\"\n\n\"He couldn't function, couldn't play, couldn't do whatever he needed to do to play quarterback, to protect himself, to execute or function at that level,\" Vrabel said, explaining the decision to rule out Maye.",
+            "Maye was initially deemed questionable to return before being downgraded in the second quarter.\n\nThe third-year QB was 3-of-4 passing for 48 yards, with an 11-yard scramble, at the time of his exit.",
+            "Brown](https://www.nfl.com/players/a-j-brown/) exit with a hamstring injury in the second half. DeVito finished 12-of-24 passing for 81 yards, a touchdown and an interception."
+          ],
+          "title": "Patriots QB Drake Maye suffers ankle injury early in loss to Lions | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final-score listing gives New England\u2019s record as 5-5 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard/_/date/20261115",
+          "excerpts": [
+            "### Sunday, November 15, 2026\n\nFinal\n\n1\n\n2\n\n3\n\n4\n\nT\n\n* [](https://www.espn.com/nfl/team/_/name/ne/new-england-patriots)\n  \n  [Patriots](https://www.espn.com/nfl/team/_/name/ne/new-england-patriots)\n  \n  ( 5-5 )\n  \n  3\n  \n  0\n  \n  0\n  \n  7\n  \n  10\n* [](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n  \n  [Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions)\n  \n  ( 7-2 )\n  \n  7\n  \n  14\n  \n  7\n  \n  7\n  \n  35\n\nNFL Munich Game\n\n1:05\n\n## New England Patriots vs. Detroit Lions: Game Highlights"
+          ],
+          "title": "NFL Scores - November 15, 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary labels Detroit as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Detroit Lions 7 14 7 7 0 35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The game summary lists Detroit as the home team and gives its quarter scores totaling 35.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New England Patriots 3 0 0 7 0 10 HOME: Detroit Lions 7 14 7 7 0 35 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring table records Goff\u2019s 56-yard touchdown pass to St. Brown in the first quarter at 6:13.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions A.St. Brown 56 yd. pass from J.Goff (J.Bates kick) (6-70, 2:59) 3 7 1 6:13"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring table records TeSlaa\u2019s 12-yard touchdown reception in the second quarter at 12:57.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions I.TeSlaa 12 yd. pass from J.Goff (J.Bates kick) (11-97, 5:28) 3 14 2 12:57"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring table records Gibbs\u2019s 5-yard rushing touchdown in the second quarter at 2:06.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions J.Gibbs 5 yd. run (J.Bates kick) (7-84, 2:53) 3 21 2 2:06"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring table records Goff\u2019s 28-yard touchdown pass to St. Brown in the third quarter at 8:16.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions A.St. Brown 28 yd. pass from J.Goff (J.Bates kick) (7-54, 3:30) 3 28 3 8:16"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring table records Gibbs\u2019s 28-yard rushing touchdown in the fourth quarter at 8:56.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions J.Gibbs 28 yd. run (J.Bates kick) (6-60, 3:44) 10 35 4 8:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official rushing and receiving tables show Gibbs with 22 carries for 153 yards and two rushing touchdowns, plus seven receptions for 99 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** C.Kiner 25 2.5 0 10 7 J.Gibbs 153 7.0 2 22 **28** T.DeVito 19 4.8 0 4 11 S.Vaki 28 4.7 0 6 8 D.Maye 11 11.0 0 1 11 J.Saylors 9 4.5 0 2 6 R.Stevenson 4 0.7 0 6 4 J.Goff 3 3.0 0 1 3 L.Larison 2 2.0 0 1 2 J.Dobbs -2 -0.7 0 3 0 22 61 2.8 11 0 Total 34 191 5.6 28 2 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** T.DeVito 81 1 24 12 4/37 1 54.3 J.Goff 303 3 31 20 2/7 2 101.9 **56** 21 D.Maye 48 0 4 3 1/2 0 114.6 J.Dobbs 7 0 1 1 0/0 0 95.8 7 26 32 310 3 21 2/7 2 102.3 15 129 1 28 5/39 1 62.9 Total Total 56 26 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Hollins 48 9.6 0 5 6 J.Gibbs 99 14.1 0 7 8 50 26"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official receiving table lists St. Brown with four catches for 98 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794826121/gamecenter/ab582c2f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Hollins 48 9.6 0 5 6 J.Gibbs 99 14.1 0 7 8 50 26 A.Brown 27 13.5 0 2 6 A.St. Brown 98 24.5 2 4 5 **56** 21"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The NFL recap states that Goff threw for 303 yards, three touchdowns, and two interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/lions-wr-amon-ra-st-brown-put-on-a-show-for-his-home-fans-in-germany",
+          "excerpts": [
+            "The Lions recorded a season-high 495 yards. Jahmyr Gibbs offered a casual 252 scrimmage yards and two touchdowns on 29 touches. Goff, on an off day, threw for 303 yards, three touchdowns and two interceptions. The Lions converted 53.3 percent of their third-down tries, averaged 7.2 yards per play and rushed for 191 yards."
+          ],
+          "title": "Lions WR Amon-Ra St. Brown put on a show for his 'home fans' in Germany | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The NFL report gives DeVito\u2019s final passing line as 12-of-24 for 81 yards, one touchdown, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions",
+          "excerpts": [
+            "suffered an ankle injury on the first series and did not return to Sunday's [35-10 loss](https://www.nfl.com/games/patriots-at-lions-2026-reg-10) to the Detroit Lions in Munich.\n\nPatriots coach Mike Vrabel did not have an update after the game on the severity of Maye's injury, which he called a lower leg injury, adding that the QB will \"get more tests run.\"\n\n\"He couldn't function, couldn't play, couldn't do whatever he needed to do to play quarterback, to protect himself, to execute or function at that level,\" Vrabel said, explaining the decision to rule out Maye.",
+            "Maye was initially deemed questionable to return before being downgraded in the second quarter.\n\nThe third-year QB was 3-of-4 passing for 48 yards, with an 11-yard scramble, at the time of his exit.",
+            "Brown](https://www.nfl.com/players/a-j-brown/) exit with a hamstring injury in the second half. DeVito finished 12-of-24 passing for 81 yards, a touchdown and an interception."
+          ],
+          "title": "Patriots QB Drake Maye suffers ankle injury early in loss to Lions | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Jahmyr Gibbs ran for 2 touchdowns as the Lions beat the Patriots 35-10 in Munich. What a dominant day for Detroit! Jared Goff zipped a 56-yard touchdown pass to Amon-Ra St. Brown. Goff found St. Brown for another touchdown in his German homecoming. Gibbs ran for 153 yards and caught passes for 99 more. The win lifted the Lions to 7-2, while the Patriots fell to 5-5.",
+    "big_words": [
+      {
+        "word": "dominant",
+        "definition": "Much stronger or better than the other side.",
+        "example": "Priya was dominant at recess, kicking 3 goals in the soccer game."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1154,
+        "output": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Justin Herbert",
+  "espn_id": "4038941",
+  "team": "Los Angeles Chargers",
+  "team_abbr": "LAC",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Oregon",
+  "experience": 7,
+  "fun_facts": [
+    "Justin threw a softball at age 7 and made it to a national track meet.",
+    "Justin was a star in three sports in high school.",
+    "Justin ran for three touchdowns in a college Rose Bowl win."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2020",
+        "LAC",
+        "15",
+        "396",
+        "595",
+        "4,336",
+        "31",
+        "10"
+      ],
+      [
+        "2021",
+        "LAC",
+        "17",
+        "443",
+        "672",
+        "5,014",
+        "38",
+        "15"
+      ],
+      [
+        "2022",
+        "LAC",
+        "17",
+        "477",
+        "699",
+        "4,739",
+        "25",
+        "10"
+      ],
+      [
+        "2023",
+        "LAC",
+        "13",
+        "297",
+        "456",
+        "3,134",
+        "20",
+        "7"
+      ],
+      [
+        "2024",
+        "LAC",
+        "17",
+        "332",
+        "504",
+        "3,870",
+        "23",
+        "3"
+      ],
+      [
+        "2025",
+        "LAC",
+        "16",
+        "340",
+        "512",
+        "3,727",
+        "26",
+        "13"
+      ],
+      [
+        "2026",
+        "LAC",
+        "9",
+        "156",
+        "253",
+        "1,720",
+        "6",
+        "11"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Pat Freiermuth",
+  "espn_id": "4361411",
+  "team": "Pittsburgh Steelers",
+  "team_abbr": "PIT",
+  "number": "88",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Penn State",
+  "experience": 6,
+  "fun_facts": [
+    "Pat dropped no passes in the red zone during his three years in college.",
+    "Pat tied his college's tight end record by catching 15 touchdowns.",
+    "Pat caught seven touchdowns in college in 2019."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2021",
+        "PIT",
+        "16",
+        "60",
+        "497",
+        "7",
+        "24"
+      ],
+      [
+        "2022",
+        "PIT",
+        "16",
+        "63",
+        "732",
+        "2",
+        "57"
+      ],
+      [
+        "2023",
+        "PIT",
+        "12",
+        "32",
+        "308",
+        "2",
+        "29"
+      ],
+      [
+        "2024",
+        "PIT",
+        "17",
+        "65",
+        "653",
+        "7",
+        "30"
+      ],
+      [
+        "2025",
+        "PIT",
+        "17",
+        "41",
+        "486",
+        "4",
+        "68"
+      ],
+      [
+        "2026",
+        "PIT",
+        "9",
+        "27",
+        "270",
+        "5",
+        "28"
+      ]
+    ]
+  }
+}

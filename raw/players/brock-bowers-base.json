@@ -1,0 +1,202 @@
+{
+  "run_id": "trun_415f3f698c1f435b9faeb0d6cb31c3fa",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 71.6,
+  "input": {
+    "player": "Brock Bowers",
+    "team": "Las Vegas Raiders",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Georgia",
+    "fun_facts": [
+      "Brock Bowers is from Napa, California.",
+      "As a true freshman in 2021, Brock Bowers led Georgia in catches (56), receiving yards (882), and receiving touchdowns (13).",
+      "Brock Bowers helped Georgia win two national titles.",
+      "Brock Bowers became the first two-time winner of the John Mackey Award, given to college football\u2019s top tight end.",
+      "Brock Bowers became the first rookie tight end to reach 100 catches in a season, and the third rookie tight end to reach 1,000 receiving yards.",
+      "Brock Bowers caught 13 passes in one game, setting the NFL record for most receptions in a game by a rookie tight end."
+    ],
+    "draft": "2024, round 1, pick 13"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography lists Georgia as Brock Bowers\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432665/brock-bowers",
+          "excerpts": [
+            "College [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2024: Rd 1, Pk 13 (LV)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Napa, CA"
+          ],
+          "title": "Brock Bowers Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the facts about Brock Bowers\u2019s hometown, freshman statistics, Georgia\u2019s national titles, his two Mackey Awards, rookie-season receiving milestones, and rookie tight-end single-game receptions record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432665/brock-bowers",
+          "excerpts": [
+            "College [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2024: Rd 1, Pk 13 (LV)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Napa, CA"
+          ],
+          "title": "Brock Bowers Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/scouting-brock-bowers-georgia-tight-end-similar-to-49ers-pro-bowler-george-kittl",
+          "excerpts": [
+            "Brock Bowers burst on the scene as a true freshman in 2021, leading Georgia in receptions (56), receiving yards (882) and receiving touchdowns (13)."
+          ],
+          "title": "Scouting Brock Bowers: Georgia tight end similar to 49ers Pro Bowler George Kittle | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/georgia-all-american-te-brock-bowers-announces-intention-to-enter-2024-nfl-draft",
+          "excerpts": [
+            "An athletic wonder with a rare combination of speed and physicality, Bowers amassed three highly impressive seasons for the Bulldogs, helping them to two national titles. He has won numerous awards and accolades, too, being named the SEC Freshman of the Year in 2021 and the John Mackey Award winner (college football\u2019s best tight end) in 2022 and 2023."
+          ],
+          "title": "Georgia All-American TE Brock Bowers announces intention to enter 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39231316/georgia-star-te-brock-bowers-declares-2024-nfl-draft",
+          "excerpts": [
+            "[Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) junior [Brock Bowers](https://www.espn.com/college-football/player/_/id/4432665/brock-bowers) , the first two-time winner of the Mackey Award as the top tight end in college football, announced Tuesday that he's entering the NFL draft.\n\nBowers, a native of Napa, California, is [ranked as the No. 5 prospect available](https://www.espn.com/nfl/draft2024/insider/story/_/id/38381720/2024-nfl-draft-rankings-mel-kiper-big-board-top-prospects-position-best-players"
+          ],
+          "title": "Georgia star TE Brock Bowers declares for 2024 NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/raiders-brock-bowers-third-rookie-tight-end-eclipse-1000-yards",
+          "excerpts": [
+            "[Brock Bowers](https://www.nfl.com/players/brock-bowers/) \u2019 first-year tour de force has hit more history.\n\nBowers became only the third rookie tight end in NFL chronicle to record 1,000 receiving yards, accomplishing the feat during Sunday's [19-14 win](https://www.nfl.com/games/jaguars-at-raiders-2024-reg-16) over the Jacksonville Jaguars.\n\nBowers hauled in a 32-yard pass from quarterback [Aidan O'Connell](https://www.nfl.com/players/aidan-o-connell) in the first quarter to reach 1,000, becoming the first 2024 rookie pass catcher to hit the mark this season, as well. In the fourth quarter, Bowers caught his 10th pass of the game and his 100th for the season, becoming the first rookie tight end to reach the mark."
+          ],
+          "title": "Raiders' Brock Bowers becomes third rookie TE to eclipse 1,000 yards, first to hit 100 catches | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://media.nfl.com/football-information/2024/awards/week--13---nfc-players-of-the-week/november-rookies-of-the-month",
+          "excerpts": [
+            "2024\n\n# Brock Bowers & Braden Fiske Named November Rookies of the Month\n\nAwards Rookies of the Month November Football Communications Las Vegas Raiders Los Angeles Rams\n\nDec 05, 2024\n\nShare\n\n**  \nNEW YORK \u2014** **Dec. 5, 2024** \u2014 Las Vegas tight end **Brock Bowers** and Los Angeles Rams defensive end **Braden Fiske** are the NFL Rookies of the Month for games played in the month of November.\n\n**OFFENSE : TE BROCK BOWERS, LAS VEGAS RAIDERS**\n\n* Bowers led all rookies in receiving yards (349), receptions (32), receiving yards per game (87.3) and receiving touchdowns (three) in November. In Week 11, he had 13 receptions for 126 yards and a touchdown, the most receptions by a rookie tight end in a game in NFL history. Bowers recorded his third game with at least 10 receptions in Week 13 and joined Odell Beckham Jr."
+          ],
+          "title": "November Rookies of the Month"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography states that Brock Bowers was selected in 2024, round 1, pick 13.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432665/brock-bowers",
+          "excerpts": [
+            "College [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2024: Rd 1, Pk 13 (LV)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Napa, CA"
+          ],
+          "title": "Brock Bowers Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography identifies Napa, California, as Brock Bowers\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4432665/brock-bowers",
+          "excerpts": [
+            "College [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\nDraft Info 2024: Rd 1, Pk 13 (LV)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Napa, CA"
+          ],
+          "title": "Brock Bowers Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL passage says Brock Bowers led Georgia as a true freshman in receptions, receiving yards, and receiving touchdowns, and provides the totals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/scouting-brock-bowers-georgia-tight-end-similar-to-49ers-pro-bowler-george-kittl",
+          "excerpts": [
+            "Brock Bowers burst on the scene as a true freshman in 2021, leading Georgia in receptions (56), receiving yards (882) and receiving touchdowns (13)."
+          ],
+          "title": "Scouting Brock Bowers: Georgia tight end similar to 49ers Pro Bowler George Kittle | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL passage says Brock Bowers helped the Bulldogs win two national titles.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/georgia-all-american-te-brock-bowers-announces-intention-to-enter-2024-nfl-draft",
+          "excerpts": [
+            "An athletic wonder with a rare combination of speed and physicality, Bowers amassed three highly impressive seasons for the Bulldogs, helping them to two national titles. He has won numerous awards and accolades, too, being named the SEC Freshman of the Year in 2021 and the John Mackey Award winner (college football\u2019s best tight end) in 2022 and 2023."
+          ],
+          "title": "Georgia All-American TE Brock Bowers announces intention to enter 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN passage identifies Brock Bowers as the first two-time winner of the Mackey Award.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39231316/georgia-star-te-brock-bowers-declares-2024-nfl-draft",
+          "excerpts": [
+            "[Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) junior [Brock Bowers](https://www.espn.com/college-football/player/_/id/4432665/brock-bowers) , the first two-time winner of the Mackey Award as the top tight end in college football, announced Tuesday that he's entering the NFL draft.\n\nBowers, a native of Napa, California, is [ranked as the No. 5 prospect available](https://www.espn.com/nfl/draft2024/insider/story/_/id/38381720/2024-nfl-draft-rankings-mel-kiper-big-board-top-prospects-position-best-players"
+          ],
+          "title": "Georgia star TE Brock Bowers declares for 2024 NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL passage says Brock Bowers became the first rookie tight end to record 100 catches and the third rookie tight end to reach 1,000 receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/raiders-brock-bowers-third-rookie-tight-end-eclipse-1000-yards",
+          "excerpts": [
+            "[Brock Bowers](https://www.nfl.com/players/brock-bowers/) \u2019 first-year tour de force has hit more history.\n\nBowers became only the third rookie tight end in NFL chronicle to record 1,000 receiving yards, accomplishing the feat during Sunday's [19-14 win](https://www.nfl.com/games/jaguars-at-raiders-2024-reg-16) over the Jacksonville Jaguars.\n\nBowers hauled in a 32-yard pass from quarterback [Aidan O'Connell](https://www.nfl.com/players/aidan-o-connell) in the first quarter to reach 1,000, becoming the first 2024 rookie pass catcher to hit the mark this season, as well. In the fourth quarter, Bowers caught his 10th pass of the game and his 100th for the season, becoming the first rookie tight end to reach the mark."
+          ],
+          "title": "Raiders' Brock Bowers becomes third rookie TE to eclipse 1,000 yards, first to hit 100 catches | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The NFL passage states that Brock Bowers\u2019s 13 receptions in a game were the most by a rookie tight end in NFL history.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/football-information/2024/awards/week--13---nfc-players-of-the-week/november-rookies-of-the-month",
+          "excerpts": [
+            "2024\n\n# Brock Bowers & Braden Fiske Named November Rookies of the Month\n\nAwards Rookies of the Month November Football Communications Las Vegas Raiders Los Angeles Rams\n\nDec 05, 2024\n\nShare\n\n**  \nNEW YORK \u2014** **Dec. 5, 2024** \u2014 Las Vegas tight end **Brock Bowers** and Los Angeles Rams defensive end **Braden Fiske** are the NFL Rookies of the Month for games played in the month of November.\n\n**OFFENSE : TE BROCK BOWERS, LAS VEGAS RAIDERS**\n\n* Bowers led all rookies in receiving yards (349), receptions (32), receiving yards per game (87.3) and receiving touchdowns (three) in November. In Week 11, he had 13 receptions for 126 yards and a touchdown, the most receptions by a rookie tight end in a game in NFL history. Bowers recorded his third game with at least 10 receptions in Week 13 and joined Odell Beckham Jr."
+          ],
+          "title": "November Rookies of the Month"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

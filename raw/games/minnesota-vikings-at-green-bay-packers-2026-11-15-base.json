@@ -1,0 +1,404 @@
+{
+  "run_id": "trun_3df3487a122343d487bb65bae0109e4d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 113.2,
+  "input": {
+    "away_team": "Minnesota Vikings",
+    "home_team": "Green Bay Packers",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Minnesota Vikings",
+    "key_plays": [
+      "Q1 10:20: Will Reichard 34-yard field goal",
+      "Q1 2:46: Kirk Cousins 38-yard touchdown pass to Myles Price",
+      "Q2 6:17: Aaron Jones 1-yard touchdown run",
+      "Q3 5:37: Jordan Love 32-yard touchdown pass to J. Michael Sturdivant",
+      "Q4 8:29: Kirk Cousins 20-yard touchdown pass to Gavin Bartholomew"
+    ],
+    "away_score": 30,
+    "storyline": "Kirk Cousins rejoined Minnesota five days after the Vikings acquired him from the Las Vegas Raiders at the trade deadline, then threw two touchdown passes in his return. Minnesota snapped a two-game skid and beat Green Bay for the fifth time in six meetings.",
+    "top_performers": [
+      {
+        "stat_line": "21 of 31, 207 yards, 2 TD, 1 INT",
+        "team": "Minnesota Vikings",
+        "name": "Kirk Cousins"
+      },
+      {
+        "stat_line": "9 receptions, 74 yards",
+        "team": "Minnesota Vikings",
+        "name": "Justin Jefferson"
+      },
+      {
+        "stat_line": "11 carries, 47 yards, 1 TD",
+        "team": "Minnesota Vikings",
+        "name": "Aaron Jones"
+      },
+      {
+        "stat_line": "4 receptions, 49 yards, 1 TD",
+        "team": "Minnesota Vikings",
+        "name": "Myles Price"
+      },
+      {
+        "stat_line": "3 receptions, 36 yards, 1 TD",
+        "team": "Minnesota Vikings",
+        "name": "Gavin Bartholomew"
+      }
+    ],
+    "home_record_after": "6-4",
+    "tough_day": [
+      {
+        "stat_line": "17 of 27, 220 yards, 1 TD, 1 INT, sacked 8 times for 59 yards",
+        "team": "Green Bay Packers",
+        "name": "Jordan Love"
+      }
+    ],
+    "away_record_after": "7-2",
+    "home_team": "Green Bay Packers",
+    "home_score": 10
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary gives the Vikings and Packers' completed quarter-by-quarter totals, establishing that the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary identifies the visitor as the Minnesota Vikings.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10 7 3 10 0 30"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring-plays table lists the scoring events, quarters, and times used for the selected key plays.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings W.Reichard 34 yd. Field Goal (4--6, 2:21) 3 0 1 10:20 Vikings M.Price 38 yd. pass from K.Cousins (W.Reichard kick) (7-57, 3:14) 10 0 1 2:46 Vikings A.Jones 1 yd. run (W.Reichard kick) (11-55, 5:22) 17 0 2 6:17 Vikings W.Reichard 32 yd. Field Goal (5-13, 2:08) 20 0 3 10:02 Packers J.Sturdivant 32 yd. pass from J.Love (T.Smack kick) (10-75, 4:25) 20 7 3 5:37 Packers T.Smack 40 yd. Field Goal (11-64, 3:38) 20 10 3 0:19 Vikings G.Bartholomew 20 yd. pass from K.Cousins (W.Reichard kick) (11-75, 6:50) 27 10 4 8:29 Vikings W.Reichard 20 yd. Field Goal (9-33, 4:28) 30 10 4 3:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official game summary lists 30 as Minnesota's total score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Minnesota Vikings 10 7 3 10 0 30"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states that Cousins joined Minnesota from the Raiders at the deadline, describes his return and two touchdown passes, and notes the Vikings snapped a two-game skid and won their fifth meeting with Green Bay in six games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873060",
+          "excerpts": [
+            "Cousins went 21 of 31 for 207 yards just five days after rejoining the Vikings, who acquired him from the [Las Vegas Raiders](http://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) at Tuesday\u2019s trade deadline. ... Cousins rejuvenated an offense that had stalled under quarterbacks [Kyler Murray](http://www.espn.com/nfl/player/_/id/3917315/kyler-murray) and [Carson Wentz](http://www.espn.com/nfl/player/_/id/2573079/carson-wentz) , scoring 16 points or fewer in each of its last three games. He helped the Vikings snap a two-game skid as they beat the Packers for the fifth time in six meetings. And he reestablished his connection with top receiver [Justin Jefferson](http://www.espn.com/nfl/player/_/id/4262921/justin-jefferson) , who had season highs in catches (nine) and targets (13) while finishing with 74 yards. ... Cousins threw a 38-yarder to Price in the first period and a 20-yarder to Bartholomew in the fourth. Each of Minnesota's three touchdown drives included a third-and-long completion from Cousins."
+          ],
+          "title": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official individual-statistics tables provide the passing, rushing, and receiving figures for the listed performers.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** J.Mason 59 3.7 0 16 8 K.Johnson 42 4.2 0 10 9 A.Jones 47 4.3 1 11 19 M.Lloyd 13 3.3 0 4 11 M.Price 12 12.0 0 1 12 C.Brooks 1 0.5 0 2 1 K.Cousins 11 3.7 0 3 8 J.Love 0 0.0 0 1 0 31 129 4.2 19 1 Total 17 56 3.3 11 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** K.Cousins 207 2 31 21 3/24 1 94.4 J.Love 220 1 27 17 8/59 1 85.4 **32 38** T.Taylor 3 0 2 1 0/0 0 56.2 3 29 223 1 18 8/59 1 83.0 21 207 2 31 3/24 1 94.4 Total Total 32 38 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Jefferson 74 8.2 0 9 13 M.Golden 70 14.0 0 5 9 20 17 M.Price 49 12.3 1 4 4 C.Watson 37 12.3 0 3 5 15 **38** G.Bartholomew 36 12.0 1 3 4 M.Lloyd 26 8.7 0 3 3 15 **20** T.Felton 33 11.0 0 3 5 J.Sturdivant 37 18.5 1 2 4 **32** 24 A.Jones 8 8.0 0 1 1 S.Williams 27 13.5 0 2 2 24 8 B.Yurosek 7 7.0 0 1 1 T.Kraft 19 19.0 0 1 4 19 7 M.Bredeson 0 0.0 0 0 1 M.Redman 5 5.0 0 1 1 5 0 J.Mason 0 0.0 0 0 1 C.Brooks 2 2.0 0 1 1 2 0 21 207 9.9 38 2 Total 30 18 223 12.4 32 1 Total 29"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL standings shown for the game list Green Bay at 6 wins and 4 losses after the result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-packers-2026-reg-10",
+          "excerpts": [
+            "[BEARS CHI BEARS BEARS 7 7 wins 2 2 losses 0 0 ties 0\\.778 0\\.778 win percentage]"
+          ],
+          "title": "Minnesota Vikings at Green Bay Packers 2026 REG 10 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official passing table lists Love's 17 completions on 27 attempts, 220 yards, one touchdown, one interception, and eight sacks for 59 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** K.Cousins 207 2 31 21 3/24 1 94.4 J.Love 220 1 27 17 8/59 1 85.4 **32 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL standings shown for the game list Minnesota at 7 wins and 2 losses after the result.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/vikings-at-packers-2026-reg-10",
+          "excerpts": [
+            "[BEARS CHI BEARS BEARS 7 7 wins 2 2 losses 0 0 ties 0\\.778 0\\.778 win percentage]"
+          ],
+          "title": "Minnesota Vikings at Green Bay Packers 2026 REG 10 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game summary identifies the home team as the Green Bay Packers.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Green Bay Packers 0 0 10"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary lists 10 as Green Bay's total score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Green Bay Packers 0 0 10"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Reichard's 34-yard field goal in the first quarter at 10:20.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings W.Reichard 34 yd. Field Goal (4--6, 2:21) 3 0 1 10:20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Cousins' 38-yard touchdown pass to Price in the first quarter at 2:46.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings M.Price 38 yd. pass from K.Cousins (W.Reichard kick) (7-57, 3:14) 10 0 1 2:46"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Jones' 1-yard touchdown run in the second quarter at 6:17.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings A.Jones 1 yd. run (W.Reichard kick) (11-55, 5:22) 17 0 2 6:17"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Love's 32-yard touchdown pass to Sturdivant in the third quarter at 5:37.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Packers J.Sturdivant 32 yd. pass from J.Love (T.Smack kick) (10-75, 4:25) 20 7 3 5:37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records Cousins' 20-yard touchdown pass to Bartholomew in the fourth quarter at 8:29.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings G.Bartholomew 20 yd. pass from K.Cousins (W.Reichard kick) (11-75, 6:50) 27 10 4 8:29"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official passing table provides Cousins' 21 completions on 31 attempts, 207 yards, two touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** K.Cousins 207 2 31 21 3/24 1 94.4 J.Love 220 1 27 17 8/59 1 85.4 **32 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The receiving table lists Jefferson with nine catches for 74 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Jefferson 74 8.2 0 9 13 M.Golden 70 14.0 0 5 9 20 17"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The rushing table lists Jones with 11 carries for 47 yards and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** J.Mason 59 3.7 0 16 8 K.Johnson 42 4.2 0 10 9 A.Jones 47 4.3 1 11 19 M.Lloyd 13 3.3 0 4 11"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The receiving table lists Price with four receptions for 49 yards and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Jefferson 74 8.2 0 9 13 M.Golden 70 14.0 0 5 9 20 17 M.Price 49 12.3 1 4 4 C.Watson 37 12.3 0 3 5 15 **38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The receiving table lists Bartholomew with three receptions for 36 yards and one touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Bartholomew 36 12.0 1 3 4 M.Lloyd 26 8.7 0 3 3 15 **20"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official passing table records Love's passing line and eight sacks for 59 yards, supporting the listed difficult performance.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794818921/gamecenter/ab788967-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** K.Cousins 207 2 31 21 3/24 1 94.4 J.Love 220 1 27 17 8/59 1 85.4 **32 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "storyline",
+      "top_performers",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Could Kirk Cousins spark the Vikings in his return? He sure did! Cousins tossed 2 touchdown passes as Minnesota beat Green Bay 30-10 in Wisconsin. Myles Price snagged the first, and Aaron Jones ran for another score. Jordan Love threw a touchdown pass to J. Michael Sturdivant for the Packers. Then Cousins found Gavin Bartholomew for his second touchdown! The Vikings snapped a 2-game skid and moved to 7-2.",
+    "big_words": [
+      {
+        "word": "spark",
+        "definition": "To get something going.",
+        "example": "Jamal\u2019s cookie idea helped spark a fun day of baking."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask, then answer it.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1210,
+        "output": 232
+      }
+    ]
+  }
+}

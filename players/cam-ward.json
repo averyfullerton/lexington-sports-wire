@@ -1,0 +1,51 @@
+{
+  "name": "Cam Ward",
+  "espn_id": "4688380",
+  "team": "Tennessee Titans",
+  "team_abbr": "TEN",
+  "number": "1",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Miami",
+  "experience": 2,
+  "fun_facts": [
+    "Cam set the Division I college career record with 158 passing touchdowns.",
+    "Cam set a Miami college season record with 39 passing touchdowns.",
+    "Cam was a zero-star recruit coming out of high school."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "TEN",
+        "17",
+        "323",
+        "540",
+        "3,169",
+        "15",
+        "7"
+      ],
+      [
+        "2026",
+        "TEN",
+        "9",
+        "183",
+        "287",
+        "1,714",
+        "8",
+        "6"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "run_id": "trun_3df3487a122343d49352cef1db3bbc75",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 218.9,
+  "input": {
+    "away_team": "Pittsburgh Steelers",
+    "home_team": "Cincinnati Bengals",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Pittsburgh Steelers",
+    "key_plays": [
+      "Q2 14:47: Drew Sample caught a 3-yard touchdown pass from Joe Burrow.",
+      "Q2 0:09: Dohnte Meyers caught a 15-yard touchdown pass from Joe Burrow.",
+      "Q3 4:12: Chase Brown caught a 4-yard touchdown pass from Joe Burrow.",
+      "Q4 12:16: DK Metcalf caught a 22-yard touchdown pass from Aaron Rodgers, then caught the successful two-point conversion.",
+      "Q4 7:19: Pat Freiermuth caught a 27-yard touchdown pass from Aaron Rodgers."
+    ],
+    "away_score": 18,
+    "storyline": "The win moved Cincinnati into sole possession of first place in the AFC North; the Bengals improved to 7-2 and extended their winning streak to five games.",
+    "top_performers": [
+      {
+        "stat_line": "35 of 44, 409 yards, 4 TD, 0 INT",
+        "team": "Cincinnati Bengals",
+        "name": "Joe Burrow"
+      },
+      {
+        "stat_line": "11 receptions, 231 yards, 0 TD",
+        "team": "Cincinnati Bengals",
+        "name": "Ja'Marr Chase"
+      },
+      {
+        "stat_line": "10 carries, 44 yards; 8 receptions, 39 yards, 2 TD",
+        "team": "Cincinnati Bengals",
+        "name": "Chase Brown"
+      },
+      {
+        "stat_line": "2 receptions, 54 yards, 1 TD",
+        "team": "Pittsburgh Steelers",
+        "name": "DK Metcalf"
+      },
+      {
+        "stat_line": "2 receptions, 35 yards, 1 TD",
+        "team": "Pittsburgh Steelers",
+        "name": "Pat Freiermuth"
+      }
+    ],
+    "home_record_after": "7-2",
+    "tough_day": [
+      {
+        "stat_line": "484 total yards allowed",
+        "team": "Pittsburgh Steelers",
+        "name": "Pittsburgh Steelers defense"
+      }
+    ],
+    "away_record_after": "6-3",
+    "home_team": "Cincinnati Bengals",
+    "home_score": 38
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game center marks the Week 10 matchup final, and the official game summary gives the completed quarter-by-quarter score for both teams.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/steelers-at-bengals-2026-reg-10",
+          "excerpts": [
+            "Final WEEK 10"
+          ],
+          "title": "Pittsburgh Steelers at Cincinnati Bengals 2026 REG 10 - Game Center"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 0 15 0 18 HOME: Cincinnati Bengals 3 21 7 7 0 38 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies Pittsburgh as the visiting team in the matchup heading.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Pittsburgh Steelers at Cincinnati Bengals** Start Time: 8:22 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring-plays record lists the scoring players, descriptions, periods, and times used for the five plays.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals E.McPherson 24 yd. Field Goal (13-80, 6:04) 0 3 1 8:56 Bengals D.Sample 3 yd. pass from J.Burrow (E.McPherson kick) (13-92, 8:09) 0 10 2 14:47 Bengals C.Brown 2 yd. pass from J.Burrow (E.McPherson kick) (5-80, 2:54) 0 17 2 5:28 Steelers C.Boswell 45 yd. Field Goal (10-42, 4:03) 3 17 2 1:25 Bengals D.Meyers 15 yd. pass from J.Burrow (E.McPherson kick) (8-57, 1:16) 3 24 2 0:09 Bengals C.Brown 4 yd. pass from J.Burrow (E.McPherson kick) (11-78, 6:34) 3 31 3 4:12 Steelers D.Metcalf 22 yd. pass from A.Rodgers (A.Rodgers-D.Metcalf pass) (10-84, 3:05) 11 31 4 12:16 Bengals S.Perine 1 yd. run (E.McPherson kick) (4-49, 2:08) 11 38 4 10:08 **National Football League Game Summary** **National Football League Game Summary** Paid Attendance: 66,860 Time: 3:02 Steelers P.Freiermuth 27 yd. pass from A.Rodgers (C.Boswell kick) (6-66, 2:49) 18 38 4 7:19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official game summary records Pittsburgh's final total as 18; the NFL schedule independently lists Steelers 18 and Bengals 38 as final.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 0 15 0 18 HOME: Cincinnati Bengals 3 21 7 7 0 38 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Steelers 18, Bengals 38, FINAL, Sunday, November 15th](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)\n  \n  Final\n  \n  Pittsburgh Steelers Team Logo STEELERS 6-3\n  \n  Hidden Score\n  \n  Cincinnati Bengals Team Logo BENGALS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states Cincinnati took sole possession of first place in the AFC North and extended its winning streak to five; the NFL schedule shows the Bengals at 7-2 after the win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873064",
+          "excerpts": [
+            "Bengals](http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) dominated the [Pittsburgh Steelers](http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) 38-18 on Sunday night to move into sole possession of first place in the AFC North.\n\nRunning back [Chase Brown](http://www.espn.com/nfl/player/_/id/4362238/chase-brown) had 82 scrimmage yards and scored two touchdowns, both receiving, as the Bengals (7-2) extended their winning streak to five games."
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Steelers 18, Bengals 38, FINAL, Sunday, November 15th](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)\n  \n  Final\n  \n  Pittsburgh Steelers Team Logo STEELERS 6-3\n  \n  Hidden Score\n  \n  Cincinnati Bengals Team Logo BENGALS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The box-score passing, rushing, and receiving tables support the listed stat lines; the accompanying player entries identify the full names and teams.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) #9 | | team | | C/ATT | YDS | TD | INT | SACKS | | 35/44 | 409 | 4 | 0 | 1-3 |",
+            "| [Ja'Marr Chase](https://www.espn.com/nfl/player/_/id/4362628/jamarr-chase) #1 | | [Tee Higgins](https://www.espn.com/nfl/player/_/id/4239993/tee-higgins) #5 | | [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Dohnte Meyers](https://www.espn.com/nfl/player/_/id/4384852/dohnte-meyers) #81 | | [Drew Sample](https://www.espn.com/nfl/player/_/id/3127310/drew-sample) #89 | | [Mike Gesicki](https://www.espn.com/nfl/player/_/id/3116164/mike-gesicki) #88 | | [Jack Endries](https://www.espn.com/nfl/player/_/id/5085189/jack-endries) #84 | | team | | REC | YDS | TD | LONG | TGTS | | 11 | 231 | 0 | 53 | 14 |",
+            "| [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Tahj Brooks](https://www.espn.com/nfl/player/_/id/4429299/tahj-brooks) #25 | | [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) #9 | | team | | CAR | YDS | TD | LONG | | 10 | 44 | 0 | 11 |",
+            "| [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Dohnte Meyers](https://www.espn.com/nfl/player/_/id/4384852/dohnte-meyers) #81 | | [Drew Sample](https://www.espn.com/nfl/player/_/id/3127310/drew-sample) #89 |",
+            "| [DK Metcalf](https://www.espn.com/nfl/player/_/id/4047650/dk-metcalf) #4 | | [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | [Brandon Smith](https://www.espn.com/nfl/player/_/id/4240577/brandon-smith) #87 | | [Rico Dowdle](https://www.espn.com/nfl/player/_/id/4038815/rico-dowdle) #13 | | [Darnell Washington](https://www.espn.com/nfl/player/_/id/4430802/darnell-washington) #80 | | [Lew Nichols](https://www.espn.com/nfl/player/_/id/4428119/lew-nichols) #31 | | [Robert Tonyan](https://www.espn.com/nfl/player/_/id/2975674/robert-tonyan) #85 | | [Ben Skowronek](https://www.espn.com/nfl/player/_/id/4035656/ben-skowronek) #15 | | [Germie Bernard](https://www.espn.com/nfl/player/_/id/4685261/germie-bernard) #17 | | team | | REC | YDS | TD | LONG | TGTS | | 2 | 54 | 1 | 32 | 6 |",
+            "| [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | [Brandon Smith](https://www.espn.com/nfl/player/_/id/4240577/brandon-smith) #87 | | [Rico Dowdle](https://www.espn.com/nfl/player/_/id/4038815/rico-dowdle) #13 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** A.Rodgers 143 2 29 15 3/25 0 88.7 J.Burrow 409 4 44 35 1/3 0 135.7 53 32",
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Warren 26 5.2 0 5 6 J.Chase 231 21.0 0 11 14 53 18 D.Metcalf 54 27.0 1 2 6 C.Brown 39 4.9 2 8 9 13 32 P.Freiermuth 35 17.5 1 2 3 T.Higgins 66 13.2 0 5 6 17 **27** B.Smith 15 7.5 0 2 3 S.Perine 25 6.3 0 4 4 13 10 R.Dowdle 8 4.0 0 2 2 D.Sample 15 5.0 1 3 3 6 6 D.Washington 5 5.0 0 1 3 D.Meyers 20 10.0 1 2 2 **15** 5 L.Nichols 2 2.0 0 1 1 M.Gesicki 9 9.0 0 1 2 9 2 B.Skowronek 0 0.0 0 1 1 J.Endries 4 4.0 0 1 2 4 0 G.Bernard 0 0.0 0 0 3 0 R.Tonyan 0 0.0 0 0 1 0 16 145 9.1 32 2 Total 29 35 409 11.7 53 4 Total 42"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL Week 10 schedule lists Cincinnati at 7-2 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Steelers 18, Bengals 38, FINAL, Sunday, November 15th](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)\n  \n  Final\n  \n  Pittsburgh Steelers Team Logo STEELERS 6-3\n  \n  Hidden Score\n  \n  Cincinnati Bengals Team Logo BENGALS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The team-stat evidence lists 484 total yards for Cincinnati against Pittsburgh, supporting the stated yardage allowed by the Steelers defense.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873064/steelers-bengals",
+          "excerpts": [
+            "## Team Stats\n\n[PIT](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) [CIN](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n222\n\nTotal Yards\n\n484\n\n0\n\nTurnovers\n\n0\n\n17"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Home Visitor** **Steelers Bengals** 17 30 **TOTAL FIRST DOWNS** 7 6 By Rushing 7 23 By Passing 3 1 By Penalty 5-13-38.5% 2-7-28.6% **THIRD DOWN EFFICIENCY** 2-2-100.0% 1-1-100.0% **FOURTH DOWN EFFICIENCY** 222 484 **TOTAL NET YARDS**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL Week 10 schedule lists Pittsburgh at 6-3 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Steelers 18, Bengals 38, FINAL, Sunday, November 15th](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)\n  \n  Final\n  \n  Pittsburgh Steelers Team Logo STEELERS 6-3\n  \n  Hidden Score\n  \n  Cincinnati Bengals Team Logo BENGALS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official matchup heading names Cincinnati as Pittsburgh's opponent, and the game location is Cincinnati, Ohio.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Pittsburgh Steelers at Cincinnati Bengals** Start Time: 8:22 PM EST",
+            "at Paycor Stadium, Cincinnati, OH"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary records Cincinnati's final total as 38; the NFL schedule independently lists Bengals 38 and Steelers 18 as final.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 0 15 0 18 HOME: Cincinnati Bengals 3 21 7 7 0 38 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-10",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Steelers 18, Bengals 38, FINAL, Sunday, November 15th](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10)\n  \n  Final\n  \n  Pittsburgh Steelers Team Logo STEELERS 6-3\n  \n  Hidden Score\n  \n  Cincinnati Bengals Team Logo BENGALS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final"
+          ],
+          "title": "NFL Week 10 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring entry identifies Drew Sample's 3-yard touchdown reception at 14:47 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals D.Sample 3 yd. pass from J.Burrow (E.McPherson kick) (13-92, 8:09) 0 10 2 14:47"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring entry records D. Meyers' 15-yard touchdown reception at 0:09 of the second quarter; the box score identifies the player as Dohnte Meyers.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals D.Meyers 15 yd. pass from J.Burrow (E.McPherson kick) (8-57, 1:16) 3 24 2 0:09"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring entry records Chase Brown's 4-yard touchdown reception at 4:12 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals C.Brown 4 yd. pass from J.Burrow (E.McPherson kick) (11-78, 6:34) 3 31 3 4:12"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring entry records Metcalf's 22-yard touchdown and notes the successful Rodgers-to-Metcalf two-point pass at 12:16 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Steelers D.Metcalf 22 yd. pass from A.Rodgers (A.Rodgers-D.Metcalf pass) (10-84, 3:05) 11 31 4 12:16"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring entry records Freiermuth's 27-yard touchdown reception at 7:19 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Steelers P.Freiermuth 27 yd. pass from A.Rodgers (C.Boswell kick) (6-66, 2:49) 18 38 4 7:19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The passing table identifies Joe Burrow and records 35 completions on 44 attempts, 409 yards, four touchdowns, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) #9 | | team | | C/ATT | YDS | TD | INT | SACKS | | 35/44 | 409 | 4 | 0 | 1-3 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** A.Rodgers 143 2 29 15 3/25 0 88.7 J.Burrow 409 4 44 35 1/3 0 135.7 53 32"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The receiving table identifies Ja'Marr Chase and records 11 catches for 231 yards with no touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [Ja'Marr Chase](https://www.espn.com/nfl/player/_/id/4362628/jamarr-chase) #1 | | [Tee Higgins](https://www.espn.com/nfl/player/_/id/4239993/tee-higgins) #5 | | [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Dohnte Meyers](https://www.espn.com/nfl/player/_/id/4384852/dohnte-meyers) #81 | | [Drew Sample](https://www.espn.com/nfl/player/_/id/3127310/drew-sample) #89 | | [Mike Gesicki](https://www.espn.com/nfl/player/_/id/3116164/mike-gesicki) #88 | | [Jack Endries](https://www.espn.com/nfl/player/_/id/5085189/jack-endries) #84 | | team | | REC | YDS | TD | LONG | TGTS | | 11 | 231 | 0 | 53 | 14 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Warren 26 5.2 0 5 6 J.Chase 231 21.0 0 11 14 53 18 D.Metcalf 54 27.0 1 2 6 C.Brown 39 4.9 2 8 9 13 32 P.Freiermuth 35 17.5 1 2 3 T.Higgins 66 13.2 0 5 6 17 **27** B.Smith 15 7.5 0 2 3 S.Perine 25 6.3 0 4 4 13 10 R.Dowdle 8 4.0 0 2 2 D.Sample 15 5.0 1 3 3 6 6 D.Washington 5 5.0 0 1 3 D.Meyers 20 10.0 1 2 2 **15** 5 L.Nichols 2 2.0 0 1 1 M.Gesicki 9 9.0 0 1 2 9 2 B.Skowronek 0 0.0 0 1 1 J.Endries 4 4.0 0 1 2 4 0 G.Bernard 0 0.0 0 0 3 0 R.Tonyan 0 0.0 0 0 1 0 16 145 9.1 32 2 Total 29 35 409 11.7 53 4 Total 42"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The rushing and receiving tables identify Chase Brown and support 10 carries for 44 yards plus eight catches for 39 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Tahj Brooks](https://www.espn.com/nfl/player/_/id/4429299/tahj-brooks) #25 | | [Joe Burrow](https://www.espn.com/nfl/player/_/id/3915511/joe-burrow) #9 | | team | | CAR | YDS | TD | LONG | | 10 | 44 | 0 | 11 |",
+            "| [Chase Brown](https://www.espn.com/nfl/player/_/id/4362238/chase-brown) #30 | | [Samaje Perine](https://www.espn.com/nfl/player/_/id/3116389/samaje-perine) #34 | | [Dohnte Meyers](https://www.espn.com/nfl/player/_/id/4384852/dohnte-meyers) #81 | | [Drew Sample](https://www.espn.com/nfl/player/_/id/3127310/drew-sample) #89 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The receiving box score lists DK Metcalf with two receptions, 54 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [DK Metcalf](https://www.espn.com/nfl/player/_/id/4047650/dk-metcalf) #4 | | [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | [Brandon Smith](https://www.espn.com/nfl/player/_/id/4240577/brandon-smith) #87 | | [Rico Dowdle](https://www.espn.com/nfl/player/_/id/4038815/rico-dowdle) #13 | | [Darnell Washington](https://www.espn.com/nfl/player/_/id/4430802/darnell-washington) #80 | | [Lew Nichols](https://www.espn.com/nfl/player/_/id/4428119/lew-nichols) #31 | | [Robert Tonyan](https://www.espn.com/nfl/player/_/id/2975674/robert-tonyan) #85 | | [Ben Skowronek](https://www.espn.com/nfl/player/_/id/4035656/ben-skowronek) #15 | | [Germie Bernard](https://www.espn.com/nfl/player/_/id/4685261/germie-bernard) #17 | | team | | REC | YDS | TD | LONG | TGTS | | 2 | 54 | 1 | 32 | 6 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Metcalf 54 27.0 1 2 6"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The receiving box score lists Pat Freiermuth with two receptions, 35 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873064",
+          "excerpts": [
+            "| [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | [Brandon Smith](https://www.espn.com/nfl/player/_/id/4240577/brandon-smith) #87 | | [Rico Dowdle](https://www.espn.com/nfl/player/_/id/4038815/rico-dowdle) #13 |"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "P.Freiermuth 35 17.5 1 2 3"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The team-stat totals show Cincinnati gained 484 yards against Pittsburgh, the basis for identifying the Steelers defense's difficult result.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873064/steelers-bengals",
+          "excerpts": [
+            "## Team Stats\n\n[PIT](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) [CIN](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n222\n\nTotal Yards\n\n484\n\n0\n\nTurnovers\n\n0\n\n17"
+          ],
+          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829727/gamecenter/ab78aa48-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Home Visitor** **Steelers Bengals** 17 30 **TOTAL FIRST DOWNS** 7 6 By Rushing 7 23 By Passing 3 1 By Penalty 5-13-38.5% 2-7-28.6% **THIRD DOWN EFFICIENCY** 2-2-100.0% 1-1-100.0% **FOURTH DOWN EFFICIENCY** 222 484 **TOTAL NET YARDS**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Who ruled the field in Cincinnati? The Bengals did, beating the Steelers 38-18! Joe Burrow tossed 4 touchdown passes, and Ja'Marr Chase snagged 231 yards. Chase Brown caught a touchdown pass, too. Aaron Rodgers fired touchdown passes to DK Metcalf and Pat Freiermuth in the fourth quarter. But the Bengals soared to their 5th straight win! They moved to 7-2 and took first place alone in the AFC North.",
+    "big_words": [
+      {
+        "word": "soared",
+        "definition": "Moved or rose high and fast.",
+        "example": "Ethan's kite soared above the trees on his camping trip."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask, then answer it.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1229,
+        "output": 224
+      }
+    ]
+  }
+}

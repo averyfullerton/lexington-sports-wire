@@ -1,0 +1,120 @@
+{
+  "name": "Cooper Kupp",
+  "espn_id": "2977187",
+  "team": "Seattle Seahawks",
+  "team_abbr": "SEA",
+  "number": "10",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Eastern Washington",
+  "experience": 10,
+  "fun_facts": [
+    "Cooper caught a touchdown in each of his first 14 college games.",
+    "Cooper led the NFL in catches, receiving yards, and receiving touchdowns in 2021.",
+    "Cooper was named MVP of Super Bowl LVI."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2017",
+        "LAR",
+        "15",
+        "62",
+        "869",
+        "5",
+        "64"
+      ],
+      [
+        "2018",
+        "LAR",
+        "8",
+        "40",
+        "566",
+        "6",
+        "70"
+      ],
+      [
+        "2019",
+        "LAR",
+        "16",
+        "94",
+        "1,161",
+        "10",
+        "66"
+      ],
+      [
+        "2020",
+        "LAR",
+        "15",
+        "92",
+        "974",
+        "3",
+        "55"
+      ],
+      [
+        "2021",
+        "LAR",
+        "17",
+        "145",
+        "1,947",
+        "16",
+        "59"
+      ],
+      [
+        "2022",
+        "LAR",
+        "9",
+        "75",
+        "812",
+        "6",
+        "75"
+      ],
+      [
+        "2023",
+        "LAR",
+        "12",
+        "59",
+        "737",
+        "5",
+        "62"
+      ],
+      [
+        "2024",
+        "LAR",
+        "12",
+        "67",
+        "710",
+        "6",
+        "69"
+      ],
+      [
+        "2025",
+        "SEA",
+        "16",
+        "47",
+        "593",
+        "2",
+        "67"
+      ],
+      [
+        "2026",
+        "SEA",
+        "10",
+        "23",
+        "272",
+        "3",
+        "34"
+      ]
+    ]
+  }
+}

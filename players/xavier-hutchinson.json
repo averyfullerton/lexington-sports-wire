@@ -1,0 +1,66 @@
+{
+  "name": "Xavier Hutchinson",
+  "espn_id": "4686422",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "19",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Iowa State",
+  "experience": 4,
+  "fun_facts": [
+    "Xavier caught 83 passes in 2021, a college record at Iowa State.",
+    "Xavier caught eight passes and threw a 49-yard touchdown pass against Texas.",
+    "Xavier caught a pass in each of his first 26 college games."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "HOU",
+        "16",
+        "8",
+        "90",
+        "0",
+        "34"
+      ],
+      [
+        "2024",
+        "HOU",
+        "16",
+        "12",
+        "117",
+        "0",
+        "19"
+      ],
+      [
+        "2025",
+        "HOU",
+        "17",
+        "35",
+        "428",
+        "3",
+        "33"
+      ],
+      [
+        "2026",
+        "HOU",
+        "9",
+        "28",
+        "345",
+        "3",
+        "29"
+      ]
+    ]
+  }
+}

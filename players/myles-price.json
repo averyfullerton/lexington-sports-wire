@@ -1,0 +1,39 @@
+{
+  "name": "Myles Price",
+  "espn_id": "4430656",
+  "team": "Minnesota Vikings",
+  "team_abbr": "MIN",
+  "number": "4",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Indiana",
+  "experience": 2,
+  "fun_facts": [
+    "Myles played college football at Texas Tech before Indiana.",
+    "He returned 57 kickoffs for 1,479 yards in 2025.",
+    "He had an 86-yard punt return and a punt-return touchdown in 2026."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "MIN",
+        "9",
+        "10",
+        "81",
+        "1",
+        "38"
+      ]
+    ]
+  }
+}

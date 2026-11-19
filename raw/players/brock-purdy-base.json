@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_415f3f698c1f435bacb4bde4f7196a64",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 57.8,
+  "input": {
+    "player": "Brock Purdy",
+    "team": "San Francisco 49ers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Iowa State",
+    "fun_facts": [
+      "Brock Purdy grew up in Gilbert, Arizona, and led Perry High School to two state runner-up finishes.",
+      "At Iowa State, Brock Purdy broke or tied 32 school records.",
+      "As a junior in 2020, Brock Purdy helped Iowa State win nine games and the Fiesta Bowl.",
+      "Brock Purdy was the final pick of the 2022 NFL Draft, earning the nickname \u201cMr. Irrelevant.\u201d",
+      "In his first NFL playoff game, Brock Purdy became the first rookie in NFL history to score four touchdowns."
+    ],
+    "draft": "2022, round 7, pick 262"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The player profile identifies Brock Purdy\u2019s college as Iowa State.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/4361741/brock-purdy",
+          "excerpts": [
+            "Team [San Francisco 49ers](https://africa.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\nPosition Quarterback\n\nHT/WT 1\\.85 m, 99 kg\n\nBirthdate 27/12/1999 (26)\n\nCollege [Iowa State](https://africa.espn.com/college-football/team/_/id/66/iowa-state-cyclones)\n\nDraft Info 2022: Rd 7, Pk 262 (SF)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Gilbert, AZ"
+          ],
+          "title": "Brock Purdy Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the childhood and high-school detail, Iowa State records and Fiesta Bowl achievement, the Mr. Irrelevant nickname, and the playoff touchdown milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39300943/brock-purdy-49ers-internal-motivation-prove-nonbelievers-wrong",
+          "excerpts": [
+            "Purdy's motivation comes from the day-to-day grind of his position and repeatedly proving to himself -- and, by extension, his team -- that he's up for one of the most high-profile jobs in sports:"
+          ],
+          "title": "49ers' Brock Purdy uses internal motivation to maintain edge - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35220132/who-49ers-rookie-brock-purdy-journey-mr-irrelevant-starting-quarterback",
+          "excerpts": [
+            "He started 46 games and broke or tied 32 school records while winning more games than any other Cyclones quarterback ever.",
+            "Brock Purdy broke or tied 32 school records at Iowa State, helping the Cyclones to nine wins and a Fiesta Bowl victory as a junior in 2020. Charlie Neibergall/AP\n\nIowa State didn't have the glitz of some of the other schools recruiting him, but that was part of its appeal to Purdy, who viewed it as a place where he could build something.\n\nAny doubt that Purdy could take the Cyclones to new heights was erased in his first extended playing time [at Oklahoma State](https://www.espn.com/college-football/recap/_/gameId/401013042) as a true"
+          ],
+          "title": "Who is San Francisco 49ers rookie quarterback Brock Purdy? - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/mr-irrelevant-49ers-select-iowa-st-qb-brock-purdy-to-end-2022-nfl-draft",
+          "excerpts": [
+            "The San Francisco 49ers closed out the 2022 NFL Draft, selecting quarterback [Brock Purdy](https://www.nfl.com/prospects/brock-purdy/32005055-5224-3289-b108-8aab5e23b748) as \"Mr. Irrelevant\" on Saturday afternoon in Las Vegas.\n\nMr. Irrelevant is the moniker given each year to the last pick of the NFL draft, established in 1976.\n\nPurdy goes off the board as pick No. 262 in this year's draft. He is the first Mr. Irrelevant QB since [Chad Kelly](https://www.nfl.com/players/chad-kelly/) went to Denver in 2017.\n\nThe Iowa State senior started 46 games over four seasons with the Cyclones. Purdy completed 67.7 percent of his passes for 12,170 yards with 81 TDs and 33 INTs during his college career."
+          ],
+          "title": "Mr. Irrelevant: 49ers select Iowa St. QB Brock Purdy to end 2022 NFL Draft\u00a0\u00a0 | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-stats-and-records-super-wild-card-weekend-brock-purdy-sets-rookie-playoff-re",
+          "excerpts": [
+            "_NFL Research offers the best nuggets from each week of games in the NFL. Here are the most eye-popping statistical accomplishments from Super Wild Card Weekend of the 2022 NFL season._\n\n**1) 49ers 41, Seahawks 23: [Brock Purdy](https://www.nfl.com/players/brock-purdy/) takes the playoffs**\n\n2022\u2019s Mr. Irrelevant, Purdy, could not be more relevant in the 2022 playoffs. Purdy scored four total touchdowns and the 49ers put up 41 points [on the](https://www.nfl.com/games/seahawks-at-49ers-2022-post-1) AFC West-rival Seahawks in the 2022 Wild Card. Purdy became the first rookie in NFL history with four touchdowns in a playoff game, and the 49ers scored the most points with a rookie starting quarterback all-time."
+          ],
+          "title": "NFL stats and records, Super Wild Card Weekend: Brock Purdy sets rookie playoff record with four TDs | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The profile states that Brock Purdy was drafted in 2022, in round 7, at pick 262.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/4361741/brock-purdy",
+          "excerpts": [
+            "Team [San Francisco 49ers](https://africa.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\nPosition Quarterback\n\nHT/WT 1\\.85 m, 99 kg\n\nBirthdate 27/12/1999 (26)\n\nCollege [Iowa State](https://africa.espn.com/college-football/team/_/id/66/iowa-state-cyclones)\n\nDraft Info 2022: Rd 7, Pk 262 (SF)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Gilbert, AZ"
+          ],
+          "title": "Brock Purdy Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage places Perry High School in Gilbert, Arizona, and says Purdy led the school to two state runner-up finishes.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39300943/brock-purdy-49ers-internal-motivation-prove-nonbelievers-wrong",
+          "excerpts": [
+            "Purdy's motivation comes from the day-to-day grind of his position and repeatedly proving to himself -- and, by extension, his team -- that he's up for one of the most high-profile jobs in sports:"
+          ],
+          "title": "49ers' Brock Purdy uses internal motivation to maintain edge - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Purdy broke or tied 32 Iowa State school records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35220132/who-49ers-rookie-brock-purdy-journey-mr-irrelevant-starting-quarterback",
+          "excerpts": [
+            "He started 46 games and broke or tied 32 school records while winning more games than any other Cyclones quarterback ever."
+          ],
+          "title": "Who is San Francisco 49ers rookie quarterback Brock Purdy? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says Iowa State won nine games and the Fiesta Bowl with Purdy as a junior in 2020.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/35220132/who-49ers-rookie-brock-purdy-journey-mr-irrelevant-starting-quarterback",
+          "excerpts": [
+            "Brock Purdy broke or tied 32 school records at Iowa State, helping the Cyclones to nine wins and a Fiesta Bowl victory as a junior in 2020. Charlie Neibergall/AP\n\nIowa State didn't have the glitz of some of the other schools recruiting him, but that was part of its appeal to Purdy, who viewed it as a place where he could build something.\n\nAny doubt that Purdy could take the Cyclones to new heights was erased in his first extended playing time [at Oklahoma State](https://www.espn.com/college-football/recap/_/gameId/401013042) as a true"
+          ],
+          "title": "Who is San Francisco 49ers rookie quarterback Brock Purdy? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage identifies Purdy as the 2022 draft\u2019s last pick and explains that the last pick is called \u201cMr. Irrelevant.\u201d",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/mr-irrelevant-49ers-select-iowa-st-qb-brock-purdy-to-end-2022-nfl-draft",
+          "excerpts": [
+            "The San Francisco 49ers closed out the 2022 NFL Draft, selecting quarterback [Brock Purdy](https://www.nfl.com/prospects/brock-purdy/32005055-5224-3289-b108-8aab5e23b748) as \"Mr. Irrelevant\" on Saturday afternoon in Las Vegas.\n\nMr. Irrelevant is the moniker given each year to the last pick of the NFL draft, established in 1976.\n\nPurdy goes off the board as pick No. 262 in this year's draft. He is the first Mr. Irrelevant QB since [Chad Kelly](https://www.nfl.com/players/chad-kelly/) went to Denver in 2017.\n\nThe Iowa State senior started 46 games over four seasons with the Cyclones. Purdy completed 67.7 percent of his passes for 12,170 yards with 81 TDs and 33 INTs during his college career."
+          ],
+          "title": "Mr. Irrelevant: 49ers select Iowa St. QB Brock Purdy to end 2022 NFL Draft\u00a0\u00a0 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Purdy scored four touchdowns in his playoff debut and became the first rookie in NFL history to score four touchdowns in a playoff game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-stats-and-records-super-wild-card-weekend-brock-purdy-sets-rookie-playoff-re",
+          "excerpts": [
+            "_NFL Research offers the best nuggets from each week of games in the NFL. Here are the most eye-popping statistical accomplishments from Super Wild Card Weekend of the 2022 NFL season._\n\n**1) 49ers 41, Seahawks 23: [Brock Purdy](https://www.nfl.com/players/brock-purdy/) takes the playoffs**\n\n2022\u2019s Mr. Irrelevant, Purdy, could not be more relevant in the 2022 playoffs. Purdy scored four total touchdowns and the 49ers put up 41 points [on the](https://www.nfl.com/games/seahawks-at-49ers-2022-post-1) AFC West-rival Seahawks in the 2022 Wild Card. Purdy became the first rookie in NFL history with four touchdowns in a playoff game, and the 49ers scored the most points with a rookie starting quarterback all-time."
+          ],
+          "title": "NFL stats and records, Super Wild Card Weekend: Brock Purdy sets rookie playoff record with four TDs | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_415f3f698c1f435b90b8506fd4a03aae",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 91.1,
+  "input": {
+    "player": "Adetomiwa Adebawore",
+    "team": "Indianapolis Colts",
+    "position": "Defensive Tackle",
+    "season": 2026
+  },
+  "content": {
+    "college": "Northwestern",
+    "fun_facts": [
+      "Adetomiwa Adebawore was born in Kansas City to Nigerian parents.",
+      "A Colts pronunciation guide gives his name as \u201cadd-E-TOMMY-wah add-E-BARR-reh.\u201d",
+      "At the 2023 combine, he ran the 40-yard dash in 4.49 seconds, jumped 10 feet 5 inches in the broad jump, and reached 37.5 inches in the vertical\u2014all top-10 marks for his position.",
+      "In November 2026, Adetomiwa Adebawore recovered a fumble for a touchdown against the Miami Dolphins.",
+      "During the 2026 season, he matched his career high of four sacks in just eight games."
+    ],
+    "draft": "2023, round 4, pick 110"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Northwestern in Adetomiwa Adebawore\u2019s player information, supporting the college answer.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/adetomiwa-adebawore",
+          "excerpts": [
+            "# Adetomiwa Adebawore Stats, News and Video - DT | NFL.com\n\n# Adetomiwa Adebawore\n\nDT \u2022 \\#95\n\n[Indianapolis Colts](https://www.nfl.com/teams/indianapolis-colts/)\n\n### active\n\n* [Info](https://www.nfl.com/players/adetomiwa-adebawore/)\n* [Stats](https://www.nfl.com/players/adetomiwa-adebawore/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-2\n* Weight\n  \n  282\n* Arms\n  \n  34\n* Hands\n  \n  10 1/2\n\n* Experience\n  \n  4\n* College\n  \n  Northwestern\n* Age\n  \n  25\n* Hometown\n  \n  Kansas City, MO\n\n## Related Content - Articles\n\n[news ### NFL Week 6 takeaways: What We Learned from Sunday's 12 games Around The NFL breaks down what you need to know from Sunday's action in Week 6 of the 2025 NFL"
+          ],
+          "title": "Adetomiwa Adebawore Stats, News and Video - DT | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the five facts respectively: his birthplace and parents; the pronunciation guide; his combine results; his fumble-recovery touchdown against Miami; and his four sacks in eight games, matching his career high.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/espn/story/_/id/46754596/naija-no-dey-carry-last-nfl-rome-odunze-justin-eboigbe-david-njoku-shine-week-8",
+          "excerpts": [
+            "[Adetomiwa Adebawore](https://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) , who was born in Kansas City to Nigerian parents, made a sack for the [Indianapolis Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) in their 38-14 win over the [Tennessee Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans) .\n\n[Bobby Okereke](https://www.espn.com/nfl/player/_/id/3117253/bobby-okereke) \\- a Nigerian-American linebacker born in Santa Ana,"
+          ],
+          "title": "Naija no dey carry last in NFL as Rome Odunze, Justin Eboigbe, David Njoku shine in week 8 - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/texans/qdpdnfvaha4e4khvgeo2",
+          "excerpts": [
+            "**Adetomiwa Adebawore ........................**\n\nadd-E-TOMMY-wah add-E-BARR-reh\n\n**Taven** Bryan .................................. TAY-vinn\n\n**DeForest** Buckner ................duh-FORE-ist"
+          ],
+          "title": "HOUSTON TEXANS VS. INDIANAPOLIS COLTS"
+        },
+        {
+          "url": "https://www.commanders.com/news/pro-day-watch-adetomiwa-adebawore-s-stock-continues-to-rise",
+          "excerpts": [
+            "Adebawore was one of the standouts in Indianapolis with a 4.49 40-yard dash, a 10-foot-5 broad jump and a 37.5-inch vertical (all top 10 metrics for his position). His Relative Athletic Score was one of the best at the combine and rivaled some linebackers. His quickness and athleticism were what caught people's attention the most, and judging by what he did at his pro day, that was not an aberration.\n\n> Possible [\\#Bears](https://twitter.com/hashtag/Bears?src=hash&ref_src=twsrc%5Etfw) 3-tech target Adetomiwa Adebawore going through drills at Northwestern Pro Day [pic.twitter.com/dCfWrt6A4U](https://t.co/dCfWrt6A4U)"
+          ],
+          "title": "Pro Day watch: Adetomiwa Adebawore's stock continues to rise"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid.\n\n\u201cIt definitely feels good to win,\u201d Jones said. \u201cIts hard to win in the NFL, so you have to enjoy them.\u201d\n\nColts fans didn\u2019t seem to enjoy this one much."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
+          "excerpts": [
+            "The Colts rebuffed trade interest in Adebawore and instead finalized the extension with Adebawore, who has already matched his career high with four sacks in just eight games this season."
+          ],
+          "title": "Source - Colts, Adetomiwa Adebawore reach 2-year, $35M deal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft announcement states that the Colts selected Adetomiwa Adebawore in Round 4 of the 2023 draft with the No. 110 overall pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/colts-select-adetomiwa-adebawore-with-no-110-pick-in-2023-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Colts select Adetomiwa Adebawore with No. 110 pick in 2023 draft\n\nThe Indianapolis Colts select Northwestern Wildcats defensive tackle Adetomiwa Adebawore in Round 4 of the 2023 NFL Draft with the No. 110 overall pick (via a trade with the Atlanta Falcons).\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Indianapolis Colts select defensive tackle Adetomiwa Adebawore with No. 110 pick in 2023 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says he was born in Kansas City to Nigerian parents.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/espn/story/_/id/46754596/naija-no-dey-carry-last-nfl-rome-odunze-justin-eboigbe-david-njoku-shine-week-8",
+          "excerpts": [
+            "[Adetomiwa Adebawore](https://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) , who was born in Kansas City to Nigerian parents, made a sack for the [Indianapolis Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) in their 38-14 win over the [Tennessee Titans](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans) .\n\n[Bobby Okereke](https://www.espn.com/nfl/player/_/id/3117253/bobby-okereke) \\- a Nigerian-American linebacker born in Santa Ana,"
+          ],
+          "title": "Naija no dey carry last in NFL as Rome Odunze, Justin Eboigbe, David Njoku shine in week 8 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Colts document provides the pronunciation guide for his full name.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/texans/qdpdnfvaha4e4khvgeo2",
+          "excerpts": [
+            "**Adetomiwa Adebawore ........................**\n\nadd-E-TOMMY-wah add-E-BARR-reh\n\n**Taven** Bryan .................................. TAY-vinn\n\n**DeForest** Buckner ................duh-FORE-ist"
+          ],
+          "title": "HOUSTON TEXANS VS. INDIANAPOLIS COLTS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage gives his 4.49-second 40-yard dash, 10-foot-5 broad jump, and 37.5-inch vertical, and describes each as a top-10 position metric.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/pro-day-watch-adetomiwa-adebawore-s-stock-continues-to-rise",
+          "excerpts": [
+            "Adebawore was one of the standouts in Indianapolis with a 4.49 40-yard dash, a 10-foot-5 broad jump and a 37.5-inch vertical (all top 10 metrics for his position). His Relative Athletic Score was one of the best at the combine and rivaled some linebackers. His quickness and athleticism were what caught people's attention the most, and judging by what he did at his pro day, that was not an aberration.\n\n> Possible [\\#Bears](https://twitter.com/hashtag/Bears?src=hash&ref_src=twsrc%5Etfw) 3-tech target Adetomiwa Adebawore going through drills at Northwestern Pro Day [pic.twitter.com/dCfWrt6A4U](https://t.co/dCfWrt6A4U)"
+          ],
+          "title": "Pro Day watch: Adetomiwa Adebawore's stock continues to rise"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap states that Adetomiwa Adebawore recovered a fumble for a touchdown in the Colts\u2019 game against Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid.\n\n\u201cIt definitely feels good to win,\u201d Jones said. \u201cIts hard to win in the NFL, so you have to enjoy them.\u201d\n\nColts fans didn\u2019t seem to enjoy this one much."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says he had matched his career high of four sacks in just eight games that season; the article is dated November 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
+          "excerpts": [
+            "The Colts rebuffed trade interest in Adebawore and instead finalized the extension with Adebawore, who has already matched his career high with four sacks in just eight games this season."
+          ],
+          "title": "Source - Colts, Adetomiwa Adebawore reach 2-year, $35M deal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

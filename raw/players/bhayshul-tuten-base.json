@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_415f3f698c1f435b880f4dcb24352a95",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 54.2,
+  "input": {
+    "player": "Bhayshul Tuten",
+    "team": "Jacksonville Jaguars",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Virginia Tech",
+    "fun_facts": [
+      "Bhayshul Tuten was born in Paulsboro, New Jersey.",
+      "As a child, Bhayshul Tuten played track and field and wrestled.",
+      "At Virginia Tech, Bhayshul Tuten set a school rushing record with 266 yards in one game, and scored four touchdowns against Boston College.",
+      "Bhayshul Tuten played two college seasons at North Carolina A&T before Virginia Tech. Across his college career, he rushed for 3,600 yards and 41 touchdowns, and scored nine receiving touchdowns.",
+      "Bhayshul Tuten ran the 40-yard dash in 4.32 seconds, the fastest time among players at his position at the event and sixth-fastest overall."
+    ],
+    "draft": "2025, round 4, pick 104"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars article says Tuten played two seasons at North Carolina A&T before playing two seasons at Virginia Tech, identifying Virginia Tech as his last college.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/k000252-jaguars-select-bhayshul-tuten-no-104-overall-in-the-2025-nfl-draft",
+          "excerpts": [
+            "[Bhayshul Tuten](https://www.jaguars.com/team/players-roster/bhayshul-tuten/ \"Bhayshul Tuten\") , a running back from Virginia Tech, on Saturday was selected by the Jaguars No. 104 overall in the [2025 NFL Draft](https://www.jaguars.com/draft/) \u2013 the second selection of Round 4.\n\nTuten, a senior who played at North Carolina A&T for two seasons before playing two seasons at Virginia Tech, rushed for 3,600 career yards and 41 touchdowns. He averaged 5.99 yards per carry for his career and also scored nine receiving touchdowns.\n\nHe rushed for 1,159 yards and 15 touchdowns last season in 2024. He was a second-team All-Atlantic Coast Conference selection the past two seasons.\n\nTuten became the third player from Virginia Tech selected by the Jaguars in the NFL Draft, the first since wide"
+          ],
+          "title": "NFL Draft No. 104: Jaguars Select Bhayshul Tuten"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Paulsboro as Tuten's birthplace; the Jaguars profile describes his childhood track-and-field and wrestling experience; ESPN reports his Virginia Tech single-game rushing record; the Jaguars draft article gives his college history and career totals; and the Jaguars article reports his 40-yard-dash time and placement.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4882093/bhayshul-tuten",
+          "excerpts": [
+            "Birthplace Paulsboro, NJ\n\n### Career History\n\n[Jacksonville Jaguars Jacksonville Jaguars 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nESPN"
+          ],
+          "title": "Bhayshul Tuten Biography - ESPN"
+        },
+        {
+          "url": "https://www.jaguars.com/team/players-roster/bhayshul-tuten",
+          "excerpts": [
+            "Tuten discussed his journey throughout childhood playing various sports including track and field as well as wrestling and how that has made an impact on his success in football. Later he discusses his journey in college from North Carolina A&T to Virginia Tech and how that led to his arrival and immediate impact in Jacksonville now as the starting RB."
+          ],
+          "title": "Bhayshul Tuten"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41859704/tuten-hokies-record-266-rushing-yards-4-tds-blowout-win",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=41859704)\n\nOpen Extended Reactions\n\nBLACKSBURG, Va. -- [Bhayshul Tuten](https://www.espn.com/college-football/player/_/id/4882093/bhayshul-tuten) rushed for a school record 266 yards and accounted for four touchdowns to lead [Virginia Tech](https://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies) a [42-21 victory](https://www.espn.com/college-football/game/_/gameId/401634768/boston-college-virginia-tech) over [Boston College](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)"
+          ],
+          "title": "Tuten has Hokies-record 266 rushing yards, 4 TDs in blowout win - ESPN"
+        },
+        {
+          "url": "https://www.jaguars.com/news/k000252-jaguars-select-bhayshul-tuten-no-104-overall-in-the-2025-nfl-draft",
+          "excerpts": [
+            "[Bhayshul Tuten](https://www.jaguars.com/team/players-roster/bhayshul-tuten/ \"Bhayshul Tuten\") , a running back from Virginia Tech, on Saturday was selected by the Jaguars No. 104 overall in the [2025 NFL Draft](https://www.jaguars.com/draft/) \u2013 the second selection of Round 4.\n\nTuten, a senior who played at North Carolina A&T for two seasons before playing two seasons at Virginia Tech, rushed for 3,600 career yards and 41 touchdowns. He averaged 5.99 yards per carry for his career and also scored nine receiving touchdowns.\n\nHe rushed for 1,159 yards and 15 touchdowns last season in 2024. He was a second-team All-Atlantic Coast Conference selection the past two seasons.\n\nTuten became the third player from Virginia Tech selected by the Jaguars in the NFL Draft, the first since wide"
+          ],
+          "title": "NFL Draft No. 104: Jaguars Select Bhayshul Tuten"
+        },
+        {
+          "url": "https://www.jaguars.com/news/k000270-rb-bhayshul-tuten-to-the-jaguars-a-perfect-blend-of-speed-confidence-and-versatility",
+          "excerpts": [
+            "Tuten at the event ran a 4.32-second 40-yard dash, the fastest among players at his position and the sixth-fastest time overall."
+          ],
+          "title": "Virginia Tech\u2019s Running Backs Coach Loves the Fit of Bhayshul Tuten Landing in Jacksonville"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars' 2025 draft listing identifies Bhayshul Tuten as the second pick in Round 4, overall pick 104.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2025",
+          "excerpts": [
+            "wyatt-milum-no-89-overall-in-the-2025-nfl-draft \"Wyatt Milum is the Jaguars No. 89 Overall in the 2025 NFL Draft\")\n\n## Round 4\n\nPick 2 (104)\n\n### [Bhayshul Tuten](https://www.jaguars.com/team/players-roster/bhayshul-tuten/)\n\nRB Virginia Tech\n\n5-9 206 LBS\n\nFrom Browns\n\n* **2021 (North Carolina A&T):** Played in 11 games with 1 start (37-215-5.8, 3 TDs rushing; 10-230-23.0, TD receiving; 18-330-18.3 KR)."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN's biography identifies Paulsboro, New Jersey, as Bhayshul Tuten's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4882093/bhayshul-tuten",
+          "excerpts": [
+            "Birthplace Paulsboro, NJ\n\n### Career History\n\n[Jacksonville Jaguars Jacksonville Jaguars 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nESPN"
+          ],
+          "title": "Bhayshul Tuten Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Jaguars profile states that Tuten played track and field and wrestled during childhood.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/team/players-roster/bhayshul-tuten",
+          "excerpts": [
+            "Tuten discussed his journey throughout childhood playing various sports including track and field as well as wrestling and how that has made an impact on his success in football. Later he discusses his journey in college from North Carolina A&T to Virginia Tech and how that led to his arrival and immediate impact in Jacksonville now as the starting RB."
+          ],
+          "title": "Bhayshul Tuten"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports Tuten's school-record 266 rushing yards and four touchdowns in the game against Boston College.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41859704/tuten-hokies-record-266-rushing-yards-4-tds-blowout-win",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=41859704)\n\nOpen Extended Reactions\n\nBLACKSBURG, Va. -- [Bhayshul Tuten](https://www.espn.com/college-football/player/_/id/4882093/bhayshul-tuten) rushed for a school record 266 yards and accounted for four touchdowns to lead [Virginia Tech](https://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies) a [42-21 victory](https://www.espn.com/college-football/game/_/gameId/401634768/boston-college-virginia-tech) over [Boston College](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)"
+          ],
+          "title": "Tuten has Hokies-record 266 rushing yards, 4 TDs in blowout win - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Jaguars article says he played two seasons at North Carolina A&T before Virginia Tech and records his 3,600 career rushing yards, 41 touchdowns, and nine receiving touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/k000252-jaguars-select-bhayshul-tuten-no-104-overall-in-the-2025-nfl-draft",
+          "excerpts": [
+            "[Bhayshul Tuten](https://www.jaguars.com/team/players-roster/bhayshul-tuten/ \"Bhayshul Tuten\") , a running back from Virginia Tech, on Saturday was selected by the Jaguars No. 104 overall in the [2025 NFL Draft](https://www.jaguars.com/draft/) \u2013 the second selection of Round 4.\n\nTuten, a senior who played at North Carolina A&T for two seasons before playing two seasons at Virginia Tech, rushed for 3,600 career yards and 41 touchdowns. He averaged 5.99 yards per carry for his career and also scored nine receiving touchdowns.\n\nHe rushed for 1,159 yards and 15 touchdowns last season in 2024. He was a second-team All-Atlantic Coast Conference selection the past two seasons.\n\nTuten became the third player from Virginia Tech selected by the Jaguars in the NFL Draft, the first since wide"
+          ],
+          "title": "NFL Draft No. 104: Jaguars Select Bhayshul Tuten"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Jaguars article states that Tuten ran a 4.32-second 40-yard dash, fastest among players at his position and sixth-fastest overall at the event.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/k000270-rb-bhayshul-tuten-to-the-jaguars-a-perfect-blend-of-speed-confidence-and-versatility",
+          "excerpts": [
+            "Tuten at the event ran a 4.32-second 40-yard dash, the fastest among players at his position and the sixth-fastest time overall."
+          ],
+          "title": "Virginia Tech\u2019s Running Backs Coach Loves the Fit of Bhayshul Tuten Landing in Jacksonville"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "run_id": "trun_3df3487a122343d49fa45c82f2bb692a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 253.8,
+  "input": {
+    "away_team": "Miami Dolphins",
+    "home_team": "Indianapolis Colts",
+    "game_date": "2026-11-15",
+    "season": 2026,
+    "week": 10
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Miami Dolphins",
+    "key_plays": [
+      "Q2 14:51: Seth McGowan 4-yard touchdown run.",
+      "Q2 11:54: Malik Washington 34-yard touchdown pass to Jalen Tolbert.",
+      "Q3 14:48: Adetomiwa Adebawore recovered a fumble in the end zone for a touchdown.",
+      "Q3 8:52: Chris Johnson returned an interception 59 yards for a touchdown.",
+      "Q4 14:56: Kyle McCord scored on a 3-yard run, bringing Miami within two points; the two-point try failed."
+    ],
+    "away_score": 22,
+    "storyline": "Indianapolis won 24-22 to end a five-game losing streak, earning its first win since Week 4. The Colts improved to 3-7, while Miami fell to 1-8.",
+    "top_performers": [
+      {
+        "stat_line": "17/32, 209 passing yards, 0 pass TD, 0 INT; 2 carries, 4 rushing yards, 1 TD, 1 fumble lost",
+        "team": "Miami Dolphins",
+        "name": "Kyle McCord"
+      },
+      {
+        "stat_line": "12 carries, 77 yards, 1 TD",
+        "team": "Indianapolis Colts",
+        "name": "Seth McGowan"
+      },
+      {
+        "stat_line": "16 carries, 83 yards",
+        "team": "Indianapolis Colts",
+        "name": "Jonathan Taylor"
+      },
+      {
+        "stat_line": "2 receptions, 49 yards, 1 TD",
+        "team": "Miami Dolphins",
+        "name": "Jalen Tolbert"
+      },
+      {
+        "stat_line": "1 INT, 59-yard interception-return TD",
+        "team": "Miami Dolphins",
+        "name": "Chris Johnson"
+      }
+    ],
+    "home_record_after": "3-7",
+    "tough_day": [
+      {
+        "stat_line": "11/22, 108 yards, 1 TD, 2 INT",
+        "team": "Indianapolis Colts",
+        "name": "Daniel Jones"
+      }
+    ],
+    "away_record_after": "1-8",
+    "home_team": "Indianapolis Colts",
+    "home_score": 24
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary labels the score as final, confirming that this game was played to completion.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "22 24 **FINAL SCORE"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies Miami as the visitor, establishing the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Miami Dolphins 0 7 9 6 0 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary gives the quarter, time, scorer, and play description for the listed touchdowns and interception return.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Colts S.McGowan 4 yd. run (S.Shrader kick) (12-63, 6:49) 0 7 2 14:51 Dolphins J.Tolbert 34 yd. pass from M.Washington (Z.Gonzalez kick) (5-73, 2:57) 7 7 2 11:54",
+            "Colts A.Adebawore fumble recovery in end zone (S.Shrader kick) 7 21 3 14:48 Dolphins Z.Gonzalez 53 yd. Field Goal (6-31, 2:36) 10 21 3 12:12 Dolphins C.Johnson 59 yd. interception return (kick failed, wl) 16 21 3 8:52",
+            "Dolphins K.McCord 3 yd. run (pass failed) (7-71, 3:44) 22 24 4 14:56"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official score-by-quarter table lists Miami's total as 22.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Miami Dolphins 0 7 9 6 0 22 HOME: Indianapolis Colts 0 14 10 0 0 24 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states that Indianapolis ended a five-game skid, and the Week 10 NFL summary says the Colts' win was their first since Week 4; the postgame standings show the teams at 3-7 and 1-8.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873059",
+          "excerpts": [
+            "# Colts' struggling offense does just enough to beat Dolphins 24-22 and snap 5-game skid\n\n* * *\n\nBy AP\n\nUpdated: Nov 15, 2026, 06:02 pm\n\nFacebook Facebook Messenger Twitter Email",
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Miami Dolphins and the Indianapolis Colts during the 2026 NFL season.\n\nSCORE\n\n22\n\n[Miami Dolphins 1-8](https://www.nfl.com/teams/miami-dolphins)\n\nSCORE\n\n24\n\n[Indianapolis Colts 3-7](https://www.nfl.com/teams/indianapolis-colts)\n\n**REWATCH:** [Dolphins-Colts on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)",
+            "**Colts mercifully end skid.** Indianapolis didn't play a perfect game by any means but finally finished on the winning side of the ledger for the first time since Week 4."
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official gamebook provides the rushing, receiving, and interception-return statistics; the player references and recap identify the players by full name.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/players/kyle-mccord/stats",
+          "excerpts": [
+            "# Kyle McCord Stats Summary | NFL.com\n\n# Kyle McCord\n\nQB \u2022 \\#14\n\n[Miami Dolphins](http://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](http://www.nfl.com/players/kyle-mccord/)",
+            "* [Situational](http://www.nfl.com/players/kyle-mccord/stats/situational/)\n\n## Recent Games\n\n|WK |OPP |RESULT |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|1 |@Raiders |L 13 - 27 | | | | | | | | | | | | | | | |",
+            "|10 |@Colts |L 22 - 24 |17 |32 |209 |6\\.5 |0 |0 |3 |28 |73\\.6 |2 |4 |2 |1 |1 |1 |\n\n## Career Stats\n\n### QB Career\n\n|SEASON |TEAM |G |GS |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |"
+          ],
+          "title": "Kyle McCord Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "O.Gordon 76 3.8 0 20 19 J.Taylor 83 5.2 0 16 17 K.McCord 4 2.0 1 2 **3** S.McGowan 77 6.4 1 12 23",
+            "J.Tolbert 49 24.5 1 2 2",
+            "C.Johnson 59 59.0 1 1 **59** M.Taaffe 0 0.0 0 1 0 Total 59 29.5 59 1 2 Total 0 0 0"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a",
+            "[Zane Gonzalez](http://www.espn.com/nfl/player/_/id/3043234/zane-gonzalez) made a 53-yard field goal to cut the Dolphins' deficit to 21-10, and Miami got within 21-16 on [Chris Johnson](http://www.espn.com/nfl/player/_/id/3117846/chris-johnson) 's 59-yard interception return for a TD \u2014 ending the Dolphins' 46-game stretch without a pick-6 that dated to 2023."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The postgame score summary lists Indianapolis at 3-7.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Miami Dolphins and the Indianapolis Colts during the 2026 NFL season.\n\nSCORE\n\n22\n\n[Miami Dolphins 1-8](https://www.nfl.com/teams/miami-dolphins)\n\nSCORE\n\n24\n\n[Indianapolis Colts 3-7](https://www.nfl.com/teams/indianapolis-colts)\n\n**REWATCH:** [Dolphins-Colts on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The final passing statistics show Daniel Jones threw two interceptions and completed 11 of 22 passes for 108 yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "K.McCord 209 0 32 17 3/28 0 73.6 D.Jones 108 1 22 11 1/4 2 41.5 30 38"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a"
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The postgame score summary lists Miami at 1-8.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 10 matchup between the Miami Dolphins and the Indianapolis Colts during the 2026 NFL season.\n\nSCORE\n\n22\n\n[Miami Dolphins 1-8](https://www.nfl.com/teams/miami-dolphins)\n\nSCORE\n\n24\n\n[Indianapolis Colts 3-7](https://www.nfl.com/teams/indianapolis-colts)\n\n**REWATCH:** [Dolphins-Colts on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg10/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary identifies Indianapolis as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Indianapolis Colts 0 14 10 0 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary's home-team row gives Indianapolis a final total of 24.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Indianapolis Colts 0 14 10 0 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The gamebook records McGowan's 4-yard touchdown run at 14:51 of the second quarter; the recap spells out his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Colts S.McGowan 4 yd. run (S.Shrader kick) (12-63, 6:49) 0 7 2 14:51"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The gamebook records the 34-yard touchdown pass at 11:54 of the second quarter, and the game summary names Tolbert and Washington.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Dolphins J.Tolbert 34 yd. pass from M.Washington (Z.Gonzalez kick) (5-73, 2:57) 7 7 2 11:54"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873059/jaguars-titans",
+          "excerpts": [
+            "Nov 15, 2026, 11:02 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873059)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n2nd Quarter\n\nIndianapolis Colts\n\nTouchdown\n\n14:51 - 2nd\n\n0\n\nMIA\n\n7\n\nIND\n\nSeth McGowan 4 Yd Rush (Spencer Shrader Kick)\n\n12 plays, 63 yards, 6:49\n\nMiami Dolphins\n\nTouchdown\n\n11:54 - 2nd\n\n7\n\nMIA\n\n7\n\nIND\n\nJalen Tolbert 34 Yd pass from Malik Washington (Zane Gonzalez Kick)\n\n5 plays, 73 yards, 2:57"
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring summary records the fumble-recovery touchdown at 14:48 of the third quarter; the recap gives Adebawore's full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Colts A.Adebawore fumble recovery in end zone (S.Shrader kick) 7 21 3 14:48"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records a 59-yard interception-return touchdown at 8:52 of the third quarter; the recap identifies the scorer as Chris Johnson.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Dolphins C.Johnson 59 yd. interception return (kick failed, wl) 16 21 3 8:52"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "[Zane Gonzalez](http://www.espn.com/nfl/player/_/id/3043234/zane-gonzalez) made a 53-yard field goal to cut the Dolphins' deficit to 21-10, and Miami got within 21-16 on [Chris Johnson](http://www.espn.com/nfl/player/_/id/3117846/chris-johnson) 's 59-yard interception return for a TD \u2014 ending the Dolphins' 46-game stretch without a pick-6 that dated to 2023."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The official scoring summary records McCord's 3-yard touchdown run at 14:56 of the fourth quarter and notes the failed conversion; the player summary gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Dolphins K.McCord 3 yd. run (pass failed) (7-71, 3:44) 22 24 4 14:56"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "http://www.nfl.com/players/kyle-mccord/stats",
+          "excerpts": [
+            "# Kyle McCord Stats Summary | NFL.com\n\n# Kyle McCord\n\nQB \u2022 \\#14\n\n[Miami Dolphins](http://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](http://www.nfl.com/players/kyle-mccord/)",
+            "* [Situational](http://www.nfl.com/players/kyle-mccord/stats/situational/)\n\n## Recent Games\n\n|WK |OPP |RESULT |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|1 |@Raiders |L 13 - 27 | | | | | | | | | | | | | | | |",
+            "|10 |@Colts |L 22 - 24 |17 |32 |209 |6\\.5 |0 |0 |3 |28 |73\\.6 |2 |4 |2 |1 |1 |1 |\n\n## Career Stats\n\n### QB Career\n\n|SEASON |TEAM |G |GS |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |"
+          ],
+          "title": "Kyle McCord Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The NFL player log lists McCord's passing, rushing, and fumble statistics for the game.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/players/kyle-mccord/stats",
+          "excerpts": [
+            "# Kyle McCord Stats Summary | NFL.com\n\n# Kyle McCord\n\nQB \u2022 \\#14\n\n[Miami Dolphins](http://www.nfl.com/teams/miami-dolphins/)\n\n### active\n\n* [Info](http://www.nfl.com/players/kyle-mccord/)",
+            "* [Situational](http://www.nfl.com/players/kyle-mccord/stats/situational/)\n\n## Recent Games\n\n|WK |OPP |RESULT |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|1 |@Raiders |L 13 - 27 | | | | | | | | | | | | | | | |",
+            "|10 |@Colts |L 22 - 24 |17 |32 |209 |6\\.5 |0 |0 |3 |28 |73\\.6 |2 |4 |2 |1 |1 |1 |\n\n## Career Stats\n\n### QB Career\n\n|SEASON |TEAM |G |GS |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |"
+          ],
+          "title": "Kyle McCord Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official gamebook lists McGowan's 77 rushing yards, 6.4 average, one touchdown, and 12 carries; the recap identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "K.McCord 4 2.0 1 2 **3** S.McGowan 77 6.4 1 12 23"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a touchdown on Sunday as the Colts held on for a 24-22 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) to end their skid."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The gamebook lists Taylor's 83 rushing yards on 16 carries; the game summary identifies the player as Jonathan Taylor.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "O.Gordon 76 3.8 0 20 19 J.Taylor 83 5.2 0 16 17"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/game/_/gameId/401873059/lang/en/region/us/modifier/webview/platform/ios/features/button-service,gpVertsDeepLink,fanProfileFetch,fantasyModule,showFollowButton,watchOptions,showMarketplace,liquidglass/bettingContentEnabled/true/bettingLinksEnabled/false/appversion/8.29.1/playabilitySource/playbackId/age_band/NOT_APPLICABLE/appearance/dark",
+          "excerpts": [
+            "Rushing Yards\n\n[83 J. Taylor RB 16 CAR 83](https://espn.com/nfl/player/_/id/4242335/jonathan-taylor)\n\nReceiving Yards"
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The gamebook lists Tolbert's two catches, 49 yards, and one touchdown; the scoring summary spells out his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Tolbert 49 24.5 1 2 2"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873059/jaguars-titans",
+          "excerpts": [
+            "Nov 15, 2026, 11:02 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873059)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n2nd Quarter\n\nIndianapolis Colts\n\nTouchdown\n\n14:51 - 2nd\n\n0\n\nMIA\n\n7\n\nIND\n\nSeth McGowan 4 Yd Rush (Spencer Shrader Kick)\n\n12 plays, 63 yards, 6:49\n\nMiami Dolphins\n\nTouchdown\n\n11:54 - 2nd\n\n7\n\nMIA\n\n7\n\nIND\n\nJalen Tolbert 34 Yd pass from Malik Washington (Zane Gonzalez Kick)\n\n5 plays, 73 yards, 2:57"
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The gamebook credits Johnson with the 59-yard interception return for a touchdown; the recap provides his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Johnson 59 59.0 1 1 **59** M.Taaffe 0 0.0 0 1 0 Total 59 29.5 59 1 2 Total 0 0 0"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "[Zane Gonzalez](http://www.espn.com/nfl/player/_/id/3043234/zane-gonzalez) made a 53-yard field goal to cut the Dolphins' deficit to 21-10, and Miami got within 21-16 on [Chris Johnson](http://www.espn.com/nfl/player/_/id/3117846/chris-johnson) 's 59-yard interception return for a TD \u2014 ending the Dolphins' 46-game stretch without a pick-6 that dated to 2023."
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The passing table shows Jones at 11 completions on 22 attempts, 108 yards, one touchdown, and two interceptions; the recap identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1794829723/gamecenter/ab789365-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "K.McCord 209 0 32 17 3/28 0 73.6 D.Jones 108 1 22 11 1/4 2 41.5 30 38"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873059",
+          "excerpts": [
+            "After losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\n\n[Daniel Jones](http://www.espn.com/nfl/player/_/id/3917792/daniel-jones) threw for one score, [Seth McGowan](http://www.espn.com/nfl/player/_/id/4686468/seth-mcgowan) ran for another and [Adetomiwa Adebawore](http://www.espn.com/nfl/player/_/id/4427635/adetomiwa-adebawore) recovered a fumble for a"
+          ],
+          "title": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3",
+      "top_performers.4",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Miami came close, but the Colts won 24-22 in Indianapolis. Seth McGowan ran 4 yards for a Colts touchdown. Miami struck back when Malik Washington hit Jalen Tolbert for a 34-yard touchdown. Adetomiwa Adebawore recovered a fumble in the end zone for a Colts touchdown. Then Miami grabbed momentum as Chris Johnson returned an interception 59 yards for a touchdown! Kyle McCord ran for a score, but the 2-point try failed. The Colts ended a 5-game skid and improved to 3-7, while Miami fell to 1-8.",
+    "big_words": [
+      {
+        "word": "momentum",
+        "definition": "A burst of energy that helps you keep going.",
+        "example": "Diego gained momentum as he raced to finish his library book."
+      }
+    ],
+    "opener": "Start with the losing team's side of the story, then turn to the winners.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1227,
+        "output": 261
+      }
+    ]
+  }
+}

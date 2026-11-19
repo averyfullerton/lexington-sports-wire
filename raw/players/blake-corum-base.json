@@ -1,0 +1,181 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc131e347f0dbd14",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 70.5,
+  "input": {
+    "player": "Blake Corum",
+    "team": "Los Angeles Rams",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Michigan",
+    "fun_facts": [
+      "Blake Corum\u2019s birthplace is Marshall, Virginia.",
+      "Blake Corum started working out before school when he was in fifth grade.",
+      "Across four seasons at Michigan, Blake Corum rushed for 3,737 yards and 58 touchdowns.",
+      "In 2023, Blake Corum scored 27 touchdowns, a Michigan single-season record.",
+      "At the CFP national championship game, Blake Corum was named Offensive MVP after totaling 134 yards and two touchdowns."
+    ],
+    "draft": "2024, round 3, pick 83"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The biography identifies Michigan as Blake Corum\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429096/blake-corum",
+          "excerpts": [
+            "College [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nDraft Info 2024: Rd 3, Pk 83 (LAR)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Marshall, VA"
+          ],
+          "title": "Blake Corum Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives Marshall, Virginia as his birthplace. The ESPN profile describes his starting workouts before school in fifth grade. ESPN reports his four-season Michigan rushing totals. NFL.com states his 2023 school-record 27 touchdowns. ESPN\u2019s championship coverage reports his Offensive MVP performance and gives the game\u2019s rushing totals, with the adjacent segment identifying it as a national championship game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429096/blake-corum",
+          "excerpts": [
+            "College [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nDraft Info 2024: Rd 3, Pk 83 (LAR)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Marshall, VA"
+          ],
+          "title": "Blake Corum Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35031756/blake-corum-heisman-journey-small-town-michigan-big-house",
+          "excerpts": [
+            "Blake began working out before school in fifth grade. James took him to train with local high school players and their strength coach. Blake also had several private coaches.\n\n\"From fifth grade to eighth grade, I was consistent,\" Blake said. \"My parents made me show them what I really wanted ... before they put in the sacrifice.\"\n\nWhen Blake reached high school, the family faced a decision. Fauquier High, where James played running back and cornerback, was no longer the county's only high school."
+          ],
+          "title": "Blake Corum's journey from small-town Virginia to Michigan's Big House - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40205654/los-angeles-rams-kyren-williams-blake-corum-running-backs-depth-chart",
+          "excerpts": [
+            "Evans](https://www.espn.com/nfl/player/_/id/4685035/zach-evans) make up the rest of the current depth chart.\n\nIn four seasons at Michigan, Corum ran for 3,737 yards and 58 touchdowns on 675 carries. During his senior season, he had a lot of success in the red zone, scoring 27 touchdowns as part of Michigan's national championship season."
+          ],
+          "title": "Rams hope Blake Corum is right RB2 for Kyren Williams - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/rams-select-michigan-rb-blake-corum-with-no-83-pick-in-2024-nfl-draft",
+          "excerpts": [
+            "The engine behind Michigan\u2019s national championship run, Corum powered Harbaugh's offense, picking up chunk gains behind an excellent offensive line. When the Wolverines needed a play to steady the offense over the past two seasons, they leaned on Corum, and he delivered.\n\nThe running back generated 1,463 yards and 18 touchdowns in 12 games in 2022, helping Michigan's run to the College Football Playoff, but he suffered a knee injury that knocked him out of the final two games of the campaign. Corum decided to eschew the draft last season and return to Ann Arbor, where he again shined, earning 1,245 yards and a school-record 27 touchdowns in 2023. He finished his career at Michigan with a school-record 58 career TDs.\n\nThe 23-year-old boasts excellent vision, able to see the hole and bounce to the gap."
+          ],
+          "title": "Rams select Michigan RB Blake Corum with No. 83 pick in 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39269723/michigan-wolverines-top-washington-huskies-win-cfp-title",
+          "excerpts": [
+            "Corum](https://www.espn.com/college-football/player/_/id/4429096/blake-corum) and Edwards. They each ran for over 100 yards and together accounted for four touchdowns. Corum, who missed last year's CFP with a knee injury, was named the game's Offensive MVP after totaling 134 yards and two touchdowns.",
+            "\"That was a spectacular game by our defense,\" Harbaugh said.\n\n## Corum, Edwards Run Michigan To Title\n\nBlake Corum and Donovan Edwards combined to rush for 237 yards and 4 TDs, becoming the fourth tandem to both rush for 100 yards in a national championship game since the title game was instituted"
+          ],
+          "title": "Michigan tops Washington to win CFP national championship - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The biography lists Blake Corum\u2019s draft information as 2024, round 3, pick 83, for the Rams.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429096/blake-corum",
+          "excerpts": [
+            "* Draft Info\n  \n  2024: Rd 3, Pk 83 (LAR)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* CAR\n  \n  103\n  \n  27th\n  \n  YDS\n  \n  547\n  \n  16th\n  \n  TD\n  \n  5"
+          ],
+          "title": "Blake Corum Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography states his birthplace is Marshall, Virginia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429096/blake-corum",
+          "excerpts": [
+            "College [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nDraft Info 2024: Rd 3, Pk 83 (LAR)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Marshall, VA"
+          ],
+          "title": "Blake Corum Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The article says Blake Corum began working out before school in fifth grade.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35031756/blake-corum-heisman-journey-small-town-michigan-big-house",
+          "excerpts": [
+            "Blake began working out before school in fifth grade. James took him to train with local high school players and their strength coach. Blake also had several private coaches.\n\n\"From fifth grade to eighth grade, I was consistent,\" Blake said. \"My parents made me show them what I really wanted ... before they put in the sacrifice.\"\n\nWhen Blake reached high school, the family faced a decision. Fauquier High, where James played running back and cornerback, was no longer the county's only high school."
+          ],
+          "title": "Blake Corum's journey from small-town Virginia to Michigan's Big House - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article gives his Michigan totals as 3,737 rushing yards and 58 touchdowns across four seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40205654/los-angeles-rams-kyren-williams-blake-corum-running-backs-depth-chart",
+          "excerpts": [
+            "Evans](https://www.espn.com/nfl/player/_/id/4685035/zach-evans) make up the rest of the current depth chart.\n\nIn four seasons at Michigan, Corum ran for 3,737 yards and 58 touchdowns on 675 carries. During his senior season, he had a lot of success in the red zone, scoring 27 touchdowns as part of Michigan's national championship season."
+          ],
+          "title": "Rams hope Blake Corum is right RB2 for Kyren Williams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com identifies his 27 touchdowns in 2023 as a school record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/rams-select-michigan-rb-blake-corum-with-no-83-pick-in-2024-nfl-draft",
+          "excerpts": [
+            "The engine behind Michigan\u2019s national championship run, Corum powered Harbaugh's offense, picking up chunk gains behind an excellent offensive line. When the Wolverines needed a play to steady the offense over the past two seasons, they leaned on Corum, and he delivered.\n\nThe running back generated 1,463 yards and 18 touchdowns in 12 games in 2022, helping Michigan's run to the College Football Playoff, but he suffered a knee injury that knocked him out of the final two games of the campaign. Corum decided to eschew the draft last season and return to Ann Arbor, where he again shined, earning 1,245 yards and a school-record 27 touchdowns in 2023. He finished his career at Michigan with a school-record 58 career TDs.\n\nThe 23-year-old boasts excellent vision, able to see the hole and bounce to the gap."
+          ],
+          "title": "Rams select Michigan RB Blake Corum with No. 83 pick in 2024 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN coverage names Blake Corum the game\u2019s Offensive MVP after 134 yards and two touchdowns; the adjoining segment identifies the game as a national championship game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39269723/michigan-wolverines-top-washington-huskies-win-cfp-title",
+          "excerpts": [
+            "Corum](https://www.espn.com/college-football/player/_/id/4429096/blake-corum) and Edwards. They each ran for over 100 yards and together accounted for four touchdowns. Corum, who missed last year's CFP with a knee injury, was named the game's Offensive MVP after totaling 134 yards and two touchdowns.",
+            "\"That was a spectacular game by our defense,\" Harbaugh said.\n\n## Corum, Edwards Run Michigan To Title\n\nBlake Corum and Donovan Edwards combined to rush for 237 yards and 4 TDs, becoming the fourth tandem to both rush for 100 yards in a national championship game since the title game was instituted"
+          ],
+          "title": "Michigan tops Washington to win CFP national championship - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

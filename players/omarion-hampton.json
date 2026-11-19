@@ -1,0 +1,48 @@
+{
+  "name": "Omarion Hampton",
+  "espn_id": "4685382",
+  "team": "Los Angeles Chargers",
+  "team_abbr": "LAC",
+  "number": "8",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "North Carolina",
+  "experience": 2,
+  "fun_facts": [
+    "Omarion ran for 88 touchdowns in high school.",
+    "Omarion scored five touchdowns in one game against Florida State.",
+    "Omarion set a North Carolina college record with 2,033 all-purpose yards in 2024."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "LAC",
+        "9",
+        "124",
+        "545",
+        "4.4",
+        "4"
+      ],
+      [
+        "2026",
+        "LAC",
+        "9",
+        "124",
+        "474",
+        "3.8",
+        "4"
+      ]
+    ]
+  }
+}

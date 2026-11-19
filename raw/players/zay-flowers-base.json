@@ -1,0 +1,171 @@
+{
+  "run_id": "trun_415f3f698c1f435baa1ab85f84165d54",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 64.8,
+  "input": {
+    "player": "Zay Flowers",
+    "team": "Baltimore Ravens",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Boston College",
+    "fun_facts": [
+      "Zay Flowers grew up in Fort Lauderdale, Florida, as the 11th of 14 children.",
+      "Across four seasons at Boston College, Zay Flowers had 200 catches, 3,056 receiving yards, and 29 touchdowns.",
+      "In 2022, Zay Flowers set Boston College\u2019s single-season record with 78 catches; he also had 1,077 yards and 12 touchdowns that season.",
+      "Zay Flowers set Ravens rookie receiving records with 77 catches for 858 yards.",
+      "Zay Flowers became the first Ravens player to record a 1,000-yard receiving season within the first two years of his career."
+    ],
+    "draft": "2023, round 1, pick 22"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL.com passage says Zay Flowers was a three-year starter at Boston College, directly identifying his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/ravens-select-boston-college-wr-zay-flowers-with-no-22-overall-pick-in-2023-nfl-",
+          "excerpts": [
+            "A three-year starter at Boston College, Flowers racked up 200 catches for 3,056 yards and 29 touchdowns over four seasons with the Eagles. In 2022, he set a BC record for catches in a single season with 78, going for 1,077 yards and 12 touchdowns."
+          ],
+          "title": "Ravens select Boston College WR Zay Flowers with No. 22 overall pick in 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages report Flowers\u2019s Fort Lauderdale upbringing and place among 14 children; his Boston College career totals and 2022 single-season catches record; his Ravens rookie receiving records; and his distinction as the first Raven with a 1,000-yard receiving season within his first two years.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/33860761/why-boston-college-football-star-zay-flowers-turned-big-money-offers-transfer",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=33860761)\n\nBoston College star wide receiver [Zay Flowers](https://www.espn.com/college-football/player/_/id/4429615/zay-flowers) grew up in Fort Lauderdale, Florida, as the 11th of 14 children. His mother died in 2005, leaving his father, Willie, to drive a truck for a medical device company to provide for the family.\n\nFlowers received a football scholarship to Boston College in 2019 and earned All-ACC honors as a wide receiver with a breakout 2020 season. He enters 2022 as one of the sport's best receivers and a strong NFL draft prospect."
+          ],
+          "title": "Why Boston College football star Zay Flowers turned down big-money offers to transfer - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/ravens-select-boston-college-wr-zay-flowers-with-no-22-overall-pick-in-2023-nfl-",
+          "excerpts": [
+            "A three-year starter at Boston College, Flowers racked up 200 catches for 3,056 yards and 29 touchdowns over four seasons with the Eagles. In 2022, he set a BC record for catches in a single season with 78, going for 1,077 yards and 12 touchdowns."
+          ],
+          "title": "Ravens select Boston College WR Zay Flowers with No. 22 overall pick in 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39417616/afc-championship-game-ravens-zay-flowers-fumble-chiefs",
+          "excerpts": [
+            "\"We all make mistakes,\" Jackson said. \"It's his first season. It's my first time in this situation. It's his first time in this situation. We're going to bounce back. Nobody played the game perfect.\"\n\nFlowers, who was the No. 22 pick of the 2023 draft, had the best rookie season for a wide receiver in team history. He set Ravens rookie records with 77 receptions for 858 yards.\n\nIn the AFC Championship Game, Flowers was the only impactful wide receiver for Baltimore. He caught five passes for 115 yards and scored on a 30-yard touchdown reception in the first quarter."
+          ],
+          "title": "Ravens' Zay Flowers not letting fumble define him - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43251113/2025-nfl-pro-bowl-afc-nfc-players-teams-watch",
+          "excerpts": [
+            "A first-round pick in 2023, Flowers produced a career-high 1,047 receiving yards this season to become the first Ravens player to record a 1,000-yard receiving season within the first two years of his career."
+          ],
+          "title": "2025 NFL Pro Bowl AFC, NFC rosters: The league's top players - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography lists Flowers\u2019s draft information as 2023, round 1, pick 22 for Baltimore.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4429615/zay-flowers",
+          "excerpts": [
+            "* Draft Info\n  \n  2023: Rd 1, Pk 22 (BAL)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  43\n  \n  Tied-18th\n  \n  YDS\n  \n  614"
+          ],
+          "title": "Zay Flowers - Baltimore Ravens Wide Receiver - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage states that Flowers grew up in Fort Lauderdale and was the 11th of 14 children.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/33860761/why-boston-college-football-star-zay-flowers-turned-big-money-offers-transfer",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=33860761)\n\nBoston College star wide receiver [Zay Flowers](https://www.espn.com/college-football/player/_/id/4429615/zay-flowers) grew up in Fort Lauderdale, Florida, as the 11th of 14 children. His mother died in 2005, leaving his father, Willie, to drive a truck for a medical device company to provide for the family.\n\nFlowers received a football scholarship to Boston College in 2019 and earned All-ACC honors as a wide receiver with a breakout 2020 season. He enters 2022 as one of the sport's best receivers and a strong NFL draft prospect."
+          ],
+          "title": "Why Boston College football star Zay Flowers turned down big-money offers to transfer - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage gives Flowers\u2019s four-season Boston College totals: 200 catches, 3,056 yards, and 29 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/ravens-select-boston-college-wr-zay-flowers-with-no-22-overall-pick-in-2023-nfl-",
+          "excerpts": [
+            "A three-year starter at Boston College, Flowers racked up 200 catches for 3,056 yards and 29 touchdowns over four seasons with the Eagles. In 2022, he set a BC record for catches in a single season with 78, going for 1,077 yards and 12 touchdowns."
+          ],
+          "title": "Ravens select Boston College WR Zay Flowers with No. 22 overall pick in 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says Flowers set Boston College\u2019s single-season catches record with 78 in 2022, alongside 1,077 yards and 12 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/ravens-select-boston-college-wr-zay-flowers-with-no-22-overall-pick-in-2023-nfl-",
+          "excerpts": [
+            "A three-year starter at Boston College, Flowers racked up 200 catches for 3,056 yards and 29 touchdowns over four seasons with the Eagles. In 2022, he set a BC record for catches in a single season with 78, going for 1,077 yards and 12 touchdowns."
+          ],
+          "title": "Ravens select Boston College WR Zay Flowers with No. 22 overall pick in 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage states Flowers set Ravens rookie records with 77 receptions and 858 receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39417616/afc-championship-game-ravens-zay-flowers-fumble-chiefs",
+          "excerpts": [
+            "\"We all make mistakes,\" Jackson said. \"It's his first season. It's my first time in this situation. It's his first time in this situation. We're going to bounce back. Nobody played the game perfect.\"\n\nFlowers, who was the No. 22 pick of the 2023 draft, had the best rookie season for a wide receiver in team history. He set Ravens rookie records with 77 receptions for 858 yards.\n\nIn the AFC Championship Game, Flowers was the only impactful wide receiver for Baltimore. He caught five passes for 115 yards and scored on a 30-yard touchdown reception in the first quarter."
+          ],
+          "title": "Ravens' Zay Flowers not letting fumble define him - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Flowers became the first Ravens player to have a 1,000-yard receiving season within the first two years of his career.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43251113/2025-nfl-pro-bowl-afc-nfc-players-teams-watch",
+          "excerpts": [
+            "A first-round pick in 2023, Flowers produced a career-high 1,047 receiving yards this season to become the first Ravens player to record a 1,000-yard receiving season within the first two years of his career."
+          ],
+          "title": "2025 NFL Pro Bowl AFC, NFC rosters: The league's top players - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

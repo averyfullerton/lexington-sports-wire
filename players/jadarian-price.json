@@ -1,0 +1,39 @@
+{
+  "name": "Jadarian Price",
+  "espn_id": "4685512",
+  "team": "Seattle Seahawks",
+  "team_abbr": "SEA",
+  "number": "8",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Notre Dame",
+  "experience": 0,
+  "fun_facts": [
+    "Jadarian ran back three kickoffs for touchdowns in college.",
+    "Jadarian scored on a 99-yard kickoff return against USC in college.",
+    "Jadarian ran for 21 touchdowns in college without starting a game."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "SEA",
+        "6",
+        "56",
+        "208",
+        "3.7",
+        "1"
+      ]
+    ]
+  }
+}
