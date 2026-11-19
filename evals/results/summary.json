@@ -1,0 +1,1316 @@
+{
+ "date": "2026-11-19",
+ "model": "gpt-6.1-terra",
+ "judge": "gpt-6-sol",
+ "allowlist": [
+  "nfl.com",
+  "espn.com",
+  "pro-football-reference.com",
+  "jaguars.com",
+  "commanders.com"
+ ],
+ "suites": [
+  {
+   "key": "facts",
+   "title": "30 easier questions",
+   "note": "Week 10 scores, stat lines, kickers, season totals, play-by-play details and two games not yet played. Two clean rounds per tool; up to 20 searches per question.",
+   "tool_calls": 20,
+   "arms": [
+    {
+     "key": "parallel-advanced",
+     "label": "Parallel Advanced",
+     "ran": true,
+     "rounds": 2,
+     "correct": [
+      30,
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.0197416925,
+     "cost_per_resolved": 0.0197416925,
+     "p50": 11.31,
+     "p95": 15.8,
+     "searches_per_question": 1.2333333333333334,
+     "cited": 66,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "parallel-fast",
+     "label": "Parallel Fast",
+     "ran": true,
+     "rounds": 2,
+     "correct": [
+      30,
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.016424576666666666,
+     "cost_per_resolved": 0.016424576666666666,
+     "p50": 9.2,
+     "p95": 13.2,
+     "searches_per_question": 1.15,
+     "cited": 68,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "openai-search",
+     "label": "OpenAI web search",
+     "ran": true,
+     "rounds": 2,
+     "correct": [
+      30,
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.024052921666666668,
+     "cost_per_resolved": 0.024052921666666668,
+     "p50": 5.25,
+     "p95": 15.24,
+     "searches_per_question": 1.2666666666666666,
+     "cited": 64,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "baseline",
+     "label": "Baseline (no search)",
+     "ran": true,
+     "rounds": 2,
+     "correct": [
+      0,
+      0
+     ],
+     "total": 30,
+     "accuracy": 0.0,
+     "cost_per_question": 0.002506766666666667,
+     "cost_per_resolved": null,
+     "p50": 8.36,
+     "p95": 17.42,
+     "searches_per_question": 0.0,
+     "cited": 0,
+     "cited_off": 0,
+     "failed": 0
+    }
+   ],
+   "questions": [
+    {
+     "id": "nfl-01",
+     "category": "score",
+     "problem": "What was the final score of the Jacksonville Jaguars at Tennessee Titans game on November 15, 2026?",
+     "answer": "Jaguars 40, Titans 23",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-02",
+     "category": "score",
+     "problem": "What was the final score of the Washington Commanders at New York Giants game on Thursday, November 12, 2026?",
+     "answer": "Commanders 24, Giants 21",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-03",
+     "category": "score",
+     "problem": "What was the final score of the Monday Night Football game on November 16, 2026, Los Angeles Chargers at Baltimore Ravens?",
+     "answer": "Chargers 23, Ravens 20",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-04",
+     "category": "qb",
+     "problem": "How many passing yards did Trevor Lawrence throw for against the Tennessee Titans on November 15, 2026?",
+     "answer": "352 passing yards (25 of 35, 3 TD, 1 INT)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-05",
+     "category": "qb",
+     "problem": "What was Joe Burrow's completion line (completions/attempts) against the Pittsburgh Steelers on November 15, 2026?",
+     "answer": "35 of 44 (409 yards, 4 TD)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-06",
+     "category": "qb",
+     "problem": "What was Drew Lock's passing line against the Las Vegas Raiders on November 15, 2026 (completions, attempts, yards, touchdowns)?",
+     "answer": "14 of 17 for 240 yards and 2 touchdowns",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-07",
+     "category": "qb",
+     "problem": "How many touchdown passes did Patrick Mahomes throw against the Atlanta Falcons on November 15, 2026?",
+     "answer": "5",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-08",
+     "category": "qb",
+     "problem": "How many interceptions did Jayden Daniels throw against the Giants on November 12, 2026, and how many had he thrown in the 2026 season before that game?",
+     "answer": "2 interceptions in the game; 0 before it (they were his first two of the season)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-09",
+     "category": "kicker",
+     "problem": "How many field goals did Jaguars kicker Cam Little make against the Titans on November 15, 2026, and what was the longest?",
+     "answer": "4 of 4; longest was 48 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-10",
+     "category": "kicker",
+     "problem": "Titans kicker Joey Slye made three field goals against the Jaguars on November 15, 2026. What were their distances?",
+     "answer": "53, 54 and 50 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-11",
+     "category": "kicker",
+     "problem": "Who kicked the game-winning field goal as time expired in the Carolina Panthers at New Orleans Saints game on November 15, 2026, and how long was it?",
+     "answer": "Ryan Fitzgerald, 54 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-12",
+     "category": "kicker",
+     "problem": "Which kicker missed an extra point in the San Francisco 49ers at Dallas Cowboys game on November 15, 2026?",
+     "answer": "Brandon Aubrey (Cowboys), in the second quarter",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-13",
+     "category": "season",
+     "problem": "How many receiving yards did Jaguars wide receiver Parker Washington have in the 2026 regular season through Week 10?",
+     "answer": "645 receiving yards (36 catches, 6 TD)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-14",
+     "category": "season",
+     "problem": "How many field goals had Cam Little made and attempted in the 2026 regular season through Week 10, and what was his longest?",
+     "answer": "18 of 20; longest 60 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-15",
+     "category": "season",
+     "problem": "How many interceptions did Travis Hunter have in the 2026 regular season through Week 10?",
+     "answer": "3",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-16",
+     "category": "evergreen",
+     "problem": "What was Cam Little's longest made field goal in the 2025 NFL regular season?",
+     "answer": "68 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-17",
+     "category": "evergreen",
+     "problem": "How many receptions did Ja'Marr Chase have in the 2025 NFL regular season?",
+     "answer": "125 receptions (1,412 yards)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-18",
+     "category": "evergreen",
+     "problem": "How many interceptions did Jaguars safety Antonio Johnson have in the 2025 NFL regular season?",
+     "answer": "5 (one returned for a touchdown)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-19",
+     "category": "obscure",
+     "problem": "In the Jaguars at Titans game on November 15, 2026, Titans kicker Joey Slye forced a fumble on a third-quarter kickoff return. Which Jaguars player fumbled, and who recovered it?",
+     "answer": "Josh Cameron fumbled; Jaguars linebacker Jahlani Tavai recovered, so Jacksonville kept the ball",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-20",
+     "category": "obscure",
+     "problem": "In the Dolphins at Colts game on November 15, 2026, Colts defensive lineman Adetomiwa Adebawore recovered a fumble for a touchdown. Which Colts player forced that fumble?",
+     "answer": "Cornerback Justin Walley, on a sack of Kyle McCord",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-21",
+     "category": "obscure",
+     "problem": "Which Miami Dolphins player returned an interception for a touchdown against the Colts on November 15, 2026, and how long was the return?",
+     "answer": "Chris Johnson, 59 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-22",
+     "category": "obscure",
+     "problem": "Late in the fourth quarter of the Chargers at Ravens game on November 16, 2026, Zay Flowers lost a fumble. Which Chargers player forced it?",
+     "answer": "Cornerback Tarheeb Still",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-23",
+     "category": "obscure",
+     "problem": "How many total tackles did Jaguars safety Antonio Johnson record against the Titans on November 15, 2026, and did he have a sack?",
+     "answer": "5 total tackles (3 solo), including 1 sack",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-24",
+     "category": "obscure",
+     "problem": "With 43 seconds left in the 49ers at Cowboys game on November 15, 2026, the Cowboys converted a two-point try. Who scored it, and was it a run or a pass?",
+     "answer": "Dak Prescott, on a run",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-25",
+     "category": "obscure",
+     "problem": "Was there any kickoff return or punt return touchdown in Week 10 of the 2026 NFL regular season (November 12-16)?",
+     "answer": "No. None of the 14 Week 10 games had a kickoff or punt return touchdown",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-26",
+     "category": "narrative",
+     "problem": "Kirk Cousins played his first game back with the Minnesota Vikings on November 15, 2026. Which team did Minnesota acquire him from, and how many touchdown passes did he throw?",
+     "answer": "Acquired from the Las Vegas Raiders; he threw 2 touchdown passes (21 of 31, 207 yards, 1 INT) in a 30-10 win at Green Bay",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-27",
+     "category": "narrative",
+     "problem": "Wide receiver Josh Downs played his first game for the Kansas City Chiefs on November 15, 2026. Which team was he traded from, and did he score a touchdown?",
+     "answer": "The Indianapolis Colts; yes, he caught 1 touchdown pass (4 catches, 53 yards)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-28",
+     "category": "narrative",
+     "problem": "Fernando Mendoza made his first start for the Las Vegas Raiders on November 15, 2026. Which team beat them, and how many times was he sacked?",
+     "answer": "The Seattle Seahawks (21-13); he was sacked 6 times",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-29",
+     "category": "not_played",
+     "problem": "What was the final score of the Jacksonville Jaguars at New York Giants game on November 22, 2026?",
+     "answer": "That game has not been played yet; it is scheduled for Sunday, November 22, 2026",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    },
+    {
+     "id": "nfl-30",
+     "category": "not_played",
+     "problem": "How many passing yards did Jayden Daniels throw for against the Cincinnati Bengals on Monday Night Football, November 23, 2026?",
+     "answer": "That game has not been played yet; it is scheduled for Monday, November 23, 2026",
+     "marks": {
+      "parallel-advanced": {
+       "right": 2,
+       "of": 2
+      },
+      "parallel-fast": {
+       "right": 2,
+       "of": 2
+      },
+      "openai-search": {
+       "right": 2,
+       "of": 2
+      },
+      "baseline": {
+       "right": 0,
+       "of": 2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "key": "hard",
+   "title": "20 harder questions",
+   "note": "Mostly whole-week questions (leaders, ties, games within 3 points), plus multi-step and trick questions. One round per tool; up to 5 searches per question; baseline not run.",
+   "tool_calls": 5,
+   "arms": [
+    {
+     "key": "parallel-advanced",
+     "label": "Parallel Advanced",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      18
+     ],
+     "total": 20,
+     "accuracy": 0.9,
+     "cost_per_question": 0.04882634,
+     "cost_per_resolved": 0.054251488888888894,
+     "p50": 20.32,
+     "p95": 35.44,
+     "searches_per_question": 2.55,
+     "cited": 26,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "parallel-fast",
+     "label": "Parallel Fast",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      16
+     ],
+     "total": 20,
+     "accuracy": 0.8,
+     "cost_per_question": 0.04604487,
+     "cost_per_resolved": 0.0575560875,
+     "p50": 18.29,
+     "p95": 32.16,
+     "searches_per_question": 2.35,
+     "cited": 25,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "openai-search",
+     "label": "OpenAI web search",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      13
+     ],
+     "total": 20,
+     "accuracy": 0.65,
+     "cost_per_question": 0.057816,
+     "cost_per_resolved": 0.08894769230769231,
+     "p50": 23.2,
+     "p95": 37.83,
+     "searches_per_question": 3.75,
+     "cited": 22,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "baseline",
+     "label": "Baseline (no search)",
+     "ran": false
+    }
+   ],
+   "questions": [
+    {
+     "id": "hard-01",
+     "category": "aggregate",
+     "problem": "Which team gained the most total yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many yards?",
+     "answer": "San Francisco 49ers, 584 total yards (at Dallas)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-02",
+     "category": "aggregate",
+     "problem": "Which team gained the fewest total yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many yards?",
+     "answer": "Arizona Cardinals, 123 total yards (vs. the Rams)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 0,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 0,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-03",
+     "category": "aggregate",
+     "problem": "Which team had the most penalty yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026)?",
+     "answer": "Carolina Panthers: 17 penalties for 152 yards (at New Orleans)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-04",
+     "category": "aggregate",
+     "problem": "Which player had the most receiving yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "Ja'Marr Chase (Bengals), 231 receiving yards on 11 catches",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-05",
+     "category": "aggregate",
+     "problem": "Which player had the most rushing yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "James Cook III (Bills), 157 rushing yards on 18 carries",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-06",
+     "category": "aggregate",
+     "problem": "What was the most receptions any player had in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and which player or players had that many?",
+     "answer": "11 receptions, a three-way tie: Ja'Marr Chase (Bengals), George Pickens (Cowboys) and Jordyn Tyson (Saints). All three names are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 0,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-07",
+     "category": "aggregate",
+     "problem": "How many games in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026) were decided by 3 points or fewer? List them.",
+     "answer": "5 games: Browns 27-24 Texans, Panthers 20-17 Saints, Colts 24-22 Dolphins, Commanders 24-21 Giants, Chargers 23-20 Ravens",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-08",
+     "category": "aggregate",
+     "problem": "Which game had the most combined points in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and what was the score?",
+     "answer": "49ers 46, Cowboys 40 (86 combined points)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-09",
+     "category": "aggregate",
+     "problem": "Which team was sacked the most times in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many times?",
+     "answer": "Green Bay Packers, sacked 8 times (vs. the Vikings)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-10",
+     "category": "aggregate",
+     "problem": "Which player recorded the most total tackles in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "Payton Wilson (Steelers), 19 total tackles",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 0,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 0,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-11",
+     "category": "aggregate",
+     "problem": "Who had the longest punt in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how long was it?",
+     "answer": "Jordan Stout (Giants), 68 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 0,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 0,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-12",
+     "category": "aggregate",
+     "problem": "Which game had the largest attendance in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and what was it?",
+     "answer": "49ers at Cowboys, 90,763",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-13",
+     "category": "aggregate",
+     "problem": "What was the longest touchdown play in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026)? Name the player or players and the length.",
+     "answer": "74 yards, a tie: James Cook III's 74-yard touchdown run (Bills at Jets) and Christian McCaffrey's 74-yard touchdown catch from Brock Purdy (49ers at Cowboys). Both are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-14",
+     "category": "drive",
+     "problem": "In the Los Angeles Rams at Arizona Cardinals game on November 15, 2026, the Rams' final drive ran out the clock. How many plays, how many yards, and how much game time did it take?",
+     "answer": "17 plays, 79 yards, 12:15 of game clock",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-15",
+     "category": "box",
+     "problem": "What were the Tennessee Titans' third-down conversions (made of attempts) against the Jacksonville Jaguars on November 15, 2026?",
+     "answer": "2 of 11",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-16",
+     "category": "compare",
+     "problem": "In Week 10 of the 2026 NFL season, who had the higher passer rating: Joe Burrow against the Steelers or Brock Purdy against the Cowboys? Give both ratings.",
+     "answer": "Brock Purdy, 154.5; Joe Burrow, 135.7",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-17",
+     "category": "multi_hop",
+     "problem": "Which college did the kicker who made the game-winning field goal as time expired in the Carolina Panthers at New Orleans Saints game on November 15, 2026 play for?",
+     "answer": "Florida State (the kicker was Ryan Fitzgerald)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-18",
+     "category": "multi_hop",
+     "problem": "Which college did the player with the most receiving yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026) attend?",
+     "answer": "LSU (the player was Ja'Marr Chase, 231 yards)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-19",
+     "category": "false_premise",
+     "problem": "Which Jacksonville Jaguars player returned a punt for a touchdown against the Tennessee Titans on November 15, 2026?",
+     "answer": "No one. There was no punt or kickoff return touchdown in that game.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    },
+    {
+     "id": "hard-20",
+     "category": "older_season",
+     "problem": "What was the Jacksonville Jaguars' regular-season record in the 2025 NFL season?",
+     "answer": "13-4",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      },
+      "baseline": null
+     }
+    }
+   ]
+  }
+ ]
+}
