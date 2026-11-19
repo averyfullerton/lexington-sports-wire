@@ -1,17 +1,22 @@
 {% extends "base.html" %}
-{% block title %}{{ p.name }} · Lexington Sports Wire{% endblock %}
+{% block title %}{{ p.name }} · The Lexington Sports Wire{% endblock %}
 {% block content %}
-<article class="card player-card{% if pin %} pinned{% endif %}"{% if pin %} style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
-  <p class="jersey">{% if p.number %}#{{ p.number }}{% endif %}</p>
-  <h2>{{ p.name }}</h2>
-  <p class="meta">{{ p.team }} · {{ p.position }}</p>
-  <p class="meta">{% if p.college %}College: {{ p.college }}{% endif %}{% if p.experience %} · {{ p.experience }} NFL season{{ "s" if p.experience != 1 }}{% endif %}</p>
+<article class="player-card{% if pin %} pinned{% endif %}"{% if pin %} style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
+  <p class="kicker">Player File</p>
+  <div class="player-head">
+    <div>
+      <h2>{{ p.name }}</h2>
+      <p class="meta">{{ p.team }} · {{ p.position }}</p>
+      <p class="meta">{% if p.college %}College: {{ p.college }}{% endif %}{% if p.experience %} · {{ p.experience }} NFL season{{ "s" if p.experience != 1 }}{% endif %}</p>
+    </div>
+    {% if p.number %}<p class="jersey">#{{ p.number }}</p>{% endif %}
+  </div>
   {% if p.fun_facts %}
-  <h3>Fun Facts</h3>
+  <h3 class="section-head"><span>Fun Facts</span></h3>
   <ul class="fun-facts">{% for f in p.fun_facts[:3] %}<li>{{ f }}</li>{% endfor %}</ul>
   {% endif %}
   {% if p.stats and p.stats.rows %}
-  <h3>Stats by Season</h3>
+  <h3 class="section-head"><span>Stats by Season</span></h3>
   <div class="table-wrap">
   <table class="stats">
     <thead><tr>{% for col in p.stats.columns %}<th>{{ col }}</th>{% endfor %}</tr></thead>
@@ -19,6 +24,6 @@
   </table>
   </div>
   {% endif %}
-  <p><a href="/">← Back to the games</a></p>
+  <p class="back"><a href="/">← Back to the front page</a></p>
 </article>
 {% endblock %}

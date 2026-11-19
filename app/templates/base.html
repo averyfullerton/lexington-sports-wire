@@ -3,17 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title %}Lexington Sports Wire{% endblock %}</title>
+  <title>{% block title %}The Lexington Sports Wire{% endblock %}</title>
   <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-  <header>
-    <a href="/" class="brand">🏈 Lexington Sports Wire</a>
-    <form action="/search" method="get" class="search">
-      <input type="search" name="q" placeholder="Find a player or team" value="{{ q|default('') }}" aria-label="Search">
-      <button type="submit">Go</button>
-    </form>
+  <div class="paper">
+  <header class="masthead">
+    <div class="cats left">{% include "cats/notepad.svg" %}{% include "cats/binoculars.svg" %}</div>
+    <div class="nameplate">
+      <p class="motto">All the football news that's fit for a superfan</p>
+      <a href="/" class="title">The Lexington Sports Wire</a>
+      <p class="dateline"><span>{{ edition|default("") }}</span><span>{{ today|default("") }}</span><span>Free · Est. 2026</span></p>
+    </div>
+    <div class="cats right">{% include "cats/typewriter.svg" %}</div>
   </header>
   <main>{% block content %}{% endblock %}</main>
+  <footer class="colophon">Reported by our cat staff from NFL.com, ESPN, Pro Football Reference, Jaguars.com and Commanders.com.</footer>
+  </div>
 </body>
 </html>

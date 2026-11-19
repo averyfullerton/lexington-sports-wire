@@ -1,40 +1,44 @@
 {% extends "base.html" %}
 {% block content %}
-<section>
-  <h2>Last Week's Games</h2>
-  {% for g in last_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
-</section>
-<section>
-  <h2>Next Week's Games</h2>
-  {% for g in next_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
-</section>
-<section>
-  <h2>5 Big Stories</h2>
-  {% for s in stories %}
-    <article class="story"><p class="story-num">{{ loop.index }}</p><h3>{{ s.title }}</h3>{{ glossify(s.paragraph, s.big_words, "story" ~ loop.index) }}</article>
-  {% else %}<p class="empty">No stories yet. Check back soon!</p>{% endfor %}
-</section>
-<section>
-  <h2>Playoff Picture</h2>
-  {% if standings %}
-  <div class="conferences">
+<div class="columns">
+  <section class="col stories-col">
+    <h2 class="section-head"><span>The Big Five</span><small>This week's top stories</small></h2>
+    {% for s in stories %}
+      <article class="story{% if loop.first %} lead{% endif %}">
+        <h3><span class="num">{{ loop.index }}</span>{{ s.title }}</h3>
+        {{ glossify(s.paragraph, s.big_words, "story" ~ loop.index) }}
+      </article>
+    {% else %}<p class="empty">Our reporters are still writing. Check back soon!</p>{% endfor %}
+  </section>
+
+  <section class="col standings-col">
+    <h2 class="section-head"><span>Playoff Picture</span><small>If the season ended today</small></h2>
+    {% if standings %}
     {% for conf in ["AFC", "NFC"] if standings[conf] %}
     {% set s = standings[conf] %}
-    <div class="conference">
-      <h3>{{ conf }}</h3>
-      <table class="standings">
-        <tbody>
-          <tr class="tier"><th colspan="3">Division leaders</th></tr>
-          {% for t in s.division_winners %}{% include "_standing_row.html" %}{% endfor %}
-          <tr class="tier"><th colspan="3">Wild card</th></tr>
-          {% for t in s.wild_card %}{% include "_standing_row.html" %}{% endfor %}
-          <tr class="tier out"><th colspan="3">Out of the playoffs</th></tr>
-          {% for t in s.out %}{% include "_standing_row.html" %}{% endfor %}
-        </tbody>
-      </table>
-    </div>
+    <table class="standings">
+      <caption>{{ conf }}</caption>
+      <tbody>
+        <tr class="tier"><th colspan="3">Division leaders</th></tr>
+        {% for t in s.division_winners %}{% include "_standing_row.html" %}{% endfor %}
+        <tr class="tier"><th colspan="3">Wild card</th></tr>
+        {% for t in s.wild_card %}{% include "_standing_row.html" %}{% endfor %}
+        <tr class="tier out"><th colspan="3">Out of the playoffs</th></tr>
+        {% for t in s.out %}{% include "_standing_row.html" %}{% endfor %}
+      </tbody>
+    </table>
     {% endfor %}
-  </div>
-  {% else %}<p class="empty">Standings coming soon!</p>{% endif %}
-</section>
+    {% else %}<p class="empty">Standings coming soon!</p>{% endif %}
+  </section>
+
+  <section class="col past-col">
+    <h2 class="section-head"><span>Last Week's Games</span><small>Final scores</small></h2>
+    {% for g in last_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+  </section>
+
+  <section class="col next-col">
+    <h2 class="section-head"><span>Next Week's Games</span><small>Who to watch</small></h2>
+    {% for g in next_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+  </section>
+</div>
 {% endblock %}

@@ -9,7 +9,7 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 2. **Next Week's Games:** every upcoming matchup. Records plus a short preview: who's playing, players to watch, why it matters.
 3. **5 Big Stories:** the week's top kid-friendly storylines (a star back from injury, a rivalry game, a player facing his old team, a winning or losing streak).
 4. **Player cards:** tap any player name → team, number, position, 3 fun facts, per-season stats table.
-5. **Search bar:** type a player or team name and jump to their card or games.
+5. **Layout:** a 3-column newspaper in Kentucky blue and white, with original cat-reporter illustrations (no UK logos, wordmarks or mascot art). Left: 5 Big Stories, then the Playoff Picture. Middle: last week's games. Right: next week's games. Stacks to one column on narrow screens. No search: names are tappable instead.
 
 - Jaguars and Commanders games are pinned at the top of each section and shown in team colors.
 - Reading only. No audio, no video, no outbound links, no ads, no comments.

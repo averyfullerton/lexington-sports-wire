@@ -1,11 +1,16 @@
 {% set pin = pinned.get(g.home_abbr) or pinned.get(g.away_abbr) %}
+{% set final = g.away_score is not none and g.home_score is not none %}
 <article class="game{% if pin %} pinned{% endif %}"{% if pin %} style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
-  {% if g.away_score is not none and g.home_score is not none %}
-    <h3>{{ g.away_team }} at {{ g.home_team }}</h3>
-    <p class="score">{{ g.away_score }} – {{ g.home_score }}</p>
-  {% else %}
-    <h3>{{ g.away_team }}{% if g.away_record %} ({{ g.away_record }}){% endif %} vs. {{ g.home_team }}{% if g.home_record %} ({{ g.home_record }}){% endif %}</h3>
-    {% if g.game_day %}<p class="records">{{ g.game_day }}</p>{% endif %}
-  {% endif %}
+  <div class="box">
+    {% for side in ["away", "home"] %}
+    {% set name, abbr = g[side ~ "_team"], g[side ~ "_abbr"] %}
+    {% set other = "home" if side == "away" else "away" %}
+    <div class="line{% if final and g[side ~ '_score'] > g[other ~ '_score'] %} won{% endif %}">
+      <span class="tm">{% if side == "home" %}<i>at</i> {% endif %}{{ name }}{% if pinned.get(abbr) %} <b class="star" title="Our team">★</b>{% endif %}{% if final and g[side ~ "_record"] %} <small class="rec">({{ g[side ~ "_record"] }})</small>{% endif %}</span>
+      <span class="pts">{% if final %}{{ g[side ~ "_score"] }}{% else %}{{ g[side ~ "_record"] or "" }}{% endif %}</span>
+    </div>
+    {% endfor %}
+    <p class="status">{% if final %}Final{% else %}{{ g.game_day or "" }}{% endif %}</p>
+  </div>
   {% if g.paragraph %}{{ glossify(g.paragraph, g.big_words, g.away_abbr ~ g.home_abbr ~ g.game_date) }}{% endif %}
 </article>

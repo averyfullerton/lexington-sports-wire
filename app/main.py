@@ -5,6 +5,7 @@ uv run uvicorn app.main:app --reload
 
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Request
@@ -87,9 +88,21 @@ def slugify(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
+def edition() -> dict:
+    """Masthead dateline: the week of the last refresh and today's date."""
+    week = None
+    log = DATA / "refresh_log.jsonl"
+    if log.exists():
+        lines = [l for l in log.read_text().splitlines() if l.strip()]
+        week = json.loads(lines[-1]).get("week") if lines else None
+    now = datetime.now()
+    return {"edition": f"Week {week} Edition" if week else "", "today": f"{now:%A}, {now:%B} {now.day}, {now:%Y}"}
+
+
 @app.get("/", response_class=HTMLResponse)
 def home(request: Request):
     return templates.TemplateResponse(request, "index.html", {
+        **edition(),
         "last_week": pinned_first(load("last_week.json", [])),
         "next_week": pinned_first(load("next_week.json", [])),
         "stories": load("stories.json", [])[:5],
@@ -105,22 +118,5 @@ def player(request: Request, slug: str):
     card = load(f"players/{slug}.json", None)
     if card is None:
         raise HTTPException(404)
-    return templates.TemplateResponse(request, "player.html", {"p": card, "pinned": PINNED,
+    return templates.TemplateResponse(request, "player.html", {**edition(), "p": card, "pinned": PINNED,
                                                                "pin": PINNED.get(card.get("team_abbr"))})
-
-
-@app.get("/search", response_class=HTMLResponse)
-def search(request: Request, q: str = ""):
-    q_norm = q.strip().lower()
-    players, games = [], []
-    if q_norm:
-        for path in sorted((DATA / "players").glob("[!_]*.json")) if (DATA / "players").exists() else []:
-            card = json.loads(path.read_text())
-            if q_norm in card.get("name", "").lower() or q_norm in card.get("team", "").lower():
-                players.append(card | {"slug": path.stem})
-        for g in load("last_week.json", []) + load("next_week.json", []):
-            if q_norm in (g.get("home_team", "") + " " + g.get("away_team", "")).lower():
-                games.append(g)
-    return templates.TemplateResponse(request, "search.html", {
-        "q": q, "players": players, "games": games, "pinned": PINNED,
-    })

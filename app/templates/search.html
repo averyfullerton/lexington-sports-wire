@@ -1,9 +1,0 @@
-{% extends "base.html" %}
-{% block content %}
-<section>
-  <h2>Looking for “{{ q }}”</h2>
-  {% if players %}<h3>Players</h3><ul class="results">{% for p in players %}<li><a href="/player/{{ p.slug }}">{{ p.name }}</a> · {{ p.team }}</li>{% endfor %}</ul>{% endif %}
-  {% if games %}<h3>Games</h3>{% for g in games %}{% include "_game.html" %}{% endfor %}{% endif %}
-  {% if q and not players and not games %}<p class="empty">We couldn't find that. Try another name!</p>{% endif %}
-</section>
-{% endblock %}
