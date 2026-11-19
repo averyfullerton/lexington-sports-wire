@@ -1,0 +1,6 @@
+{% set pin = pinned.get(t.abbr) %}
+<tr{% if pin %} class="pinned-row" style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
+  <td class="seed">{{ t.seed }}</td>
+  <td class="team">{{ t.team }}</td>
+  <td class="record">{{ t.record }}</td>
+</tr>

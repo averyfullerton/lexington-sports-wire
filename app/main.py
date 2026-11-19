@@ -11,6 +11,7 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from markupsafe import Markup, escape
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -19,6 +20,37 @@ PINNED = json.loads((ROOT / "config" / "pinned_teams.json").read_text())
 app = FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
 app.mount("/static", StaticFiles(directory=Path(__file__).parent / "static"), name="static")
 templates = Jinja2Templates(directory=Path(__file__).parent / "templates")
+
+
+def glossify(paragraph: str, big_words: list[dict] | None, key: str) -> Markup:
+    """Turn each big word's first use into a tappable button that opens a definition card.
+
+    Uses the HTML popover attribute, so it works on tap (iPad) with no JavaScript.
+    """
+    html = str(escape(paragraph))
+    cards = []
+    for i, w in enumerate(big_words or []):
+        word = str(escape(w.get("word", "")))
+        if not word:
+            continue
+        pid = f"w-{slugify(key)}-{i}"
+        pattern = re.compile(r"\b(" + re.escape(word) + r")\b", re.IGNORECASE)
+        html, n = pattern.subn(
+            lambda m: f'<button type="button" class="bigword" popovertarget="{pid}">{m.group(1)}</button>',
+            html, count=1)
+        if not n:
+            continue
+        cards.append(
+            f'<div id="{pid}" popover class="wordcard">'
+            f'<button type="button" class="close" popovertarget="{pid}" popovertargetaction="hide" aria-label="Close">×</button>'
+            f'<p class="word">{word}</p>'
+            f'<p class="def">{escape(w.get("definition", ""))}</p>'
+            f'<p class="ex">“{escape(w.get("example", ""))}”</p>'
+            f"</div>")
+    return Markup(f"<p>{html}</p>" + "".join(cards))
+
+
+templates.env.globals["glossify"] = glossify
 
 
 def load(name: str, default):
@@ -43,6 +75,7 @@ def home(request: Request):
         "last_week": pinned_first(load("last_week.json", [])),
         "next_week": pinned_first(load("next_week.json", [])),
         "stories": load("stories.json", [])[:5],
+        "standings": load("standings.json", {}),
         "pinned": PINNED,
     })
 

@@ -6,5 +6,5 @@
   {% elif g.away_record and g.home_record %}
     <p class="records">{{ g.away_record }} vs {{ g.home_record }}</p>
   {% endif %}
-  {% if g.paragraph %}<p>{{ g.paragraph }}</p>{% endif %}
+  {% if g.paragraph %}{{ glossify(g.paragraph, g.big_words, g.away_abbr ~ g.home_abbr ~ g.game_date) }}{% endif %}
 </article>

@@ -14,4 +14,27 @@
     <article class="story"><h3>{{ s.title }}</h3><p>{{ s.text }}</p></article>
   {% else %}<p class="empty">No stories yet. Check back soon!</p>{% endfor %}
 </section>
+<section>
+  <h2>Playoff Picture</h2>
+  {% if standings %}
+  <div class="conferences">
+    {% for conf in ["AFC", "NFC"] if standings[conf] %}
+    {% set s = standings[conf] %}
+    <div class="conference">
+      <h3>{{ conf }}</h3>
+      <table class="standings">
+        <tbody>
+          <tr class="tier"><th colspan="3">Division leaders</th></tr>
+          {% for t in s.division_winners %}{% include "_standing_row.html" %}{% endfor %}
+          <tr class="tier"><th colspan="3">Wild card</th></tr>
+          {% for t in s.wild_card %}{% include "_standing_row.html" %}{% endfor %}
+          <tr class="tier out"><th colspan="3">Out of the playoffs</th></tr>
+          {% for t in s.out %}{% include "_standing_row.html" %}{% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}<p class="empty">Standings coming soon!</p>{% endif %}
+</section>
 {% endblock %}
