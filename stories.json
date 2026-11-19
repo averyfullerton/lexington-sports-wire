@@ -1,131 +1,131 @@
 [
   {
-    "title": "Donald Gets His Sack!",
-    "paragraph": "Aaron Donald and the Rams faced the Cardinals in Arizona. In the second quarter, Donald sacked quarterback Carson Beck. It was his first sack in 1,050 days! Matthew Stafford also threw a touchdown pass to Tyler Higbee. The Rams won 34-6, making it a memorable day for Donald.",
+    "title": "Daniels Delivers Late!",
+    "paragraph": "The Commanders faced the Giants in New York. Late in the game, Washington was down 21-17. Then Jayden Daniels made a dramatic throw! He hit Stefon Diggs for a 32-yard touchdown with 57 seconds left. The Commanders won 24-21.",
     "big_words": [
       {
-        "word": "memorable",
-        "definition": "Special enough to remember for a long time.",
-        "example": "Sofia had a memorable day showing her science project."
+        "word": "dramatic",
+        "definition": "Full of action that grabs your attention.",
+        "example": "Sofia made a dramatic change to her science project."
       }
     ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50497324/rams-aaron-donald-savors-first-sack-1050-days-vs-cardinals",
-    "source_title": "Rams' Aaron Donald savors first sack in 1,050 days vs. Cardinals - ESPN",
-    "angle": "Rams star Aaron Donald made his first sack in 1,050 days, and his team won too!",
+    "source_url": "https://www.espn.com/nfl/story/_/id/50469451/commanders-jayden-daniels-redemption-game-winning-drive",
+    "source_title": "Commanders' Daniels finds redemption with game-winning drive - ESPN",
+    "angle": "Jayden Daniels threw a touchdown pass with just 49 seconds left to give the Commanders a thrilling win!",
     "attempts": 1,
     "final_safety": {
-      "arrest": 0.002,
+      "arrest": 0.0,
       "lawsuit": 0.0,
-      "suspension": 0.0,
-      "new_or_serious_injury": 0.001,
-      "death": 0.011,
-      "gambling": 0.0,
-      "abuse": 0.075,
+      "suspension": 0.001,
+      "new_or_serious_injury": 0.0,
+      "death": 0.005,
+      "gambling": 0.003,
+      "abuse": 0.001,
       "other_mature": 0.029
     },
     "official_record_used": true
   },
   {
-    "title": "Parker Helps Jaguars Roar",
-    "paragraph": "The Jaguars faced the Titans in Tennessee. Parker Washington caught a 2-yard touchdown pass from Trevor Lawrence. He got his feet down at the back of the end zone! Washington also made a dazzling 20-yard toe-tap catch. He had 148 receiving yards in the first half. His big day helped Jacksonville beat its rival 40-23.",
+    "title": "Parker Powers the Jaguars",
+    "paragraph": "The Jaguars went to Tennessee and piled up points against the Titans. Parker Washington caught a 2-yard touchdown pass from Trevor Lawrence. He made an astonishing six catches for 148 yards in the first half! One was a 50-yard catch and run that set up a field goal. Cam Little made four field goals, and the Jaguars scored 40 points. They beat the Titans 40-23 for their third win in a row.",
     "big_words": [
       {
-        "word": "dazzling",
-        "definition": "So impressive that it amazes people.",
-        "example": "Jamal made a dazzling splash at his swimming lesson."
+        "word": "astonishing",
+        "definition": "So surprising that it makes you amazed.",
+        "example": "Jamal made astonishing progress at his swimming lesson."
       }
     ],
     "source_url": "https://www.jaguars.com/news/five-key-plays-that-fueled-jaguars-40-23-victory-over-titans-in-week-10",
     "source_title": "Five Key Plays From Jaguars' Week 10 Win Over Titans",
-    "angle": "Parker Washington helped the Jaguars roar past their rival Titans 40-23.",
+    "angle": "The Jaguars piled up 40 points against the Titans, with Parker Washington having a big game.",
     "attempts": 1,
     "final_safety": {
       "arrest": 0.0,
       "lawsuit": 0.0,
       "suspension": 0.0,
-      "new_or_serious_injury": 0.001,
-      "death": 0.008,
+      "new_or_serious_injury": 0.005,
+      "death": 0.016,
       "gambling": 0.0,
       "abuse": 0.002,
-      "other_mature": 0.014
+      "other_mature": 0.015
     },
     "official_record_used": true
   },
   {
-    "title": "Chuba Powers the Panthers",
-    "paragraph": "Chuba Hubbard had a remarkable day in New Orleans. He ran for 92 yards and caught passes for 80 more. He scored a touchdown on a 2-yard run. Then he ran one yard for another touchdown! With time running out, Ryan Fitzgerald kicked a 54-yard field goal! The kick gave Carolina a 20-17 win over the Saints.",
+    "title": "Donald\u2019s Sack Is Back!",
+    "paragraph": "The Rams faced the Cardinals in Arizona. Aaron Donald got his first sack in 1,050 days! He savored the moment. Matthew Stafford also threw three touchdown passes. The Rams won 34-6. Donald said the team win felt even better.",
     "big_words": [
       {
-        "word": "remarkable",
-        "definition": "So special that people notice it.",
-        "example": "Hana's dog did a remarkable trick with a ball."
+        "word": "savored",
+        "definition": "Enjoyed something very much.",
+        "example": "Hana savored her time playing with her pet dog."
       }
     ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
-    "source_title": "Is Chuba Hubbard the X factor to spark Panthers' turnaround? - ESPN",
-    "angle": "Chuba Hubbard scored two touchdowns and piled up rushing and receiving yards in the Panthers' close win.",
+    "source_url": "https://www.espn.com/nfl/story/_/id/50497324/rams-aaron-donald-savors-first-sack-1050-days-vs-cardinals",
+    "source_title": "Rams' Aaron Donald savors first sack in 1,050 days vs. Cardinals - ESPN",
+    "angle": "Rams star Aaron Donald celebrated his first sack in 1,050 days and a team victory!",
     "attempts": 1,
     "final_safety": {
-      "arrest": 0.0,
-      "lawsuit": 0.001,
-      "suspension": 0.001,
-      "new_or_serious_injury": 0.0,
-      "death": 0.004,
-      "gambling": 0.0,
-      "abuse": 0.008,
-      "other_mature": 0.022
-    },
-    "official_record_used": true
-  },
-  {
-    "title": "No Tie This Time!",
-    "paragraph": "The Commanders and Giants met again after a 27-27 tie. This time, Cam Skattebo ran for two Giants touchdowns. Jayden Daniels tossed two touchdown passes to keep Washington close. Then Daniels found Stefon Diggs for a 32-yard touchdown! That splendid play came with 57 seconds left. Washington won 24-21, so this time there was a winner.",
-    "big_words": [
-      {
-        "word": "splendid",
-        "definition": "Very good or wonderful.",
-        "example": "Diego built a splendid tower with his blocks."
-      }
-    ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50463340/thursday-night-football-commanders-giants-highlights",
-    "source_title": "Week 10 TNF Commanders at Giants: Highlights, key plays - ESPN",
-    "angle": "The Commanders and Giants faced off again after their last game ended in a 27-27 tie.",
-    "attempts": 1,
-    "final_safety": {
-      "arrest": 0.0,
-      "lawsuit": 0.001,
+      "arrest": 0.001,
+      "lawsuit": 0.0,
       "suspension": 0.0,
-      "new_or_serious_injury": 0.0,
-      "death": 0.004,
-      "gambling": 0.001,
-      "abuse": 0.001,
-      "other_mature": 0.026
+      "new_or_serious_injury": 0.013,
+      "death": 0.007,
+      "gambling": 0.0,
+      "abuse": 0.026,
+      "other_mature": 0.021
     },
     "official_record_used": true
   },
   {
-    "title": "49ers Light Up Dallas",
-    "paragraph": "The 49ers brought a magnificent offense to Dallas. Brock Purdy tossed a 74-yard touchdown pass to Christian McCaffrey. Deebo Samuel raced 70 yards for another touchdown! Later, Purdy found McCaffrey for a 66-yard touchdown. The 49ers beat the Cowboys 46-40. Their offense showed it could score from far away.",
+    "title": "49ers Race Across the Field",
+    "paragraph": "The 49ers raced up and down the field in Dallas. They piled up 584 yards against the Cowboys. Brock Purdy tossed a 74-yard touchdown pass to Christian McCaffrey. Then Deebo Samuel Sr. ran 70 yards for a touchdown! McCaffrey caught another dazzling touchdown pass for 66 yards. All those yards helped the 49ers win 46-40.",
     "big_words": [
       {
-        "word": "magnificent",
-        "definition": "Very impressive or wonderful.",
-        "example": "Ava found a magnificent library book about the stars."
+        "word": "dazzling",
+        "definition": "So amazing that it gets your attention.",
+        "example": "Diego built a dazzling tower with his blocks."
       }
     ],
     "source_url": "https://www.espn.com/nfl/story/_/id/50498373/49ers-put-big-numbers-victory-cowboys",
     "source_title": "49ers put up big numbers in victory over Cowboys - ESPN",
-    "angle": "The 49ers showed off an explosive offense in a victory over the Cowboys.",
+    "angle": "The 49ers raced up and down the field for 584 yards in their win over the Cowboys.",
     "attempts": 1,
     "final_safety": {
       "arrest": 0.0,
       "lawsuit": 0.0,
       "suspension": 0.0,
-      "new_or_serious_injury": 0.003,
+      "new_or_serious_injury": 0.005,
       "death": 0.008,
       "gambling": 0.0,
-      "abuse": 0.002,
-      "other_mature": 0.017
+      "abuse": 0.003,
+      "other_mature": 0.016
+    },
+    "official_record_used": true
+  },
+  {
+    "title": "Chargers Hold On in Baltimore",
+    "paragraph": "The Chargers faced the Ravens in Baltimore on Monday night. Justin Herbert ran 22 yards for a touchdown. Omarion Hampton ran for a touchdown, too. But Derrick Henry scored twice to keep the Ravens close. Late in the game, Tarheeb Still forced a fumble! The Chargers held on for a 23-20 triumph, their first win of the season.",
+    "big_words": [
+      {
+        "word": "triumph",
+        "definition": "A win or great success.",
+        "example": "Ava felt triumph when she found her library book."
+      }
+    ],
+    "source_url": "https://www.nfl.com/news/chargers-ravens-on-monday-night-football-what-we-learned-from-los-angeles-23-20-win-over-baltimore",
+    "source_title": "Chargers-Ravens on 'Monday Night Football': What We Learned from Los Angeles' 23-20 win over Baltimore | Latest NFL News, Analysis & Updates | NFL.com",
+    "angle": "The Chargers edged the Ravens 23-20 in a close Monday night game.",
+    "attempts": 1,
+    "final_safety": {
+      "arrest": 0.0,
+      "lawsuit": 0.0,
+      "suspension": 0.0,
+      "new_or_serious_injury": 0.0,
+      "death": 0.006,
+      "gambling": 0.0,
+      "abuse": 0.007,
+      "other_mature": 0.031
     },
     "official_record_used": true
   }
