@@ -87,7 +87,45 @@ GAME_FACTS_SCHEMA = {
 }
 
 
-def task_spec() -> dict:
+PREVIEW_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "game_was_played": {
+            "type": "boolean",
+            "description": "True if this game has already been played. It should be false for a preview.",
+        },
+        "away_team": {"type": "string", "description": "Away team full name"},
+        "home_team": {"type": "string", "description": "Home team full name"},
+        "away_record": {"type": ["string", "null"], "description": "Away team's current win-loss(-tie) record before this game, e.g. '7-2'"},
+        "home_record": {"type": ["string", "null"], "description": "Home team's current win-loss(-tie) record before this game"},
+        "players_to_watch": {
+            "type": "array",
+            "description": "2 to 4 players to watch (at least one per team), with this season's stats so far",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string", "description": "Player's name as the roster lists it; never guess a first name from an initial"},
+                    "team": {"type": "string"},
+                    "stat_line": {"type": "string", "description": "This season's key stats so far, e.g. '2,284 passing yards, 21 TD'"},
+                },
+                "required": ["name", "team", "stat_line"],
+                "additionalProperties": False,
+            },
+        },
+        "matchup_notes": {
+            "type": "array",
+            "description": "3 to 5 factual notes about THIS season: streaks, division standings, last week's results, debuts. No history before this season, no betting odds, no predictions.",
+            "items": {"type": "string"},
+        },
+        "storyline": {"type": ["string", "null"], "description": "Why this game matters, in one or two factual sentences. No predictions."},
+    },
+    "required": ["game_was_played", "away_team", "home_team", "away_record", "home_record",
+                 "players_to_watch", "matchup_notes", "storyline"],
+    "additionalProperties": False,
+}
+
+
+def task_spec(kind: str = "recap") -> dict:
     return {
         "input_schema": {
             "type": "json",
@@ -102,7 +140,7 @@ def task_spec() -> dict:
                 },
             },
         },
-        "output_schema": {"type": "json", "json_schema": GAME_FACTS_SCHEMA},
+        "output_schema": {"type": "json", "json_schema": PREVIEW_SCHEMA if kind == "preview" else GAME_FACTS_SCHEMA},
     }
 
 
@@ -114,15 +152,15 @@ def slug(*parts: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", "-".join(parts).lower()).strip("-")
 
 
-def run_task(client: Parallel, inp: dict, processor: str) -> dict:
+def run_task(client: Parallel, inp: dict, processor: str, kind: str = "recap") -> dict:
     """Create one Task run and wait for it. Returns a plain dict for storage."""
     started = time.monotonic()
     run = client.task_run.create(
         input=inp,
-        task_spec=task_spec(),
+        task_spec=task_spec(kind),
         processor=processor,
         source_policy={"include_domains": allowed_domains()},
-        metadata={"app": "lexington-sports-wire", "step": "game_facts"},
+        metadata={"app": "lexington-sports-wire", "step": f"game_{kind}"},
     )
     while True:
         try:
@@ -172,26 +210,32 @@ def normalize(content: dict | None) -> dict | None:
     return content
 
 
-def collect_game(client: Parallel, inp: dict, processor: str) -> dict:
-    res = run_task(client, inp, processor)
+def fact_path(inp: dict, processor: str, kind: str = "recap"):
+    tag = "" if kind == "recap" else f"-{kind}"
+    return RAW_DIR / f"{slug(inp['away_team'], 'at', inp['home_team'], inp['game_date'])}{tag}-{processor}.json"
+
+
+def collect_game(client: Parallel, inp: dict, processor: str, kind: str = "recap") -> dict:
+    res = run_task(client, inp, processor, kind)
     res["flags"] = flag_basis(res["basis"])
     RAW_DIR.mkdir(parents=True, exist_ok=True)
-    path = RAW_DIR / f"{slug(inp['away_team'], 'at', inp['home_team'], inp['game_date'])}-{processor}.json"
+    path = fact_path(inp, processor, kind)
     path.write_text(json.dumps(res, indent=2))
     res["path"] = str(path)
     return res
 
 
-def collect_week(client: Parallel, season: int, week: int, processor: str) -> list[dict]:
-    """Research every completed game of a week in parallel."""
+def collect_week(client: Parallel, season: int, week: int, processor: str, kind: str = "recap") -> list[dict]:
+    """Research a week in parallel: completed games (recap) or upcoming games (preview)."""
     from pipeline.schedule import week_games
 
-    games = [g for g in week_games(season, week) if g["completed"]]
+    want_completed = kind == "recap"
+    games = [g for g in week_games(season, week) if g["completed"] == want_completed]
 
     def one(g: dict) -> dict:
         inp = game_input(g["away_team"], g["home_team"], g["game_date"], season, week)
         try:
-            res = collect_game(client, inp, processor)
+            res = collect_game(client, inp, processor, kind)
         except Exception as e:  # keep the rest of the week going; report the failure
             res = {"status": "error", "error": f"{type(e).__name__}: {e}", "input": inp}
         return {**res, "game": g}
@@ -213,7 +257,8 @@ def main() -> None:
     ap.add_argument("--away")
     ap.add_argument("--home")
     ap.add_argument("--date")
-    ap.add_argument("--all-games", action="store_true", help="every completed game in --week")
+    ap.add_argument("--all-games", action="store_true", help="every game in --week (completed for recap, upcoming for preview)")
+    ap.add_argument("--kind", choices=["recap", "preview"], default="recap")
     ap.add_argument("--season", type=int, default=2026)
     ap.add_argument("--week", type=int, required=True)
     ap.add_argument("--processors", nargs="+", default=["core"])
@@ -222,7 +267,7 @@ def main() -> None:
     load_dotenv()
     client = Parallel()
     if args.all_games:
-        results = collect_week(client, args.season, args.week, args.processors[0])
+        results = collect_week(client, args.season, args.week, args.processors[0], args.kind)
         for r in results:
             g = r["game"]
             line = f"{g['away_abbr']}@{g['home_abbr']}: {r['status']}"

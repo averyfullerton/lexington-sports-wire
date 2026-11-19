@@ -71,3 +71,28 @@ def fix_fact_sheet(content: dict, players: list[str]) -> list[tuple[str, str]]:
 
     content.update(walk(content))
     return sorted(set(all_fixes))
+
+
+ROSTER = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{abbr}/roster"
+UNAVAILABLE_GROUPS = {"injuredReserveOrOut", "suspended"}
+
+
+def team_roster(abbr: str) -> dict:
+    """{"active": [...names], "unavailable": [...names]} from the team's current ESPN roster."""
+    r = httpx.get(ROSTER.format(abbr=abbr.lower()), timeout=30)
+    r.raise_for_status()
+    out = {"active": [], "unavailable": []}
+    for group in r.json()["athletes"]:
+        key = "unavailable" if group.get("position") in UNAVAILABLE_GROUPS else "active"
+        out[key] += [a["displayName"] for a in group["items"]]
+    return out
+
+
+def drop_unavailable(content: dict, unavailable: list[str]) -> list[str]:
+    """Remove players to watch who are out (injured reserve, out, suspended); returns their names."""
+    out = {n.lower() for n in unavailable}
+    keep, dropped = [], []
+    for p in content.get("players_to_watch") or []:
+        (dropped if p["name"].lower() in out else keep).append(p)
+    content["players_to_watch"] = keep
+    return [p["name"] for p in dropped]

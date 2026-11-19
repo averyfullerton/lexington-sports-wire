@@ -28,6 +28,7 @@ def week_games(season: int, week: int) -> list[dict]:
             "away_abbr": teams["away"]["abbreviation"],
             "home_abbr": teams["home"]["abbreviation"],
             "game_date": kickoff.date().isoformat(),
+            "game_day": f"{kickoff:%A}, {kickoff:%b} {kickoff.day}",
             "completed": comp["status"]["type"]["completed"],
         })
     return games
