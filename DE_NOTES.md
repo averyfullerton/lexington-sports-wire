@@ -147,9 +147,60 @@ the stories step (~$0.07, ~1 min). Estimated fresh week: ~$0.14 game facts + ~$0
 research for new names only (~$0.76 the first week, less after) + ~$0.10 OpenAI + ~$0.07 stories.
 
 ## Eval results
-| Suite | Mode | Accuracy | p50 latency | Cost |
+
+### 2026-11-19: facts suite (30 questions, Week 10), 4 arms x 3 rounds
+Harness: parallel-search-evals @ 6d29a42, `suite=local`, our judge assets (`evals/facts/judge/`), run before
+the Week 11 Thursday game. Same model on every arm (gpt-6.1-terra, harness default effort), same prompts,
+same 20-tool-call budget, same judge (gpt-6-sol). Both search arms limited to the 5-site allowlist.
+
+Fork changes (local branch `lsw-eval`, not upstream):
+- `include_domains=`: Parallel Search gets `source_policy.include_domains`; Extract rejects other URLs.
+- `search_engine=openai-search`: OpenAI's built-in `web_search` tool with `filters.allowed_domains`,
+  `max_tool_calls` = the same 20.
+- Per-question sidecar metrics (tokens, tool calls, wall time) in `<run>-metrics/`; saved records unchanged.
+- Upstream test suite still passes apart from 2 failures and 1 hanging Gemini test that also occur on the
+  untouched clone.
+
+Results (rounds 2 and 3; round 1 is excluded, see below):
+
+| Arm | Correct (r2 / r3) | Cost per resolved question | p50 / p95 latency | Searches per question | Cited URLs off allowlist |
+|---|---|---|---|---|---|
+| baseline (closed book) | 0 / 0 | n/a ($0.075 per run, nothing resolved) | 8 s / 17 s | 0 | n/a |
+| parallel-fast | 30 / 30 | $0.016 | 9.2 s / 13 s | 1.15 | 0 of 68 |
+| parallel-advanced | 30 / 30 | $0.020 | 11.3 s / 16 s | 1.23 | 0 of 66 |
+| openai-search | 30 / 30 | $0.022 to $0.026 | 5.2 s / 8 to 24 s | 1.27 | 0 of 64 |
+
+Cost = model tokens ($1 in, $0.05 cached in, $5 out per 1M) + tool fees (Parallel Search $1 or $5 per 1k,
+Extract $1 per 1k URLs; OpenAI web search $10 per 1k). The judge is the same on every arm and is not included.
+
+Findings:
+- **A three-way tie on accuracy.** Every search arm got every question right in both clean rounds. The suite
+  doesn't separate the tools: even the "obscure" play-by-play questions were one search away on espn.com or
+  nfl.com. A harder set is needed to rank them (multi-game aggregation, questions whose answer is only in a
+  gamebook PDF, older seasons).
+- **Cost: Parallel is cheaper on tool fees** (fast $0.07–0.09 per 30 questions vs. OpenAI $0.35–0.41) but
+  sends more tokens to the model, because excerpts and fetched pages go into the context. Net per question:
+  fast $0.016, advanced $0.020, OpenAI $0.022–0.026. All three are pennies.
+- **Latency: OpenAI is faster at the median** (about 5 s vs 9–11 s): it searches inside a single model call,
+  while the harness's Parallel loop needs a model round trip per tool call.
+- **Allowlist held on both arms:** 0 cited URLs off the 5 sites. Parallel also cited `static.www.nfl.com`
+  gamebook PDFs (subdomain of nfl.com, allowed).
+- **Baseline mostly says "I don't know"** (27–29 of 30 per round) but invented 5 answers across 90 tries,
+  e.g. Cam Little's 2025 long as 70 yards (actual 68). This is the closed-book hallucination rate (~6%).
+- **Round 1 hit OpenAI rate limits.** Running all 4 arms at once (24 concurrent workers) produced 11 HTTP 429
+  failures (9 on openai-search, 2 on parallel-fast). The harness doesn't retry and reuses saved failures on
+  resume, so the fix was fresh output directories with arms run one at a time (4 workers). Failure
+  classes in rounds 2–3: none (no missing search calls, provider errors, retrieval misses or synthesis failures).
+- **Judge hand-check:** 5 of 5 grades correct on the hard cases (two-part question, "no return TD happened",
+  not-played games for a search arm and baseline, a baseline "I don't know").
+- **Task API check against the same answer key:** the saved Week 10 fact sheets cover 11 answer-key facts
+  (3 scores, 5 QB lines, Daniels' 2 INTs, Fitzgerald's 54-yard winner, Chris Johnson's 59-yard pick-six):
+  11 of 11 match. The schema doesn't hold the rest (season totals, who recovered a fumble).
+
+| Suite | Mode | Accuracy | p50 latency | Cost per resolved question |
 |---|---|---|---|---|
-| Facts | baseline | | | |
-| Facts | parallel-fast | | | |
-| Facts | parallel-advanced | | | |
-| Safety | — | catches / misses | | |
+| Facts | baseline | 0–1 / 30 | 8 s | n/a |
+| Facts | parallel-fast | 30 / 30 | 9.2 s | $0.016 |
+| Facts | parallel-advanced | 30 / 30 | 11.3 s | $0.020 |
+| Facts | openai-search | 30 / 30 | 5.2 s | $0.022–0.026 |
+| Safety | | not run yet | | |

@@ -1,0 +1,16 @@
+Question: {question_json}
+
+Reference answer (ground truth from ESPN): {reference_json}
+
+Response to grade: {answer_json}
+
+Grading rules:
+1. Find the response's final answer and copy it into extracted_final_answer.
+2. correct = "yes" only if the final answer states every fact the question asks for, and each one matches the reference. Numbers (scores, yards, counts, distances, clock times) must match exactly. Names must refer to the same person or team; spelling and nicknames are fine.
+3. If the question has several parts, every part must be right.
+4. Extra details the question did not ask for do not count against the response unless they contradict the reference.
+5. If the reference says the game has not been played yet, correct = "yes" only if the response says it has not been played (or no result exists yet). Any score or stat for that game is "no".
+6. If the response says it does not know, cannot find the answer, or gives several candidate answers without committing to one, correct = "no".
+7. Judge only against the reference. Do not use your own knowledge of the game.
+
+In reasoning, explain briefly which facts match or differ. Set confidence (0-100) to how sure you are of the grade.
