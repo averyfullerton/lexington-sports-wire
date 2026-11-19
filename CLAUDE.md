@@ -28,7 +28,7 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 1. **Game facts (Task API + JSON schema):** for each game, collect score, top performers, key plays, team records, and storyline. Keep the per-field `basis` (citations + confidence). Flag or drop low-confidence fields.
 2. **Kid paragraph (OpenAI API):** write the recap only from the verified facts in step 1.
 3. **5 Big Stories (Search + Extract → Decisions → rank):** gather the week's news from allowed sources, filter for safety, pick the 5 most interesting kid-friendly storylines, write each at first-grade level.
-4. **Player cards (Task API + JSON schema):** bio, fun facts, per-season stats, with `basis`.
+4. **Player cards:** ESPN feeds for bio and per-season stats (official numbers); Task API + JSON schema for fun facts (with `basis`), rewritten for a first grader. Every player named in a recap or preview gets a card and a tappable name.
 5. **Refresh:** weekly on Tuesday morning (after Monday Night Football). The web app only reads stored output in `data/`.
 
 ## Source policy (`config/domains.json` is the single source of truth)

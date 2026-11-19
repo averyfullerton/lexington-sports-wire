@@ -74,6 +74,21 @@ almost every field rated medium.
   fastest; they're a weak claim type for previews.
 - No names needed fixing; nobody on the players-to-watch lists was injured or out (checked against ESPN rosters).
 
+### 2026-11-19: player cards (76 players, base)
+Split by strength: ESPN feeds for bio and per-season stats (official numbers); Parallel Task for fun facts,
+with college and draft also requested so they can be checked. OpenAI rewrites the 3 best facts for a first grader.
+
+- 76/76 completed, p50 70 s, max 222 s, ~$0.76. 0 low-confidence fields, 0 off-allowlist citations.
+- College vs ESPN: 75/76 match. The 76th is Charlie Smyth (Irish Gaelic football convert): ESPN lists no
+  college, Parallel named St. Mary's University College, Belfast.
+- Fun facts: hand-read all 228 kid versions; traced the 4 most surprising to their sources (Jordan Love's
+  "Pookie" nickname on PFR, C.J. Stroud's toddler dunks in an ESPN feature, Rodgers' memory story, Likely's
+  2026 line). All real and cited, all rated medium. Nothing mature came through.
+- Rewrite pitfall: the first kid rewrite avoided the word "interception" and turned a 97-yard college pick-six
+  into "ran 97 yards after he caught a pass." Fixed by allowing football words and requiring where it happened
+  (high school, college, NFL).
+- Weakest facts are filler ("Gavin is 6 feet 5 inches tall"), not wrong ones.
+
 ## OpenAI writing step
 - Model: gpt-6.1-terra, reasoning effort low. ~850 input / ~110 output tokens per recap, ~$0.0015 each; 14 games ~$0.02.
 - 14/14 passed the length and tripwire checks on the first attempt.
