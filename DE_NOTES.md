@@ -197,8 +197,40 @@ Findings:
   (3 scores, 5 QB lines, Daniels' 2 INTs, Fitzgerald's 54-yard winner, Chris Johnson's 59-yard pick-six):
   11 of 11 match. The schema doesn't hold the rest (season totals, who recovered a fumble).
 
+### 2026-11-19: hard suite (20 questions), cheaper settings
+`evals/hard/questions.jsonl`: answers computed from ESPN game summaries, athlete and schedule feeds (not from any
+search result). Mostly week-wide aggregation (most/fewest yards, leaders, ties, games within 3 points),
+plus a drive question, a box-score split, a two-player comparison, two multi-hop (player -> college),
+a false premise (a return TD that didn't happen) and a 2025 record. Same judge assets as the facts suite.
+
+To cut cost: **5 tool calls per question** (new `max_tool_calls=` fork setting, applied to both Parallel and
+OpenAI web search), one round, no closed-book arm, arms run one at a time. Same model and allowlist as before.
+
+| Arm | Correct | Wrong (committed) | "Couldn't verify" | Cost (20 q) | Cost per resolved | p50 / p95 |
+|---|---|---|---|---|---|---|
+| parallel-fast | 16 / 20 | 0 | 4 | $0.92 | $0.058 | 18 s / 32 s |
+| parallel-advanced | 18 / 20 | 0 | 2 | $0.98 | $0.054 | 20 s / 35 s |
+| openai-search | 13 / 20 | 0 | 7 | $1.16 | $0.089 | 23 s / 38 s |
+
+- **The gap is all in the week-wide aggregation questions** (13 of them): advanced 11, fast 9, OpenAI 6.
+  Everything else (drive, box score, comparison, multi-hop, false premise, older season) was 7/7 on every arm.
+  OpenAI's searches kept landing on nfl.com schedule pages without team stats; Parallel's reached ESPN weekly
+  leader and team-stat pages and game box scores.
+- **No arm stated a wrong answer.** Every miss was "I couldn't verify." One fast miss (hard-06) had the right
+  three players but hedged about completeness; the judge rule counts hedges as wrong.
+- **Only one round on 20 questions:** fast vs. advanced (2 questions) is a tie. Parallel vs. OpenAI (3–5
+  questions, all in one category) is a consistent pattern but small; rerun before quoting it as a headline.
+- **Cost:** the model's input tokens are most of Parallel's cost (pages and excerpts go into the context and are
+  re-sent every turn); OpenAI's is mostly the $10/1k search fee. Hard questions used 2–6 searches each, so the
+  5-call cap was actually reached (fast 4, advanced 6, OpenAI 9 questions). OpenAI sometimes logged 6 search
+  actions under `max_tool_calls=5`; its counter doesn't map 1:1 to logged actions.
+- Whole run: about $3 in model and tool fees plus the judge (not metered per call; see the OpenAI usage page).
+
 | Suite | Mode | Accuracy | p50 latency | Cost per resolved question |
 |---|---|---|---|---|
+| Hard (5 calls) | parallel-fast | 16 / 20 | 18 s | $0.058 |
+| Hard (5 calls) | parallel-advanced | 18 / 20 | 20 s | $0.054 |
+| Hard (5 calls) | openai-search | 13 / 20 | 23 s | $0.089 |
 | Facts | baseline | 0–1 / 30 | 8 s | n/a |
 | Facts | parallel-fast | 30 / 30 | 9.2 s | $0.016 |
 | Facts | parallel-advanced | 30 / 30 | 11.3 s | $0.020 |
