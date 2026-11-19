@@ -1,0 +1,93 @@
+# Weekly refresh: research + write the new edition, save the data, publish to GitHub Pages.
+# Runs Tuesday morning after Monday Night Football, or any time from the Actions tab ("Run workflow").
+name: Weekly edition
+
+on:
+  schedule:
+    - cron: "0 12 * * 2"  # Tuesdays 12:00 UTC = 7am EST / 8am EDT
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Last completed week (blank = auto-detect)"
+        required: false
+
+permissions:
+  contents: write   # save data to the `data` branch
+  pages: write      # publish the site
+  id-token: write   # required by deploy-pages
+
+concurrency:
+  group: weekly-edition
+  cancel-in-progress: false
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out saved data (data branch)
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: store
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install
+        run: uv sync --frozen
+
+      - name: Restore saved data
+        run: |
+          mkdir -p data
+          rsync -a --exclude .git store/ data/
+
+      - name: Refresh (Parallel + OpenAI)
+        env:
+          PARALLEL_API_KEY: ${{ secrets.PARALLEL_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          WEEK: ${{ inputs.week }}
+        run: |
+          if [ -n "$WEEK" ]; then
+            uv run python -m pipeline.refresh --week "$WEEK"
+          else
+            uv run python -m pipeline.refresh
+          fi
+
+      - name: Save data for next week
+        run: |
+          rsync -a --exclude .git --exclude drops.jsonl --exclude raw/stories --exclude .gitkeep data/ store/
+          cd store
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Data for edition built $(date -u +%F)" || echo "no data changes"
+          git push -q origin data
+
+      - name: Keep the drop log (for safety review)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: drops-${{ github.run_id }}
+          path: data/drops.jsonl
+          if-no-files-found: ignore
+          retention-days: 90
+
+      - name: Build static site
+        run: uv run python -m app.freeze --out _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publish
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Flag a partial refresh
+        run: |
+          tail -n 1 data/refresh_log.jsonl | python3 -c "import json,sys; d=json.load(sys.stdin); bad=[k for k,v in d['steps'].items() if not v['ok']]; print('failed steps:', bad); sys.exit(1 if bad else 0)"
