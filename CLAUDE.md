@@ -48,13 +48,15 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 - Secrets live in `.env` (gitignored). Never print, log or commit keys.
 - Small, focused commits with clear messages.
 
-## Layout (target)
+## Layout
 ```
 config/domains.json   allowlist / blocklist
-pipeline/             games.py, stories.py, players.py, safety.py, write.py
-app/                  FastAPI app, templates/, static/
-data/                 generated output
-evals/                custom question sets and results
+config/pinned_teams.json
+pipeline/             refresh.py (weekly entry point), games.py, write.py, stories.py, safety.py,
+                      players.py, verify.py, schedule.py, standings.py, build.py
+app/                  FastAPI app, templates/, static/, freeze.py (static build for GitHub Pages)
+data/                 generated output (gitignored; persisted on the `data` branch by the workflow)
+evals/                question sets, judge assets, summarize.py, results/summary.json
 DE_NOTES.md           friction log: latency, cost, accuracy, surprises
 ```
 
@@ -64,12 +66,13 @@ Follows Parallel's "How to evaluate web search for AI" guide and the open-source
 - **Harness:** separate clone at ~/projects/parallel-search-evals (`uv sync --frozen`). Run with `provider=openai`; needs only PARALLEL_API_KEY and OPENAI_API_KEY (the grader is always OpenAI). Use the README's `python -m parallel_search_evals.run_eval key=value` syntax, not the blog's. Our questions run as `suite=local` with our own judge assets.
 - **Fair comparison:** hold everything constant except the search tool: same OpenAI model, prompt, tool budget and judge. Arms:
   - `baseline` (closed-book): measures the lift from search and how often the model invents answers. Not a competitor on fresh questions.
-  - `parallel-fast` and `parallel-advanced`: Parallel Search + Extract.
-  - OpenAI's built-in web search: the real head-to-head. Not in the harness; requires adding an engine in a fork.
-  - Same 5-site allowlist on both search arms (a product reason to restrict). The harness doesn't apply `include_domains` today, so that is a fork change too.
+  - `parallel-turbo`, `parallel-fast` and `parallel-advanced`: Parallel Search + Extract.
+  - `openai-search`: OpenAI's built-in web search, the real head-to-head. Added in a local fork of the harness (branch `lsw-eval`).
+  - Same 5-site allowlist on every search arm (a product reason to restrict), via the fork's `include_domains` setting.
 - **Facts suite:** `evals/facts/questions.jsonl`, 30 questions with ESPN-sourced answers (Week 10, 2026; answer key dated 2026-11-19). Mix: scores, QB, kicker, season (player card), evergreen, obscure play-by-play, narrative, and not-yet-played (correct answer is "not played yet"). Run every arm on the same day; season totals change weekly.
 - **Grading:** LLM judge with reasons. Hand-check ~10% (3 questions). Classify failures: no search call, provider error, retrieval miss, synthesis failure.
 - **Report:** accuracy, cost per resolved question (search + extract + model tokens), p50/p95 latency, tool calls, citations on the allowlist. With 30 questions, call close results ties. Run each arm 3 times if budget allows.
-- **Safety suite:** ~20 real headlines, clean and sensitive; measure catches and misses.
+- **Hard suite:** `evals/hard/questions.jsonl`, 30 questions (whole-week aggregation, multi-hop, false premise, who-played-where-when). Run at a 5-call and the standard 20-call tool budget.
+- **Safety suite:** not built (deferred).
 - The harness tests Search + Extract only. The Task API game-facts step gets its own check against the same answer key.
-- Record results in DE_NOTES.md.
+- Record results in DE_NOTES.md; `uv run python -m evals.summarize` rebuilds `evals/results/summary.json` for the site's Search Evals page.

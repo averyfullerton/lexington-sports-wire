@@ -1,9 +1,6 @@
 # DE Notes — Parallel Web Systems evaluation
 
-Friction log: latency, cost, accuracy, surprises.
-
-## Setup
-- 
+Friction log: latency, cost, accuracy, surprises. Newest findings are at the bottom of each section.
 
 ## Task API (game facts, player cards)
 
@@ -94,10 +91,7 @@ with college and draft also requested so they can be checked. OpenAI rewrites th
 - 14/14 passed the length and tripwire checks on the first attempt.
 - Spot-checked score swings and scorers in 5 recaps against ESPN scoring plays: no OpenAI-introduced errors.
 
-## Search + Extract (big stories)
-- 
-
-## Decisions API (safety)
+## Search + Extract + Decisions (5 Big Stories and the safety filter)
 
 ### 2026-11-19: first 5 Big Stories run
 Search (fast, allowlist + `after_date`) -> Extract (full_content) -> Decisions (8 noul questions, one request
@@ -125,8 +119,6 @@ per story) -> OpenAI rank + rewrite -> Decisions again on the kid text -> tripwi
 - Final 5 checked against ESPN (Daniels 2 INT, P. Washington 6 catches/148 yds in the first half,
   Rams bye then Packers, Chargers 23-20) and against the source text ("Rams' defense played so few snaps"):
   all correct. One story came from an nfl.com /series/ index page (facts right); index pages now filtered.
-
-- 
 
 ### 2026-11-19: an allowlisted source got a fact wrong
 ESPN's "Seven things Solak thinks" column described McCaffrey's late, game-sealing catch against a Cover 0
