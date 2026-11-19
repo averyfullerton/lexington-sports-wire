@@ -225,7 +225,8 @@ def collect_game(client: Parallel, inp: dict, processor: str, kind: str = "recap
     return res
 
 
-def collect_week(client: Parallel, season: int, week: int, processor: str, kind: str = "recap") -> list[dict]:
+def collect_week(client: Parallel, season: int, week: int, processor: str, kind: str = "recap",
+                 skip_existing: bool = False) -> list[dict]:
     """Research a week in parallel: completed games (recap) or upcoming games (preview)."""
     from pipeline.schedule import week_games
 
@@ -234,6 +235,9 @@ def collect_week(client: Parallel, season: int, week: int, processor: str, kind:
 
     def one(g: dict) -> dict:
         inp = game_input(g["away_team"], g["home_team"], g["game_date"], season, week)
+        path = fact_path(inp, processor, kind)
+        if skip_existing and path.exists():
+            return {**json.loads(path.read_text()), "game": g, "cached": True}
         try:
             res = collect_game(client, inp, processor, kind)
         except Exception as e:  # keep the rest of the week going; report the failure

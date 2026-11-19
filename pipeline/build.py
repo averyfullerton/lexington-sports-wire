@@ -121,19 +121,13 @@ def build_next_week(client: OpenAI, season: int, week: int, processor: str, rewr
     return out
 
 
-def main() -> None:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--season", type=int, default=2026)
-    ap.add_argument("--week", type=int, required=True)
-    ap.add_argument("--processor", default="base")
-    ap.add_argument("--rewrite", action="store_true")
-    args = ap.parse_args()
-
+def build(season: int, week: int, processor: str = "base", rewrite: bool = False) -> dict:
+    """Write recaps (week) and previews (week + 1), then save data/*.json. Returns a summary."""
     load_dotenv(DATA_DIR.parent / ".env")
     client = OpenAI()
     used_words: list[str] = []
-    games = build_last_week(client, args.season, args.week, args.processor, args.rewrite, used_words)
-    previews = build_next_week(client, args.season, args.week + 1, args.processor, args.rewrite, used_words)
+    games = build_last_week(client, season, week, processor, rewrite, used_words)
+    previews = build_next_week(client, season, week + 1, processor, rewrite, used_words)
 
     def save(name: str, items: list[dict]) -> None:
         (DATA_DIR / name).write_text(json.dumps(
@@ -141,16 +135,26 @@ def main() -> None:
 
     save("last_week.json", games)
     save("next_week.json", previews)
-    (DATA_DIR / "standings.json").write_text(json.dumps(playoff_picture(args.season), indent=2))
-    print(f"{sum(1 for g in previews if g['paragraph'])}/{len(previews)} previews shown; "
-          f"dropped: {[g['home_abbr'] for g in previews if not g['paragraph']]}")
-    games = games + previews
-    shown = [g for g in games if g["paragraph"]]
+    (DATA_DIR / "standings.json").write_text(json.dumps(playoff_picture(season), indent=2))
+    every = games + previews
+    tin = sum(u["input"] for g in every for u in g["usage"])
+    tout = sum(u["output"] for g in every for u in g["usage"])
+    return {
+        "recaps": f"{sum(1 for g in games if g['paragraph'])}/{len(games)}",
+        "previews": f"{sum(1 for g in previews if g['paragraph'])}/{len(previews)}",
+        "dropped": [f"{g['away_abbr']}@{g['home_abbr']}" for g in every if not g["paragraph"]],
+        "openai_usd": round(tin * 1e-6 + tout * 5e-6, 4),
+    }
 
-    tin = sum(u["input"] for g in games for u in g["usage"])
-    tout = sum(u["output"] for g in games for u in g["usage"])
-    print(f"{len(shown)}/{len(games)} recaps + previews shown in total")
-    print(f"OpenAI tokens this run: in={tin} out={tout} (~${tin * 1e-6 + tout * 5e-6:.3f} at gpt-6.1-terra rates)")
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--season", type=int, default=2026)
+    ap.add_argument("--week", type=int, required=True)
+    ap.add_argument("--processor", default="base")
+    ap.add_argument("--rewrite", action="store_true")
+    args = ap.parse_args()
+    print(build(args.season, args.week, args.processor, args.rewrite))
 
 
 if __name__ == "__main__":

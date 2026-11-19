@@ -32,3 +32,15 @@ def week_games(season: int, week: int) -> list[dict]:
             "completed": comp["status"]["type"]["completed"],
         })
     return games
+
+
+def latest_completed_week(season: int) -> int:
+    """The most recent regular-season week whose games are all final."""
+    r = httpx.get(SCOREBOARD, params={"seasontype": 2, "year": season}, timeout=30)
+    r.raise_for_status()
+    current = r.json()["week"]["number"]
+    for week in (current, current - 1, current - 2):
+        games = week_games(season, week)
+        if games and all(g["completed"] for g in games):
+            return week
+    raise RuntimeError(f"no completed week near week {current}")
