@@ -5,8 +5,8 @@ An NFL reader for a 6-year-old, written at a first-grade reading level. It's a w
 This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web` SDK). Use the installed `parallel-api` skill for all Parallel work and check current docs (docs.parallel.ai or the Parallel MCP server) before writing calls. Don't guess parameter names.
 
 ## What the kid sees
-1. **Last Week's Games:** every game from the most recent completed NFL week (Thu–Mon). Final score plus a 5-sentence paragraph: exciting moments, star players, who had a tough day, why the game matters.
-2. **Next Week's Games:** every upcoming matchup. Records plus a 5-sentence preview: who's playing, players to watch, why it matters.
+1. **Last Week's Games:** every game from the most recent completed NFL week (Thu–Mon). Final score plus a short, high-energy recap: exciting moments, star players, who had a tough day, why the game matters.
+2. **Next Week's Games:** every upcoming matchup. Records plus a short preview: who's playing, players to watch, why it matters.
 3. **5 Big Stories:** the week's top kid-friendly storylines (a star back from injury, a rivalry game, a player facing his old team, a winning or losing streak).
 4. **Player cards:** tap any player name → team, number, position, 3 fun facts, per-season stats table.
 5. **Search bar:** type a player or team name and jump to their card or games.
@@ -14,15 +14,19 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 - Jaguars and Commanders games are pinned at the top of each section and shown in team colors.
 - Reading only. No audio, no video, no outbound links, no ads, no comments.
 
-## Writing rules (first-grade level)
-- Short sentences, everyday words, about 8–12 words per sentence.
-- Exactly 5 sentences per game paragraph.
-- Never mean or mocking. A bad game is "had a tough day" or "will want a do-over."
+## Writing rules (sportswriter voice, early-reader sentences)
+- Lively sportswriter voice with variety: each game in a week gets a different opening move (big play, star player, a number, the scene, a question...). Never open with "Big ___ showdown".
+- 1 or 2 exclamation points per recap, saved for the best moments.
+- Football jargon is fine (third down, red zone, pick-six); the reader knows the game.
+- Mostly first-grade words and short sentences (mostly under 15 words), 5–8 sentences per game.
+- 1–3 third-grade "big words" per recap, no repeats within a week. Each gets a kid definition and an example sentence (everyday kid life, not the game); the site shows them in a tap-to-open card (HTML `popover`, no JS).
+- Fun, not mean. Teasing a team's result is OK ("the Titans fell flat"); mocking a person is not.
+- Player names must match the game's ESPN box score; guessed first names from gamebook initials are auto-corrected before writing.
 - Write only from verified facts the pipeline gathered. Never invent scores, stats or plays. If a fact is missing or low-confidence, leave it out.
 
 ## Pipeline: facts first, then writing
 1. **Game facts (Task API + JSON schema):** for each game, collect score, top performers, key plays, team records, and storyline. Keep the per-field `basis` (citations + confidence). Flag or drop low-confidence fields.
-2. **Kid paragraph (OpenAI API):** write the 5 sentences only from the verified facts in step 1.
+2. **Kid paragraph (OpenAI API):** write the recap only from the verified facts in step 1.
 3. **5 Big Stories (Search + Extract → Decisions → rank):** gather the week's news from allowed sources, filter for safety, pick the 5 most interesting kid-friendly storylines, write each at first-grade level.
 4. **Player cards (Task API + JSON schema):** bio, fun facts, per-season stats, with `basis`.
 5. **Refresh:** weekly on Tuesday morning (after Monday Night Football). The web app only reads stored output in `data/`.
