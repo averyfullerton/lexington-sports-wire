@@ -226,9 +226,62 @@ OpenAI web search), one round, no closed-book arm, arms run one at a time. Same 
   actions under `max_tool_calls=5`; its counter doesn't map 1:1 to logged actions.
 - Whole run: about $3 in model and tool fees plus the judge (not metered per call; see the OpenAI usage page).
 
+### 2026-11-19: hard suite rerun at the standard 20-call budget, plus Turbo and 10 very hard questions
+Checked our setup against Parallel's harness, blog post and leaderboard. Same as theirs: answering model held
+constant (gpt-6.1-terra, which is on their leaderboard), harness prompts unchanged, gpt-6-sol judge, cost excludes
+grading, closed-book baseline. Different: our own judge prompt (required for local suites), the allowlist and the
+OpenAI arm (our additions), round 1 of the facts suite set aside for rate limits, and **the 5-call cap**, which
+departs from their fixed 20-call budget. Reran at 20 calls and added `parallel-turbo`.
+
+Added 10 very hard questions (hard-21 to hard-30), each verified from ESPN box scores and schedules: who played
+for whom in Weeks 9 and 10 (Downs, Keenan Allen, Cousins as the Raiders' Week 9 starter), the longest streak ended,
+record-based upsets, the last Titans win over the Jaguars (Jan 7, 2024, 28-20), the week's first TD, all five
+100-yard rushers, road wins (10 of 14), and a false premise (no team scored 50). Dropped two candidates that
+ESPN data couldn't settle (a player facing his old team: none did; zero-INT starters: six teams used two QBs).
+
+| Arm (30 hard, 20 calls) | Correct | Cost per right answer | p50 / p95 | Searches per question |
+|---|---|---|---|---|
+| parallel-advanced | 30 / 30 | 5.1¢ | 17 s / 98 s | 2.8 |
+| parallel-fast | 30 / 30 | 4.0¢ | 16 s / 72 s | 2.5 |
+| parallel-turbo | 30 / 30 | 4.2¢ | 16 s / 78 s | 3.3 |
+| openai-search | 30 / 30 | 5.1¢ | 9 s / 30 s | 2.7 |
+
+- **With the standard budget, accuracy is a four-way tie again.** The 18/16/13 gap at 5 calls came from the cap:
+  OpenAI hit it on 9 of 20 questions. Read together, the two runs say Parallel finds the answer in fewer calls
+  under a tight budget, and everyone gets there with room to search.
+- **Where they differ: cost and tail latency.** Parallel Fast is the cheapest per right answer (4.0¢ vs 5.1¢).
+  OpenAI is faster at the median and much faster in the slow tail (p95 30 s vs 72–98 s): the slowest Parallel
+  questions used 10–20 tool calls, each a separate model round trip in the harness loop, while OpenAI never went
+  above 8 searches.
+- Cited links: 173 across the four arms, 0 off the allowlist.
+- Spend for this round: about $5 in model and tool fees plus grading.
+
+### 2026-11-19: why Parallel won at 5 calls (what the records can and can't show)
+- **What one search hands the model.** Each Parallel `search_web` call returned 10 results with excerpts:
+  median ~24,700 characters of page text per search for fast, ~14,900 for advanced (5-call run, 47 and 49
+  searches). The answer is often already in that text, so no page fetch is needed.
+- **OpenAI's search results are not in the records.** Requesting `include: web_search_call.action.sources`
+  returned nothing, so we see only its queries, the pages it opened (16 `open_page`, 3 `find_in_page`, 56
+  `search` actions across 20 questions) and its citations. A first attempt at "first search returned a stats
+  page: Parallel 6–8 of 12, OpenAI 3 of 12" compared Parallel's full result lists with OpenAI's opened/cited pages
+  only. Not like for like; dropped.
+- **Both tools spend budget on reading pages** (Parallel `web_fetch` 26 and 24 calls; OpenAI 19 opens/finds).
+  OpenAI enforces its own `max_tool_calls` and took 6 actions on 8 of 20 questions; the harness held Parallel to 5.
+  If anything, OpenAI had slightly more room.
+- **OpenAI's 7 misses were all whole-week questions;** 3 ended on nfl.com schedule pages, 4 found stats for a
+  game or two but couldn't confirm the rest of the week. No wrong answers on any arm.
+- Defensible claim: under a tight budget, each Parallel search delivered more usable page text, so the agent
+  answered more questions. Not established: that Parallel *ranks* results better (OpenAI's lists are hidden).
+- Published on the live Search Evals page: summary on top, 5-call tables, and a "When Search cap changes from
+  5 to 20" section with the 30-question table.
+
 | Suite | Mode | Accuracy | p50 latency | Cost per resolved question |
 |---|---|---|---|---|
-| Hard (5 calls) | parallel-fast | 16 / 20 | 18 s | $0.058 |
+| Hard (30, 20 calls) | parallel-advanced | 30 / 30 | 17 s | $0.051 |
+| Hard (30, 20 calls) | parallel-fast | 30 / 30 | 16 s | $0.040 |
+| Hard (30, 20 calls) | parallel-turbo | 30 / 30 | 16 s | $0.042 |
+| Hard (30, 20 calls) | openai-search | 30 / 30 | 9 s | $0.051 |
+| Hard (20, 5 calls) | parallel-fast | 16 / 20 | 18 s | $0.058 |
 | Hard (5 calls) | parallel-advanced | 18 / 20 | 20 s | $0.054 |
 | Hard (5 calls) | openai-search | 13 / 20 | 23 s | $0.089 |
 | Facts | baseline | 0–1 / 30 | 8 s | n/a |

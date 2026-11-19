@@ -12,7 +12,7 @@
  "suites": [
   {
    "key": "facts",
-   "title": "30 easier questions",
+   "title": "30 easy questions",
    "note": "Week 10 scores, stat lines, kickers, season totals, play-by-play details and two games not yet played. Two clean rounds per tool; up to 20 searches per question.",
    "tool_calls": 20,
    "arms": [
@@ -821,9 +821,9 @@
    ]
   },
   {
-   "key": "hard",
-   "title": "20 harder questions",
-   "note": "Mostly whole-week questions (leaders, ties, games within 3 points), plus multi-step and trick questions. One round per tool; up to 5 searches per question; baseline not run.",
+   "key": "hard5",
+   "title": "20 hard questions",
+   "note": "Mostly whole-week questions (leaders, ties, games within 3 points), plus multi-step and trick questions. One round per tool; up to 5 searches per question.",
    "tool_calls": 5,
    "arms": [
     {
@@ -882,11 +882,6 @@
      "cited": 22,
      "cited_off": 0,
      "failed": 0
-    },
-    {
-     "key": "baseline",
-     "label": "Baseline (no search)",
-     "ran": false
     }
    ],
    "questions": [
@@ -907,8 +902,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -928,8 +922,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -949,8 +942,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -970,8 +962,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -991,8 +982,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1012,8 +1002,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1033,8 +1022,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1054,8 +1042,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1075,8 +1062,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1096,8 +1082,7 @@
       "openai-search": {
        "right": 0,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1117,8 +1102,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1138,8 +1122,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1159,8 +1142,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1180,8 +1162,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1201,8 +1182,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1222,8 +1202,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1243,8 +1222,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1264,8 +1242,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1285,8 +1262,7 @@
       "openai-search": {
        "right": 1,
        "of": 1
-      },
-      "baseline": null
+      }
      }
     },
     {
@@ -1306,11 +1282,839 @@
       "openai-search": {
        "right": 1,
        "of": 1
+      }
+     }
+    }
+   ]
+  },
+  {
+   "key": "hard20",
+   "title": "30 hard questions",
+   "note": "The same 20 hard questions plus 10 very hard ones (who played where and when, streaks, upsets, history). One round per tool; up to 20 searches per question.",
+   "tool_calls": 20,
+   "arms": [
+    {
+     "key": "parallel-advanced",
+     "label": "Parallel Advanced",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.050753775,
+     "cost_per_resolved": 0.050753775,
+     "p50": 17.33,
+     "p95": 97.86,
+     "searches_per_question": 2.8333333333333335,
+     "cited": 48,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "parallel-fast",
+     "label": "Parallel Fast",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.040033495,
+     "cost_per_resolved": 0.040033495,
+     "p50": 15.73,
+     "p95": 71.72,
+     "searches_per_question": 2.5,
+     "cited": 45,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "parallel-turbo",
+     "label": "Parallel Turbo",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.04241161833333333,
+     "cost_per_resolved": 0.04241161833333333,
+     "p50": 15.58,
+     "p95": 78.47,
+     "searches_per_question": 3.2666666666666666,
+     "cited": 44,
+     "cited_off": 0,
+     "failed": 0
+    },
+    {
+     "key": "openai-search",
+     "label": "OpenAI web search",
+     "ran": true,
+     "rounds": 1,
+     "correct": [
+      30
+     ],
+     "total": 30,
+     "accuracy": 1.0,
+     "cost_per_question": 0.05118516833333333,
+     "cost_per_resolved": 0.05118516833333333,
+     "p50": 9.22,
+     "p95": 29.82,
+     "searches_per_question": 2.7333333333333334,
+     "cited": 36,
+     "cited_off": 0,
+     "failed": 0
+    }
+   ],
+   "questions": [
+    {
+     "id": "hard-01",
+     "category": "aggregate",
+     "problem": "Which team gained the most total yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many yards?",
+     "answer": "San Francisco 49ers, 584 total yards (at Dallas)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
       },
-      "baseline": null
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-02",
+     "category": "aggregate",
+     "problem": "Which team gained the fewest total yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many yards?",
+     "answer": "Arizona Cardinals, 123 total yards (vs. the Rams)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-03",
+     "category": "aggregate",
+     "problem": "Which team had the most penalty yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026)?",
+     "answer": "Carolina Panthers: 17 penalties for 152 yards (at New Orleans)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-04",
+     "category": "aggregate",
+     "problem": "Which player had the most receiving yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "Ja'Marr Chase (Bengals), 231 receiving yards on 11 catches",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-05",
+     "category": "aggregate",
+     "problem": "Which player had the most rushing yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "James Cook III (Bills), 157 rushing yards on 18 carries",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-06",
+     "category": "aggregate",
+     "problem": "What was the most receptions any player had in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and which player or players had that many?",
+     "answer": "11 receptions, a three-way tie: Ja'Marr Chase (Bengals), George Pickens (Cowboys) and Jordyn Tyson (Saints). All three names are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-07",
+     "category": "aggregate",
+     "problem": "How many games in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026) were decided by 3 points or fewer? List them.",
+     "answer": "5 games: Browns 27-24 Texans, Panthers 20-17 Saints, Colts 24-22 Dolphins, Commanders 24-21 Giants, Chargers 23-20 Ravens",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-08",
+     "category": "aggregate",
+     "problem": "Which game had the most combined points in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and what was the score?",
+     "answer": "49ers 46, Cowboys 40 (86 combined points)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-09",
+     "category": "aggregate",
+     "problem": "Which team was sacked the most times in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many times?",
+     "answer": "Green Bay Packers, sacked 8 times (vs. the Vikings)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-10",
+     "category": "aggregate",
+     "problem": "Which player recorded the most total tackles in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how many?",
+     "answer": "Payton Wilson (Steelers), 19 total tackles",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-11",
+     "category": "aggregate",
+     "problem": "Who had the longest punt in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and how long was it?",
+     "answer": "Jordan Stout (Giants), 68 yards",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-12",
+     "category": "aggregate",
+     "problem": "Which game had the largest attendance in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026), and what was it?",
+     "answer": "49ers at Cowboys, 90,763",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-13",
+     "category": "aggregate",
+     "problem": "What was the longest touchdown play in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026)? Name the player or players and the length.",
+     "answer": "74 yards, a tie: James Cook III's 74-yard touchdown run (Bills at Jets) and Christian McCaffrey's 74-yard touchdown catch from Brock Purdy (49ers at Cowboys). Both are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-14",
+     "category": "drive",
+     "problem": "In the Los Angeles Rams at Arizona Cardinals game on November 15, 2026, the Rams' final drive ran out the clock. How many plays, how many yards, and how much game time did it take?",
+     "answer": "17 plays, 79 yards, 12:15 of game clock",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-15",
+     "category": "box",
+     "problem": "What were the Tennessee Titans' third-down conversions (made of attempts) against the Jacksonville Jaguars on November 15, 2026?",
+     "answer": "2 of 11",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-16",
+     "category": "compare",
+     "problem": "In Week 10 of the 2026 NFL season, who had the higher passer rating: Joe Burrow against the Steelers or Brock Purdy against the Cowboys? Give both ratings.",
+     "answer": "Brock Purdy, 154.5; Joe Burrow, 135.7",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-17",
+     "category": "multi_hop",
+     "problem": "Which college did the kicker who made the game-winning field goal as time expired in the Carolina Panthers at New Orleans Saints game on November 15, 2026 play for?",
+     "answer": "Florida State (the kicker was Ryan Fitzgerald)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-18",
+     "category": "multi_hop",
+     "problem": "Which college did the player with the most receiving yards in a single game in Week 10 of the 2026 NFL regular season (games played November 12-16, 2026) attend?",
+     "answer": "LSU (the player was Ja'Marr Chase, 231 yards)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-19",
+     "category": "false_premise",
+     "problem": "Which Jacksonville Jaguars player returned a punt for a touchdown against the Tennessee Titans on November 15, 2026?",
+     "answer": "No one. There was no punt or kickoff return touchdown in that game.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-20",
+     "category": "older_season",
+     "problem": "What was the Jacksonville Jaguars' regular-season record in the 2025 NFL season?",
+     "answer": "13-4",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-21",
+     "category": "as_of",
+     "problem": "Which team did wide receiver Josh Downs play for in Week 9 of the 2026 NFL season, and which team did he play for in Week 10?",
+     "answer": "Indianapolis Colts in Week 9; Kansas City Chiefs in Week 10",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-22",
+     "category": "as_of",
+     "problem": "Which team did wide receiver Keenan Allen play for in Week 9 of the 2026 NFL season, and which team did he play for in Week 10?",
+     "answer": "Indianapolis Colts in Week 9; San Francisco 49ers in Week 10",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-23",
+     "category": "multi_hop",
+     "problem": "Who was the Las Vegas Raiders' starting quarterback in Week 9 of the 2026 NFL season (November 8, at the 49ers), and which team did that quarterback play for in Week 10?",
+     "answer": "Kirk Cousins; the Minnesota Vikings in Week 10",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-24",
+     "category": "cross_week",
+     "problem": "Which team had the longest winning streak that ended in Week 10 of the 2026 NFL season (November 12-16), how many games was it, and who beat them?",
+     "answer": "Pittsburgh Steelers, a 4-game winning streak, ended by the Cincinnati Bengals (38-18)",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-25",
+     "category": "cross_week",
+     "problem": "In Week 10 of the 2026 NFL season, which games were won by the team with the worse record going into the game? Ignore games where both teams had the same record.",
+     "answer": "Two games: the Chargers (0-8) beat the Ravens (4-5), and the Commanders (2-5-1) beat the Giants (5-2-1). Both are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-26",
+     "category": "history",
+     "problem": "Before November 15, 2026, when was the last time the Tennessee Titans beat the Jacksonville Jaguars, and what was the score?",
+     "answer": "January 7, 2024 (2023 season, Week 18): Titans 28, Jaguars 20",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-27",
+     "category": "aggregate",
+     "problem": "Who scored the first touchdown of Week 10 of the 2026 NFL season, how, and at what point in the game?",
+     "answer": "Cam Skattebo (Giants), a 1-yard run with 2:35 left in the 2nd quarter on Thursday, November 12, against the Commanders",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-28",
+     "category": "aggregate",
+     "problem": "How many players ran for 100 or more rushing yards in a game in Week 10 of the 2026 NFL season (November 12-16)? Name them.",
+     "answer": "Five: James Cook III (157), Jahmyr Gibbs (153), Omarion Hampton (105), Emmett Johnson (101) and Blake Corum (100). All five names are required.",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-29",
+     "category": "aggregate",
+     "problem": "How many of the 14 games in Week 10 of the 2026 NFL season (November 12-16) were won by the road team?",
+     "answer": "10 of the 14 games",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
+     }
+    },
+    {
+     "id": "hard-30",
+     "category": "false_premise",
+     "problem": "Did any team score 50 or more points in a game in Week 10 of the 2026 NFL season (November 12-16)? If so, which?",
+     "answer": "No. The most points by any team was 46 (49ers at Cowboys).",
+     "marks": {
+      "parallel-advanced": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-fast": {
+       "right": 1,
+       "of": 1
+      },
+      "parallel-turbo": {
+       "right": 1,
+       "of": 1
+      },
+      "openai-search": {
+       "right": 1,
+       "of": 1
+      }
      }
     }
    ]
   }
- ]
+ ],
+ "search_payload": {
+  "parallel-fast": {
+   "label": "Parallel Fast",
+   "searches": 47,
+   "results": 10,
+   "chars": 24697
+  },
+  "parallel-advanced": {
+   "label": "Parallel Advanced",
+   "searches": 49,
+   "results": 10,
+   "chars": 14894
+  },
+  "openai-search": {
+   "label": "OpenAI web search",
+   "actions": {
+    "search": 56,
+    "open_page": 16,
+    "find_in_page": 3
+   },
+   "over_cap": 8
+  }
+ }
 }
