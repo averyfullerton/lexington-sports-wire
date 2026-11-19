@@ -5,6 +5,9 @@ name: Weekly edition
 on:
   schedule:
     - cron: "0 12 * * 2"  # Tuesdays 12:00 UTC = 7am EST / 8am EDT
+  push:  # a design-only change republishes from saved data, with no API calls
+    branches: [main]
+    paths: ["app/**"]
   workflow_dispatch:
     inputs:
       week:
@@ -47,6 +50,7 @@ jobs:
           rsync -a --exclude .git store/ data/
 
       - name: Refresh (Parallel + OpenAI)
+        if: github.event_name != 'push'
         env:
           PARALLEL_API_KEY: ${{ secrets.PARALLEL_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -59,6 +63,7 @@ jobs:
           fi
 
       - name: Save data for next week
+        if: github.event_name != 'push'
         run: |
           rsync -a --exclude .git --exclude drops.jsonl --exclude raw/stories --exclude .gitkeep data/ store/
           cd store
@@ -69,7 +74,7 @@ jobs:
           git push -q origin data
 
       - name: Keep the drop log (for safety review)
-        if: always()
+        if: always() && github.event_name != 'push'
         uses: actions/upload-artifact@v4
         with:
           name: drops-${{ github.run_id }}
@@ -89,5 +94,6 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Flag a partial refresh
+        if: github.event_name != 'push'
         run: |
           tail -n 1 data/refresh_log.jsonl | python3 -c "import json,sys; d=json.load(sys.stdin); bad=[k for k,v in d['steps'].items() if not v['ok']]; print('failed steps:', bad); sys.exit(1 if bad else 0)"
