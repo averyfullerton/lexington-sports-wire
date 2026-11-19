@@ -281,11 +281,6 @@ def _write(client: OpenAI, facts: dict, game_id: str, opener: str, avoid_words, 
             "problems": problems, "usage": usage}
 
 
-def big_story(story: dict) -> str:
-    """First-grade rewrite of a storyline, or SKIP if fundamentally mature. TODO."""
-    raise NotImplementedError
-
-
 def main() -> None:
     load_dotenv()
     client = OpenAI()

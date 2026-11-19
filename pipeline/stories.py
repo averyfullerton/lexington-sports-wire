@@ -176,7 +176,6 @@ def official_record(text: str) -> str:
     path = DATA_DIR / "last_week.json"
     if not path.exists():
         return ""
-    from pipeline.schedule import week_games
 
     games = json.loads(path.read_text())
     hits = [g for g in games
