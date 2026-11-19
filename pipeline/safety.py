@@ -25,6 +25,7 @@ TRIPWIRE_TERMS = [
     "dui", "drunk", "drug", "drugs", "jail", "prison", "police", "court", "trial",
     "bet", "bets", "betting", "gamble", "gambling", "sportsbook", "odds", "parlay", "wager",
     "concussion", "torn", "acl", "surgery", "carted off", "season-ending", "paralyzed",
+    "injury", "injured", "injuries", "hospital", "ambulance",
     "damn", "hell", "sex", "sexual",
 ]
 _TRIPWIRE_RE = re.compile(
