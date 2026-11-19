@@ -59,6 +59,21 @@ Fix: corrected that fact sheet by hand (recorded in its `manual_corrections`), a
 guessed first name" to the schema descriptions. Lesson: abbreviated sources (gamebooks, box scores) invite this; the
 auto-checker matched on surname, so it didn't catch it. A hand read did.
 
+### 2026-11-19: Week 11 previews on base (13 games)
+Preview schema: records, 2–4 players to watch with season stats, 3–5 this-season matchup notes, storyline.
+13/13 completed in 100–307 s (whole week ~5 min, ~$0.13). 0 low-confidence fields, 0 off-allowlist citations;
+almost every field rated medium.
+
+- Player season stats: 40 of 41 stat lines matched ESPN's 2026 numbers exactly. The 41st (James Cook) only
+  failed the auto-check on name format ("James Cook III" on ESPN).
+- Team claims hand-checked against ESPN (records, division places, Mexico City venue, MIN 37 sacks first,
+  TB 16 INT first, DAL 28.6 ppg, PHI 7 straight losses): all correct except one.
+- 1 stale fact: "SF averages 399.8 yards per game, ranked first," cited to nfl.com's game preview page.
+  After Week 10, ESPN has DET 407.6 and SF 407.2. The page hadn't caught up with last week; Parallel copied it
+  faithfully and rated it medium. Corrected by hand (`manual_corrections`). Lesson: league *rankings* go stale
+  fastest; they're a weak claim type for previews.
+- No names needed fixing; nobody on the players-to-watch lists was injured or out (checked against ESPN rosters).
+
 ## OpenAI writing step
 - Model: gpt-6.1-terra, reasoning effort low. ~850 input / ~110 output tokens per recap, ~$0.0015 each; 14 games ~$0.02.
 - 14/14 passed the length and tripwire checks on the first attempt.
