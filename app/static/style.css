@@ -140,3 +140,4 @@ table.stats tr.this-season td { font-weight: 800; background: var(--blue-soft); 
 .colophon { margin-top: 28px; padding-top: 10px; border-top: 6px double var(--blue);
   text-align: center; font: italic 0.85rem var(--serif); color: var(--muted); }
 .game .line .rec { font-weight: 500; color: var(--muted); font-size: 0.85em; }
+.game .line .rec { white-space: nowrap; }
