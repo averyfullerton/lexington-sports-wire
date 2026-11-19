@@ -45,6 +45,73 @@ OPENERS = [
     "Start with how the game ended: the last big moment.",
 ]
 
+PREVIEW_OPENERS = [
+    "Start with the star player to watch and his numbers this season.",
+    "Start with what is at stake in the standings.",
+    "Start with a short question a fan might ask about this game.",
+    "Start with a striking number from this season.",
+    "Start by setting the scene: where the game is and when.",
+    "Start with one team's streak or last game.",
+    "Start with the road team's side of the story.",
+]
+
+PREVIEW_INSTRUCTIONS = """\
+You are a sportswriter with a lively, varied style, writing NFL game PREVIEWS for a
+6-year-old superfan. He knows football and its jargon. He reads at a first-grade level
+and is ready to stretch a little.
+
+This game has NOT been played yet. Write 4 to 6 sentences that get him excited to watch.
+
+Style
+- Opening: follow the OPENING MOVE given below. Do not start with "Big showdown",
+  "Big ___ showdown" or "Wild ___". Do not start with an exclamation.
+- Cover who is playing, their records, 1 or 2 players to watch with their numbers this
+  season, and why the game matters. Mention the day it is played if it is not Sunday.
+- Never predict a winner or a score. No "will win", "should win", "favored", "underdog",
+  odds or picks.
+- Ending: follow the CLOSING MOVE given below. Never end with "Get ready for..." or
+  "... game!" hype lines.
+- Use 1 or 2 exclamation points, saved for the most exciting parts.
+- Mostly first-grade words, sentences mostly under 15 words.
+- Use 1 to 3 "big words" a third grader would know but a first grader might not
+  (for example: spotlight, perched, eager, fierce, thrilling, rivals, stunning, determined).
+  A big word must be an everyday describing or action word, NOT a football or sports term
+  (not season, league, division, standings, matchup, receiving, interception, average, title).
+  List each one in big_words exactly as it appears, with:
+    definition: a short kid-friendly meaning (under 15 words)
+    example: a new sentence using the word, about everyday kid life, NOT about football.
+      Make it vivid and specific. Use the EXAMPLE KID and EXAMPLE TOPIC given below.
+- The game is at the home team's place: use the home team's state or city ("in New York").
+- Fun, not mean. Never mock or insult a person.
+
+Facts
+- Use ONLY the facts given. Never add a stat, record, name, place or detail that is not in
+  the facts. If a fact you want is missing, leave it out.
+- Never mention injuries, fights, arrests, suspensions, money, betting, or anything scary or sad.
+- Plain text, one paragraph. No title, no list, no emoji. Write numbers as digits.
+"""
+
+SPORTS_WORDS = {"season", "seasons", "league", "division", "standings", "matchup", "receiving",
+                "interception", "interceptions", "average", "title", "playoffs", "playoff", "touchdown",
+                "touchdowns", "quarterback", "yards", "rushing", "passing", "conference", "record"}
+
+PREVIEW_CLOSERS = [
+    "End with a question the reader can answer by watching the game.",
+    "End on the player to watch and the one thing he does best.",
+    "End with what a win would mean in the standings.",
+    "End with a short, punchy fact (a number) from the facts.",
+    "End by naming the thing to watch for: a matchup, a streak, a debut.",
+    "End with the scene: when and where the game kicks off.",
+    "End on the team that needs this game most, and why (from the facts).",
+]
+
+STALE_CLOSER_RE = re.compile(r"\bget ready\b|\bgame!\s*$", re.IGNORECASE)
+
+PREDICTION_RE = re.compile(
+    r"\b(will|should|going to|expected to|likely to)\s+(win|beat|lose|cruise|roll)\b"
+    r"|\b(favou?red|underdog|predict\w*|odds)\b", re.IGNORECASE)
+
+
 RECAP_INSTRUCTIONS = """\
 You are a sportswriter with a lively, varied style, writing NFL game recaps for a
 6-year-old superfan. He knows football and its jargon (third down, red zone, pick-six).
@@ -119,12 +186,19 @@ def word_in(word: str, text: str) -> bool:
     return re.search(r"\b" + re.escape(word) + r"\b", text, re.IGNORECASE) is not None
 
 
-def check_recap(recap: Recap, avoid_words: list[str] = ()) -> list[str]:
+def check_recap(recap: Recap, avoid_words: list[str] = (), kind: str = "recap") -> list[str]:
     text = recap.paragraph
     problems = []
     n = count_sentences(text)
-    if not 4 <= n <= 9:
-        problems.append(f"has {n} sentences; write 5 to 8")
+    lo, hi, want = (3, 7, "4 to 6") if kind == "preview" else (4, 9, "5 to 8")
+    if not lo <= n <= hi:
+        problems.append(f"has {n} sentences; write {want}")
+    if kind == "preview":
+        if STALE_CLOSER_RE.search(text):
+            problems.append("uses a stock 'Get ready...' or '...game!' line; follow the CLOSING MOVE instead")
+        guess = PREDICTION_RE.search(text)
+        if guess:
+            problems.append(f"predicts the result ('{guess.group(0)}'); never predict a winner")
     long = [w for w in words_per_sentence(text) if w > 18]
     if long:
         problems.append(f"sentences too long ({long} words); keep them mostly under 15 words")
@@ -138,6 +212,9 @@ def check_recap(recap: Recap, avoid_words: list[str] = ()) -> list[str]:
     missing = [w.word for w in recap.big_words if not word_in(w.word, text)]
     if missing:
         problems.append(f"big words not found in the recap exactly as written: {missing}")
+    jargon = [w.word for w in recap.big_words if w.word.lower() in SPORTS_WORDS]
+    if jargon:
+        problems.append(f"big words are sports terms, not stretch words: {jargon}; pick everyday words")
     reused = [w.word for w in recap.big_words if w.word.lower() in {a.lower() for a in avoid_words}]
     if reused:
         problems.append(f"big words already used this week: {reused}; pick different ones")
@@ -151,12 +228,24 @@ def check_recap(recap: Recap, avoid_words: list[str] = ()) -> list[str]:
 def game_recap(client: OpenAI, facts: dict, game_id: str, opener: str = OPENERS[0],
                avoid_words: list[str] = (), example_kid: str = EXAMPLE_KIDS[0],
                example_topic: str = EXAMPLE_TOPICS[0]) -> dict:
-    """Short recap of a completed game, plus its big words.
+    """Short recap of a completed game, plus its big words."""
+    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "recap")
 
-    Returns {"paragraph", "big_words", "opener", "attempts", "problems", "usage"}.
-    """
+
+def game_preview(client: OpenAI, facts: dict, game_id: str, opener: str = PREVIEW_OPENERS[0],
+                 avoid_words: list[str] = (), example_kid: str = EXAMPLE_KIDS[0],
+                 example_topic: str = EXAMPLE_TOPICS[0], closer: str = PREVIEW_CLOSERS[0]) -> dict:
+    """Short preview of an upcoming game, plus its big words. Never predicts a result."""
+    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "preview", closer)
+
+
+def _write(client: OpenAI, facts: dict, game_id: str, opener: str, avoid_words, example_kid: str,
+           example_topic: str, kind: str, closer: str | None = None) -> dict:
+    """Returns {"paragraph", "big_words", "opener", "attempts", "problems", "usage"}."""
+    instructions = PREVIEW_INSTRUCTIONS if kind == "preview" else RECAP_INSTRUCTIONS
     avoid = ", ".join(avoid_words) or "(none yet)"
-    prompt = (f"OPENING MOVE: {opener}\n\nBig words already used this week (choose different ones): {avoid}\n"
+    closing = f"CLOSING MOVE: {closer}\n" if closer else ""
+    prompt = (f"OPENING MOVE: {opener}\n{closing}\nBig words already used this week (choose different ones): {avoid}\n"
               f"EXAMPLE KID: {example_kid}\nEXAMPLE TOPIC: {example_topic}\n\n"
               "Facts (JSON):\n" + json.dumps(facts, indent=1))
     feedback = ""
@@ -164,7 +253,7 @@ def game_recap(client: OpenAI, facts: dict, game_id: str, opener: str = OPENERS[
     for attempt in range(1, MAX_ATTEMPTS + 1):
         resp = client.responses.parse(
             model=MODEL,
-            instructions=RECAP_INSTRUCTIONS,
+            instructions=instructions,
             input=prompt + feedback,
             reasoning={"effort": "low"},
             text_format=Recap,
@@ -172,7 +261,7 @@ def game_recap(client: OpenAI, facts: dict, game_id: str, opener: str = OPENERS[
         )
         recap: Recap = resp.output_parsed
         usage.append({"input": resp.usage.input_tokens, "output": resp.usage.output_tokens})
-        problems = check_recap(recap, avoid_words)
+        problems = check_recap(recap, avoid_words, kind)
         if not problems:
             return {
                 "paragraph": recap.paragraph.strip(),
@@ -187,14 +276,9 @@ def game_recap(client: OpenAI, facts: dict, game_id: str, opener: str = OPENERS[
             + "\n\nFix these problems and rewrite it: " + "; ".join(problems)
         )
     # Fail closed: a recap that still breaks the rules is not shown.
-    log_drop(game_id, "write.game_recap", "; ".join(problems), {"draft": recap.model_dump()})
+    log_drop(game_id, f"write.game_{kind}", "; ".join(problems), {"draft": recap.model_dump()})
     return {"paragraph": None, "big_words": [], "opener": opener, "attempts": MAX_ATTEMPTS,
             "problems": problems, "usage": usage}
-
-
-def game_preview(facts: dict) -> str:
-    """Short preview of an upcoming game from verified facts. TODO."""
-    raise NotImplementedError
 
 
 def big_story(story: dict) -> str:
