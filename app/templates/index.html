@@ -11,7 +11,7 @@
 <section>
   <h2>5 Big Stories</h2>
   {% for s in stories %}
-    <article class="story"><h3>{{ s.title }}</h3><p>{{ s.text }}</p></article>
+    <article class="story"><p class="story-num">{{ loop.index }}</p><h3>{{ s.title }}</h3>{{ glossify(s.paragraph, s.big_words, "story" ~ loop.index) }}</article>
   {% else %}<p class="empty">No stories yet. Check back soon!</p>{% endfor %}
 </section>
 <section>

@@ -98,6 +98,34 @@ with college and draft also requested so they can be checked. OpenAI rewrites th
 - 
 
 ## Decisions API (safety)
+
+### 2026-11-19: first 5 Big Stories run
+Search (fast, allowlist + `after_date`) -> Extract (full_content) -> Decisions (8 noul questions, one request
+per story) -> OpenAI rank + rewrite -> Decisions again on the kid text -> tripwire. ~45 s, about $0.07/run.
+
+- **Decisions researches the web on its own and has no source policy.** The first test (a 3-sentence clean
+  Jaguars recap) scored gambling 0.26 and failed: its citations were CBS, Fox, AP etc. about the same game,
+  6 of 10 off our allowlist. Telling it to judge ONLY `state.article_text` (plus `criteria`) fixed the
+  scoring (max 0.03), but it still cites off-allowlist pages (8 of 10). Accepted because its output is only a
+  probability; citations are logged, never shown. Documented as the one allowlist exception in CLAUDE.md.
+- Sanity pair: clean story max 0.03; "torn ACL, carted off" story injury 0.98.
+- **Article-level "any mention" is too strict for NFL news:** 6 of 30, then 8 of 46 articles passed, because
+  almost every game story or roundup mentions an injury somewhere. Moved to two checks: article by *topic*
+  (16 of 50 passed), then the finished kid text by *any mention*. All 5 published stories scored <= 0.04.
+- Search pool: generic "storyline" queries returned mostly roundups. Adding one query per game from last
+  week's results ("Chargers beat Ravens storylines") brought in single-game stories and spread picks across
+  teams. URL-path filter drops where-to-watch, schedule and ticket pages.
+- Facts in all 5 stories checked against ESPN box scores / play-by-play: correct.
+- Run-to-run variance is large: three runs gave 16, 13 and 15 safe articles and different story sets.
+  The editor step also under-picked (4 of 13) until told to always pick 8 with backups.
+- Big words: banned an "easy word" list and required >= 6 letters; now composed, persistent, savored, triumph.
+- Extract reliability: re-extracting the Aaron Donald article with `full_content: true` returned a result
+  with empty `full_content` and no entry in `errors` (same URL worked in the pipeline minutes earlier).
+  Excerpts mode on the same URL worked. Code treats empty text as no candidate (fails closed).
+- Final 5 checked against ESPN (Daniels 2 INT, P. Washington 6 catches/148 yds in the first half,
+  Rams bye then Packers, Chargers 23-20) and against the source text ("Rams' defense played so few snaps"):
+  all correct. One story came from an nfl.com /series/ index page (facts right); index pages now filtered.
+
 - 
 
 ## Eval results

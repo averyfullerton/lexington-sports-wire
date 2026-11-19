@@ -37,7 +37,7 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 - Every Parallel call that touches the web uses the allowlist. Nothing outside it reaches the UI.
 
 ## Kid-safety filter (fail closed: when in doubt, drop it)
-1. **Decisions API** classifies each story: arrest, lawsuit, suspension, new or serious injury, death, gambling, abuse, other mature content. Anything other than a confident "safe" is dropped. A player returning from injury is OK; a new or serious injury is not.
+1. **Decisions API** classifies each story twice: arrest, lawsuit, suspension, new or serious injury, death, gambling, abuse, other mature content. First the source article by topic (is the story *about* any of these?), then the finished kid text strictly (does it *mention* any of these at all?). Anything other than a confident "safe" (every category under 0.2, no refusal) is dropped. A player returning from injury is OK; a new or serious injury is not. Decisions has no source policy and researches the web on its own; its citations are logged and never reach the UI (the one allowlist exception).
 2. **Rewrite step** returns `SKIP` for stories that are fundamentally mature. Never soften them.
 3. **Keyword tripwire** scans the final text; any hit blocks it.
 - Log every drop with its reason (for review and for the safety eval).
