@@ -27,9 +27,8 @@ jobs:
   edition:
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+    outputs:
+      failed_steps: ${{ steps.check.outputs.failed_steps }}
     steps:
       - uses: actions/checkout@v4
 
@@ -89,11 +88,31 @@ jobs:
         with:
           path: _site
 
+      - name: Check the refresh log
+        id: check
+        if: github.event_name != 'push'
+        run: |
+          bad=$(tail -n 1 data/refresh_log.jsonl | python3 -c "import json,sys; d=json.load(sys.stdin); print(' '.join(k for k,v in d['steps'].items() if not v['ok']))")
+          echo "failed steps: ${bad:-none}"
+          echo "failed_steps=$bad" >> "$GITHUB_OUTPUT"
+
+  # Publishing is its own job (GitHub's standard Pages pattern): deploying in the same job as the
+  # upload sometimes failed with "No artifacts named github-pages were found".
+  publish:
+    needs: edition
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
       - name: Publish
         id: deploy
         uses: actions/deploy-pages@v4
 
       - name: Flag a partial refresh
-        if: github.event_name != 'push'
+        if: needs.edition.outputs.failed_steps != ''
+        env:
+          FAILED: ${{ needs.edition.outputs.failed_steps }}
         run: |
-          tail -n 1 data/refresh_log.jsonl | python3 -c "import json,sys; d=json.load(sys.stdin); bad=[k for k,v in d['steps'].items() if not v['ok']]; print('failed steps:', bad); sys.exit(1 if bad else 0)"
+          echo "Published, but these refresh steps failed: $FAILED"
+          exit 1
