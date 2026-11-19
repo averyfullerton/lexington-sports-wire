@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{{ p.name }} · Lexington Sports Wire{% endblock %}
+{% block content %}
+<article class="card">
+  <h2>{{ p.name }}</h2>
+  <p class="meta">{{ p.team }} · #{{ p.number }} · {{ p.position }}</p>
+  {% if p.fun_facts %}
+  <h3>Fun Facts</h3>
+  <ul>{% for f in p.fun_facts[:3] %}<li>{{ f }}</li>{% endfor %}</ul>
+  {% endif %}
+  {% if p.stats %}
+  <h3>Stats</h3>
+  <div class="table-wrap">
+  <table>
+    <thead><tr>{% for col in p.stats[0].keys() %}<th>{{ col }}</th>{% endfor %}</tr></thead>
+    <tbody>{% for row in p.stats %}<tr>{% for v in row.values() %}<td>{{ v }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+  </table>
+  </div>
+  {% endif %}
+</article>
+{% endblock %}

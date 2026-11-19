@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h2>Last Week's Games</h2>
+  {% for g in last_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+</section>
+<section>
+  <h2>Next Week's Games</h2>
+  {% for g in next_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+</section>
+<section>
+  <h2>5 Big Stories</h2>
+  {% for s in stories %}
+    <article class="story"><h3>{{ s.title }}</h3><p>{{ s.text }}</p></article>
+  {% else %}<p class="empty">No stories yet. Check back soon!</p>{% endfor %}
+</section>
+{% endblock %}

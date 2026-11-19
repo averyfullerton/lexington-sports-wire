@@ -1,0 +1,10 @@
+{% set pin = pinned.get(g.home_abbr) or pinned.get(g.away_abbr) %}
+<article class="game{% if pin %} pinned{% endif %}"{% if pin %} style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
+  <h3>{{ g.away_team }} at {{ g.home_team }}</h3>
+  {% if g.away_score is not none and g.home_score is not none %}
+    <p class="score">{{ g.away_score }} – {{ g.home_score }}</p>
+  {% elif g.away_record and g.home_record %}
+    <p class="records">{{ g.away_record }} vs {{ g.home_record }}</p>
+  {% endif %}
+  {% if g.paragraph %}<p>{{ g.paragraph }}</p>{% endif %}
+</article>

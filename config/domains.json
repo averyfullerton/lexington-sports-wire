@@ -1,0 +1,15 @@
+{
+  "allow": [
+    "nfl.com",
+    "espn.com",
+    "pro-football-reference.com",
+    "jaguars.com",
+    "commanders.com"
+  ],
+  "block": [
+    "theringer.com",
+    "deadspin.com",
+    "theathletic.com"
+  ],
+  "block_categories": ["gambling", "betting"]
+}
