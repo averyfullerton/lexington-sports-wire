@@ -190,7 +190,7 @@ def check_recap(recap: Recap, avoid_words: list[str] = (), kind: str = "recap") 
     text = recap.paragraph
     problems = []
     n = count_sentences(text)
-    lo, hi, want = (3, 7, "4 to 6") if kind == "preview" else (4, 9, "5 to 8")
+    lo, hi, want = {"preview": (3, 7, "4 to 6"), "story": (5, 8, "5 to 7")}.get(kind, (4, 9, "5 to 8"))
     if not lo <= n <= hi:
         problems.append(f"has {n} sentences; write {want}")
     if kind == "preview":
