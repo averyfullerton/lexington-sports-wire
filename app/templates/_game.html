@@ -6,7 +6,7 @@
     {% set name, abbr = g[side ~ "_team"], g[side ~ "_abbr"] %}
     {% set other = "home" if side == "away" else "away" %}
     <div class="line{% if final and g[side ~ '_score'] > g[other ~ '_score'] %} won{% endif %}">
-      <span class="tm">{% if side == "home" %}<i>at</i> {% endif %}{{ name }}{% if pinned.get(abbr) %} <b class="star" title="Our team">★</b>{% endif %}{% if final and g[side ~ "_record"] %} <small class="rec">({{ g[side ~ "_record"] }})</small>{% endif %}</span>
+      <span class="tm">{% if side == "home" %}<i>at</i> {% endif %}{{ name }}{% if pinned.get(abbr) %}&nbsp;<b class="star" title="Our team">★</b>{% endif %}{% if final and g[side ~ "_record"] %} <small class="rec">({{ g[side ~ "_record"] }})</small>{% endif %}</span>
       <span class="pts">{% if final %}{{ g[side ~ "_score"] }}{% else %}{{ g[side ~ "_record"] or "" }}{% endif %}</span>
     </div>
     {% endfor %}
