@@ -23,7 +23,7 @@
     <div class="cats right">{% include "cats/typewriter.svg" %}</div>
   </header>
   <main>{% block content %}{% endblock %}</main>
-  <footer class="colophon">Reported by our cat staff from NFL.com, ESPN, Pro Football Reference, Jaguars.com and Commanders.com.</footer>
+  <footer class="colophon">Reported by our cat staff from NFL.com, ESPN, Pro Football Reference, Jaguars.com and Commanders.com.{% block footer_extra %}{% endblock %}</footer>
   </div>
 </body>
 </html>

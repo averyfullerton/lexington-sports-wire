@@ -23,6 +23,7 @@ def relativize(html: str, depth: int) -> str:
     up = "../" * depth
     html = re.sub(r'href="/player/([a-z0-9-]+)"', lambda m: f'href="{up}player/{m.group(1)}.html"', html)
     html = re.sub(r'(href|src)="/static/', lambda m: f'{m.group(1)}="{up}static/', html)
+    html = html.replace('href="/evals"', f'href="{up}evals.html"')
     html = html.replace('href="/"', f'href="{up or "./"}"')
     return html
 
@@ -38,6 +39,10 @@ def freeze(out: Path) -> dict:
     r.raise_for_status()
     (out / "index.html").write_text(relativize(r.text, 0))
 
+    r = client.get("/evals")
+    r.raise_for_status()
+    (out / "evals.html").write_text(relativize(r.text, 0))
+
     players = sorted(p.stem for p in (DATA / "players").glob("[!_]*.json"))
     for slug in players:
         r = client.get(f"/player/{slug}")
@@ -47,7 +52,7 @@ def freeze(out: Path) -> dict:
     (out / ".nojekyll").write_text("")
     (out / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     leftovers = [str(p) for p in out.rglob("*.html") if re.search(r'(href|src)="/(?!/)', p.read_text())]
-    return {"pages": 1 + len(players), "root_links_left": leftovers}
+    return {"pages": 2 + len(players), "root_links_left": leftovers}
 
 
 def main() -> None:

@@ -141,3 +141,48 @@ table.stats tr.this-season td { font-weight: 800; background: var(--blue-soft); 
   text-align: center; font: italic 0.85rem var(--serif); color: var(--muted); }
 .game .line .rec { font-weight: 500; color: var(--muted); font-size: 0.85em; }
 .game .line .rec { white-space: nowrap; }
+
+/* Front-page footer link + the Boring Data for Adults page */
+.colophon .adults { display: block; margin-top: 6px; font: 0.8rem var(--sans); color: var(--muted); }
+.evals { margin-top: 22px; }
+.evals-head { border-bottom: 3px solid var(--ink); margin-bottom: 22px; padding-bottom: 12px; }
+.evals-head .kicker { margin: 0; font: 800 0.8rem var(--sans); text-transform: uppercase; letter-spacing: 0.12em; color: var(--blue); }
+.evals-head h2 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.05; margin: 4px 0 8px; }
+.evals-head .lede { margin: 0; max-width: 70ch; }
+.eval-tables { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0 28px; }
+.evals, .eval-suite, .eval-questions { min-width: 0; }
+.eval-tables .eval-suite + .eval-suite { border-left: 1px solid var(--rule); padding-left: 28px; }
+@media (max-width: 1320px) {
+  .eval-tables { grid-template-columns: minmax(0, 1fr); }
+  .eval-tables .eval-suite + .eval-suite { border-left: 0; padding-left: 0; margin-top: 18px; }
+}
+.suite-note, .suite-foot, .evals-foot { font: 0.9rem var(--sans); color: var(--muted); margin: 0 0 12px; }
+.suite-foot { margin-top: 8px; }
+table.evaltable, table.qtable { font: 0.95rem var(--sans); background: #fff; border: 2px solid var(--ink); }
+.evaltable th, .evaltable td, .qtable th, .qtable td { padding: 8px 10px; border-bottom: 1px solid #ece7da; vertical-align: top; }
+.evaltable thead th, .qtable thead th { background: var(--ink); color: #fff; font: 700 0.72rem/1.25 var(--sans);
+  text-transform: uppercase; letter-spacing: 0.04em; text-align: left; vertical-align: bottom; white-space: normal; }
+.evaltable thead th.num { text-align: right; width: 5.6em; }
+.evaltable thead th + th { border-left: 1px solid #3a3d45; }
+.evaltable .tool { text-align: left; }
+.evaltable tbody th.tool { font-weight: 700; min-width: 8em; }
+.evaltable td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.evaltable .acc .frac { display: block; font-weight: 800; font-size: 1.05rem; }
+.evaltable .acc .pct { display: block; color: var(--blue); font-weight: 700; }
+.evaltable .acc small { display: block; color: var(--muted); font-size: 0.72rem; font-weight: 400; }
+.evaltable td.na { color: var(--muted); font-style: italic; }
+.evaltable tr.arm-baseline th, .evaltable tr.arm-baseline td, .evaltable tr.arm-baseline .pct { color: var(--muted); }
+.eval-questions { margin-top: 30px; }
+.qtable { min-width: 760px; }
+.qtable .qn { width: 2.2em; color: var(--muted); font-variant-numeric: tabular-nums; }
+.qtable .qtext { min-width: 260px; }
+.qtable .qans { min-width: 180px; color: #2b2f38; font-size: 0.88rem; }
+.qtable .mkcol { width: 7.5em; text-align: center; }
+.qtable thead .mkcol { text-align: center; }
+.qtable tbody tr:nth-child(even) td { background: #faf8f2; }
+.mk { display: inline-block; min-width: 1.2em; font: 900 1.25rem/1 var(--sans); }
+.evals-foot .mk { font-size: 1rem; min-width: 0; }
+.mk.yes { color: #1a7f37; }
+.mk.no { color: #c62828; }
+.mk.some { color: #9a6700; font-size: 0.9rem; }
+.mk.none { color: var(--muted); font-weight: 400; }

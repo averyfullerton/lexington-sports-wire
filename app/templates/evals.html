@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Boring Data for Adults · The Lexington Sports Wire{% endblock %}
+{% block content %}
+{% macro money(v) %}{% if v is none %}—{% elif v < 0.1 %}{{ "%.1f"|format(v * 100) }}¢{% else %}${{ "%.2f"|format(v) }}{% endif %}{% endmacro %}
+{% macro secs(v) %}{% if v is none %}—{% else %}{{ "%.0f"|format(v) }} sec{% endif %}{% endmacro %}
+{% macro mark(m) -%}
+  {%- if m is none -%}<span class="mk none" title="Not run">—</span>
+  {%- elif m.right == m.of -%}<span class="mk yes" role="img" aria-label="Right">✓</span>
+  {%- elif m.right == 0 -%}<span class="mk no" role="img" aria-label="Wrong">✗</span>
+  {%- else -%}<span class="mk some" title="Right in {{ m.right }} of {{ m.of }} rounds">{{ m.right }}/{{ m.of }}</span>
+  {%- endif -%}
+{%- endmacro %}
+<article class="evals">
+  <header class="evals-head">
+    <p class="kicker">Boring Data for Adults</p>
+    <h2>Search Evals</h2>
+    <p class="lede">How well can an AI answer NFL questions when it looks things up, and what does each right answer
+      cost? The same model ({{ ev.model }}) answered every question; only the search tool changed. Both search tools
+      were limited to the paper's {{ ev.allowlist|length }} approved sites. Answers were checked against ESPN's
+      official game data and graded by {{ ev.judge }}. Run {{ ev.date }}.</p>
+  </header>
+
+  <div class="eval-tables">
+  {% for s in ev.suites %}
+    <section class="eval-suite">
+      <h3 class="section-head">{{ s.title }}</h3>
+      <p class="suite-note">{{ s.note }}</p>
+      <div class="table-wrap">
+      <table class="evaltable">
+        <thead><tr>
+          <th class="tool">Search tool</th>
+          <th class="num">Accuracy</th>
+          <th class="num">Cost per right answer</th>
+          <th class="num">Typical wait</th>
+          <th class="num">Slowest 5%</th>
+          <th class="num">Searches per question</th>
+        </tr></thead>
+        <tbody>
+        {% for a in s.arms %}
+          <tr class="arm-{{ a.key }}">
+            <th scope="row" class="tool">{{ a.label }}</th>
+            {% if a.ran %}
+            <td class="num acc"><span class="frac">{{ a.correct[0] }}/{{ a.total }}</span>
+              <span class="pct">{{ "%.0f"|format(a.accuracy * 100) }}%</span>
+              {% if a.rounds > 1 %}<small>{% if a.correct|unique|list|length > 1 %}rounds: {{ a.correct|join(", ") }}{% else %}same in {{ a.rounds }} rounds{% endif %}</small>{% endif %}</td>
+            <td class="num">{{ money(a.cost_per_resolved) }}</td>
+            <td class="num">{{ secs(a.p50) }}</td>
+            <td class="num">{{ secs(a.p95) }}</td>
+            <td class="num">{{ "%.1f"|format(a.searches_per_question) }}</td>
+            {% else %}
+            <td class="na" colspan="5">Not run on this set</td>
+            {% endif %}
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+      </div>
+      <p class="suite-foot">Links cited in answers: {{ s.arms|selectattr("ran")|sum(attribute="cited") }},
+        of which {{ s.arms|selectattr("ran")|sum(attribute="cited_off") }} came from outside the approved sites.
+        Up to {{ s.tool_calls }} searches per question.</p>
+    </section>
+  {% endfor %}
+  </div>
+
+  {% for s in ev.suites %}
+  <section class="eval-questions">
+    <h3 class="section-head">The {{ s.title }}</h3>
+    <div class="table-wrap">
+    <table class="qtable">
+      <thead><tr>
+        <th class="qn">#</th><th>Question</th><th>Right answer (ESPN)</th>
+        {% for a in s.arms %}<th class="mkcol">{{ a.label }}</th>{% endfor %}
+      </tr></thead>
+      <tbody>
+      {% for q in s.questions %}
+        <tr>
+          <td class="qn">{{ loop.index }}</td>
+          <td class="qtext">{{ q.problem }}</td>
+          <td class="qans">{{ q.answer }}</td>
+          {% for a in s.arms %}<td class="mkcol">{{ mark(q.marks[a.key]) }}</td>{% endfor %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+  </section>
+  {% endfor %}
+
+  <p class="evals-foot"><span class="mk yes">✓</span> right &nbsp; <span class="mk no">✗</span> wrong, or said it
+    couldn't verify &nbsp; <span class="mk none">—</span> not run. Costs are the model's tokens plus search fees at
+    list price; grading is not included.</p>
+  <p class="back"><a href="/">← Back to the paper</a></p>
+</article>
+{% endblock %}

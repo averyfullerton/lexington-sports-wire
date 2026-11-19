@@ -7,7 +7,7 @@ on:
     - cron: "0 12 * * 2"  # Tuesdays 12:00 UTC = 7am EST / 8am EDT
   push:  # a design-only change republishes from saved data, with no API calls
     branches: [main]
-    paths: ["app/**"]
+    paths: ["app/**", "evals/results/**", "evals/templates/**", "evals/showcase.py"]
   workflow_dispatch:
     inputs:
       week:

@@ -111,6 +111,14 @@ def home(request: Request):
     })
 
 
+@app.get("/evals", response_class=HTMLResponse)
+def evals(request: Request):
+    """Boring Data for Adults: the search eval results (built from evals/results/summary.json)."""
+    path = ROOT / "evals" / "results" / "summary.json"
+    data = json.loads(path.read_text()) if path.exists() else {"suites": []}
+    return templates.TemplateResponse(request, "evals.html", {**edition(), "ev": data})
+
+
 @app.get("/player/{slug}", response_class=HTMLResponse)
 def player(request: Request, slug: str):
     if slugify(slug) != slug:
