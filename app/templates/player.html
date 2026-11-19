@@ -1,21 +1,24 @@
 {% extends "base.html" %}
 {% block title %}{{ p.name }} · Lexington Sports Wire{% endblock %}
 {% block content %}
-<article class="card">
+<article class="card player-card{% if pin %} pinned{% endif %}"{% if pin %} style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
+  <p class="jersey">{% if p.number %}#{{ p.number }}{% endif %}</p>
   <h2>{{ p.name }}</h2>
-  <p class="meta">{{ p.team }} · #{{ p.number }} · {{ p.position }}</p>
+  <p class="meta">{{ p.team }} · {{ p.position }}</p>
+  <p class="meta">{% if p.college %}College: {{ p.college }}{% endif %}{% if p.experience %} · {{ p.experience }} NFL season{{ "s" if p.experience != 1 }}{% endif %}</p>
   {% if p.fun_facts %}
   <h3>Fun Facts</h3>
-  <ul>{% for f in p.fun_facts[:3] %}<li>{{ f }}</li>{% endfor %}</ul>
+  <ul class="fun-facts">{% for f in p.fun_facts[:3] %}<li>{{ f }}</li>{% endfor %}</ul>
   {% endif %}
-  {% if p.stats %}
-  <h3>Stats</h3>
+  {% if p.stats and p.stats.rows %}
+  <h3>Stats by Season</h3>
   <div class="table-wrap">
-  <table>
-    <thead><tr>{% for col in p.stats[0].keys() %}<th>{{ col }}</th>{% endfor %}</tr></thead>
-    <tbody>{% for row in p.stats %}<tr>{% for v in row.values() %}<td>{{ v }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+  <table class="stats">
+    <thead><tr>{% for col in p.stats.columns %}<th>{{ col }}</th>{% endfor %}</tr></thead>
+    <tbody>{% for row in p.stats.rows %}<tr{% if loop.last %} class="this-season"{% endif %}>{% for v in row %}<td>{{ v }}</td>{% endfor %}</tr>{% endfor %}</tbody>
   </table>
   </div>
   {% endif %}
+  <p><a href="/">← Back to the games</a></p>
 </article>
 {% endblock %}

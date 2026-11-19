@@ -47,7 +47,25 @@ def glossify(paragraph: str, big_words: list[dict] | None, key: str) -> Markup:
             f'<p class="def">{escape(w.get("definition", ""))}</p>'
             f'<p class="ex">“{escape(w.get("example", ""))}”</p>'
             f"</div>")
+    html = link_players(html)
     return Markup(f"<p>{html}</p>" + "".join(cards))
+
+
+SUFFIX_RE = re.compile(r" (Jr\.|Sr\.|II|III|IV)$")
+
+
+def link_players(html: str) -> str:
+    """Link the first full-name mention of each player who has a card (internal links only)."""
+    index = load("players/_index.json", {})
+    for name in sorted(index, key=len, reverse=True):
+        short = SUFFIX_RE.sub("", name)
+        for variant in {short, short.replace("'", "’"), short.replace("’", "'")}:
+            pat = re.compile(r"(?<![\w>/-])" + re.escape(str(escape(variant))) + r"\b(?![^<]*</a>)")
+            html, n = pat.subn(lambda m: f'<a class="player" href="/player/{index[name]}">{m.group(0)}</a>',
+                               html, count=1)
+            if n:
+                break
+    return html
 
 
 templates.env.globals["glossify"] = glossify
@@ -87,7 +105,8 @@ def player(request: Request, slug: str):
     card = load(f"players/{slug}.json", None)
     if card is None:
         raise HTTPException(404)
-    return templates.TemplateResponse(request, "player.html", {"p": card, "pinned": PINNED})
+    return templates.TemplateResponse(request, "player.html", {"p": card, "pinned": PINNED,
+                                                               "pin": PINNED.get(card.get("team_abbr"))})
 
 
 @app.get("/search", response_class=HTMLResponse)
@@ -95,7 +114,7 @@ def search(request: Request, q: str = ""):
     q_norm = q.strip().lower()
     players, games = [], []
     if q_norm:
-        for path in sorted((DATA / "players").glob("*.json")) if (DATA / "players").exists() else []:
+        for path in sorted((DATA / "players").glob("[!_]*.json")) if (DATA / "players").exists() else []:
             card = json.loads(path.read_text())
             if q_norm in card.get("name", "").lower() or q_norm in card.get("team", "").lower():
                 players.append(card | {"slug": path.stem})

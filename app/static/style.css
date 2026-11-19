@@ -39,3 +39,14 @@ a { color: var(--accent); }
 .wordcard .def { margin: 0 0 10px; }
 .wordcard .ex { margin: 0; font-style: italic; color: var(--muted); }
 .wordcard .close { position: absolute; top: 6px; right: 10px; font-size: 1.6rem; line-height: 1; background: none; border: 0; cursor: pointer; color: var(--muted); }
+
+a.player { color: inherit; font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-decoration-color: var(--accent); text-underline-offset: 4px; }
+.player-card { position: relative; }
+.player-card.pinned { border-top: 10px solid var(--team); }
+.player-card .jersey { position: absolute; top: 12px; right: 20px; margin: 0; font-size: 3rem; font-weight: 900; color: var(--team, var(--line)); }
+.player-card h2 { font-size: 2.2rem; margin: 0 0 4px; padding-right: 3.5em; }
+.fun-facts li { margin-bottom: 8px; }
+.table-wrap { overflow-x: auto; }
+table.stats th, table.stats td { padding: 8px 10px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+table.stats th:first-child, table.stats td:first-child, table.stats th:nth-child(2), table.stats td:nth-child(2) { text-align: left; }
+table.stats tr.this-season td { font-weight: 800; background: #fff3c4; }
