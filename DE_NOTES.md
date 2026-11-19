@@ -128,6 +128,24 @@ per story) -> OpenAI rank + rewrite -> Decisions again on the kid text -> tripwi
 
 - 
 
+### 2026-11-19: an allowlisted source got a fact wrong
+ESPN's "Seven things Solak thinks" column described McCaffrey's late, game-sealing catch against a Cover 0
+blitz and then said "A 74-yard touchdown later, the game was over." The official play-by-play has that play as
+a **66-yard** TD at 3:23 of Q4; the 74-yarder was in Q2. The writer repeated the column faithfully, so the
+kid story was wrong even though every step "used only the source."
+- Lesson: the allowlist controls *where* facts come from, not whether they're right. Columns and roundups
+  are weaker than box scores.
+- Fix: stories about last week's games now get ESPN's official scoring plays as an "official record" that
+  wins over the article, plus an OpenAI fact-check pass (story vs. article + official record). Tested on the
+  bad story: it flagged both the yardage and the timing. Next run: 5/5 stories used the record, 1 needed a
+  fact-check retry, all spot-checked details correct.
+
+## Weekly refresh
+`uv run python -m pipeline.refresh` auto-detects the last completed week (ESPN scoreboard) and runs every
+step in order, reusing cached fact sheets and player research. A re-run with everything cached costs only
+the stories step (~$0.07, ~1 min). Estimated fresh week: ~$0.14 game facts + ~$0.13 previews + player
+research for new names only (~$0.76 the first week, less after) + ~$0.10 OpenAI + ~$0.07 stories.
+
 ## Eval results
 | Suite | Mode | Accuracy | p50 latency | Cost |
 |---|---|---|---|---|
