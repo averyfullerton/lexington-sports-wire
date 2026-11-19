@@ -10,85 +10,169 @@
   {%- else -%}<span class="mk some" title="Right in {{ m.right }} of {{ m.of }} rounds">{{ m.right }}/{{ m.of }}</span>
   {%- endif -%}
 {%- endmacro %}
+
+{% macro score_table(s) %}
+  <div class="table-wrap">
+  <table class="evaltable">
+    <thead><tr>
+      <th class="tool">Search tool</th>
+      <th class="num">Accuracy</th>
+      <th class="num">Cost per right answer</th>
+      <th class="num">Typical wait</th>
+      <th class="num">Slowest 5%</th>
+      <th class="num">Searches per question</th>
+    </tr></thead>
+    <tbody>
+    {% for a in s.arms %}
+      <tr class="arm-{{ a.key }}">
+        <th scope="row" class="tool">{{ a.label }}</th>
+        <td class="num acc"><span class="frac">{{ a.correct[0] }}/{{ a.total }}</span>
+          <span class="pct">{{ "%.0f"|format(a.accuracy * 100) }}%</span>
+          {% if a.rounds > 1 %}<small>{% if a.correct|unique|list|length > 1 %}rounds: {{ a.correct|join(", ") }}{% else %}same in {{ a.rounds }} rounds{% endif %}</small>{% endif %}</td>
+        <td class="num">{{ money(a.cost_per_resolved) }}</td>
+        <td class="num">{{ secs(a.p50) }}</td>
+        <td class="num">{{ secs(a.p95) }}</td>
+        <td class="num">{{ "%.1f"|format(a.searches_per_question) }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="suite-foot">Links cited in answers: {{ s.arms|sum(attribute="cited") }}, of which
+    {{ s.arms|sum(attribute="cited_off") }} came from outside the approved sites.
+    Up to {{ s.tool_calls }} searches per question.</p>
+{% endmacro %}
+
+{% macro question_table(s) %}
+  <div class="table-wrap">
+  <table class="qtable">
+    <thead><tr>
+      <th class="qn">#</th><th>Question</th><th>Right answer (ESPN)</th>
+      {% for a in s.arms %}<th class="mkcol">{{ a.label }}</th>{% endfor %}
+    </tr></thead>
+    <tbody>
+    {% for q in s.questions %}
+      <tr>
+        <td class="qn">{{ loop.index }}</td>
+        <td class="qtext">{{ q.problem }}</td>
+        <td class="qans">{{ q.answer }}</td>
+        {% for a in s.arms %}<td class="mkcol">{{ mark(q.marks[a.key]) }}</td>{% endfor %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+{% endmacro %}
+
+{% set easy = ev.suites|selectattr("key", "equalto", "facts")|first %}
+{% set hard5 = ev.suites|selectattr("key", "equalto", "hard5")|first %}
+{% set hard20 = ev.suites|selectattr("key", "equalto", "hard20")|first %}
+{% set h5 = {} %}{% for a in hard5.arms %}{% set _ = h5.update({a.key: a}) %}{% endfor %}
+{% set h20 = {} %}{% for a in hard20.arms %}{% set _ = h20.update({a.key: a}) %}{% endfor %}
+{% set pay = ev.search_payload %}
+
 <article class="evals">
   <header class="evals-head">
     <p class="kicker">Boring Data for Adults</p>
     <h2>Search Evals</h2>
     <p class="lede">How well can an AI answer NFL questions when it looks things up, and what does each right answer
-      cost? The same model ({{ ev.model }}) answered every question; only the search tool changed. Both search tools
-      were limited to the paper's {{ ev.allowlist|length }} approved sites. Answers were checked against ESPN's
+      cost? The same model ({{ ev.model }}) answered every question; only the search tool changed. Every search tool
+      was limited to the paper's {{ ev.allowlist|length }} approved sites. Answers were checked against ESPN's
       official game data and graded by {{ ev.judge }}. Run {{ ev.date }}.</p>
   </header>
 
-  <div class="eval-tables">
-  {% for s in ev.suites %}
-    <section class="eval-suite">
-      <h3 class="section-head">{{ s.title }}</h3>
-      <p class="suite-note">{{ s.note }}</p>
-      <div class="table-wrap">
-      <table class="evaltable">
-        <thead><tr>
-          <th class="tool">Search tool</th>
-          <th class="num">Accuracy</th>
-          <th class="num">Cost per right answer</th>
-          <th class="num">Typical wait</th>
-          <th class="num">Slowest 5%</th>
-          <th class="num">Searches per question</th>
-        </tr></thead>
-        <tbody>
-        {% for a in s.arms %}
-          <tr class="arm-{{ a.key }}">
-            <th scope="row" class="tool">{{ a.label }}</th>
-            {% if a.ran %}
-            <td class="num acc"><span class="frac">{{ a.correct[0] }}/{{ a.total }}</span>
-              <span class="pct">{{ "%.0f"|format(a.accuracy * 100) }}%</span>
-              {% if a.rounds > 1 %}<small>{% if a.correct|unique|list|length > 1 %}rounds: {{ a.correct|join(", ") }}{% else %}same in {{ a.rounds }} rounds{% endif %}</small>{% endif %}</td>
-            <td class="num">{{ money(a.cost_per_resolved) }}</td>
-            <td class="num">{{ secs(a.p50) }}</td>
-            <td class="num">{{ secs(a.p95) }}</td>
-            <td class="num">{{ "%.1f"|format(a.searches_per_question) }}</td>
-            {% else %}
-            <td class="na" colspan="5">Not run on this set</td>
-            {% endif %}
-          </tr>
-        {% endfor %}
-        </tbody>
-      </table>
+  <section class="findings" aria-labelledby="found">
+    <h3 class="section-head" id="found">What we found</h3>
+    <p class="findings-lead">With enough searches, every tool found every answer. Parallel found them in fewer.</p>
+    <div class="finding-grid">
+      <div class="finding">
+        <p class="big">10 results, ~{{ "%.0f"|format(pay["parallel-fast"].chars / 1000) }}K characters</p>
+        <h4>One Parallel search hands the model the page text</h4>
+        <p>Each Parallel search returned {{ pay["parallel-fast"].results|int }} results with excerpts from each page:
+          about {{ "{:,}".format(pay["parallel-fast"].chars) }} characters per search for Fast and
+          {{ "{:,}".format(pay["parallel-advanced"].chars) }} for Advanced. The answer is often already in that text,
+          so the model can answer without opening pages. OpenAI's search results aren't visible to us; we can see
+          its searches and the {{ pay["openai-search"].actions.get("open_page", 0) }} pages it chose to open.</p>
       </div>
-      <p class="suite-foot">Links cited in answers: {{ s.arms|selectattr("ran")|sum(attribute="cited") }},
-        of which {{ s.arms|selectattr("ran")|sum(attribute="cited_off") }} came from outside the approved sites.
-        Up to {{ s.tool_calls }} searches per question.</p>
+      <div class="finding">
+        <p class="big">{{ h5["parallel-advanced"].correct[0] }} · {{ h5["parallel-fast"].correct[0] }} · {{ h5["openai-search"].correct[0] }} <small>of {{ hard5.questions|length }}: Advanced · Fast · OpenAI</small></p>
+        <h4>That matters when searches are limited</h4>
+        <p>With up to 5 searches on the {{ hard5.questions|length }} hard questions, Parallel Advanced answered
+          {{ h5["parallel-advanced"].correct[0] }}, Parallel Fast {{ h5["parallel-fast"].correct[0] }} and OpenAI web
+          search {{ h5["openai-search"].correct[0] }}. Every miss was “I couldn't verify it,” never a wrong answer.
+          All {{ hard5.questions|length - h5["openai-search"].correct[0] }} of OpenAI's misses were whole-week
+          questions (most yards, most sacks, leaders): three times it reached only schedule pages, and the other
+          times it found stats for a game or two but couldn't confirm the rest of the week.</p>
+      </div>
+      <div class="finding">
+        <p class="big">{{ hard20.questions|length }}/{{ hard20.questions|length }} for all {{ hard20.arms|length }}</p>
+        <h4>With room to search, it's a tie</h4>
+        <p>At up to 20 searches, every tool got all {{ hard20.questions|length }} hard questions right (and all
+          {{ easy.questions|length }} easy ones). Then the differences are cost and speed: Parallel Fast cost
+          {{ money(h20["parallel-fast"].cost_per_resolved) }} per right answer vs
+          {{ money(h20["openai-search"].cost_per_resolved) }} for OpenAI, and OpenAI was faster
+          ({{ secs(h20["openai-search"].p50) }} typical vs {{ secs(h20["parallel-fast"].p50) }}).</p>
+      </div>
+    </div>
+    <p class="findings-note">Small print: one round of {{ hard5.questions|length }} questions at the 5-search cap.
+      OpenAI enforces its own search limit and used 6 actions on {{ pay["openai-search"].over_cap }} of those
+      questions, so it had slightly more room, not less.</p>
+  </section>
+
+  <div class="eval-tables">
+    <section class="eval-suite">
+      <h3 class="section-head">{{ easy.title }}</h3>
+      <p class="suite-note">{{ easy.note }}</p>
+      {{ score_table(easy) }}
     </section>
-  {% endfor %}
+    <section class="eval-suite">
+      <h3 class="section-head">{{ hard5.title }}</h3>
+      <p class="suite-note">{{ hard5.note }}</p>
+      {{ score_table(hard5) }}
+    </section>
   </div>
 
-  {% for s in ev.suites %}
   <section class="eval-questions">
-    <h3 class="section-head">The {{ s.title }}</h3>
-    <div class="table-wrap">
-    <table class="qtable">
-      <thead><tr>
-        <th class="qn">#</th><th>Question</th><th>Right answer (ESPN)</th>
-        {% for a in s.arms %}<th class="mkcol">{{ a.label }}</th>{% endfor %}
-      </tr></thead>
-      <tbody>
-      {% for q in s.questions %}
-        <tr>
-          <td class="qn">{{ loop.index }}</td>
-          <td class="qtext">{{ q.problem }}</td>
-          <td class="qans">{{ q.answer }}</td>
-          {% for a in s.arms %}<td class="mkcol">{{ mark(q.marks[a.key]) }}</td>{% endfor %}
-        </tr>
-      {% endfor %}
-      </tbody>
-    </table>
-    </div>
+    <h3 class="section-head">The {{ easy.title }}</h3>
+    {{ question_table(easy) }}
   </section>
-  {% endfor %}
+  <section class="eval-questions">
+    <h3 class="section-head">The {{ hard5.title }}</h3>
+    {{ question_table(hard5) }}
+  </section>
+
+  <section class="eval-questions eval-cap">
+    <h3 class="section-head">When Search cap changes from 5 to 20</h3>
+    <p class="suite-note">{{ hard20.note }} Parallel Turbo was added for this run.</p>
+    {{ score_table(hard20) }}
+    <details class="all-q">
+      <summary>Show all {{ hard20.questions|length }} hard questions</summary>
+      {{ question_table(hard20) }}
+    </details>
+  </section>
+
+  <section class="eval-method">
+    <h3 class="section-head">How we ran it</h3>
+    <ul>
+      <li><b>Harness:</b> Parallel's open-source <i>parallel-search-evals</i>, with our own NFL question sets
+        (<code>suite=local</code>). Its built-in instructions to the model were not changed.</li>
+      <li><b>Answering model:</b> {{ ev.model }} on every tool, with the harness's default reasoning setting.
+        <b>Judge:</b> {{ ev.judge }} (the harness's grader), using our own strict right-or-wrong grading prompt.
+        Answer keys come from ESPN's official game data, never from a search result.</li>
+      <li><b>Search budget:</b> 20 searches or page fetches per question on the easy set and in the last section
+        (the harness's standard budget); 5 on the 20 hard questions above, to see what happens when searches are
+        scarce.</li>
+      <li><b>Our additions to the harness:</b> OpenAI's built-in web search as a competing tool, a 5-search cap
+        option, and the paper's {{ ev.allowlist|length }}-site allowlist on every search tool
+        ({{ ev.allowlist|join(", ") }}).</li>
+      <li><b>Rounds:</b> the easy set was run three times. The first round hit OpenAI's rate limit (11 questions
+        failed before answering), so it was set aside and two clean rounds are shown. Each hard run was done once.</li>
+      <li><b>Cost:</b> the answering model's tokens plus search fees at list price. Grading is not included.</li>
+    </ul>
+  </section>
 
   <p class="evals-foot"><span class="mk yes">✓</span> right &nbsp; <span class="mk no">✗</span> wrong, or said it
-    couldn't verify &nbsp; <span class="mk none">—</span> not run. Costs are the model's tokens plus search fees at
-    list price; grading is not included.</p>
+    couldn't verify. Costs are the model's tokens plus search fees at list price; grading is not included.</p>
   <p class="back"><a href="/">← Back to the paper</a></p>
 </article>
 {% endblock %}
