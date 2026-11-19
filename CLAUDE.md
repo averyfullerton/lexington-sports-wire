@@ -22,7 +22,7 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 
 ## Pipeline: facts first, then writing
 1. **Game facts (Task API + JSON schema):** for each game, collect score, top performers, key plays, team records, and storyline. Keep the per-field `basis` (citations + confidence). Flag or drop low-confidence fields.
-2. **Kid paragraph (Anthropic API):** write the 5 sentences only from the verified facts in step 1.
+2. **Kid paragraph (OpenAI API):** write the 5 sentences only from the verified facts in step 1.
 3. **5 Big Stories (Search + Extract → Decisions → rank):** gather the week's news from allowed sources, filter for safety, pick the 5 most interesting kid-friendly storylines, write each at first-grade level.
 4. **Player cards (Task API + JSON schema):** bio, fun facts, per-season stats, with `basis`.
 5. **Refresh:** weekly on Tuesday morning (after Monday Night Football). The web app only reads stored output in `data/`.
@@ -55,7 +55,17 @@ DE_NOTES.md           friction log: latency, cost, accuracy, surprises
 ```
 
 ## Evaluation
-- Parallel's harness lives in a separate clone at ~/projects/parallel-search-evals (`uv sync --frozen`; needs PARALLEL_API_KEY, ANTHROPIC_API_KEY, and OPENAI_API_KEY for the grader).
-- **Facts suite:** ~30 questions with exactly one right answer (final scores, a player's season TD total), run in baseline vs parallel-fast vs parallel-advanced.
+Follows Parallel's "How to evaluate web search for AI" guide and the open-source harness (github.com/parallel-web/parallel-search-evals).
+
+- **Harness:** separate clone at ~/projects/parallel-search-evals (`uv sync --frozen`). Run with `provider=openai`; needs only PARALLEL_API_KEY and OPENAI_API_KEY (the grader is always OpenAI). Use the README's `python -m parallel_search_evals.run_eval key=value` syntax, not the blog's. Our questions run as `suite=local` with our own judge assets.
+- **Fair comparison:** hold everything constant except the search tool: same OpenAI model, prompt, tool budget and judge. Arms:
+  - `baseline` (closed-book): measures the lift from search and how often the model invents answers. Not a competitor on fresh questions.
+  - `parallel-fast` and `parallel-advanced`: Parallel Search + Extract.
+  - OpenAI's built-in web search: the real head-to-head. Not in the harness; requires adding an engine in a fork.
+  - Same 5-site allowlist on both search arms (a product reason to restrict). The harness doesn't apply `include_domains` today, so that is a fork change too.
+- **Facts suite:** `evals/facts/questions.jsonl`, 30 questions with ESPN-sourced answers (Week 10, 2026; answer key dated 2026-11-19). Mix: scores, QB, kicker, season (player card), evergreen, obscure play-by-play, narrative, and not-yet-played (correct answer is "not played yet"). Run every arm on the same day; season totals change weekly.
+- **Grading:** LLM judge with reasons. Hand-check ~10% (3 questions). Classify failures: no search call, provider error, retrieval miss, synthesis failure.
+- **Report:** accuracy, cost per resolved question (search + extract + model tokens), p50/p95 latency, tool calls, citations on the allowlist. With 30 questions, call close results ties. Run each arm 3 times if budget allows.
 - **Safety suite:** ~20 real headlines, clean and sensitive; measure catches and misses.
-- Record accuracy, latency and cost in DE_NOTES.md.
+- The harness tests Search + Extract only. The Task API game-facts step gets its own check against the same answer key.
+- Record results in DE_NOTES.md.
