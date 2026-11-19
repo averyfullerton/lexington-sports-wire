@@ -9,6 +9,8 @@ scores, rankings, drafts) is saved to data/raw/stories/ for review and the safet
 import argparse
 import json
 import re
+
+import httpx
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from urllib.parse import urlparse
@@ -166,6 +168,71 @@ EASY_WORDS = {"final", "perfect", "returned", "return", "earned", "nearly", "equ
               "strong", "big", "great", "awesome", "amazing", "exciting", "special", "winning"}
 
 
+SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary"
+
+
+def official_record(text: str) -> str:
+    """ESPN final score + scoring plays for last week's games whose teams the text names (max 3)."""
+    path = DATA_DIR / "last_week.json"
+    if not path.exists():
+        return ""
+    from pipeline.schedule import week_games
+
+    games = json.loads(path.read_text())
+    hits = [g for g in games
+            if g["away_team"].split()[-1] in text or g["home_team"].split()[-1] in text][:3]
+    if not hits:
+        return ""
+    ids = {}
+    for g in hits:
+        wk_games = _week_cache(g["game_date"])
+        for x in wk_games:
+            if x["away_abbr"] == g["away_abbr"] and x["home_abbr"] == g["home_abbr"]:
+                ids[x["espn_id"]] = g
+    out = []
+    for eid, g in ids.items():
+        d = httpx.get(SUMMARY, params={"event": eid}, timeout=30).json()
+        lines = [f"{g['away_team']} {g['away_score']} at {g['home_team']} {g['home_score']} (final)"]
+        for sp in d.get("scoringPlays", []):
+            lines.append(f"  Q{sp['period']['number']} {sp['clock']['displayValue']} "
+                         f"{sp['team']['abbreviation']}: {sp['text']}")
+        out.append("\n".join(lines))
+    return "\n\n".join(out)
+
+
+_WEEKS: dict[str, list[dict]] = {}
+
+
+def _week_cache(game_date: str) -> list[dict]:
+    from pipeline.schedule import latest_completed_week, week_games
+
+    if "games" not in _WEEKS:
+        _WEEKS["games"] = week_games(2026, latest_completed_week(2026))
+    return _WEEKS["games"]
+
+
+class Verdict(BaseModel):
+    problems: list[str]
+
+
+VERIFY_INSTRUCTIONS = """\
+You fact-check a short kids' NFL story. You get the STORY, the source ARTICLE, and sometimes the
+OFFICIAL RECORD (ESPN final scores and scoring plays). The official record wins over the article.
+List every claim in the story that conflicts with the official record, or that neither the article
+nor the official record supports. Pay special attention to numbers (yards, scores, counts), which
+play happened when, and which player did what. Do not flag wording, tone or simplification.
+Return an empty list if every claim is supported.
+"""
+
+
+def verify(client: OpenAI, story: str, article: str, record: str) -> list[str]:
+    resp = client.responses.parse(
+        model=MODEL, instructions=VERIFY_INSTRUCTIONS, reasoning={"effort": "low"}, text_format=Verdict,
+        input=f"STORY:\n{story}\n\nOFFICIAL RECORD:\n{record or '(none)'}\n\nARTICLE:\n{article[:12000]}",
+        store=False)
+    return resp.output_parsed.problems
+
+
 class StoryDraft(BaseModel):
     skip: bool
     skip_reason: str
@@ -195,15 +262,19 @@ Otherwise, skip=false and write:
   ALREADY USED list.
   For each: definition (under 15 words) and an example sentence about everyday kid life, not football,
   using the EXAMPLE KID and EXAMPLE TOPIC.
-Facts: use ONLY what the article says. Never add a stat, score, name or detail. Leave out anything about
-injuries, money, betting, or trouble even if the article mentions it. Fun, not mean. Plain text, no emoji.
+Facts: use ONLY what the article and the OFFICIAL RECORD say. When they disagree, the OFFICIAL RECORD wins
+(articles sometimes get a yard total or a play's timing wrong); if unsure, leave that detail out. Never add a
+stat, score, name or detail. Leave out anything about injuries, money, betting, or trouble even if the article
+mentions it. Fun, not mean. Plain text, no emoji.
 """
 
 
 def write_story(client: OpenAI, c: dict, angle: str, used: list[str], i: int) -> dict | None:
+    record = official_record(f"{c['title']} {angle} {c['text'][:3000]}")
     prompt = (f"ANGLE: {angle}\nALREADY USED big words: {', '.join(used) or '(none)'}\n"
               f"EXAMPLE KID: {EXAMPLE_KIDS[(i + 3) % len(EXAMPLE_KIDS)]}\n"
               f"EXAMPLE TOPIC: {EXAMPLE_TOPICS[(i * 7 + 2) % len(EXAMPLE_TOPICS)]}\n\n"
+              f"OFFICIAL RECORD (ESPN):\n{record or '(none)'}\n\n"
               f"ARTICLE: {c['title']}\n{c['text'][:12000]}")
     feedback, problems, d = "", [], None
     for attempt in range(1, MAX_ATTEMPTS + 1):
@@ -221,6 +292,8 @@ def write_story(client: OpenAI, c: dict, angle: str, used: list[str], i: int) ->
         if hits:
             problems.append(f"title contains blocked words {hits}")
         if not problems:
+            problems += [f"fact check: {x}" for x in verify(client, f"{d.title}\n{d.paragraph}", c["text"], record)]
+        if not problems:
             final = classify_story({"url": c["url"], "title": d.title, "text": f"{d.title}\n{d.paragraph}"},
                                    scope="text")
             if not is_safe(final):
@@ -230,7 +303,7 @@ def write_story(client: OpenAI, c: dict, angle: str, used: list[str], i: int) ->
             return {"title": d.title, "paragraph": d.paragraph,
                     "big_words": [w.model_dump() for w in d.big_words],
                     "source_url": c["url"], "source_title": c["title"], "angle": angle, "attempts": attempt,
-                    "final_safety": final["probabilities"]}
+                    "final_safety": final["probabilities"], "official_record_used": bool(record)}
         feedback = "\n\nYour last draft had these problems; fix them:\n- " + "\n- ".join(problems)
     log_drop(c["url"], "stories.rewrite", "; ".join(problems), {"draft": d.model_dump() if d else None})
     return None
