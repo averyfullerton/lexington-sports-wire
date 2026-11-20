@@ -46,23 +46,6 @@ content a 6-year-old reads. Each API does the job it's best at:
 OpenAI (gpt-6.1-terra) does the writing. It only sees the verified facts the pipeline gathered, and its output
 is checked for reading level, length, big-word rules and a keyword tripwire before publishing.
 
-### What I learned
-
-The full log, with numbers, is in [`DE_NOTES.md`](DE_NOTES.md). Highlights:
-
-- **Task API `base` matched `core` on everything the reader sees, at about 40% of the cost.** A full week of
-  14 games runs in about 5 minutes for about $0.14. Final scores and records: 28 of 28 correct.
-- **Confidence isn't correctness.** In a base-vs-core test, every "medium" field was right, and the one error
-  was rated "high." So the pipeline drops only "low" fields and checks player names against ESPN box scores.
-- **An allowed source can still be wrong.** An ESPN column put a 66-yard touchdown at 74 yards. Stories about
-  games are now fact-checked against ESPN's official scoring plays.
-- **The Decisions API researches the web on its own.** A clean recap scored 0.26 for "gambling" until I told
-  it to judge only the text provided. It has no source policy, so its citations are logged and never shown.
-- **Search evals:** with up to 20 searches per question, every tool answered all 30 hard questions correctly;
-  Parallel Fast was cheapest per right answer and OpenAI was fastest. With only 5 searches, Parallel answered
-  more (Advanced 18, Fast 16, OpenAI 13 of 20), because each Parallel search hands the model about 10 results
-  with page excerpts.
-
 ## How it works
 
 ```
