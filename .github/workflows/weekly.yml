@@ -4,7 +4,7 @@ name: Weekly edition
 
 on:
   schedule:
-    - cron: "0 12 * * 2"  # Tuesdays 12:00 UTC = 7am EST / 8am EDT
+    - cron: "0 10 * * 2"  # Tuesdays 10:00 UTC = 5am EST / 6am EDT
   push:  # a design-only change republishes from saved data, with no API calls
     branches: [main]
     paths: ["app/**", "evals/results/**"]
