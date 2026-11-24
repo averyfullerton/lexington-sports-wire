@@ -1,0 +1,87 @@
+{
+  "name": "DeVonta Smith",
+  "espn_id": "4241478",
+  "team": "Philadelphia Eagles",
+  "team_abbr": "PHI",
+  "number": "6",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Alabama",
+  "experience": 6,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "DeVonta scored about 40 points in some high school basketball games.",
+    "DeVonta caught the winning touchdown in the college national championship in his first year.",
+    "DeVonta was the fourth wide receiver ever to win the Heisman Trophy."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2021",
+        "PHI",
+        "17",
+        "64",
+        "916",
+        "5",
+        "46"
+      ],
+      [
+        "2022",
+        "PHI",
+        "17",
+        "95",
+        "1,196",
+        "7",
+        "45"
+      ],
+      [
+        "2023",
+        "PHI",
+        "16",
+        "81",
+        "1,066",
+        "7",
+        "63"
+      ],
+      [
+        "2024",
+        "PHI",
+        "13",
+        "68",
+        "833",
+        "8",
+        "49"
+      ],
+      [
+        "2025",
+        "PHI",
+        "17",
+        "77",
+        "1,008",
+        "4",
+        "79"
+      ],
+      [
+        "2026",
+        "PHI",
+        "5",
+        "31",
+        "351",
+        "2",
+        "31"
+      ]
+    ]
+  }
+}

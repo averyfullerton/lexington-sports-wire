@@ -1,0 +1,157 @@
+{
+  "run_id": "trun_1d63cf7e4268416e919a7acf0e93904b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 195.5,
+  "input": {
+    "player": "Jake Weinberg",
+    "team": "Miami Hurricanes",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Jake Weinberg is from Boynton Beach, Florida.",
+      "He attended American Heritage.",
+      "In 2026, he made 91.7% of his field-goal attempts.",
+      "He converted every extra-point attempt in 2026.",
+      "His longest field goal in 2026 was 50 yards."
+    ],
+    "high_school": "American Heritage",
+    "hometown": "Boynton Beach, Florida"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Weinberg\u2019s birthplace and his 2026 field-goal percentage, extra-point percentage, and longest field goal. The Florida athletics roster identifies his high school as American Heritage.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "Boynton Beach, FL",
+            "[* TA&M 7 * 22 OU 28](https://www.espn.com/college-football/game/_/gameId/401856752/texas-am-oklahoma)\n\nFinal\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jake Weinberg\n\nMiami Hurricanes\n\n* [Miami Hurricanes](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n* \\#22\n* Place Kicker PK\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n\nFollow\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* FG%\n  \n  91\\.7\n  \n  XP%\n  \n  100\\.0\n  \n  LNG\n  \n  50\n  \n  PTS\n  \n  82\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5123219/jake-weinberg)"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        },
+        {
+          "url": "https://floridagators.com/documents/download/2024/12/1/241130flipcard_florida_fsu.pdf",
+          "excerpts": [
+            "22 Jake Weinberg K 5-10 182 FR Boynton Beach, Fla./American Heritage"
+          ],
+          "title": "FLORIDA AT FLORIDA STATE"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The Florida athletics roster lists Jake Weinberg and gives American Heritage as his high school.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2024/12/1/241130flipcard_florida_fsu.pdf",
+          "excerpts": [
+            "22 Jake Weinberg K 5-10 182 FR Boynton Beach, Fla./American Heritage"
+          ],
+          "title": "FLORIDA AT FLORIDA STATE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN\u2019s player biography lists Boynton Beach, Florida, as Weinberg\u2019s birthplace, supporting the hometown entry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "Boynton Beach, FL"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Boynton Beach, Florida, as Weinberg\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "Boynton Beach, FL"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The roster entry identifies American Heritage as Weinberg\u2019s high school.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2024/12/1/241130flipcard_florida_fsu.pdf",
+          "excerpts": [
+            "22 Jake Weinberg K 5-10 182 FR Boynton Beach, Fla./American Heritage"
+          ],
+          "title": "FLORIDA AT FLORIDA STATE"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The 2026 season statistics list his field-goal percentage as 91.7%.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "[* TA&M 7 * 22 OU 28](https://www.espn.com/college-football/game/_/gameId/401856752/texas-am-oklahoma)\n\nFinal\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jake Weinberg\n\nMiami Hurricanes\n\n* [Miami Hurricanes](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n* \\#22\n* Place Kicker PK\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n\nFollow\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* FG%\n  \n  91\\.7\n  \n  XP%\n  \n  100\\.0\n  \n  LNG\n  \n  50\n  \n  PTS\n  \n  82\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5123219/jake-weinberg)"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The 2026 season statistics list his extra-point percentage as 100.0%.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "[* TA&M 7 * 22 OU 28](https://www.espn.com/college-football/game/_/gameId/401856752/texas-am-oklahoma)\n\nFinal\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jake Weinberg\n\nMiami Hurricanes\n\n* [Miami Hurricanes](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n* \\#22\n* Place Kicker PK\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n\nFollow\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* FG%\n  \n  91\\.7\n  \n  XP%\n  \n  100\\.0\n  \n  LNG\n  \n  50\n  \n  PTS\n  \n  82\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5123219/jake-weinberg)"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The 2026 season statistics list his longest field goal as 50 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5123219/jake-weinberg",
+          "excerpts": [
+            "[* TA&M 7 * 22 OU 28](https://www.espn.com/college-football/game/_/gameId/401856752/texas-am-oklahoma)\n\nFinal\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jake Weinberg\n\nMiami Hurricanes\n\n* [Miami Hurricanes](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n* \\#22\n* Place Kicker PK\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n\nFollow\n\n* Class\n  \n  Sophomore\n* HT/WT\n  \n  5' 10\", 189 lbs\n* Birthplace\n  \n  Boynton Beach, FL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* FG%\n  \n  91\\.7\n  \n  XP%\n  \n  100\\.0\n  \n  LNG\n  \n  50\n  \n  PTS\n  \n  82\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5123219/jake-weinberg)"
+          ],
+          "title": "Jake Weinberg Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "run_id": "trun_1d63cf7e4268416e820160f53b09c8e8",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 36.3,
+  "input": {
+    "player": "Mark Fletcher Jr.",
+    "team": "Miami Hurricanes",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In his junior season, Mark Fletcher Jr. set career highs with 216 carries, 1,192 rushing yards and 12 rushing touchdowns, and earned third-team All-ACC recognition.",
+      "Across four College Football Playoff games, he rushed for 507 yards and averaged 6.8 yards per carry.",
+      "He rushed for 172 yards against Texas A&M during Miami\u2019s playoff run.",
+      "In the national championship game against Indiana, he rushed for 112 yards and scored twice.",
+      "Against Stanford, he rushed for 106 yards and a career-high three touchdowns."
+    ],
+    "high_school": "American Heritage High School",
+    "hometown": "Plantation, Florida"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN account states Fletcher\u2019s junior-season career highs and All-ACC selection, along with his combined playoff rushing total and his individual performances against Texas A&M and Indiana. The Stanford recap reports his 106 rushing yards and career-high three touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49086318/ranking-top-running-backs-college-football-2026",
+          "excerpts": [
+            "* * *\n\n## 4\\. [Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) , Miami\n\n**2025 stats:** 1,192 rushing yards, 5.5 yards/carry, 17 receptions, 140 receiving yards, 14 TDs\n\nFletcher cemented himself among the sport's elite big-game performers during Miami's playoff run last season. The Fort Lauderdale, Florida, native totaled 507 rushing yards on 6.8 yards per carry across four CFP games, an overwhelming stretch that included a 172-yard effort against Texas A&M and a 112-yard, two-touchdown performance against Indiana in January's national title game.\n\nMark Fletcher Jr.'s spectacular performances in the CFP showed he can deliver on the biggest stage.",
+            "A third-team All-ACC selection, Fletcher set career highs in carries (216), rushing yards (1,192) and rushing touchdowns (12) in his junior season."
+          ],
+          "title": "Ranking the top running backs in college football for 2026 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401754572",
+          "excerpts": [
+            "[Mark Fletcher Jr](http://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) . rushed for 106 yards and a career-high three touchdowns, Miami's defense was airtight for much of the game and the ninth-ranked Hurricanes pulled away for a 42-7 win over Stanford on Saturday night.\n\n[Carson Beck](http://www.espn.com/college-football/player/_/id/4430841/carson-beck) \u2014 coming off the"
+          ],
+          "title": "Miami 42-7 Stanford (Oct 25, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile identifies American Heritage High School as Fletcher\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246732/mark-fletcher",
+          "excerpts": [
+            "# Mark Fletcher\n\n* \n\n6-1, 220 | Class of 2023\n\n* Hometown [Plantation, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/10806/class/2023)\n* School [American Heritage High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/267)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2023)\n* Status Signed [Miami](https://www.espn.com/college-sports/football/recruiting/school/_/id/2390) 12/18/2022\n\n#### Scout Grade\n\n* 82\n*\n\n|11 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/runningback/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Mark Fletcher Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The recruiting profile lists Plantation, Fla. as Fletcher\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246732/mark-fletcher",
+          "excerpts": [
+            "# Mark Fletcher\n\n* \n\n6-1, 220 | Class of 2023\n\n* Hometown [Plantation, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/10806/class/2023)\n* School [American Heritage High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/267)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2023)\n* Status Signed [Miami](https://www.espn.com/college-sports/football/recruiting/school/_/id/2390) 12/18/2022\n\n#### Scout Grade\n\n* 82\n*\n\n|11 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/runningback/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Mark Fletcher Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The source gives his junior-season career highs and identifies him as a third-team All-ACC selection.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49086318/ranking-top-running-backs-college-football-2026",
+          "excerpts": [
+            "A third-team All-ACC selection, Fletcher set career highs in carries (216), rushing yards (1,192) and rushing touchdowns (12) in his junior season."
+          ],
+          "title": "Ranking the top running backs in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The source says Fletcher totaled 507 rushing yards at 6.8 yards per carry across four CFP games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49086318/ranking-top-running-backs-college-football-2026",
+          "excerpts": [
+            "* * *\n\n## 4\\. [Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) , Miami\n\n**2025 stats:** 1,192 rushing yards, 5.5 yards/carry, 17 receptions, 140 receiving yards, 14 TDs\n\nFletcher cemented himself among the sport's elite big-game performers during Miami's playoff run last season. The Fort Lauderdale, Florida, native totaled 507 rushing yards on 6.8 yards per carry across four CFP games, an overwhelming stretch that included a 172-yard effort against Texas A&M and a 112-yard, two-touchdown performance against Indiana in January's national title game.\n\nMark Fletcher Jr.'s spectacular performances in the CFP showed he can deliver on the biggest stage."
+          ],
+          "title": "Ranking the top running backs in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The source specifically notes Fletcher\u2019s 172-yard performance against Texas A&M.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49086318/ranking-top-running-backs-college-football-2026",
+          "excerpts": [
+            "* * *\n\n## 4\\. [Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) , Miami\n\n**2025 stats:** 1,192 rushing yards, 5.5 yards/carry, 17 receptions, 140 receiving yards, 14 TDs\n\nFletcher cemented himself among the sport's elite big-game performers during Miami's playoff run last season. The Fort Lauderdale, Florida, native totaled 507 rushing yards on 6.8 yards per carry across four CFP games, an overwhelming stretch that included a 172-yard effort against Texas A&M and a 112-yard, two-touchdown performance against Indiana in January's national title game.\n\nMark Fletcher Jr.'s spectacular performances in the CFP showed he can deliver on the biggest stage."
+          ],
+          "title": "Ranking the top running backs in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The source reports that Fletcher rushed for 112 yards and two touchdowns against Indiana in the national title game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49086318/ranking-top-running-backs-college-football-2026",
+          "excerpts": [
+            "* * *\n\n## 4\\. [Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) , Miami\n\n**2025 stats:** 1,192 rushing yards, 5.5 yards/carry, 17 receptions, 140 receiving yards, 14 TDs\n\nFletcher cemented himself among the sport's elite big-game performers during Miami's playoff run last season. The Fort Lauderdale, Florida, native totaled 507 rushing yards on 6.8 yards per carry across four CFP games, an overwhelming stretch that included a 172-yard effort against Texas A&M and a 112-yard, two-touchdown performance against Indiana in January's national title game.\n\nMark Fletcher Jr.'s spectacular performances in the CFP showed he can deliver on the biggest stage."
+          ],
+          "title": "Ranking the top running backs in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Stanford game recap says Fletcher rushed for 106 yards and a career-high three touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401754572",
+          "excerpts": [
+            "[Mark Fletcher Jr](http://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) . rushed for 106 yards and a career-high three touchdowns, Miami's defense was airtight for much of the game and the ninth-ranked Hurricanes pulled away for a 42-7 win over Stanford on Saturday night.\n\n[Carson Beck](http://www.espn.com/college-football/player/_/id/4430841/carson-beck) \u2014 coming off the"
+          ],
+          "title": "Miami 42-7 Stanford (Oct 25, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

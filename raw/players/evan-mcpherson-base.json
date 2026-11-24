@@ -1,0 +1,176 @@
+{
+  "run_id": "trun_415f3f698c1f435bac355513a1d19a3d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 43.9,
+  "input": {
+    "player": "Evan McPherson",
+    "team": "Cincinnati Bengals",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "college": "Florida",
+    "fun_facts": [
+      "Evan McPherson is from Fort Payne, Alabama.",
+      "At Florida, Evan McPherson made 51 of 60 field-goal tries (85%) across three seasons.",
+      "One of Evan McPherson\u2019s nicknames is \u201cShooter.\u201d",
+      "In his rookie season, Evan McPherson made 12 field goals from 50 or more yards\u2014then an NFL record\u2014and five game-winning field goals.",
+      "As a rookie, Evan McPherson kicked the winning field goals in both the AFC Divisional Round and the AFC Championship Game."
+    ],
+    "draft": "2021, round 5, pick 149"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Florida as Evan McPherson\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/evan-mcpherson",
+          "excerpts": [
+            "# Evan McPherson Stats, News and Video - K | NFL.com\n\n# Evan McPherson\n\nK \u2022 \\#2\n\n[Cincinnati Bengals](https://www.nfl.com/teams/cincinnati-bengals/)\n\n### active\n\n* [Info](https://www.nfl.com/players/evan-mcpherson/)\n* [Stats](https://www.nfl.com/players/evan-mcpherson/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  185\n* Arms\n  \n  29\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  6\n* College\n  \n  Florida\n* Age\n  \n  27\n* Hometown\n  \n  Fort Payne, AL\n\n## Related Content - Articles"
+          ],
+          "title": "Evan McPherson Stats, News and Video - K | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives McPherson\u2019s hometown. The NFL account states his Florida field-goal totals and percentage. The cited playoff coverage identifies \u201cShooter\u201d as a nickname, reports his rookie 50-plus-yard and game-winning field-goal records, and describes his winning kicks in the two playoff games.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/evan-mcpherson",
+          "excerpts": [
+            "# Evan McPherson Stats, News and Video - K | NFL.com\n\n# Evan McPherson\n\nK \u2022 \\#2\n\n[Cincinnati Bengals](https://www.nfl.com/teams/cincinnati-bengals/)\n\n### active\n\n* [Info](https://www.nfl.com/players/evan-mcpherson/)\n* [Stats](https://www.nfl.com/players/evan-mcpherson/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  185\n* Arms\n  \n  29\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  6\n* College\n  \n  Florida\n* Age\n  \n  27\n* Hometown\n  \n  Fort Payne, AL\n\n## Related Content - Articles"
+          ],
+          "title": "Evan McPherson Stats, News and Video - K | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-take-2021-draft-s-first-kicker-with-fifth-round-pick-of-evan-mcpherson",
+          "excerpts": [
+            "The Cincinnati Bengals were the only team to draft a kicker in 2021.\n\nThe Bengals selected Florida placekicker [Evan McPherson](https://www.nfl.com/players/evan-mcpherson) with the 149th overall selection in the fifth round.\n\nMcPherson spent three years with the Gators, connecting on 85% of his field-goal attempts, going 51-of-60 overall. He also made 94.5% of his boots inside 40 yards during his career."
+          ],
+          "title": "Bengals take 2021 draft's lone kicker with fifth-round pick of Evan McPherson | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-evan-mcpherson-stays-clutch-keeps-playoff-fg-streak-alive-in-afc-title-g",
+          "excerpts": [
+            "17) and continued through the AFC Championship Game, in which McPherson made all four of his field goals and his lone point-after attempt to defeat Kansas City a second time. The last kick was the sweetest, sending the Bengals to a once-improbable conference title.\n\nUnlike his triumphant kick in the Divisional Round, McPherson didn't call his shot. As it turned out, the kicker nicknamed \u201cShooter\u201d didn't need to.\n\n\"I didn't say anything this week, but yeah, it was going through my head that there's probably a good chance that we're going to the"
+          ],
+          "title": "Bengals' Evan McPherson stays clutch, keeps playoff FG streak alive in AFC title game win vs. Chiefs | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33238549/super-bowl-lvi-how-cincinnati-bengals-evan-mcpherson-became-money-mac",
+          "excerpts": [
+            "It paid dividends in his rookie season with 12 field goals of at least 50 yards -- an NFL record -- and five game-winning field goals."
+          ],
+          "title": "Super Bowl LVI: How the Cincinnati Bengals' Evan McPherson became 'Money Mac' - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40884976/bengals-evan-mcpherson-agree-three-year-165-million-extension",
+          "excerpts": [
+            "Kicker [Evan McPherson](https://www.espn.com/nfl/player/_/id/4360234/evan-mcpherson) has agreed to terms on a three-year extension worth $16.5 million, a source confirmed to ESPN. McPherson, a fifth-round draft pick in 2021, was in the final year of his rookie contact.\n\nThe former Florida standout was an integral piece of Cincinnati's best playoff run in 33 years. As a rookie, he hit the winning field goals in the AFC divisional round of the 2021 playoffs and the AFC championship game against Kansas City.\n\n## Editor's Picks"
+          ],
+          "title": "Bengals, Evan McPherson agree to three-year, $16.5 million extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography lists his draft information as 2021, round 5, pick 149 for Cincinnati.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360234/evan-mcpherson",
+          "excerpts": [
+            "* CIN\n  \n  7-2\n* WSH\n  \n  3-5-1\n\nTues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Evan McPherson\n\nCincinnati Bengals\n\n* [Cincinnati Bengals Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n* \\#2\n* Place Kicker PK\n\n* HT/WT\n  \n  5' 11\", 185 lbs\n* Birthdate\n  \n  7/21/1999 (27)\n* College\n  \n  [Florida](https://www.espn.com/college-football/team/_/id/57/florida-gators)\n\nFollow\n\n* HT/WT\n  \n  5' 11\", 185 lbs\n* Birthdate\n  \n  7/21/1999 (27)\n* College\n  \n  [Florida](https://www.espn.com/college-football/team/_/id/57/florida-gators)\n* Draft Info\n  \n  2021: Rd 5, Pk 149 (CIN)\n* Status\n  \n  Active\n\n## 2026 regular season stats"
+          ],
+          "title": "Evan McPherson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL player profile names Fort Payne, Alabama, as McPherson\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/evan-mcpherson",
+          "excerpts": [
+            "# Evan McPherson Stats, News and Video - K | NFL.com\n\n# Evan McPherson\n\nK \u2022 \\#2\n\n[Cincinnati Bengals](https://www.nfl.com/teams/cincinnati-bengals/)\n\n### active\n\n* [Info](https://www.nfl.com/players/evan-mcpherson/)\n* [Stats](https://www.nfl.com/players/evan-mcpherson/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  185\n* Arms\n  \n  29\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  6\n* College\n  \n  Florida\n* Age\n  \n  27\n* Hometown\n  \n  Fort Payne, AL\n\n## Related Content - Articles"
+          ],
+          "title": "Evan McPherson Stats, News and Video - K | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL account says McPherson spent three years at Florida and made 51 of 60 field-goal attempts, or 85%.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-take-2021-draft-s-first-kicker-with-fifth-round-pick-of-evan-mcpherson",
+          "excerpts": [
+            "The Cincinnati Bengals were the only team to draft a kicker in 2021.\n\nThe Bengals selected Florida placekicker [Evan McPherson](https://www.nfl.com/players/evan-mcpherson) with the 149th overall selection in the fifth round.\n\nMcPherson spent three years with the Gators, connecting on 85% of his field-goal attempts, going 51-of-60 overall. He also made 94.5% of his boots inside 40 yards during his career."
+          ],
+          "title": "Bengals take 2021 draft's lone kicker with fifth-round pick of Evan McPherson | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article explicitly refers to McPherson as the kicker nicknamed \u201cShooter.\u201d",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-evan-mcpherson-stays-clutch-keeps-playoff-fg-streak-alive-in-afc-title-g",
+          "excerpts": [
+            "17) and continued through the AFC Championship Game, in which McPherson made all four of his field goals and his lone point-after attempt to defeat Kansas City a second time. The last kick was the sweetest, sending the Bengals to a once-improbable conference title.\n\nUnlike his triumphant kick in the Divisional Round, McPherson didn't call his shot. As it turned out, the kicker nicknamed \u201cShooter\u201d didn't need to.\n\n\"I didn't say anything this week, but yeah, it was going through my head that there's probably a good chance that we're going to the"
+          ],
+          "title": "Bengals' Evan McPherson stays clutch, keeps playoff FG streak alive in AFC title game win vs. Chiefs | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The article states that McPherson made 12 field goals of at least 50 yards, an NFL record at the time, and five game-winning field goals in his rookie season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33238549/super-bowl-lvi-how-cincinnati-bengals-evan-mcpherson-became-money-mac",
+          "excerpts": [
+            "It paid dividends in his rookie season with 12 field goals of at least 50 yards -- an NFL record -- and five game-winning field goals."
+          ],
+          "title": "Super Bowl LVI: How the Cincinnati Bengals' Evan McPherson became 'Money Mac' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The article says McPherson hit the winning field goals in the 2021 AFC Divisional Round and AFC Championship Game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40884976/bengals-evan-mcpherson-agree-three-year-165-million-extension",
+          "excerpts": [
+            "Kicker [Evan McPherson](https://www.espn.com/nfl/player/_/id/4360234/evan-mcpherson) has agreed to terms on a three-year extension worth $16.5 million, a source confirmed to ESPN. McPherson, a fifth-round draft pick in 2021, was in the final year of his rookie contact.\n\nThe former Florida standout was an integral piece of Cincinnati's best playoff run in 33 years. As a rookie, he hit the winning field goals in the AFC divisional round of the 2021 playoffs and the AFC championship game against Kansas City.\n\n## Editor's Picks"
+          ],
+          "title": "Bengals, Evan McPherson agree to three-year, $16.5 million extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

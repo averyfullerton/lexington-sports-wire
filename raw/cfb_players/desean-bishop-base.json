@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_1d63cf7e4268416ead50d8982afb523c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 63.3,
+  "input": {
+    "player": "DeSean Bishop",
+    "team": "Tennessee Volunteers",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "DeSean Bishop\u2019s hometown is Knoxville, Tennessee.",
+      "He starred at Karns High School in Knoxville\u2014close to the University of Tennessee.",
+      "Against Georgia Tech in 2026, he rushed for 147 yards and two touchdowns.",
+      "In 2026, he became just the second player in Tennessee history to post 1,000-yard rushing seasons back to back; the first was Johnnie Jones in 1983\u201384.",
+      "Over two seasons, 947 of his 1,531 rushing yards came after contact, and he forced 47 missed tackles."
+    ],
+    "high_school": "Karns High School",
+    "hometown": "Knoxville, Tennessee"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The recruiting profile identifies Knoxville as Bishop\u2019s hometown. ESPN\u2019s 2026 player feature says he starred at Karns High School in Knoxville. ESPN\u2019s Georgia Tech recap reports 147 rushing yards and two touchdowns. ESPN\u2019s Texas A&M preview says he reached 1,000 rushing yards for a second straight season and was only the second Tennessee player to do so, after Johnnie Jones in 1983\u201384. The 2026 player feature also gives his two-season yards-after-contact and forced-missed-tackle totals.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/249983/desean-bishop",
+          "excerpts": [
+            "# Desean Bishop\n\n* \n\n5-10, 190 | Class of 2023\n\n* Hometown [Knoxville, Tenn.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/49/hometown/10891/class/2023)\n* School [Karns High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/6866)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2023)\n* Status Committed [Tennessee](https://www.espn.com/college-sports/football/recruiting/school/_/id/2633) 12/21/2022\n\n#### Scout Grade\n\n* 74\n*\n\n|100 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/runningback/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Desean Bishop Running Back Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49582973/2026-college-football-player-rank-top-100-jeremiah-smith-leonard-moore",
+          "excerpts": [
+            "play 0:12\n\nJaron-Keawe Sagapolutele throws 35-yard touchdown pass to Jaiven Plummer\n\n## 70\\. [DeSean Bishop](https://www.espn.com/college-football/player/_/id/4921108/desean-bishop)\n\n**RB, [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers) , junior**  \n_2025 notable stats: 182 carries, 1,076 yards, 16 TDs_  \n_2025 postseason ranking: NR_\n\nThe Volunteers didn't have to go far to find Bishop, who starred at Karns High School in Knoxville. They gave him a chance to walk-on, which was his only offer from an FBS team. He's on scholarship now after he ran for 1,076 yards with 16 touchdowns in 2025. Over the past two seasons, 947 of Bishop's 1,531 rushing yards came after contact and he forced 47 missed tackles."
+          ],
+          "title": "CFB Player Rank: The top 100 players ahead of the 2026 season - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856681",
+          "excerpts": [
+            "[Full Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401856681)\n\n## Game Information\n\nAtlanta, GA\n\nESPN\n\n### Video Highlights\n\n* \n* \n* \n* \n*\n\n[## DeSean Bishop rushes for 2 TDs as No. 18 Tennessee handles Georgia Tech 45-24 \u2014 DeSean Bishop rushed for 147 yards and two touchdowns and freshman Faizon Brandon threw for two scores, leading No. 18 Tennessee to a 45-24 victory over Georgia Tech on Saturday night. Sep 13, 2026, 12:02 am - AP](https://www.espn.com/college-football/recap/_/gameId/401856681)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nTennessee Volunteers\n\nTouchdown"
+          ],
+          "title": "Tennessee 45-24 Georgia Tech (Sep 12, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856888",
+          "excerpts": [
+            "If they hope to salvage their season, the Aggies will have to find a way to slow down running back [DeSean Bishop](http://www.espn.com/college-football/player/_/id/4921108/desean-bishop) .\n\nHe had 109 yards rushing with two scores on Saturday to eclipse 1,000 yards for a second straight season, making him just the second player in school history with consecutive 1,000-yard seasons and the first since Johnnie Jones (1983-84).\n\nBishop ranks second in the SEC and 10th in the nation by averaging 118.4 yards a game and his 13 rushing scores are also second-most in the league and rank seventh nationally."
+          ],
+          "title": "Tennessee vs. Texas A&M (Nov 14, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN states that Bishop starred at Karns High School in Knoxville, identifying the high school he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49582973/2026-college-football-player-rank-top-100-jeremiah-smith-leonard-moore",
+          "excerpts": [
+            "play 0:12\n\nJaron-Keawe Sagapolutele throws 35-yard touchdown pass to Jaiven Plummer\n\n## 70\\. [DeSean Bishop](https://www.espn.com/college-football/player/_/id/4921108/desean-bishop)\n\n**RB, [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers) , junior**  \n_2025 notable stats: 182 carries, 1,076 yards, 16 TDs_  \n_2025 postseason ranking: NR_\n\nThe Volunteers didn't have to go far to find Bishop, who starred at Karns High School in Knoxville. They gave him a chance to walk-on, which was his only offer from an FBS team. He's on scholarship now after he ran for 1,076 yards with 16 touchdowns in 2025. Over the past two seasons, 947 of Bishop's 1,531 rushing yards came after contact and he forced 47 missed tackles."
+          ],
+          "title": "CFB Player Rank: The top 100 players ahead of the 2026 season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile explicitly lists Knoxville, Tennessee, as Bishop\u2019s hometown.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/249983/desean-bishop",
+          "excerpts": [
+            "# Desean Bishop\n\n* \n\n5-10, 190 | Class of 2023\n\n* Hometown [Knoxville, Tenn.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/49/hometown/10891/class/2023)\n* School [Karns High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/6866)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2023)\n* Status Committed [Tennessee](https://www.espn.com/college-sports/football/recruiting/school/_/id/2633) 12/21/2022\n\n#### Scout Grade\n\n* 74\n*\n\n|100 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/runningback/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Desean Bishop Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile lists Knoxville, Tenn., as Bishop\u2019s hometown.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/249983/desean-bishop",
+          "excerpts": [
+            "# Desean Bishop\n\n* \n\n5-10, 190 | Class of 2023\n\n* Hometown [Knoxville, Tenn.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/49/hometown/10891/class/2023)\n* School [Karns High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/6866)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2023)\n* Status Committed [Tennessee](https://www.espn.com/college-sports/football/recruiting/school/_/id/2633) 12/21/2022\n\n#### Scout Grade\n\n* 74\n*\n\n|100 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/runningback/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Desean Bishop Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN says Bishop starred at Karns High School in Knoxville and notes that Tennessee did not have to go far to find him.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49582973/2026-college-football-player-rank-top-100-jeremiah-smith-leonard-moore",
+          "excerpts": [
+            "play 0:12\n\nJaron-Keawe Sagapolutele throws 35-yard touchdown pass to Jaiven Plummer\n\n## 70\\. [DeSean Bishop](https://www.espn.com/college-football/player/_/id/4921108/desean-bishop)\n\n**RB, [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers) , junior**  \n_2025 notable stats: 182 carries, 1,076 yards, 16 TDs_  \n_2025 postseason ranking: NR_\n\nThe Volunteers didn't have to go far to find Bishop, who starred at Karns High School in Knoxville. They gave him a chance to walk-on, which was his only offer from an FBS team. He's on scholarship now after he ran for 1,076 yards with 16 touchdowns in 2025. Over the past two seasons, 947 of Bishop's 1,531 rushing yards came after contact and he forced 47 missed tackles."
+          ],
+          "title": "CFB Player Rank: The top 100 players ahead of the 2026 season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap states that Bishop rushed for 147 yards and two touchdowns in Tennessee\u2019s win over Georgia Tech.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856681",
+          "excerpts": [
+            "[Full Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401856681)\n\n## Game Information\n\nAtlanta, GA\n\nESPN\n\n### Video Highlights\n\n* \n* \n* \n* \n*\n\n[## DeSean Bishop rushes for 2 TDs as No. 18 Tennessee handles Georgia Tech 45-24 \u2014 DeSean Bishop rushed for 147 yards and two touchdowns and freshman Faizon Brandon threw for two scores, leading No. 18 Tennessee to a 45-24 victory over Georgia Tech on Saturday night. Sep 13, 2026, 12:02 am - AP](https://www.espn.com/college-football/recap/_/gameId/401856681)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nTennessee Volunteers\n\nTouchdown"
+          ],
+          "title": "Tennessee 45-24 Georgia Tech (Sep 12, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The preview states that Bishop passed 1,000 rushing yards for a second straight season and that only Johnnie Jones had previously achieved consecutive 1,000-yard seasons at Tennessee.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856888",
+          "excerpts": [
+            "If they hope to salvage their season, the Aggies will have to find a way to slow down running back [DeSean Bishop](http://www.espn.com/college-football/player/_/id/4921108/desean-bishop) .\n\nHe had 109 yards rushing with two scores on Saturday to eclipse 1,000 yards for a second straight season, making him just the second player in school history with consecutive 1,000-yard seasons and the first since Johnnie Jones (1983-84).\n\nBishop ranks second in the SEC and 10th in the nation by averaging 118.4 yards a game and his 13 rushing scores are also second-most in the league and rank seventh nationally."
+          ],
+          "title": "Tennessee vs. Texas A&M (Nov 14, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN\u2019s feature reports that 947 of Bishop\u2019s 1,531 rushing yards over two seasons came after contact and that he forced 47 missed tackles.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49582973/2026-college-football-player-rank-top-100-jeremiah-smith-leonard-moore",
+          "excerpts": [
+            "play 0:12\n\nJaron-Keawe Sagapolutele throws 35-yard touchdown pass to Jaiven Plummer\n\n## 70\\. [DeSean Bishop](https://www.espn.com/college-football/player/_/id/4921108/desean-bishop)\n\n**RB, [Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers) , junior**  \n_2025 notable stats: 182 carries, 1,076 yards, 16 TDs_  \n_2025 postseason ranking: NR_\n\nThe Volunteers didn't have to go far to find Bishop, who starred at Karns High School in Knoxville. They gave him a chance to walk-on, which was his only offer from an FBS team. He's on scholarship now after he ran for 1,076 yards with 16 touchdowns in 2025. Over the past two seasons, 947 of Bishop's 1,531 rushing yards came after contact and he forced 47 missed tackles."
+          ],
+          "title": "CFB Player Rank: The top 100 players ahead of the 2026 season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

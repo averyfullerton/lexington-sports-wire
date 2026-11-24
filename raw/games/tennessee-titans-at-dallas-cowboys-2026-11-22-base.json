@@ -1,0 +1,499 @@
+{
+  "run_id": "trun_64eebd575c494505b662fd32f6b8f9a5",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 163.4,
+  "input": {
+    "away_team": "Tennessee Titans",
+    "home_team": "Dallas Cowboys",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Tennessee Titans",
+    "key_plays": [
+      "Q1 8:23: Javonte Williams 1-yard touchdown run (two-point conversion failed)",
+      "Q2 4:08: Dak Prescott 10-yard touchdown pass to George Pickens",
+      "Q3 7:31: Cam Ward 59-yard touchdown pass to Carnell Tate",
+      "Q3 4:24: Dak Prescott 2-yard rushing touchdown",
+      "Q4 6:48: Quinnen Williams strip-sacked Cam Ward; Dallas recovered the fumble and returned it 70 yards to Tennessee\u2019s 15-yard line"
+    ],
+    "away_score": 30,
+    "storyline": "Dallas won 51-30 after scoring on its first eight possessions; Dak Prescott accounted for five touchdowns, four passing and one rushing. The win left Dallas 5-6, while Tennessee fell to 1-9.",
+    "top_performers": [
+      {
+        "stat_line": "28 of 33, 325 yards, 4 passing TD, 0 INT; 4 carries, 9 yards, 1 rushing TD",
+        "team": "Dallas Cowboys",
+        "name": "Dak Prescott"
+      },
+      {
+        "stat_line": "21 of 30, 248 yards, 2 passing TD, 0 INT; 2 carries, 3 yards, 1 rushing TD",
+        "team": "Tennessee Titans",
+        "name": "Cam Ward"
+      },
+      {
+        "stat_line": "11 receptions, 132 yards, 1 TD",
+        "team": "Dallas Cowboys",
+        "name": "CeeDee Lamb"
+      },
+      {
+        "stat_line": "7 receptions, 102 yards, 1 TD",
+        "team": "Dallas Cowboys",
+        "name": "George Pickens"
+      },
+      {
+        "stat_line": "21 carries, 110 yards",
+        "team": "Tennessee Titans",
+        "name": "Tony Pollard"
+      }
+    ],
+    "home_record_after": "5-6",
+    "tough_day": [
+      {
+        "stat_line": "5 sacks taken; 1 fumble lost",
+        "team": "Tennessee Titans",
+        "name": "Cam Ward"
+      }
+    ],
+    "away_record_after": "1-9",
+    "home_team": "Dallas Cowboys",
+    "home_score": 51
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary identifies the visitor and home teams and gives their final point totals, establishing that the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tennessee Titans 3 6 14 7 0 30 HOME: Dallas Cowboys 13 14 14 10 0 51"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary labels Tennessee Titans as the visitor.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tennessee Titans 3 6 14 7 0 30"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official game summary lists the scoring plays chronologically with descriptions, quarter, and time; the per-play entries below cite the specific plays selected.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Cowboys J.Williams 1 yd. run (pass failed) (14-73, 6:37) 0 6 1 8:23 Titans J.Slye 38 yd. Field Goal (9-45, 3:27) 3 6 1 4:56 Cowboys K.Turpin 22 yd. run (B.Aubrey kick) (6-74, 3:21) 3 13 1 1:35 Cowboys C.Lamb 8 yd. pass from D.Prescott (B.Aubrey kick) (5-56, 1:48) 3 20 2 12:59 Titans J.Slye 48 yd. Field Goal (6-18, 2:25) 6 20 2 10:34 Cowboys G.Pickens 10 yd. pass from D.Prescott (B.Aubrey kick) (11-72, 6:26) 6 27 2 4:08 Titans J.Slye 28 yd. Field Goal (12-63, 4:08) 9 27 2 0:00 Titans C.Ward 1 yd. run (J.Slye kick) (4-71, 1:52) 16 27 3 13:08 Cowboys J.Williams 11 yd. pass from D.Prescott (B.Aubrey kick) (7-71, 4:10) 16 34 3 8:58 **National Football League Game Summary** **National Football League Game Summary** Paid Attendance: 92,367 Time: 3:02 Titans C.Tate 59 yd. pass from C.Ward (J.Slye kick) (2-68, 1:39) 23 34 3 7:19 Cowboys D.Prescott 2 yd. run (B.Aubrey kick) (6-74, 3:02) 23 41 3 4:17 Cowboys B.Aubrey 49 yd. Field Goal (11-60, 5:30) 23 44 4 11:33 Cowboys B.Spann-Ford 2 yd. pass from D.Prescott (B.Aubrey kick) (3-15, 1:29) 23 51 4 4:59 Titans C.Ridley 12 yd. pass from C.Ward (J.Slye kick) (12-72, 4:28) 30 51 4 0:31"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official final line for the visiting Tennessee Titans ends with a score of 30.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tennessee Titans 3 6 14 7 0 30"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The sources state that Dallas scored on its first eight possessions, Prescott threw four touchdown passes and added a rushing score, and the teams\u2019 records after the game were Tennessee 1-9 and Dallas 5-6.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50566873/dak-prescott-continues-hot-streak-leads-cowboys-titans",
+          "excerpts": [
+            "\"Dak is going to throw the ball to the first open guy,\" coach Brian Schottenheimer said.\n\nThe Cowboys scored on their first eight possessions (seven touchdowns, one field goal)."
+          ],
+          "title": "Dak Prescott continues hot streak, leads Cowboys past Titans - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition.",
+            "[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans) SCORE 51 [Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary supplies the passing, rushing, and receiving box-score numbers; the NFL recap identifies the players by full name and confirms key performance totals. The entries below cite the evidence for each player.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** T.Pollard 110 5.2 0 21 14 J.Williams 67 3.7 1 18 11 M.Carter 9 2.3 0 4 6 K.Turpin 41 20.5 1 2 **22** C.Dike 4 4.0 0 1 4 J.Corbin 32 6.4 0 5 15 C.Ward 3 1.5 1 2 2 D.Prescott 9 2.3 1 4 6 G.Pickens 6 6.0 0 1 6 28 126 4.5 14 1 Total 30 155 5.2 22 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Ward 248 2 30 21 5/28 0 117.1 D.Prescott 325 4 33 28 0/0 0 147.3 31 **59** 33 325 4 28 0/0 0 147.3 21 248 2 30 5/28 0 117.1 Total Total 31 59 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** C.Dike 69 11.5 0 6 7 C.Lamb 132 12.0 1 11 12 29 22 C.Ridley 68 13.6 1 5 6 G.Pickens 102 14.6 1 7 10 31 21 E.Ayomanor 27 9.0 0 3 3 J.Williams 24 8.0 1 3 3 **11** 12 C.Tate 58 29.0 1 2 5 J.Mitchell 40 20.0 0 2 2 27 **59** G.Helm 14 7.0 0 2 3 B.Spann-Ford 5 2.5 1 2 2 3 9 D.Bellinger 5 5.0 0 1 1 R.Flournoy 11 11.0 0 1 1 11 5 X.Restrepo 5 5.0 0 1 1 L.Schoonmaker 6 6.0 0 1 1 6 5 M.Carter 2 2.0 0 1 1 J.Corbin 5 5.0 0 1 1 5 2 T.Pollard 0 0.0 0 0 1 K.Turpin 0 0.0 0 0 1 0 0 21 248 11.8 59 2 Total 28 28 325 11.6 31 4 Total 33"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition. **Titans descend back to reality.** Tennessee has been the most entertaining one-win team in recent memory over the last few weeks, taking the Browns and Bengals to the wire and battling with the Jaguars before falling to its AFC South rival by double digits. The Titans could credit their offense and quarterback [Cam Ward](https://www.nfl.com/players/cam-ward) for this stretch of competitive football, but it ended Sunday with a harsh reminder of how bad this defense currently is. With [Jeffery Simmons](https://www.nfl.com/players/jeffery-simmons) now playing in Chicago and [Amani Hooker](https://www.nfl.com/players/amani-hooker) wearing a Bills uniform, the Titans no longer had a couple of playmakers capable of covering up for mistakes and deficiencies elsewhere, and boy, did it show on Sunday. Dallas racked up 480 yards of offense, converted 4 of 6 third downs and got basically whatever it wanted offensively all afternoon. The fact the Cowboys only reached third down six times in a game in which they ran 63 plays is telling in itself. This unit needs work and likely won't improve much for the remainder of this campaign."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The Week 11 NFL recap lists the Dallas Cowboys at 5-6 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap says Ward was sacked five times. The official play-by-play records a sack of Ward, a fumble, and Dallas recovering and returning it, supporting the fumble-lost statistic.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Pettine will be a topic of conversation this week.** It began before Mike Pettine officially took over as play-caller, but after his shift into leading defensive chair this week, the veteran coach's name will remain in the news cycle thanks in large part to a Cowboys pass rush that is finding consistent success. The unit got after Cam Ward all afternoon Sunday, sacking him five times and generating a 41.7% pressure rate. [Quinnen Williams](https://www.nfl.com/players/quinnen-williams) and [James Houston](https://www.nfl.com/players/james-houston) led the way, with each registering five pressures and two sacks, continuing an upward trend that began when Pettine arrived as a senior defensive assistant. The rest of the unit's relative success against Tennessee -- the Titans finished 3 for 10 on third down, turned it over once and lost time of possession by nearly six minutes -- as well as the 21-point scoring difference will throw Pettine's name into topic bars across sports media this week as if he has suddenly saved this defense. Sunday's performance should be handled with caution, though. The Titans still allowed Tony Pollard to run for 110 yards, gave up 346 yards of offense and still surrendered 30 points. It will take much more (against a better team) to convince anyone that a play-caller change was all this embattled defense needed. But one development can be properly credited to Pettine: The pass-rushing unit -- especially Williams -- has certainly found its teeth. **Next Gen Stats Insight for [Titans-Cowboys](https://pro.nfl.com/games/game/ab99929a-4feb-11f1-abca-2c54536568a9) (via NFL Pro):** Quinnen Williams generated five pressures and two sacks across 18 pass rushes in Week 11 against the Titans (27.8% pressure rate), including a strip-sack fumble of Cam Ward in the red zone on a play late in the fourth quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(6:48) (Shotgun) C.Ward sacked at DAL 20 for -11 yards (Q.Williams). FUMBLES (Q.Williams) [Q.Williams], touched at DAL 18, RECOVERED by DAL-M.Bell at DAL 15. M.Bell to TEN 15 for 70 yards (C.Tate)."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The Week 11 NFL recap lists the Tennessee Titans at 1-9 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary labels Dallas Cowboys as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Dallas Cowboys 13 14 14 10 0 51"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official final line for the home Dallas Cowboys ends with a score of 51.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Dallas Cowboys 13 14 14 10 0 51"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The official scoring log gives the first-quarter 1-yard Cowboys touchdown run, and the game listing identifies Williams by his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cowboys J.Williams 1 yd. run (pass failed) (14-73, 6:37) 0 6 1 8:23"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873073",
+          "excerpts": [
+            "## Javonte Williams scores his 2nd TD of the game\n* 0:16\n  \n  ## Dak Prescott increases Cowboys' lead with a TD pass to George Pickens"
+          ],
+          "title": "Cowboys 51-30 Titans (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring log records the second-quarter touchdown pass from Prescott to Pickens; the recap identifies both players by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cowboys G.Pickens 10 yd. pass from D.Prescott (B.Aubrey kick) (11-72, 6:26) 6 27 2 4:08"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring log records the 59-yard Tennessee touchdown pass in the third quarter, and the game highlights identify Carnell Tate and Cam Ward by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Titans C.Tate 59 yd. pass from C.Ward (J.Slye kick) (2-68, 1:39) 23 34 3 7:19"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/matchup?gameId=401873073",
+          "excerpts": [
+            "## Tennessee Titans vs. Dallas Cowboys: Game Highlights\n\nTennessee Titans vs. Dallas Cowboys: Game Highlights\n\n* 0:56\n\nCarnell Tate runs untouched for a 59-yard Titans TD you have to see\n\n* 0:49"
+          ],
+          "title": "Cowboys 51-30 Titans (Nov 22, 2026) Game Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Titans descend back to reality.** Tennessee has been the most entertaining one-win team in recent memory over the last few weeks, taking the Browns and Bengals to the wire and battling with the Jaguars before falling to its AFC South rival by double digits. The Titans could credit their offense and quarterback [Cam Ward](https://www.nfl.com/players/cam-ward) for this stretch of competitive football, but it ended Sunday with a harsh reminder of how bad this defense currently is. With [Jeffery Simmons](https://www.nfl.com/players/jeffery-simmons) now playing in Chicago and [Amani Hooker](https://www.nfl.com/players/amani-hooker) wearing a Bills uniform, the Titans no longer had a couple of playmakers capable of covering up for mistakes and deficiencies elsewhere, and boy, did it show on Sunday."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official scoring log records Prescott\u2019s third-quarter rushing touchdown; the recap gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cowboys D.Prescott 2 yd. run (B.Aubrey kick) (6-74, 3:02) 23 41 3 4:17"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The official play-by-play records Ward\u2019s sack, fumble, Dallas recovery, and 70-yard return. The NFL recap identifies the strip-sack defender as Quinnen Williams.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(6:48) (Shotgun) C.Ward sacked at DAL 20 for -11 yards (Q.Williams). FUMBLES (Q.Williams) [Q.Williams], touched at DAL 18, RECOVERED by DAL-M.Bell at DAL 15. M.Bell to TEN 15 for 70 yards (C.Tate)."
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Next Gen Stats Insight for [Titans-Cowboys](https://pro.nfl.com/games/game/ab99929a-4feb-11f1-abca-2c54536568a9) (via NFL Pro):** Quinnen Williams generated five pressures and two sacks across 18 pass rushes in Week 11 against the Titans (27.8% pressure rate), including a strip-sack fumble of Cam Ward in the red zone on a play late in the fourth quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap gives Prescott\u2019s full name and passing totals; the official game summary provides his rushing line and confirms the passing box-score figures.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Ward 3 1.5 1 2 2 D.Prescott 9 2.3 1 4 6 G.Pickens 6 6.0 0 1 6 28 126 4.5 14 1 Total 30 155 5.2 22 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Ward 248 2 30 21 5/28 0 117.1 D.Prescott 325 4 33 28 0/0 0 147.3 31 **59**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official game summary supplies Ward\u2019s passing and rushing numbers; the recap identifies him by full name and notes the five sacks.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Ward 3 1.5 1 2 2 D.Prescott 9 2.3 1 4 6 G.Pickens 6 6.0 0 1 6 28 126 4.5 14 1 Total 30 155 5.2 22 3 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** C.Ward 248 2 30 21 5/28 0 117.1 D.Prescott 325 4 33 28 0/0 0 147.3 31 **59**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Titans descend back to reality.** Tennessee has been the most entertaining one-win team in recent memory over the last few weeks, taking the Browns and Bengals to the wire and battling with the Jaguars before falling to its AFC South rival by double digits. The Titans could credit their offense and quarterback [Cam Ward](https://www.nfl.com/players/cam-ward) for this stretch of competitive football, but it ended Sunday with a harsh reminder of how bad this defense currently is. With [Jeffery Simmons](https://www.nfl.com/players/jeffery-simmons) now playing in Chicago and [Amani Hooker](https://www.nfl.com/players/amani-hooker) wearing a Bills uniform, the Titans no longer had a couple of playmakers capable of covering up for mistakes and deficiencies elsewhere, and boy, did it show on Sunday."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The recap identifies CeeDee Lamb and records 11 catches for 132 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The recap identifies George Pickens and records seven catches for 102 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Dak lights up Tennessee.** Another week, and another high-flying day for the Cowboys quarterback. [Dak Prescott](https://www.nfl.com/players/dak-prescott) was in a flow state all afternoon, completing 28 of 33 passes for 325 yards and four touchdowns, and adding a rushing score of his own for good measure. He had plenty of time to throw and open receivers to target throughout the contest, leading a Dallas offense that seemed to score 51 points with the utmost ease. [CeeDee Lamb](https://www.nfl.com/players/ceedee-lamb) recorded yet another 10-plus-catch, 100-plus-yard outing (11 for 132 and a touchdown), [George Pickens](https://www.nfl.com/players/george-pickens) tacked on seven grabs (including [a fantastic, toe-tapping grab](https://www.nfl.com/videos/can-t-miss-play-pickens-pirouettes-for-toe-tap-catch-and-30-yard-gain-against-titans) to set up a score) for 102 yards and a touchdown, and the Cowboys cruised against a Titans defense that was guaranteed to give up big plays. We didn't learn anything new about this group Sunday, we were just reminded of the potential to put up big numbers against inferior competition."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The official rushing table records Pollard\u2019s 21 carries for 110 yards; the NFL recap names him and repeats the 110-yard total.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** T.Pollard 110 5.2 0 21 14 J.Williams 67 3.7 1 18 11"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Pettine will be a topic of conversation this week.** It began before Mike Pettine officially took over as play-caller, but after his shift into leading defensive chair this week, the veteran coach's name will remain in the news cycle thanks in large part to a Cowboys pass rush that is finding consistent success. The unit got after Cam Ward all afternoon Sunday, sacking him five times and generating a 41.7% pressure rate. [Quinnen Williams](https://www.nfl.com/players/quinnen-williams) and [James Houston](https://www.nfl.com/players/james-houston) led the way, with each registering five pressures and two sacks, continuing an upward trend that began when Pettine arrived as a senior defensive assistant. The rest of the unit's relative success against Tennessee -- the Titans finished 3 for 10 on third down, turned it over once and lost time of possession by nearly six minutes -- as well as the 21-point scoring difference will throw Pettine's name into topic bars across sports media this week as if he has suddenly saved this defense. Sunday's performance should be handled with caution, though. The Titans still allowed Tony Pollard to run for 110 yards, gave up 346 yards of offense and still surrendered 30 points. It will take much more (against a better team) to convince anyone that a play-caller change was all this embattled defense needed. But one development can be properly credited to Pettine: The pass-rushing unit -- especially Williams -- has certainly found its teeth."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The NFL recap reports five sacks of Ward, and the official play-by-play shows Ward was sacked and fumbled with Dallas recovering the ball.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Pettine will be a topic of conversation this week.** It began before Mike Pettine officially took over as play-caller, but after his shift into leading defensive chair this week, the veteran coach's name will remain in the news cycle thanks in large part to a Cowboys pass rush that is finding consistent success. The unit got after Cam Ward all afternoon Sunday, sacking him five times and generating a 41.7% pressure rate. [Quinnen Williams](https://www.nfl.com/players/quinnen-williams) and [James Houston](https://www.nfl.com/players/james-houston) led the way, with each registering five pressures and two sacks, continuing an upward trend that began when Pettine arrived as a senior defensive assistant. The rest of the unit's relative success against Tennessee -- the Titans finished 3 for 10 on third down, turned it over once and lost time of possession by nearly six minutes -- as well as the 21-point scoring difference will throw Pettine's name into topic bars across sports media this week as if he has suddenly saved this defense. Sunday's performance should be handled with caution, though. The Titans still allowed Tony Pollard to run for 110 yards, gave up 346 yards of offense and still surrendered 30 points. It will take much more (against a better team) to convince anyone that a play-caller change was all this embattled defense needed. But one development can be properly credited to Pettine: The pass-rushing unit -- especially Williams -- has certainly found its teeth. **Next Gen Stats Insight for [Titans-Cowboys](https://pro.nfl.com/games/game/ab99929a-4feb-11f1-abca-2c54536568a9) (via NFL Pro):** Quinnen Williams generated five pressures and two sacks across 18 pass rushes in Week 11 against the Titans (27.8% pressure rate), including a strip-sack fumble of Cam Ward in the red zone on a play late in the fourth quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795381834/gamecenter/ab99929a-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(6:48) (Shotgun) C.Ward sacked at DAL 20 for -11 yards (Q.Williams). FUMBLES (Q.Williams) [Q.Williams], touched at DAL 18, RECOVERED by DAL-M.Bell at DAL 15. M.Bell to TEN 15 for 70 yards (C.Tate)."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays.0",
+      "key_plays.2",
+      "key_plays.4",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Dallas, the Cowboys and Titans battled for a win. Dallas scored on its first 8 possessions and won 51-30! Dak Prescott tossed 4 touchdown passes and ran for another. Cam Ward zipped a 59-yard touchdown pass to Carnell Tate. Then Quinnen Williams gave Dallas more momentum with a strip-sack! Dallas ran the fumble back 70 yards. The win put the Cowboys at 5-6, while the Titans fell to 1-9.",
+    "big_words": [
+      {
+        "word": "momentum",
+        "definition": "A push that helps something keep moving or growing.",
+        "example": "Sofia gained momentum as her talent show dance got faster."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1231,
+        "output": 176
+      }
+    ]
+  }
+}

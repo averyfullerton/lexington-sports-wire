@@ -1,0 +1,526 @@
+{
+  "run_id": "trun_64eebd575c49450597c47a7fb6105861",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 144.1,
+  "input": {
+    "away_team": "Indianapolis Colts",
+    "home_team": "Houston Texans",
+    "game_date": "2026-11-19",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Indianapolis Colts",
+    "key_plays": [
+      "Q1 2:14: Nico Collins 42-yard TD pass from C.J. Stroud",
+      "Q2 7:38: Kayshon Boutte 24-yard TD pass from C.J. Stroud",
+      "Q3 10:22: Will Anderson Jr. sacked Daniel Jones in the end zone for a safety",
+      "Q3 4:19: Marlin Klein 13-yard TD pass from C.J. Stroud"
+    ],
+    "away_score": 3,
+    "storyline": "Houston improved to 4-6 and earned its first home win of the season after losing its first four home games. The loss dropped Indianapolis to 3-8.",
+    "top_performers": [
+      {
+        "stat_line": "21/27, 194 yards, 3 TD, 1 INT",
+        "team": "Houston Texans",
+        "name": "C.J. Stroud"
+      },
+      {
+        "stat_line": "26 carries, 107 yards, 0 TD",
+        "team": "Houston Texans",
+        "name": "David Montgomery"
+      },
+      {
+        "stat_line": "3 receptions, 58 yards, 1 TD",
+        "team": "Houston Texans",
+        "name": "Nico Collins"
+      },
+      {
+        "stat_line": "2 receptions, 40 yards, 1 TD",
+        "team": "Houston Texans",
+        "name": "Kayshon Boutte"
+      },
+      {
+        "stat_line": "5 tackles, 4 QB hits, 2 tackles for loss, 1 sack",
+        "team": "Houston Texans",
+        "name": "Will Anderson Jr."
+      }
+    ],
+    "home_record_after": "4-6",
+    "tough_day": [
+      {
+        "stat_line": "12/27, 144 yards, 0 TD, 1 INT; 2 sacks for 15 yards",
+        "team": "Indianapolis Colts",
+        "name": "Daniel Jones"
+      },
+      {
+        "stat_line": "11 carries, 21 yards, 0 TD",
+        "team": "Indianapolis Colts",
+        "name": "Jonathan Taylor"
+      },
+      {
+        "stat_line": "1/3 field goals (34-yard make; 56-yard miss; 62-yard attempt blocked)",
+        "team": "Indianapolis Colts",
+        "name": "Spencer Shrader"
+      }
+    ],
+    "away_record_after": "3-8",
+    "home_team": "Houston Texans",
+    "home_score": 26
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary gives both teams' quarter-by-quarter scoring and a total, establishing that this matchup was completed.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Indianapolis Colts 3 0 0 0 0 3 HOME: Houston Texans 7 10 9 0 0 26 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies Indianapolis as the visitor at Houston.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Indianapolis Colts at Houston Texans** Start Time: 7:15 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary records the sequence and times of the Colts field goal and Houston's touchdowns and safety; the individual entries below identify the selected plays and players.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Field Goal (9-44, 4:17) 3 0 1 10:43 Texans N.Collins 42 yd. pass from C.Stroud (K.Fairbairn kick) (3-54, 1:25) 3 7 1 2:14 Texans K.Boutte 24 yd. pass from C.Stroud (K.Fairbairn kick) (12-85, 7:14) 3 14 2 7:38 Texans K.Fairbairn 27 yd. Field Goal (8-39, 2:26) 3 17 2 0:15 Texans D.Jones sacked in end zone by W.Anderson for a Safety 3 19 3 10:22 Texans M.Klein 13 yd. pass from C.Stroud (K.Fairbairn kick) (10-57, 6:03) 3 26 3 4:19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official summary lists the visitor's quarter scores and final total as 3.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Indianapolis Colts 3 0 0 0 0 3"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Houston won at home for the first time that season after losing its first four home games. The final scoreboard lists Indianapolis at 3-8 and Houston at 4-6.",
+      "citations": [
+        {
+          "url": "https://espn.com/nfl/recap/_/gameId/401873066",
+          "excerpts": [
+            "[](https://espn.com/nfl/team/_/name/hou/houston-texans)\n\n[Houston Texans Texans HOU](https://espn.com/nfl/team/_/name/hou/houston-texans)\n\n4-6 , 1-4 Home\n\n26\n\n4-6 , 1-4 Home\n\n## Indianapolis Colts @ Houston Texans"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n[Indianapolis Colts Colts IND](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n3-8 , 1-5 Away\n\n3\n\n3-8 , 1-5 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) IND |3 |0 |0 |0 |3 |",
+            "[Houston Texans Texans HOU](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n4-6 , 1-4 Home\n\n26\n\n4-6 , 1-4 Home\n\n# Indianapolis Colts @ Houston Texans\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game statistics give Stroud's passing line and the Texans' rushing and receiving figures. The recap identifies Montgomery by full name and reports his 107-yard rushing performance.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** J.Taylor 21 1.9 0 11 6 D.Montgomery 107 4.1 0 26 15 S.McGowan 7 2.3 0 3 8 E.Demercado 33 6.6 0 5 10 D.Giddens 5 5.0 0 1 5 C.Stroud 27 4.5 0 6 26 D.Jones 3 3.0 0 1 3 A.Richardson 2 2.0 0 1 2 17 38 2.2 8 0 Total 37 167 4.5 26 0 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** D.Jones 144 0 27 12 2/15 1 45.9 C.Stroud 194 3 27 21 1/7 1 118.2 **42** 31 A.Richardson 0 0 2 0 0/0 0 39.6 0 27 194 3 21 1/7 1 118.2 12 144 0 29 2/15 1 42.9 Total Total 42 31 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Taylor 6 1.5 0 4 5 M.Klein 24 6.0 1 4 4 **13** 5 A.Gould 48 24.0 0 2 3 N.Collins 58 19.3 1 3 5 **42** 31 A.Dulin 30 15.0 0 2 4 T.Dell 27 9.0 0 3 4 10 25 Q.Watkins 26 26.0 0 1 3 D.Montgomery 17 5.7 0 3 4 9 26 T.Warren 22 22.0 0 1 5 K.Boutte 40 20.0 1 2 2 **24** 22 D.Giddens 11 11.0 0 1 1 X.Hutchinson 13 6.5 0 2 3 11 11 S.McGowan 1 1.0 0 1 1 E.Demercado -4 -2.0 0 2 2 0 1 D.Burks 0 0.0 0 0 3 D.Schultz 11 11.0 0 1 1 11 0 L.Treadwell 0 0.0 0 0 1 F.Moreau 8 8.0 0 1 1 8 0 12 144 12.0 31 0 Total 26"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "| [C.J. Stroud](https://www.espn.com/nfl/player/_/id/4432577/cj-stroud) #7 | | team | | C/ATT | YDS | TD | INT | SACKS | | 21/27 | 194 | 3 | 1 | 1-7 |"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873066",
+          "excerpts": [
+            "Houston\u2019s [David Montgomery](http://www.espn.com/nfl/player/_/id/4035538/david-montgomery) had 26 carries for a season-high 107 yards in his return after missing four games with a groin injury.\n\nThe Colts led early after Spencer Shrader\u2019s 34-yard field goal on the game\u2019s first drive.\n\nStroud\u2019s pass was tipped four times by three players before [A.J."
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final scoreboard lists Houston at 4-6 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n[Indianapolis Colts Colts IND](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n3-8 , 1-5 Away\n\n3\n\n3-8 , 1-5 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) IND |3 |0 |0 |0 |3 |",
+            "[Houston Texans Texans HOU](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n4-6 , 1-4 Home\n\n26\n\n4-6 , 1-4 Home\n\n# Indianapolis Colts @ Houston Texans\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The box score records Jones's passing and sack totals, Taylor's rushing output, and Shrader's field-goal results; the specific players and lines are detailed below.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "| [Daniel Jones](https://www.espn.com/nfl/player/_/id/3917792/daniel-jones) #17 | | [Anthony Richardson Sr.](https://www.espn.com/nfl/player/_/id/4429084/anthony-richardson-sr) #5 | | team | | C/ATT | YDS | TD | INT | SACKS | | 12/27 | 144 | 0 | 1 | 2-15 |"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Shrader (34) 56WL 62B K.Fairbairn (27) **Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Colts S.Shrader 34 yd. Field Goal (9-44, 4:17) 3 0 1 10:43 Texans N.Collins 42 yd. pass from C.Stroud (K.Fairbairn kick) (3-54, 1:25) 3 7 1 2:14 Texans K.Boutte 24 yd. pass from C.Stroud (K.Fairbairn kick) (12-85, 7:14) 3 14 2 7:38 Texans K.Fairbairn 27 yd. Field Goal (8-39, 2:26) 3 17 2 0:15"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final scoreboard lists Indianapolis at 3-8 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n[Indianapolis Colts Colts IND](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts)\n\n3-8 , 1-5 Away\n\n3\n\n3-8 , 1-5 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Colts](https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts) IND |3 |0 |0 |0 |3 |",
+            "[Houston Texans Texans HOU](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n\n4-6 , 1-4 Home\n\n26\n\n4-6 , 1-4 Home\n\n# Indianapolis Colts @ Houston Texans\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans)"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary names Houston as the home team in the matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Indianapolis Colts at Houston Texans** Start Time: 7:15 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official summary lists Houston's quarter scores and final total as 26.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Houston Texans 7 10 9 0 0 26"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The official scoring summary records the 42-yard Collins touchdown at 2:14 of the first quarter; the play display gives the receiver's full name and Stroud as passer.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans N.Collins 42 yd. pass from C.Stroud (K.Fairbairn kick) (3-54, 1:25) 3 7 1 2:14"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game?gameId=401873066",
+          "excerpts": [
+            "27\n  \n  XPM\n  \n  2\n  \n  XPA\n  \n  2\n\n4th & 6 at IND 9\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nField Goal\n\n10:43 - 1st\n\n3\n\nIND\n\n0\n\nHOU\n\nSpencer Shrader 34 Yd Field Goal\n\n9 plays, 44 yards, 4:17\n\nTouchdown\n\n2:14 - 1st\n\n3\n\nIND\n\n7\n\nHOU\n\nNico Collins 42 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n3 plays, 54 yards, 1:25\n\n2nd Quarter\n\nTouchdown\n\n7:38 - 2nd\n\n3\n\nIND\n\n14\n\nHOU\n\nKayshon Boutte 24 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n12 plays, 85 yards, 7:14\n\nField Goal"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary and play listing identify Boutte's 24-yard touchdown catch at 7:38 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans K.Boutte 24 yd. pass from C.Stroud (K.Fairbairn kick) (12-85, 7:14) 3 14 2 7:38"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066",
+          "excerpts": [
+            "2nd Quarter\n\nTouchdown\n\n7:38 - 2nd\n\n3\n\nIND\n\n14\n\nHOU\n\nKayshon Boutte 24 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n12 plays, 85 yards, 7:14\n\nField Goal\n\n0:15 - 2nd\n\n3\n\nIND\n\n17\n\nHOU"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official summary records the third-quarter safety at 10:22, and the highlight identifies Will Anderson Jr. as the player responsible for it.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans D.Jones sacked in end zone by W.Anderson for a Safety 3 19 3 10:22"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans?lang=en",
+          "excerpts": [
+            "## Kamari Lassiter skies for an impressive Texans INT\n* 0:28\n  \n  ## C.J. Stroud finds Marlin Klein for his 3rd passing TD\n* 0:28\n  \n  ## Will Anderson Jr. comes up big with Texans safety\n* 0:20"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official summary and play listing record Marlin Klein's 13-yard touchdown reception at 4:19 of the third quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Texans M.Klein 13 yd. pass from C.Stroud (K.Fairbairn kick) (10-57, 6:03) 3 26 3 4:19"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066",
+          "excerpts": [
+            "3 plays, -5 yards, 1:26\n\nTouchdown\n\n4:19 - 3rd\n\n3\n\nIND\n\n26\n\nHOU\n\nMarlin Klein 13 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n10 plays, 57 yards, 6:03"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box score lists Stroud at 21/27 for 194 yards, three touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "| [C.J. Stroud](https://www.espn.com/nfl/player/_/id/4432577/cj-stroud) #7 | | team | | C/ATT | YDS | TD | INT | SACKS | | 21/27 | 194 | 3 | 1 | 1-7 |"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The recap names David Montgomery and reports 26 carries for 107 yards; the official rushing table supplies the game-stat row.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873066",
+          "excerpts": [
+            "Houston\u2019s [David Montgomery](http://www.espn.com/nfl/player/_/id/4035538/david-montgomery) had 26 carries for a season-high 107 yards in his return after missing four games with a groin injury.\n\nThe Colts led early after Spencer Shrader\u2019s 34-yard field goal on the game\u2019s first drive.\n\nStroud\u2019s pass was tipped four times by three players before [A.J."
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** J.Taylor 21 1.9 0 11 6 D.Montgomery 107 4.1 0 26 15"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The official receiving table lists Collins with three catches for 58 yards and a touchdown, and the scoring display names him on the 42-yard score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Taylor 6 1.5 0 4 5 M.Klein 24 6.0 1 4 4 **13** 5 A.Gould 48 24.0 0 2 3 N.Collins 58 19.3 1 3 5 **42** 31"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game?gameId=401873066",
+          "excerpts": [
+            "27\n  \n  XPM\n  \n  2\n  \n  XPA\n  \n  2\n\n4th & 6 at IND 9\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nField Goal\n\n10:43 - 1st\n\n3\n\nIND\n\n0\n\nHOU\n\nSpencer Shrader 34 Yd Field Goal\n\n9 plays, 44 yards, 4:17\n\nTouchdown\n\n2:14 - 1st\n\n3\n\nIND\n\n7\n\nHOU\n\nNico Collins 42 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n3 plays, 54 yards, 1:25\n\n2nd Quarter\n\nTouchdown\n\n7:38 - 2nd\n\n3\n\nIND\n\n14\n\nHOU\n\nKayshon Boutte 24 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n12 plays, 85 yards, 7:14\n\nField Goal"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The receiving table lists Boutte with two catches for 40 yards and a touchdown; the play display gives his full name on the 24-yard score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** J.Taylor 6 1.5 0 4 5 M.Klein 24 6.0 1 4 4 **13** 5 A.Gould 48 24.0 0 2 3 N.Collins 58 19.3 1 3 5 **42** 31 A.Dulin 30 15.0 0 2 4 T.Dell 27 9.0 0 3 4 10 25 Q.Watkins 26 26.0 0 1 3 D.Montgomery 17 5.7 0 3 4 9 26 T.Warren 22 22.0 0 1 5 K.Boutte 40 20.0 1 2 2 **24** 22"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066",
+          "excerpts": [
+            "2nd Quarter\n\nTouchdown\n\n7:38 - 2nd\n\n3\n\nIND\n\n14\n\nHOU\n\nKayshon Boutte 24 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)\n\n12 plays, 85 yards, 7:14\n\nField Goal\n\n0:15 - 2nd\n\n3\n\nIND\n\n17\n\nHOU"
+          ],
+          "title": "Colts vs. Texans (Nov 19, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The NFL recap reports Anderson's five tackles, four quarterback hits, two tackles for loss, and sack; the highlight identifies him as Will Anderson Jr.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/colts-texans-on-thursday-night-football-what-we-learned-from-houston-s-26-3-win",
+          "excerpts": [
+            "Anderson was a beast on Thursday night, racking up five tackles, four QB hits, two tackles for loss, a game-high nine QB pressures, per Next Gen Stats, and an emphatic sack of Daniel Jones for a"
+          ],
+          "title": "Colts-Texans on 'Thursday Night Football': What We Learned from Houston's 26-3 win | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066/colts-texans?lang=en",
+          "excerpts": [
+            "## Kamari Lassiter skies for an impressive Texans INT\n* 0:28\n  \n  ## C.J. Stroud finds Marlin Klein for his 3rd passing TD\n* 0:28\n  \n  ## Will Anderson Jr. comes up big with Texans safety\n* 0:20"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The box score gives Jones's full passing line, one interception, and two sacks for 15 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066",
+          "excerpts": [
+            "| [Daniel Jones](https://www.espn.com/nfl/player/_/id/3917792/daniel-jones) #17 | | [Anthony Richardson Sr.](https://www.espn.com/nfl/player/_/id/4429084/anthony-richardson-sr) #5 | | team | | C/ATT | YDS | TD | INT | SACKS | | 12/27 | 144 | 0 | 1 | 2-15 |"
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The official rushing table and game leaders list Taylor with 11 carries for 21 yards and no rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** J.Taylor 21 1.9 0 11 6 D.Montgomery 107 4.1 0 26 15"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://espn.com/nfl/matchup/_/gameId/401873066",
+          "excerpts": [
+            "## Game Leaders\n\n[IND](https://espn.com/nfl/team/_/name/ind/indianapolis-colts) [HOU](https://espn.com/nfl/team/_/name/hou/houston-texans)\n\nPassing Yards\n\n[144 D. Jones QB 12/27, 1 INT 144](https://espn.com/nfl/player/_/id/3917792/daniel-jones)\n\nPassing Yards\n\n[194 C.J. Stroud QB 21/27, 3 TD, 1 INT 194](https://espn.com/nfl/player/_/id/4432577/cj-stroud)\n\nRushing Yards\n\n[21 J. Taylor RB 11 CAR 21](https://espn.com/nfl/player/_/id/4242335/jonathan-taylor)\n\nRushing Yards\n\n[107 D."
+          ],
+          "title": "Texans 26-3 Colts (Nov 19, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.2",
+      "reasoning": "The official game summary shows Shrader's 34-yard make, 56-yard miss, and blocked 62-yard attempt; the recap names him and describes the two failed attempts.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab997d97-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Shrader (34) 56WL 62B K.Fairbairn (27) **Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Colts S.Shrader 34 yd. Field Goal (9-44, 4:17) 3 0 1 10:43"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/colts-texans-on-thursday-night-football-what-we-learned-from-houston-s-26-3-win",
+          "excerpts": [
+            "Yes, the Colts led this one, 3-0. Unfortunately, the Texans scored the next 26 points. [Spencer Shrader](https://www.nfl.com/players/spencer-shrader) missed a 56-yard field goal on Indy\u2019s second drive of the game and missed a 62-yarder with more than 2 minutes left in the first half."
+          ],
+          "title": "Colts-Texans on 'Thursday Night Football': What We Learned from Houston's 26-3 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "top_performers",
+      "top_performers.4",
+      "tough_day"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "C.J. Stroud zips a 42-yard touchdown pass to Nico Collins! The Texans beat the Colts 26-3 in Houston. Stroud tossed 2 more touchdowns to Kayshon Boutte and Marlin Klein. Will Anderson Jr. sacked Daniel Jones in the end zone for a safety! David Montgomery rumbled for 107 yards. The dominant win was Houston\u2019s first at home this season. The Texans climbed to 4-6, while the Colts fell to 3-8.",
+    "big_words": [
+      {
+        "word": "dominant",
+        "definition": "In control and hard to beat.",
+        "example": "Leo\u2019s dog was dominant in their tug-of-war over a sock."
+      }
+    ],
+    "opener": "Start with the single biggest play, told as action, as if it is happening now.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1273,
+        "output": 150
+      }
+    ]
+  }
+}

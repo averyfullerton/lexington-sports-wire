@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_1d63cf7e4268416e86d22dbc51dbe652",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 133.5,
+  "input": {
+    "player": "Nate Sheppard",
+    "team": "Duke Blue Devils",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In Duke\u2019s 2026 comeback win over Illinois, Nate Sheppard ran for 147 yards and scored three times: once on the ground and twice on catches.",
+      "Against Stanford in 2026, Nate Sheppard scored three touchdowns\u2014two rushing and one receiving\u2014and gained 154 rushing yards.",
+      "In the 2026 game against Miami, Nate Sheppard piled up 240 yards in three ways: 131 rushing, 93 receiving, and 16 passing. He also scored twice on the ground and caught a conversion pass.",
+      "In 2025, Nate Sheppard became Duke\u2019s first true freshman to start at running back in 15 years. In his first start, against Syracuse, he had 201 all-purpose yards and two scores on 19 touches."
+    ],
+    "high_school": "Mandeville High School",
+    "hometown": "Mandeville, Louisiana"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN game recaps report Sheppard\u2019s 147-yard, three-score performance against Illinois; his three touchdowns and 154 rushing yards against Stanford; and his 240 yards across rushing, receiving, and passing against Miami. The ESPN freshman-season account says he became Duke\u2019s first true freshman starting running back in 15 years and describes his 201 all-purpose yards and two scores on 19 touches against Syracuse.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858217",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858217)\n\n# Nate Sheppard scores 3 TDs, Duke rallies to beat Illinois 31-27 for its sixth straight win\n\nBy AP\n\nUpdated: Sep 13, 2026, 12:22 am\n\nFacebook Facebook Messenger Twitter Email\n\nCHAMPAIGN, Ill. -- \u2014 [Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) ran for 147 yards and a touchdown and caught two touchdown passes to lead Duke to a come-from-behind 31-27 victory Saturday over Illinois.\n\nThe victory was the sixth straight for the defending ACC champion Blue Devils in a streak that dates back to November 22, 2025, when they beat North Carolina 32-25.\n\nDuke (2-0) fell behind 24-14 in the second quarter and was down 24-21 at halftime. The Blue Devils never trailed again after taking a 28-24 lead in the third quarter."
+          ],
+          "title": "Duke 31-27 Illinois (Sep 12, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858231",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858231)\n\n* [Videos](https://www.espn.com/college-football/video/_/gameId/401858231)\n\n# Sheppard scores 3 TDs as Duke handles Stanford, 35-7\n\n1:58\n\n## Stanford Cardinal vs. Duke Blue Devils: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Sep 20, 2026, 12:28 am\n\nFacebook Facebook Messenger Twitter Email\n\nDURHAM, N.C. -- \u2014 [Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) scored on two runs and a reception, gained 154 yards on the ground and undefeated Duke beat Stanford 35-7 on Saturday.\n\nDuke (3-0, 1-0 Atlantic Coast Conference), the defending conference champion, has won five consecutive ACC openers for the first time in program history.\n\nSheppard carried 23 times and scored on a 2-yard play on his lone catch.\n\n\u201cYou have to let Nate Sheppard have his fingerprints on the game,\u201d Duke coach Manny Diaz said."
+          ],
+          "title": "Duke 35-7 Stanford (Sep 19, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858296",
+          "excerpts": [
+            "Mensah, [who transferred to Miami after leading Duke](https://apnews.com/article/miami-duke-ap-top-25-mensah-906553d199501602860a08e548eac380) to last season's ACC title, completed 30 of 41 passes and went over the 3,000-yard mark for the season.\n\n[Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) accounted for 240 yards \u2014 131 rushing, 93 receiving and 16 passing \u2014 plus rushed for two scores and caught a conversion pass for Duke (7-3, 5-3). Sheppard had a pair of 47-yard runs in the game, along with 12 catches.\n\n\u201cWhat an advertisement for one of the best players in the United States,\" Duke coach Manny Diaz said of Sheppard, the first player to run for that many yards against Miami since September 2024."
+          ],
+          "title": "Miami 36-25 Duke (Nov 14, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47515679/25-best-freshman-college-football-season",
+          "excerpts": [
+            "He became the first true freshman to start at running back for Duke in 15 years on Sept. 27 against Syracuse and rewarded the decision by compiling a season-high 201 all-purpose yards and two scores on 19 touches."
+          ],
+          "title": "Ranking the 25 best freshmen from the college football season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN\u2019s recruiting profile directly identifies Mandeville High School as Nate Sheppard\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/256846/nate-sheppard",
+          "excerpts": [
+            "# Nate Sheppard\n\n* \n\n5-10, 180 | Class of 2025\n\n* Hometown [Mandeville, La.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/23/hometown/7131/class/2025)\n* School [Mandeville High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/8120)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2025)\n* Status Signed [Duke](https://www.espn.com/college-sports/football/recruiting/school/_/id/150) 08/23/2024\n\n#### Scout Grade\n\n* 77\n*"
+          ],
+          "title": "Nate Sheppard Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The same ESPN profile directly lists his hometown as Mandeville, Louisiana.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/256846/nate-sheppard",
+          "excerpts": [
+            "# Nate Sheppard\n\n* \n\n5-10, 180 | Class of 2025\n\n* Hometown [Mandeville, La.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/23/hometown/7131/class/2025)\n* School [Mandeville High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/8120)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2025)\n* Status Signed [Duke](https://www.espn.com/college-sports/football/recruiting/school/_/id/150) 08/23/2024\n\n#### Scout Grade\n\n* 77\n*"
+          ],
+          "title": "Nate Sheppard Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Illinois recap says Sheppard ran for 147 yards and records his rushing touchdown and two touchdown catches in Duke\u2019s comeback victory.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858217",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858217)\n\n# Nate Sheppard scores 3 TDs, Duke rallies to beat Illinois 31-27 for its sixth straight win\n\nBy AP\n\nUpdated: Sep 13, 2026, 12:22 am\n\nFacebook Facebook Messenger Twitter Email\n\nCHAMPAIGN, Ill. -- \u2014 [Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) ran for 147 yards and a touchdown and caught two touchdown passes to lead Duke to a come-from-behind 31-27 victory Saturday over Illinois.\n\nThe victory was the sixth straight for the defending ACC champion Blue Devils in a streak that dates back to November 22, 2025, when they beat North Carolina 32-25.\n\nDuke (2-0) fell behind 24-14 in the second quarter and was down 24-21 at halftime. The Blue Devils never trailed again after taking a 28-24 lead in the third quarter."
+          ],
+          "title": "Duke 31-27 Illinois (Sep 12, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Stanford recap reports 154 rushing yards and three scores, specifying two runs and a reception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858231",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858231)\n\n* [Videos](https://www.espn.com/college-football/video/_/gameId/401858231)\n\n# Sheppard scores 3 TDs as Duke handles Stanford, 35-7\n\n1:58\n\n## Stanford Cardinal vs. Duke Blue Devils: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Sep 20, 2026, 12:28 am\n\nFacebook Facebook Messenger Twitter Email\n\nDURHAM, N.C. -- \u2014 [Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) scored on two runs and a reception, gained 154 yards on the ground and undefeated Duke beat Stanford 35-7 on Saturday.\n\nDuke (3-0, 1-0 Atlantic Coast Conference), the defending conference champion, has won five consecutive ACC openers for the first time in program history.\n\nSheppard carried 23 times and scored on a 2-yard play on his lone catch.\n\n\u201cYou have to let Nate Sheppard have his fingerprints on the game,\u201d Duke coach Manny Diaz said."
+          ],
+          "title": "Duke 35-7 Stanford (Sep 19, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Miami recap gives Sheppard\u2019s 131 rushing, 93 receiving, and 16 passing yards, as well as two rushing scores and a caught conversion pass.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858296",
+          "excerpts": [
+            "Mensah, [who transferred to Miami after leading Duke](https://apnews.com/article/miami-duke-ap-top-25-mensah-906553d199501602860a08e548eac380) to last season's ACC title, completed 30 of 41 passes and went over the 3,000-yard mark for the season.\n\n[Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) accounted for 240 yards \u2014 131 rushing, 93 receiving and 16 passing \u2014 plus rushed for two scores and caught a conversion pass for Duke (7-3, 5-3). Sheppard had a pair of 47-yard runs in the game, along with 12 catches.\n\n\u201cWhat an advertisement for one of the best players in the United States,\" Duke coach Manny Diaz said of Sheppard, the first player to run for that many yards against Miami since September 2024."
+          ],
+          "title": "Miami 36-25 Duke (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN freshman account identifies Sheppard as Duke\u2019s first true freshman running-back starter in 15 years and reports 201 all-purpose yards and two scores on 19 touches against Syracuse.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47515679/25-best-freshman-college-football-season",
+          "excerpts": [
+            "He became the first true freshman to start at running back for Duke in 15 years on Sept. 27 against Syracuse and rewarded the decision by compiling a season-high 201 all-purpose yards and two scores on 19 touches."
+          ],
+          "title": "Ranking the 25 best freshmen from the college football season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

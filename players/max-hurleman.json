@@ -1,0 +1,42 @@
+{
+  "name": "Max Hurleman",
+  "espn_id": "4694237",
+  "team": "Pittsburgh Steelers",
+  "team_abbr": "PIT",
+  "number": "84",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Notre Dame",
+  "experience": 1,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Max caught a touchdown and did a backflip in a Steelers preseason game.",
+    "Max caught a 20-yard touchdown pass from Aaron Rodgers in his first NFL game.",
+    "Max returned two punts for 14 yards against Georgia Tech in college."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "PIT",
+        "1",
+        "6",
+        "61",
+        "1",
+        "20"
+      ]
+    ]
+  }
+}

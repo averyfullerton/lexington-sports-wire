@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_1d63cf7e4268416e971dba94398104eb",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 119.5,
+  "input": {
+    "player": "Cooper Flanagan",
+    "team": "Notre Dame Fighting Irish",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Cooper Flanagan\u2019s listed hometown is Concord, California.",
+      "He played high school football at De La Salle High School.",
+      "He wears No. 87 for Notre Dame.",
+      "In Notre Dame\u2019s 2026 game against Rice, he caught a 2-yard touchdown pass from C.J. Carr.",
+      "Against SMU in 2026, he scored a touchdown on a 2-yard run."
+    ],
+    "high_school": "De La Salle High School",
+    "hometown": "Concord, California"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN recruiting profile lists Concord, Calif., and De La Salle High School. ESPN\u2019s player profile identifies Flanagan as No. 87. The Rice scoring play lists his 2-yard touchdown reception from C.J. Carr, and the SMU game listing records his 2-yard touchdown run.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/247225/cooper-flanagan",
+          "excerpts": [
+            "Cooper Flanagan Tight End Y Recruiting Profile - ESPN\nCooper Flanagan 6-6, 255 | Class of 2023 Hometown Concord, Calif. School De La Salle High School Position Tight End-Y Status Signed Notre Dame 09/02/2021 Scout Grade 81 7 POSITION 38 REGIONAL 23"
+          ],
+          "title": "Cooper Flanagan Tight End Y Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4870733/cooper-flanagan",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Cooper Flanagan\n\nNotre Dame Fighting Irish\n\n* [Notre Dame Fighting Irish](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n* \\#87\n* Tight End\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 6\", 258 lbs\n* Birthplace\n  \n  Pleasant Hill, CA\n* Status\n  \n  Active\n\n## 2024 season stats\n\n* REC\n  \n  4\n* YDS\n  \n  55\n* TD\n  \n  2\n* AVG"
+          ],
+          "title": "Cooper Flanagan - Notre Dame Fighting Irish Tight End - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game?gameId=401859184",
+          "excerpts": [
+            "2 plays, 38 yards, 0:42\n\n3rd Quarter\n\nNotre Dame Fighting Irish\n\nTouchdown\n\n11:41 - 3rd\n\n0\n\nRICE\n\n49\n\nND\n\nCooper Flanagan 2 Yd pass from CJ Carr (Spencer Porath Kick)\n\n6 plays, 75 yards, 3:19"
+          ],
+          "title": "Notre Dame 52-0 Rice (Sep 12, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game?gameId=401858307",
+          "excerpts": [
+            "12 CAR, 47 YDS, 0 TD\n  \n  Notre Dame, RB, #20\n  \n  Follow\n  \n  CAR\n  \n  12\n  \n  YDS\n  \n  47\n  \n  TD\n  \n  0\n\n3rd & 1 at ND 12\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nTouchdown\n\n1:49 - 1st\n\n0\n\nSMU\n\n7\n\nND\n\nC. Flanagan run for 2 yds, for a TD (S. Porath KICK)\n\n11 plays, 99 yards, 5:10\n\n2nd Quarter\n\nField Goal\n\n8:50 - 2nd\n\n3\n\nSMU\n\n7\n\nND\n\nB. Baird 40 yd FG GOOD\n\n16 plays, 52 yards, 7:59\n\nTouchdown"
+          ],
+          "title": "SMU vs. Notre Dame (Nov 21, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting profile explicitly names De La Salle High School as Flanagan\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/247225/cooper-flanagan",
+          "excerpts": [
+            "Cooper Flanagan Tight End Y Recruiting Profile - ESPN\nCooper Flanagan 6-6, 255 | Class of 2023 Hometown Concord, Calif. School De La Salle High School Position Tight End-Y Status Signed Notre Dame 09/02/2021 Scout Grade 81 7 POSITION 38 REGIONAL 23"
+          ],
+          "title": "Cooper Flanagan Tight End Y Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile explicitly lists his hometown as Concord, Calif.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/247225/cooper-flanagan",
+          "excerpts": [
+            "Cooper Flanagan Tight End Y Recruiting Profile - ESPN\nCooper Flanagan 6-6, 255 | Class of 2023 Hometown Concord, Calif. School De La Salle High School Position Tight End-Y Status Signed Notre Dame 09/02/2021 Scout Grade 81 7 POSITION 38 REGIONAL 23"
+          ],
+          "title": "Cooper Flanagan Tight End Y Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Concord, Calif. as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/247225/cooper-flanagan",
+          "excerpts": [
+            "Cooper Flanagan Tight End Y Recruiting Profile - ESPN\nCooper Flanagan 6-6, 255 | Class of 2023 Hometown Concord, Calif. School De La Salle High School Position Tight End-Y Status Signed Notre Dame 09/02/2021 Scout Grade 81 7 POSITION 38 REGIONAL 23"
+          ],
+          "title": "Cooper Flanagan Tight End Y Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile names De La Salle High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/247225/cooper-flanagan",
+          "excerpts": [
+            "Cooper Flanagan Tight End Y Recruiting Profile - ESPN\nCooper Flanagan 6-6, 255 | Class of 2023 Hometown Concord, Calif. School De La Salle High School Position Tight End-Y Status Signed Notre Dame 09/02/2021 Scout Grade 81 7 POSITION 38 REGIONAL 23"
+          ],
+          "title": "Cooper Flanagan Tight End Y Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The player profile identifies Flanagan as No. 87.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4870733/cooper-flanagan",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Cooper Flanagan\n\nNotre Dame Fighting Irish\n\n* [Notre Dame Fighting Irish](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n* \\#87\n* Tight End\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 6\", 258 lbs\n* Birthplace\n  \n  Pleasant Hill, CA\n* Status\n  \n  Active\n\n## 2024 season stats\n\n* REC\n  \n  4\n* YDS\n  \n  55\n* TD\n  \n  2\n* AVG"
+          ],
+          "title": "Cooper Flanagan - Notre Dame Fighting Irish Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Rice scoring play names Flanagan as the receiver of a 2-yard touchdown pass from C.J. Carr.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game?gameId=401859184",
+          "excerpts": [
+            "2 plays, 38 yards, 0:42\n\n3rd Quarter\n\nNotre Dame Fighting Irish\n\nTouchdown\n\n11:41 - 3rd\n\n0\n\nRICE\n\n49\n\nND\n\nCooper Flanagan 2 Yd pass from CJ Carr (Spencer Porath Kick)\n\n6 plays, 75 yards, 3:19"
+          ],
+          "title": "Notre Dame 52-0 Rice (Sep 12, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The SMU game listing records Flanagan scoring on a 2-yard run.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game?gameId=401858307",
+          "excerpts": [
+            "12 CAR, 47 YDS, 0 TD\n  \n  Notre Dame, RB, #20\n  \n  Follow\n  \n  CAR\n  \n  12\n  \n  YDS\n  \n  47\n  \n  TD\n  \n  0\n\n3rd & 1 at ND 12\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nTouchdown\n\n1:49 - 1st\n\n0\n\nSMU\n\n7\n\nND\n\nC. Flanagan run for 2 yds, for a TD (S. Porath KICK)\n\n11 plays, 99 yards, 5:10\n\n2nd Quarter\n\nField Goal\n\n8:50 - 2nd\n\n3\n\nSMU\n\n7\n\nND\n\nB. Baird 40 yd FG GOOD\n\n16 plays, 52 yards, 7:59\n\nTouchdown"
+          ],
+          "title": "SMU vs. Notre Dame (Nov 21, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

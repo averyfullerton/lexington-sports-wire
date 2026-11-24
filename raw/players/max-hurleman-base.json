@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_415f3f698c1f435bbd1b7dbb681ebe11",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 94.0,
+  "input": {
+    "player": "Max Hurleman",
+    "team": "Pittsburgh Steelers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Notre Dame",
+    "fun_facts": [
+      "Max Hurleman is from Wyomissing, Pennsylvania.",
+      "In a 2025 Steelers preseason game, Max Hurleman caught a 3-yard touchdown and celebrated with a backflip.",
+      "In his first NFL game, Max Hurleman caught a 20-yard touchdown pass from Aaron Rodgers.",
+      "At Notre Dame, Max Hurleman wore No. 37.",
+      "In Notre Dame\u2019s game against Georgia Tech, Max Hurleman returned two punts for 14 yards, with a longest return of 12 yards."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile identifies Notre Dame as Max Hurleman\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/max-hurleman",
+          "excerpts": [
+            "# Max Hurleman Stats, News and Video - WR | NFL.com\n\n# Max Hurleman\n\nWR \u2022 \\#84\n\n[Pittsburgh Steelers](https://www.nfl.com/teams/pittsburgh-steelers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/max-hurleman/)\n* [Stats](https://www.nfl.com/players/max-hurleman/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  200\n* Arms\n* Hands\n\n* Experience\n  \n  1\n* College\n  \n  Notre Dame\n* Age\n  \n  25\n* Hometown\n\n## Related Content - Videos\n\n[video ### Can't-Miss Play: Rodgers' 20-yard TD pass to Hurleman trims Eagles' lead to 19-15 The Pittsburgh Steelers pull to within one score of the Philadelphia Eagles late in the fourth quarter"
+          ],
+          "title": "Max Hurleman Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Hurleman\u2019s hometown; the NFL highlight records his 3-yard preseason touchdown and backflip celebration; ESPN\u2019s game record identifies his 20-yard touchdown in his first NFL game; and Notre Dame box scores show his jersey number and punt-return figures against Georgia Tech.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4694237/max-hurleman",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 5' 11\", 200 lbs\n\nBirthdate 10/19/2001 (25)\n\nCollege [Notre Dame](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\nStatus Active\n\nExperience 1st Season\n\nBirthplace Wyomissing, PA\n\n### Career History\n\n[Pittsburgh Steelers Pittsburgh Steelers 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)"
+          ],
+          "title": "Max Hurleman Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/videos/max-hurleman-celebrates-3-yard-td-with-backflip",
+          "excerpts": [
+            "Advertising\n\n## NFL Game Highlights\n\nPresented By\n\n# Max Hurleman celebrates 3-yard TD with backflip\n\nPittsburgh Steelers wide receiver Max Hurleman celebrates 3-yard TD with backflip.\n\n[NOW PLAYING video ### David Montgomery's best plays from 124-yard game vs. Colts | Week 11 Houston Texans running back David Montgomery's best plays from his 124-yard game vs. the Indianapolis Colts during Week 11 of the 2026 NFL season.](https://www.nfl.com/videos/david-montgomery-s-best-plays-from-124-yard-game-vs-colts-week-11 \"David Montgomery's best plays from 124-yard game vs."
+          ],
+          "title": "Pittsburgh Steelers wide receiver Max Hurleman celebrates 3-yard TD with backflip"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/nfl/matchup/_/gameId/401873076)\n\n* [Videos](https://www.espn.com/nfl/video/_/gameId/401873076)\n\n### Video Highlights\n\n* 0:52\n  \n  ## Pittsburgh Steelers vs. Philadelphia Eagles: Game Highlights\n* 0:24\n  \n  ## Max Hurleman catches a TD in his 1st NFL game\n* 0:30\n  \n  ## DK Metcalf ejected after altercations with Eagles\n* 0:24",
+            "get the first down that closed out the Philadelphia Eagles' first win since September. Nov 22, 2026, 10:54 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873076)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nField Goal\n\n10:01 - 1st\n\n0\n\nPIT\n\n3\n\nPHI\n\nJake Elliott 41 Yd Field Goal\n\n5 plays, 17 yards, 2:39\n\nField Goal\n\n2:57 - 1st\n\n0\n\nPIT\n\n6",
+            "Jake Elliott 55 Yd Field Goal\n\n9 plays, 34 yards, 4:20\n\nTouchdown\n\n1:21 - 4th\n\n16\n\nPIT\n\n19\n\nPHI\n\nMax Hurleman 20 Yd pass from Aaron Rodgers (Chris Boswell Kick)\n\n13 plays, 72 yards, 2:58"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401628982",
+          "excerpts": [
+            "|[Pat Coogan](https://www.espn.com/college-football/player/_/id/4596542/pat-coogan) \\#78 |\n|[Max Hurleman](https://www.espn.com/college-football/player/_/id/4694237/max-hurleman) \\#37 |",
+            "|team |\n\n|NO |YDS |AVG |LONG |TD |\n| --- | --- | --- | --- | --- |\n|4 |98 |24\\.5 |31 |0 |\n|4 |98 |24\\.5 |31 |0 |\n\nNotre Dame\n\nNotre Dame Punt Returns\n\n| |\n| --- |\n|[Max Hurleman](https://www.espn.com/college-football/player/_/id/4694237/max-hurleman) \\#37 |\n|team |\n\n|NO |YDS |AVG |LONG |TD |\n| --- | --- | --- | --- | --- |\n|2 |14 |7\\.0 |12 |0 |"
+          ],
+          "title": "Notre Dame 31-13 Georgia Tech (Oct 19, 2024) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN report explicitly describes Max Hurleman as a former undrafted free agent, so his draft status is undrafted.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+          "excerpts": [
+            "The Steelers elevated practice squad wide receiver [Max Hurleman](https://www.espn.com/nfl/player/_/id/4694237/max-hurleman) after the former undrafted free agent earned votes of confidence from quarterback [Aaron Rodgers](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) and coach Mike McCarthy over the past two weeks. They also signed linebacker [KJ Henry](https://www.espn.com/nfl/player/_/id/4360308/kj-henry) to the active roster to help replace Herbig."
+          ],
+          "title": "Steelers activate WR Roman Wilson off IR for Eagles game - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography lists Wyomissing, Pennsylvania, as Hurleman\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4694237/max-hurleman",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 5' 11\", 200 lbs\n\nBirthdate 10/19/2001 (25)\n\nCollege [Notre Dame](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\nStatus Active\n\nExperience 1st Season\n\nBirthplace Wyomissing, PA\n\n### Career History\n\n[Pittsburgh Steelers Pittsburgh Steelers 2025-CURRENT (2 Seasons)](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)"
+          ],
+          "title": "Max Hurleman Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL highlight identifies Hurleman\u2019s 3-yard touchdown and says he celebrated it with a backflip.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/max-hurleman-celebrates-3-yard-td-with-backflip",
+          "excerpts": [
+            "Advertising\n\n## NFL Game Highlights\n\nPresented By\n\n# Max Hurleman celebrates 3-yard TD with backflip\n\nPittsburgh Steelers wide receiver Max Hurleman celebrates 3-yard TD with backflip.\n\n[NOW PLAYING video ### David Montgomery's best plays from 124-yard game vs. Colts | Week 11 Houston Texans running back David Montgomery's best plays from his 124-yard game vs. the Indianapolis Colts during Week 11 of the 2026 NFL season.](https://www.nfl.com/videos/david-montgomery-s-best-plays-from-124-yard-game-vs-colts-week-11 \"David Montgomery's best plays from 124-yard game vs."
+          ],
+          "title": "Pittsburgh Steelers wide receiver Max Hurleman celebrates 3-yard TD with backflip"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN game record identifies the score as a 20-yard touchdown pass to Hurleman, and the game highlight calls it a touchdown in his first NFL game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/nfl/matchup/_/gameId/401873076)\n\n* [Videos](https://www.espn.com/nfl/video/_/gameId/401873076)\n\n### Video Highlights\n\n* 0:52\n  \n  ## Pittsburgh Steelers vs. Philadelphia Eagles: Game Highlights\n* 0:24\n  \n  ## Max Hurleman catches a TD in his 1st NFL game\n* 0:30\n  \n  ## DK Metcalf ejected after altercations with Eagles\n* 0:24",
+            "get the first down that closed out the Philadelphia Eagles' first win since September. Nov 22, 2026, 10:54 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873076)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nField Goal\n\n10:01 - 1st\n\n0\n\nPIT\n\n3\n\nPHI\n\nJake Elliott 41 Yd Field Goal\n\n5 plays, 17 yards, 2:39\n\nField Goal\n\n2:57 - 1st\n\n0\n\nPIT\n\n6",
+            "Jake Elliott 55 Yd Field Goal\n\n9 plays, 34 yards, 4:20\n\nTouchdown\n\n1:21 - 4th\n\n16\n\nPIT\n\n19\n\nPHI\n\nMax Hurleman 20 Yd pass from Aaron Rodgers (Chris Boswell Kick)\n\n13 plays, 72 yards, 2:58"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Notre Dame box-score listing shows Max Hurleman wearing No. 37.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401628982",
+          "excerpts": [
+            "|[Pat Coogan](https://www.espn.com/college-football/player/_/id/4596542/pat-coogan) \\#78 |\n|[Max Hurleman](https://www.espn.com/college-football/player/_/id/4694237/max-hurleman) \\#37 |"
+          ],
+          "title": "Notre Dame 31-13 Georgia Tech (Oct 19, 2024) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Notre Dame punt-return section of the Georgia Tech box score lists Hurleman with two returns for 14 yards, a 12-yard long, and no return touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401628982",
+          "excerpts": [
+            "|team |\n\n|NO |YDS |AVG |LONG |TD |\n| --- | --- | --- | --- | --- |\n|4 |98 |24\\.5 |31 |0 |\n|4 |98 |24\\.5 |31 |0 |\n\nNotre Dame\n\nNotre Dame Punt Returns\n\n| |\n| --- |\n|[Max Hurleman](https://www.espn.com/college-football/player/_/id/4694237/max-hurleman) \\#37 |\n|team |\n\n|NO |YDS |AVG |LONG |TD |\n| --- | --- | --- | --- | --- |\n|2 |14 |7\\.0 |12 |0 |"
+          ],
+          "title": "Notre Dame 31-13 Georgia Tech (Oct 19, 2024) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

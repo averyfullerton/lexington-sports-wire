@@ -1,0 +1,60 @@
+{
+  "name": "Austin Simmons",
+  "espn_id": "5141684",
+  "team": "Missouri Tigers",
+  "team_abbr": "MIZ",
+  "number": "13",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Miami, FL",
+  "league": "cfb",
+  "fun_facts": [
+    "Austin played football and baseball and threw a fastball up to 94 mph.",
+    "Austin threw 24 touchdowns in one year of high school football.",
+    "Austin threw four touchdowns in his first game for Missouri."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "MISS",
+        "19",
+        "32",
+        "282",
+        "2",
+        "0"
+      ],
+      [
+        "2025",
+        "MISS",
+        "45",
+        "75",
+        "744",
+        "4",
+        "5"
+      ],
+      [
+        "2026",
+        "MIZ",
+        "209",
+        "330",
+        "2,693",
+        "25",
+        "4"
+      ]
+    ]
+  }
+}

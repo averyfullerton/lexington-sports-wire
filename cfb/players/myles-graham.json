@@ -1,0 +1,56 @@
+{
+  "name": "Myles Graham",
+  "espn_id": "5079480",
+  "team": "Florida Gators",
+  "team_abbr": "FLA",
+  "number": "5",
+  "position": "Linebacker",
+  "position_abbr": "LB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Gainesville, FL",
+  "league": "cfb",
+  "fun_facts": [
+    "Myles played on both sides of the ball in high school.",
+    "Myles led Florida with 76 tackles in 2025.",
+    "Myles scored his first touchdown on a 57-yard fumble return against Vanderbilt."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2024",
+        "FLA",
+        "30",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "2025",
+        "FLA",
+        "76",
+        "2",
+        "0",
+        "0"
+      ],
+      [
+        "2026",
+        "FLA",
+        "86",
+        "4.5",
+        "0",
+        "1"
+      ]
+    ]
+  }
+}

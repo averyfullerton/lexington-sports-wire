@@ -1,0 +1,169 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9f20d350c8b017d9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 70.2,
+  "input": {
+    "player": "Jovantae Barnes",
+    "team": "Kentucky Wildcats",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "As a sophomore in 2019, Jovantae Barnes rushed for 1,022 yards and 13 touchdowns on 126 carries\u2014an average of 8.1 yards per carry.",
+      "In six games in 2021, Jovantae Barnes rushed for 567 yards and 11 touchdowns and earned first-team All-Southern Nevada honors.",
+      "Jovantae Barnes was a 2021 Under Armour All-American.",
+      "Jovantae Barnes\u2019s career-high rushing game at Oklahoma was 203 yards and three touchdowns against Maine.",
+      "Jovantae Barnes says his nickname is \u201cTae,\u201d and he\u2019s into fashion and styling.",
+      "Jovantae Barnes graduated from Oklahoma with a degree in multidisciplinary studies and is working on a second degree in criminal justice at Kentucky."
+    ],
+    "high_school": "Desert Pines",
+    "hometown": "Las Vegas, Nevada"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited Kentucky roster biography gives Barnes\u2019s 2019 and 2021 high-school statistics and honors, nickname and fashion interest, and education details. The ESPN recap reports his career-high rushing performance against Maine.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "4 by 247 \u2022 A 2021 Under Armour All-American \u2022 A 2021 first-team Nevada Preps All-Southern Nevada selection after rushing for 567 yards and 11 touchdowns in his six games \u2022 Rushed for 1,022 yards and 13 touchdowns on 126 carries (8.1 yards per rush) as a sophomore in 2019 and was a Nevada Preps All-Southern Nevada honorable mention pick \u2022 2020 season was canceled due to COVID",
+            "**Jovantae Says** \u2022 His nickname is \"Tae\" \u2022 After football, his dream job is to work in the fashion industry or be an entrepreneur \u2022 Three words to describe him are humble, determined and motivated \u2022 The highlight of his life so far has been graduating from college \u2022 Besides playing football, he's also really into fashion and styling",
+            "**Personal** \u2022 Born in Orlando, Florida \u2022 Son of O'Nedra James \u2022 Siblings are Gia, Dontae, Jada and Aleah \u2022 Graduated from Oklahoma in December of '25 with a degree in multidisciplinary studies \u2026 Currently working on a second degree in criminal justice at UK"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628410",
+          "excerpts": [
+            "NORMAN, Okla. -- \u2014 [Jovantae Barnes](http://www.espn.com/college-football/player/_/id/4685269/jovantae-barnes) ran for career highs of 203 yards and three touchdowns, and Oklahoma dominated Maine 59-14 on Saturday."
+          ],
+          "title": "Oklahoma 59-14 Maine (Nov 2, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The Kentucky roster entry identifies Desert Pines as Barnes\u2019s high school.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "High school Desert Pines"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The Kentucky roster entry lists Barnes\u2019s hometown as Las Vegas, Nev., equivalent to Las Vegas, Nevada.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "(last verified: 2026-11-24) Hometown Las Vegas, Nev."
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography says Barnes rushed for 1,022 yards and 13 touchdowns on 126 carries as a sophomore in 2019, averaging 8.1 yards per rush.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "4 by 247 \u2022 A 2021 Under Armour All-American \u2022 A 2021 first-team Nevada Preps All-Southern Nevada selection after rushing for 567 yards and 11 touchdowns in his six games \u2022 Rushed for 1,022 yards and 13 touchdowns on 126 carries (8.1 yards per rush) as a sophomore in 2019 and was a Nevada Preps All-Southern Nevada honorable mention pick \u2022 2020 season was canceled due to COVID"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The biography records 567 rushing yards and 11 touchdowns in six games in 2021 and a first-team All-Southern Nevada selection.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "4 by 247 \u2022 A 2021 Under Armour All-American \u2022 A 2021 first-team Nevada Preps All-Southern Nevada selection after rushing for 567 yards and 11 touchdowns in his six games \u2022 Rushed for 1,022 yards and 13 touchdowns on 126 carries (8.1 yards per rush) as a sophomore in 2019 and was a Nevada Preps All-Southern Nevada honorable mention pick \u2022 2020 season was canceled due to COVID"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The biography identifies Barnes as a 2021 Under Armour All-American.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "4 by 247 \u2022 A 2021 Under Armour All-American \u2022 A 2021 first-team Nevada Preps All-Southern Nevada selection after rushing for 567 yards and 11 touchdowns in his six games \u2022 Rushed for 1,022 yards and 13 touchdowns on 126 carries (8.1 yards per rush) as a sophomore in 2019 and was a Nevada Preps All-Southern Nevada honorable mention pick \u2022 2020 season was canceled due to COVID"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap states that Barnes ran for career highs of 203 yards and three touchdowns against Maine.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628410",
+          "excerpts": [
+            "NORMAN, Okla. -- \u2014 [Jovantae Barnes](http://www.espn.com/college-football/player/_/id/4685269/jovantae-barnes) ran for career highs of 203 yards and three touchdowns, and Oklahoma dominated Maine 59-14 on Saturday."
+          ],
+          "title": "Oklahoma 59-14 Maine (Nov 2, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "Barnes\u2019s biography says his nickname is \u201cTae\u201d and that he is really into fashion and styling.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "**Jovantae Says** \u2022 His nickname is \"Tae\" \u2022 After football, his dream job is to work in the fashion industry or be an entrepreneur \u2022 Three words to describe him are humble, determined and motivated \u2022 The highlight of his life so far has been graduating from college \u2022 Besides playing football, he's also really into fashion and styling"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The biography says Barnes graduated from Oklahoma in multidisciplinary studies and is currently working on a second degree in criminal justice at Kentucky.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/jovantae-barnes",
+          "excerpts": [
+            "**Personal** \u2022 Born in Orlando, Florida \u2022 Son of O'Nedra James \u2022 Siblings are Gia, Dontae, Jada and Aleah \u2022 Graduated from Oklahoma in December of '25 with a degree in multidisciplinary studies \u2026 Currently working on a second degree in criminal justice at UK"
+          ],
+          "title": "Jovantae Barnes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

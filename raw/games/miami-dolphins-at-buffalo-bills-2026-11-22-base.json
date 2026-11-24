@@ -1,0 +1,482 @@
+{
+  "run_id": "trun_64eebd575c494505bd1de480a8f2700a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 140.7,
+  "input": {
+    "away_team": "Miami Dolphins",
+    "home_team": "Buffalo Bills",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Miami Dolphins",
+    "key_plays": [
+      "Q1 5:27: Tyler Bass made a 54-yard field goal to put Buffalo ahead 6-0.",
+      "Q2 13:23: Josh Allen threw a 4-yard touchdown pass to DJ Moore, extending Buffalo\u2019s lead to 13-0.",
+      "Q2 3:48: James Cook III scored on a 1-yard run to make it 20-3.",
+      "Q2 1:45: Jacob Rodriguez intercepted Josh Allen and returned it 26 yards to the Buffalo 22; Miami later scored a field goal on the possession.",
+      "Q4 1:57: Tyler Bass made a 28-yard field goal to set the final score at 26-9."
+    ],
+    "away_score": 9,
+    "storyline": "Buffalo won 26-9, improving to 9-1 while Miami fell to 1-9. The Bills held the Dolphins to 185 total yards and no touchdowns.",
+    "top_performers": [
+      {
+        "stat_line": "22 carries, 89 yards, 1 TD",
+        "team": "Buffalo Bills",
+        "name": "James Cook III"
+      },
+      {
+        "stat_line": "5 receptions, 101 yards, 0 TD",
+        "team": "Buffalo Bills",
+        "name": "Khalil Shakir"
+      },
+      {
+        "stat_line": "8 receptions, 91 yards, 1 TD",
+        "team": "Buffalo Bills",
+        "name": "DJ Moore"
+      },
+      {
+        "stat_line": "4 of 5 field goals, 2 of 2 extra points, 14 points",
+        "team": "Buffalo Bills",
+        "name": "Tyler Bass"
+      }
+    ],
+    "home_record_after": "9-1",
+    "tough_day": [
+      {
+        "stat_line": "12 of 33, 102 yards, 0 TD, 1 INT, 2 sacks",
+        "team": "Miami Dolphins",
+        "name": "Kyle McCord"
+      }
+    ],
+    "away_record_after": "1-9",
+    "home_team": "Buffalo Bills",
+    "home_score": 26
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game center marks the Week 11 matchup as final. The official gamebook identifies the November 22 Dolphins\u2013Bills game and records its final score.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11",
+          "excerpts": [
+            "Skip to main content Miami Dolphins MIA Miami Dolphins DOLPHINS Miami Dolphins MIAMI DOLPHINS Hidden Score"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official gamebook identifies Miami as the visitor in this matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official gamebook\u2019s scoring summary and play-by-play record the Bass field goal, Allen-to-Moore touchdown, Cook touchdown, and final Bass field goal. Its second-quarter play-by-play records Rodriguez\u2019s interception and return.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The gamebook\u2019s final score lists Miami with 9 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL recap gives the teams\u2019 postgame records and says Buffalo kept Miami out of the end zone while limiting it to 185 yards. The gamebook records the 26-9 final score.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[Miami Dolphins](https://amp.nfl.com/teams/miami-dolphins/ \"Miami Dolphins\")\n\n1-9\n\nSCORE\n\n26\n\n[Buffalo Bills](https://amp.nfl.com/teams/buffalo-bills/ \"Buffalo Bills\")\n\n9-1"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Jim Leonhard\u2019s defense continued to smother opponents, keeping the Dolphins out of the end zone and holding the [Kyle McCord](https://www.nfl.com/players/kyle-mccord) \\-led unit to a measly 185 yards."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official individual statistics list Cook\u2019s rushing line, Moore\u2019s receiving and touchdown totals, and Bass\u2019s kicking results and points. The gamebook\u2019s Shakir entry gives his receiving production; the NFL highlight listing names Shakir.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL recap lists Buffalo at 9-1 after the game.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[Miami Dolphins](https://amp.nfl.com/teams/miami-dolphins/ \"Miami Dolphins\")\n\n1-9\n\nSCORE\n\n26\n\n[Buffalo Bills](https://amp.nfl.com/teams/buffalo-bills/ \"Buffalo Bills\")\n\n9-1"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official gamebook lists McCord\u2019s final passing, interception, and sack figures. The recap identifies the quarterback by his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "2. **McCord struggles in second start.** Dolphins QB Kyle McCord had a rough afternoon in Western New York. McCord looked every bit a young backup thrust into action."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL recap lists Miami at 1-9 after the game.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[Miami Dolphins](https://amp.nfl.com/teams/miami-dolphins/ \"Miami Dolphins\")\n\n1-9\n\nSCORE\n\n26\n\n[Buffalo Bills](https://amp.nfl.com/teams/buffalo-bills/ \"Buffalo Bills\")\n\n9-1"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official gamebook identifies Buffalo as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The gamebook\u2019s final score lists Buffalo with 26 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The gamebook records Bass\u2019s 54-yard field goal at 5:27 in the first quarter; the scoring summary gives the resulting score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary and play-by-play record Allen\u2019s 4-yard touchdown pass to Moore at 13:23 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring summary records Cook\u2019s 1-yard touchdown run at 3:48 in the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The gamebook describes the second-quarter interception and 26-yard return to the Buffalo 22. The NFL highlight identifies the defender as Jacob Rodriguez.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Hidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:37\n\nPLAYER HIGHLIGHT\n\nEvery Khalil Shakir catch from 101-yard game vs. Dolphins | Week 11 5:26\n\nGAME HIGHLIGHT\n\nDolphins vs. Bills highlights | Week 11 0:19\n\nIN GAME HIGHLIGHT\n\nMalik Washington moves the chains with one-handed catch on fourth down 0:25\n\nIN GAME HIGHLIGHT\n\nJosh Allen\u2019s 38-yard strike to Khalil Shakir gets Bills into Dolphins\u2019 territory 0:25\n\nIN GAME HIGHLIGHT\n\nMcCord locates Malik Washington for 21-yard connection 0:32\n\nIN GAME HIGHLIGHT\n\nOllie Gordon II smashes the gas on 24-yard run 0:28\n\nIN GAME HIGHLIGHT\n\nZayne Anderson reads Josh Allen like a book for Dolphins' second INT 0:41\n\nIN GAME HIGHLIGHT\n\nJacob Rodriguez eyes down Josh Allen's deflected pass for INT\n\nLoad More"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The official scoring summary records Bass\u2019s 28-yard field goal at 1:57 of the fourth quarter, the final scoring play.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The gamebook lists Cook with 22 attempts, 89 yards, and one rushing touchdown. The scoring summary identifies the player as James Cook III.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The gamebook records Shakir\u2019s five receptions for 101 yards. The NFL highlight listing gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Hidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:37\n\nPLAYER HIGHLIGHT\n\nEvery Khalil Shakir catch from 101-yard game vs. Dolphins | Week 11 5:26\n\nGAME HIGHLIGHT\n\nDolphins vs. Bills highlights | Week 11 0:19\n\nIN GAME HIGHLIGHT\n\nMalik Washington moves the chains with one-handed catch on fourth down 0:25\n\nIN GAME HIGHLIGHT\n\nJosh Allen\u2019s 38-yard strike to Khalil Shakir gets Bills into Dolphins\u2019 territory 0:25\n\nIN GAME HIGHLIGHT\n\nMcCord locates Malik Washington for 21-yard connection 0:32\n\nIN GAME HIGHLIGHT\n\nOllie Gordon II smashes the gas on 24-yard run 0:28\n\nIN GAME HIGHLIGHT\n\nZayne Anderson reads Josh Allen like a book for Dolphins' second INT 0:41\n\nIN GAME HIGHLIGHT\n\nJacob Rodriguez eyes down Josh Allen's deflected pass for INT\n\nLoad More"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The gamebook gives Moore\u2019s eight receptions, 91 yards, and one touchdown; the scoring summary names DJ Moore as Allen\u2019s touchdown target.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The gamebook\u2019s scoring information credits Bass with 14 points, and its team statistics show four made field goals in five attempts and both extra points made.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "excerpts": [
+            "Tyler Bass 54 Yd Field Goal\n\n8 plays, 32 yards, 2:37\n\n2nd Quarter\n\nTouchdown\n\n13:23 - 2nd\n\n0\n\nMIA\n\n13\n\nBUF\n\nDJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)\n\n12 plays, 79 yards, 5:58\n\nField Goal\n\n9:44 - 2nd\n\n3\n\nMIA\n\n13\n\nBUF\n\nDaniel Carlson 52 Yd Field Goal\n\n7 plays, 28 yards, 3:39\n\nTouchdown\n\n3:48 - 2nd\n\n3\n\nMIA\n\n20\n\nBUF\n\nJames Cook III 1 Yd Rush (Tyler Bass Kick)\n\n11 plays, 57 yards, 5:56"
+          ],
+          "title": "Dolphins vs. Bills (Nov 22, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The gamebook lists McCord\u2019s final line as 12 completions on 33 attempts for 102 yards, no passing touchdowns, one interception, and two sacks. The recap identifies him as Kyle McCord.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434524/gamecenter/ab998769-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Miami Dolphins at Buffalo Bills** Start Time: 1:02 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "2. **McCord struggles in second start.** Dolphins QB Kyle McCord had a rough afternoon in Western New York. McCord looked every bit a young backup thrust into action."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "James Cook III rumbled for a touchdown as the Bills beat the Dolphins 26-9! Tyler Bass kicked a 54-yard field goal to put Buffalo up 6-0. Josh Allen tossed a touchdown pass to DJ Moore. Cook then scored from 1 yard out to stretch the lead to 20-3. Miami snagged an Allen pass and kicked a field goal. But Buffalo's defense was mighty, holding Miami to no touchdowns! The win lifted the Bills to 9-1, while Miami fell to 1-9.",
+    "big_words": [
+      {
+        "word": "mighty",
+        "definition": "Very strong or powerful.",
+        "example": "Priya gave the soccer ball a mighty kick at recess."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 2,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1195,
+        "output": 159
+      },
+      {
+        "input": 1375,
+        "output": 153
+      }
+    ]
+  }
+}

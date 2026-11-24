@@ -1,0 +1,42 @@
+{
+  "name": "Jonah Coleman",
+  "espn_id": "4702555",
+  "team": "Denver Broncos",
+  "team_abbr": "DEN",
+  "number": "20",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Washington",
+  "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Jonah tied Washington\u2019s modern record with five rushing touchdowns in one college game.",
+    "Jonah ran for 3,054 yards and 34 touchdowns in college.",
+    "Jonah led Arizona with 871 rushing yards in college in 2023."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "DEN",
+        "6",
+        "71",
+        "302",
+        "4.3",
+        "6"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "run_id": "trun_415f3f698c1f435b9461c342ebc49b01",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 72.2,
+  "input": {
+    "player": "David Montgomery",
+    "team": "Houston Texans",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Iowa State",
+    "fun_facts": [
+      "David Montgomery was born in Cincinnati, Ohio.",
+      "At Iowa State, he rushed for 1,216 yards and 13 touchdowns in his final season and earned all-conference honors.",
+      "He led the FBS in broken tackles in back-to-back seasons, according to Pro Football Focus.",
+      "When he played with Jahmyr Gibbs in Detroit, Montgomery was nicknamed \u201cKnuckles\u201d for his strength, while Gibbs was \u201cSonic\u201d for his speed.",
+      "Montgomery scored three touchdowns in his Texans debut\u2014two rushing and one receiving\u2014which was the most touchdowns in a Texans debut in franchise history."
+    ],
+    "draft": "2019, round 3, pick 73"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography lists Iowa State as David Montgomery\u2019s college, supporting the answer directly.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4035538/david-montgomery",
+          "excerpts": [
+            "HT/WT 5' 11\", 230 lbs\n\nBirthdate 6/7/1997 (29)\n\nCollege [Iowa State](https://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones)\n\nDraft Info 2019: Rd 3, Pk 73 (CHI)\n\nStatus Active"
+          ],
+          "title": "David Montgomery Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives his birthplace. ESPN\u2019s report on his Iowa State season states his rushing totals, all-conference honors, and back-to-back FBS lead in broken tackles. ESPN also reports the \u201cKnuckles\u201d and \u201cSonic\u201d nicknames and describes Montgomery\u2019s three-touchdown Texans debut as a franchise debut record.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/4035538/david-montgomery",
+          "excerpts": [
+            "### Biography\n\nTeam [Houston Texans](https://africa.espn.com/nfl/team/_/name/hou/houston-texans)\n\nPosition Running Back\n\nHT/WT 1\\.8 m, 104 kg\n\nBirthdate 7/6/1997 (29)\n\nCollege [Iowa State](https://africa.espn.com/college-football/team/_/id/66/iowa-state-cyclones)\n\nDraft Info 2019: Rd 3, Pk 73 (CHI)\n\nStatus QUESTIONABLE\n\nExperience 8th Season\n\nBirthplace Cincinnati, OH"
+          ],
+          "title": "David Montgomery Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/25705893/iowa-state-cyclones-rb-david-montgomery-declares-draft",
+          "excerpts": [
+            "[Iowa State](https://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones) running back [David Montgomery](https://www.espn.com/college-football/player/_/id/4035538/david-montgomery) announced Monday that he will skip his senior season to enter the NFL draft.\n\n> To God Be The Glory !!!! I will forever love the Cyclonenation !! [pic.twitter.com/0mmSyVYFiN](https://t.co/0mmSyVYFiN)\n> \n> \u2014 David montgomery (@MontgomerDavid) [January 7, 2019](https://twitter.com/MontgomerDavid/status/1082309252109221889?ref_src=twsrc%5Etfw)\n\nMontgomery rushed for 1,216 yards and 13 touchdowns for the Cyclones this season on the way to earning all-conference honors. According to Pro Football Focus, Montgomery led the FBS in broken tackles in back-to-back seasons."
+          ],
+          "title": "Cyclones RB David Montgomery declares for draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48081798/texans-lions-running-back-david-montgomery-trade-means",
+          "excerpts": [
+            "Montgomery is in line to enter the 2026 season as the No. 1 back for Houston.\n\nMontgomery, known as \"Knuckles\" for his strength, and Gibbs, aka \"Sonic\" because of his speed, made NFL history together after being nicknamed for the 1990s video game characters.\n\nThe duo set the NFL record for the most games with a touchdown scored by a running back duo in league history (15), but they will now begin a new journey.\n\n## Editor's Picks\n\n* [](https://www.espn.com/nfl/story/_/id/48023606/houston-texans-cj-stroud-polarizing-three-years-trade-rumors-contract)"
+          ],
+          "title": "What the David Montgomery trade means for Texans, Lions - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/49949962/houston-texans-david-montgomery-rb-three-touchdowns-debut",
+          "excerpts": [
+            "In his debut Sunday, he backed his talk -- finishing with the most touchdowns (two rushing and one receiving) in a Texan debut in franchise history.\n\nHouston fell short 36-31 to the [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills) to foil Montgomery's day, but he had 79 total yards (60 rushing and 19 receiving) as Houston scored the most points in a season opener under coach DeMeco Ryans in his four years.\n\nHouston had a need at running back, so they traded for Montgomery with the [Detroit Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions) in March."
+          ],
+          "title": "Could David Montgomery be key to unlock Texans' offense? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft coverage identifies David Montgomery as the Bears\u2019 selection at No. 73 in Round 3 of the 2019 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2019-nfl-draft-final-quick-snap-grades-for-all-32-teams-0ap3000001028874",
+          "excerpts": [
+            "Former Bears center Olin Kreutz announces that the Chicago Bears select Iowa State running back David Montgomery No. 73 in Round 3 of the 2019 NFL Draft.\n\n**Chicago Bears**  \n**Draft pick:** Iowa State RB [David Montgomery](https://www.nfl.com/prospects/david-montgomery?id=32194d4f-4e48-7374-a044-7fb197b6b501) ; Georgia WR [Riley Ridley](https://www.nfl.com/prospects/riley-ridley?id=32195249-4465-5571-9152-169716f4ce38) (No."
+          ],
+          "title": "2019 NFL Draft: Final quick-snap grades for all 32 teams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography lists Cincinnati, Ohio, as David Montgomery\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/player/bio/_/id/4035538/david-montgomery",
+          "excerpts": [
+            "### Biography\n\nTeam [Houston Texans](https://africa.espn.com/nfl/team/_/name/hou/houston-texans)\n\nPosition Running Back\n\nHT/WT 1\\.8 m, 104 kg\n\nBirthdate 7/6/1997 (29)\n\nCollege [Iowa State](https://africa.espn.com/college-football/team/_/id/66/iowa-state-cyclones)\n\nDraft Info 2019: Rd 3, Pk 73 (CHI)\n\nStatus QUESTIONABLE\n\nExperience 8th Season\n\nBirthplace Cincinnati, OH"
+          ],
+          "title": "David Montgomery Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The report states that he rushed for 1,216 yards and 13 touchdowns for Iowa State and earned all-conference honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/25705893/iowa-state-cyclones-rb-david-montgomery-declares-draft",
+          "excerpts": [
+            "[Iowa State](https://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones) running back [David Montgomery](https://www.espn.com/college-football/player/_/id/4035538/david-montgomery) announced Monday that he will skip his senior season to enter the NFL draft.\n\n> To God Be The Glory !!!! I will forever love the Cyclonenation !! [pic.twitter.com/0mmSyVYFiN](https://t.co/0mmSyVYFiN)\n> \n> \u2014 David montgomery (@MontgomerDavid) [January 7, 2019](https://twitter.com/MontgomerDavid/status/1082309252109221889?ref_src=twsrc%5Etfw)\n\nMontgomery rushed for 1,216 yards and 13 touchdowns for the Cyclones this season on the way to earning all-conference honors. According to Pro Football Focus, Montgomery led the FBS in broken tackles in back-to-back seasons."
+          ],
+          "title": "Cyclones RB David Montgomery declares for draft - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The same report says Pro Football Focus credited him with leading the FBS in broken tackles in back-to-back seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2019/story/_/id/25705893/iowa-state-cyclones-rb-david-montgomery-declares-draft",
+          "excerpts": [
+            "[Iowa State](https://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones) running back [David Montgomery](https://www.espn.com/college-football/player/_/id/4035538/david-montgomery) announced Monday that he will skip his senior season to enter the NFL draft.\n\n> To God Be The Glory !!!! I will forever love the Cyclonenation !! [pic.twitter.com/0mmSyVYFiN](https://t.co/0mmSyVYFiN)\n> \n> \u2014 David montgomery (@MontgomerDavid) [January 7, 2019](https://twitter.com/MontgomerDavid/status/1082309252109221889?ref_src=twsrc%5Etfw)\n\nMontgomery rushed for 1,216 yards and 13 touchdowns for the Cyclones this season on the way to earning all-conference honors. According to Pro Football Focus, Montgomery led the FBS in broken tackles in back-to-back seasons."
+          ],
+          "title": "Cyclones RB David Montgomery declares for draft - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The report explains that Montgomery was known as \u201cKnuckles\u201d for his strength and Gibbs as \u201cSonic\u201d for his speed.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48081798/texans-lions-running-back-david-montgomery-trade-means",
+          "excerpts": [
+            "Montgomery is in line to enter the 2026 season as the No. 1 back for Houston.\n\nMontgomery, known as \"Knuckles\" for his strength, and Gibbs, aka \"Sonic\" because of his speed, made NFL history together after being nicknamed for the 1990s video game characters.\n\nThe duo set the NFL record for the most games with a touchdown scored by a running back duo in league history (15), but they will now begin a new journey.\n\n## Editor's Picks\n\n* [](https://www.espn.com/nfl/story/_/id/48023606/houston-texans-cj-stroud-polarizing-three-years-trade-rumors-contract)"
+          ],
+          "title": "What the David Montgomery trade means for Texans, Lions - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that Montgomery scored two rushing touchdowns and one receiving touchdown in his Texans debut, the most touchdowns in a Texans debut in franchise history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/49949962/houston-texans-david-montgomery-rb-three-touchdowns-debut",
+          "excerpts": [
+            "In his debut Sunday, he backed his talk -- finishing with the most touchdowns (two rushing and one receiving) in a Texan debut in franchise history.\n\nHouston fell short 36-31 to the [Buffalo Bills](https://www.espn.com/nfl/team/_/name/buf/buffalo-bills) to foil Montgomery's day, but he had 79 total yards (60 rushing and 19 receiving) as Houston scored the most points in a season opener under coach DeMeco Ryans in his four years.\n\nHouston had a need at running back, so they traded for Montgomery with the [Detroit Lions](https://www.espn.com/nfl/team/_/name/det/detroit-lions) in March."
+          ],
+          "title": "Could David Montgomery be key to unlock Texans' offense? - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

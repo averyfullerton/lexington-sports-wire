@@ -1,0 +1,182 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea38e535a52b295e6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 76.4,
+  "input": {
+    "player": "Nate Frazier",
+    "team": "Georgia Bulldogs",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In Georgia\u2019s 2026 season opener, Nate Frazier scored on a 48-yard run on his first carry, then added a 14-yard touchdown on his second.",
+      "Against Missouri in 2026, Nate Frazier scored three rushing touchdowns and gained 72 yards on 14 carries.",
+      "Nate Frazier ran for 94 yards and two touchdowns against South Carolina in November 2026.",
+      "As a freshman, Nate Frazier scored the winning two-point conversion with a 3-yard run in the eighth overtime against Georgia Tech, in what ESPN described as the longest game in SEC history at the time.",
+      "In a 2024 game against Massachusetts, Nate Frazier set career highs with 136 rushing yards and three touchdowns."
+    ],
+    "high_school": "Mater Dei High School",
+    "hometown": "Compton, California"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages describe Nate Frazier\u2019s two early touchdowns in Georgia\u2019s 2026 opener, his three-score game against Missouri and two-score game against South Carolina in 2026, his game-winning conversion in Georgia\u2019s eight-overtime win over Georgia Tech, and his career-high rushing performance against Massachusetts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856658",
+          "excerpts": [
+            "Georgia (1-0) scored touchdowns on its first five possessions, all with Stockton at quarterback. Frazier scored on a [48-yard run](https://x.com/GeorgiaFootball/status/2096314870253641760/video/1) on his first carry and added a 14-yard touchdown run on his second carry.\n\nStockton completed 15 of 16 passes for 202 yards and three touchdowns."
+          ],
+          "title": "Georgia 63-3 Tennessee State (Sep 5, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856883",
+          "excerpts": [
+            "[Frazier scored](https://x.com/CFBPlayoff/status/2121716217010692547/video/1) on three short runs and finished with 72 yards on 14 carries."
+          ],
+          "title": "Georgia 48-21 Missouri (Nov 14, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
+          "excerpts": [
+            "[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran for 94 yards and two touchdowns while [Gunnar Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) threw for 281 yards and a TD. Georgia's defense, after a sluggish first quarter, shut down the Gamecocks and dynamic quarterback [LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) .",
+            "Frazier had a 1-yard TD run in the second quarter to put Georgia ahead to stay 10-6."
+          ],
+          "title": "Georgia clinches SEC title game berth with win at South Carolina - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42688984/georgia-bulldogs-beat-georgia-tech-yellow-jackets-eight-thriller",
+          "excerpts": [
+            "-- Georgia freshman [Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran 3 yards for a 2-point conversion in the eighth overtime period, leading the No. 7 Bulldogs to a wild 44-42 victory over rival Georgia Tech in the longest game in SEC history at Sanford Stadium on Friday night.\n\nThe Yellow Jackets had the ball first in the eighth overtime. Quarterback [Haynes King](https://www.espn.com/college-football/player/_/id/4428993/haynes-king) threw"
+          ],
+          "title": "Georgia rallies from 17 down, tops Georgia Tech in 8OT shootout - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628430",
+          "excerpts": [
+            "(last verified: 2026-11-24) [Carson Beck](http://www.espn.com/college-football/player/_/id/4430841/carson-beck) threw four touchdown passes and [Nate Frazier](http://www.espn.com/college-football/player/_/id/5084047/nate-frazier) set career highs by rushing for 136 yards and three scores as the Bulldogs tried to protect their College Football Playoff hopes."
+          ],
+          "title": "Georgia 59-21 Massachusetts (Nov 23, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN player profile identifies Mater Dei High School as Nate Frazier\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/251654/nathaniel-frazier",
+          "excerpts": [
+            "# Nathaniel Frazier\n\n* \n\n5-11, 205 | Class of 2024\n\n* Hometown [Santa Ana, Calif.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/6/hometown/3632/class/2024)\n* School [Mater Dei High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/8360)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2024)\n* Status Signed [Georgia](https://www.espn.com/college-sports/football/recruiting/school/_/id/61) 08/06/2023\n\n#### Scout Grade\n\n* 85\n*"
+          ],
+          "title": "Nathaniel Frazier Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN roster entry lists Nate Frazier with Compton, California, and his ESPN biography also identifies Compton, California as his birthplace; together these support Compton as the best-supported hometown answer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/roster/_/id/61/sort/position/dir/asc",
+          "excerpts": [
+            "(last verified: 2026-11-24) |[https://a.espncdn.com/i/headshots/college-football/players/full/5084047.png](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) |[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) 3 |RB |5' 10\" |205 lbs |JR |Compton, CA |"
+          ],
+          "title": "Georgia Bulldogs College Football Roster - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5084047/nate-frazier",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Nate Frazier\n\nGeorgia Bulldogs\n\n* [Georgia Bulldogs](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n* \\#3\n* Running Back\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 205 lbs\n* Birthplace\n  \n  Compton, CA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  24\n  \n  150+\n  \n  YDS\n  \n  202\n  \n  Tied-80th\n  \n  TD\n  \n  5\n  \n  Tied-7th\n  \n  AVG\n  \n  8\\.4\n  \n  13th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier)"
+          ],
+          "title": "Nate Frazier Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recap says his first carry was a 48-yard touchdown run and his second carry was a 14-yard touchdown run.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856658",
+          "excerpts": [
+            "Georgia (1-0) scored touchdowns on its first five possessions, all with Stockton at quarterback. Frazier scored on a [48-yard run](https://x.com/GeorgiaFootball/status/2096314870253641760/video/1) on his first carry and added a 14-yard touchdown run on his second carry.\n\nStockton completed 15 of 16 passes for 202 yards and three touchdowns."
+          ],
+          "title": "Georgia 63-3 Tennessee State (Sep 5, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap reports three short scoring runs and 72 yards on 14 carries against Missouri.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856883",
+          "excerpts": [
+            "[Frazier scored](https://x.com/CFBPlayoff/status/2121716217010692547/video/1) on three short runs and finished with 72 yards on 14 carries."
+          ],
+          "title": "Georgia 48-21 Missouri (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap states that Frazier rushed for 94 yards and two touchdowns against South Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
+          "excerpts": [
+            "[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran for 94 yards and two touchdowns while [Gunnar Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) threw for 281 yards and a TD. Georgia's defense, after a sluggish first quarter, shut down the Gamecocks and dynamic quarterback [LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) .",
+            "Frazier had a 1-yard TD run in the second quarter to put Georgia ahead to stay 10-6."
+          ],
+          "title": "Georgia clinches SEC title game berth with win at South Carolina - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap says Frazier ran for the winning two-point conversion in the eighth overtime and describes the game as the longest in SEC history at the time.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/42688984/georgia-bulldogs-beat-georgia-tech-yellow-jackets-eight-thriller",
+          "excerpts": [
+            "-- Georgia freshman [Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran 3 yards for a 2-point conversion in the eighth overtime period, leading the No. 7 Bulldogs to a wild 44-42 victory over rival Georgia Tech in the longest game in SEC history at Sanford Stadium on Friday night.\n\nThe Yellow Jackets had the ball first in the eighth overtime. Quarterback [Haynes King](https://www.espn.com/college-football/player/_/id/4428993/haynes-king) threw"
+          ],
+          "title": "Georgia rallies from 17 down, tops Georgia Tech in 8OT shootout - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The recap reports Frazier\u2019s career highs of 136 rushing yards and three scores against Massachusetts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628430",
+          "excerpts": [
+            "(last verified: 2026-11-24) [Carson Beck](http://www.espn.com/college-football/player/_/id/4430841/carson-beck) threw four touchdown passes and [Nate Frazier](http://www.espn.com/college-football/player/_/id/5084047/nate-frazier) set career highs by rushing for 136 yards and three scores as the Bulldogs tried to protect their College Football Playoff hopes."
+          ],
+          "title": "Georgia 59-21 Massachusetts (Nov 23, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9250ad4970a5610c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 136.1,
+  "input": {
+    "player": "Keelon Russell",
+    "team": "Alabama Crimson Tide",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Keelon Russell is from Duncanville, Texas.",
+      "At Duncanville High School, he won two state championships.",
+      "As a senior, he earned both Gatorade National Player of the Year and Elite 11 Finals MVP honors.",
+      "One high-school season, he completed 220 of 316 passes, with 53 touchdowns and only four interceptions.",
+      "In Alabama\u2019s 2026 season opener, Russell accounted for 335 yards and a touchdown."
+    ],
+    "high_school": "Duncanville High School",
+    "hometown": "Duncanville, Texas"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN profile identifies Russell\u2019s hometown. ESPN reports his two state titles and senior honors; NFL Play Football gives his high-school passing and touchdown totals; ESPN reports his yardage and touchdown in Alabama\u2019s season-opening win.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/254563/keelon-russell",
+          "excerpts": [
+            "Hometown [Duncanville, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/7945/class/2025)"
+          ],
+          "title": "Keelon Russell Quarterback: Dual Threat Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49692021/sources-alabama-names-keelon-russell-qb1-opener-vs-ecu",
+          "excerpts": [
+            "Russell joined Alabama after a decorated career at Duncanville High School in Texas, where he won two state championships and earned Gatorade National Player of the Year and Elite 11 Finals MVP honors as a senior."
+          ],
+          "title": "Sources: Alabama names Keelon Russell QB1 for opener vs. ECU - ESPN"
+        },
+        {
+          "url": "https://playfootball.nfl.com/news-events/news-and-features/dallas-cowboys-travon-diggs-surprises-duncanville-s-keelon-russell-with-gatorade-player-of-the-year-award",
+          "excerpts": [
+            "The 5-star prospect has completed nearly 70 percent (220-of-316) of his passes this year with 53 touchdowns and only four interceptions."
+          ],
+          "title": "Dallas Cowboys Travon Diggs Surprises Duncanville's Keelon Russell with Gatorade Player of the Year Award | NFL Play Football"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49839079/sky-limit-alabama-qb-russell-strong-debut",
+          "excerpts": [
+            "-- [Keelon Russell](https://www.espn.com/college-football/player/_/id/5141629/keelon-russell) accounted for 335 yards and a touchdown, and No. 13 [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) opened the season with a 48-10 victory over [East Carolina](https://www.espn.com/college-football/team/_/id/151/east-carolina-pirates) on Saturday."
+          ],
+          "title": "'Sky's the limit' for Alabama QB Russell after strong debut - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN profile names Duncanville High School as his school.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/254563/keelon-russell",
+          "excerpts": [
+            "School [Duncanville High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/3735)"
+          ],
+          "title": "Keelon Russell Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN profile lists Duncanville, Texas, as Russell\u2019s hometown.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/254563/keelon-russell",
+          "excerpts": [
+            "Hometown [Duncanville, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/7945/class/2025)"
+          ],
+          "title": "Keelon Russell Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Russell\u2019s hometown as Duncanville, Texas.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/254563/keelon-russell",
+          "excerpts": [
+            "Hometown [Duncanville, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/7945/class/2025)"
+          ],
+          "title": "Keelon Russell Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN states that he won two state championships at Duncanville High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49692021/sources-alabama-names-keelon-russell-qb1-opener-vs-ecu",
+          "excerpts": [
+            "Russell joined Alabama after a decorated career at Duncanville High School in Texas, where he won two state championships and earned Gatorade National Player of the Year and Elite 11 Finals MVP honors as a senior."
+          ],
+          "title": "Sources: Alabama names Keelon Russell QB1 for opener vs. ECU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN names both Gatorade National Player of the Year and Elite 11 Finals MVP among his senior honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49692021/sources-alabama-names-keelon-russell-qb1-opener-vs-ecu",
+          "excerpts": [
+            "Russell joined Alabama after a decorated career at Duncanville High School in Texas, where he won two state championships and earned Gatorade National Player of the Year and Elite 11 Finals MVP honors as a senior."
+          ],
+          "title": "Sources: Alabama names Keelon Russell QB1 for opener vs. ECU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL Play Football reports 220 completions on 316 attempts, 53 touchdowns, and four interceptions.",
+      "citations": [
+        {
+          "url": "https://playfootball.nfl.com/news-events/news-and-features/dallas-cowboys-travon-diggs-surprises-duncanville-s-keelon-russell-with-gatorade-player-of-the-year-award",
+          "excerpts": [
+            "The 5-star prospect has completed nearly 70 percent (220-of-316) of his passes this year with 53 touchdowns and only four interceptions."
+          ],
+          "title": "Dallas Cowboys Travon Diggs Surprises Duncanville's Keelon Russell with Gatorade Player of the Year Award | NFL Play Football"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that Russell accounted for 335 yards and a touchdown as Alabama opened its season with a win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49839079/sky-limit-alabama-qb-russell-strong-debut",
+          "excerpts": [
+            "-- [Keelon Russell](https://www.espn.com/college-football/player/_/id/5141629/keelon-russell) accounted for 335 yards and a touchdown, and No. 13 [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) opened the season with a 48-10 victory over [East Carolina](https://www.espn.com/college-football/team/_/id/151/east-carolina-pirates) on Saturday."
+          ],
+          "title": "'Sky's the limit' for Alabama QB Russell after strong debut - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": "George Kittle",
+  "espn_id": "3040151",
+  "team": "San Francisco 49ers",
+  "team_abbr": "SF",
+  "number": "85",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Iowa",
+  "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "George scored 10 touchdowns in college at Iowa.",
+    "George jumped 11 feet at the 2017 NFL Combine.",
+    "George set the NFL single-season receiving yards record for a tight end in 2018."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2017",
+        "SF",
+        "15",
+        "43",
+        "515",
+        "2",
+        "44"
+      ],
+      [
+        "2018",
+        "SF",
+        "16",
+        "88",
+        "1,377",
+        "5",
+        "85"
+      ],
+      [
+        "2019",
+        "SF",
+        "14",
+        "85",
+        "1,053",
+        "5",
+        "61"
+      ],
+      [
+        "2020",
+        "SF",
+        "8",
+        "48",
+        "634",
+        "2",
+        "44"
+      ],
+      [
+        "2021",
+        "SF",
+        "14",
+        "71",
+        "910",
+        "6",
+        "48"
+      ],
+      [
+        "2022",
+        "SF",
+        "15",
+        "60",
+        "765",
+        "11",
+        "54"
+      ],
+      [
+        "2023",
+        "SF",
+        "16",
+        "65",
+        "1,020",
+        "6",
+        "66"
+      ],
+      [
+        "2024",
+        "SF",
+        "15",
+        "78",
+        "1,106",
+        "8",
+        "43"
+      ],
+      [
+        "2025",
+        "SF",
+        "11",
+        "57",
+        "628",
+        "7",
+        "33"
+      ],
+      [
+        "2026",
+        "SF",
+        "10",
+        "47",
+        "591",
+        "7",
+        "56"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "run_id": "trun_1714e31eeb204d32a5fb4119fd418798",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 168.9,
+  "input": {
+    "away_team": "New York Jets",
+    "home_team": "Miami Dolphins",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "3-8",
+    "away_team": "New York Jets",
+    "storyline": "This is the second AFC East meeting of 2026: Miami won the first, 28\u201325, on Oct. 25. The Week 12 rematch follows a Week 11 Jets win over the Chargers, 27\u201324, and a Dolphins loss to the Bills, 26\u20139.",
+    "matchup_notes": [
+      "The Jets enter at 3-8; Miami enters at 1-9.",
+      "In Week 11, the Jets beat the Chargers 27-24, while the Dolphins lost 26-9 to the Bills.",
+      "Miami won the first 2026 meeting, 28-25, on Oct. 25."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,402 passing yards, 15 passing TD",
+        "team": "New York Jets",
+        "name": "Geno Smith"
+      },
+      {
+        "stat_line": "608 rushing yards, 4 rushing TD",
+        "team": "Miami Dolphins",
+        "name": "Ollie Gordon II"
+      }
+    ],
+    "home_record": "1-9",
+    "home_team": "Miami Dolphins",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL Week 11 report identifies the New York Jets with a 3-8 record, their record entering the scheduled Week 12 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the New York Jets and the Los Angeles Chargers during the 2026 NFL season.\n\nSCORE\n\n27\n\n[New York Jets 3-8](https://www.nfl.com/teams/new-york-jets)\n\nSCORE"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game-center text names the away team as the New York Jets.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-dolphins-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew York Jets\n\nNYJ\n\nNew York Jets\n\nJETS\n\nNew York Jets\n\nNEW YORK\n\nJETS\n\n2-8\n\n2 wins, 8 losses, 0 ties\n\nMiami Dolphins\n\nMIA\n\nMiami Dolphins\n\nDOLPHINS\n\nMiami Dolphins\n\nMIAMI\n\nDOLPHINS\n\n1-8\n\n1 win, 8 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew York Jets\n\nMiami Dolphins\n\nNew York Jets, POINTS PER GAME, 19.4, ranked 26th.\n\n19\\.4\n\n26TH\n\nPOINTS PER GAME\n\nMiami Dolphins, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nNew York Jets, YARDS PER GAME, 316.5, ranked 19th.\n\n316\\.5\n\n19TH\n\nYARDS PER GAME"
+          ],
+          "title": "New York Jets at Miami Dolphins 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The schedule lists the Jets at the Dolphins in Week 12, and the NFL schedule records Miami\u2019s 28-25 win over the Jets earlier in the season. The Week 11 results report lists the Jets\u2019 27-24 win over the Chargers and Miami\u2019s 26-9 loss to Buffalo; together these facts support the rematch context and its immediate season storyline.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/miami-dolphins",
+          "excerpts": [
+            "* [Dolphins 28, Jets 25, FINAL, Sunday, October 25th](https://www.nfl.com/games/dolphins-at-jets-2026-reg-7)\n  \n  Final\n  \n  Miami Dolphins Team Logo DOLPHINS 1-5\n  \n  Hidden Score",
+            "### Week 12\n\n* [Jets at Dolphins, Sunday, November 29th, 1:00 PM, CBS](https://www.nfl.com/games/jets-at-dolphins-2026-reg-12)\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Miami Dolphins Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Carolina Panthers 35, Baltimore Ravens 33\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30",
+            "* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL records establish the teams\u2019 entering records; the Week 11 results list supports the recent outcomes, and the season schedule records Miami\u2019s earlier 28-25 win over New York.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the New York Jets and the Los Angeles Chargers during the 2026 NFL season.\n\nSCORE\n\n27\n\n[New York Jets 3-8](https://www.nfl.com/teams/new-york-jets)\n\nSCORE",
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Carolina Panthers 35, Baltimore Ravens 33\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30",
+            "* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/miami-dolphins",
+          "excerpts": [
+            "# Miami Dolphins News, Scores, Stats, Schedule | NFL.com\n\nMiami Dolphins\n\n4th AFC East\n\n1 - 9 - 0"
+          ],
+          "title": "Miami Dolphins News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/miami-dolphins",
+          "excerpts": [
+            "* [Dolphins 28, Jets 25, FINAL, Sunday, October 25th](https://www.nfl.com/games/dolphins-at-jets-2026-reg-7)\n  \n  Final\n  \n  Miami Dolphins Team Logo DOLPHINS 1-5\n  \n  Hidden Score"
+          ],
+          "title": "NFL 2026 Miami Dolphins Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "For Geno Smith, the NFL season table gives 2,226 passing yards and 12 passing TD through Week 10; his Week 11 line adds 176 yards and three TD, for 2,402 and 15. For Ollie Gordon II, the Week 11 preview lists 539 rushing yards and four TD, and his Week 11 game log adds 69 yards with no TD, for 608 and four.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats",
+          "excerpts": [
+            "|2026 |New York Jets |10 |10 |196 |292 |2226 |7\\.6 |12 |3 |29 |242 |99\\.2 |24 |54 |2\\.2 |0 |4 |2 |\n|TOTAL | |119 |108 |2219 |3395 |24394 |7\\.2 |136 |92 |306 |2240 |88\\.6 |381 |1657 |4\\.3 |12 |52 |21 |"
+          ],
+          "title": "Geno Smith Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats/logs/2026/",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|11 |11/22/2026 |@Chargers |W 27 - 24 |17 |21 |176 |8\\.4 |3 |0 |1 |0 |141\\.2 |1 |4 |4 |0 | | |\n|10 |11/15/2026 |Bills |L 12 - 31 |13 |21 |148 |7 |0 |0 |1 |6 |83 | | | | | | |\n|9 |11/08/2026 |@Chiefs |L 12 - 35 |18 |32 |165 |5\\.2 |0 |0 |5 |42 |70\\.4 |1 |8 |8 |0 | | |"
+          ],
+          "title": "Geno Smith 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Buffalo Bills, TOTAL TURNOVER DIFFERENTIAL, +0, ranked 17th.\n\n\\+0\n\n17TH\n\n## TEAM LEADERS\n\nPASSING\n\n[M. Willis 1396 YDS 58\\.2%CMP 6TD 6INT](https://www.nfl.com/players/malik-willis/stats)\n\nPASSING\n\n[J. Allen 2223 YDS 65%CMP 13TD 7INT](https://www.nfl.com/players/josh-allen/stats)\n\nRUSHING\n\n[O. Gordon 539 YDS 127ATT 4TD 4\\.2AVG](https://www.nfl.com/players/ollie-gordon-ii/stats)\n\nRUSHING\n\n[J. Cook 971 YDS 187ATT 9TD 5\\.2AVG](https://www.nfl.com/players/james-cook/stats)\n\nRECEIVING\n\n[M. Washington 400 YDS 36REC 1TD 11\\.1AVG](https://www.nfl.com/players/malik-washington/stats)\n\nRECEIVING"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL team page lists Miami\u2019s record as 1-9-0 before its scheduled Week 12 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/miami-dolphins",
+          "excerpts": [
+            "# Miami Dolphins News, Scores, Stats, Schedule | NFL.com\n\nMiami Dolphins\n\n4th AFC East\n\n1 - 9 - 0"
+          ],
+          "title": "Miami Dolphins News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game-center text names the home team as the Miami Dolphins.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/jets-at-dolphins-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nNew York Jets\n\nNYJ\n\nNew York Jets\n\nJETS\n\nNew York Jets\n\nNEW YORK\n\nJETS\n\n2-8\n\n2 wins, 8 losses, 0 ties\n\nMiami Dolphins\n\nMIA\n\nMiami Dolphins\n\nDOLPHINS\n\nMiami Dolphins\n\nMIAMI\n\nDOLPHINS\n\n1-8\n\n1 win, 8 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew York Jets\n\nMiami Dolphins\n\nNew York Jets, POINTS PER GAME, 19.4, ranked 26th.\n\n19\\.4\n\n26TH\n\nPOINTS PER GAME\n\nMiami Dolphins, POINTS PER GAME, 16.4, ranked 30th.\n\n16\\.4\n\n30TH\n\nNew York Jets, YARDS PER GAME, 316.5, ranked 19th.\n\n316\\.5\n\n19TH\n\nYARDS PER GAME"
+          ],
+          "title": "New York Jets at Miami Dolphins 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL schedule lists Jets at Dolphins for Week 12 on Nov. 29. That date is later than the stated current date of Nov. 24, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/miami-dolphins",
+          "excerpts": [
+            "### Week 12\n\n* [Jets at Dolphins, Sunday, November 29th, 1:00 PM, CBS](https://www.nfl.com/games/jets-at-dolphins-2026-reg-12)\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Miami Dolphins Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The NFL report gives the Jets\u2019 3-8 record, while the Dolphins\u2019 NFL team page lists 1-9-0.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the New York Jets and the Los Angeles Chargers during the 2026 NFL season.\n\nSCORE\n\n27\n\n[New York Jets 3-8](https://www.nfl.com/teams/new-york-jets)\n\nSCORE"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/miami-dolphins",
+          "excerpts": [
+            "# Miami Dolphins News, Scores, Stats, Schedule | NFL.com\n\nMiami Dolphins\n\n4th AFC East\n\n1 - 9 - 0"
+          ],
+          "title": "Miami Dolphins News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 results show Buffalo beating Miami 26-9 and the Jets beating the Chargers 27-24.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Carolina Panthers 35, Baltimore Ravens 33\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30",
+            "* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The NFL schedule records Miami\u2019s 28-25 win over the Jets on Oct. 25, 2026.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/miami-dolphins",
+          "excerpts": [
+            "* [Dolphins 28, Jets 25, FINAL, Sunday, October 25th](https://www.nfl.com/games/dolphins-at-jets-2026-reg-7)\n  \n  Final\n  \n  Miami Dolphins Team Logo DOLPHINS 1-5\n  \n  Hidden Score"
+          ],
+          "title": "NFL 2026 Miami Dolphins Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NFL stats table gives Smith 2,226 passing yards and 12 TD before Week 11. His Week 11 log adds 176 passing yards and three TD, yielding 2,402 yards and 15 TD.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats",
+          "excerpts": [
+            "|2026 |New York Jets |10 |10 |196 |292 |2226 |7\\.6 |12 |3 |29 |242 |99\\.2 |24 |54 |2\\.2 |0 |4 |2 |\n|TOTAL | |119 |108 |2219 |3395 |24394 |7\\.2 |136 |92 |306 |2240 |88\\.6 |381 |1657 |4\\.3 |12 |52 |21 |"
+          ],
+          "title": "Geno Smith Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/geno-smith/stats/logs/2026/",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|11 |11/22/2026 |@Chargers |W 27 - 24 |17 |21 |176 |8\\.4 |3 |0 |1 |0 |141\\.2 |1 |4 |4 |0 | | |\n|10 |11/15/2026 |Bills |L 12 - 31 |13 |21 |148 |7 |0 |0 |1 |6 |83 | | | | | | |\n|9 |11/08/2026 |@Chiefs |L 12 - 35 |18 |32 |165 |5\\.2 |0 |0 |5 |42 |70\\.4 |1 |8 |8 |0 | | |"
+          ],
+          "title": "Geno Smith 2026 Logs Stats | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL Week 11 preview lists Gordon with 539 rushing yards and four TD before the Bills game; his Week 11 log adds 69 rushing yards and no TD, yielding 608 yards and four TD.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11?tab=overview",
+          "excerpts": [
+            "Buffalo Bills, TOTAL TURNOVER DIFFERENTIAL, +0, ranked 17th.\n\n\\+0\n\n17TH\n\n## TEAM LEADERS\n\nPASSING\n\n[M. Willis 1396 YDS 58\\.2%CMP 6TD 6INT](https://www.nfl.com/players/malik-willis/stats)\n\nPASSING\n\n[J. Allen 2223 YDS 65%CMP 13TD 7INT](https://www.nfl.com/players/josh-allen/stats)\n\nRUSHING\n\n[O. Gordon 539 YDS 127ATT 4TD 4\\.2AVG](https://www.nfl.com/players/ollie-gordon-ii/stats)\n\nRUSHING\n\n[J. Cook 971 YDS 187ATT 9TD 5\\.2AVG](https://www.nfl.com/players/james-cook/stats)\n\nRECEIVING\n\n[M. Washington 400 YDS 36REC 1TD 11\\.1AVG](https://www.nfl.com/players/malik-washington/stats)\n\nRECEIVING"
+          ],
+          "title": "Miami Dolphins at Buffalo Bills 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Geno Smith has 2,402 passing yards and 15 passing TDs this season. His 3-8 New York Jets visit the 1-9 Miami Dolphins in Miami. Watch Dolphins runner Ollie Gordon II, too! He has 608 rushing yards and 4 rushing TDs. These teams meet again in the AFC East after a close first game. Miami won that one 28-25!",
+    "big_words": [
+      {
+        "word": "close",
+        "definition": "Almost equal in score.",
+        "example": "Omar stood close to the glass to see a sleepy lion at the zoo."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1039,
+        "output": 131
+      }
+    ]
+  }
+}

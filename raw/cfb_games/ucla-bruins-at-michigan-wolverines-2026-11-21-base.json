@@ -1,0 +1,450 @@
+{
+  "run_id": "trun_bd5aff7f279040ea907b3466bd088cad",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 158.6,
+  "input": {
+    "away_team": "UCLA Bruins",
+    "home_team": "Michigan Wolverines",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "UCLA Bruins",
+    "key_plays": [
+      "Q4 12:55: Bryce Underwood threw a 6-yard touchdown pass to Mason Bonner; Jacob Baggett\u2019s kick put Michigan ahead 10-3.",
+      "Q4 0:10: Anthony Woods threw a 1-yard touchdown pass to Brayden Loftin, tying the game 10-10 for UCLA.",
+      "OT: Mateen Bhaghani made a 38-yard field goal for UCLA; Jacob Baggett answered with a 29-yard field goal for Michigan, making it 13-13.",
+      "2OT: Jacob Baggett made a 52-yard field goal, then Mateen Bhaghani\u2019s 38-yarder tied it 16-16.",
+      "3OT: Bryce Underwood passed to Jalen Hoffman for the winning two-point conversion, giving Michigan an 18-16 victory."
+    ],
+    "away_score": 16,
+    "storyline": "Michigan upset previously unbeaten No. 4 UCLA in triple overtime, ending the Bruins\u2019 10-0 start and handing them their first loss. The win made Michigan bowl eligible at 6-5.",
+    "top_performers": [
+      {
+        "stat_line": "26 carries, 104 yards",
+        "team": "Michigan Wolverines",
+        "name": "Savion Hiter"
+      },
+      {
+        "stat_line": "11 of 24, 127 yards, 1 TD, 0 INT",
+        "team": "Michigan Wolverines",
+        "name": "Bryce Underwood"
+      },
+      {
+        "stat_line": "19 of 30, 188 yards, 1 INT",
+        "team": "UCLA Bruins",
+        "name": "Ty Dieffenbach"
+      },
+      {
+        "stat_line": "47 receiving yards, 1 TD",
+        "team": "Michigan Wolverines",
+        "name": "Mason Bonner"
+      }
+    ],
+    "home_record_after": "6-5",
+    "tough_day": [
+      {
+        "stat_line": "3 turnovers",
+        "team": "UCLA Bruins",
+        "name": "Ty Dieffenbach"
+      }
+    ],
+    "away_record_after": "10-1",
+    "home_team": "Michigan Wolverines",
+    "home_score": 18
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NCAA game summary labels the matchup final and gives the completed score, confirming the game was played to a final result.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6604124",
+          "excerpts": [
+            "(last verified: 2026-11-24) ## Football"
+          ],
+          "title": "UCLA vs Michigan Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup is listed as UCLA Bruins at Michigan Wolverines, identifying UCLA as the away team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "6-5 , 3-5 Big Ten\n\n18\n\n6-5 , 3-5 Big Ten\n\n# UCLA Bruins @ Michigan Wolverines\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan)"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The cited scoring-play records establish the fourth-quarter touchdowns, overtime field goals, and the third-overtime conversion in chronological order.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Touchdown\n\n12:55 - 4th\n\n3\n\nUCLA\n\n10\n\nMICH\n\nMason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)\n\n5 plays, 15 yards, 2:09\n\nTouchdown\n\n0:10 - 4th\n\n10\n\nUCLA\n\n10\n\nMICH\n\nBrayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards",
+            "Brayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards",
+            "3rd Overtime"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858528",
+          "excerpts": [
+            "Michigan answered with [Jacob Baggett](http://www.espn.com/college-football/player/_/id/5391394/jacob-baggett) 's 29-yard field goal."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528",
+          "excerpts": [
+            "2OT\n\n13\n\nUCLA\n\n16\n\nMICH\n\nJ. Baggett 52 yd FG GOOD\n\n4 plays, -9 yards\n\nField Goal\n\n2OT\n\n16\n\nUCLA\n\n16\n\nMICH\n\nM. Bhaghani 38 yd FG GOOD\n\n4 plays, 5 yards\n\n3rd Overtime\n\nTwo Point Pass\n\n3OT\n\n16\n\nUCLA\n\n18"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The NCAA final summary lists UCLA first with 16 points and Michigan second with 18.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6604124",
+          "excerpts": [
+            "(last verified: 2026-11-24) ## Football"
+          ],
+          "title": "UCLA vs Michigan Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NCAA account identifies the UCLA result as a 3OT loss after an unbeaten start and states that Michigan became bowl eligible at 6-5.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2026-11-21/2-top-10-overtime-upsets-headline-week-12-college-football",
+          "excerpts": [
+            "View All Scores\n\n  \n  ### Sports\n  \n  #### Fall\n  \n  #### Winter\n  \n  #### Spring\n  \n  #### Trending Sports"
+          ],
+          "title": "2 top-10 overtime upsets headline Week 12 of college football | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "ESPN\u2019s game recap and game statistics report Hiter\u2019s rushing total, Underwood\u2019s passing line, Dieffenbach\u2019s passing line, and Bonner\u2019s receiving yardage and touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858528",
+          "excerpts": [
+            "\u201cToday, it showed that it's within us to go out there and dominate,\u201d Underwood said.\n\nMichigan\u2019s [Savion Hiter](http://www.espn.com/college-football/player/_/id/5159046/savion-hiter) ran 26 times for 104 yards."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5141741/bryce-underwood",
+          "excerpts": [
+            "/college-football/game/_/gameId/401858474/michigan-minnesota) |10 |21 |101 |47\\.6 |0 |2 |17 |3 |69\\.0 |32\\.7 |10 |20 |2\\.0 |0 |14 |",
+            "31-7](https://www.espn.com/college-football/game/_/gameId/401858523/michigan-oregon) |2 |8 |26 |25\\.0 |0 |0 |14 |1 |52\\.3 |41\\.0 |2 |3 |1\\.5 |0 |5 |\n|Sat 11/21 |vs UCLA 4 [UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins \"Team - UCLA Bruins\") |[W 18-16 3OT](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) |11 |24 |127 |45\\.8 |1 |0 |26 |4 |104\\.0 |35\\.0 |13 |5 |0\\.4 |0 |15 |"
+          ],
+          "title": "Bryce Underwood 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) [MICH](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nPassing Yards\n\n[188 T. Dieffenbach QB 19/30, 1 INT 188](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach)\n\nPassing Yards\n\n[127 B."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/schedule/_/week/12",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) |[MICH 18, UCLA 16 (3OT)](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) |[Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) 188 |[Savion Hiter](https://www.espn.com/college-football/player/_/id/5159046/savion-hiter) 104 |[Mason Bonner](https://www.espn.com/college-football/player/_/id/5276673/mason-bonner) 47 |"
+          ],
+          "title": "College Football Schedule - Week 12 (Nov 22 - Nov 22), 2026 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Touchdown\n\n12:55 - 4th\n\n3\n\nUCLA\n\n10\n\nMICH\n\nMason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)\n\n5 plays, 15 yards, 2:09\n\nTouchdown\n\n0:10 - 4th\n\n10\n\nUCLA\n\n10\n\nMICH\n\nBrayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final scoreboard lists Michigan at 6-5 after the win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/scoreboard/_/date/20261121",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n  \n  ( 10-1 7-1 Big Ten )\n  \n  0\n  \n  3\n  \n  0\n  \n  7\n  \n  6\n  \n  16\n* [](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n  \n  [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n  \n  ( 6-5 3-5 Big Ten )\n  \n  0\n  \n  3\n  \n  0\n  \n  7\n  \n  8\n  \n  18\n\n1:02\n\n## Michigan ends UCLA's undefeated season with 3OT win\n\n[Gamecast](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) [Box Score](https://www.espn.com/college-football/boxscore/_/gameId/401858528) [Highlights](https://www.espn.com/college-football/video/_/gameId/401858528)\n\nFinal\n\n1\n\n2\n\n3\n\n4\n\nT"
+          ],
+          "title": "College Football Scores - November 21, 2026 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap states that Dieffenbach had three turnovers against Michigan, supporting the listed difficult statistical result.",
+      "citations": [],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final scoreboard lists UCLA at 10-1 after the loss.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/scoreboard/_/date/20261121",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n  \n  ( 10-1 7-1 Big Ten )\n  \n  0\n  \n  3\n  \n  0\n  \n  7\n  \n  6\n  \n  16\n* [](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n  \n  [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n  \n  ( 6-5 3-5 Big Ten )\n  \n  0\n  \n  3\n  \n  0\n  \n  7\n  \n  8\n  \n  18\n\n1:02\n\n## Michigan ends UCLA's undefeated season with 3OT win\n\n[Gamecast](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) [Box Score](https://www.espn.com/college-football/boxscore/_/gameId/401858528) [Highlights](https://www.espn.com/college-football/video/_/gameId/401858528)\n\nFinal\n\n1\n\n2\n\n3\n\n4\n\nT"
+          ],
+          "title": "College Football Scores - November 21, 2026 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup heading lists Michigan Wolverines after the at sign, identifying Michigan as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "6-5 , 3-5 Big Ten\n\n18\n\n6-5 , 3-5 Big Ten\n\n# UCLA Bruins @ Michigan Wolverines\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan)"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The NCAA final summary lists Michigan second with 18 points.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6604124",
+          "excerpts": [
+            "(last verified: 2026-11-24) ## Football"
+          ],
+          "title": "UCLA vs Michigan Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring-play listing records Underwood\u2019s 6-yard touchdown pass to Bonner at 12:55 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Touchdown\n\n12:55 - 4th\n\n3\n\nUCLA\n\n10\n\nMICH\n\nMason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)\n\n5 plays, 15 yards, 2:09\n\nTouchdown\n\n0:10 - 4th\n\n10\n\nUCLA\n\n10\n\nMICH\n\nBrayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The same scoring-play listing records Woods\u2019s touchdown pass to Loftin with 10 seconds remaining in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Touchdown\n\n12:55 - 4th\n\n3\n\nUCLA\n\n10\n\nMICH\n\nMason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)\n\n5 plays, 15 yards, 2:09\n\nTouchdown\n\n0:10 - 4th\n\n10\n\nUCLA\n\n10\n\nMICH\n\nBrayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play listing gives Bhaghani\u2019s 38-yard overtime field goal; the recap records Baggett\u2019s answering 29-yard field goal.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Brayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858528",
+          "excerpts": [
+            "Michigan answered with [Jacob Baggett](http://www.espn.com/college-football/player/_/id/5391394/jacob-baggett) 's 29-yard field goal."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring sequence records Baggett\u2019s 52-yard field goal and Bhaghani\u2019s 38-yard answer in the second overtime.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528",
+          "excerpts": [
+            "2OT\n\n13\n\nUCLA\n\n16\n\nMICH\n\nJ. Baggett 52 yd FG GOOD\n\n4 plays, -9 yards\n\nField Goal\n\n2OT\n\n16\n\nUCLA\n\n16\n\nMICH\n\nM. Bhaghani 38 yd FG GOOD\n\n4 plays, 5 yards\n\n3rd Overtime\n\nTwo Point Pass\n\n3OT\n\n16\n\nUCLA\n\n18"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556702/bryce-underwood-michigan-outlast-ucla-triple-over",
+          "excerpts": [
+            "Michigan answered with [Jacob Baggett](https://www.espn.com/college-football/player/_/id/5391394/jacob-baggett) 's 29-yard field goal.\n\nBaggett made a 52-yard field goal and Bhaghani matched it with a 38-yard kick in the second overtime."
+          ],
+          "title": "Bryce Underwood, Michigan outlast UCLA in triple overtime - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The third-overtime play listing identifies Underwood\u2019s conversion pass to Hoffman as the final scoring play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "3rd Overtime"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap states that Hiter ran 26 times for 104 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858528",
+          "excerpts": [
+            "\u201cToday, it showed that it's within us to go out there and dominate,\u201d Underwood said.\n\nMichigan\u2019s [Savion Hiter](http://www.espn.com/college-football/player/_/id/5159046/savion-hiter) ran 26 times for 104 yards."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The game-log table reports Underwood\u2019s 11 completions on 24 attempts, 127 yards, one passing touchdown, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5141741/bryce-underwood",
+          "excerpts": [
+            "/college-football/game/_/gameId/401858474/michigan-minnesota) |10 |21 |101 |47\\.6 |0 |2 |17 |3 |69\\.0 |32\\.7 |10 |20 |2\\.0 |0 |14 |",
+            "31-7](https://www.espn.com/college-football/game/_/gameId/401858523/michigan-oregon) |2 |8 |26 |25\\.0 |0 |0 |14 |1 |52\\.3 |41\\.0 |2 |3 |1\\.5 |0 |5 |\n|Sat 11/21 |vs UCLA 4 [UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins \"Team - UCLA Bruins\") |[W 18-16 3OT](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) |11 |24 |127 |45\\.8 |1 |0 |26 |4 |104\\.0 |35\\.0 |13 |5 |0\\.4 |0 |15 |"
+          ],
+          "title": "Bryce Underwood 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The game leader line reports Dieffenbach\u2019s 19-of-30 passing line, 188 yards, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) [MICH](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nPassing Yards\n\n[188 T. Dieffenbach QB 19/30, 1 INT 188](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach)\n\nPassing Yards\n\n[127 B."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The Week 12 leader row gives Bonner 47 receiving yards, and the scoring-play listing records his touchdown catch.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/schedule/_/week/12",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) |[MICH 18, UCLA 16 (3OT)](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) |[Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) 188 |[Savion Hiter](https://www.espn.com/college-football/player/_/id/5159046/savion-hiter) 104 |[Mason Bonner](https://www.espn.com/college-football/player/_/id/5276673/mason-bonner) 47 |"
+          ],
+          "title": "College Football Schedule - Week 12 (Nov 22 - Nov 22), 2026 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "Touchdown\n\n12:55 - 4th\n\n3\n\nUCLA\n\n10\n\nMICH\n\nMason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)\n\n5 plays, 15 yards, 2:09\n\nTouchdown\n\n0:10 - 4th\n\n10\n\nUCLA\n\n10\n\nMICH\n\nBrayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)\n\n15 plays, 77 yards, 5:14\n\nOvertime\n\nField Goal\n\nOT\n\n13\n\nUCLA\n\n10\n\nMICH\n\nMateen Bhaghani 38 Yd Field Goal\n\n4 plays, 5 yards"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap explicitly says Dieffenbach had three turnovers against Michigan.",
+      "citations": [],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Michigan, the Wolverines faced unbeaten No. 4 UCLA with a bowl trip at stake. Bryce Underwood tossed a touchdown to Mason Bonner for a 10-3 lead. UCLA tied it with 10 seconds left. The teams traded kicks through 2 overtimes. Then Underwood found Jalen Hoffman for the winning 2-point conversion! Michigan stunned UCLA 18-16 in a triple-overtime upset. The win made Michigan bowl eligible at 6-5.",
+    "big_words": [
+      {
+        "word": "upset",
+        "definition": "A win by a team not expected to win.",
+        "example": "Diego's team pulled off an upset in a birthday party game."
+      },
+      {
+        "word": "eligible",
+        "definition": "Allowed to take part in something.",
+        "example": "Diego was eligible to play the birthday party's ring toss game."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1324,
+        "output": 178
+      }
+    ]
+  }
+}

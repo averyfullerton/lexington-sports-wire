@@ -1,0 +1,174 @@
+{
+  "run_id": "trun_1d63cf7e4268416e88b10d475d075438",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 126.0,
+  "input": {
+    "player": "Isaac Brown",
+    "team": "Louisville Cardinals",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Isaac Brown was a football and track-and-field star at Miami Northwestern Senior High School.",
+      "At Louisville, Isaac Brown\u2019s third career carry went for 36 yards, and his fifth went 77 yards for a touchdown.",
+      "As a 2024 freshman, Isaac Brown was named the ACC\u2019s best rookie and a Freshman All-American.",
+      "Isaac Brown became the first Louisville freshman to rush for more than 1,000 yards.",
+      "Against Florida State in 2026, Isaac Brown ran for a career-high 235 yards, including a 97-yard touchdown that set Louisville\u2019s record for longest play from scrimmage."
+    ],
+    "high_school": "Miami Northwestern Senior High School (ESPN\u2019s recruiting profile also lists Homestead Senior High School.)",
+    "hometown": "Homestead, Florida"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passage says Brown was a football and track-and-field star, describes his third and fifth career carries, and reports his 2024 freshman recognition. Another ESPN passage says he became Louisville\u2019s first freshman to eclipse 1,000 rushing yards. ESPN\u2019s Florida State recap reports his 235-yard game and 97-yard touchdown, then states the run set Louisville\u2019s longest-play-from-scrimmage record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50167434/heisman-week-6-louisville-isaac-brown-storms-field",
+          "excerpts": [
+            "The way Ndamukong Suh dominated a double-team at Nebraska made it seem like he was the only college football player who lifted weights.\n\nLouisville running back [Isaac Brown](https://www.espn.com/college-football/player/_/id/5079349/isaac-brown) hasn't succeeded at the level of Smith or Suh, but he's putting together a solid career. A football and track-and-field star at Miami Northwestern Senior High School, he was the ACC's best rookie and a Freshman All-American in 2024. His third career carry went for 36 yards, and his fifth went for 77 and a touchdown. He finished the year with 1,325 yards from scrimmage, 12 touchdowns and a few solid kickoff returns."
+          ],
+          "title": "Heisman of Week 6 - Louisville's Isaac Brown storms field - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45225888/college-football-2025-top-playmakers",
+          "excerpts": [
+            "* * *\n\n## [Isaac Brown](http://www.espn.com/college-football/player/_/id/5079349/isaac-brown) , RB, Louisville Cardinals\n\n**Vitals** : Sophomore, 5-9, 190 pounds\n\n**2024 stats** : 1,173 rushing yards, 165 carries, 11 rushing TDs, 152 receiving yards, 30 receptions, 1 receiving TD, 193 kickoff return yards, 11 returns\n\n**Why he's here** : Brown earned ACC Offensive Rookie of the Year honors after becoming the first Louisville freshman to eclipse 1,000 rushing yards."
+          ],
+          "title": "College football's top playmakers for the 2025 season - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858254",
+          "excerpts": [
+            "# Isaac Brown brings Louisville back from the brink as Cardinals pummel Florida State 44-20\n\n0:58\n\n## Isaac Brown breaks free for a 97-yard TD run for Louisville\n\n* * *\n\nBy AP\n\nUpdated: Oct 10, 2026, 04:59 am\n\nFacebook Facebook Messenger Twitter Email\n\nLOUISVILLE, Ky. -- \u2014 [Isaac Brown](http://www.espn.com/college-football/player/_/id/5079349/isaac-brown) ran for a career-high 235 yards and two touchdowns on just 17 carries, including a game-changing 97-yard score, as Louisville rallied to take down Florida State 44-20 on Friday night.\n\nKnown for his big-play capabilities, Brown\u2019s long touchdown run came on the first play of a second-quarter drive after Louisville DB [Kaleb",
+            "They got to go 98 yards, and they did it in one play.\u201d\n\nThe touchdown run set a record for Louisville\u2019s longest play from scrimmage, and Brown\u2019s total for the night was the most for any running back among Football Bowl Subdivision programs this season."
+          ],
+          "title": "Louisville 44-20 Florida State (Oct 9, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN\u2019s 2026 article identifies Miami Northwestern Senior High School as Brown\u2019s football and track-and-field school. ESPN\u2019s recruiting profile separately lists Homestead Senior High School, so the answer notes that conflicting listing rather than treating the school identification as entirely unambiguous.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50167434/heisman-week-6-louisville-isaac-brown-storms-field",
+          "excerpts": [
+            "The way Ndamukong Suh dominated a double-team at Nebraska made it seem like he was the only college football player who lifted weights.\n\nLouisville running back [Isaac Brown](https://www.espn.com/college-football/player/_/id/5079349/isaac-brown) hasn't succeeded at the level of Smith or Suh, but he's putting together a solid career. A football and track-and-field star at Miami Northwestern Senior High School, he was the ACC's best rookie and a Freshman All-American in 2024. His third career carry went for 36 yards, and his fifth went for 77 and a touchdown. He finished the year with 1,325 yards from scrimmage, 12 touchdowns and a few solid kickoff returns."
+          ],
+          "title": "Heisman of Week 6 - Louisville's Isaac Brown storms field - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250790/isaac-brown",
+          "excerpts": [
+            "# Isaac Brown\n\n* \n\n5-9, 185 | Class of 2024\n\n* Hometown [Homestead, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/4304/class/2024)\n* School Homestead Senior High School\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2024)\n* Status Signed [Louisville](https://www.espn.com/college-sports/football/recruiting/school/_/id/97) 08/01/2022\n\n#### Scout Grade\n\n* 80\n*"
+          ],
+          "title": "Isaac Brown Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN\u2019s recruiting profile explicitly labels Homestead, Florida, as Brown\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250790/isaac-brown",
+          "excerpts": [
+            "# Isaac Brown\n\n* \n\n5-9, 185 | Class of 2024\n\n* Hometown [Homestead, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/4304/class/2024)\n* School Homestead Senior High School\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2024)\n* Status Signed [Louisville](https://www.espn.com/college-sports/football/recruiting/school/_/id/97) 08/01/2022\n\n#### Scout Grade\n\n* 80\n*"
+          ],
+          "title": "Isaac Brown Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage identifies Isaac Brown as a football and track-and-field star at Miami Northwestern Senior High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50167434/heisman-week-6-louisville-isaac-brown-storms-field",
+          "excerpts": [
+            "The way Ndamukong Suh dominated a double-team at Nebraska made it seem like he was the only college football player who lifted weights.\n\nLouisville running back [Isaac Brown](https://www.espn.com/college-football/player/_/id/5079349/isaac-brown) hasn't succeeded at the level of Smith or Suh, but he's putting together a solid career. A football and track-and-field star at Miami Northwestern Senior High School, he was the ACC's best rookie and a Freshman All-American in 2024. His third career carry went for 36 yards, and his fifth went for 77 and a touchdown. He finished the year with 1,325 yards from scrimmage, 12 touchdowns and a few solid kickoff returns."
+          ],
+          "title": "Heisman of Week 6 - Louisville's Isaac Brown storms field - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Brown\u2019s third career carry went 36 yards and his fifth went 77 yards for a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50167434/heisman-week-6-louisville-isaac-brown-storms-field",
+          "excerpts": [
+            "The way Ndamukong Suh dominated a double-team at Nebraska made it seem like he was the only college football player who lifted weights.\n\nLouisville running back [Isaac Brown](https://www.espn.com/college-football/player/_/id/5079349/isaac-brown) hasn't succeeded at the level of Smith or Suh, but he's putting together a solid career. A football and track-and-field star at Miami Northwestern Senior High School, he was the ACC's best rookie and a Freshman All-American in 2024. His third career carry went for 36 yards, and his fifth went for 77 and a touchdown. He finished the year with 1,325 yards from scrimmage, 12 touchdowns and a few solid kickoff returns."
+          ],
+          "title": "Heisman of Week 6 - Louisville's Isaac Brown storms field - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states Brown was the ACC\u2019s best rookie and a Freshman All-American in 2024.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50167434/heisman-week-6-louisville-isaac-brown-storms-field",
+          "excerpts": [
+            "The way Ndamukong Suh dominated a double-team at Nebraska made it seem like he was the only college football player who lifted weights.\n\nLouisville running back [Isaac Brown](https://www.espn.com/college-football/player/_/id/5079349/isaac-brown) hasn't succeeded at the level of Smith or Suh, but he's putting together a solid career. A football and track-and-field star at Miami Northwestern Senior High School, he was the ACC's best rookie and a Freshman All-American in 2024. His third career carry went for 36 yards, and his fifth went for 77 and a touchdown. He finished the year with 1,325 yards from scrimmage, 12 touchdowns and a few solid kickoff returns."
+          ],
+          "title": "Heisman of Week 6 - Louisville's Isaac Brown storms field - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN says Brown became the first Louisville freshman to eclipse 1,000 rushing yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45225888/college-football-2025-top-playmakers",
+          "excerpts": [
+            "* * *\n\n## [Isaac Brown](http://www.espn.com/college-football/player/_/id/5079349/isaac-brown) , RB, Louisville Cardinals\n\n**Vitals** : Sophomore, 5-9, 190 pounds\n\n**2024 stats** : 1,173 rushing yards, 165 carries, 11 rushing TDs, 152 receiving yards, 30 receptions, 1 receiving TD, 193 kickoff return yards, 11 returns\n\n**Why he's here** : Brown earned ACC Offensive Rookie of the Year honors after becoming the first Louisville freshman to eclipse 1,000 rushing yards."
+          ],
+          "title": "College football's top playmakers for the 2025 season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports Brown rushed for a career-high 235 yards against Florida State, including a 97-yard touchdown, and says that touchdown set Louisville\u2019s longest-play-from-scrimmage record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858254",
+          "excerpts": [
+            "# Isaac Brown brings Louisville back from the brink as Cardinals pummel Florida State 44-20\n\n0:58\n\n## Isaac Brown breaks free for a 97-yard TD run for Louisville\n\n* * *\n\nBy AP\n\nUpdated: Oct 10, 2026, 04:59 am\n\nFacebook Facebook Messenger Twitter Email\n\nLOUISVILLE, Ky. -- \u2014 [Isaac Brown](http://www.espn.com/college-football/player/_/id/5079349/isaac-brown) ran for a career-high 235 yards and two touchdowns on just 17 carries, including a game-changing 97-yard score, as Louisville rallied to take down Florida State 44-20 on Friday night.\n\nKnown for his big-play capabilities, Brown\u2019s long touchdown run came on the first play of a second-quarter drive after Louisville DB [Kaleb",
+            "They got to go 98 yards, and they did it in one play.\u201d\n\nThe touchdown run set a record for Louisville\u2019s longest play from scrimmage, and Brown\u2019s total for the night was the most for any running back among Football Bowl Subdivision programs this season."
+          ],
+          "title": "Louisville 44-20 Florida State (Oct 9, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

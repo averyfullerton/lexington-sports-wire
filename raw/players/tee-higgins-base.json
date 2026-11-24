@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435b93928f9f523c2cf9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 58.3,
+  "input": {
+    "player": "Tee Higgins",
+    "team": "Cincinnati Bengals",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Clemson",
+    "fun_facts": [
+      "Tee Higgins was a five-star recruit from Oak Ridge, Tennessee.",
+      "He played varsity basketball in high school for three years, then returned to practice for his senior season after watching a game and realizing he missed playing.",
+      "He came close to choosing basketball over football.",
+      "Tee Higgins scored a touchdown in Clemson\u2019s 44\u201316 national championship win over Alabama, which capped the 2018 season.",
+      "He finished his Clemson career with 27 receiving touchdowns, tied for the most in school history.",
+      "In the 2019 ACC Championship Game, Tee Higgins scored three touchdowns, tying a Clemson game record and earning MVP honors."
+    ],
+    "draft": "2020, round 2, pick 33"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NCAA article identifies Clemson as Tee Higgins\u2019s school in its college-career summary.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "**Schools:** Clemson **Position:** Wide receiver **Height:** 6-4 **Weight:** 215 pounds **Years active:** 2017-19"
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NCAA passages support Higgins\u2019s Oak Ridge recruiting background, Clemson championship and records. ESPN\u2019s account supports his high-school basketball experience and that he nearly chose basketball over football.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "Higgins was a five-star recruit from Oak Ridge, Tennessee, who was ranked as the No. 19 prospect and No. 2 wide receiver nationally in the 2017 graduating class, according to 247Sports.",
+            "**Clemson 44, Alabama 16 (College Football Playoff National Championship) | Jan. 7, 2019** For the second time during his sophomore season, Higgins scored in four consecutive games, except the second four-game stretch included wins over rival South Carolina, Pitt in the ACC Championship Game, Notre Dame in the College Football Playoff semifinals and Alabama in the CFP National Championship. In Clemson's runaway win over Alabama, Higgins caught three passes for 81 yards and a score. Higgins' 21-yard touchdown reception in third quarter was the final scoring play of the game, as it put the Tigers ahead by their final margin, 44-16, after the PAT.",
+            "T-1st in Clemson history in receiving touchdowns in a game: Three (vs. Wake Forest, 2019; vs. Virginia, 2019) T-1st in Clemson history in career receiving touchdowns: 27 touchdowns Most receiving touchdowns by a Clemson sophomore: 12 touchdowns (2018)",
+            "In Higgins' final ACC Championship Game appearance, he had a career day, setting career bests in receptions (nine), receiving yards (182) and receiving touchdowns (three), which earned him MVP honors for the game. The Tigers scored at least 14 points in every quarter as they cracked the 60-point mark and won by 45 points. He scored the first points of the game on a 19-yard touchdown reception, then he scored again in each of the next two quarters. Higgins' three receiving touchdowns in the game tied a program record."
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        },
+        {
+          "url": "https://www.espn.com/blog/cincinnati-bengals/post/_/id/32244/catch-anything-style-of-bengals-tee-higgins-rooted-in-hoops-background",
+          "excerpts": [
+            "[Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) rookie [Tee Higgins](https://www.espn.com/nfl/player/_/id/4239993/tee-higgins) thought he was done playing basketball.\n\nHe walked into the gym for an exhibition game before the start of Oak Ridge's senior season in 2016. After three years of playing varsity for the Tennessee high school, he didn't intend to play his final year. The wide receiver's future was already sealed as a Clemson recruit. He watched from the bleachers.\n\n\"After the game, he called me,\" Oak Ridge coach Aaron Green said. \"He couldn't stand it.\"\n\nThe next day after school, Higgins was at practice.\n\n## 2020 NFL offseason",
+            "However, Scott said the Clemson staff was nervous that Higgins might get an offer to sway him to play basketball in college.\n\nHiggins said he came \"really close\" to picking basketball over football."
+          ],
+          "title": "Catch-anything style of Bengals' Tee Higgins rooted in hoops background - ESPN - Cincinnati Bengals Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "NFL.com states that Higgins was selected 33rd overall in Round 2 of the 2020 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/cincinnati-bengals-take-tee-higgins-to-start-round-2-0ap3000001111146",
+          "excerpts": [
+            "33 overall pick in Round 2 of the 2020 NFL Draft.\n\nThe rookie adds another element to the [Bengals](https://www.nfl.com/teams/cincinnatibengals/profile?team=CIN) ' passing game that already sports [A.J. Green](https://www.nfl.com/player/a.j.green/2563902/profile) , [Tyler Boyd](https://www.nfl.com/player/tylerboyd/2555466/profile) and [John"
+          ],
+          "title": "Cincinnati Bengals take Tee Higgins to start Round 2 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NCAA article describes him as a five-star recruit from Oak Ridge, Tennessee.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "Higgins was a five-star recruit from Oak Ridge, Tennessee, who was ranked as the No. 19 prospect and No. 2 wide receiver nationally in the 2017 graduating class, according to 247Sports."
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN recounts that Higgins played varsity basketball for three years and returned to practice for his senior season after realizing he missed the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/cincinnati-bengals/post/_/id/32244/catch-anything-style-of-bengals-tee-higgins-rooted-in-hoops-background",
+          "excerpts": [
+            "[Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) rookie [Tee Higgins](https://www.espn.com/nfl/player/_/id/4239993/tee-higgins) thought he was done playing basketball.\n\nHe walked into the gym for an exhibition game before the start of Oak Ridge's senior season in 2016. After three years of playing varsity for the Tennessee high school, he didn't intend to play his final year. The wide receiver's future was already sealed as a Clemson recruit. He watched from the bleachers.\n\n\"After the game, he called me,\" Oak Ridge coach Aaron Green said. \"He couldn't stand it.\"\n\nThe next day after school, Higgins was at practice.\n\n## 2020 NFL offseason"
+          ],
+          "title": "Catch-anything style of Bengals' Tee Higgins rooted in hoops background - ESPN - Cincinnati Bengals Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that Higgins came close to choosing basketball over football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/cincinnati-bengals/post/_/id/32244/catch-anything-style-of-bengals-tee-higgins-rooted-in-hoops-background",
+          "excerpts": [
+            "However, Scott said the Clemson staff was nervous that Higgins might get an offer to sway him to play basketball in college.\n\nHiggins said he came \"really close\" to picking basketball over football."
+          ],
+          "title": "Catch-anything style of Bengals' Tee Higgins rooted in hoops background - ESPN - Cincinnati Bengals Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NCAA article says Clemson\u2019s championship capped the 2018 season and records Higgins\u2019s touchdown in the 44\u201316 title-game win over Alabama.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "In college, Higgins also played for a championship in his second season, when Clemson won the 2019 College Football Playoff National Championship to cap off the 2018 season.",
+            "**Clemson 44, Alabama 16 (College Football Playoff National Championship) | Jan. 7, 2019** For the second time during his sophomore season, Higgins scored in four consecutive games, except the second four-game stretch included wins over rival South Carolina, Pitt in the ACC Championship Game, Notre Dame in the College Football Playoff semifinals and Alabama in the CFP National Championship. In Clemson's runaway win over Alabama, Higgins caught three passes for 81 yards and a score. Higgins' 21-yard touchdown reception in third quarter was the final scoring play of the game, as it put the Tigers ahead by their final margin, 44-16, after the PAT."
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NCAA article lists Higgins\u2019s 27 career receiving touchdowns as tied for first in Clemson history.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "T-1st in Clemson history in receiving touchdowns in a game: Three (vs. Wake Forest, 2019; vs. Virginia, 2019) T-1st in Clemson history in career receiving touchdowns: 27 touchdowns Most receiving touchdowns by a Clemson sophomore: 12 touchdowns (2018)"
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The NCAA article says Higgins scored three receiving touchdowns in the 2019 ACC Championship Game, tying a program record, and earned game MVP honors.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2023-01-29/tee-higgins-clemson-career-college-football-stats-highlights-records",
+          "excerpts": [
+            "In Higgins' final ACC Championship Game appearance, he had a career day, setting career bests in receptions (nine), receiving yards (182) and receiving touchdowns (three), which earned him MVP honors for the game. The Tigers scored at least 14 points in every quarter as they cracked the 60-point mark and won by 45 points. He scored the first points of the game on a 19-yard touchdown reception, then he scored again in each of the next two quarters. Higgins' three receiving touchdowns in the game tied a program record."
+          ],
+          "title": "Tee Higgins' Clemson career: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

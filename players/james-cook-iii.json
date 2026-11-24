@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Georgia",
   "experience": 5,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "James caught a 39-yard touchdown for Georgia in the college Orange Bowl.",
     "James ran for 216 yards and two touchdowns on 19 carries in a 2025 game.",
@@ -64,11 +67,11 @@
       [
         "2026",
         "BUF",
-        "9",
-        "187",
-        "971",
-        "5.2",
-        "9"
+        "10",
+        "209",
+        "1,060",
+        "5.1",
+        "10"
       ]
     ]
   }

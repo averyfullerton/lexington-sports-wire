@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "USC",
   "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Caleb led Oklahoma to a 55\u201345 win in college after being down 35\u201317.",
     "Caleb put his Heisman Trophy between two LEGO sets.",
@@ -49,12 +52,12 @@
       [
         "2026",
         "CHI",
-        "6",
-        "134",
-        "195",
-        "1,546",
-        "8",
-        "5"
+        "7",
+        "149",
+        "218",
+        "1,727",
+        "10",
+        "6"
       ]
     ]
   }

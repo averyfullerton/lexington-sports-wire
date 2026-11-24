@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_415f3f698c1f435bbd37cc8bf70bd043",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.5,
+  "input": {
+    "player": "Jake Elliott",
+    "team": "Philadelphia Eagles",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "college": "Memphis",
+    "fun_facts": [
+      "Jake Elliott grew up in Western Springs, Illinois, and played tennis and soccer.",
+      "He didn't start playing organized football until his junior year of high school.",
+      "At Memphis, he earned first-team All-Conference honors in all four of his seasons.",
+      "He set a Memphis school record with a 56-yard field goal.",
+      "He finished college with American Athletic Conference career records for points (445) and made field goals (81).",
+      "In 2017, he made a 61-yard game-winning field goal that was the longest in Eagles history."
+    ],
+    "draft": "2017, round 5, pick 153"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN player profile identifies Jake Elliott's college as Memphis.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3050478/jake-elliott",
+          "excerpts": [
+            "* CIN\n  \n  7-2\n* WSH\n  \n  3-5-1\n\nTues\n\n1:15 AM\n\nESPN\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Jake Elliott\n\nPhiladelphia Eagles\n\n* [Philadelphia Eagles Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n* \\#4\n* Place Kicker PK\n\n* HT/WT\n  \n  5' 9\", 167 lbs\n* Birthdate\n  \n  1/21/1995 (31)\n* College\n  \n  [Memphis](https://www.espn.com/college-football/team/_/id/235/memphis-tigers)\n\nFollow\n\n* HT/WT\n  \n  5' 9\", 167 lbs\n* Birthdate\n  \n  1/21/1995 (31)\n* College\n  \n  [Memphis](https://www.espn.com/college-football/team/_/id/235/memphis-tigers)\n* Draft Info\n  \n  2017: Rd 5, Pk 153 (CIN)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* FG%\n  \n  87\\.5\n  \n  Tied-17th\n  \n  XP%\n  \n  100\\.0\n  \n  Tied-1st\n  \n  LNG\n  \n  58\n  \n  Tied-9th\n  \n  PTS\n  \n  38\n  \n  30th"
+          ],
+          "title": "Jake Elliott Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NFL.com passage gives Elliott's hometown, childhood sports, start in organized football, Memphis honors, and school field-goal record. ESPN reports his conference career records. ESPN also documents his 61-yard game winner and that it was the longest in Eagles history.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/please-allow-us-to-introduce-jake-elliott-0ap3000000851359",
+          "excerpts": [
+            "Elliott [grew up playing tennis and soccer](http://www.chicagotribune.com/suburbs/western-springs/sports/ct-dws-jake-elliott-nfl-draft-kicker-tl-0309-20170307-story.html) in his hometown of Western Springs, Illinois, and did not begin playing organized football until his junior year at Lyons Township High School.",
+            "Elliott picked up the art of kicking very quickly and went on to earn first-team All-Conference honors in all four years at Memphis. He also set a school record for the longest field goal in program history (56 yards). After completing his collegiate career, Elliott became the first kicker selected in the fifth round with the 153rd pick. Elliott entered training camp competing for the placekicker job with five-year veteran [Randy Bullock](https://www.nfl.com/player/randybullock/2533444/profile) , a battle Elliott ultimately lost."
+          ],
+          "title": "Please Allow Us To Introduce: Jake Elliott | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/20683712/rookie-kicker-jake-elliott-signed-philadelphia-eagles",
+          "excerpts": [
+            "> \u2014 Jake Elliott (@jake\\_elliott22) [September 12, 2017](https://twitter.com/jake_elliott22/status/907656125738373126)\n\nA rookie out of [Memphis](https://www.espn.com/college-football/team/_/id/235/memphis-tigers) , Elliott converted 78 percent of his field goal tries over four seasons at the collegiate level and holds American Athletic Conference records for career points (445) and made field goals (81)."
+          ],
+          "title": "Rookie K Jake Elliott signed by Eagles with Caleb Sturgis on IR - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/philadelphia-eagles/post/_/id/22213/field-goal-thriller-eagles-jake-elliott-hits-from-61-yards-to-down-giants",
+          "excerpts": [
+            "Kicker [Jake Elliott](https://www.espn.com/nfl/player/_/id/3050478/jake-elliott) , signed off the [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) ' practice squad two weeks ago following an injury to [Caleb Sturgis](https://www.espn.com/nfl/player/_/id/15918/caleb-sturgis) , nailed a 61-yard field goal as time expired to lift the [Philadelphia Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) to a [27-24 win](https://www.espn.com/nfl/game?gameId=400951616) over the [New York Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) .",
+            "\u2022 [2017 schedule, results](http://www.espn.com/nfl/schedule)  \n\u2022 [Standings](http://www.espn.com/nfl/standings)\n\nElliott was a fifth-round draft pick by the Bengals.",
+            "\"I usually don't go out that long during the course of my [pregame] warm-up. I usually go out to 50, 56, maybe 57 and call it a day from there.\"\n\nHis 61-yarder is the longest in Eagles history."
+          ],
+          "title": "Eagles kicker Jake Elliott hits from 61 yards to down Giants - ESPN - Philadelphia Eagles Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL Draft tracker lists Jake Elliott as Cincinnati's fifth-round selection at pick 153 in 2017.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2017/rounds/5",
+          "excerpts": [
+            "* [ROUND 7](https://www.nfl.com/draft/tracker/2017/rounds/7)\n\nPICK\n\nTEAM\n\nPICK 1\n\n(145)\n\nTEAMBroncos\n\nPLAYER JAKE BUTT\n\nTE MICHIGAN\n\nCLE DEN\n\nPICK 2\n\n(146)\n\nTEAM49ers\n\nPLAYER GEORGE KITTLE\n\nTE IOWA\n\nPICK 3\n\n(147)\n\nTEAMBears\n\nPLAYER JORDAN MORGAN\n\nG KUTZTOWN\n\nPICK 4\n\n(148)\n\nTEAMJaguars\n\nPLAYER BLAIR BROWN\n\nLB OHIO\n\nPICK 5\n\n(149)\n\nTEAMFalcons\n\nPLAYER DAMONTAE KAZEE\n\nCB SAN DIEGO STATE\n\nLAR BUF ATL\n\nPICK 6\n\n(150)\n\nTEAMJets\n\nPLAYER JORDAN LEGGETT\n\nTE CLEMSON\n\nPICK 7\n\n(151)\n\nTEAMChargers\n\nPLAYER DESMOND KING\n\nS IOWA\n\nPICK 8\n\n(152)\n\nTEAMPanthers\n\nPLAYER CORN ELDER\n\nCB MIAMI\n\nPICK 9\n\n(153)\n\nTEAMBengals\n\nPLAYER JAKE ELLIOTT\n\nK MEMPHIS\n\nPICK 10\n\n(154)\n\nTEAMRedskins\n\nPLAYER JEREMY SPRINKLE\n\nTE ARKANSAS\n\nNO WAS\n\nPICK 11\n\n(155)\n\nTEAMTitans\n\nPLAYER JAYON BROWN\n\nLB UCLA\n\nPHI TEN\n\nPICK 12\n\n(156)\n\nTEAMFalcons\n\nPLAYER BRIAN HILL\n\nRB WYOMING\n\nBUF ATL\n\nPICK 13\n\n(157)\n\nTEAMCardinals\n\nPLAYER WILL HOLDEN\n\nOT VANDERBILT\n\nPICK 14\n\n(158)\n\nTEAMColts\n\nPLAYER NATE HAIRSTON\n\nCB TEMPLE\n\nPICK 15\n\n(159)"
+          ],
+          "title": "2017 NFL Draft Picks - Round 5 | NFL.com "
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "NFL.com says Elliott grew up in Western Springs, Illinois, playing tennis and soccer.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/please-allow-us-to-introduce-jake-elliott-0ap3000000851359",
+          "excerpts": [
+            "Elliott [grew up playing tennis and soccer](http://www.chicagotribune.com/suburbs/western-springs/sports/ct-dws-jake-elliott-nfl-draft-kicker-tl-0309-20170307-story.html) in his hometown of Western Springs, Illinois, and did not begin playing organized football until his junior year at Lyons Township High School."
+          ],
+          "title": "Please Allow Us To Introduce: Jake Elliott | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The same passage says he did not begin organized football until his junior year at Lyons Township High School.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/please-allow-us-to-introduce-jake-elliott-0ap3000000851359",
+          "excerpts": [
+            "Elliott [grew up playing tennis and soccer](http://www.chicagotribune.com/suburbs/western-springs/sports/ct-dws-jake-elliott-nfl-draft-kicker-tl-0309-20170307-story.html) in his hometown of Western Springs, Illinois, and did not begin playing organized football until his junior year at Lyons Township High School."
+          ],
+          "title": "Please Allow Us To Introduce: Jake Elliott | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "NFL.com states that he earned first-team All-Conference honors in all four years at Memphis.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/please-allow-us-to-introduce-jake-elliott-0ap3000000851359",
+          "excerpts": [
+            "Elliott picked up the art of kicking very quickly and went on to earn first-team All-Conference honors in all four years at Memphis. He also set a school record for the longest field goal in program history (56 yards). After completing his collegiate career, Elliott became the first kicker selected in the fifth round with the 153rd pick. Elliott entered training camp competing for the placekicker job with five-year veteran [Randy Bullock](https://www.nfl.com/player/randybullock/2533444/profile) , a battle Elliott ultimately lost."
+          ],
+          "title": "Please Allow Us To Introduce: Jake Elliott | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com reports that Elliott set Memphis's program record for longest field goal at 56 yards.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/please-allow-us-to-introduce-jake-elliott-0ap3000000851359",
+          "excerpts": [
+            "Elliott picked up the art of kicking very quickly and went on to earn first-team All-Conference honors in all four years at Memphis. He also set a school record for the longest field goal in program history (56 yards). After completing his collegiate career, Elliott became the first kicker selected in the fifth round with the 153rd pick. Elliott entered training camp competing for the placekicker job with five-year veteran [Randy Bullock](https://www.nfl.com/player/randybullock/2533444/profile) , a battle Elliott ultimately lost."
+          ],
+          "title": "Please Allow Us To Introduce: Jake Elliott | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN states that Elliott holds American Athletic Conference career records for 445 points and 81 made field goals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/20683712/rookie-kicker-jake-elliott-signed-philadelphia-eagles",
+          "excerpts": [
+            "> \u2014 Jake Elliott (@jake\\_elliott22) [September 12, 2017](https://twitter.com/jake_elliott22/status/907656125738373126)\n\nA rookie out of [Memphis](https://www.espn.com/college-football/team/_/id/235/memphis-tigers) , Elliott converted 78 percent of his field goal tries over four seasons at the collegiate level and holds American Athletic Conference records for career points (445) and made field goals (81)."
+          ],
+          "title": "Rookie K Jake Elliott signed by Eagles with Caleb Sturgis on IR - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN reports that Elliott's 61-yard kick as time expired won the game and was the longest field goal in Eagles history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/philadelphia-eagles/post/_/id/22213/field-goal-thriller-eagles-jake-elliott-hits-from-61-yards-to-down-giants",
+          "excerpts": [
+            "Kicker [Jake Elliott](https://www.espn.com/nfl/player/_/id/3050478/jake-elliott) , signed off the [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) ' practice squad two weeks ago following an injury to [Caleb Sturgis](https://www.espn.com/nfl/player/_/id/15918/caleb-sturgis) , nailed a 61-yard field goal as time expired to lift the [Philadelphia Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) to a [27-24 win](https://www.espn.com/nfl/game?gameId=400951616) over the [New York Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) .",
+            "\u2022 [2017 schedule, results](http://www.espn.com/nfl/schedule)  \n\u2022 [Standings](http://www.espn.com/nfl/standings)\n\nElliott was a fifth-round draft pick by the Bengals.",
+            "\"I usually don't go out that long during the course of my [pregame] warm-up. I usually go out to 50, 56, maybe 57 and call it a day from there.\"\n\nHis 61-yarder is the longest in Eagles history."
+          ],
+          "title": "Eagles kicker Jake Elliott hits from 61 yards to down Giants - ESPN - Philadelphia Eagles Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

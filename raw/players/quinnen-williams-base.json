@@ -1,0 +1,177 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc6a9ce0870d930a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 121.9,
+  "input": {
+    "player": "Quinnen Williams",
+    "team": "Dallas Cowboys",
+    "position": "Defensive Tackle",
+    "season": 2026
+  },
+  "content": {
+    "college": "Alabama",
+    "fun_facts": [
+      "Quinnen Williams is from Birmingham, Alabama, and attended Wenonah High School.",
+      "He came to Alabama as a defensive end and added weight to play on the inside of the defensive line.",
+      "In 2018, he recorded 71 tackles, 19.5 tackles for loss and 8 sacks, and won the Outland Trophy.",
+      "Quinnen Williams was a unanimous first-team All-American in 2018.",
+      "At the NFL Scouting Combine, he ran the 40-yard dash in 4.83 seconds\u2014then the fourth-fastest time by a 300-plus-pound defensive lineman there since 2003."
+    ],
+    "draft": "2019, round 1, pick 3"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies Alabama as Quinnen Williams's college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4040982/quinnen-williams",
+          "excerpts": [
+            "Position Defensive Tackle\n\nHT/WT 6' 3\", 303 lbs\n\nBirthdate 12/20/1997 (28)\n\nCollege [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\nDraft Info 2019: Rd 1, Pk 3 (NYJ)\n\nStatus Active\n\nExperience 8th Season\n\nBirthplace Birmingham, AL\n\n### Career History"
+          ],
+          "title": "Quinnen Williams Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited recruiting profile gives his Birmingham hometown and Wenonah High School. ESPN describes his move from defensive end to an inside role, and reports his 2018 tackles, tackles for loss, sacks and Outland Trophy. NFL.com states he was a unanimous first-team All-American and records his 4.83-second combine time and its historical ranking among 300-plus-pound defensive linemen.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/207327",
+          "excerpts": [
+            "# Quinnen Williams\n\n* \n\n6-4, 260 | 40: 5.24 | Class of 2016\n\n* Hometown [Birmingham, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/2663/class/2016)\n* School [Wenonah High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2016/highschool/14785)\n* Position [Defensive End](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/DE/class/2016)\n* Status Signed [Alabama](https://www.espn.com/college-sports/football/recruiting/school/_/id/333) 06/30/2015\n\n#### Scout Grade\n\n* 81\n*"
+          ],
+          "title": "Quinnen Williams Defensive End Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/25587540/alabama-quinnen-williams-tide-most-dominant-player",
+          "excerpts": [
+            "No one knew the redshirt sophomore's name a year ago when he was a seldom-used backup with 151 snaps in his ledger. Williams came to Alabama as a 250ish-pound defensive end, but he added weight just enough to play inside."
+          ],
+          "title": "How Quinnen Williams went from unknown to superstar - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/25736454/quinnen-williams-jonah-williams-josh-jacobs-irv-smith-jr-alabama-crimson-tide-entering-nfl-draft",
+          "excerpts": [
+            "The 6-foot-4, 295-pound Birmingham, Alabama, native won the Outland Trophy, given to the best interior lineman in college football, and finished the season with 71 tackles, 19.5 tackles for loss, 8 sacks and 12 quarterback hurries."
+          ],
+          "title": "Quinnen Williams, Jonah Williams, Josh Jacobs, Irv Smith Jr. of Alabama Crimson Tide entering NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/jets-sign-no-3-overall-pick-dl-quinnen-williams-0ap3000001037123",
+          "excerpts": [
+            "In his lone season as a college starter, Williams developed into a unanimous first-team All-American in 2018. The 6-foot-3, 303-pound lineman collected eight sacks, 19.5 tackles for loss and 71 tackles in 15 games, netting an eighth-place finish in the Heisman voting and winning the Outland Trophy, given to the nation's top interior lineman."
+          ],
+          "title": "Jets sign No. 3 overall pick DL Quinnen Williams | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/quinnen-williams-one-of-fastest-300-pounders-in-combine-history-0ap3000001020693",
+          "excerpts": [
+            "\"Decided to bet on himself ...\"\n\nAnd what a winning bet it was: according to NFL Research, his 4.83 clocking is the fourth-fastest by a 300-plus pound defensive lineman at the combine since 2003."
+          ],
+          "title": "Quinnen Williams one of fastest 300-pounders in combine history | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL.com 2019 draft tracker labels the round as Round 1 and lists Quinnen Williams as the Jets' selection at Pick 3.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2019/rounds/1",
+          "excerpts": [
+            "* [ROUND 1](https://www.nfl.com/draft/tracker/2019/rounds/1)\n* [ROUND 2](https://www.nfl.com/draft/tracker/2019/rounds/2)\n* [ROUND 3](https://www.nfl.com/draft/tracker/2019/rounds/3)",
+            "* [ROUND 7](https://www.nfl.com/draft/tracker/2019/rounds/7)\n\nPICK\n\nTEAM\n\nPICK 1\n\nTEAMCardinals\n\nPLAYER KYLER MURRAY\n\nQB OKLAHOMA R-JR Redshirt Junior\n\nPICK 2\n\nTEAM49ers\n\nPLAYER NICK BOSA\n\nDE OHIO STATE JR Junior\n\nPICK 3\n\nTEAMJets\n\nPLAYER QUINNEN WILLIAMS\n\nDT ALABAMA R-JR Redshirt Junior\n\nPICK 4\n\nTEAMRaiders\n\nPLAYER CLELIN FERRELL\n\nDE CLEMSON R-JR Redshirt Junior\n\nPICK 5\n\nTEAMBuccaneers\n\nPLAYER DEVIN WHITE\n\nLB LSU JR Junior\n\nPICK 6\n\nTEAMGiants\n\nPLAYER DANIEL JONES\n\nQB DUKE R-JR Redshirt Junior\n\nPICK 7\n\nTEAMJaguars"
+          ],
+          "title": "2019 NFL Draft Picks - Round 1 | NFL.com "
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile names Birmingham, Alabama, as his hometown and Wenonah as his high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/207327",
+          "excerpts": [
+            "# Quinnen Williams\n\n* \n\n6-4, 260 | 40: 5.24 | Class of 2016\n\n* Hometown [Birmingham, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/2663/class/2016)\n* School [Wenonah High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2016/highschool/14785)\n* Position [Defensive End](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/DE/class/2016)\n* Status Signed [Alabama](https://www.espn.com/college-sports/football/recruiting/school/_/id/333) 06/30/2015\n\n#### Scout Grade\n\n* 81\n*"
+          ],
+          "title": "Quinnen Williams Defensive End Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account says Williams arrived at Alabama as a defensive end and added weight to play inside.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/25587540/alabama-quinnen-williams-tide-most-dominant-player",
+          "excerpts": [
+            "No one knew the redshirt sophomore's name a year ago when he was a seldom-used backup with 151 snaps in his ledger. Williams came to Alabama as a 250ish-pound defensive end, but he added weight just enough to play inside."
+          ],
+          "title": "How Quinnen Williams went from unknown to superstar - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article reports his 71 tackles, 19.5 tackles for loss, 8 sacks and Outland Trophy in that season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/25736454/quinnen-williams-jonah-williams-josh-jacobs-irv-smith-jr-alabama-crimson-tide-entering-nfl-draft",
+          "excerpts": [
+            "The 6-foot-4, 295-pound Birmingham, Alabama, native won the Outland Trophy, given to the best interior lineman in college football, and finished the season with 71 tackles, 19.5 tackles for loss, 8 sacks and 12 quarterback hurries."
+          ],
+          "title": "Quinnen Williams, Jonah Williams, Josh Jacobs, Irv Smith Jr. of Alabama Crimson Tide entering NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com states he became a unanimous first-team All-American in 2018.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/jets-sign-no-3-overall-pick-dl-quinnen-williams-0ap3000001037123",
+          "excerpts": [
+            "In his lone season as a college starter, Williams developed into a unanimous first-team All-American in 2018. The 6-foot-3, 303-pound lineman collected eight sacks, 19.5 tackles for loss and 71 tackles in 15 games, netting an eighth-place finish in the Heisman voting and winning the Outland Trophy, given to the nation's top interior lineman."
+          ],
+          "title": "Jets sign No. 3 overall pick DL Quinnen Williams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com reports the 4.83-second time and says it was the fourth-fastest combine 40-yard dash for a 300-plus-pound defensive lineman since 2003.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/quinnen-williams-one-of-fastest-300-pounders-in-combine-history-0ap3000001020693",
+          "excerpts": [
+            "\"Decided to bet on himself ...\"\n\nAnd what a winning bet it was: according to NFL Research, his 4.83 clocking is the fourth-fastest by a 300-plus pound defensive lineman at the combine since 2003."
+          ],
+          "title": "Quinnen Williams one of fastest 300-pounders in combine history | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2"
+    ],
+    "off_allowlist_citations": []
+  }
+}

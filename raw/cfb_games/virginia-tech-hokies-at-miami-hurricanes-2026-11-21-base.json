@@ -1,0 +1,396 @@
+{
+  "run_id": "trun_bd5aff7f279040eab06ff79300d20636",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 227.4,
+  "input": {
+    "away_team": "Virginia Tech Hokies",
+    "home_team": "Miami Hurricanes",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Virginia Tech Hokies",
+    "key_plays": [
+      "Q2 0:00: Jake Weinberg made a 59-yard field goal, a Miami school record.",
+      "Q4 14:57: Mark Fletcher Jr. scored on the first play of the quarter, finishing a 17-play, 90-yard drive and giving Miami its first lead.",
+      "Q4 2:08: Mark Fletcher Jr. scored on an 11-yard run to extend Miami's lead to eight.",
+      "Q4: Ethan Grunkemeyer's fourth-down pass fell incomplete; Virginia Tech turned the ball over on downs to end the game."
+    ],
+    "away_score": 20,
+    "storyline": "Miami erased a 14-point deficit to win and clinched a berth in the ACC title game. The Hurricanes extended their ACC winning streak to 12 games, a school record.",
+    "top_performers": [
+      {
+        "stat_line": "3 rushing touchdowns",
+        "team": "Miami Hurricanes",
+        "name": "Mark Fletcher Jr."
+      },
+      {
+        "stat_line": "241 passing yards",
+        "team": "Miami Hurricanes",
+        "name": "Darian Mensah"
+      },
+      {
+        "stat_line": "94 receiving yards",
+        "team": "Miami Hurricanes",
+        "name": "Que'Sean Brown"
+      }
+    ],
+    "home_record_after": "10-1",
+    "tough_day": [
+      {
+        "stat_line": "2 interceptions, 0 touchdowns",
+        "team": "Miami Hurricanes",
+        "name": "Darian Mensah"
+      }
+    ],
+    "away_record_after": "6-5",
+    "home_team": "Miami Hurricanes",
+    "home_score": 28
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The game listing identifies the matchup as final, confirming it was played to a completed result.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "6-5 , 3-5 ACC 20 6-5 , 3-5 ACC Final"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The final score table names Virginia Tech as the visiting team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "| [Virginia Tech](https://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies) VT | 14 | 3 | 3 | 0 | 20 |"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The play-by-play and recap give the halftime 59-yard field goal, Fletcher's two fourth-quarter scoring runs, and Virginia Tech's failed fourth-down attempt at the end of the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858302",
+          "excerpts": [
+            "Shotgun #10 D.Mensah pass complete short right to #7 D.Upshaw caught at VaTech41, for 5 yards to the VaTech41, End Of Play\n\n3rd & 10 at VT 46\n\n(0:04 - 2nd) Timeout Miami, clock 00:04\n\n(0:04 - 2nd) Timeout Virginia Tech, clock 00:04\n\nField Goal Good\n\n0:00 - 2nd\n\nJake Weinberg 59 Yd Field Goal\n\n4th & 5 at VT 41\n\nEnd of Half.\n\n3rd Quarter\n\nPunt\n\n3 plays, -7 yards, 1:20\n\n17\n\nVT\n\n14",
+            "Shotgun #17 E.Grunkemeyer pass incomplete short middle to #11 D.Brown thrown to VaTech45, TURNOVER ON DOWNS\n\n4th & 9 at VT 26\n\nEnd of Game\n\n4 plays, 10 yards, 1:27\n\n20\n\nVT\n\n28\n\nMIA\n\n2-yd Run\n\n1:20 - 4th\n\nShotgun #4 M.Fletcher Jr. rush middle for 2 yards gain to the VaTech23 ( T.Flowers; #94 E.Fall)\n\n1st & 10 at VT 25\n\n(1:22 - 4th) Timeout Virginia Tech, clock 01:22\n\n5-yd Run\n\n1:17 - 4th"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858302",
+          "excerpts": [
+            "The Hokies led 20-14 lead entering the fourth quarter before Fletcher scored on the first play of the final stanza \u2014 capping a 17-play, 90-yard drive \u2014 to give Miami its first lead of the night.",
+            "Fletcher scored from 11 yards out with 2:08 left to push the lead to eight, and Miami took the ball over on downs with 1:27 remaining."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final score table shows Virginia Tech with 20 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "| [Virginia Tech](https://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies) VT | 14 | 3 | 3 | 0 | 20 |"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states Miami overcame a 14-point deficit and clinched an ACC title-game spot; the Miami note reports a 12-game ACC winning streak, the longest in school history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "Fletcher rushed for three touchdowns, [Jake Weinberg](http://www.espn.com/college-football/player/_/id/5123219/jake-weinberg) kicked the longest field goal in Miami history and the fifth-ranked Hurricanes erased a 14-point deficit to beat Virginia Tech 28-20 on Saturday night and clinch a spot in the ACC title game.\n\n\u201cIt's a blessing,\u201d Fletcher said. \"Truly, just a blessing.\"\n\nFletcher had the second three-touchdown game of his career for Miami (10-1, 8-0 ACC, No."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The recap records Fletcher's three rushing touchdowns; ESPN's player information gives Mensah's 241 passing yards; the game leader listing credits Que'Sean Brown with 94 receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "Fletcher rushed for three touchdowns, [Jake Weinberg](http://www.espn.com/college-football/player/_/id/5123219/jake-weinberg) kicked the longest field goal in Miami history and the fifth-ranked Hurricanes erased a 14-point deficit to beat Virginia Tech 28-20 on Saturday night and clinch a spot in the ACC title game.\n\n\u201cIt's a blessing,\u201d Fletcher said. \"Truly, just a blessing.\"\n\nFletcher had the second three-touchdown game of his career for Miami (10-1, 8-0 ACC, No."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah",
+          "excerpts": [
+            "28](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami \"Game Summary\")\n\n## RTG\n\n* 111\\.5\n\n## CMP%\n\n* 67\\.6\n\n## Pass Yards\n\n* 241\n\n## Touchdowns\n\n* 0"
+          ],
+          "title": "Darian Mensah - Miami Hurricanes Quarterback - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/schedule/_/week/12",
+          "excerpts": [
+            "com/college-football/team/_/id/2390/miami-hurricanes) 7 [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) |[MIA 28, VT 20](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami) |[Darian Mensah](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah) 241 |[Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) 63 |[Que'Sean Brown](https://www.espn.com/college-football/player/_/id/5218787/quesean-brown) 94 |"
+          ],
+          "title": "College Football Schedule - Week 12 (Nov 22 - Nov 22), 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The postgame recap lists Miami at 10-1 after the win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "Fletcher rushed for three touchdowns, [Jake Weinberg](http://www.espn.com/college-football/player/_/id/5123219/jake-weinberg) kicked the longest field goal in Miami history and the fifth-ranked Hurricanes erased a 14-point deficit to beat Virginia Tech 28-20 on Saturday night and clinch a spot in the ACC title game.\n\n\u201cIt's a blessing,\u201d Fletcher said. \"Truly, just a blessing.\"\n\nFletcher had the second three-touchdown game of his career for Miami (10-1, 8-0 ACC, No."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap says Mensah threw two interceptions and had no touchdowns, supporting the factual stat line for this category.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50552244/projecting-2026-playoff-top-12-week-12-cfp",
+          "excerpts": [
+            "Toney](https://www.espn.com/college-football/player/_/id/5159175/malachi-toney) ; and on Saturday against Virginia Tech, the Canes won in spite of quarterback [Darian Mensah](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah) 's two interceptions and no touchdowns."
+          ],
+          "title": "College Football Playoff top 12 projection after Week 12 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah",
+          "excerpts": [
+            "28](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami \"Game Summary\")\n\n## RTG\n\n* 111\\.5\n\n## CMP%\n\n* 67\\.6\n\n## Pass Yards\n\n* 241\n\n## Touchdowns\n\n* 0"
+          ],
+          "title": "Darian Mensah - Miami Hurricanes Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The postgame recap identifies Virginia Tech's record as 6-5 after the loss.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858302",
+          "excerpts": [
+            "[Ethan Grunkemeyer](http://www.espn.com/college-football/player/_/id/5144078/ethan-grunkemeyer) completed 22 of 35 passes for 168 yards for Virginia Tech (6-5, 3-5), which lost to Miami for the sixth consecutive time."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The final score table names Miami as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "| [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) MIA | 3 | 11 | 0 | 14 | 28 |"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final score table shows Miami with 28 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "| [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) MIA | 3 | 11 | 0 | 14 | 28 |"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The play-by-play identifies Weinberg's 59-yard field goal at the end of the second quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858302",
+          "excerpts": [
+            "Shotgun #10 D.Mensah pass complete short right to #7 D.Upshaw caught at VaTech41, for 5 yards to the VaTech41, End Of Play\n\n3rd & 10 at VT 46\n\n(0:04 - 2nd) Timeout Miami, clock 00:04\n\n(0:04 - 2nd) Timeout Virginia Tech, clock 00:04\n\nField Goal Good\n\n0:00 - 2nd\n\nJake Weinberg 59 Yd Field Goal\n\n4th & 5 at VT 41\n\nEnd of Half.\n\n3rd Quarter\n\nPunt\n\n3 plays, -7 yards, 1:20\n\n17\n\nVT\n\n14"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The recap says Fletcher scored on the first play of the fourth quarter to give Miami its first lead; the game sequence identifies the score at 14:57.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858302",
+          "excerpts": [
+            "The Hokies led 20-14 lead entering the fourth quarter before Fletcher scored on the first play of the final stanza \u2014 capping a 17-play, 90-yard drive \u2014 to give Miami its first lead of the night."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://espndeportes.espn.com/futbol-americano/colegial/juego/_/juegoId/401858302",
+          "excerpts": [
+            "Gol de Campo\n\n11:13 - 3\u00b0\n\n20\n\nVT\n\n14\n\nMIA\n\n7 jugadas, 51 yardas, 2:27\n\n4\u00b0 Cuarto\n\nTouchdown\n\n14:57 - 4\u00b0\n\n20\n\nVT\n\n21\n\nMIA\n\n17 jugadas, 90 yardas, 9:13\n\n## L\u00edderes del Juego\n\nVT\n\nMIA\n\nYardas por Pase"
+          ],
+          "title": "Virginia Tech vs. Miami (21 de Nov., 2026) Resultados en Vivo - ESPN DEPORTES"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The recap specifies Fletcher's 11-yard scoring run with 2:08 remaining.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858302",
+          "excerpts": [
+            "Fletcher scored from 11 yards out with 2:08 left to push the lead to eight, and Miami took the ball over on downs with 1:27 remaining."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The final play description shows Grunkemeyer's incomplete fourth-down pass and the turnover on downs at the end of the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858302",
+          "excerpts": [
+            "Shotgun #17 E.Grunkemeyer pass incomplete short middle to #11 D.Brown thrown to VaTech45, TURNOVER ON DOWNS\n\n4th & 9 at VT 26\n\nEnd of Game\n\n4 plays, 10 yards, 1:27\n\n20\n\nVT\n\n28\n\nMIA\n\n2-yd Run\n\n1:20 - 4th\n\nShotgun #4 M.Fletcher Jr. rush middle for 2 yards gain to the VaTech23 ( T.Flowers; #94 E.Fall)\n\n1st & 10 at VT 25\n\n(1:22 - 4th) Timeout Virginia Tech, clock 01:22\n\n5-yd Run\n\n1:17 - 4th"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap explicitly says Fletcher rushed for three touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "Fletcher rushed for three touchdowns, [Jake Weinberg](http://www.espn.com/college-football/player/_/id/5123219/jake-weinberg) kicked the longest field goal in Miami history and the fifth-ranked Hurricanes erased a 14-point deficit to beat Virginia Tech 28-20 on Saturday night and clinch a spot in the ACC title game.\n\n\u201cIt's a blessing,\u201d Fletcher said. \"Truly, just a blessing.\"\n\nFletcher had the second three-touchdown game of his career for Miami (10-1, 8-0 ACC, No."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The player game information lists Mensah with 241 passing yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah",
+          "excerpts": [
+            "28](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami \"Game Summary\")\n\n## RTG\n\n* 111\\.5\n\n## CMP%\n\n* 67\\.6\n\n## Pass Yards\n\n* 241\n\n## Touchdowns\n\n* 0"
+          ],
+          "title": "Darian Mensah - Miami Hurricanes Quarterback - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The game leader listing credits Que'Sean Brown with 94 receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/schedule/_/week/12",
+          "excerpts": [
+            "com/college-football/team/_/id/2390/miami-hurricanes) 7 [Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) |[MIA 28, VT 20](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami) |[Darian Mensah](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah) 241 |[Mark Fletcher Jr.](https://www.espn.com/college-football/player/_/id/4870736/mark-fletcher-jr) 63 |[Que'Sean Brown](https://www.espn.com/college-football/player/_/id/5218787/quesean-brown) 94 |"
+          ],
+          "title": "College Football Schedule - Week 12 (Nov 22 - Nov 22), 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap reports two interceptions, and the game stat information records zero touchdowns for Mensah.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50552244/projecting-2026-playoff-top-12-week-12-cfp",
+          "excerpts": [
+            "Toney](https://www.espn.com/college-football/player/_/id/5159175/malachi-toney) ; and on Saturday against Virginia Tech, the Canes won in spite of quarterback [Darian Mensah](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah) 's two interceptions and no touchdowns."
+          ],
+          "title": "College Football Playoff top 12 projection after Week 12 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah",
+          "excerpts": [
+            "28](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami \"Game Summary\")\n\n## RTG\n\n* 111\\.5\n\n## CMP%\n\n* 67\\.6\n\n## Pass Yards\n\n* 241\n\n## Touchdowns\n\n* 0"
+          ],
+          "title": "Darian Mensah - Miami Hurricanes Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.1",
+      "top_performers",
+      "top_performers.2",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Virginia Tech led by 14, but No. 7 Miami came roaring back in Florida! Jake Weinberg kicked a school-record 59-yard field goal before halftime. Mark Fletcher Jr. scored to give Miami its first lead in the fourth quarter. He scored again and finished with 3 rushing touchdowns. Virginia Tech's last fourth-down pass fell incomplete. Miami won 28-20 and earned a spot in the ACC title game.",
+    "big_words": [
+      {
+        "word": "incomplete",
+        "definition": "Not caught by a player on the passing team.",
+        "example": "Lily's pass to her friend was incomplete when her dog snagged the ball."
+      }
+    ],
+    "opener": "Start with the losing team's side of the story, then turn to the winners.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1202,
+        "output": 204
+      }
+    ]
+  }
+}

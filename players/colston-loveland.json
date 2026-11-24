@@ -1,0 +1,51 @@
+{
+  "name": "Colston Loveland",
+  "espn_id": "4723086",
+  "team": "Chicago Bears",
+  "team_abbr": "CHI",
+  "number": "84",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Michigan",
+  "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Colston rode in rodeos before he became a Michigan national champion.",
+    "Colston scored his first Michigan touchdown against Ohio State and put a finger to his lips.",
+    "Colston set a Michigan record with 56 catches as a tight end in 2024."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2025",
+        "CHI",
+        "16",
+        "58",
+        "713",
+        "6",
+        "58"
+      ],
+      [
+        "2026",
+        "CHI",
+        "10",
+        "40",
+        "392",
+        "3",
+        "38"
+      ]
+    ]
+  }
+}

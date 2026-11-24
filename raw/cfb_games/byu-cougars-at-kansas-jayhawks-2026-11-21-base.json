@@ -1,0 +1,389 @@
+{
+  "run_id": "trun_bd5aff7f279040eab77ad393a2904697",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 136.9,
+  "input": {
+    "away_team": "BYU Cougars",
+    "home_team": "Kansas Jayhawks",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "BYU Cougars",
+    "key_plays": [
+      "Q4 4:03: Isaiah Marshall\u2019s 24-yard TD pass to Cam Pickett tied the game 16-16.",
+      "OT: Isaiah Marshall\u2019s 10-yard rushing TD put Kansas ahead 23-16.",
+      "2OT: LJ Martin\u2019s 11-yard rushing TD put BYU ahead; the two-point try failed.",
+      "2OT: Isaiah Marshall\u2019s 20-yard TD pass to Nahzae Cox tied it 29-29; the two-point try failed.",
+      "3OT: Bear Bachmeier passed to Jojo Phillips for the game-winning two-point conversion, making it 31-29."
+    ],
+    "away_score": 31,
+    "storyline": "No. 12 BYU won in triple overtime to keep its College Football Playoff hopes alive. It was BYU\u2019s first win over Kansas in four meetings.",
+    "top_performers": [
+      {
+        "stat_line": "15/26, 173 yards, 0 TD, 0 INT; 18 carries, 59 yards, 2 TD",
+        "team": "BYU Cougars",
+        "name": "Bear Bachmeier"
+      },
+      {
+        "stat_line": "186 passing yards, 2 TD, 2 INT; 90 rushing yards, 1 TD",
+        "team": "Kansas Jayhawks",
+        "name": "Isaiah Marshall"
+      },
+      {
+        "stat_line": "25 carries, 127 yards, 1 TD",
+        "team": "BYU Cougars",
+        "name": "LJ Martin"
+      }
+    ],
+    "home_record_after": "4-7",
+    "tough_day": [
+      {
+        "stat_line": "Missed a 37-yard field goal as time expired",
+        "team": "BYU Cougars",
+        "name": "Matthias Dunn"
+      }
+    ],
+    "away_record_after": "9-2",
+    "home_team": "Kansas Jayhawks",
+    "home_score": 29
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The game listing identifies BYU at Kansas and marks the result Final/3OT, confirming the game was played to a final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "10\n\n[BYU Cougars BYU BYU](https://www.espn.com/college-football/team/_/id/252/byu-cougars)\n\n9-2 , 6-2 Big 12\n\n31\n\n9-2 , 6-2 Big 12\n\nFinal/3OT\n\n| |1 |2 |3 |4 |OT |T |\n| --- | --- | --- | --- | --- | --- | --- |",
+            "[Kansas Jayhawks Kansas KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\n4-7 , 2-6 Big 12\n\n29\n\n4-7 , 2-6 Big 12\n\n# BYU Cougars @ Kansas Jayhawks"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The score listing names the away side as BYU Cougars.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "10\n\n[BYU Cougars BYU BYU](https://www.espn.com/college-football/team/_/id/252/byu-cougars)\n\n9-2 , 6-2 Big 12\n\n31\n\n9-2 , 6-2 Big 12\n\nFinal/3OT\n\n| |1 |2 |3 |4 |OT |T |\n| --- | --- | --- | --- | --- | --- | --- |"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The scoring-play listing provides the late fourth-quarter touchdown and the overtime and double-overtime touchdowns and conversions; it also records the third-overtime BYU conversion that decided the final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final-score listing gives BYU 31 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "10\n\n[BYU Cougars BYU BYU](https://www.espn.com/college-football/team/_/id/252/byu-cougars)\n\n9-2 , 6-2 Big 12\n\n31\n\n9-2 , 6-2 Big 12\n\nFinal/3OT\n\n| |1 |2 |3 |4 |OT |T |\n| --- | --- | --- | --- | --- | --- | --- |"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says BYU\u2019s triple-overtime win kept its CFP hopes alive and that it beat Kansas for the first time in four attempts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "No. 12 BYU beats Kansas 31-29 in 3 overtimes to stay alive in the College Football Playoff race By AP Updated: Nov 21, 2026, 04:47 pm Facebook Facebook Messenger Twitter Email LAWRENCE, Kan. -- \u2014 [Bear Bachmeier](http://www.espn.com/college-football/player/_/id/5141367/bear-bachmeier) threw for 173 yards, ran for a pair of touchdowns and connected with [Jojo Phillips](http://www.espn.com/college-football/player/_/id/5160955/jojo-phillips) in the back of the end zone in the third overtime, helping No. 12 BYU beat Kansas 31-29 on Saturday and keep its College Football Playoff hopes alive. [LJ Martin](http://www.espn.com/college-football/player/_/id/4918126/lj-martin) added 127 yards rushing with a touchdown in the second overtime, and the Cougars (9-2, 6-2 Big 12, No. 10 CFP) were able to narrowly avoid a catastrophic loss by beating the Jayhawks (4-7, 2-7) for the first time in four attempts. \u201cThose guys gave us a tough game, and they\u2019re such a better team than what their record shows,\u201d BYU coach Kalani Sitake said. \u201cI thought we might have had the game under control at some moments, and they just kept fighting back.\u201d [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) had 186 yards passing and two touchdowns for Kansas, along with 90 yards rushing and another score."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game-stat line records Bachmeier\u2019s passing and rushing production; the box-score and recap record Marshall\u2019s passing, interceptions, and rushing output; and Martin\u2019s game line gives his carries, yards, and touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5141367/bear-bachmeier",
+          "excerpts": [
+            "|Sat 11/21 |@ KU [KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks \"Team - Kansas Jayhawks\") |[W 31-29 3OT](https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas) |15 |26 |173 |57\\.7 |0 |0 |41 |3 |113\\.6 |58\\.9 |18 |59 |3\\.3 |2 |21 |"
+          ],
+          "title": "Bear Bachmeier 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856866",
+          "excerpts": [
+            "BYU Passing\n\n| |\n| --- |\n|[Bear Bachmeier](https://www.espn.com/college-football/player/_/id/5141367/bear-bachmeier) \\#47 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|15/26 |173 |0 |0 | |\n|15/26 |173 |0 |0 | |\n\nKansas\n\nKansas Passing\n\n| |\n| --- |\n|[Isaiah Marshall](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) \\#8 |\n|[Tate Nagy](https://www.espn.com/college-football/player/_/id/5216559/tate-nagy) \\#11 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|20/28 |186 |2 |2 | |\n|1/1 |19 |0 |0 | |\n|21/29 |205 |2 |2 | |\n\nBYU\n\nBYU Rushing\n\n| |\n| --- |\n|[LJ Martin](https://www.espn.com/college-football/player/_/id/4918126/lj-martin) \\#4 |"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "10 CFP) were able to narrowly avoid a catastrophic loss by beating the Jayhawks (4-7, 2-7) for the first time in four attempts. \u201cThose guys gave us a tough game, and they\u2019re such a better team than what their record shows,\u201d BYU coach Kalani Sitake said. \u201cI thought we might have had the game under control at some moments, and they just kept fighting back.\u201d [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) had 186 yards passing and two touchdowns for Kansas, along with 90 yards rushing and another score."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4918126/lj-martin",
+          "excerpts": [
+            "|Sat 11/21 |@ KU [KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks \"Team - Kansas Jayhawks\") |[W 31-29 3OT](https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas) |25 |127 |5\\.1 |1 |23 |1 |2 |2\\.0 |0 |2 |0 |0 |\n|Total | | |57 |412 |7\\.2 |4 |56 |6 |46 |7\\.7 |0 |23 |0 |0 |"
+          ],
+          "title": "LJ Martin 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final listing shows Kansas at 4-7 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "[Kansas Jayhawks Kansas KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\n4-7 , 2-6 Big 12\n\n29\n\n4-7 , 2-6 Big 12\n\n# BYU Cougars @ Kansas Jayhawks"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap states that Matthias Dunn missed a 37-yard field goal as time expired.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "BYU had a chance to win the game in regulation, but [Matthias Dunn](http://www.espn.com/college-football/player/_/id/5150638/matthias-dunn) badly missed a 37-yard field goal as time expired."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final listing shows BYU at 9-2 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "10\n\n[BYU Cougars BYU BYU](https://www.espn.com/college-football/team/_/id/252/byu-cougars)\n\n9-2 , 6-2 Big 12\n\n31\n\n9-2 , 6-2 Big 12\n\nFinal/3OT\n\n| |1 |2 |3 |4 |OT |T |\n| --- | --- | --- | --- | --- | --- | --- |"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup identifies Kansas Jayhawks as the home team in BYU\u2019s away game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "[Kansas Jayhawks Kansas KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\n4-7 , 2-6 Big 12\n\n29\n\n4-7 , 2-6 Big 12\n\n# BYU Cougars @ Kansas Jayhawks"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final-score listing gives Kansas 29 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "[Kansas Jayhawks Kansas KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\n4-7 , 2-6 Big 12\n\n29\n\n4-7 , 2-6 Big 12\n\n# BYU Cougars @ Kansas Jayhawks"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring-play listing gives the fourth-quarter time and identifies Marshall\u2019s 24-yard touchdown pass to Pickett, which tied the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The overtime scoring entry identifies Marshall\u2019s 10-yard rushing touchdown for Kansas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The second-overtime scoring entry identifies Martin\u2019s 11-yard rushing touchdown and failed two-point attempt.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The second-overtime scoring entry identifies Marshall\u2019s 20-yard touchdown pass to Cox and the failed two-point attempt.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The third-overtime scoring entry names Bachmeier\u2019s two-point pass to Phillips, which produced BYU\u2019s 31-29 final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas",
+          "excerpts": [
+            "(last verified: 2026-11-24) Nov 21, 2026, 09:47 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856866) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 2:50 - 1st 0 BYU 3 KU Martin Connington 28 Yd Field Goal 10 plays, 68 yards, 5:40 2nd Quarter Field Goal 5:45 - 2nd 3 BYU 3 KU Matthias Dunn 52 Yd Field Goal 13 plays, 63 yards, 7:02 Field Goal 0:01 - 2nd 3 BYU 6 KU Martin Connington 24 Yd Field Goal 8 plays, 23 yards, 2:12 3rd Quarter Field Goal 12:19 - 3rd 6 BYU 6 KU Matthias Dunn 36 Yd Field Goal 7 plays, 47 yards, 2:35 Field Goal 8:32 - 3rd 9 BYU 6 KU Matthias Dunn 26 Yd Field Goal 9 plays, 35 yards, 3:42 Touchdown 3:12 - 3rd 16 BYU 6 KU Bear Bachmeier 7 Yd Run (Matthias Dunn Kick) 8 plays, 41 yards, 4:01 4th Quarter Field Goal 12:10 - 4th 16 BYU 9 KU Martin Connington 26 Yd Field Goal 13 plays, 67 yards, 6:02 Touchdown 4:03 - 4th 16 BYU 16 KU Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick) 10 plays, 59 yards, 4:39 Overtime Touchdown OT 16 BYU 23 KU Isaiah Marshall 10 Yd Run (Martin Connington Kick) 6 plays, 25 yards Touchdown OT 23 BYU 23 KU Bear Bachmeier 2 Yd Run (Matthias Dunn Kick) 3 plays, 25 yards 2nd Overtime Touchdown 2OT 29 BYU 23 KU LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed) 4 plays, 25 yards Touchdown 2OT 29 BYU 29 KU Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed) 4 plays, 25 yards 3rd Overtime Two Point Pass 3OT 31 BYU 29 KU Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion 2 plays, 0 yards"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "Bachmeier\u2019s game line records 15 completions on 26 attempts for 173 yards, no passing touchdowns or interceptions, and 18 carries for 59 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5141367/bear-bachmeier",
+          "excerpts": [
+            "|Sat 11/21 |@ KU [KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks \"Team - Kansas Jayhawks\") |[W 31-29 3OT](https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas) |15 |26 |173 |57\\.7 |0 |0 |41 |3 |113\\.6 |58\\.9 |18 |59 |3\\.3 |2 |21 |"
+          ],
+          "title": "Bear Bachmeier 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box score gives Marshall\u2019s passing line, including two interceptions; the recap states that he passed for 186 yards and two touchdowns and rushed for 90 yards and another score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856866",
+          "excerpts": [
+            "BYU Passing\n\n| |\n| --- |\n|[Bear Bachmeier](https://www.espn.com/college-football/player/_/id/5141367/bear-bachmeier) \\#47 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|15/26 |173 |0 |0 | |\n|15/26 |173 |0 |0 | |\n\nKansas\n\nKansas Passing\n\n| |\n| --- |\n|[Isaiah Marshall](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) \\#8 |\n|[Tate Nagy](https://www.espn.com/college-football/player/_/id/5216559/tate-nagy) \\#11 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|20/28 |186 |2 |2 | |\n|1/1 |19 |0 |0 | |\n|21/29 |205 |2 |2 | |\n\nBYU\n\nBYU Rushing\n\n| |\n| --- |\n|[LJ Martin](https://www.espn.com/college-football/player/_/id/4918126/lj-martin) \\#4 |"
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "10 CFP) were able to narrowly avoid a catastrophic loss by beating the Jayhawks (4-7, 2-7) for the first time in four attempts. \u201cThose guys gave us a tough game, and they\u2019re such a better team than what their record shows,\u201d BYU coach Kalani Sitake said. \u201cI thought we might have had the game under control at some moments, and they just kept fighting back.\u201d [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) had 186 yards passing and two touchdowns for Kansas, along with 90 yards rushing and another score."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "Martin\u2019s game line records 25 carries, 127 rushing yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4918126/lj-martin",
+          "excerpts": [
+            "|Sat 11/21 |@ KU [KU](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks \"Team - Kansas Jayhawks\") |[W 31-29 3OT](https://www.espn.com/college-football/game/_/gameId/401856866/byu-kansas) |25 |127 |5\\.1 |1 |23 |1 |2 |2\\.0 |0 |2 |0 |0 |\n|Total | | |57 |412 |7\\.2 |4 |56 |6 |46 |7\\.7 |0 |23 |0 |0 |"
+          ],
+          "title": "LJ Martin 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap directly attributes the missed 37-yard field goal as time expired to Matthias Dunn.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "BYU had a chance to win the game in regulation, but [Matthias Dunn](http://www.espn.com/college-football/player/_/id/5150638/matthias-dunn) badly missed a 37-yard field goal as time expired."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Bear Bachmeier tossed the winning pass to Jojo Phillips in triple overtime! No. 10 BYU beat Kansas 31-29 in Kansas. Isaiah Marshall tied the game late with a pass to Cam Pickett. In the second overtime, LJ Martin ran for a BYU touchdown. Marshall then tied it again with a pass to Nahzae Cox. Bachmeier\u2019s 2-point pass gave BYU its first win over Kansas in 4 meetings! The win kept BYU\u2019s College Football Playoff hopes alive.",
+    "big_words": [
+      {
+        "word": "triple",
+        "definition": "Having 3 parts or happening 3 times.",
+        "example": "Ethan did a triple spin at the talent show."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1286,
+        "output": 241
+      }
+    ]
+  }
+}

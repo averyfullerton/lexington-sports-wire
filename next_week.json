@@ -1,176 +1,176 @@
 [
   {
-    "away_team": "Indianapolis Colts",
-    "home_team": "Houston Texans",
-    "away_abbr": "IND",
-    "home_abbr": "HOU",
+    "away_team": "Green Bay Packers",
+    "home_team": "Los Angeles Rams",
+    "away_abbr": "GB",
+    "home_abbr": "LAR",
     "away_score": null,
     "home_score": null,
-    "away_record": "3-7",
-    "home_record": "3-6",
-    "game_date": "2026-11-19",
-    "game_day": "Thursday, Nov 19",
-    "paragraph": "Jonathan Taylor has 739 rushing yards and 8 TDs this season! His Indianapolis Colts (3-7) visit the Houston Texans (3-6) in Houston on Thursday. The Texans are eager to stay in the playoff race. Watch C.J. Stroud, who has 2,462 passing yards and 19 TDs! Houston has 33 sacks.",
+    "away_record": "6-4",
+    "home_record": "6-4",
+    "game_date": "2026-11-25",
+    "game_day": "Wednesday, Nov 25",
+    "paragraph": "Jordan Love has 2,838 passing yards and 20 TDs this season. His Green Bay Packers play the Los Angeles Rams in Los Angeles on Wednesday, Nov 25. Both teams are 6-4. This is an exciting test in the playoff race! The Rams won 4 straight games before their bye.",
     "big_words": [
       {
-        "word": "eager",
-        "definition": "Excited and ready for something.",
-        "example": "Ava was eager to open her birthday gifts."
+        "word": "exciting",
+        "definition": "Something that makes you feel happy and eager.",
+        "example": "Ava had an exciting birthday party with a giant cake."
       }
     ]
   },
   {
-    "away_team": "Miami Dolphins",
-    "home_team": "Buffalo Bills",
-    "away_abbr": "MIA",
-    "home_abbr": "BUF",
+    "away_team": "Chicago Bears",
+    "home_team": "Detroit Lions",
+    "away_abbr": "CHI",
+    "home_abbr": "DET",
     "away_score": null,
     "home_score": null,
-    "away_record": "1-8",
-    "home_record": "8-1",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "The Buffalo Bills lead the AFC East. The 8-1 Bills host the 1-8 Miami Dolphins in New York. Buffalo\u2019s James Cook has 971 rushing yards and 9 touchdowns. Miami\u2019s Ollie Gordon II has 539 rushing yards and 4 touchdowns. Watch their fierce running matchup!",
+    "away_record": "8-2",
+    "home_record": "8-2",
+    "game_date": "2026-11-26",
+    "game_day": "Thursday, Nov 26",
+    "paragraph": "First place in the NFC North is at stake! The Chicago Bears and Detroit Lions are both 8-2. They play Thursday in Detroit. Bears QB Caleb Williams has 1,727 passing yards and 10 TDs this season. Lions QB Jared Goff has 2,716 passing yards and 20 TDs. Watch for the fierce matchup between these QBs.",
     "big_words": [
       {
         "word": "fierce",
-        "definition": "Full of energy and strength.",
-        "example": "Kofi gave the thick cookie dough a fierce stir."
+        "definition": "Full of strong energy.",
+        "example": "Kofi stirred the cookie dough with fierce energy."
+      }
+    ]
+  },
+  {
+    "away_team": "Philadelphia Eagles",
+    "home_team": "Dallas Cowboys",
+    "away_abbr": "PHI",
+    "home_abbr": "DAL",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "3-7",
+    "home_record": "5-6",
+    "game_date": "2026-11-26",
+    "game_day": "Thursday, Nov 26",
+    "paragraph": "Can the Eagles soar in Dallas? The 3-7 Philadelphia Eagles visit the 5-6 Dallas Cowboys. Dallas is second in the NFC East, and Philadelphia is fourth. Both teams are eager after wins last week! Dallas QB Dak Prescott has 3,049 passing yards and 25 passing TDs. Kickoff is Thursday, Nov 26, in Dallas.",
+    "big_words": [
+      {
+        "word": "eager",
+        "definition": "Really excited and ready to do something.",
+        "example": "Lily is eager to add a tall tower to her block castle."
+      }
+    ]
+  },
+  {
+    "away_team": "Kansas City Chiefs",
+    "home_team": "Buffalo Bills",
+    "away_abbr": "KC",
+    "home_abbr": "BUF",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "8-2",
+    "home_record": "9-1",
+    "game_date": "2026-11-26",
+    "game_day": "Thursday, Nov 26",
+    "paragraph": "2,709 passing yards! That is Patrick Mahomes\u2019 total for the 8-2 Kansas City Chiefs. On Thursday, the Chiefs visit the 9-1 Buffalo Bills in Buffalo. Bills QB Josh Allen has 2,527 passing yards and 14 TDs. Kansas City needs this game in its chase for the AFC\u2019s top seed and the AFC West lead.",
+    "big_words": [
+      {
+        "word": "chase",
+        "definition": "To go after something you want.",
+        "example": "Mateo and his puppy chase a butterfly through the garden."
+      }
+    ]
+  },
+  {
+    "away_team": "Denver Broncos",
+    "home_team": "Pittsburgh Steelers",
+    "away_abbr": "DEN",
+    "home_abbr": "PIT",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "8-2",
+    "home_record": "6-4",
+    "game_date": "2026-11-27",
+    "game_day": "Friday, Nov 27",
+    "paragraph": "On Friday, Nov 27, the Denver Broncos visit the Pittsburgh Steelers in Pittsburgh. Denver is 8-2, and Pittsburgh is 6-4. Denver has won 6 straight and is tied for the AFC West lead! Broncos QB Bo Nix has 1,955 passing yards and 12 TDs. Can he dazzle us with a big pass?",
+    "big_words": [
+      {
+        "word": "dazzle",
+        "definition": "To amaze someone with something wonderful.",
+        "example": "Zoe hopes to dazzle her friends with her colorful lemonade stand."
       }
     ]
   },
   {
     "away_team": "New Orleans Saints",
-    "home_team": "Chicago Bears",
+    "home_team": "Cincinnati Bengals",
     "away_abbr": "NO",
-    "home_abbr": "CHI",
-    "away_score": null,
-    "home_score": null,
-    "away_record": "3-6",
-    "home_record": "7-2",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "Who will make a big play? The 3-6 New Orleans Saints visit the 7-2 Chicago Bears. Bears QB Caleb Williams has 1,546 passing yards and 8 TDs. Chicago is tied for the NFC North lead in an exciting race! The game kicks off Sunday, Nov 22, in Chicago.",
-    "big_words": [
-      {
-        "word": "exciting",
-        "definition": "Making you feel happy and ready for fun.",
-        "example": "Lily built an exciting tower with blocks of every color."
-      }
-    ]
-  },
-  {
-    "away_team": "Tennessee Titans",
-    "home_team": "Dallas Cowboys",
-    "away_abbr": "TEN",
-    "home_abbr": "DAL",
-    "away_score": null,
-    "home_score": null,
-    "away_record": "1-8",
-    "home_record": "4-6",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "2,724 passing yards for Dak Prescott this season! He and the Dallas Cowboys (4-6) host the Tennessee Titans (1-8) in Dallas. Prescott also has 21 passing touchdowns. Titans QB Cam Ward steps into the spotlight with 1,714 passing yards and 8 touchdowns! Tennessee needs this game most, sitting fourth in the AFC South at 1-8.",
-    "big_words": [
-      {
-        "word": "spotlight",
-        "definition": "A lot of attention from others.",
-        "example": "Mateo stepped into the spotlight when his garden sunflower grew taller than him."
-      }
-    ]
-  },
-  {
-    "away_team": "Tampa Bay Buccaneers",
-    "home_team": "Detroit Lions",
-    "away_abbr": "TB",
-    "home_abbr": "DET",
-    "away_score": null,
-    "home_score": null,
-    "away_record": "3-6",
-    "home_record": "7-2",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "In Detroit on Sunday, Nov 22, the Lions host the Tampa Bay Buccaneers. The Lions are 7-2, and the Bucs are 3-6. Detroit is tied for the NFC North lead and can stay there with a win. Lions back Jahmyr Gibbs has 1,000 rushing yards and 11 TDs! Can he find a clever way past the Bucs defense?",
-    "big_words": [
-      {
-        "word": "clever",
-        "definition": "Good at finding smart ways to do things.",
-        "example": "Zoe made a clever sign to help people find her lemonade stand."
-      }
-    ]
-  },
-  {
-    "away_team": "Arizona Cardinals",
-    "home_team": "Kansas City Chiefs",
-    "away_abbr": "ARI",
-    "home_abbr": "KC",
+    "home_abbr": "CIN",
     "away_score": null,
     "home_score": null,
     "away_record": "3-7",
-    "home_record": "7-2",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "The Chiefs have won 2 straight games! The 7-2 Chiefs host the 3-7 Arizona Cardinals in Kansas City. The Chiefs are perched in first place in the AFC West. Arizona is fourth in the NFC West. Watch Patrick Mahomes throw: He has 2,385 passing yards and 19 touchdowns this season!",
+    "home_record": "7-3",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "The Bengals lost 22-20 to Washington in their last game. Now Cincinnati is home to face the New Orleans Saints! The 7-3 Bengals have a slim lead in the AFC North, while the Saints are 3-7. Saints QB Tyler Shough has 2,429 passing yards and 16 TDs. Watch Bengals QB Joe Burrow throw the ball: He has 3,095 passing yards and 29 TDs!",
     "big_words": [
       {
-        "word": "perched",
-        "definition": "Sitting high up.",
-        "example": "Ethan\u2019s dog perched on the couch and watched a squirrel."
+        "word": "slim",
+        "definition": "Small or narrow.",
+        "example": "Ethan\u2019s dog squeezed through a slim gap in the fence."
       }
     ]
   },
   {
-    "away_team": "Pittsburgh Steelers",
-    "home_team": "Philadelphia Eagles",
-    "away_abbr": "PIT",
-    "home_abbr": "PHI",
+    "away_team": "New York Giants",
+    "home_team": "Indianapolis Colts",
+    "away_abbr": "NYG",
+    "home_abbr": "IND",
     "away_score": null,
     "home_score": null,
-    "away_record": "6-3",
-    "home_record": "2-7",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "The 6-3 Pittsburgh Steelers head to Philadelphia for a fresh chance to climb! The 2-7 Eagles are back from a bye. Steelers QB Aaron Rodgers has 2,014 passing yards and 15 TDs this season. Eagles QB Joe Milton is set to start! A win would put Pittsburgh at 7-3 or Philadelphia at 3-7.",
+    "away_record": "6-3-1",
+    "home_record": "3-8",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "The 6-3-1 New York Giants head to Indianapolis after a win! They face the 3-8 Colts. The spotlight is on Giants receiver Malik Nabers, who has 692 receiving yards and 2 TDs. Colts runner Jonathan Taylor has 760 rushing yards and 8 TDs. A win would help the Giants stay atop the NFC East standings.",
     "big_words": [
       {
-        "word": "fresh",
-        "definition": "New and ready to begin.",
-        "example": "Nia took a fresh path on her bike ride."
-      }
-    ]
-  },
-  {
-    "away_team": "Baltimore Ravens",
-    "home_team": "Carolina Panthers",
-    "away_abbr": "BAL",
-    "home_abbr": "CAR",
-    "away_score": null,
-    "home_score": null,
-    "away_record": "4-6",
-    "home_record": "4-5",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "Derrick Henry has 699 rushing yards and 10 TDs this season! Watch his powerful runs. His Baltimore Ravens (4-6) visit the Carolina Panthers (4-5) in Carolina. Both teams can climb in their division races. The Panthers lead the NFC South. They average 24.3 points per game.",
-    "big_words": [
-      {
-        "word": "powerful",
-        "definition": "Very strong.",
-        "example": "Omar watched a powerful lion stretch at the zoo."
+        "word": "spotlight",
+        "definition": "Special attention given to someone or something.",
+        "example": "Nia felt like she was in the spotlight on her shiny bike."
       }
     ]
   },
   {
     "away_team": "New York Jets",
-    "home_team": "Los Angeles Chargers",
+    "home_team": "Miami Dolphins",
     "away_abbr": "NYJ",
-    "home_abbr": "LAC",
+    "home_abbr": "MIA",
     "away_score": null,
     "home_score": null,
-    "away_record": "2-8",
-    "home_record": "1-8",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "The Jets are third in the AFC East, and the Chargers are fourth in the AFC West. The 2-8 New York Jets visit the 1-8 Los Angeles Chargers in Los Angeles. Jets QB Geno Smith has 2,226 passing yards and 12 TDs this season. Chargers QB Justin Herbert has 1,720 passing yards and 6 TDs. Watch for a lively QB matchup!",
+    "away_record": "3-8",
+    "home_record": "1-9",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "Geno Smith has 2,402 passing yards and 15 passing TDs this season. His 3-8 New York Jets visit the 1-9 Miami Dolphins in Miami. Watch Dolphins runner Ollie Gordon II, too! He has 608 rushing yards and 4 rushing TDs. These teams meet again in the AFC East after a close first game. Miami won that one 28-25!",
+    "big_words": [
+      {
+        "word": "close",
+        "definition": "Almost equal in score.",
+        "example": "Omar stood close to the glass to see a sleepy lion at the zoo."
+      }
+    ]
+  },
+  {
+    "away_team": "Atlanta Falcons",
+    "home_team": "Minnesota Vikings",
+    "away_abbr": "ATL",
+    "home_abbr": "MIN",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "3-7",
+    "home_record": "7-3",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "The Vikings are 1 game behind the Lions and Bears in the NFC North. Minnesota is 7-3 and hosts the 3-7 Atlanta Falcons in Minnesota. Falcons runner Bijan Robinson has 951 rushing yards and 6 rushing touchdowns! Vikings quarterback Kirk Cousins has 442 passing yards and 2 passing touchdowns in 2 games. Watch for a lively matchup: Robinson against the Vikings!",
     "big_words": [
       {
         "word": "lively",
@@ -180,82 +180,142 @@
     ]
   },
   {
-    "away_team": "Las Vegas Raiders",
-    "home_team": "Denver Broncos",
-    "away_abbr": "LV",
-    "home_abbr": "DEN",
+    "away_team": "Tennessee Titans",
+    "home_team": "Jacksonville Jaguars",
+    "away_abbr": "TEN",
+    "home_abbr": "JAX",
     "away_score": null,
     "home_score": null,
-    "away_record": "4-6",
-    "home_record": "7-2",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "What will these rivals do? The 4-6 Las Vegas Raiders visit the 7-2 Denver Broncos. Denver is tied with Kansas City atop the AFC West. Raiders star Brock Bowers has 676 receiving yards and 6 touchdowns! The game kicks off Sunday, Nov 22, in Denver.",
+    "away_record": "1-9",
+    "home_record": "7-3",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "Can the Titans answer the Jaguars? Tennessee is 1-9, and Jacksonville is 7-3. The Jaguars lead the AFC South by 3 games. Trevor Lawrence has 2,585 passing yards and 22 touchdowns! Watch for dazzling throws! The game kicks off Sunday, Nov 29, in Jacksonville.",
     "big_words": [
       {
-        "word": "rivals",
-        "definition": "People or groups trying to beat each other.",
-        "example": "Leo and his rivals raced to set up their tents on the camping trip."
+        "word": "dazzling",
+        "definition": "So bright or wonderful that it catches your eye.",
+        "example": "Leo saw dazzling stars above his tent on the camping trip."
       }
     ]
   },
   {
-    "away_team": "Jacksonville Jaguars",
-    "home_team": "New York Giants",
-    "away_abbr": "JAX",
-    "home_abbr": "NYG",
+    "away_team": "Baltimore Ravens",
+    "home_team": "Houston Texans",
+    "away_abbr": "BAL",
+    "home_abbr": "HOU",
     "away_score": null,
     "home_score": null,
-    "away_record": "7-2",
-    "home_record": "5-3-1",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "2,284 passing yards and 21 TDs make Trevor Lawrence one to watch! His 7-2 Jacksonville Jaguars visit the 5-3-1 New York Giants in New York. Both teams lead their divisions! Giants star Malik Nabers has 692 receiving yards and 2 TDs. The Giants are hungry for a win after losing to Washington.",
+    "away_record": "4-7",
+    "home_record": "4-6",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "33 sacks put Houston second in the league! The 4-6 Texans host the 4-7 Baltimore Ravens in Houston. Watch Zay Flowers, who has 785 receiving yards and 3 TDs. Texans QB C.J. Stroud has 2,656 passing yards and 22 TDs! Baltimore is determined to snap a 6-game skid and move up from fourth in the AFC North.",
     "big_words": [
       {
-        "word": "hungry",
-        "definition": "Wanting something very much.",
-        "example": "Priya was hungry to sing at the talent show."
+        "word": "determined",
+        "definition": "Set on doing something and not giving up.",
+        "example": "Priya was determined to nail her dance at the talent show."
       }
     ]
   },
   {
-    "away_team": "Minnesota Vikings",
+    "away_team": "New England Patriots",
+    "home_team": "Los Angeles Chargers",
+    "away_abbr": "NE",
+    "home_abbr": "LAC",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "5-5",
+    "home_record": "1-9",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "In Los Angeles on Sunday, Nov 29, the Chargers host the Patriots. The Chargers are 1-9, and the Patriots are 5-5. New England is just outside the 7-team AFC playoff field! Watch Omarion Hampton, who has 563 rushing yards and 4 rushing touchdowns. Can the Patriots find a clever way to slow him down?",
+    "big_words": [
+      {
+        "word": "clever",
+        "definition": "Smart at finding ways to do things.",
+        "example": "Marcus made a clever volcano for his science project."
+      }
+    ]
+  },
+  {
+    "away_team": "Washington Commanders",
+    "home_team": "Arizona Cardinals",
+    "away_abbr": "WSH",
+    "home_abbr": "ARI",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "4-5-1",
+    "home_record": "3-8",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "Washington beat Cincinnati 22-20 in its last game! The 4-5-1 Commanders now visit the 3-8 Cardinals in Arizona. Washington is hopeful, sitting 2 games behind the Giants in the NFC East. Watch Arizona\u2019s Trey McBride, who has 87 catches this season.",
+    "big_words": [
+      {
+        "word": "hopeful",
+        "definition": "Feeling that something good might happen.",
+        "example": "Sofia felt hopeful as she ran toward the ball at recess."
+      }
+    ]
+  },
+  {
+    "away_team": "Seattle Seahawks",
     "home_team": "San Francisco 49ers",
-    "away_abbr": "MIN",
+    "away_abbr": "SEA",
     "home_abbr": "SF",
     "away_score": null,
     "home_score": null,
-    "away_record": "7-2",
-    "home_record": "8-1",
-    "game_date": "2026-11-22",
-    "game_day": "Sunday, Nov 22",
-    "paragraph": "On Sunday, the Vikings visit the 49ers in Mexico City. Minnesota is 7-2, and San Francisco is 8-1. Both teams won last week, making this a thrilling Week 11 test! Vikings star Justin Jefferson has 467 receiving yards and 4 touchdowns. Can the 49ers slow him down?",
+    "away_record": "6-4",
+    "home_record": "9-1",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "The 6-4 Seattle Seahawks head to San Francisco to face the 9-1 49ers. Watch these talented pass stars! Seattle\u2019s Jaxon Smith-Njigba has 79 catches, 1,207 yards, and 10 touchdowns. San Francisco\u2019s Brock Purdy has 2,624 passing yards and 23 passing touchdowns. A win would help either team in the NFC West standings.",
     "big_words": [
       {
-        "word": "thrilling",
-        "definition": "Making you feel very excited.",
-        "example": "Marcus made a thrilling volcano for his science project."
+        "word": "talented",
+        "definition": "Very good at doing something.",
+        "example": "On a rainy day, Jamal made a talented drawing of a bright red dragon."
       }
     ]
   },
   {
-    "away_team": "Cincinnati Bengals",
-    "home_team": "Washington Commanders",
-    "away_abbr": "CIN",
-    "home_abbr": "WSH",
+    "away_team": "Las Vegas Raiders",
+    "home_team": "Cleveland Browns",
+    "away_abbr": "LV",
+    "home_abbr": "CLE",
     "away_score": null,
     "home_score": null,
-    "away_record": "7-2",
-    "home_record": "3-5-1",
-    "game_date": "2026-11-23",
-    "game_day": "Monday, Nov 23",
-    "paragraph": "The Bengals have won 5 games in a row. On Monday, the 7-2 Cincinnati Bengals play the 3-5-1 Washington Commanders in Washington. Both teams want to claim a division title! Washington has forced 6 turnovers in its last 3 games. Watch Joe Burrow throw: he has 2,795 passing yards and 27 passing TDs!",
+    "away_record": "4-7",
+    "home_record": "6-4",
+    "game_date": "2026-11-29",
+    "game_day": "Sunday, Nov 29",
+    "paragraph": "Fernando Mendoza has 458 passing yards and 3 TDs this season. His 4-7 Las Vegas Raiders play the 6-4 Cleveland Browns in Cleveland. They play on Sunday night! This is an important game for the AFC playoff race. The Browns are 4-0 at home!",
     "big_words": [
       {
-        "word": "claim",
-        "definition": "To take or earn something for yourself.",
-        "example": "Sofia raced across the grass to claim the soccer ball at recess."
+        "word": "important",
+        "definition": "Something that matters a lot.",
+        "example": "Hana took a deep breath before her important spelling test."
+      }
+    ]
+  },
+  {
+    "away_team": "Carolina Panthers",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_abbr": "CAR",
+    "home_abbr": "TB",
+    "away_score": null,
+    "home_score": null,
+    "away_record": "5-5",
+    "home_record": "3-7",
+    "game_date": "2026-11-30",
+    "game_day": "Monday, Nov 30",
+    "paragraph": "Carolina has a 2-game lead in the NFC South! On Monday, the 5-5 Panthers play the 3-7 Buccaneers in Tampa Bay. A win would help Carolina protect its lead. Bryce Young has 2,651 passing yards and 18 passing TDs this season. Watch for the matchup after Tampa Bay beat Carolina 43-13 in Week 7!",
+    "big_words": [
+      {
+        "word": "protect",
+        "definition": "To keep something safe.",
+        "example": "Diego used a cover to protect his library book from spills."
       }
     ]
   }

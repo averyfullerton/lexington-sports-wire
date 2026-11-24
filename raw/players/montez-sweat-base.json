@@ -1,0 +1,170 @@
+{
+  "run_id": "trun_415f3f698c1f435ba5663885c120df37",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 63.9,
+  "input": {
+    "player": "Montez Sweat",
+    "team": "Chicago Bears",
+    "position": "Defensive End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Mississippi State",
+    "fun_facts": [
+      "At Stephenson High School in Stone Mountain, Georgia, Montez Sweat was touted as one of the country\u2019s top tight-end recruits\u2014and he also played defense.",
+      "Montez Sweat began his college career at Michigan State and later transferred to Mississippi State.",
+      "As a Mississippi State senior, Montez Sweat earned first-team All-America honors from the Football Writers Association of America and Sporting News.",
+      "His senior year, Montez Sweat led the Bulldogs in sacks for the second straight season and recorded 14 tackles for loss.",
+      "At the NFL Combine, Montez Sweat ran the 40-yard dash in 4.41 seconds, setting a modern combine record for defensive linemen."
+    ],
+    "draft": "2019, round 1, pick 26"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile names Mississippi State as Montez Sweat\u2019s college. The career profile lists Michigan State, Copiah-Lincoln CC, and Mississippi State, with Mississippi State last.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/montez-sweat",
+          "excerpts": [
+            "* [Info](https://www.nfl.com/players/montez-sweat/)\n* [Stats](https://www.nfl.com/players/montez-sweat/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-6\n* Weight\n  \n  270\n* Arms\n  \n  35 3/4\n* Hands\n  \n  10 1/2\n\n* Experience\n  \n  8\n* College\n  \n  Mississippi State\n* Age\n  \n  30\n* Hometown\n  \n  Stone Mountain, GA\n\n## Related Content - Articles\n\n[news ### Montez Sweat returns to Bears following 'devastating' two-game suspension Bears pass rusher Montez Sweat took ownership Tuesday of the situation that led to his two-game suspension for"
+          ],
+          "title": "Montez Sweat Stats, News and Video - DE | NFL.com"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/S/SweaMo00/gamelog",
+          "excerpts": [
+            "Photo of Montez Sweat\n\n# Montez Sweat\n\n**Shaquam Montez Sweat**\n\n**Position** : EDGE\n\n6-6 , 270lb (198cm, 122kg)\n\n**Team** : [Chicago Bears](https://www.pro-football-reference.com/teams/chi/2026.htm)\n\n**Born:** [September 4](https://www.pro-football-reference.com/friv/birthdays.cgi?month=9&day=4) , 1996 in Richmond, [KY](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=KY)\n\n**College** : [Michigan St.](https://www.pro-football-reference.com/schools/michiganst/) , [Copiah-Lincoln CC](https://www.pro-football-reference.com/schools/copiah/) , [Mississippi St.](https://www.pro-football-reference.com/schools/mississippist/) ( [College Stats](https://www.sports-reference.com/cfb/players/montez-sweat-1.html) )\n\n**[Weighted Career AV (100-95-...)](https://www.pro-football-reference.com/about/approximate_value.htm) :** 48 (1912th overall since 1960)\n\n**High School** : [Stephenson](https://www.pro-football-reference.com/schools/high_schools.cgi?id=93b87103) ( [GA]("
+          ],
+          "title": "Montez Sweat Career Game Log | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited Commanders article supports the high-school, college-transfer, All-America, and senior-season facts. The NFL article supports the 4.41-second combine record.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/seven-things-we-ve-learned-about-montez-sweat",
+          "excerpts": [
+            "Multiple publications listed Sweat as one of the country's top tight end recruits at Stephenson High School in Stone Mountain, Georgia. He also played defense in high school, and he made his primary position defensive end when he arrived at Michigan State in 2014.\n\nThree years later, Sweat transferred to Mississippi State, where he became a first-team All-American for his production off the edge.\n\n\"Initially, he's an offensive guy, so I asked him if he wanted to play tight end,\" Mississippi State coach Joe Moorhead told NFL.com in April. \"That didn't work out so well.\"\n\n**5\\. He could hardly be stopped in college.**\n\nAfter earning first-team All-SEC honors as a junior at Mississippi State, Sweat returned for his senior season. He only raised his draft stock.\n\nSweat compiled 14 tackles for loss and a team-high 12 sacks, earning second team All-America honors from The Associated Press."
+          ],
+          "title": "Seven Things We've Learned About Montez Sweat"
+        },
+        {
+          "url": "https://www.commanders.com/news/redskins-select-edge-montez-sweat-2019-nfl-draft",
+          "excerpts": [
+            "As a senior at Mississippi State, Sweat earned first-team All-America honors from the Football Writers Association of America and Sporting News, finishing as a semifinalist for the Bednarik Award, given annually to the nation's top defensive player.\n\nSweat led the Bulldogs in sacks for the second consecutive season, tied for sixth nationally with 11.5 sacks along with 14 tackles for a loss, which ranked second on the team. Arguably his best game came against Auburn last season, in which he tallied three sacks and a forced fumble, both of which were career highs."
+          ],
+          "title": "After Trade, Redskins Select Edge Montez Sweat"
+        },
+        {
+          "url": "https://www.nfl.com/news/montez-sweat-sets-modern-record-for-fastest-40-by-d-lineman-0ap3000001020708",
+          "excerpts": [
+            "INDIANAPOLIS -- Just five weeks after wowing NFL scouts at the Reese's [Senior Bowl](http://www.nfl.com/seniorbowl) with his on-field play, Mississippi State edge rusher Montez Sweat wowed them again on Sunday, this time with a 4.41-second 40-yard dash to set a modern record (since 2003) for a defensive lineman at the NFL [Scouting Combine](http://www.nfl.com/combine) .\n\nThe previous modern record was 4.44 by Manny Lawson (2006) and Isaac Hilton (2004), per NFL Research.\n\nSweat, at 260 pounds, stood out most among a defensive line group that dazzled overall.\n\nIf it's unfair for speed like Sweat's to be measured with other defensive linemen, perhaps wide receivers would make for better context. A 4.41 would rate tied for eighth-best among this year's combine receivers.\n\n## Related Content\n\n1 of 4"
+          ],
+          "title": "Montez Sweat sets modern record for fastest 40 by D-lineman | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft report states that Montez Sweat was selected by Washington in the first round, 26th overall, in the 2019 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/montez-sweat-falls-to-redskins-after-misdiagnosis-0ap3000001028129",
+          "excerpts": [
+            "[Montez Sweat](https://www.nfl.com/player/montezsweat/2562749/profile) 's roller-coaster draft process ended in the first round on Thursday night.\n\nThe Mississippi State edge rusher was drafted by the [Washington Redskins](https://www.nfl.com/teams/washingtonredskins/profile?team=WAS) with the 26th overall selection in the 2019 [NFL Draft](http://www.nfl.com/draft) .\n\nWashington traded a 2019 second-round pick (No. 46) and a 2020 second-round pick to the [Indianapolis Colts](https://www.nfl.com/teams/indianapoliscolts/profile?team=IND) to hop back into the first round to pick Sweat.\n\nLoading...\n\nNFL Network Insider Ian Rapoport states that the Oakland Raiders would have taken Mississippi State edge Montez Sweat at No. 27 if the Washington Redskins hadn't traded up\n\nSweat's draft stock took a hit in March when it was reported that he had a heart condition. At least four teams had reportedly taken the pass rusher of their boards."
+          ],
+          "title": "Montez Sweat falls to Redskins after misdiagnosis | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The article identifies Stephenson High School in Stone Mountain, Georgia, notes Sweat was a top tight-end recruit, and says he also played defense.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/seven-things-we-ve-learned-about-montez-sweat",
+          "excerpts": [
+            "Multiple publications listed Sweat as one of the country's top tight end recruits at Stephenson High School in Stone Mountain, Georgia. He also played defense in high school, and he made his primary position defensive end when he arrived at Michigan State in 2014.\n\nThree years later, Sweat transferred to Mississippi State, where he became a first-team All-American for his production off the edge.\n\n\"Initially, he's an offensive guy, so I asked him if he wanted to play tight end,\" Mississippi State coach Joe Moorhead told NFL.com in April. \"That didn't work out so well.\"\n\n**5\\. He could hardly be stopped in college.**\n\nAfter earning first-team All-SEC honors as a junior at Mississippi State, Sweat returned for his senior season. He only raised his draft stock.\n\nSweat compiled 14 tackles for loss and a team-high 12 sacks, earning second team All-America honors from The Associated Press."
+          ],
+          "title": "Seven Things We've Learned About Montez Sweat"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The article says Sweat arrived at Michigan State in 2014 and later transferred to Mississippi State.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/seven-things-we-ve-learned-about-montez-sweat",
+          "excerpts": [
+            "Multiple publications listed Sweat as one of the country's top tight end recruits at Stephenson High School in Stone Mountain, Georgia. He also played defense in high school, and he made his primary position defensive end when he arrived at Michigan State in 2014.\n\nThree years later, Sweat transferred to Mississippi State, where he became a first-team All-American for his production off the edge.\n\n\"Initially, he's an offensive guy, so I asked him if he wanted to play tight end,\" Mississippi State coach Joe Moorhead told NFL.com in April. \"That didn't work out so well.\"\n\n**5\\. He could hardly be stopped in college.**\n\nAfter earning first-team All-SEC honors as a junior at Mississippi State, Sweat returned for his senior season. He only raised his draft stock.\n\nSweat compiled 14 tackles for loss and a team-high 12 sacks, earning second team All-America honors from The Associated Press."
+          ],
+          "title": "Seven Things We've Learned About Montez Sweat"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article states that Sweat earned first-team All-America honors from the Football Writers Association of America and Sporting News as a senior.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/redskins-select-edge-montez-sweat-2019-nfl-draft",
+          "excerpts": [
+            "As a senior at Mississippi State, Sweat earned first-team All-America honors from the Football Writers Association of America and Sporting News, finishing as a semifinalist for the Bednarik Award, given annually to the nation's top defensive player.\n\nSweat led the Bulldogs in sacks for the second consecutive season, tied for sixth nationally with 11.5 sacks along with 14 tackles for a loss, which ranked second on the team. Arguably his best game came against Auburn last season, in which he tallied three sacks and a forced fumble, both of which were career highs."
+          ],
+          "title": "After Trade, Redskins Select Edge Montez Sweat"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The article says Sweat led the Bulldogs in sacks for the second consecutive season and had 14 tackles for loss.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/redskins-select-edge-montez-sweat-2019-nfl-draft",
+          "excerpts": [
+            "As a senior at Mississippi State, Sweat earned first-team All-America honors from the Football Writers Association of America and Sporting News, finishing as a semifinalist for the Bednarik Award, given annually to the nation's top defensive player.\n\nSweat led the Bulldogs in sacks for the second consecutive season, tied for sixth nationally with 11.5 sacks along with 14 tackles for a loss, which ranked second on the team. Arguably his best game came against Auburn last season, in which he tallied three sacks and a forced fumble, both of which were career highs."
+          ],
+          "title": "After Trade, Redskins Select Edge Montez Sweat"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL article reports Sweat\u2019s 4.41-second 40-yard dash and identifies it as a modern record for defensive linemen.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/montez-sweat-sets-modern-record-for-fastest-40-by-d-lineman-0ap3000001020708",
+          "excerpts": [
+            "INDIANAPOLIS -- Just five weeks after wowing NFL scouts at the Reese's [Senior Bowl](http://www.nfl.com/seniorbowl) with his on-field play, Mississippi State edge rusher Montez Sweat wowed them again on Sunday, this time with a 4.41-second 40-yard dash to set a modern record (since 2003) for a defensive lineman at the NFL [Scouting Combine](http://www.nfl.com/combine) .\n\nThe previous modern record was 4.44 by Manny Lawson (2006) and Isaac Hilton (2004), per NFL Research.\n\nSweat, at 260 pounds, stood out most among a defensive line group that dazzled overall.\n\nIf it's unfair for speed like Sweat's to be measured with other defensive linemen, perhaps wide receivers would make for better context. A 4.41 would rate tied for eighth-best among this year's combine receivers.\n\n## Related Content\n\n1 of 4"
+          ],
+          "title": "Montez Sweat sets modern record for fastest 40 by D-lineman | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

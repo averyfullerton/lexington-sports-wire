@@ -1,0 +1,69 @@
+{
+  "name": "Gio Lopez",
+  "espn_id": "4920227",
+  "team": "Wake Forest Demon Deacons",
+  "team_abbr": "WAKE",
+  "number": "3",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Madison, AL",
+  "league": "cfb",
+  "fun_facts": [
+    "Gio scored a touchdown and the winning two-point conversion against Purdue in double overtime.",
+    "He threw for 324 yards and had four touchdowns against Georgia Tech.",
+    "He threw 18 touchdowns and ran for seven more in 2024."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "USA",
+        "41",
+        "61",
+        "475",
+        "4",
+        "2"
+      ],
+      [
+        "2024",
+        "USA",
+        "206",
+        "312",
+        "2,559",
+        "18",
+        "5"
+      ],
+      [
+        "2025",
+        "UNC",
+        "170",
+        "261",
+        "1,747",
+        "10",
+        "5"
+      ],
+      [
+        "2026",
+        "WAKE",
+        "184",
+        "275",
+        "2,701",
+        "21",
+        "1"
+      ]
+    ]
+  }
+}

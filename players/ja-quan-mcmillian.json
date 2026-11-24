@@ -1,0 +1,78 @@
+{
+  "name": "Ja'Quan McMillian",
+  "espn_id": "4567462",
+  "team": "Denver Broncos",
+  "team_abbr": "DEN",
+  "number": "29",
+  "position": "Cornerback",
+  "position_abbr": "CB",
+  "college": "East Carolina",
+  "experience": 4,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Ja'Quan had 22 interceptions in high school and 12 in college at East Carolina.",
+    "Ja'Quan ran an interception back 44 yards for a touchdown against Cleveland.",
+    "Ja'Quan made a one-handed interception and ran it back for a touchdown against the Raiders."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2022",
+        "DEN",
+        "1",
+        "7",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "2023",
+        "DEN",
+        "16",
+        "51",
+        "2",
+        "2",
+        "2"
+      ],
+      [
+        "2024",
+        "DEN",
+        "17",
+        "81",
+        "1",
+        "2",
+        "1"
+      ],
+      [
+        "2025",
+        "DEN",
+        "17",
+        "56",
+        "4",
+        "2",
+        "2"
+      ],
+      [
+        "2026",
+        "DEN",
+        "10",
+        "39",
+        "3",
+        "2",
+        "1"
+      ]
+    ]
+  }
+}

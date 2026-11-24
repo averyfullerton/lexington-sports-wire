@@ -1,0 +1,51 @@
+{
+  "name": "Mike Green",
+  "espn_id": "4683188",
+  "team": "Baltimore Ravens",
+  "team_abbr": "BAL",
+  "number": "15",
+  "position": "Linebacker",
+  "position_abbr": "LB",
+  "college": "Marshall",
+  "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Mike led college football with 17 sacks in 2024.",
+    "Mike wrestled, and it helped him play football.",
+    "Mike had 22\u00bd tackles for loss in his last college season."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2025",
+        "BAL",
+        "17",
+        "41",
+        "3.5",
+        "0",
+        "0"
+      ],
+      [
+        "2026",
+        "BAL",
+        "11",
+        "32",
+        "7.5",
+        "0",
+        "0"
+      ]
+    ]
+  }
+}

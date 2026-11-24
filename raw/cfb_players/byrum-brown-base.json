@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_1d63cf7e4268416ebdaf6d62d0c9da5c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 65.8,
+  "input": {
+    "player": "Byrum Brown",
+    "team": "Auburn Tigers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Byrum Brown attended Rolesville High School in his hometown of Rolesville, North Carolina.",
+      "In 2023, he totaled 4,101 yards for USF, becoming only the second quarterback in the program\u2019s history to reach 4,000 total yards in a season.",
+      "In 2025, he became the 12th FBS quarterback to record both 3,000 passing yards and 1,000 rushing yards in a season.",
+      "In a 2026 game against Southern Miss, Brown rushed for 88 yards as part of Auburn\u2019s first trio of players to each rush for 80 or more yards in a game since 2019.",
+      "Against Arkansas in 2026, he threw for 180 yards and ran for 120, totaling 300 yards of offense."
+    ],
+    "high_school": "Rolesville High School",
+    "hometown": "Rolesville, North Carolina"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The first pointer identifies Brown\u2019s hometown and high school. The second states that he finished the 2023 season with 4,101 total yards and was the second USF quarterback to reach 4,000 in a season. The third records his 2025 3,000-passing-yard and 1,000-rushing-yard milestone. The fourth names Brown among Auburn\u2019s three 80-plus-yard rushers against Southern Miss and says the team feat had not happened since 2019. The fifth reports his 180 passing yards and 120 rushing yards against Arkansas, totaling 300 yards of offense.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/247865/byrum-brown",
+          "excerpts": [
+            "6-2, 195 | Class of 2022 Hometown Rolesville, N.C. School Rolesville High School Position Quarterback: Pocket Passer Status Signed South Florida 07/01/2021"
+          ],
+          "title": "Football Recruiting - Byrum Brown - Player Profiles - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401551737",
+          "excerpts": [
+            "BOCA RATON, Fla. -- \u2014 [Byrum Brown](http://www.espn.com/college-football/player/_/id/4880272/byrum-brown) threw three touchdown passes and became the second USF quarterback with 4,000 total yards in a season, leading the Bulls to a 45-0 rout of undermanned Syracuse in the Boca Raton Bowl on Thursday night. Brown, a redshirt freshman, closed out his outstanding season with 4,101 total yards."
+          ],
+          "title": "South Florida 45-0 Syracuse (Dec 21, 2023) Game Recap - ESPN"
+        },
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/14/AU_FB_Game_Notes_2026_3_Florida.pdf",
+          "excerpts": [
+            "2025 Byrum Brown, USF 12th FBS QB with 3,000/1,000 season",
+            "\u2022 Three players in Omar Mabson II (108), Byrum Brown (88) and Jeremiah Cobb (85) rushed for 80+ yards vs. Southern Miss, marking the first time a trio accomplished the feat since 2019."
+          ],
+          "title": "2026 AUBURN FOOTBALL"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856738",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856738)\n\n# Byrum Brown's 300 yards of total offense power Auburn in 26-23 victory over Arkansas\n\n* * *\n\nBy AP\n\nUpdated: Nov 7, 2026, 07:20 pm\n\nFacebook Facebook Messenger Twitter Email\n\nAUBURN, Ala. -- \u2014 [Byrum Brown](http://www.espn.com/college-football/player/_/id/4880272/byrum-brown) threw for 180 yards with two touchdowns and ran for another 120 yards as Auburn defeated Arkansas 26-23 on Saturday.\n\n[Alex McPherson](http://www.espn.com/college-football/player/_/id/4870519/alex-mcpherson) , the hero of the Auburn-Georgia game, kicked his second game-winning field goal of the season. McPherson kicked the 42-yarder with only 33 seconds left, forcing Arkansas into a desperation moment they couldn't convert.\n\nAfter a slow first half, Auburn (5-4, 3-4 Southeastern Conference) used the momentum of a field goal right before halftime to score 23 points in the second half."
+          ],
+          "title": "Auburn 26-23 Arkansas (Nov 7, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting profile directly lists Rolesville High School as Brown\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/247865/byrum-brown",
+          "excerpts": [
+            "School Rolesville High School Position Quarterback: Pocket Passer Status Signed South Florida 07/01/2021"
+          ],
+          "title": "Football Recruiting - Byrum Brown - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile explicitly gives Rolesville, N.C., as Brown\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/247865/byrum-brown",
+          "excerpts": [
+            "6-2, 195 | Class of 2022 Hometown Rolesville, N.C."
+          ],
+          "title": "Football Recruiting - Byrum Brown - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile identifies Rolesville as Brown\u2019s hometown and lists Rolesville High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/247865/byrum-brown",
+          "excerpts": [
+            "6-2, 195 | Class of 2022 Hometown Rolesville, N.C. School Rolesville High School Position Quarterback: Pocket Passer Status Signed South Florida 07/01/2021"
+          ],
+          "title": "Football Recruiting - Byrum Brown - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap states that Brown finished the season with 4,101 total yards and was the second USF quarterback to reach 4,000 total yards in a season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401551737",
+          "excerpts": [
+            "BOCA RATON, Fla. -- \u2014 [Byrum Brown](http://www.espn.com/college-football/player/_/id/4880272/byrum-brown) threw three touchdown passes and became the second USF quarterback with 4,000 total yards in a season, leading the Bulls to a 45-0 rout of undermanned Syracuse in the Boca Raton Bowl on Thursday night. Brown, a redshirt freshman, closed out his outstanding season with 4,101 total yards."
+          ],
+          "title": "South Florida 45-0 Syracuse (Dec 21, 2023) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The game notes identify Brown as the 12th FBS quarterback to have a season with 3,000 passing yards and 1,000 rushing yards.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/14/AU_FB_Game_Notes_2026_3_Florida.pdf",
+          "excerpts": [
+            "2025 Byrum Brown, USF 12th FBS QB with 3,000/1,000 season"
+          ],
+          "title": "2026 AUBURN FOOTBALL"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game notes name Brown among the three Auburn players who rushed for at least 80 yards against Southern Miss and describe it as the first such trio since 2019.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/14/AU_FB_Game_Notes_2026_3_Florida.pdf",
+          "excerpts": [
+            "\u2022 Three players in Omar Mabson II (108), Byrum Brown (88) and Jeremiah Cobb (85) rushed for 80+ yards vs. Southern Miss, marking the first time a trio accomplished the feat since 2019."
+          ],
+          "title": "2026 AUBURN FOOTBALL"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The recap reports 180 passing yards and 120 rushing yards for Brown against Arkansas, which totals 300 yards of offense.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856738",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856738)\n\n# Byrum Brown's 300 yards of total offense power Auburn in 26-23 victory over Arkansas\n\n* * *\n\nBy AP\n\nUpdated: Nov 7, 2026, 07:20 pm\n\nFacebook Facebook Messenger Twitter Email\n\nAUBURN, Ala. -- \u2014 [Byrum Brown](http://www.espn.com/college-football/player/_/id/4880272/byrum-brown) threw for 180 yards with two touchdowns and ran for another 120 yards as Auburn defeated Arkansas 26-23 on Saturday.\n\n[Alex McPherson](http://www.espn.com/college-football/player/_/id/4870519/alex-mcpherson) , the hero of the Auburn-Georgia game, kicked his second game-winning field goal of the season. McPherson kicked the 42-yarder with only 33 seconds left, forcing Arkansas into a desperation moment they couldn't convert.\n\nAfter a slow first half, Auburn (5-4, 3-4 Southeastern Conference) used the momentum of a field goal right before halftime to score 23 points in the second half."
+          ],
+          "title": "Auburn 26-23 Arkansas (Nov 7, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

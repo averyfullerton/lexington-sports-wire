@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Wyoming",
   "experience": 9,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Josh played football, baseball, basketball, golf, gymnastics, karate, and swam growing up.",
     "Josh pitched a baseball at 90 miles per hour in high school.",
@@ -109,12 +112,12 @@
       [
         "2026",
         "BUF",
-        "9",
-        "167",
-        "257",
-        "2,223",
-        "13",
-        "7"
+        "10",
+        "194",
+        "302",
+        "2,527",
+        "14",
+        "9"
       ]
     ]
   }

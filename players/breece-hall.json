@@ -1,0 +1,78 @@
+{
+  "name": "Breece Hall",
+  "espn_id": "4427366",
+  "team": "New York Jets",
+  "team_abbr": "NYJ",
+  "number": "20",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Iowa State",
+  "experience": 5,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Breece scored a rushing touchdown in 24 straight college games, an NCAA record.",
+    "Breece was Iowa State\u2019s first unanimous All-American in college.",
+    "Breece ran the 40-yard dash in 4.39 seconds at the 2022 NFL Combine."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "NYJ",
+        "7",
+        "80",
+        "463",
+        "5.8",
+        "4"
+      ],
+      [
+        "2023",
+        "NYJ",
+        "17",
+        "223",
+        "994",
+        "4.5",
+        "5"
+      ],
+      [
+        "2024",
+        "NYJ",
+        "16",
+        "209",
+        "876",
+        "4.2",
+        "5"
+      ],
+      [
+        "2025",
+        "NYJ",
+        "16",
+        "243",
+        "1,065",
+        "4.4",
+        "4"
+      ],
+      [
+        "2026",
+        "NYJ",
+        "6",
+        "97",
+        "351",
+        "3.6",
+        "1"
+      ]
+    ]
+  }
+}

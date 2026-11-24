@@ -1,0 +1,302 @@
+[
+  {
+    "espn_id": "401856879",
+    "away_team": "TCU Horned Frogs",
+    "home_team": "Texas Tech Red Raiders",
+    "away_abbr": "TCU",
+    "home_abbr": "TTU",
+    "away_id": "2628",
+    "home_id": "2641",
+    "away_rank": null,
+    "home_rank": 9,
+    "game_date": "2026-11-26",
+    "game_day": "Thursday, Nov 26",
+    "paragraph": "J'Koby Williams has run for 1,195 yards and 9 touchdowns this season. On Thursday, 5-6 TCU visits 10-1 No. 9 Texas Tech in Texas. Both teams are eager for a big win! A win sends Texas Tech back to the Big 12 Championship Game. TCU needs a win to play in a bowl game. Watch Williams run with the ball!",
+    "big_words": [
+      {
+        "word": "eager",
+        "definition": "Excited and ready for something.",
+        "example": "Zoe was eager to build a tall block tower."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "5-6",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401856759",
+    "away_team": "Florida Gators",
+    "home_team": "Florida State Seminoles",
+    "away_abbr": "FLA",
+    "home_abbr": "FSU",
+    "away_id": "57",
+    "home_id": "52",
+    "away_rank": 20,
+    "home_rank": null,
+    "game_date": "2026-11-27",
+    "game_day": "Friday, Nov 27",
+    "paragraph": "Florida State needs 1 more win to reach 6! On Friday, the 5-6 Seminoles host the 7-4 No. 20 Florida Gators in Tallahassee. Florida has won 2 games in a row. Watch Ashton Daniels: He has 2,309 passing yards and 14 touchdowns. A win would lift Florida State to 6-6 in the standings!",
+    "big_words": [
+      {
+        "word": "lift",
+        "definition": "To raise something up.",
+        "example": "Ethan can lift the watering can to reach his garden flowers."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "7-4",
+    "home_record": "5-6"
+  },
+  {
+    "espn_id": "401856756",
+    "away_team": "Texas Longhorns",
+    "home_team": "Texas A&M Aggies",
+    "away_abbr": "TEX",
+    "home_abbr": "TA&M",
+    "away_id": "251",
+    "home_id": "245",
+    "away_rank": 5,
+    "home_rank": null,
+    "game_date": "2026-11-27",
+    "game_day": "Friday, Nov 27",
+    "paragraph": "Ready for a Texas clash? On Friday, No. 5 Texas Longhorns visit the Texas A&M Aggies in Texas. Texas is 9-2, and Texas A&M is 4-7. This is the last regular-season game for both teams! Watch Arch Manning: He has 2,485 passing yards and 21 TDs. Texas has won 5 straight.",
+    "big_words": [
+      {
+        "word": "clash",
+        "definition": "A contest between two sides.",
+        "example": "Nia watched a clash over the last cup at her lemonade stand."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "9-2",
+    "home_record": "4-7"
+  },
+  {
+    "espn_id": "401856880",
+    "away_team": "West Virginia Mountaineers",
+    "home_team": "Utah Utes",
+    "away_abbr": "WVU",
+    "home_abbr": "UTAH",
+    "away_id": "277",
+    "home_id": "254",
+    "away_rank": null,
+    "home_rank": 2,
+    "game_date": "2026-11-27",
+    "game_day": "Friday, Nov 27",
+    "paragraph": "17 wins in a row for Utah! On Friday, 5-6 West Virginia visits No. 2 Utah in Utah. The Utes are 11-0 and have a spot in the Big 12 Championship Game. Utah\u2019s Devon Dampier has 2,535 passing yards and 24 touchdowns. Watch for a fierce matchup with West Virginia\u2019s Cam Cook, who has 1,215 rushing yards and 9 touchdowns.",
+    "big_words": [
+      {
+        "word": "fierce",
+        "definition": "Full of energy and strength.",
+        "example": "Omar played a fierce game of tug with his pet dog."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "5-6",
+    "home_record": "11-0"
+  },
+  {
+    "espn_id": "401858314",
+    "away_team": "Notre Dame Fighting Irish",
+    "home_team": "Syracuse Orange",
+    "away_abbr": "ND",
+    "home_abbr": "SYR",
+    "away_id": "87",
+    "home_id": "183",
+    "away_rank": 3,
+    "home_rank": null,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "On Saturday, Nov 28, football comes to Syracuse, New York. No. 3 Notre Dame is 10-1, and Syracuse is 5-6. Notre Dame\u2019s CJ Carr has 2,697 passing yards and 24 touchdowns! Notre Dame could lock up a College Football Playoff spot the next week. Syracuse is hopeful about reaching a bowl. It all kicks off Saturday in Syracuse, New York.",
+    "big_words": [
+      {
+        "word": "hopeful",
+        "definition": "Feeling that something good could happen.",
+        "example": "Grace felt hopeful as she learned to ride her bike without help."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "10-1",
+    "home_record": "5-6"
+  },
+  {
+    "espn_id": "401858311",
+    "away_team": "Boston College Eagles",
+    "home_team": "Miami Hurricanes",
+    "away_abbr": "BC",
+    "home_abbr": "MIA",
+    "away_id": "103",
+    "home_id": "2390",
+    "away_rank": null,
+    "home_rank": 4,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "Boston College beat Syracuse 27-15 in its last game. On Saturday, the 5-6 Eagles visit No. 4 Miami in Florida. The 10-1 Hurricanes have won 12 ACC games in a row! Miami's Darian Mensah has 3,317 passing yards and 29 touchdowns this season. Miami has a spot in the ACC championship game. Boston College has a chance to reach a bowl with a win.",
+    "big_words": [
+      {
+        "word": "chance",
+        "definition": "A possibility that something can happen.",
+        "example": "Leo has a chance to see a lion at the zoo."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "5-6",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401856761",
+    "away_team": "Louisville Cardinals",
+    "home_team": "Kentucky Wildcats",
+    "away_abbr": "LOU",
+    "home_abbr": "UK",
+    "away_id": "97",
+    "home_id": "96",
+    "away_rank": 18,
+    "home_rank": null,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "No. 18 Louisville heads to Kentucky with an 8-3 record. The Kentucky Wildcats are 7-4. The rivals play for the Governor\u2019s Cup on Saturday! Louisville\u2019s Isaac Brown has run for 804 yards and 8 touchdowns. Can Kentucky\u2019s Kenny Darby add to his 711 receiving yards?",
+    "big_words": [
+      {
+        "word": "rivals",
+        "definition": "People or teams that compete against each other.",
+        "example": "Priya and her rivals raced across the pool at their swimming lesson."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "8-3",
+    "home_record": "7-4"
+  },
+  {
+    "espn_id": "401856760",
+    "away_team": "Georgia Tech Yellow Jackets",
+    "home_team": "Georgia Bulldogs",
+    "away_abbr": "GT",
+    "home_abbr": "UGA",
+    "away_id": "59",
+    "home_id": "61",
+    "away_rank": null,
+    "home_rank": 1,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "Gunner Stockton has 2,390 passing yards and 22 TDs this season. On Saturday, 3-8 Georgia Tech visits 10-1 No. 1 Georgia in Georgia. This is Georgia\u2019s last regular-season game before the SEC Championship Game. Watch Stockton shine when he throws!",
+    "big_words": [
+      {
+        "word": "shine",
+        "definition": "To do something really well.",
+        "example": "Marcus will shine as he sets up the tent on his camping trip."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "3-8",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401858543",
+    "away_team": "USC Trojans",
+    "home_team": "UCLA Bruins",
+    "away_abbr": "USC",
+    "home_abbr": "UCLA",
+    "away_id": "30",
+    "home_id": "26",
+    "away_rank": 15,
+    "home_rank": 10,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "A spot in the Big Ten title game is at stake! On Saturday, No. 10 UCLA (10-1) hosts No. 15 USC (8-3) in California. USC\u2019s Jayden Maiava is in the spotlight with 3,072 passing yards and 23 TDs. UCLA\u2019s Wayne Knight has 875 rushing yards and 13 TDs! A UCLA win would send the Bruins to the Big Ten title game.",
+    "big_words": [
+      {
+        "word": "spotlight",
+        "definition": "The center of everyone\u2019s attention.",
+        "example": "Sofia stepped into the spotlight at her talent show."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "8-3",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401858312",
+    "away_team": "Duke Blue Devils",
+    "home_team": "Wake Forest Demon Deacons",
+    "away_abbr": "DUKE",
+    "home_abbr": "WAKE",
+    "away_id": "150",
+    "home_id": "154",
+    "away_rank": null,
+    "home_rank": 8,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "Ready for a thrilling ACC race? On Saturday, 7-4 Duke visits No. 8 Wake Forest, 10-1, in North Carolina. Duke\u2019s Nate Sheppard has 1,436 rushing yards and 20 rushing TDs. Wake\u2019s Gio Lopez has 2,701 passing yards and 21 passing TDs. A win could send Wake to the ACC Championship Game! Wake is 7-1 in ACC play.",
+    "big_words": [
+      {
+        "word": "thrilling",
+        "definition": "Very exciting.",
+        "example": "Jamal made a thrilling volcano for his science project."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "7-4",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401856765",
+    "away_team": "Tennessee Volunteers",
+    "home_team": "Vanderbilt Commodores",
+    "away_abbr": "TENN",
+    "home_abbr": "VAN",
+    "away_id": "2633",
+    "home_id": "238",
+    "away_rank": 7,
+    "home_rank": null,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "1,215 rushing yards belong to Tennessee\u2019s DeSean Bishop this season! On Saturday, No. 7 Tennessee (9-2) plays Vanderbilt (4-7) in Tennessee. Vanderbilt\u2019s Jared Curtis has 2,080 passing yards and 10 TDs. Tennessee is chasing a spot in the College Football Playoff. Watch the matchup between Bishop and Curtis.",
+    "big_words": [
+      {
+        "word": "chasing",
+        "definition": "Trying hard to catch or reach something.",
+        "example": "Hana went chasing the ball across the playground at recess."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "9-2",
+    "home_record": "4-7"
+  },
+  {
+    "espn_id": "401856757",
+    "away_team": "Auburn Tigers",
+    "home_team": "Alabama Crimson Tide",
+    "away_abbr": "AUB",
+    "home_abbr": "ALA",
+    "away_id": "2",
+    "home_id": "333",
+    "away_rank": null,
+    "home_rank": 6,
+    "game_date": "2026-11-28",
+    "game_day": "Saturday, Nov 28",
+    "paragraph": "On Saturday, Nov. 28, Auburn visits Alabama! The Tigers are 7-4, and No. 6 Alabama is 9-2. Auburn\u2019s Byrum Brown has 2,035 passing yards and 15 TDs. Alabama\u2019s Keelon Russell has 2,480 passing yards and 21 TDs! This special game is the last regular-season game for both teams, with kickoff Saturday in Alabama.",
+    "big_words": [
+      {
+        "word": "special",
+        "definition": "Important or different in a good way.",
+        "example": "Diego wore his special yellow boots to splash in rainy-day puddles."
+      }
+    ],
+    "away_score": null,
+    "home_score": null,
+    "away_record": "7-4",
+    "home_record": "9-2"
+  }
+]

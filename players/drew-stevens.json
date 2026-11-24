@@ -1,0 +1,42 @@
+{
+  "name": "Drew Stevens",
+  "espn_id": "5081335",
+  "team": "Washington Commanders",
+  "team_abbr": "WSH",
+  "number": "19",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": "Iowa",
+  "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Drew made 76 field goals in college, an Iowa record.",
+    "Drew tied Iowa's record with a 58-yard field goal in college.",
+    "Drew beat Michigan State with a 44-yard field goal as time ran out in college."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2026",
+        "WSH",
+        "10",
+        "22-25",
+        "88.0",
+        "57",
+        "82"
+      ]
+    ]
+  }
+}

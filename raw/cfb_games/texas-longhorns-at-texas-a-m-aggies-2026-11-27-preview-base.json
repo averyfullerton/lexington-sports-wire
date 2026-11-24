@@ -1,0 +1,329 @@
+{
+  "run_id": "trun_acf50aaad34243e0bbe9503dbeea7bd0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 77.5,
+  "input": {
+    "away_team": "Texas Longhorns",
+    "home_team": "Texas A&M Aggies",
+    "game_date": "2026-11-27",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "9-2",
+    "away_team": "Texas Longhorns",
+    "storyline": "This is the regular-season finale for both teams. Texas enters on a five-game winning streak, while Texas A&M has lost four straight.",
+    "matchup_notes": [
+      "Texas is 9-2 overall and 6-2 in SEC play; Texas A&M is 4-7 overall and 1-7 in SEC play.",
+      "Texas beat Arkansas 45-3 to earn its fifth consecutive win.",
+      "Texas A&M\u2019s latest result was a 28-7 loss to Oklahoma, its fourth straight loss.",
+      "The game is the regular-season finale for both teams."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,485 passing yards, 21 TD",
+        "team": "Texas Longhorns",
+        "name": "Arch Manning"
+      },
+      {
+        "stat_line": "1,712 passing yards, 8 TD",
+        "team": "Texas A&M Aggies",
+        "name": "Marcel Reed"
+      }
+    ],
+    "home_record": "4-7",
+    "home_team": "Texas A&M Aggies",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The ESPN matchup listing gives Texas\u2019s pregame record as 9-2.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup listing identifies the away team as the Texas Longhorns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The first pointer identifies the game as both teams\u2019 regular-season finale. The next records Texas\u2019s 45-3 win over Arkansas and fifth consecutive victory; the standings passage records Texas A&M\u2019s four-game losing streak.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/49794580/texas-qb-marcel-reed-rips-texas-gotta-hate-them",
+          "excerpts": [
+            "Texas A&M will host Texas on Nov. 27 in the regular-season finale for both teams."
+          ],
+          "title": "Texas A&M QB Marcel Reed rips Texas: 'You gotta hate them' - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "8 Texas beat Arkansas 45-3 on Saturday for the Longhorns' fifth consecutive win.\n\nManning completed 21 of 25 passes without a turnover before leaving the game after three quarters."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/standings/football/fbs/sec",
+          "excerpts": [
+            "PRESENTED BY ALL CONFERENCES AMERICAN CONFERENCE ATLANTIC COAST CONFERENCE BIG 12 CONFERENCE BIG TEN CONFERENCE CONFERENCE USA FBS INDEPENDENT MID-AMERICAN CONFERENCE MOUNTAIN WEST CONFERENCE PAC-12 CONFERENCE SOUTHEASTERN CONFERENCE SUN BELT CONFERENCE Last Updated Nov 22, 2026 08:52 AM EDT\n\nSEC\n\n|School |Conference | |Overall | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| |W |L |W |L |PF |PA |HOME |AWAY |STREAK |\n|Georgia |8 |1 |10 |1 |452 |153 |5-1 |4-0 |Won 4 |\n|Alabama |6 |2 |9 |2 |405 |189 |5-1 |4-1 |Won 4 |\n|Texas |6 |2 |9 |2 |347 |181 |6-1 |3-0 |Won 5 |\n|Tennessee |6 |2 |9 |2 |341 |156 |6-1 |3-1 |Won 3 |\n|Oklahoma |5 |3 |7 |4 |251 |197 |4-2 |2-2 |Won 3 |\n|Florida |5 |4 |7 |4 |347 |289 |4-2 |3-1 |Won 2 |",
+            "|2 |6 |5 |6 |279 |307 |3-4 |2-2 |Won 1 |\n|Arkansas |2 |6 |4 |7 |217 |298 |3-3 |1-4 |Lost 1 |\n|Texas A&M |1 |7 |4 |7 |249 |218 |4-2 |0-5 |Lost 4 |\n|Vanderbilt |1 |7 |4 |7 |240 |320 |3-3 |1-4 |Lost 2 |"
+          ],
+          "title": "NCAA College Football FBS Standings | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The matchup listing supplies both teams\u2019 records and SEC records. The Arkansas recap states Texas\u2019s result and five-win streak; the Oklahoma recap gives Texas A&M\u2019s latest result, and the standings show its four-game losing streak. The finale statement supports the final note.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "8 Texas beat Arkansas 45-3 on Saturday for the Longhorns' fifth consecutive win.\n\nManning completed 21 of 25 passes without a turnover before leaving the game after three quarters."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856752",
+          "excerpts": [
+            "# Mateer accounts for 4 touchdowns, Oklahoma smothers Texas A&M 28-7\n\n1:20\n\n## Texas A&M Aggies vs. Oklahoma Sooners: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 02:13 am\n\nFacebook Facebook Messenger Twitter Email\n\nNORMAN, Okla."
+          ],
+          "title": "Oklahoma 28-7 Texas A&M (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/standings/football/fbs/sec",
+          "excerpts": [
+            "PRESENTED BY ALL CONFERENCES AMERICAN CONFERENCE ATLANTIC COAST CONFERENCE BIG 12 CONFERENCE BIG TEN CONFERENCE CONFERENCE USA FBS INDEPENDENT MID-AMERICAN CONFERENCE MOUNTAIN WEST CONFERENCE PAC-12 CONFERENCE SOUTHEASTERN CONFERENCE SUN BELT CONFERENCE Last Updated Nov 22, 2026 08:52 AM EDT\n\nSEC\n\n|School |Conference | |Overall | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| |W |L |W |L |PF |PA |HOME |AWAY |STREAK |\n|Georgia |8 |1 |10 |1 |452 |153 |5-1 |4-0 |Won 4 |\n|Alabama |6 |2 |9 |2 |405 |189 |5-1 |4-1 |Won 4 |\n|Texas |6 |2 |9 |2 |347 |181 |6-1 |3-0 |Won 5 |\n|Tennessee |6 |2 |9 |2 |341 |156 |6-1 |3-1 |Won 3 |\n|Oklahoma |5 |3 |7 |4 |251 |197 |4-2 |2-2 |Won 3 |\n|Florida |5 |4 |7 |4 |347 |289 |4-2 |3-1 |Won 2 |",
+            "|2 |6 |5 |6 |279 |307 |3-4 |2-2 |Won 1 |\n|Arkansas |2 |6 |4 |7 |217 |298 |3-3 |1-4 |Lost 1 |\n|Texas A&M |1 |7 |4 |7 |249 |218 |4-2 |0-5 |Lost 4 |\n|Vanderbilt |1 |7 |4 |7 |240 |320 |3-3 |1-4 |Lost 2 |"
+          ],
+          "title": "NCAA College Football FBS Standings | NCAA.com"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/49794580/texas-qb-marcel-reed-rips-texas-gotta-hate-them",
+          "excerpts": [
+            "Texas A&M will host Texas on Nov. 27 in the regular-season finale for both teams."
+          ],
+          "title": "Texas A&M QB Marcel Reed rips Texas: 'You gotta hate them' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "ESPN\u2019s 2026 team-leader listing gives Arch Manning\u2019s passing yards and touchdowns; Marcel Reed\u2019s 2026 stats listing gives his passing yards and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/stats/_/id/251/season/2026",
+          "excerpts": [
+            "# Texas Longhorns Player Stats 2026\n\n* [Players](https://www.espn.com/college-football/team/stats/_/id/251/season/2026)\n* [Team](https://www.espn.com/college-football/team/stats/_/type/team/id/251/season/2026)\n\n2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004\n\nTeam leaders\n\n[## Passing Yards Arch Manning ### Arch Manning QB 2,485](https://www.espn.com/college-football/player/_/id/4870906/arch-manning) [## Rushing Yards Raleek Brown ### Raleek Brown RB 585](https://www.espn.com/college-football/player/_/id/4685268/raleek-brown) [## Receiving Yards Ryan Wingo ### Ryan Wingo WR 659](https://www.espn.com/college-football/player"
+          ],
+          "title": "Texas Longhorns 2026 College Football Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4870971/marcel-reed",
+          "excerpts": [
+            "# Marcel Reed\n\nTexas A&M Aggies\n\n* [Texas A&M Aggies](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n* \\#10\n* Quarterback QB\n\n* Class",
+            "Nashville, TN\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  1,712\n  \n  80th\n  \n  TD\n  \n  8\n  \n  Tied-106th\n  \n  INT\n  \n  9\n  \n  Tied-111th\n  \n  QBR\n  \n  40\\.0\n  \n  105th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4870971/marcel-reed)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/4870971/marcel-reed)"
+          ],
+          "title": "Marcel Reed 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The ESPN matchup listing gives Texas A&M\u2019s pregame record as 4-7.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup listing identifies the home team as the Texas A&M Aggies.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule listing presents the Texas\u2013Texas A&M game as upcoming, after the stated current date of November 24, 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The ESPN matchup listing gives Texas as 9-2 overall and 6-2 in SEC play, and Texas A&M as 4-7 overall and 1-7 in SEC play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856756",
+          "excerpts": [
+            "* BAY\n  \n  6-5\n* 20\n  \n  HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\nNov 28\n\n12:30 AM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n[Texas A&M Aggies Texas A&M TA&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\n4-7 , 1-7 SEC\n\n## Texas Longhorns @ Texas A&M Aggies\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856756/texas-texas-am)"
+          ],
+          "title": "Texas vs. Texas A&M (Nov 27, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The recap says Texas beat Arkansas 45-3 and that it was the Longhorns\u2019 fifth consecutive win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "8 Texas beat Arkansas 45-3 on Saturday for the Longhorns' fifth consecutive win.\n\nManning completed 21 of 25 passes without a turnover before leaving the game after three quarters."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap reports Oklahoma\u2019s 28-7 win over Texas A&M; the SEC standings list Texas A&M with a four-game losing streak.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856752",
+          "excerpts": [
+            "# Mateer accounts for 4 touchdowns, Oklahoma smothers Texas A&M 28-7\n\n1:20\n\n## Texas A&M Aggies vs. Oklahoma Sooners: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 02:13 am\n\nFacebook Facebook Messenger Twitter Email\n\nNORMAN, Okla."
+          ],
+          "title": "Oklahoma 28-7 Texas A&M (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/standings/football/fbs/sec",
+          "excerpts": [
+            "PRESENTED BY ALL CONFERENCES AMERICAN CONFERENCE ATLANTIC COAST CONFERENCE BIG 12 CONFERENCE BIG TEN CONFERENCE CONFERENCE USA FBS INDEPENDENT MID-AMERICAN CONFERENCE MOUNTAIN WEST CONFERENCE PAC-12 CONFERENCE SOUTHEASTERN CONFERENCE SUN BELT CONFERENCE Last Updated Nov 22, 2026 08:52 AM EDT\n\nSEC\n\n|School |Conference | |Overall | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| |W |L |W |L |PF |PA |HOME |AWAY |STREAK |\n|Georgia |8 |1 |10 |1 |452 |153 |5-1 |4-0 |Won 4 |\n|Alabama |6 |2 |9 |2 |405 |189 |5-1 |4-1 |Won 4 |\n|Texas |6 |2 |9 |2 |347 |181 |6-1 |3-0 |Won 5 |\n|Tennessee |6 |2 |9 |2 |341 |156 |6-1 |3-1 |Won 3 |\n|Oklahoma |5 |3 |7 |4 |251 |197 |4-2 |2-2 |Won 3 |\n|Florida |5 |4 |7 |4 |347 |289 |4-2 |3-1 |Won 2 |",
+            "|2 |6 |5 |6 |279 |307 |3-4 |2-2 |Won 1 |\n|Arkansas |2 |6 |4 |7 |217 |298 |3-3 |1-4 |Lost 1 |\n|Texas A&M |1 |7 |4 |7 |249 |218 |4-2 |0-5 |Lost 4 |\n|Vanderbilt |1 |7 |4 |7 |240 |320 |3-3 |1-4 |Lost 2 |"
+          ],
+          "title": "NCAA College Football FBS Standings | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The source states that Texas A&M hosts Texas in the regular-season finale for both teams.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/49794580/texas-qb-marcel-reed-rips-texas-gotta-hate-them",
+          "excerpts": [
+            "Texas A&M will host Texas on Nov. 27 in the regular-season finale for both teams."
+          ],
+          "title": "Texas A&M QB Marcel Reed rips Texas: 'You gotta hate them' - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The Texas 2026 team-leader listing identifies Arch Manning and shows 2,485 passing yards and 21 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/stats/_/id/251/season/2026",
+          "excerpts": [
+            "# Texas Longhorns Player Stats 2026\n\n* [Players](https://www.espn.com/college-football/team/stats/_/id/251/season/2026)\n* [Team](https://www.espn.com/college-football/team/stats/_/type/team/id/251/season/2026)\n\n2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004\n\nTeam leaders\n\n[## Passing Yards Arch Manning ### Arch Manning QB 2,485](https://www.espn.com/college-football/player/_/id/4870906/arch-manning) [## Rushing Yards Raleek Brown ### Raleek Brown RB 585](https://www.espn.com/college-football/player/_/id/4685268/raleek-brown) [## Receiving Yards Ryan Wingo ### Ryan Wingo WR 659](https://www.espn.com/college-football/player"
+          ],
+          "title": "Texas Longhorns 2026 College Football Players Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The Texas A&M quarterback\u2019s 2026 stats listing identifies Marcel Reed and shows 1,712 passing yards and 8 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4870971/marcel-reed",
+          "excerpts": [
+            "# Marcel Reed\n\nTexas A&M Aggies\n\n* [Texas A&M Aggies](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n* \\#10\n* Quarterback QB\n\n* Class",
+            "Nashville, TN\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  1,712\n  \n  80th\n  \n  TD\n  \n  8\n  \n  Tied-106th\n  \n  INT\n  \n  9\n  \n  Tied-111th\n  \n  QBR\n  \n  40\\.0\n  \n  105th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4870971/marcel-reed)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/4870971/marcel-reed)"
+          ],
+          "title": "Marcel Reed 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Ready for a Texas clash? On Friday, No. 5 Texas Longhorns visit the Texas A&M Aggies in Texas. Texas is 9-2, and Texas A&M is 4-7. This is the last regular-season game for both teams! Watch Arch Manning: He has 2,485 passing yards and 21 TDs. Texas has won 5 straight.",
+    "big_words": [
+      {
+        "word": "clash",
+        "definition": "A contest between two sides.",
+        "example": "Nia watched a clash over the last cup at her lemonade stand."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask about this game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1123,
+        "output": 126
+      }
+    ]
+  }
+}

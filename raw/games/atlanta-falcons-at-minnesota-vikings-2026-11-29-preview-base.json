@@ -1,0 +1,271 @@
+{
+  "run_id": "trun_1714e31eeb204d3295bb992512ea31e7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 313.2,
+  "input": {
+    "away_team": "Atlanta Falcons",
+    "home_team": "Minnesota Vikings",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "3-7",
+    "away_team": "Atlanta Falcons",
+    "storyline": "Minnesota comes in at 7-3 after a 35-10 Week 11 loss and sits third in the NFC North, one game behind Detroit and Chicago. Atlanta is 3-7 and brings a three-game losing streak into the matchup.",
+    "matchup_notes": [
+      "Atlanta lost its last three games played: 0-16 to Tampa Bay, 17-34 to Cincinnati and 13-35 to Kansas City.",
+      "Minnesota lost 35-10 to San Francisco in Week 11, leaving the Vikings at 7-3.",
+      "Minnesota is third in the NFC North, one game behind the Lions and Bears."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "951 rushing yards, 6 rushing TD in 10 games",
+        "team": "Atlanta Falcons",
+        "name": "Bijan Robinson"
+      },
+      {
+        "stat_line": "442 passing yards, 2 passing TD in 2 games with Minnesota",
+        "team": "Minnesota Vikings",
+        "name": "Kirk Cousins"
+      }
+    ],
+    "home_record": "7-3",
+    "home_team": "Minnesota Vikings",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game-center listing gives Atlanta\u2019s record as 3-7, with 3 wins, 7 losses and 0 ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "3-7 3 wins, 7 losses, 0 ties"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game listing names the away team as the Atlanta Falcons.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Atlanta Falcons"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Week 11 report gives Minnesota\u2019s 10-35 loss and 7-3 record, and says the Vikings are third in the NFC North, a game behind Detroit and Chicago. The game-center recent-results listing shows Atlanta\u2019s three latest played games were losses.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 10 [Minnesota Vikings 7-3](https://www.nfl.com/teams/minnesota-vikings) SCORE 35 [San Francisco 49ers 9-1](https://www.nfl.com/teams/san-francisco-49ers) **REWATCH:** [Vikings-49ers on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807) [FULL BOX SCORE](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)",
+            "In an arduous NFC North, the Vikings are in third place, a game behind Lions and Bears, who defeated sub-.500 foes earlier Sunday."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[Week 10 Wk 10 vs versus Kansas City Chiefs Logo CHIEFS L Loss 35-13 35 to 13 points Watch Replay Replay Button]"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The recent-results listing supports Atlanta\u2019s three consecutive losses; the Week 11 report states Minnesota\u2019s result and record and its NFC North position relative to the Lions and Bears.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[Week 10 Wk 10 vs versus Kansas City Chiefs Logo CHIEFS L Loss 35-13 35 to 13 points Watch Replay Replay Button]"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 10 [Minnesota Vikings 7-3](https://www.nfl.com/teams/minnesota-vikings) SCORE 35 [San Francisco 49ers 9-1](https://www.nfl.com/teams/san-francisco-49ers) **REWATCH:** [Vikings-49ers on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807) [FULL BOX SCORE](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)",
+            "In an arduous NFC North, the Vikings are in third place, a game behind Lions and Bears, who defeated sub-.500 foes earlier Sunday."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The 2026 Falcons row lists Bijan Robinson with 951 rushing yards and 6 rushing touchdowns. The 2026 Vikings row lists Kirk Cousins with 442 passing yards and 2 passing touchdowns in two games for Minnesota.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bijan-robinson/stats/career",
+          "excerpts": [
+            "| 2026 | Atlanta Falcons | 10 | 185 | 951 | 5.1 | 59 | 6 | 48 | 26 | 9 | 2 |"
+          ],
+          "title": "Bijan Robinson Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/kirk-cousins/stats",
+          "excerpts": [
+            "| 2026 | Minnesota Vikings | 2 | 2 | 47 | 69 | 442 | 6.4 | 2 | 2 | 4 | 33 | 83.1 | 4 | 11 | 2.8 | 0 | 1 | 0"
+          ],
+          "title": "Kirk Cousins Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Week 11 score report identifies Minnesota\u2019s record as 7-3 after its game against San Francisco.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 10 [Minnesota Vikings 7-3](https://www.nfl.com/teams/minnesota-vikings) SCORE 35 [San Francisco 49ers 9-1](https://www.nfl.com/teams/san-francisco-49ers) **REWATCH:** [Vikings-49ers on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807) [FULL BOX SCORE](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game listing names the home team as the Minnesota Vikings.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Minnesota Vikings"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The game listing schedules this matchup for November 29, 2026. That date is after the stated current date of November 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/preview/_/gameId/401873084",
+          "excerpts": [
+            "## Game Information\n\n#### 6:00 PM, November 29, 2026\n\n#### U.S. Bank Stadium\n\nMinneapolis, MN\n\n#### Where to Watch\n\nFox\n\n## 2026 Standings\n\nNational Football Conference"
+          ],
+          "title": "Falcons vs. Vikings (Nov 29, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The recent-games listing shows losses to Tampa Bay, Cincinnati and Kansas City in Atlanta\u2019s last three games played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/falcons-at-vikings-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[Week 10 Wk 10 vs versus Kansas City Chiefs Logo CHIEFS L Loss 35-13 35 to 13 points Watch Replay Replay Button]"
+          ],
+          "title": "Atlanta Falcons at Minnesota Vikings 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 report lists the 10-35 result against San Francisco and Minnesota\u2019s 7-3 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 10 [Minnesota Vikings 7-3](https://www.nfl.com/teams/minnesota-vikings) SCORE 35 [San Francisco 49ers 9-1](https://www.nfl.com/teams/san-francisco-49ers) **REWATCH:** [Vikings-49ers on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807) [FULL BOX SCORE](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The report says Minnesota is third in the NFC North, a game behind the Lions and Bears.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "In an arduous NFC North, the Vikings are in third place, a game behind Lions and Bears, who defeated sub-.500 foes earlier Sunday."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 Atlanta Falcons row reports Robinson\u2019s 951 rushing yards and 6 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bijan-robinson/stats/career",
+          "excerpts": [
+            "| 2026 | Atlanta Falcons | 10 | 185 | 951 | 5.1 | 59 | 6 | 48 | 26 | 9 | 2 |"
+          ],
+          "title": "Bijan Robinson Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The 2026 Minnesota Vikings row reports Cousins\u2019s 442 passing yards and 2 passing touchdowns in two games with Minnesota.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/kirk-cousins/stats",
+          "excerpts": [
+            "| 2026 | Minnesota Vikings | 2 | 2 | 47 | 69 | 442 | 6.4 | 2 | 2 | 4 | 33 | 83.1 | 4 | 11 | 2.8 | 0 | 1 | 0"
+          ],
+          "title": "Kirk Cousins Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Vikings are 1 game behind the Lions and Bears in the NFC North. Minnesota is 7-3 and hosts the 3-7 Atlanta Falcons in Minnesota. Falcons runner Bijan Robinson has 951 rushing yards and 6 rushing touchdowns! Vikings quarterback Kirk Cousins has 442 passing yards and 2 passing touchdowns in 2 games. Watch for a lively matchup: Robinson against the Vikings!",
+    "big_words": [
+      {
+        "word": "lively",
+        "definition": "Full of energy and action.",
+        "example": "Grace made a lively splash at her swimming lesson."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1038,
+        "output": 235
+      }
+    ]
+  }
+}

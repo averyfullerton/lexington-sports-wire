@@ -1,0 +1,87 @@
+{
+  "name": "Evan McPherson",
+  "espn_id": "4360234",
+  "team": "Cincinnati Bengals",
+  "team_abbr": "CIN",
+  "number": "2",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": "Florida",
+  "experience": 6,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Evan made 12 field goals from 50 yards or more, an NFL record then.",
+    "He kicked winning field goals in both the AFC Divisional Round and AFC Championship Game.",
+    "Evan has a nickname: \u201cShooter.\u201d"
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2021",
+        "CIN",
+        "16",
+        "28-33",
+        "84.8",
+        "58",
+        "130"
+      ],
+      [
+        "2022",
+        "CIN",
+        "16",
+        "24-29",
+        "82.8",
+        "59",
+        "112"
+      ],
+      [
+        "2023",
+        "CIN",
+        "17",
+        "26-31",
+        "83.9",
+        "56",
+        "118"
+      ],
+      [
+        "2024",
+        "CIN",
+        "12",
+        "16-22",
+        "72.7",
+        "56",
+        "85"
+      ],
+      [
+        "2025",
+        "CIN",
+        "17",
+        "25-28",
+        "89.3",
+        "63",
+        "116"
+      ],
+      [
+        "2026",
+        "CIN",
+        "10",
+        "15-16",
+        "93.8",
+        "58",
+        "80"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "run_id": "trun_64eebd575c49450591e193a600ee6d83",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 252.8,
+  "input": {
+    "away_team": "New York Jets",
+    "home_team": "Los Angeles Chargers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "New York Jets",
+    "key_plays": [
+      "Q2 13:34: Breece Hall caught a 7-yard touchdown pass from Geno Smith.",
+      "Q2 3:07: Sterling Shepard caught an 8-yard touchdown pass from Geno Smith.",
+      "Q2 0:06: Justin Herbert ran 10 yards for a touchdown.",
+      "Q4 9:46: Sterling Shepard caught a 16-yard touchdown pass from Geno Smith.",
+      "Q4 1:58: Ladd McConkey caught a 6-yard touchdown pass from Justin Herbert."
+    ],
+    "away_score": 27,
+    "storyline": "The Jets snapped a five-game losing streak and improved to 3-8, while the Chargers fell to 1-9. Geno Smith threw three touchdown passes without an interception; it was his first win with at least three passing TDs and no interceptions since Week 18 of 2025.",
+    "top_performers": [
+      {
+        "stat_line": "17 of 21, 176 yards, 3 TD, 0 INT",
+        "team": "New York Jets",
+        "name": "Geno Smith"
+      },
+      {
+        "stat_line": "2 receptions, 24 yards, 2 TD",
+        "team": "New York Jets",
+        "name": "Sterling Shepard"
+      },
+      {
+        "stat_line": "5 receptions, 37 yards, 2 TD",
+        "team": "Los Angeles Chargers",
+        "name": "Ladd McConkey"
+      },
+      {
+        "stat_line": "20 carries, 86 yards; 3 receptions, 14 yards, 1 TD",
+        "team": "New York Jets",
+        "name": "Breece Hall"
+      },
+      {
+        "stat_line": "14 carries, 89 yards",
+        "team": "Los Angeles Chargers",
+        "name": "Omarion Hampton"
+      }
+    ],
+    "home_record_after": "1-9",
+    "tough_day": [
+      {
+        "stat_line": "15 of 21, 131 yards, 2 TD, 0 INT; sacked 6 times for 28 yards",
+        "team": "Los Angeles Chargers",
+        "name": "Justin Herbert"
+      }
+    ],
+    "away_record_after": "3-8",
+    "home_team": "Los Angeles Chargers",
+    "home_score": 24
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary labels the final score as 27\u201324, confirming the matchup reached a final result.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "27 24 **FINAL SCORE"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies New York Jets as the visitor, establishing the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New York Jets 3 14 3 7 0 27 HOME: Los Angeles Chargers 3 7 0 14 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary gives the Hall and Shepard touchdown passes and Shepard\u2019s fourth-quarter score with their quarter and time. The play-by-play records Herbert\u2019s 10-yard touchdown run at 0:06 in the second quarter; the scoring summary records McConkey\u2019s late fourth-quarter touchdown at 1:58.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jets B.Hall 7 yd. pass from G.Smith (J.Sanders kick) (13-70, 6:43) 10 3 2 13:34",
+            "Jets S.Shepard 8 yd. pass from G.Smith (J.Sanders kick) (11-70, 6:24) 17 3 2 3:07",
+            "**(:06) (Shotgun) J.Herbert right guard for 10 yards, TOUCHDOWN.** 3-10-NYJ 10 R11",
+            "Jets S.Shepard 16 yd. pass from G.Smith (J.Sanders kick) (6-62, 3:15) 27 17 4 9:46",
+            "Chargers L.McConkey 6 yd. pass from J.Herbert (C.Dicker kick) (16-63, 7:48) 27 24 4 1:58"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official final-score line lists 27 as the visitor\u2019s score; the summary identifies the visitor as the Jets.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "27 24 **FINAL SCORE"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap headline says the Jets snapped a five-game skid. The Week 11 recap lists the teams at 3-8 and 1-9, and its Geno Smith takeaway and research note report his three-TD, no-interception performance and the related milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873074",
+          "excerpts": [
+            "# Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid\n\n* * *\n\nBy AP\n\nNov 22, 2026, 07:03 pm\n\nFacebook Facebook Messenger Twitter Email\n\nINGLEWOOD, Calif."
+          ],
+          "title": "Jets 27-24 Chargers (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[New York Jets 3-8](https://www.nfl.com/teams/new-york-jets) SCORE 24 [Los Angeles Chargers 1-9](https://www.nfl.com/teams/los-angeles-chargers)",
+            "**Geno bounces back.** It's been a rough couple of weeks for the Jets and especially painful (quite literally) for [Geno Smith](https://www.nfl.com/players/geno-smith) , who has been under constant duress and taken more than his fair share of hits from opposing defenses amid the Jets' struggles. Sunday represented a respite. Smith was sharp and seemed to play with a sense of empowerment, making plays in and out of structure to help the Jets capitalize on a couple of 70-yard scoring marches. He was efficient, too -- which was especially important in a game that saw a total of 12 possessions and took just two hours and 40 minutes from start to finish -- completing 17 of 21 passes for 176 yards, three touchdowns and a passer rating of 141.2. It helps, of course, when a quarterback's ball carriers run 36 times for 161 yards, and it's also nice when a veteran elevated from the practice squad, [Sterling Shepard](https://www.nfl.com/players/sterling-shepard) , rediscovers his ability to find open spaces and make catches amid chaos for two touchdowns. Overall, it was nicest for Jets fans, who have spent too much of the 2026 season watching their Sundays end in disappointment.",
+            "**NFL Research:** Geno Smith had his first win with at least three passing touchdowns and no interceptions since his last game for the Seahawks in Week 18, 2025, against the Rams (which was also a win at SoFi Stadium)."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official box-score lines report Smith\u2019s passing numbers; Shepard\u2019s and McConkey\u2019s receiving touchdowns and yardage; Hall\u2019s rushing and receiving production; and Hampton\u2019s rushing totals. The official narrative also names Geno Smith, Sterling Shepard, and Ladd McConkey in its game takeaways.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Smith 176 3 21 17 1/0 0 141.2 J.Herbert 131 2 21 15 6/28 0 119.3 22 21",
+            "S.Shepard 24 12.0 2 2 2 C.Kolar 8 8.0 0 1 1 8 **16",
+            "G.Wilson 39 13.0 0 3 5 L.McConkey 37 7.4 2 5 8 **11** 19",
+            "B.Hall 86 4.3 0 20 26 O.Hampton 89 6.4 0 14 36",
+            "B.Hall 14 4.7 1 3 3 D.Njoku 21 10.5 0 2 4 13 **7**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The Week 11 recap identifies the Los Angeles Chargers with a 1-9 record after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Los Angeles Chargers 1-9](https://www.nfl.com/teams/los-angeles-chargers)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official box score lists Herbert\u2019s passing line and six sacks for 28 yards; the NFL recap also says he was sacked six times. The six sacks ground the tough-day entry.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Smith 176 3 21 17 1/0 0 141.2 J.Herbert 131 2 21 15 6/28 0 119.3 22 21"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Slow-moving Chargers fall in frustrating fashion.** It's Week 11, yet it remains abundantly clear that [Justin Herbert](https://www.nfl.com/players/justin-herbert) trusts very little of this offense, if anything or anyone at all. He's constantly quick to pull his eyes down and search for an escape route after dropping to pass, the element of surprise attached to his legs has disappeared, and the combination has crippled this entire offense. That reality makes for a grind of an offensive experience for Los Angeles, which included some peculiar play calls and generally poor execution. Sunday featured examples for each of these categories. A screen called late in the third quarter only went for a gain of 4 because right guard [Kayode Awosika](https://www.nfl.com/players/kayode-awosika) lollygagged his way through traffic (and was briefly held by a defender) before making a late attempt to get out in front of pass catcher [Omarion Hampton](https://www.nfl.com/players/omarion-hampton) . A fourth-quarter touchdown drive required 16 plays, ate up 7:48 of game clock and required a ticky-tack illegal hands to the face penalty to buy the Chargers an extra set of downs near the goal line before Herbert, who was announced to be in concussion protocol after the game, connected with [Ladd McConkey](https://www.nfl.com/players/ladd-mcconkey) for his [second score of the day.](https://www.nfl.com/videos/justin-herbert-locates-ladd-mcconkey-for-his-second-td-late-in-the-fourth) On that same drive, facing third-and-2 from the Jets' 43 in a 10-point game with seven minutes left in regulation, offensive coordinator Mike McDaniel dialed up a flea-flicker, resulting in a deep incompletion. It's a call you make when you know you're going for it on fourth down, but for an offense that finished with 261 yards in a low-possession contest, it was an odd-at-best choice if not entirely inexplicable, and the ensuing down required Jets rookie cornerback [D'Angelo Ponds](https://www.nfl.com/players/d-angelo-ponds) to give up on a play early to allow [Kimani Vidal](https://www.nfl.com/players/kimani-vidal) to barely cross the line to gain. Later in that drive, McDaniel directed Herbert to run a speed option out of the pistol to the short side of the field on first-and-goal from the Jets' 8. Yes, he called for a quarterback who had been hit all afternoon (he was sacked six times) to run an option toward the boundary, inside the final four minutes of a 10-point game. All of this is to express one overarching point: This team is incredibly frustrating to watch and seemingly unaware of why that's the case. Their nickname is Chargers -- represented by a lightning bolt, which is known to strike incredibly quickly -- but their pace is more fitting of a glacier."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The Week 11 recap identifies the New York Jets with a 3-8 record after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "[New York Jets 3-8](https://www.nfl.com/teams/new-york-jets)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary labels Los Angeles Chargers as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: New York Jets 3 14 3 7 0 27 HOME: Los Angeles Chargers 3 7 0 14 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official final-score line lists 24 as the home team\u2019s score; the summary identifies the home team as the Chargers.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "27 24 **FINAL SCORE"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Breece Hall\u2019s 7-yard touchdown reception from Geno Smith at 13:34 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jets B.Hall 7 yd. pass from G.Smith (J.Sanders kick) (13-70, 6:43) 10 3 2 13:34"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Sterling Shepard\u2019s 8-yard touchdown reception from Geno Smith at 3:07 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jets S.Shepard 8 yd. pass from G.Smith (J.Sanders kick) (11-70, 6:24) 17 3 2 3:07"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play records Herbert\u2019s 10-yard touchdown run with six seconds remaining in the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**(:06) (Shotgun) J.Herbert right guard for 10 yards, TOUCHDOWN.** 3-10-NYJ 10 R11"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Shepard\u2019s 16-yard touchdown reception at 9:46 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Jets S.Shepard 16 yd. pass from G.Smith (J.Sanders kick) (6-62, 3:15) 27 17 4 9:46"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records McConkey\u2019s 6-yard touchdown reception at 1:58 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chargers L.McConkey 6 yd. pass from J.Herbert (C.Dicker kick) (16-63, 7:48) 27 24 4 1:58"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box score reports Smith\u2019s 176 passing yards, 17 completions on 21 attempts, three touchdowns, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Smith 176 3 21 17 1/0 0 141.2 J.Herbert 131 2 21 15 6/28 0 119.3 22 21"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box-score receiving row lists Shepard with 24 yards and two touchdowns on two receptions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Shepard 24 12.0 2 2 2 C.Kolar 8 8.0 0 1 1 8 **16"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving row lists McConkey with 37 yards and two touchdowns on five receptions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Wilson 39 13.0 0 3 5 L.McConkey 37 7.4 2 5 8 **11** 19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The rushing row lists Hall with 86 yards on 20 carries; the receiving row lists 14 yards and a touchdown on three receptions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Hall 86 4.3 0 20 26 O.Hampton 89 6.4 0 14 36",
+            "B.Hall 14 4.7 1 3 3 D.Njoku 21 10.5 0 2 4 13 **7**"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The same box-score rushing row lists Omarion Hampton with 89 yards on 14 carries.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "B.Hall 86 4.3 0 20 26 O.Hampton 89 6.4 0 14 36"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official box score gives Herbert\u2019s passing totals and six sacks for 28 yards, and the NFL recap independently notes that he was sacked six times.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795391497/gamecenter/ab999e6f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "G.Smith 176 3 21 17 1/0 0 141.2 J.Herbert 131 2 21 15 6/28 0 119.3 22 21"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Slow-moving Chargers fall in frustrating fashion.** It's Week 11, yet it remains abundantly clear that [Justin Herbert](https://www.nfl.com/players/justin-herbert) trusts very little of this offense, if anything or anyone at all. He's constantly quick to pull his eyes down and search for an escape route after dropping to pass, the element of surprise attached to his legs has disappeared, and the combination has crippled this entire offense. That reality makes for a grind of an offensive experience for Los Angeles, which included some peculiar play calls and generally poor execution. Sunday featured examples for each of these categories. A screen called late in the third quarter only went for a gain of 4 because right guard [Kayode Awosika](https://www.nfl.com/players/kayode-awosika) lollygagged his way through traffic (and was briefly held by a defender) before making a late attempt to get out in front of pass catcher [Omarion Hampton](https://www.nfl.com/players/omarion-hampton) . A fourth-quarter touchdown drive required 16 plays, ate up 7:48 of game clock and required a ticky-tack illegal hands to the face penalty to buy the Chargers an extra set of downs near the goal line before Herbert, who was announced to be in concussion protocol after the game, connected with [Ladd McConkey](https://www.nfl.com/players/ladd-mcconkey) for his [second score of the day.](https://www.nfl.com/videos/justin-herbert-locates-ladd-mcconkey-for-his-second-td-late-in-the-fourth) On that same drive, facing third-and-2 from the Jets' 43 in a 10-point game with seven minutes left in regulation, offensive coordinator Mike McDaniel dialed up a flea-flicker, resulting in a deep incompletion. It's a call you make when you know you're going for it on fourth down, but for an offense that finished with 261 yards in a low-possession contest, it was an odd-at-best choice if not entirely inexplicable, and the ensuing down required Jets rookie cornerback [D'Angelo Ponds](https://www.nfl.com/players/d-angelo-ponds) to give up on a play early to allow [Kimani Vidal](https://www.nfl.com/players/kimani-vidal) to barely cross the line to gain. Later in that drive, McDaniel directed Herbert to run a speed option out of the pistol to the short side of the field on first-and-goal from the Jets' 8. Yes, he called for a quarterback who had been hit all afternoon (he was sacked six times) to run an option toward the boundary, inside the final four minutes of a 10-point game. All of this is to express one overarching point: This team is incredibly frustrating to watch and seemingly unaware of why that's the case. Their nickname is Chargers -- represented by a lightning bolt, which is known to strike incredibly quickly -- but their pace is more fitting of a glacier."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Geno Smith zips a 16-yard touchdown pass to Sterling Shepard! It is Shepard\u2019s second touchdown catch of the game. Breece Hall also grabs a touchdown pass from Smith. Justin Herbert runs for a Chargers touchdown and later finds Ladd McConkey for another. The Jets hold on for a thrilling 27-24 win in Los Angeles! They end a 5-game skid and improve to 3-8, while the Chargers fall to 1-9.",
+    "big_words": [
+      {
+        "word": "thrilling",
+        "definition": "Very exciting.",
+        "example": "Kofi had a thrilling race through puddles on a rainy day."
+      }
+    ],
+    "opener": "Start with the single biggest play, told as action, as if it is happening now.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1244,
+        "output": 139
+      }
+    ]
+  }
+}

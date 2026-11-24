@@ -1,0 +1,166 @@
+{
+  "run_id": "trun_1d63cf7e4268416e955eb8a0f9f28471",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 196.1,
+  "input": {
+    "player": "Cam Cook",
+    "team": "West Virginia Mountaineers",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Cam Cook is from Round Rock, Texas.",
+      "In West Virginia\u2019s 2026 season opener, he broke off a 72-yard run on the very first play from scrimmage. He finished the game with 142 rushing yards and two touchdowns.",
+      "In 2025, Cam Cook led the FBS in rushing yards with 1,659 and earned Conference USA MVP and All-America honors.",
+      "At TCU in 2024, he was the team\u2019s leading rusher, with 460 yards and nine touchdowns.",
+      "In 2026, Cook and quarterback Michael Hawkins Jr. each topped 1,000 rushing yards. They were West Virginia\u2019s first duo to do that since Pat White and Steve Slaton in 2006 and 2007."
+    ],
+    "high_school": "Stony Point High School",
+    "hometown": "Round Rock, Texas"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN recaps and report support the facts: the season-opening recap describes Cook\u2019s 72-yard first-play run and 142-yard, two-touchdown game; the 2025 report gives his rushing total and honors; the career summary notes his 2024 TCU rushing lead and totals; and the Houston recap describes the 2026 West Virginia rushing milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856780",
+          "excerpts": [
+            "At least they\u2019re set with two marquee positions on offense.\n\nCook ran 72 yards up the left sideline on the first play from scrimmage to set up his 3-yard TD run. The transfer from Jacksonville State, who led the nation with 1,659 rushing yards last season, went over 100 yards early in the second quarter."
+          ],
+          "title": "West Virginia 31-24 Coastal Carolina (Sep 5, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
+          "excerpts": [
+            "back [Cam Cook](https://www.espn.com/college-football/player/_/id/4918103/cam-cook) plans to enter the NCAA transfer portal, he announced Wednesday.\n\nCook, the current FBS rushing leader with 1,659 yards, earned Conference USA MVP and All-America honors in his lone season with the Gamecocks after transferring from TCU.\n\nThe 5-foot-11, 200-pound junior is expected to be one of the top running backs available when the portal officially opens on Jan. 2 and has one more year of eligibility.\n\nCook leads all FBS players in total yards from scrimmage with 1,945 yards, surpassing 100 total yards in all 13 games he played this season, and scored 16 touchdowns on the year for a Gamecocks squad that reached the CUSA title game.",
+            "The Round Rock, Texas, native began his career at TCU in 2023 and was the Horned Frogs' leading rusher in 2024 with 460 yards and nine touchdowns."
+          ],
+          "title": "Jacksonville State star RB Cam Cook plans to enter portal - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856868",
+          "excerpts": [
+            "West Virginia's [Cam Cook](http://www.espn.com/college-football/player/_/id/4918103/cam-cook) ran for 131 yards, including an 8-yard TD run, and West Virginia had 329 yards on the ground, the fourth time this season the Mountaineers have surpassed 300 yards.\n\nHawkins achieves a milestone\n\nHawkins became the first West Virginia quarterback to throw for 2,000 yards and rush for 1,000 yards in a season. He finished with 98 yards on the ground and now has 1,055.\n\nHawkins and Cook, who has 1,215 rushing yards, are the first West Virginia duo to surpass 1,000 in a season since quarterback Pat White and running back Steve Slaton did it in both in 2006 and 2007."
+          ],
+          "title": "Houston 34-31 West Virginia (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting list identifies Cameron Cook from Round Rock, Texas, as a Stony Point High School player. The name and career details align with Cam Cook\u2019s TCU background, supporting Stony Point as his high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/school/_/id/2628/class/2023/page/visits",
+          "excerpts": [
+            "-fontenette) |12/09/2022 |Freeport, TX Brazosport High School |6'2'' |195 |* |80 |TCU Signed |\n|[**Cameron Cook**](https://www.espn.com/college-sports/football/recruiting/player/_/id/249856/cameron-cook) Video | [Scouts Report](https://insider.espn.com/college-sports/football/recruiting/player/evaluation/_/id/249856/cameron-cook) |06/10/2022 |Round Rock, TX Stony Point High School |5'10'' |180 |* |80 |TCU Signed |"
+          ],
+          "title": "College Football Recruiting Classes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN report explicitly calls Cam Cook a Round Rock, Texas, native.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
+          "excerpts": [
+            "The Round Rock, Texas, native began his career at TCU in 2023 and was the Horned Frogs' leading rusher in 2024 with 460 yards and nine touchdowns."
+          ],
+          "title": "Jacksonville State star RB Cam Cook plans to enter portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "This passage identifies Round Rock, Texas, as Cook\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
+          "excerpts": [
+            "The Round Rock, Texas, native began his career at TCU in 2023 and was the Horned Frogs' leading rusher in 2024 with 460 yards and nine touchdowns."
+          ],
+          "title": "Jacksonville State star RB Cam Cook plans to enter portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap states that Cook ran 72 yards on the first play from scrimmage and finished with 142 rushing yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856780",
+          "excerpts": [
+            "At least they\u2019re set with two marquee positions on offense.\n\nCook ran 72 yards up the left sideline on the first play from scrimmage to set up his 3-yard TD run. The transfer from Jacksonville State, who led the nation with 1,659 rushing yards last season, went over 100 yards early in the second quarter."
+          ],
+          "title": "West Virginia 31-24 Coastal Carolina (Sep 5, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The report says Cook rushed for 1,659 yards, led the FBS, and earned Conference USA MVP and All-America honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
+          "excerpts": [
+            "back [Cam Cook](https://www.espn.com/college-football/player/_/id/4918103/cam-cook) plans to enter the NCAA transfer portal, he announced Wednesday.\n\nCook, the current FBS rushing leader with 1,659 yards, earned Conference USA MVP and All-America honors in his lone season with the Gamecocks after transferring from TCU.\n\nThe 5-foot-11, 200-pound junior is expected to be one of the top running backs available when the portal officially opens on Jan. 2 and has one more year of eligibility.\n\nCook leads all FBS players in total yards from scrimmage with 1,945 yards, surpassing 100 total yards in all 13 games he played this season, and scored 16 touchdowns on the year for a Gamecocks squad that reached the CUSA title game."
+          ],
+          "title": "Jacksonville State star RB Cam Cook plans to enter portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The report states that Cook was TCU\u2019s leading rusher in 2024 with 460 yards and nine touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47408021/jacksonville-state-star-rb-cam-cook-plans-enter-portal",
+          "excerpts": [
+            "The Round Rock, Texas, native began his career at TCU in 2023 and was the Horned Frogs' leading rusher in 2024 with 460 yards and nine touchdowns."
+          ],
+          "title": "Jacksonville State star RB Cam Cook plans to enter portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The recap says Cook and quarterback Michael Hawkins Jr. each passed 1,000 rushing yards, making them the first West Virginia duo to do so since Pat White and Steve Slaton in 2006 and 2007.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856868",
+          "excerpts": [
+            "West Virginia's [Cam Cook](http://www.espn.com/college-football/player/_/id/4918103/cam-cook) ran for 131 yards, including an 8-yard TD run, and West Virginia had 329 yards on the ground, the fourth time this season the Mountaineers have surpassed 300 yards.\n\nHawkins achieves a milestone\n\nHawkins became the first West Virginia quarterback to throw for 2,000 yards and rush for 1,000 yards in a season. He finished with 98 yards on the ground and now has 1,055.\n\nHawkins and Cook, who has 1,215 rushing yards, are the first West Virginia duo to surpass 1,000 in a season since quarterback Pat White and running back Steve Slaton did it in both in 2006 and 2007."
+          ],
+          "title": "Houston 34-31 West Virginia (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

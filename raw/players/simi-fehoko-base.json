@@ -1,0 +1,165 @@
+{
+  "run_id": "trun_415f3f698c1f435bba6a58d8328a7d95",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 41.4,
+  "input": {
+    "player": "Simi Fehoko",
+    "team": "Arizona Cardinals",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Stanford",
+    "fun_facts": [
+      "Simi Fehoko\u2019s hometown is Sandy, Utah.",
+      "As a redshirt freshman, Simi Fehoko averaged 23.6 yards per catch, gaining 566 yards on 24 receptions\u2014a school record for that average.",
+      "In his final Stanford game, Simi Fehoko caught 16 passes for 230 yards and three touchdowns. The catches set a school record, and the yardage was the third-highest total in program history.",
+      "Simi Fehoko was named first-team All-Pac-12 by The Associated Press in 2020 after catching 37 passes for 584 yards and three touchdowns in six games.",
+      "Simi Fehoko finished his Stanford career with 62 catches, 1,146 receiving yards, and nine touchdowns in 22 games."
+    ],
+    "draft": "2021, round 5, pick 179"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies Stanford as Simi Fehoko\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360739/simi-fehoko",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 4\", 225 lbs\n\nBirthdate 11/5/1997 (29)\n\nCollege [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n\nDraft Info 2021: Rd 5, Pk 179 (DAL)"
+          ],
+          "title": "Simi Fehoko Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The NFL.com profile gives his hometown. NFL.com\u2019s draft-prospect article states his redshirt-freshman receiving average and totals. ESPN\u2019s account of his Stanford career documents his final-game record and statistics, his 2020 All-Pac-12 season, and his career totals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/simi-fehoko",
+          "excerpts": [
+            "# Simi Fehoko Stats, News and Video - WR | NFL.com\n\n# Simi Fehoko\n\nWR \u2022 \\#80\n\n[Arizona Cardinals](https://www.nfl.com/teams/arizona-cardinals/)\n\n### active\n\n* [Info](https://www.nfl.com/players/simi-fehoko/)\n* [Stats](https://www.nfl.com/players/simi-fehoko/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-4\n* Weight\n  \n  225\n* Arms\n  \n  31 3/4\n* Hands\n  \n  10 1/4\n\n* Experience\n  \n  6\n* College\n  \n  Stanford\n* Age\n  \n  29\n* Hometown\n  \n  Sandy, UT\n\n## Related Content - Articles"
+          ],
+          "title": "Simi Fehoko Stats, News and Video - WR | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2021-nfl-draft-sleepers-day-2-standouts-day-3-hidden-gems",
+          "excerpts": [
+            "However, a closer look at his efficiency metrics tells a more nuanced story. Fehoko set a school record as a redshirt freshman, averaging 23.6 yards per reception (566 yards on 24 catches)."
+          ],
+          "title": "2021 NFL Draft sleepers: Day 2 standouts, Day 3 hidden gems | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30613049/stanford-cardinal-wr-simi-fehoko-declares-nfl-draft",
+          "excerpts": [
+            "# Stanford Cardinal WR Simi Fehoko declares for NFL draft\n\n* AP\n\nDec 28, 2020, 12:41 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Stanford%20Cardinal%20WR%20Simi%20Fehoko%20declares%20for%20NFL%20draft&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F30613049)\n* [Print](https://www.espn.com/espn/print?id=30613049)\n\nOpen Extended Reactions\n\nSTANFORD, Calif. -- Stanford wide receiver [Simi Fehoko](https://www.espn.com/college-football/player/_/id/4360739/simi-fehoko) is skipping his senior season to enter the NFL draft.\n\nFehoko finished his Stanford career with 62 receptions for 1,146 yards and nine touchdowns in 22 games. He was named a first-team All-Pac-12 player this season by The Associated Press after catching 37 passes for 584 yards and three TDs in six games.\n\nFehoko caught a school-record 16 passes for 230 yards and three touchdowns in his final game when the Cardinal beat UCLA in double overtime at the Rose Bowl.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Stanford Cardinal WR Simi Fehoko declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography lists his draft information as 2021, round 5, pick 179, for Dallas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360739/simi-fehoko",
+          "excerpts": [
+            "Position Wide Receiver\n\nHT/WT 6' 4\", 225 lbs\n\nBirthdate 11/5/1997 (29)\n\nCollege [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal)\n\nDraft Info 2021: Rd 5, Pk 179 (DAL)"
+          ],
+          "title": "Simi Fehoko Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL.com profile lists Sandy, Utah, as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/simi-fehoko",
+          "excerpts": [
+            "# Simi Fehoko Stats, News and Video - WR | NFL.com\n\n# Simi Fehoko\n\nWR \u2022 \\#80\n\n[Arizona Cardinals](https://www.nfl.com/teams/arizona-cardinals/)\n\n### active\n\n* [Info](https://www.nfl.com/players/simi-fehoko/)\n* [Stats](https://www.nfl.com/players/simi-fehoko/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-4\n* Weight\n  \n  225\n* Arms\n  \n  31 3/4\n* Hands\n  \n  10 1/4\n\n* Experience\n  \n  6\n* College\n  \n  Stanford\n* Age\n  \n  29\n* Hometown\n  \n  Sandy, UT\n\n## Related Content - Articles"
+          ],
+          "title": "Simi Fehoko Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL.com article states that, as a redshirt freshman, he averaged 23.6 yards per reception on 24 catches for 566 yards and set a school record for that average.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2021-nfl-draft-sleepers-day-2-standouts-day-3-hidden-gems",
+          "excerpts": [
+            "However, a closer look at his efficiency metrics tells a more nuanced story. Fehoko set a school record as a redshirt freshman, averaging 23.6 yards per reception (566 yards on 24 catches)."
+          ],
+          "title": "2021 NFL Draft sleepers: Day 2 standouts, Day 3 hidden gems | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports his 16-catch, 230-yard, three-touchdown final game and notes that the catches set a school record while the yardage ranked third in program history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30613049/stanford-cardinal-wr-simi-fehoko-declares-nfl-draft",
+          "excerpts": [
+            "# Stanford Cardinal WR Simi Fehoko declares for NFL draft\n\n* AP\n\nDec 28, 2020, 12:41 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Stanford%20Cardinal%20WR%20Simi%20Fehoko%20declares%20for%20NFL%20draft&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F30613049)\n* [Print](https://www.espn.com/espn/print?id=30613049)\n\nOpen Extended Reactions\n\nSTANFORD, Calif. -- Stanford wide receiver [Simi Fehoko](https://www.espn.com/college-football/player/_/id/4360739/simi-fehoko) is skipping his senior season to enter the NFL draft.\n\nFehoko finished his Stanford career with 62 receptions for 1,146 yards and nine touchdowns in 22 games. He was named a first-team All-Pac-12 player this season by The Associated Press after catching 37 passes for 584 yards and three TDs in six games.\n\nFehoko caught a school-record 16 passes for 230 yards and three touchdowns in his final game when the Cardinal beat UCLA in double overtime at the Rose Bowl.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Stanford Cardinal WR Simi Fehoko declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN states that he earned first-team All-Pac-12 recognition from The Associated Press after recording 37 catches, 584 yards, and three touchdowns in six games in 2020.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30613049/stanford-cardinal-wr-simi-fehoko-declares-nfl-draft",
+          "excerpts": [
+            "# Stanford Cardinal WR Simi Fehoko declares for NFL draft\n\n* AP\n\nDec 28, 2020, 12:41 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Stanford%20Cardinal%20WR%20Simi%20Fehoko%20declares%20for%20NFL%20draft&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F30613049)\n* [Print](https://www.espn.com/espn/print?id=30613049)\n\nOpen Extended Reactions\n\nSTANFORD, Calif. -- Stanford wide receiver [Simi Fehoko](https://www.espn.com/college-football/player/_/id/4360739/simi-fehoko) is skipping his senior season to enter the NFL draft.\n\nFehoko finished his Stanford career with 62 receptions for 1,146 yards and nine touchdowns in 22 games. He was named a first-team All-Pac-12 player this season by The Associated Press after catching 37 passes for 584 yards and three TDs in six games.\n\nFehoko caught a school-record 16 passes for 230 yards and three touchdowns in his final game when the Cardinal beat UCLA in double overtime at the Rose Bowl.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Stanford Cardinal WR Simi Fehoko declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN gives his Stanford career totals as 62 receptions, 1,146 yards, and nine touchdowns over 22 games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30613049/stanford-cardinal-wr-simi-fehoko-declares-nfl-draft",
+          "excerpts": [
+            "# Stanford Cardinal WR Simi Fehoko declares for NFL draft\n\n* AP\n\nDec 28, 2020, 12:41 PM ET\n\n* Copy Link\n* [Email](mailto:?subject=Stanford%20Cardinal%20WR%20Simi%20Fehoko%20declares%20for%20NFL%20draft&body=https%3A%2F%2Fwww.espn.com%2Fcollege%2Dfootball%2Fstory%2F_%2Fid%2F30613049)\n* [Print](https://www.espn.com/espn/print?id=30613049)\n\nOpen Extended Reactions\n\nSTANFORD, Calif. -- Stanford wide receiver [Simi Fehoko](https://www.espn.com/college-football/player/_/id/4360739/simi-fehoko) is skipping his senior season to enter the NFL draft.\n\nFehoko finished his Stanford career with 62 receptions for 1,146 yards and nine touchdowns in 22 games. He was named a first-team All-Pac-12 player this season by The Associated Press after catching 37 passes for 584 yards and three TDs in six games.\n\nFehoko caught a school-record 16 passes for 230 yards and three touchdowns in his final game when the Cardinal beat UCLA in double overtime at the Rose Bowl.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Stanford Cardinal WR Simi Fehoko declares for NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

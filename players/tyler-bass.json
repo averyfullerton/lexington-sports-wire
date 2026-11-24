@@ -1,0 +1,87 @@
+{
+  "name": "Tyler Bass",
+  "espn_id": "3917232",
+  "team": "Buffalo Bills",
+  "team_abbr": "BUF",
+  "number": "16",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": "Georgia Southern",
+  "experience": 7,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Tyler kicked a 61-yard field goal for a Buffalo Bills record.",
+    "Tyler made all 51 of his extra points in the 2021 regular season.",
+    "In college, Tyler kicked a 37-yard field goal in the second overtime."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2020",
+        "BUF",
+        "16",
+        "28-34",
+        "82.4",
+        "58",
+        "141"
+      ],
+      [
+        "2021",
+        "BUF",
+        "17",
+        "28-32",
+        "87.5",
+        "57",
+        "135"
+      ],
+      [
+        "2022",
+        "BUF",
+        "16",
+        "27-31",
+        "87.1",
+        "56",
+        "129"
+      ],
+      [
+        "2023",
+        "BUF",
+        "17",
+        "24-29",
+        "82.8",
+        "54",
+        "121"
+      ],
+      [
+        "2024",
+        "BUF",
+        "17",
+        "24-29",
+        "82.8",
+        "61",
+        "131"
+      ],
+      [
+        "2026",
+        "BUF",
+        "10",
+        "24-25",
+        "96.0",
+        "56",
+        "101"
+      ]
+    ]
+  }
+}

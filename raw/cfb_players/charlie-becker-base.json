@@ -1,0 +1,180 @@
+{
+  "run_id": "trun_1d63cf7e4268416e81d5936d5a42ac0f",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 97.5,
+  "input": {
+    "player": "Charlie Becker",
+    "team": "Indiana Hoosiers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In middle school, Charlie Becker\u2019s father coached him and had him play with older kids; he recognized that Charlie was a natural receiver.",
+      "At Father Ryan, Becker was fast: his coach said he usually ran the 40-yard dash in 4.4 seconds and sometimes clocked below 4.3.",
+      "Against Howard in 2026, Becker caught three touchdown passes on just three receptions.",
+      "A touchdown against Washington in 2026 pushed Becker past 1,000 receiving yards for the season. He became the eighth Hoosier to reach that mark, and the first since 2019.",
+      "In 2025, 85.3% of Becker\u2019s catches went for a first down or touchdown\u2014the best rate among Power 4 receivers, according to ESPN Research."
+    ],
+    "high_school": "Father Ryan High School",
+    "hometown": "Nashville, Tennessee"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support each fact: Becker\u2019s father coached him with older children and recognized his receiving ability; his high-school coach described his 40-yard speed; a 2026 recap reports three touchdowns on three catches against Howard; the Washington recap records his 1,000-yard milestone; and ESPN Research gives his 2025 first-down-or-touchdown catch rate.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50186627/charlie-becker-new-face-indiana",
+          "excerpts": [
+            "Dave, who coached the boys in middle school, always had Charlie play with older kids, and recognized his younger son was a natural receiver.",
+            "Brian Rector, the football coach at Father Ryan when Becker played, said Becker ran a 4.4 in the 40-yard dash for most of high school, but Rector clocked him a few times under 4.3."
+          ],
+          "title": "Charlie Becker went from three-star to the face of Indiana - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49895966/2026-college-football-power-rankings-top-25",
+          "excerpts": [
+            "Wide receiver [Charlie Becker](https://www.espn.com/college-football/player/_/id/5146735/charlie-becker) continued his strong start with three touchdowns on three catches, and an Indiana defense that struggled for stretches against [North Texas](https://www.espn.com/college-football/team/_/id/249/north-texas-mean-green) held Howard to no points, 57 yards and four first downs."
+          ],
+          "title": "2026 Power Rankings: Everything we learned from the Top 25 in Week 2 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858535",
+          "excerpts": [
+            "The fifth-year senior finished 7 for 13 for 121 yards, while receiver [Charlie Becker](http://www.espn.com/college-football/player/_/id/5146735/charlie-becker) had six catches for 167 yards and a touchdown on the Hoosiers\u2019 first offensive plays.\n\nThe takeaway\n\nIndiana: Becker\u2019s early touchdown pushed him over the 1,000-yard mark, making him the eighth Hoosier to surpass 1,000 yards in a season and the first since Whop Philyor in 2019. Ernie Jones holds the program record with 1,265 yards receiving in 1987."
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48992931/ranking-top-10-receivers-college-football-2026",
+          "excerpts": [
+            "Becker picked up first downs or touchdowns on 85.3% of his catches last season, best among all Power 4 receivers, according to ESPN Research."
+          ],
+          "title": "Ranking top 10 receivers in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The passage identifies Father Ryan in Nashville as the high school Becker attended.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50186627/charlie-becker-new-face-indiana",
+          "excerpts": [
+            "He attended high school at Father Ryan in Nashville, which plays other notable private schools such as Brentwood Academy, Lipscomb Academy and Baylor (where Peyton Manning's son currently plays)."
+          ],
+          "title": "Charlie Becker went from three-star to the face of Indiana - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN\u2019s player biography lists Becker\u2019s birthplace as Nashville, TN, and the feature describes him as a Nashville native and identifies him as being from Tennessee, supporting Nashville, Tennessee as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5146735/charlie-becker",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Charlie Becker\n\nIndiana Hoosiers\n\n* [Indiana Hoosiers](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n* \\#80\n* Wide Receiver WR\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 4\", 208 lbs\n* Birthplace\n  \n  Nashville, TN\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 4\", 208 lbs\n* Birthplace\n  \n  Nashville, TN\n* Status\n  \n  Active"
+          ],
+          "title": "Charlie Becker Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50186627/charlie-becker-new-face-indiana",
+          "excerpts": [
+            "In June, he committed to Indiana and coach Tom Allen. ESPN rated the Nashville native as the No. 185 wide receiver and No. 45 prospect from Tennessee."
+          ],
+          "title": "Charlie Becker went from three-star to the face of Indiana - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Becker\u2019s father coached him in middle school, had him play with older children, and recognized his natural ability as a receiver.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50186627/charlie-becker-new-face-indiana",
+          "excerpts": [
+            "Dave, who coached the boys in middle school, always had Charlie play with older kids, and recognized his younger son was a natural receiver."
+          ],
+          "title": "Charlie Becker went from three-star to the face of Indiana - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "Becker\u2019s Father Ryan coach said he commonly ran a 4.4-second 40-yard dash and was timed below 4.3 seconds a few times.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50186627/charlie-becker-new-face-indiana",
+          "excerpts": [
+            "Brian Rector, the football coach at Father Ryan when Becker played, said Becker ran a 4.4 in the 40-yard dash for most of high school, but Rector clocked him a few times under 4.3."
+          ],
+          "title": "Charlie Becker went from three-star to the face of Indiana - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The 2026 Howard recap says Becker scored three touchdowns on three catches.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49895966/2026-college-football-power-rankings-top-25",
+          "excerpts": [
+            "Wide receiver [Charlie Becker](https://www.espn.com/college-football/player/_/id/5146735/charlie-becker) continued his strong start with three touchdowns on three catches, and an Indiana defense that struggled for stretches against [North Texas](https://www.espn.com/college-football/team/_/id/249/north-texas-mean-green) held Howard to no points, 57 yards and four first downs."
+          ],
+          "title": "2026 Power Rankings: Everything we learned from the Top 25 in Week 2 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Washington recap states that Becker\u2019s touchdown took him over 1,000 receiving yards, making him the eighth Hoosier to do so and the first since 2019.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858535",
+          "excerpts": [
+            "The fifth-year senior finished 7 for 13 for 121 yards, while receiver [Charlie Becker](http://www.espn.com/college-football/player/_/id/5146735/charlie-becker) had six catches for 167 yards and a touchdown on the Hoosiers\u2019 first offensive plays.\n\nThe takeaway\n\nIndiana: Becker\u2019s early touchdown pushed him over the 1,000-yard mark, making him the eighth Hoosier to surpass 1,000 yards in a season and the first since Whop Philyor in 2019. Ernie Jones holds the program record with 1,265 yards receiving in 1987."
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage reports that 85.3% of Becker\u2019s 2025 catches resulted in a first down or touchdown, the best rate among Power 4 receivers.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48992931/ranking-top-10-receivers-college-football-2026",
+          "excerpts": [
+            "Becker picked up first downs or touchdowns on 85.3% of his catches last season, best among all Power 4 receivers, according to ESPN Research."
+          ],
+          "title": "Ranking top 10 receivers in college football for 2026 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

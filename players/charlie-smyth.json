@@ -8,6 +8,9 @@
   "position_abbr": "PK",
   "college": null,
   "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Charlie made a 56-yard field goal and an onside kick in his NFL debut.",
     "Charlie first kicked an American football in August 2023.",
@@ -37,11 +40,11 @@
       [
         "2026",
         "NO",
-        "2",
-        "4-5",
-        "80.0",
-        "55",
-        "16"
+        "3",
+        "6-8",
+        "75.0",
+        "56",
+        "23"
       ]
     ]
   }

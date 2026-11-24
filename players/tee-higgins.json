@@ -1,0 +1,96 @@
+{
+  "name": "Tee Higgins",
+  "espn_id": "4239993",
+  "team": "Cincinnati Bengals",
+  "team_abbr": "CIN",
+  "number": "5",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Clemson",
+  "experience": 7,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Tee scored a touchdown in college when Clemson won the national championship.",
+    "Tee had 27 receiving touchdowns in college, tying the school record.",
+    "Tee scored three touchdowns in the ACC Championship Game in college and was MVP."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2020",
+        "CIN",
+        "16",
+        "67",
+        "908",
+        "6",
+        "67"
+      ],
+      [
+        "2021",
+        "CIN",
+        "14",
+        "74",
+        "1,091",
+        "6",
+        "54"
+      ],
+      [
+        "2022",
+        "CIN",
+        "16",
+        "74",
+        "1,029",
+        "7",
+        "59"
+      ],
+      [
+        "2023",
+        "CIN",
+        "12",
+        "42",
+        "656",
+        "5",
+        "80"
+      ],
+      [
+        "2024",
+        "CIN",
+        "12",
+        "73",
+        "911",
+        "10",
+        "42"
+      ],
+      [
+        "2025",
+        "CIN",
+        "15",
+        "59",
+        "846",
+        "11",
+        "44"
+      ],
+      [
+        "2026",
+        "CIN",
+        "10",
+        "55",
+        "867",
+        "7",
+        "44"
+      ]
+    ]
+  }
+}

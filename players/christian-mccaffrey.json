@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Stanford",
   "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Christian played running back, defensive back, and punter in high school.",
     "Christian set a Rose Bowl record with 368 all-purpose yards against Iowa.",
@@ -127,11 +130,11 @@
       [
         "2026",
         "SF",
-        "9",
-        "115",
-        "519",
+        "10",
+        "127",
+        "568",
         "4.5",
-        "10"
+        "11"
       ]
     ]
   }

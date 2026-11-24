@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Indiana",
   "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Fernando was the first Indiana Hoosier to win the Heisman Trophy.",
     "Fernando helped Indiana go 16-0 and win the national championship.",
@@ -29,12 +32,12 @@
       [
         "2026",
         "LV",
-        "2",
-        "23",
-        "37",
-        "191",
-        "0",
-        "0"
+        "3",
+        "41",
+        "74",
+        "458",
+        "3",
+        "1"
       ]
     ]
   }

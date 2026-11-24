@@ -1,0 +1,498 @@
+{
+  "run_id": "trun_64eebd575c494505acb1a8fdfd00ebb7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 258.3,
+  "input": {
+    "away_team": "Tampa Bay Buccaneers",
+    "home_team": "Detroit Lions",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Tampa Bay Buccaneers",
+    "key_plays": [
+      "Q2 10:37: Amon-Ra St. Brown 14-yard TD catch from Jared Goff.",
+      "Q3 9:01: Jared Goff hit Jameson Williams for a 57-yard touchdown.",
+      "Q3 2:41: Bucky Irving scored on a 1-yard run.",
+      "Q4 5:24: Jahmyr Gibbs scored on a 1-yard run.",
+      "Q4 1:55: Jahmyr Gibbs added a 4-yard rushing touchdown."
+    ],
+    "away_score": 21,
+    "storyline": "Detroit extended its winning streak to six games, improving to 8-2 and 6-0 at home. Tampa Bay fell to 3-7.",
+    "top_performers": [
+      {
+        "stat_line": "20/28, 279 yards, 2 TD, 0 INT",
+        "team": "Detroit Lions",
+        "name": "Jared Goff"
+      },
+      {
+        "stat_line": "26 carries, 98 yards, 2 TD; 4 receptions, 20 yards",
+        "team": "Detroit Lions",
+        "name": "Jahmyr Gibbs"
+      },
+      {
+        "stat_line": "4 receptions, 93 yards, 1 TD",
+        "team": "Detroit Lions",
+        "name": "Jameson Williams"
+      },
+      {
+        "stat_line": "5 receptions, 56 yards, 2 TD",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Ted Hurst III"
+      },
+      {
+        "stat_line": "18 carries, 68 yards, 1 TD; 3 receptions, 32 yards",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Bucky Irving"
+      }
+    ],
+    "home_record_after": "8-2",
+    "tough_day": [
+      {
+        "stat_line": "20/33, 187 yards, 0 TD, 0 INT; sacked 4 times for 33 yards",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Baker Mayfield"
+      }
+    ],
+    "away_record_after": "3-7",
+    "home_team": "Detroit Lions",
+    "home_score": 31
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary identifies the visitor and home teams and records their quarter-by-quarter scoring and totals, establishing that the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tampa Bay Buccaneers 0 7 7 7 0 21 HOME: Detroit Lions 0 10 7 14 0 31 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary names Tampa Bay Buccaneers as the visitor at Detroit Lions.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Tampa Bay Buccaneers at Detroit Lions** Start Time: 1:03 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring-play table lists the scoring plays with their quarters, times, players, and descriptions; the selected five plays are listed in game order.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Lions A.St. Brown 14 yd. pass from J.Goff (J.Bates kick) (14-90, 7:22) 0 7 2 10:37 Lions J.Bates 56 yd. Field Goal (7-48, 3:38) 0 10 2 1:48 Buccaneers T.Hurst 23 yd. pass from B.Mayfield (C.McLaughlin kick) (9-65, 1:44) 7 10 2 0:04 Lions J.Williams 57 yd. pass from J.Goff (J.Bates kick) (6-83, 2:55) 7 17 3 9:01 Buccaneers B.Irving 1 yd. run (C.McLaughlin kick) (12-70, 6:20) 14 17 3 2:41 Lions J.Gibbs 1 yd. run (J.Bates kick) (9-59, 4:52) 14 24 4 5:24 Lions J.Gibbs 4 yd. run (J.Bates kick) (6-34, 1:21) 14 31 4 1:55 Buccaneers T.Hurst 4 yd. pass from B.Mayfield (C.McLaughlin kick) (7-65, 1:47) 21 31 4 0:08"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official summary's visitor line gives Tampa Bay's quarter scores and 21-point total.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tampa Bay Buccaneers 0 7 7 7 0 21 HOME: Detroit Lions 0 10 7 14 0 31 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap headline says Detroit's win was its sixth straight; the official Lions page lists the final and Detroit's 8-2 record, while the ESPN game result lists the Lions at 6-0 at home and Tampa Bay at 3-7.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Jameson Williams front-flips across goal line to cap Goff's launch\")\n\n### Schedule\n\n#### PREVIOUS GAME - Sun November 22, 2026\n\nFINAL \\-- TB Buccaneers (3-7) \\-- DET Lions (8-2)\n\n|Week |Date |Game |Time |\n| --- | --- | --- | --- |\n|REG 12 |11/26 |vs Bears |1:00 PM EST |\n|REG 13 |12/06 |@ Falcons |1:00 PM EST |\n|REG 14 |12/13 |vs Titans |1:00 PM EST |"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official NFL individual-statistics table contains the game's passing, rushing, and receiving figures. The recap identifies Goff and Gibbs by full name; individual list entries below cite the relevant player statistics and name evidence.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Irving 68 3.8 1 18 23 J.Gibbs 98 4.3 2 23 26 B.Mayfield 36 6.0 0 6 14 J.Goff 12 2.4 0 5 10 K.Gainwell 16 4.0 0 4 14 S.Vaki -1 -1.0 0 1 -1 28 120 4.3 23 1 Total 29 109 3.8 26 2 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** B.Mayfield 187 2 33 20 4/33 0 96.4 J.Goff 279 2 28 20 1/2 0 126.9 **57 23** 28 279 2 20 1/2 0 126.9 20 187 2 33 4/33 0 96.4 Total Total 57 23 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.Hurst 56 11.2 2 5 7 A.St. Brown 37 7.4 1 5 6 **14 23** K.Gainwell 43 10.8 0 4 5 J.Williams 93 23.3 1 4 4 **57** 16 B.Irving 32 10.7 0 3 4 J.Gibbs 20 5.0 0 4 5 10 16 C.Godwin 13 4.3 0 3 3 S.LaPorta 62 20.7 0 3 6 47 8 E.Egbuka 18 9.0 0 2 5 B.Wright 42 21.0 0 2 2 27 12 T.Johnson 17 8.5 0 2 3 T.Conklin 18 18.0 0 1 1 18 12 C.Otton 8 8.0 0 1 3 S.Vaki 7 7.0 0 1 1 7 8 B.Sharp 0 0.0 0 0 1 I.TeSlaa 0 0.0 0 0 3 0 0 20 187 9.4 23 2 Total 31 20 279 14.0 57 2 Total 28"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The official Lions schedule lists the completed November 22 game and the team's resulting 8-2 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Jameson Williams front-flips across goal line to cap Goff's launch\")\n\n### Schedule\n\n#### PREVIOUS GAME - Sun November 22, 2026\n\nFINAL \\-- TB Buccaneers (3-7) \\-- DET Lions (8-2)\n\n|Week |Date |Game |Time |\n| --- | --- | --- | --- |\n|REG 12 |11/26 |vs Bears |1:00 PM EST |\n|REG 13 |12/06 |@ Falcons |1:00 PM EST |\n|REG 14 |12/13 |vs Titans |1:00 PM EST |"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official box score records Mayfield's passing totals and four sacks for 33 yards; the injury report spells out the full player name, and the game summary identifies the Buccaneers as his team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** B.Mayfield 187 2 33 20 4/33 0 96.4 J.Goff 279 2 28 20 1/2 0 126.9 **57 23"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/buccaneers/tsedsyzx34brim282fwg",
+          "excerpts": [
+            "Baker Mayfield 6 QB Foot/Right Thumb DNP **Limited**"
+          ],
+          "title": "INJURY REPORT - Tampa Bay Buccaneers at Detroit Lions Sunday, November 22, 2026 - 1:00 p.m. ET"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The official Lions schedule lists the completed game with Tampa Bay's resulting 3-7 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Jameson Williams front-flips across goal line to cap Goff's launch\")\n\n### Schedule\n\n#### PREVIOUS GAME - Sun November 22, 2026\n\nFINAL \\-- TB Buccaneers (3-7) \\-- DET Lions (8-2)\n\n|Week |Date |Game |Time |\n| --- | --- | --- | --- |\n|REG 12 |11/26 |vs Bears |1:00 PM EST |\n|REG 13 |12/06 |@ Falcons |1:00 PM EST |\n|REG 14 |12/13 |vs Titans |1:00 PM EST |"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary names Detroit Lions as the home team in the matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Tampa Bay Buccaneers at Detroit Lions** Start Time: 1:03 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official summary's home line gives Detroit's quarter scores and 31-point total.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Tampa Bay Buccaneers 0 7 7 7 0 21 HOME: Detroit Lions 0 10 7 14 0 31 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring table records Amon-Ra St. Brown's 14-yard touchdown reception from Jared Goff in the second quarter at 10:37.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions A.St. Brown 14 yd. pass from J.Goff (J.Bates kick) (14-90, 7:22) 0 7 2 10:37"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring table records the third-quarter 57-yard touchdown pass to J. Williams; the Lions page spells out the receiver's name as Jameson Williams.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions J.Williams 57 yd. pass from J.Goff (J.Bates kick) (6-83, 2:55) 7 17 3 9:01"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Buccaneers | Week 11\")\n\n[video ### Jahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season Nov 22,"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring table records B. Irving's one-yard touchdown run in the third quarter at 2:41; the team highlight page identifies him as Bucky Irving.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Buccaneers B.Irving 1 yd. run (C.McLaughlin kick) (12-70, 6:20) 14 17 3 2:41"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\nHidden Score\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:54\n\nPLAYER HIGHLIGHT\n\nBucky Irving's best plays from 100-yard game vs. Lions | Week 11 2:02\n\nPLAYER HIGHLIGHT\n\nJahmyr Gibbs' best plays from 2-TD game vs. Buccaneers | Week 11 4:34\n\nGAME HIGHLIGHT\n\nBuccaneers vs. Lions highlights | Week 11 2:31\n\nPLAYER HIGHLIGHT\n\nJared Goff's best plays from 2-TD game vs. Buccaneers | Week 11 0:34\n\nIN GAME HIGHLIGHT\n\nTed Hurst III scores his III TD of this season on a 5-yard reception 0:28\n\nIN GAME HIGHLIGHT\n\nJahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season 0:20\n\nIN GAME HIGHLIGHT\n\nLions' defense shows relentless pursuit effort on consecutive sacks 0:14\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official scoring table records J. Gibbs's one-yard fourth-quarter touchdown at 5:24; the recap identifies the player by full name as Jahmyr Gibbs.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions J.Gibbs 1 yd. run (J.Bates kick) (9-59, 4:52) 14 24 4 5:24"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The official scoring table records J. Gibbs's four-yard fourth-quarter touchdown at 1:55; the recap identifies the player by full name as Jahmyr Gibbs.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Lions J.Gibbs 4 yd. run (J.Bates kick) (6-34, 1:21) 14 31 4 1:55"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official passing statistics give Goff's completions, attempts, yardage, touchdowns, and interceptions; the recap names him as Jared Goff.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** B.Mayfield 187 2 33 20 4/33 0 96.4 J.Goff 279 2 28 20 1/2 0 126.9 **57 23"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official statistics give Gibbs's rushing and receiving figures; the recap headline spells out his full name and says he scored two rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Irving 68 3.8 1 18 23 J.Gibbs 98 4.3 2 23 26 B.Mayfield 36 6.0 0 6 14 J.Goff 12 2.4 0 5 10 K.Gainwell 16 4.0 0 4 14 S.Vaki -1 -1.0 0 1 -1 28 120 4.3 23 1 Total 29 109 3.8 26 2 Total",
+            "B.Irving 32 10.7 0 3 4 J.Gibbs 20 5.0 0 4 5 10 16"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
+          "excerpts": [
+            "# Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win\n\n1:03\n\n## Tampa Bay Buccaneers vs. Detroit Lions: Game Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 10:33 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The official receiving table records J. Williams's receiving totals, including 93 yards and a touchdown; the Lions page gives his full name as Jameson Williams.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "K.Gainwell 43 10.8 0 4 5 J.Williams 93 23.3 1 4 4 **57** 16"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Buccaneers | Week 11\")\n\n[video ### Jahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season Nov 22,"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official receiving table lists Hurst's five catches, 56 yards, and two touchdowns; the Lions game center identifies the Buccaneers scorer as Ted Hurst III.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.Hurst 56 11.2 2 5 7 A.St."
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\nHidden Score\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:54\n\nPLAYER HIGHLIGHT\n\nBucky Irving's best plays from 100-yard game vs. Lions | Week 11 2:02\n\nPLAYER HIGHLIGHT\n\nJahmyr Gibbs' best plays from 2-TD game vs. Buccaneers | Week 11 4:34\n\nGAME HIGHLIGHT\n\nBuccaneers vs. Lions highlights | Week 11 2:31\n\nPLAYER HIGHLIGHT\n\nJared Goff's best plays from 2-TD game vs. Buccaneers | Week 11 0:34\n\nIN GAME HIGHLIGHT\n\nTed Hurst III scores his III TD of this season on a 5-yard reception 0:28\n\nIN GAME HIGHLIGHT\n\nJahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season 0:20\n\nIN GAME HIGHLIGHT\n\nLions' defense shows relentless pursuit effort on consecutive sacks 0:14\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The official statistics table lists B. Irving's rushing and receiving totals; the team game center identifies him by full name as Bucky Irving.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** B.Irving 68 3.8 1 18 23 J.Gibbs 98 4.3 2 23 26 B.Mayfield 36 6.0 0 6 14 J.Goff 12 2.4 0 5 10 K.Gainwell 16 4.0 0 4 14 S.Vaki -1 -1.0 0 1 -1 28 120 4.3 23 1 Total 29 109 3.8 26 2 Total",
+            "B.Irving 32 10.7 0 3 4 J.Gibbs 20 5.0 0 4 5 10 16"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nTampa Bay Buccaneers\n\nTB\n\nTampa Bay Buccaneers\n\nBUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\nHidden Score\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:54\n\nPLAYER HIGHLIGHT\n\nBucky Irving's best plays from 100-yard game vs. Lions | Week 11 2:02\n\nPLAYER HIGHLIGHT\n\nJahmyr Gibbs' best plays from 2-TD game vs. Buccaneers | Week 11 4:34\n\nGAME HIGHLIGHT\n\nBuccaneers vs. Lions highlights | Week 11 2:31\n\nPLAYER HIGHLIGHT\n\nJared Goff's best plays from 2-TD game vs. Buccaneers | Week 11 0:34\n\nIN GAME HIGHLIGHT\n\nTed Hurst III scores his III TD of this season on a 5-yard reception 0:28\n\nIN GAME HIGHLIGHT\n\nJahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season 0:20\n\nIN GAME HIGHLIGHT\n\nLions' defense shows relentless pursuit effort on consecutive sacks 0:14\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Tampa Bay Buccaneers at Detroit Lions 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official passing table shows Mayfield's completions, attempts, yards, touchdowns, interceptions, and sack yardage for this game; the injury report supplies his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382014/gamecenter/ab999586-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** B.Mayfield 187 2 33 20 4/33 0 96.4 J.Goff 279 2 28 20 1/2 0 126.9 **57 23"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/buccaneers/tsedsyzx34brim282fwg",
+          "excerpts": [
+            "Baker Mayfield 6 QB Foot/Right Thumb DNP **Limited**"
+          ],
+          "title": "INJURY REPORT - Tampa Bay Buccaneers at Detroit Lions Sunday, November 22, 2026 - 1:00 p.m. ET"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "top_performers",
+      "top_performers.3",
+      "top_performers.4",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Who kept on winning? The Lions did, beating the Buccaneers 31-21 in Detroit. Jared Goff tossed a touchdown to Amon-Ra St. Brown. Then Goff zipped a 57-yard touchdown pass to Jameson Williams! Bucky Irving ran in a score for Tampa Bay. Jahmyr Gibbs rumbled in for 2 touchdowns in the fourth quarter! Detroit stretched its winning streak to 6 games and moved to 8-2.",
+    "big_words": [
+      {
+        "word": "streak",
+        "definition": "A string of wins in a row.",
+        "example": "Jamal had a streak of baking perfect cookies."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask, then answer it.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1220,
+        "output": 138
+      }
+    ]
+  }
+}

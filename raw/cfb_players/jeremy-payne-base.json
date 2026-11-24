@@ -1,0 +1,189 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea3f0a8492d01fb05",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 112.4,
+  "input": {
+    "player": "Jeremy Payne",
+    "team": "TCU Horned Frogs",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Jeremy Payne attended Hightower High School.",
+      "Jeremy Payne is from Missouri City, Texas.",
+      "In TCU\u2019s 2026 season opener against North Carolina, Jeremy Payne rushed for 142 yards.",
+      "One of Jeremy Payne\u2019s runs against North Carolina went 48 yards.",
+      "Against Utah in 2026, Jeremy Payne scored on two rushing plays: a 43-yard run and an 8-yard run.",
+      "ESPN listed Jeremy Payne with 592 rushing yards and four rushing touchdowns in the 2026 season."
+    ],
+    "high_school": "Hightower High School",
+    "hometown": "Missouri City, Texas"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The recruiting profile names Hightower High School and Missouri City, Texas. ESPN\u2019s North Carolina recap reports Payne\u2019s 142 rushing yards and his 48-yard run. The Utah scoring record shows his 43- and 8-yard touchdown runs, and ESPN\u2019s season stats list 592 rushing yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250880/jeremy-payne",
+          "excerpts": [
+            "# Jeremy Payne\n\n* \n\n5-11, 170 | Class of 2024\n\n* Hometown [Missouri City, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/1601/class/2024)\n* School [Hightower High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/5972)"
+          ],
+          "title": "Jeremy Payne Running Back Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856766",
+          "excerpts": [
+            "Craig finished 20-of-32 passing for 175 yards.\n\n[Jeremy Payne](http://www.espn.com/college-football/player/_/id/5079663/jeremy-payne) , who ran for 142 yards, was stuffed on",
+            "Payne had a 48-yard run on TCU's opening drive and the Frogs had 111 yards on the ground by halftime. They had only 26 after halftime."
+          ],
+          "title": "North Carolina 15-10 TCU (Aug 29, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
+          "excerpts": [
+            "Jeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal"
+          ],
+          "title": "Utah 38-17 TCU (22 Nov, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/stats/_/id/5079663/jeremy-payne",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jeremy Payne\n\nTCU Horned Frogs\n\n* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#26\n* Running Back RB\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 180 lbs\n* Birthplace\n  \n  Missouri City, TX\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 180 lbs\n* Birthplace\n  \n  Missouri City, TX\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  115\n  \n  Tied-113th\n  \n  YDS\n  \n  592\n  \n  Tied-112th\n  \n  TD\n  \n  4\n  \n  150+\n  \n  AVG\n  \n  5\\.1\n  \n  Tied-111th"
+          ],
+          "title": "Jeremy Payne Career Stats - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "Jeremy Payne\u2019s ESPN recruiting profile lists Hightower High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250880/jeremy-payne",
+          "excerpts": [
+            "# Jeremy Payne\n\n* \n\n5-11, 170 | Class of 2024\n\n* Hometown [Missouri City, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/1601/class/2024)\n* School [Hightower High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/5972)"
+          ],
+          "title": "Jeremy Payne Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "Jeremy Payne\u2019s ESPN recruiting profile identifies his hometown as Missouri City, Texas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250880/jeremy-payne",
+          "excerpts": [
+            "# Jeremy Payne\n\n* \n\n5-11, 170 | Class of 2024\n\n* Hometown [Missouri City, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/1601/class/2024)\n* School [Hightower High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/5972)"
+          ],
+          "title": "Jeremy Payne Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Hightower High School for Jeremy Payne.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250880/jeremy-payne",
+          "excerpts": [
+            "# Jeremy Payne\n\n* \n\n5-11, 170 | Class of 2024\n\n* Hometown [Missouri City, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/1601/class/2024)\n* School [Hightower High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/5972)"
+          ],
+          "title": "Jeremy Payne Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile identifies Missouri City, Texas, as Payne\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/250880/jeremy-payne",
+          "excerpts": [
+            "# Jeremy Payne\n\n* \n\n5-11, 170 | Class of 2024\n\n* Hometown [Missouri City, Texas](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/50/hometown/1601/class/2024)\n* School [Hightower High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/5972)"
+          ],
+          "title": "Jeremy Payne Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap says Jeremy Payne ran for 142 yards in the game against North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856766",
+          "excerpts": [
+            "Craig finished 20-of-32 passing for 175 yards.\n\n[Jeremy Payne](http://www.espn.com/college-football/player/_/id/5079663/jeremy-payne) , who ran for 142 yards, was stuffed on"
+          ],
+          "title": "North Carolina 15-10 TCU (Aug 29, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The recap reports that Payne had a 48-yard run on TCU\u2019s opening drive against North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856766",
+          "excerpts": [
+            "Payne had a 48-yard run on TCU's opening drive and the Frogs had 111 yards on the ground by halftime. They had only 26 after halftime."
+          ],
+          "title": "North Carolina 15-10 TCU (Aug 29, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The scoring record lists Payne\u2019s 43-yard and 8-yard rushing touchdowns against Utah.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401856872/utah-tcu",
+          "excerpts": [
+            "Jeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal"
+          ],
+          "title": "Utah 38-17 TCU (22 Nov, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN\u2019s 2026 season stats list Payne at 592 rushing yards and four rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/stats/_/id/5079663/jeremy-payne",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Jeremy Payne\n\nTCU Horned Frogs\n\n* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#26\n* Running Back RB\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 180 lbs\n* Birthplace\n  \n  Missouri City, TX\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 180 lbs\n* Birthplace\n  \n  Missouri City, TX\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  115\n  \n  Tied-113th\n  \n  YDS\n  \n  592\n  \n  Tied-112th\n  \n  TD\n  \n  4\n  \n  150+\n  \n  AVG\n  \n  5\\.1\n  \n  Tied-111th"
+          ],
+          "title": "Jeremy Payne Career Stats - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

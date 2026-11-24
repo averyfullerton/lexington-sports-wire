@@ -1,0 +1,522 @@
+{
+  "run_id": "trun_64eebd575c494505bced002d8adbc8ce",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 168.9,
+  "input": {
+    "away_team": "Baltimore Ravens",
+    "home_team": "Carolina Panthers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Baltimore Ravens",
+    "key_plays": [
+      "Q1 12:22: Mike Green sacked Bryce Young in the end zone for a safety.",
+      "Q2 9:49: Devontez Walker returned a kickoff 86 yards for a touchdown.",
+      "Q3 11:01: Chuba Hubbard scored on a 1-yard run.",
+      "Q4 6:32: Derrick Henry ran 15 yards for a touchdown, putting Baltimore ahead 33-32.",
+      "Q4 1:44: Ryan Fitzgerald made a 37-yard field goal for the winning points."
+    ],
+    "away_score": 33,
+    "storyline": "The 5-5 Panthers held a two-game NFC South lead with seven games remaining, their first such cushion since the end of 2015. Baltimore's loss was its sixth straight.",
+    "top_performers": [
+      {
+        "stat_line": "22/30, 254 yards, 2 TD, 1 INT",
+        "team": "Carolina Panthers",
+        "name": "Bryce Young"
+      },
+      {
+        "stat_line": "27 carries, 120 yards, 2 TD",
+        "team": "Carolina Panthers",
+        "name": "Chuba Hubbard"
+      },
+      {
+        "stat_line": "8 receptions, 97 yards",
+        "team": "Baltimore Ravens",
+        "name": "Zay Flowers"
+      },
+      {
+        "stat_line": "13 carries, 94 yards, 1 TD",
+        "team": "Baltimore Ravens",
+        "name": "Derrick Henry"
+      }
+    ],
+    "home_record_after": "5-5",
+    "tough_day": [
+      {
+        "stat_line": "24/37, 276 yards, 1 TD, 1 INT, 2 sacks for 12 yards",
+        "team": "Baltimore Ravens",
+        "name": "Jacoby Brissett"
+      },
+      {
+        "stat_line": "4 turnovers, including 3 lost fumbles and 1 interception",
+        "team": "Baltimore Ravens",
+        "name": "Baltimore Ravens offense"
+      }
+    ],
+    "away_record_after": "4-7",
+    "home_team": "Carolina Panthers",
+    "home_score": 35
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary lists the Ravens and Panthers with a completed final score, establishing that this matchup was played to completion.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Baltimore Ravens 12 14 0 7 0 33 HOME: Carolina Panthers 7 15 10 3 0 35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary identifies Baltimore as the visitor, i.e. the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Baltimore Ravens 12 14 0 7 0 33"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL scoring summary records the scoring events in sequence, including the safety, kickoff-return touchdown, Hubbard and Henry touchdowns, and Fitzgerald's final field goal.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Ravens B.Young sacked in end zone by M.Green for a Safety 2 0 1 12:22 Ravens R.Bateman 52 yd. pass from J.Brissett (R.Patterson kick) (3-70, 1:01) 9 0 1 11:21 Ravens R.Patterson 28 yd. Field Goal (15-69, 6:36) 12 0 1 2:48 Panthers M.Evans 23 yd. pass from B.Young (R.Fitzgerald kick) (5-79, 2:47) 12 7 1 0:01 Panthers C.Hubbard 18 yd. run (R.Fitzgerald kick) (2-23, 0:34) 12 14 2 10:01 Ravens D.Walker 86 yd. kickoff return (R.Patterson kick) (0-0, 0:12) 19 14 2 9:49 Panthers T.McMillan 7 yd. pass from B.Young (C.Hubbard run) (9-69, 4:43) 19 22 2 5:06 Ravens J.Hill 19 yd. run (R.Patterson kick) (5-71, 2:44) 26 22 2 2:22 Panthers C.Hubbard 1 yd. run (R.Fitzgerald kick) (8-56, 3:59) 26 29 3 11:01 **National Football League Game Summary** **National Football League Game Summary** Paid Attendance: 72,778 Time: 3:14 Panthers R.Fitzgerald 33 yd. Field Goal (8-32, 3:48) 26 32 3 0:31 Ravens D.Henry 15 yd. run (R.Patterson kick) (10-80, 5:44) 33 32 4 6:32 Panthers R.Fitzgerald 37 yd. Field Goal (12-55, 4:48) 33 35 4 1:44"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The visitor line in the final score summary gives Baltimore 33 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Baltimore Ravens 12 14 0 7 0 33"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Carolina held a two-game division lead with seven games remaining and notes the lead's rarity since 2015; the Ravens report says this loss extended Baltimore's streak to six straight.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873068",
+          "excerpts": [
+            "NFC South champion Panthers (5-5) a two-game lead in the division over the Buccaneers, Saints and [Atlanta Falcons](http://www.espn.com/nfl/team/_/name/atl/atlanta-falcons) with seven games remaining in the regular season.\n\nIt's the first time the Panthers have held a two-game lead in the NFC South since the end of the 2015 season \u2014 when they went to the Super Bowl."
+          ],
+          "title": "Panthers 35-33 Ravens (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50567139/jesse-minter-take-responsibility-latest-ravens-loss",
+          "excerpts": [
+            "coach Jesse Minter took accountability after Baltimore's [35-33 setback](https://www.espn.com/nfl/game/_/gameId/401873068/ravens-panthers) to the [Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers) on Sunday extended the NFL's longest active losing streak to six games.\n\nMinter was upset about how the Ravens defense was unable to maintain a one-point lead in the fourth quarter, allowing the Panthers to win on [Ryan"
+          ],
+          "title": "Jesse Minter -- I take responsibility for latest Ravens loss - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary supplies the rushing, passing, and receiving figures; the recap and player game log identify the full player names and corroborate the featured performances.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Henry 94 7.2 1 13 19 C.Hubbard 120 4.4 2 27 26 J.Hill 69 11.5 1 6 36 T.Etienne 29 4.8 0 6 19 J.Brissett 7 3.5 0 2 6 B.Young -2 -1.0 0 2 -1 Z.Flowers -13 -13.0 0 1 -13 22 157 7.1 36 2 Total 35 147 4.2 26 2 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Brissett 276 1 37 24 2/12 1 85.0 B.Young 254 2 30"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "[Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) threw for 254 yards and two touchdowns, [Chuba Hubbard](http://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard) ran for 120 yards and [two more scores](https://x.com/Panthers/status/2124594734966493680?a=s6lIQzCQfhfCpiD9H9w&s=20) and the",
+            "It was another tough loss for the Ravens.\n\nBrissett finished 24 of 37 for 276 yards with one touchdown and one interception.\n\n[Derrick Henry](http://www.espn.com/nfl/player/_/id/3043078/derrick-henry) , who had a fumble early in the fourth quarter, scored on a 15-yard run with 6:32"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/zay-flowers/stats",
+          "excerpts": [
+            "|11 |@Panthers |L 33 - 35 |8 |97 |12\\.1 |26 |0 |1 |\\-13 |\\-13 |\\-13 |0 | | |\n\n## Career Stats\n\n### WRTE Career\n\n|SEASON |TEAM |G |GS |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |"
+          ],
+          "title": "Zay Flowers Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final scoreboard lists Carolina at 5-5 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard",
+          "excerpts": [
+            "Final\n\n1\n\n2\n\n3\n\n4\n\nT\n\n* [](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n  \n  [Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n  \n  ( 4-7 3-3 Away )\n  \n  12\n  \n  14\n  \n  0\n  \n  7\n  \n  33\n* [](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n  \n  [Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n  \n  ( 5-5 2-3 Home )\n  \n  7\n  \n  15\n  \n  10\n  \n  3\n  \n  35\n\n1:16\n\n## Baltimore Ravens vs. Carolina Panthers: Game Highlights\n\n[Gamecast](https://www.espn.com/nfl/game/_/gameId/401873068/ravens-panthers) [Box Score](https://www.espn.com/nfl/boxscore/_/gameId/401873068) [Highlights](https://www.espn.com/nfl/video/_/gameId/401873068)"
+          ],
+          "title": "NFL Scores, 2026 Season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The box-score evidence gives Brissett's passing and sack totals and the Ravens' four turnovers, including three lost fumbles; the recap supplies Brissett's full name and confirms his interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Brissett 276 1 37 24 2/12 1 85.0 B.Young 254 2 30 22 3/23 1 106.8 35 **52**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/matchup/_/gameId/401873068",
+          "excerpts": [
+            "|Comp/Att |24/37 |22/30 |\n|Yards per pass |6\\.8 |7\\.0 |\n|Interceptions thrown |1 |1 |\n|Sacks-Yards Lost |2-12 |3-23 |\n|Rushing |157 |147 |\n|Rushing Attempts |22 |35 |\n|Yards per rush |7\\.1 |4\\.2 |\n|Red Zone (Made-Att) |2-3 |3-6 |\n|Penalties |5-41 |6-54 |\n|Turnovers |4 |1 |\n|Fumbles lost |3 |0 |\n|Interceptions thrown |1 |1 |\n|Defensive / Special Teams TDs |1 |0 |\n|Possession |28:08 |31:52 |\n\n## Game Information\n\n#### 6:00 PM, November 22, 2026\n\n#### Bank of America Stadium\n\nCharlotte, NC\n\n#### Attendance: 72,778\n\n#### Where to Watch\n\nFox\n\n#### Officiating Crew\n\nLine Judge: Carl Johnson"
+          ],
+          "title": "Panthers 35-33 Ravens (Nov 22, 2026) Game Stats - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "It was another tough loss for the Ravens.\n\nBrissett finished 24 of 37 for 276 yards with one touchdown and one interception.\n\n[Derrick Henry](http://www.espn.com/nfl/player/_/id/3043078/derrick-henry) , who had a fumble early in the fourth quarter, scored on a 15-yard run with 6:32"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final scoreboard lists Baltimore at 4-7 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard",
+          "excerpts": [
+            "Final\n\n1\n\n2\n\n3\n\n4\n\nT\n\n* [](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n  \n  [Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n  \n  ( 4-7 3-3 Away )\n  \n  12\n  \n  14\n  \n  0\n  \n  7\n  \n  33\n* [](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n  \n  [Panthers](https://www.espn.com/nfl/team/_/name/car/carolina-panthers)\n  \n  ( 5-5 2-3 Home )\n  \n  7\n  \n  15\n  \n  10\n  \n  3\n  \n  35\n\n1:16\n\n## Baltimore Ravens vs. Carolina Panthers: Game Highlights\n\n[Gamecast](https://www.espn.com/nfl/game/_/gameId/401873068/ravens-panthers) [Box Score](https://www.espn.com/nfl/boxscore/_/gameId/401873068) [Highlights](https://www.espn.com/nfl/video/_/gameId/401873068)"
+          ],
+          "title": "NFL Scores, 2026 Season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game summary identifies Carolina as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Carolina Panthers 7 15 10 3 0 35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The home line in the final score summary gives Carolina 35 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Carolina Panthers 7 15 10 3 0 35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The NFL scoring entry gives the first-quarter safety and its time; the game play description names Bryce Young and Mike Green.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Ravens B.Young sacked in end zone by M.Green for a Safety 2 0 1 12:22"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873068",
+          "excerpts": [
+            "Play-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nSafety\n\n12:22 - 1st\n\n2\n\nBAL\n\n0\n\nCAR\n\nBryce Young Sacked by Mike Green For 8 Yd Loss for Safety\n\n3 plays, -4 yards, 0:54\n\nTouchdown\n\n11:21 - 1st\n\n9\n\nBAL\n\n0\n\nCAR\n\nRashod Bateman 52 Yd pass from Jacoby Brissett (Riley Patterson Kick)\n\n3 plays, 70 yards, 1:01\n\nField Goal\n\n2:48 - 1st\n\n12\n\nBAL\n\n0\n\nCAR\n\nRiley Patterson 28 Yd Field Goal"
+          ],
+          "title": "Panthers 35-33 Ravens (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The NFL summary records an 86-yard kickoff-return touchdown at 9:49 of the second quarter; the game highlight identifies the scorer as Devontez Walker.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Ravens D.Walker 86 yd. kickoff return (R.Patterson kick) (0-0, 0:12) 19 14 2 9:49"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873068",
+          "excerpts": [
+            "## Chuba Hubbard's 2nd TD of game puts Panthers ahead\n* 0:44\n  \n  ## Devontez Walker scores thrilling 86-yard punt return TD for Ravens"
+          ],
+          "title": "Panthers 35-33 Ravens (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The NFL scoring entry records Hubbard's 1-yard third-quarter touchdown; the recap identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Panthers C.Hubbard 1 yd. run (R.Fitzgerald kick) (8-56, 3:59) 26 29 3 11:01"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "[Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) threw for 254 yards and two touchdowns, [Chuba Hubbard](http://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard) ran for 120 yards and [two more scores](https://x.com/Panthers/status/2124594734966493680?a=s6lIQzCQfhfCpiD9H9w&s=20) and the"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Henry's 15-yard fourth-quarter touchdown at 6:32; the recap supplies his full name and describes the scoring run.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Ravens D.Henry 15 yd. run (R.Patterson kick) (10-80, 5:44) 33 32 4 6:32"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "It was another tough loss for the Ravens.\n\nBrissett finished 24 of 37 for 276 yards with one touchdown and one interception.\n\n[Derrick Henry](http://www.espn.com/nfl/player/_/id/3043078/derrick-henry) , who had a fumble early in the fourth quarter, scored on a 15-yard run with 6:32"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The game summary records Fitzgerald's 37-yard field goal at 1:44 of the fourth quarter; the game highlight identifies him by full name and notes it gave Carolina the 35-33 lead.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Panthers R.Fitzgerald 37 yd. Field Goal (12-55, 4:48) 33 35 4 1:44"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Princely Umanmielen gets his second sack of the game on Jacoby Brissett 0:07\n\nIN GAME HIGHLIGHT\n\nRyan Fitzgerald gives the Panthers a 35-33 lead with 37-yard FG 0:22\n\nIN GAME HIGHLIGHT\n\nDerrick Henry scores his twelfth touchdown of 2026 with a 15-yard burst\n\nLoad More\n\nINFO RECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n3:45\n\nTEAM HIGHLIGHT\n\nPanthers' top plays vs. Ravens | Week 11 1:25\n\nPLAYER HIGHLIGHT"
+          ],
+          "title": "Baltimore Ravens at Carolina Panthers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official passing line gives Young's 22 completions on 30 attempts, 254 yards, two touchdowns and one interception; the recap identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Brissett 276 1 37 24 2/12 1 85.0 B.Young 254 2 30 22 3/23 1 106.8 35 **52**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "[Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) threw for 254 yards and two touchdowns, [Chuba Hubbard](http://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard) ran for 120 yards and [two more scores](https://x.com/Panthers/status/2124594734966493680?a=s6lIQzCQfhfCpiD9H9w&s=20) and the"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The NFL rushing line records Hubbard's 27 carries, 120 yards and two touchdowns; the recap headline identifies him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Henry 94 7.2 1 13 19 C.Hubbard 120 4.4 2 27 26"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "[Bryce Young](http://www.espn.com/nfl/player/_/id/4685720/bryce-young) threw for 254 yards and two touchdowns, [Chuba Hubbard](http://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard) ran for 120 yards and [two more scores](https://x.com/Panthers/status/2124594734966493680?a=s6lIQzCQfhfCpiD9H9w&s=20) and the"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The game summary gives Flowers' 97 receiving yards and eight catches; his game log identifies him by full name and shows the Panthers game line.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Z.Flowers 97 12.1 0 8 11 T.McMillan 71 11.8 1 6 9 29 26"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/players/zay-flowers/stats",
+          "excerpts": [
+            "|11 |@Panthers |L 33 - 35 |8 |97 |12\\.1 |26 |0 |1 |\\-13 |\\-13 |\\-13 |0 | | |\n\n## Career Stats\n\n### WRTE Career\n\n|SEASON |TEAM |G |GS |REC |YDS |AVG |LNG |TD |ATT |YDS |AVG |LNG |TD |FUM |LOST |"
+          ],
+          "title": "Zay Flowers Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The game summary records Henry's 13 carries, 94 yards and one touchdown; the recap gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Henry 94 7.2 1 13 19 C.Hubbard 120 4.4 2 27 26"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "It was another tough loss for the Ravens.\n\nBrissett finished 24 of 37 for 276 yards with one touchdown and one interception.\n\n[Derrick Henry](http://www.espn.com/nfl/player/_/id/3043078/derrick-henry) , who had a fumble early in the fourth quarter, scored on a 15-yard run with 6:32"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The box score records Brissett's passing line and two sacks for 12 yards; the recap identifies him by full name and confirms the interception.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/gamecenter/ab998b7f-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Brissett 276 1 37 24 2/12 1 85.0 B.Young 254 2 30 22 3/23 1 106.8 35 **52**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/recap/_/gameId/401873068",
+          "excerpts": [
+            "It was another tough loss for the Ravens.\n\nBrissett finished 24 of 37 for 276 yards with one touchdown and one interception.\n\n[Derrick Henry](http://www.espn.com/nfl/player/_/id/3043078/derrick-henry) , who had a fumble early in the fourth quarter, scored on a 15-yard run with 6:32"
+          ],
+          "title": "Panthers 35-33 Ravens (22 Nov, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The team statistics show four turnovers, three lost fumbles and one interception for Baltimore, supporting the offense-unit entry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/matchup/_/gameId/401873068",
+          "excerpts": [
+            "|Comp/Att |24/37 |22/30 |\n|Yards per pass |6\\.8 |7\\.0 |\n|Interceptions thrown |1 |1 |\n|Sacks-Yards Lost |2-12 |3-23 |\n|Rushing |157 |147 |\n|Rushing Attempts |22 |35 |\n|Yards per rush |7\\.1 |4\\.2 |\n|Red Zone (Made-Att) |2-3 |3-6 |\n|Penalties |5-41 |6-54 |\n|Turnovers |4 |1 |\n|Fumbles lost |3 |0 |\n|Interceptions thrown |1 |1 |\n|Defensive / Special Teams TDs |1 |0 |\n|Possession |28:08 |31:52 |\n\n## Game Information\n\n#### 6:00 PM, November 22, 2026\n\n#### Bank of America Stadium\n\nCharlotte, NC\n\n#### Attendance: 72,778\n\n#### Where to Watch\n\nFox\n\n#### Officiating Crew\n\nLine Judge: Carl Johnson"
+          ],
+          "title": "Panthers 35-33 Ravens (Nov 22, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "home_record_after",
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3",
+      "tough_day",
+      "tough_day.0",
+      "tough_day.1"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Ryan Fitzgerald kicked a 37-yard field goal, and the Panthers won 35-33! Earlier, Mike Green sacked Bryce Young in the end zone for a safety. Then Devontez Walker raced 86 yards for a Ravens touchdown. Chuba Hubbard ran in a touchdown for Carolina. Derrick Henry put Baltimore ahead 33-32, but Fitzgerald\u2019s kick sealed the comeback! The 5-5 Panthers kept a 2-game lead in the NFC South.",
+    "big_words": [
+      {
+        "word": "comeback",
+        "definition": "A win after being behind.",
+        "example": "Ava made a comeback on her bike ride and caught up with her friends."
+      }
+    ],
+    "opener": "Start with how the game ended: the last big moment.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1211,
+        "output": 142
+      }
+    ]
+  }
+}

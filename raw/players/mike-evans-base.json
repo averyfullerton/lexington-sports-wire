@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435b88ddce73cf52c1a0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 175.7,
+  "input": {
+    "player": "Mike Evans",
+    "team": "San Francisco 49ers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas A&M",
+    "fun_facts": [
+      "Mike Evans was a standout high-school basketball player in Galveston, Texas.",
+      "Mike Evans didn\u2019t play football until his senior year of high school; he had dreams of playing both basketball and football professionally.",
+      "At Texas A&M in 2013, Mike Evans recorded a school-record 1,394 receiving yards and 12 touchdowns. He also broke the school single-game receiving record twice that season: first with 279 yards against Alabama, then with 287 against Auburn.",
+      "As a kid, Mike Evans watched Peyton Manning on TV while his mother cleaned the house.",
+      "Mike Evans started his NFL career with 11 consecutive 1,000-yard receiving seasons, tying Jerry Rice\u2019s mark for the longest such streak. "
+    ],
+    "draft": "2014, round 1, pick 7"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography lists Texas A&M as Mike Evans\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/16737/mike-evans",
+          "excerpts": [
+            "College [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\nDraft Info 2014: Rd 1, Pk 7 (TB)\n\nStatus INACTIVE\n\nExperience 13th Season\n\nBirthplace Galveston, TX\n\n### Career History"
+          ],
+          "title": "Mike Evans Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the high-school basketball and football-start facts, Evans\u2019s 2013 Texas A&M receiving records, his childhood memory of watching Peyton Manning, and his 11-season streak of 1,000-yard receiving seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/tampa-bay-buccaneers/post/_/id/4460/hoops-background-helped-mike-evans",
+          "excerpts": [
+            "But they might be able to put together an impressive basketball team.\n\nMike Evans said that his basketball background has helped him blossom as a wide receiver. Bob Levey/Getty Images\n\nThe centerpiece would be [Mike Evans](http://espn.com/nfl/player/_/id/16737/mike-evans) , the wide receiver the Bucs selected with the seventh overall pick in the first round. Evans, 6-foot-4, was a standout high school basketball player in Galveston, Texas.\n\nEvans didn\u2019t even play football until his senior year and had visions of an NBA career and an NFL career.\n\n\u201cI wanted to be both,\u2019\u2019 Evans said."
+          ],
+          "title": "Hoops background helped Mike Evans - ESPN - Tampa Bay Buccaneers Blog- ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/news/football/article/2014-01-02/texas-am-sophomore-wide-receiver-mike-evans-declares-nfl-draft",
+          "excerpts": [
+            "**COLLEGE STATION, Texas --** Texas A&M receiver Mike Evans is declaring for the NFL draft.\n\nEvans, a redshirt sophomore, was a consensus All-American and a Biletnikoff Award finalist this season.\n\nHe had 69 receptions for a school-record 1,394 yards and 12 touchdowns. He also set a school record with 279 yards receiving against Alabama this year. He broke his own record when he had 287 yards receiving against Auburn later in the season.\n\nA 6-foot-5 former basketball star, Evans is rated as one of the top draft prospects at his position."
+          ],
+          "title": "Texas A&M wide receiver Evans declares for NFL draft | NCAA.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/in-the-green-room-with-texas-a-m-wr-mike-evans-0ap2000000333030",
+          "excerpts": [
+            "When I was a kid growing up (in Texas), my mom used to clean the house, and I would just watch [Peyton Manning](https://www.nfl.com/player/peytonmanning/2501863/profile) ."
+          ],
+          "title": "In the Green Room with Texas A&M WR Mike Evans | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/buccaneers-wr-mike-evans-hauls-in-11th-straight-1-000-yard-receiving-season-ties-jerry-rice-for-most-consecutively",
+          "excerpts": [
+            "The Tampa Bay Buccaneers receiver continued his career-long streak of 1,000-yard receiving seasons on Sunday [against](https://www.nfl.com/games/saints-at-buccaneers-2024-reg-18) the New Orleans Saints, hauling in a 9-yard pass in the final seconds of the fourth quarter from [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) to surpass the mark for the 11th straight season. In the process, Evans tied Hall of Famer Jerry Rice for the most 1,000-yard receiving seasons consecutively.\n\nEvans also extended his NFL record for most consecutive 1,000-yard campaigns to begin a career and edged closer to Rice\u2019s all-time mark of 14 overall."
+          ],
+          "title": "Buccaneers WR Mike Evans hauls in 11th straight 1,000-yard receiving season, ties Jerry Rice for most consecutively | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s player biography states that Evans was selected in 2014, round 1, pick 7.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/16737/mike-evans",
+          "excerpts": [
+            "College [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\nDraft Info 2014: Rd 1, Pk 7 (TB)\n\nStatus INACTIVE\n\nExperience 13th Season\n\nBirthplace Galveston, TX\n\n### Career History"
+          ],
+          "title": "Mike Evans Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN describes Evans as a standout high-school basketball player in Galveston, Texas.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/tampa-bay-buccaneers/post/_/id/4460/hoops-background-helped-mike-evans",
+          "excerpts": [
+            "But they might be able to put together an impressive basketball team.\n\nMike Evans said that his basketball background has helped him blossom as a wide receiver. Bob Levey/Getty Images\n\nThe centerpiece would be [Mike Evans](http://espn.com/nfl/player/_/id/16737/mike-evans) , the wide receiver the Bucs selected with the seventh overall pick in the first round. Evans, 6-foot-4, was a standout high school basketball player in Galveston, Texas.\n\nEvans didn\u2019t even play football until his senior year and had visions of an NBA career and an NFL career.\n\n\u201cI wanted to be both,\u2019\u2019 Evans said."
+          ],
+          "title": "Hoops background helped Mike Evans - ESPN - Tampa Bay Buccaneers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Evans did not play football until his senior year and had pictured professional careers in both basketball and football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/tampa-bay-buccaneers/post/_/id/4460/hoops-background-helped-mike-evans",
+          "excerpts": [
+            "But they might be able to put together an impressive basketball team.\n\nMike Evans said that his basketball background has helped him blossom as a wide receiver. Bob Levey/Getty Images\n\nThe centerpiece would be [Mike Evans](http://espn.com/nfl/player/_/id/16737/mike-evans) , the wide receiver the Bucs selected with the seventh overall pick in the first round. Evans, 6-foot-4, was a standout high school basketball player in Galveston, Texas.\n\nEvans didn\u2019t even play football until his senior year and had visions of an NBA career and an NFL career.\n\n\u201cI wanted to be both,\u2019\u2019 Evans said."
+          ],
+          "title": "Hoops background helped Mike Evans - ESPN - Tampa Bay Buccaneers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NCAA account gives Evans\u2019s 2013 season total of 1,394 yards and 12 touchdowns, and says he set the single-game school record against Alabama before breaking it against Auburn.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2014-01-02/texas-am-sophomore-wide-receiver-mike-evans-declares-nfl-draft",
+          "excerpts": [
+            "**COLLEGE STATION, Texas --** Texas A&M receiver Mike Evans is declaring for the NFL draft.\n\nEvans, a redshirt sophomore, was a consensus All-American and a Biletnikoff Award finalist this season.\n\nHe had 69 receptions for a school-record 1,394 yards and 12 touchdowns. He also set a school record with 279 yards receiving against Alabama this year. He broke his own record when he had 287 yards receiving against Auburn later in the season.\n\nA 6-foot-5 former basketball star, Evans is rated as one of the top draft prospects at his position."
+          ],
+          "title": "Texas A&M wide receiver Evans declares for NFL draft | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "In an NFL.com interview, Evans recalled watching Peyton Manning as a child while his mother cleaned the house.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/in-the-green-room-with-texas-a-m-wr-mike-evans-0ap2000000333030",
+          "excerpts": [
+            "When I was a kid growing up (in Texas), my mom used to clean the house, and I would just watch [Peyton Manning](https://www.nfl.com/player/peytonmanning/2501863/profile) ."
+          ],
+          "title": "In the Green Room with Texas A&M WR Mike Evans | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com reports that Evans reached 1,000 receiving yards in 11 consecutive seasons, tying Jerry Rice\u2019s consecutive-season mark.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/buccaneers-wr-mike-evans-hauls-in-11th-straight-1-000-yard-receiving-season-ties-jerry-rice-for-most-consecutively",
+          "excerpts": [
+            "The Tampa Bay Buccaneers receiver continued his career-long streak of 1,000-yard receiving seasons on Sunday [against](https://www.nfl.com/games/saints-at-buccaneers-2024-reg-18) the New Orleans Saints, hauling in a 9-yard pass in the final seconds of the fourth quarter from [Baker Mayfield](https://www.nfl.com/players/baker-mayfield) to surpass the mark for the 11th straight season. In the process, Evans tied Hall of Famer Jerry Rice for the most 1,000-yard receiving seasons consecutively.\n\nEvans also extended his NFL record for most consecutive 1,000-yard campaigns to begin a career and edged closer to Rice\u2019s all-time mark of 14 overall."
+          ],
+          "title": "Buccaneers WR Mike Evans hauls in 11th straight 1,000-yard receiving season, ties Jerry Rice for most consecutively | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,272 +1,248 @@
 [
   {
-    "away_team": "Washington Commanders",
-    "home_team": "New York Giants",
-    "away_abbr": "WSH",
-    "home_abbr": "NYG",
-    "away_score": 24,
-    "home_score": 21,
-    "away_record": "3-5-1",
-    "home_record": "5-3-1",
-    "game_date": "2026-11-12",
-    "paragraph": "Jayden Daniels zips a 32-yard touchdown pass to Stefon Diggs with 57 seconds left! Washington takes the lead in New York. Earlier, Cam Skattebo ran for a touchdown to put the Giants ahead. Daniels then found Antonio Williams for a score. J.J. McCarthy hit Isaiah Likely for a 66-yard touchdown, and the Giants led again. But Daniels had one last clutch throw, and Washington won 24-21! It was Washington\u2019s first road win of the season.",
-    "big_words": [
-      {
-        "word": "clutch",
-        "definition": "Coming through when it matters most.",
-        "example": "Leo made a clutch grab when his dog\u2019s leash slipped."
-      }
-    ]
-  },
-  {
-    "away_team": "New England Patriots",
-    "home_team": "Detroit Lions",
-    "away_abbr": "NE",
-    "home_abbr": "DET",
-    "away_score": 10,
-    "home_score": 35,
-    "away_record": "5-5",
-    "home_record": "7-2",
-    "game_date": "2026-11-15",
-    "paragraph": "Jahmyr Gibbs ran for 2 touchdowns as the Lions beat the Patriots 35-10 in Munich. What a dominant day for Detroit! Jared Goff zipped a 56-yard touchdown pass to Amon-Ra St. Brown. Goff found St. Brown for another touchdown in his German homecoming. Gibbs ran for 153 yards and caught passes for 99 more. The win lifted the Lions to 7-2, while the Patriots fell to 5-5.",
+    "away_team": "Indianapolis Colts",
+    "home_team": "Houston Texans",
+    "away_abbr": "IND",
+    "home_abbr": "HOU",
+    "away_score": 3,
+    "home_score": 26,
+    "away_record": "3-8",
+    "home_record": "4-6",
+    "game_date": "2026-11-19",
+    "paragraph": "C.J. Stroud zips a 42-yard touchdown pass to Nico Collins! The Texans beat the Colts 26-3 in Houston. Stroud tossed 2 more touchdowns to Kayshon Boutte and Marlin Klein. Will Anderson Jr. sacked Daniel Jones in the end zone for a safety! David Montgomery rumbled for 107 yards. The dominant win was Houston\u2019s first at home this season. The Texans climbed to 4-6, while the Colts fell to 3-8.",
     "big_words": [
       {
         "word": "dominant",
-        "definition": "Much stronger or better than the other side.",
-        "example": "Priya was dominant at recess, kicking 3 goals in the soccer game."
-      }
-    ]
-  },
-  {
-    "away_team": "Kansas City Chiefs",
-    "home_team": "Atlanta Falcons",
-    "away_abbr": "KC",
-    "home_abbr": "ATL",
-    "away_score": 35,
-    "home_score": 13,
-    "away_record": "7-2",
-    "home_record": "3-7",
-    "game_date": "2026-11-15",
-    "paragraph": "101 rushing yards made Emmett Johnson's first start a big one! He also caught 2 touchdown passes from Patrick Mahomes. Josh Downs scored in his Chiefs debut. Mahomes threw 5 touchdown passes as Kansas City beat Atlanta 35-13! Bijan Robinson ran for a Falcons touchdown. The win moved the Chiefs into a first-place tie in the AFC West at 7-2.",
-    "big_words": [
-      {
-        "word": "debut",
-        "definition": "A person's first time doing something.",
-        "example": "Marcus made his garden debut by planting bright yellow flowers."
-      }
-    ]
-  },
-  {
-    "away_team": "Houston Texans",
-    "home_team": "Cleveland Browns",
-    "away_abbr": "HOU",
-    "home_abbr": "CLE",
-    "away_score": 24,
-    "home_score": 27,
-    "away_record": "3-6",
-    "home_record": "6-4",
-    "game_date": "2026-11-15",
-    "paragraph": "In Cleveland, the Browns hoped to end a 2-game losing streak. Houston jumped ahead 17-0 on a touchdown pass to Xavier Hutchinson. Deshaun Watson ran for a score, and KC Concepcion tied it at 17-17. Then C.J. Stroud found Dalton Schultz to put Houston back on top. The Browns had one more comeback in them! Quinshon Judkins ran 5 yards for the winning touchdown with 53 seconds left. Cleveland won 27-24 and moved to 6-4.",
-    "big_words": [
-      {
-        "word": "streak",
-        "definition": "A string of things that happen one after another.",
-        "example": "Sofia kept her streak of talent show practice going for 3 days."
-      },
-      {
-        "word": "comeback",
-        "definition": "A return after falling behind.",
-        "example": "Sofia made a comeback after forgetting a line at the talent show."
-      }
-    ]
-  },
-  {
-    "away_team": "Minnesota Vikings",
-    "home_team": "Green Bay Packers",
-    "away_abbr": "MIN",
-    "home_abbr": "GB",
-    "away_score": 30,
-    "home_score": 10,
-    "away_record": "7-2",
-    "home_record": "6-4",
-    "game_date": "2026-11-15",
-    "paragraph": "Could Kirk Cousins spark the Vikings in his return? He sure did! Cousins tossed 2 touchdown passes as Minnesota beat Green Bay 30-10 in Wisconsin. Myles Price snagged the first, and Aaron Jones ran for another score. Jordan Love threw a touchdown pass to J. Michael Sturdivant for the Packers. Then Cousins found Gavin Bartholomew for his second touchdown! The Vikings snapped a 2-game skid and moved to 7-2.",
-    "big_words": [
-      {
-        "word": "spark",
-        "definition": "To get something going.",
-        "example": "Jamal\u2019s cookie idea helped spark a fun day of baking."
-      }
-    ]
-  },
-  {
-    "away_team": "Jacksonville Jaguars",
-    "home_team": "Tennessee Titans",
-    "away_abbr": "JAX",
-    "home_abbr": "TEN",
-    "away_score": 40,
-    "home_score": 23,
-    "away_record": "7-2",
-    "home_record": "1-8",
-    "game_date": "2026-11-15",
-    "paragraph": "The scoreboard in Tennessee read Jaguars 40, Titans 23! Trevor Lawrence zipped a 2-yard touchdown pass to Parker Washington. Lawrence later found Brenton Strange to put Jacksonville ahead 23-13. Cam Ward hit Tony Pollard for a 32-yard touchdown, cutting the lead to 30-23. But Bhayshul Tuten's 6-yard touchdown run helped stop the rally! The Jaguars moved to 7-2 and led the AFC South by 4 games.",
-    "big_words": [
-      {
-        "word": "rally",
-        "definition": "A push to catch up after falling behind.",
-        "example": "Hana made a rally at her swimming lesson and reached the pool wall."
+        "definition": "In control and hard to beat.",
+        "example": "Leo\u2019s dog was dominant in their tug-of-war over a sock."
       }
     ]
   },
   {
     "away_team": "Miami Dolphins",
-    "home_team": "Indianapolis Colts",
+    "home_team": "Buffalo Bills",
     "away_abbr": "MIA",
-    "home_abbr": "IND",
-    "away_score": 22,
-    "home_score": 24,
-    "away_record": "1-8",
-    "home_record": "3-7",
-    "game_date": "2026-11-15",
-    "paragraph": "Miami came close, but the Colts won 24-22 in Indianapolis. Seth McGowan ran 4 yards for a Colts touchdown. Miami struck back when Malik Washington hit Jalen Tolbert for a 34-yard touchdown. Adetomiwa Adebawore recovered a fumble in the end zone for a Colts touchdown. Then Miami grabbed momentum as Chris Johnson returned an interception 59 yards for a touchdown! Kyle McCord ran for a score, but the 2-point try failed. The Colts ended a 5-game skid and improved to 3-7, while Miami fell to 1-8.",
+    "home_abbr": "BUF",
+    "away_score": 9,
+    "home_score": 26,
+    "away_record": "1-9",
+    "home_record": "9-1",
+    "game_date": "2026-11-22",
+    "paragraph": "James Cook III rumbled for a touchdown as the Bills beat the Dolphins 26-9! Tyler Bass kicked a 54-yard field goal to put Buffalo up 6-0. Josh Allen tossed a touchdown pass to DJ Moore. Cook then scored from 1 yard out to stretch the lead to 20-3. Miami snagged an Allen pass and kicked a field goal. But Buffalo's defense was mighty, holding Miami to no touchdowns! The win lifted the Bills to 9-1, while Miami fell to 1-9.",
+    "big_words": [
+      {
+        "word": "mighty",
+        "definition": "Very strong or powerful.",
+        "example": "Priya gave the soccer ball a mighty kick at recess."
+      }
+    ]
+  },
+  {
+    "away_team": "New Orleans Saints",
+    "home_team": "Chicago Bears",
+    "away_abbr": "NO",
+    "home_abbr": "CHI",
+    "away_score": 13,
+    "home_score": 21,
+    "away_record": "3-7",
+    "home_record": "8-2",
+    "game_date": "2026-11-22",
+    "paragraph": "56 yards away, Charlie Smyth booted a field goal as the first half ended! The kick brought the Saints within 16-10 in Chicago. Earlier, Caleb Williams had zipped a touchdown pass to Colston Loveland. The Saints began their rally when Tyler Shough found Alvin Kamara for a touchdown. Then Montez Sweat sacked Shough in the end zone for a safety! The Bears held on to win 21-13. Chicago won its fifth straight game and moved to 8-2.",
+    "big_words": [
+      {
+        "word": "rally",
+        "definition": "A push to catch up after falling behind.",
+        "example": "Marcus led a rally to finish planting the garden before lunch."
+      }
+    ]
+  },
+  {
+    "away_team": "Tennessee Titans",
+    "home_team": "Dallas Cowboys",
+    "away_abbr": "TEN",
+    "home_abbr": "DAL",
+    "away_score": 30,
+    "home_score": 51,
+    "away_record": "1-9",
+    "home_record": "5-6",
+    "game_date": "2026-11-22",
+    "paragraph": "In Dallas, the Cowboys and Titans battled for a win. Dallas scored on its first 8 possessions and won 51-30! Dak Prescott tossed 4 touchdown passes and ran for another. Cam Ward zipped a 59-yard touchdown pass to Carnell Tate. Then Quinnen Williams gave Dallas more momentum with a strip-sack! Dallas ran the fumble back 70 yards. The win put the Cowboys at 5-6, while the Titans fell to 1-9.",
     "big_words": [
       {
         "word": "momentum",
-        "definition": "A burst of energy that helps you keep going.",
-        "example": "Diego gained momentum as he raced to finish his library book."
+        "definition": "A push that helps something keep moving or growing.",
+        "example": "Sofia gained momentum as her talent show dance got faster."
       }
     ]
   },
   {
-    "away_team": "Carolina Panthers",
-    "home_team": "New Orleans Saints",
-    "away_abbr": "CAR",
-    "home_abbr": "NO",
-    "away_score": 20,
-    "home_score": 17,
-    "away_record": "4-5",
-    "home_record": "3-6",
-    "game_date": "2026-11-15",
-    "paragraph": "Ryan Fitzgerald kicked a 54-yard field goal as time ran out! The Panthers beat the Saints 20-17 in New Orleans. Earlier, Alvin Kamara caught a touchdown to put the Saints ahead. Chuba Hubbard ran for a score to put Carolina back on top. Charlie Smyth tied it with a 55-yard kick, setting up Fitzgerald's big moment. The victory ended Carolina's 3-game slide and kept the Panthers in first place in the NFC South.",
-    "big_words": [
-      {
-        "word": "victory",
-        "definition": "A win.",
-        "example": "Ava cheered after her bike ride victory over the steep hill."
-      }
-    ]
-  },
-  {
-    "away_team": "Buffalo Bills",
-    "home_team": "New York Jets",
-    "away_abbr": "BUF",
-    "home_abbr": "NYJ",
-    "away_score": 31,
-    "home_score": 12,
-    "away_record": "8-1",
-    "home_record": "2-8",
-    "game_date": "2026-11-15",
-    "paragraph": "James Cook races 74 yards for a Bills touchdown! Josh Allen also ran for 2 scores. His second put Buffalo ahead 17-9. Then Allen zipped a 45-yard touchdown pass to DJ Moore. The Bills beat the Jets 31-12 and climbed to 8-1. Allen also broke the record for touchdowns by a player in his first 10 seasons.",
-    "big_words": [
-      {
-        "word": "record",
-        "definition": "The best mark anyone has reached.",
-        "example": "On a rainy day, Kofi set a record for stacking blocks."
-      }
-    ]
-  },
-  {
-    "away_team": "Seattle Seahawks",
-    "home_team": "Las Vegas Raiders",
-    "away_abbr": "SEA",
-    "home_abbr": "LV",
+    "away_team": "Tampa Bay Buccaneers",
+    "home_team": "Detroit Lions",
+    "away_abbr": "TB",
+    "home_abbr": "DET",
     "away_score": 21,
-    "home_score": 13,
-    "away_record": "6-4",
-    "home_record": "4-6",
-    "game_date": "2026-11-15",
-    "paragraph": "Drew Lock tossed 2 touchdown passes as the Seahawks beat the Raiders 21-13! In Las Vegas, Fernando Mendoza ran 10 yards for a Raiders touchdown. Lock then zipped a 34-yard touchdown pass to Cooper Kupp. Jadarian Price ran for a touchdown in the third quarter. Lock struck again with a spectacular 71-yard touchdown pass to Jaxon Smith-Njigba! The defending Super Bowl champs moved to 6-4, while the Raiders fell to 4-6.",
+    "home_score": 31,
+    "away_record": "3-7",
+    "home_record": "8-2",
+    "game_date": "2026-11-22",
+    "paragraph": "Who kept on winning? The Lions did, beating the Buccaneers 31-21 in Detroit. Jared Goff tossed a touchdown to Amon-Ra St. Brown. Then Goff zipped a 57-yard touchdown pass to Jameson Williams! Bucky Irving ran in a score for Tampa Bay. Jahmyr Gibbs rumbled in for 2 touchdowns in the fourth quarter! Detroit stretched its winning streak to 6 games and moved to 8-2.",
+    "big_words": [
+      {
+        "word": "streak",
+        "definition": "A string of wins in a row.",
+        "example": "Jamal had a streak of baking perfect cookies."
+      }
+    ]
+  },
+  {
+    "away_team": "Arizona Cardinals",
+    "home_team": "Kansas City Chiefs",
+    "away_abbr": "ARI",
+    "home_abbr": "KC",
+    "away_score": 7,
+    "home_score": 34,
+    "away_record": "3-8",
+    "home_record": "8-2",
+    "game_date": "2026-11-22",
+    "paragraph": "The final score lit up Kansas City: Chiefs 34, Cardinals 7. Patrick Mahomes zipped a touchdown pass to Travis Kelce to start the scoring! Emmett Johnson rumbled in for another Chiefs touchdown. Arizona answered when Josh Johnson found Simi Fehoko for a touchdown. Mahomes hit Kelce again, then found Xavier Worthy for his third touchdown pass! The Chiefs put on a spectacular show for their third straight win. Kansas City climbed to 8-2, while Arizona moved to 3-8.",
     "big_words": [
       {
         "word": "spectacular",
-        "definition": "Amazing to see.",
-        "example": "Lily made a spectacular pink sign for her lemonade stand."
-      }
-    ]
-  },
-  {
-    "away_team": "Los Angeles Rams",
-    "home_team": "Arizona Cardinals",
-    "away_abbr": "LAR",
-    "home_abbr": "ARI",
-    "away_score": 34,
-    "home_score": 6,
-    "away_record": "6-4",
-    "home_record": "3-7",
-    "game_date": "2026-11-15",
-    "paragraph": "31 straight points sent the Rams racing past the Cardinals in Arizona! The Rams won 34-6. Matthew Stafford tossed 3 touchdown passes, including one to Xavier Smith. Blake Corum ran for 100 yards and a touchdown. The Rams were unstoppable as they won their fourth straight game! They moved to 6-4, while Arizona fell to 3-7.",
-    "big_words": [
-      {
-        "word": "unstoppable",
-        "definition": "Too strong to be stopped.",
-        "example": "Mateo felt unstoppable as he built his science project."
-      }
-    ]
-  },
-  {
-    "away_team": "San Francisco 49ers",
-    "home_team": "Dallas Cowboys",
-    "away_abbr": "SF",
-    "home_abbr": "DAL",
-    "away_score": 46,
-    "home_score": 40,
-    "away_record": "8-1",
-    "home_record": "4-6",
-    "game_date": "2026-11-15",
-    "paragraph": "In Dallas, the 49ers and Cowboys chased a big win. Brock Purdy zipped a 74-yard touchdown pass to Christian McCaffrey! Then Deebo Samuel raced 70 yards for another 49ers touchdown. The 49ers led 38-19 in the fourth quarter, but Dallas was determined. The Cowboys scored 3 touchdowns, with Dak Prescott finding CeeDee Lamb for the last one! San Francisco held on to win 46-40. The 49ers climbed to 8-1, while Dallas fell to 4-6.",
-    "big_words": [
-      {
-        "word": "determined",
-        "definition": "Not willing to give up.",
-        "example": "Zoe was determined to build her block tower as tall as her chair."
+        "definition": "Very exciting and amazing to see.",
+        "example": "Hana made a spectacular splash at her swimming lesson."
       }
     ]
   },
   {
     "away_team": "Pittsburgh Steelers",
-    "home_team": "Cincinnati Bengals",
+    "home_team": "Philadelphia Eagles",
     "away_abbr": "PIT",
-    "home_abbr": "CIN",
-    "away_score": 18,
-    "home_score": 38,
-    "away_record": "6-3",
-    "home_record": "7-2",
-    "game_date": "2026-11-15",
-    "paragraph": "Who ruled the field in Cincinnati? The Bengals did, beating the Steelers 38-18! Joe Burrow tossed 4 touchdown passes, and Ja'Marr Chase snagged 231 yards. Chase Brown caught a touchdown pass, too. Aaron Rodgers fired touchdown passes to DK Metcalf and Pat Freiermuth in the fourth quarter. But the Bengals soared to their 5th straight win! They moved to 7-2 and took first place alone in the AFC North.",
+    "home_abbr": "PHI",
+    "away_score": 16,
+    "home_score": 19,
+    "away_record": "6-4",
+    "home_record": "3-7",
+    "game_date": "2026-11-22",
+    "paragraph": "The Steelers fought back in Philadelphia, but the Eagles held on to win 19-16. Saquon Barkley dashed 38 yards for an Eagles touchdown! Jake Elliott later booted a 55-yard field goal. Aaron Rodgers hit Max Hurleman for a touchdown, bringing Pittsburgh within 3 points. Then Joe Milton found DeVonta Smith for a clutch first down! The Eagles snapped a 7-game skid and moved to 3-7.",
     "big_words": [
       {
-        "word": "soared",
-        "definition": "Moved or rose high and fast.",
-        "example": "Ethan's kite soared above the trees on his camping trip."
+        "word": "clutch",
+        "definition": "Coming through at just the right time.",
+        "example": "Diego made a clutch grab before his library book hit the floor."
       }
     ]
   },
   {
-    "away_team": "Los Angeles Chargers",
-    "home_team": "Baltimore Ravens",
-    "away_abbr": "LAC",
-    "home_abbr": "BAL",
-    "away_score": 23,
-    "home_score": 20,
-    "away_record": "1-8",
-    "home_record": "4-6",
-    "game_date": "2026-11-16",
-    "paragraph": "The final score in Baltimore read 23-20, Chargers! Justin Herbert ran 22 yards for a touchdown. Omarion Hampton ran in for another score. Cameron Dicker\u2019s field goal put Los Angeles up 23-13. Derrick Henry\u2019s touchdown run pulled the Ravens within 3 points. Then the Chargers recovered a crucial fumble by Zay Flowers. Los Angeles earned its first win of the season, ending an 11-game losing run.",
+    "away_team": "Baltimore Ravens",
+    "home_team": "Carolina Panthers",
+    "away_abbr": "BAL",
+    "home_abbr": "CAR",
+    "away_score": 33,
+    "home_score": 35,
+    "away_record": "4-7",
+    "home_record": "5-5",
+    "game_date": "2026-11-22",
+    "paragraph": "Ryan Fitzgerald kicked a 37-yard field goal, and the Panthers won 35-33! Earlier, Mike Green sacked Bryce Young in the end zone for a safety. Then Devontez Walker raced 86 yards for a Ravens touchdown. Chuba Hubbard ran in a touchdown for Carolina. Derrick Henry put Baltimore ahead 33-32, but Fitzgerald\u2019s kick sealed the comeback! The 5-5 Panthers kept a 2-game lead in the NFC South.",
     "big_words": [
       {
-        "word": "crucial",
-        "definition": "Very important.",
-        "example": "Nia made a crucial catch when the birthday balloon slipped away."
+        "word": "comeback",
+        "definition": "A win after being behind.",
+        "example": "Ava made a comeback on her bike ride and caught up with her friends."
+      }
+    ]
+  },
+  {
+    "away_team": "New York Jets",
+    "home_team": "Los Angeles Chargers",
+    "away_abbr": "NYJ",
+    "home_abbr": "LAC",
+    "away_score": 27,
+    "home_score": 24,
+    "away_record": "3-8",
+    "home_record": "1-9",
+    "game_date": "2026-11-22",
+    "paragraph": "Geno Smith zips a 16-yard touchdown pass to Sterling Shepard! It is Shepard\u2019s second touchdown catch of the game. Breece Hall also grabs a touchdown pass from Smith. Justin Herbert runs for a Chargers touchdown and later finds Ladd McConkey for another. The Jets hold on for a thrilling 27-24 win in Los Angeles! They end a 5-game skid and improve to 3-8, while the Chargers fall to 1-9.",
+    "big_words": [
+      {
+        "word": "thrilling",
+        "definition": "Very exciting.",
+        "example": "Kofi had a thrilling race through puddles on a rainy day."
+      }
+    ]
+  },
+  {
+    "away_team": "Las Vegas Raiders",
+    "home_team": "Denver Broncos",
+    "away_abbr": "LV",
+    "home_abbr": "DEN",
+    "away_score": 24,
+    "home_score": 38,
+    "away_record": "4-7",
+    "home_record": "8-2",
+    "game_date": "2026-11-22",
+    "paragraph": "Jonah Coleman ran for 111 yards and 3 touchdowns as Denver beat Las Vegas 38-24! The Raiders erased a 17-point lead in Denver. Fernando Mendoza threw to Ian Thomas to tie it at 17-17. Coleman rumbled in from 4 yards out to put the Broncos back ahead. Mendoza later found Jack Bech to bring the Raiders within 7. Then Ja'Quan McMillian snagged a pass and raced 35 yards for a pick-six! The Broncos showed grit and won their 6th game in a row.",
+    "big_words": [
+      {
+        "word": "grit",
+        "definition": "The courage to keep going when something is hard.",
+        "example": "Lily showed grit as she set up her lemonade stand."
+      }
+    ]
+  },
+  {
+    "away_team": "Jacksonville Jaguars",
+    "home_team": "New York Giants",
+    "away_abbr": "JAX",
+    "home_abbr": "NYG",
+    "away_score": 18,
+    "home_score": 23,
+    "away_record": "7-3",
+    "home_record": "6-3-1",
+    "game_date": "2026-11-22",
+    "paragraph": "23 points helped the Giants beat the Jaguars 23-18 in New York! Jameis Winston ran for a touchdown to put the Giants ahead. J.J. McCarthy then zipped a touchdown pass to Malik Nabers. Antonio Johnson returned a Jaguars fumble 42 yards. Later, Adebo intercepted a Trevor Lawrence pass. Lawrence hit Brian Thomas Jr. for a touchdown, but the 2-point pass was picked off! The Giants stayed in first place in the NFC East, while the Jaguars kept their AFC South lead.",
+    "big_words": [
+      {
+        "word": "intercepted",
+        "definition": "Caught a pass meant for the other team.",
+        "example": "Mateo intercepted a paper airplane flying over his science project."
+      }
+    ]
+  },
+  {
+    "away_team": "Minnesota Vikings",
+    "home_team": "San Francisco 49ers",
+    "away_abbr": "MIN",
+    "home_abbr": "SF",
+    "away_score": 10,
+    "home_score": 35,
+    "away_record": "7-3",
+    "home_record": "9-1",
+    "game_date": "2026-11-22",
+    "paragraph": "In Mexico City, the 49ers had a shot at a 9-1 record. Brock Purdy zipped a 17-yard touchdown pass to George Kittle. Aaron Jones Sr. ran for a Vikings touchdown. Then the 49ers surged for 21 points in the second quarter. Purdy hit Mike Evans for a score, and Ji'Ayir Brown raced back a pick-six! Christian McCaffrey ran in another touchdown as San Francisco won 35-10. The 49ers reached 9-1, while the Vikings fell to 7-3.",
+    "big_words": [
+      {
+        "word": "surged",
+        "definition": "Moved ahead with a burst of energy.",
+        "example": "Zoe surged ahead, stacking blocks to finish her tall tower."
+      }
+    ]
+  },
+  {
+    "away_team": "Cincinnati Bengals",
+    "home_team": "Washington Commanders",
+    "away_abbr": "CIN",
+    "home_abbr": "WSH",
+    "away_score": 20,
+    "home_score": 22,
+    "away_record": "7-3",
+    "home_record": "4-5-1",
+    "game_date": "2026-11-23",
+    "paragraph": "Who won the last kick? Drew Stevens did, giving Washington a 22-20 win over Cincinnati! Joe Burrow first zipped a touchdown pass to Tee Higgins for a 10-0 lead. Washington fought back, but Evan McPherson's 56-yard kick put Cincinnati ahead late. Then Jayden Daniels hit Antonio Williams for 2 long passes. Stevens kicked the winning field goal as time ran out. Washington scored on 6 consecutive drives and ended Cincinnati's 5-game winning run.",
+    "big_words": [
+      {
+        "word": "consecutive",
+        "definition": "Coming one after another, without a break.",
+        "example": "Ethan roasted 3 consecutive marshmallows on his camping trip."
       }
     ]
   }

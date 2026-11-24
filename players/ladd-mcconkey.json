@@ -1,0 +1,60 @@
+{
+  "name": "Ladd McConkey",
+  "espn_id": "4612826",
+  "team": "Los Angeles Chargers",
+  "team_abbr": "LAC",
+  "number": "15",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Georgia",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Ladd played four football positions in high school.",
+    "Ladd caught two touchdowns in the 2022 college national championship game.",
+    "Ladd set Chargers rookie records with 82 catches and 1,149 receiving yards."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "LAC",
+        "16",
+        "82",
+        "1,149",
+        "7",
+        "60"
+      ],
+      [
+        "2025",
+        "LAC",
+        "16",
+        "66",
+        "789",
+        "6",
+        "58"
+      ],
+      [
+        "2026",
+        "LAC",
+        "7",
+        "22",
+        "323",
+        "3",
+        "54"
+      ]
+    ]
+  }
+}

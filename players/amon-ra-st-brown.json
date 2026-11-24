@@ -8,6 +8,9 @@
   "position_abbr": "WR",
   "college": "USC",
   "experience": 6,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Amon-Ra spoke English, German, and French as a kid.",
     "Amon-Ra catches 202 balls after practice, a habit he started in middle school.",
@@ -73,10 +76,10 @@
       [
         "2026",
         "DET",
-        "9",
-        "65",
-        "755",
-        "7",
+        "10",
+        "70",
+        "792",
+        "8",
         "56"
       ]
     ]

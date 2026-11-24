@@ -1,0 +1,52 @@
+{
+  "name": "Jake Weinberg",
+  "espn_id": "5123219",
+  "team": "Miami Hurricanes",
+  "team_abbr": "MIA",
+  "number": "22",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Boynton Beach, FL",
+  "league": "cfb",
+  "fun_facts": [
+    "Jake's longest field goal in 2026 was 50 yards.",
+    "He made every extra point he tried in 2026.",
+    "Jake made 91.7% of his field goals in 2026."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2024",
+        "FSU",
+        "100.0",
+        "23",
+        "4"
+      ],
+      [
+        "2025",
+        "FSU",
+        "63.2",
+        "46",
+        "82"
+      ],
+      [
+        "2026",
+        "MIA",
+        "92.9",
+        "59",
+        "90"
+      ]
+    ]
+  }
+}

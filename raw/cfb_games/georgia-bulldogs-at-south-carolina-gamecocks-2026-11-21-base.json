@@ -1,0 +1,394 @@
+{
+  "run_id": "trun_bd5aff7f279040ea8d764f769474d74e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 121.3,
+  "input": {
+    "away_team": "Georgia Bulldogs",
+    "home_team": "South Carolina Gamecocks",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Georgia Bulldogs",
+    "key_plays": [
+      "Q2: Nate Frazier\u2019s 1-yard touchdown run put Georgia ahead 10-6.",
+      "Q3: Nate Frazier scored on a 2-yard run on Georgia\u2019s first sequence after halftime.",
+      "Q3 0:24: Khalil Barnes intercepted LaNorris Sellers at the Georgia 9-yard line.",
+      "Q4: Craig Dandridge caught a 14-yard touchdown pass from Gunner Stockton for Georgia\u2019s final score."
+    ],
+    "away_score": 34,
+    "storyline": "Georgia clinched a spot in the SEC Championship Game, becoming the first team to reach six consecutive SEC title games. Georgia finished 10-1 (8-1 SEC), while South Carolina fell to 6-5 (4-5 SEC).",
+    "top_performers": [
+      {
+        "stat_line": "94 rushing yards, 2 TD",
+        "team": "Georgia Bulldogs",
+        "name": "Nate Frazier"
+      },
+      {
+        "stat_line": "19/23, 281 yards, 1 TD, 0 INT",
+        "team": "Georgia Bulldogs",
+        "name": "Gunner Stockton"
+      },
+      {
+        "stat_line": "14-yard TD reception",
+        "team": "Georgia Bulldogs",
+        "name": "Craig Dandridge"
+      }
+    ],
+    "home_record_after": "6-5",
+    "tough_day": [
+      {
+        "stat_line": "10/18, 87 yards, 0 TD, 1 INT",
+        "team": "South Carolina Gamecocks",
+        "name": "LaNorris Sellers"
+      }
+    ],
+    "away_record_after": "10-1",
+    "home_team": "South Carolina Gamecocks",
+    "home_score": 6
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The ESPN game panel labels the matchup Final and gives the quarter-by-quarter scores for both teams, confirming it was played to a final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856753",
+          "excerpts": [
+            "[Georgia Bulldogs Georgia UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n10-1 , 8-1 SEC\n\n34\n\n10-1 , 8-1 SEC\n\nFinal\n\n| |1 |2 |3 |4 |T |",
+            "|[Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) UGA |3 |7 |10 |14 |34 |\n|[South Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks) SC |3 |3 |0 |0 |6 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup heading identifies Georgia Bulldogs as the visiting team and South Carolina Gamecocks as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/matchup/_/gameId/401856753",
+          "excerpts": [
+            "[South Carolina Gamecocks South Carolina SC](https://espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\n6-5 , 4-5 SEC\n\n6\n\n6-5 , 4-5 SEC\n\n# Georgia Bulldogs @ South Carolina Gamecocks"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The recap gives Frazier\u2019s second-quarter and early third-quarter touchdown runs and Dandridge\u2019s final touchdown. The play-by-play records Barnes\u2019s interception at 0:24 in the third quarter, after Frazier\u2019s early-third-quarter score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "Frazier had a 1-yard TD run in the second quarter to put Georgia ahead to stay, 10-6. His 2-yard scoring run came on the Bulldogs first sequence after halftime. [Craig Dandridge](http://www.espn.com/college-football/player/_/id/5263766/craig-dandridge) Jr. took a pass in the backfield from Stockton 14 yards for Georgia's final score."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856753",
+          "excerpts": [
+            "2nd & 1 at UGA 25\n\nInterception\n\n0:24 - 3rd\n\nNo Huddle-Shotgun #16 L.Sellers pass intercepted by #7 K.Barnes at UGA09, End Of Play\n\n1st & 10 at UGA 22\n\n4th Quarter\n\nTouchdown\n\n11 plays, 91 yards, 6:13\n\n27\n\nUGA\n\n6"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The Georgia row in the box score lists 34 as the team\u2019s total.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "| [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) UGA | 3 | 7 | 10 | 14 | 34 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states Georgia clinched its SEC title-game berth and became the first team to advance to six consecutive SEC title games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "COLUMBIA, S.C. -- \u2014 [Nate Frazier](http://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran for 94 yards and two touchdowns, and No. 1 Georgia clinched a spot in the final Southeastern Conference championship game with a 34-6 victory over South Carolina on Saturday night. The Bulldogs (10-1, 8-1 SEC; No. 1 CFP) became the first team to advance to six consecutive SEC title games and will await their opponent in what had become one of the most anticipated contests of the year."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The recap reports Frazier\u2019s 94 rushing yards and two touchdowns, the box-score passage gives Stockton\u2019s passing line, and the recap identifies Dandridge\u2019s 14-yard touchdown reception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
+          "excerpts": [
+            "[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran for 94 yards and two touchdowns while [Gunnar Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) threw for 281 yards and a TD. Georgia's defense, after a sluggish first quarter, shut down the Gamecocks and dynamic quarterback [LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) .\n\nThe Bulldogs (10-1, 8-1 SEC; No. 1 CFP) will await their opponent in what has become one of the most anticipated contests of the year."
+          ],
+          "title": "Georgia clinches SEC title game berth with win at South Carolina - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "|[Gunner Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) \\#14 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|19/23 |281 |1 |0 | |\n|19/23 |281 |1 |0 | |\n\nSouth Carolina\n\nSouth Carolina Passing\n\n| |\n| --- |\n|[LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) \\#16 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|10/18 |87 |0 |1 | |\n|10/18 |87 |0 |1 | |\n\nGeorgia\n\nGeorgia Rushing\n\n| |\n| --- |\n|[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) \\#3 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "His 2-yard scoring run came on the Bulldogs first sequence after halftime. [Craig Dandridge](http://www.espn.com/college-football/player/_/id/5263766/craig-dandridge) Jr. took a pass in the backfield from Stockton 14 yards for Georgia's final score."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The game panel lists South Carolina at 6-5 after the final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/matchup/_/gameId/401856753",
+          "excerpts": [
+            "[South Carolina Gamecocks South Carolina SC](https://espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\n6-5 , 4-5 SEC\n\n6\n\n6-5 , 4-5 SEC\n\n# Georgia Bulldogs @ South Carolina Gamecocks"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The South Carolina passing line lists Sellers at 10/18 for 87 yards, with no touchdowns and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "|[Gunner Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) \\#14 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|19/23 |281 |1 |0 | |\n|19/23 |281 |1 |0 | |\n\nSouth Carolina\n\nSouth Carolina Passing\n\n| |\n| --- |\n|[LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) \\#16 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|10/18 |87 |0 |1 | |\n|10/18 |87 |0 |1 | |\n\nGeorgia\n\nGeorgia Rushing\n\n| |\n| --- |\n|[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) \\#3 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The recap lists Georgia\u2019s postgame record as 10-1 overall and 8-1 in SEC play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "The Bulldogs (10-1, 8-1 SEC; No."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup heading identifies South Carolina Gamecocks as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/matchup/_/gameId/401856753",
+          "excerpts": [
+            "[South Carolina Gamecocks South Carolina SC](https://espn.com/college-football/team/_/id/2579/south-carolina-gamecocks)\n\n6-5 , 4-5 SEC\n\n6\n\n6-5 , 4-5 SEC\n\n# Georgia Bulldogs @ South Carolina Gamecocks"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The South Carolina row in the box score lists 6 as the team\u2019s total.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "| [South Carolina](https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks) SC | 3 | 3 | 0 | 0 | 6 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The recap states Frazier\u2019s 1-yard second-quarter touchdown run put Georgia ahead 10-6.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "Frazier had a 1-yard TD run in the second quarter to put Georgia ahead to stay, 10-6."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The recap states Frazier scored on a 2-yard run on Georgia\u2019s first sequence after halftime.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "His 2-yard scoring run came on the Bulldogs first sequence after halftime. [Craig Dandridge](http://www.espn.com/college-football/player/_/id/5263766/craig-dandridge) Jr. took a pass in the backfield from Stockton 14 yards for Georgia's final score."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play lists Sellers\u2019s pass intercepted by Khalil Barnes at 0:24 in the third quarter, at the Georgia 9.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856753",
+          "excerpts": [
+            "2nd & 1 at UGA 25\n\nInterception\n\n0:24 - 3rd\n\nNo Huddle-Shotgun #16 L.Sellers pass intercepted by #7 K.Barnes at UGA09, End Of Play\n\n1st & 10 at UGA 22\n\n4th Quarter\n\nTouchdown\n\n11 plays, 91 yards, 6:13\n\n27\n\nUGA\n\n6"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The recap says Dandridge took a pass from Stockton 14 yards for Georgia\u2019s final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "His 2-yard scoring run came on the Bulldogs first sequence after halftime. [Craig Dandridge](http://www.espn.com/college-football/player/_/id/5263766/craig-dandridge) Jr. took a pass in the backfield from Stockton 14 yards for Georgia's final score."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap reports Frazier ran for 94 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
+          "excerpts": [
+            "[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) ran for 94 yards and two touchdowns while [Gunnar Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) threw for 281 yards and a TD. Georgia's defense, after a sluggish first quarter, shut down the Gamecocks and dynamic quarterback [LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) .\n\nThe Bulldogs (10-1, 8-1 SEC; No. 1 CFP) will await their opponent in what has become one of the most anticipated contests of the year."
+          ],
+          "title": "Georgia clinches SEC title game berth with win at South Carolina - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box-score passage lists Stockton\u2019s line as 19/23, 281 yards, one touchdown, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "|[Gunner Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) \\#14 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|19/23 |281 |1 |0 | |\n|19/23 |281 |1 |0 | |\n\nSouth Carolina\n\nSouth Carolina Passing\n\n| |\n| --- |\n|[LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) \\#16 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|10/18 |87 |0 |1 | |\n|10/18 |87 |0 |1 | |\n\nGeorgia\n\nGeorgia Rushing\n\n| |\n| --- |\n|[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) \\#3 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The recap identifies Dandridge\u2019s 14-yard touchdown reception as Georgia\u2019s final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856753",
+          "excerpts": [
+            "His 2-yard scoring run came on the Bulldogs first sequence after halftime. [Craig Dandridge](http://www.espn.com/college-football/player/_/id/5263766/craig-dandridge) Jr. took a pass in the backfield from Stockton 14 yards for Georgia's final score."
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The box-score passage lists Sellers\u2019s South Carolina passing line as 10/18, 87 yards, no touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856753",
+          "excerpts": [
+            "|[Gunner Stockton](https://www.espn.com/college-football/player/_/id/4685578/gunner-stockton) \\#14 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|19/23 |281 |1 |0 | |\n|19/23 |281 |1 |0 | |\n\nSouth Carolina\n\nSouth Carolina Passing\n\n| |\n| --- |\n|[LaNorris Sellers](https://www.espn.com/college-football/player/_/id/4875127/lanorris-sellers) \\#16 |\n|team |\n\n|C/ATT |YDS |TD |INT | |\n| --- | --- | --- | --- | --- |\n|10/18 |87 |0 |1 | |\n|10/18 |87 |0 |1 | |\n\nGeorgia\n\nGeorgia Rushing\n\n| |\n| --- |\n|[Nate Frazier](https://www.espn.com/college-football/player/_/id/5084047/nate-frazier) \\#3 |"
+          ],
+          "title": "Georgia 34-6 South Carolina (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "away_score",
+      "away_team",
+      "game_was_played",
+      "home_record_after",
+      "home_score",
+      "home_team",
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "auto_corrections": [
+    {
+      "from": "Gunnar Stockton",
+      "to": "Gunner Stockton",
+      "source": "ESPN box score"
+    }
+  ],
+  "recap": {
+    "paragraph": "Nate Frazier rumbles 1 yard for a touchdown, putting No. 1 Georgia ahead 10-6! Frazier scored again after halftime in South Carolina. Khalil Barnes snagged an interception at Georgia\u2019s 9-yard line. Gunner Stockton later zipped a 14-yard touchdown pass to Craig Dandridge. Georgia beat No. 21 South Carolina 34-6! Georgia clinched a spot in its 6th straight SEC title game, a first for any team.",
+    "big_words": [
+      {
+        "word": "clinched",
+        "definition": "Made sure of getting something.",
+        "example": "Sofia clinched first place with her bubbling volcano science project."
+      }
+    ],
+    "opener": "Start with the single biggest play, told as action, as if it is happening now.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1231,
+        "output": 201
+      }
+    ]
+  }
+}

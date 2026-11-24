@@ -5,44 +5,44 @@
         "seed": 1,
         "team": "Buffalo Bills",
         "abbr": "BUF",
-        "record": "8-1"
+        "record": "9-1"
       },
       {
         "seed": 2,
-        "team": "Kansas City Chiefs",
-        "abbr": "KC",
-        "record": "7-2"
+        "team": "Denver Broncos",
+        "abbr": "DEN",
+        "record": "8-2"
       },
       {
         "seed": 3,
         "team": "Jacksonville Jaguars",
         "abbr": "JAX",
-        "record": "7-2"
+        "record": "7-3"
       },
       {
         "seed": 4,
         "team": "Cincinnati Bengals",
         "abbr": "CIN",
-        "record": "7-2"
+        "record": "7-3"
       }
     ],
     "wild_card": [
       {
         "seed": 5,
-        "team": "Denver Broncos",
-        "abbr": "DEN",
-        "record": "7-2"
+        "team": "Kansas City Chiefs",
+        "abbr": "KC",
+        "record": "8-2"
       },
       {
         "seed": 6,
-        "team": "Pittsburgh Steelers",
-        "abbr": "PIT",
-        "record": "6-3"
+        "team": "Cleveland Browns",
+        "abbr": "CLE",
+        "record": "6-4"
       },
       {
         "seed": 7,
-        "team": "Cleveland Browns",
-        "abbr": "CLE",
+        "team": "Pittsburgh Steelers",
+        "abbr": "PIT",
         "record": "6-4"
       }
     ],
@@ -55,51 +55,51 @@
       },
       {
         "seed": 9,
-        "team": "Las Vegas Raiders",
-        "abbr": "LV",
+        "team": "Houston Texans",
+        "abbr": "HOU",
         "record": "4-6"
       },
       {
         "seed": 10,
-        "team": "Baltimore Ravens",
-        "abbr": "BAL",
-        "record": "4-6"
+        "team": "Las Vegas Raiders",
+        "abbr": "LV",
+        "record": "4-7"
       },
       {
         "seed": 11,
-        "team": "Houston Texans",
-        "abbr": "HOU",
-        "record": "3-6"
+        "team": "Baltimore Ravens",
+        "abbr": "BAL",
+        "record": "4-7"
       },
       {
         "seed": 12,
-        "team": "Indianapolis Colts",
-        "abbr": "IND",
-        "record": "3-7"
+        "team": "New York Jets",
+        "abbr": "NYJ",
+        "record": "3-8"
       },
       {
         "seed": 13,
-        "team": "New York Jets",
-        "abbr": "NYJ",
-        "record": "2-8"
+        "team": "Indianapolis Colts",
+        "abbr": "IND",
+        "record": "3-8"
       },
       {
         "seed": 14,
         "team": "Los Angeles Chargers",
         "abbr": "LAC",
-        "record": "1-8"
+        "record": "1-9"
       },
       {
         "seed": 15,
         "team": "Miami Dolphins",
         "abbr": "MIA",
-        "record": "1-8"
+        "record": "1-9"
       },
       {
         "seed": 16,
         "team": "Tennessee Titans",
         "abbr": "TEN",
-        "record": "1-8"
+        "record": "1-9"
       }
     ]
   },
@@ -109,39 +109,39 @@
         "seed": 1,
         "team": "San Francisco 49ers",
         "abbr": "SF",
-        "record": "8-1"
+        "record": "9-1"
       },
       {
         "seed": 2,
         "team": "Detroit Lions",
         "abbr": "DET",
-        "record": "7-2"
+        "record": "8-2"
       },
       {
         "seed": 3,
         "team": "New York Giants",
         "abbr": "NYG",
-        "record": "5-3-1"
+        "record": "6-3-1"
       },
       {
         "seed": 4,
         "team": "Carolina Panthers",
         "abbr": "CAR",
-        "record": "4-5"
+        "record": "5-5"
       }
     ],
     "wild_card": [
       {
         "seed": 5,
-        "team": "Minnesota Vikings",
-        "abbr": "MIN",
-        "record": "7-2"
+        "team": "Chicago Bears",
+        "abbr": "CHI",
+        "record": "8-2"
       },
       {
         "seed": 6,
-        "team": "Chicago Bears",
-        "abbr": "CHI",
-        "record": "7-2"
+        "team": "Minnesota Vikings",
+        "abbr": "MIN",
+        "record": "7-3"
       },
       {
         "seed": 7,
@@ -167,43 +167,43 @@
         "seed": 10,
         "team": "Dallas Cowboys",
         "abbr": "DAL",
-        "record": "4-6"
+        "record": "5-6"
       },
       {
         "seed": 11,
         "team": "Washington Commanders",
         "abbr": "WSH",
-        "record": "3-5-1"
+        "record": "4-5-1"
       },
       {
         "seed": 12,
         "team": "Tampa Bay Buccaneers",
         "abbr": "TB",
-        "record": "3-6"
+        "record": "3-7"
       },
       {
         "seed": 13,
-        "team": "New Orleans Saints",
-        "abbr": "NO",
-        "record": "3-6"
-      },
-      {
-        "seed": 14,
         "team": "Atlanta Falcons",
         "abbr": "ATL",
         "record": "3-7"
       },
       {
+        "seed": 14,
+        "team": "New Orleans Saints",
+        "abbr": "NO",
+        "record": "3-7"
+      },
+      {
         "seed": 15,
-        "team": "Arizona Cardinals",
-        "abbr": "ARI",
+        "team": "Philadelphia Eagles",
+        "abbr": "PHI",
         "record": "3-7"
       },
       {
         "seed": 16,
-        "team": "Philadelphia Eagles",
-        "abbr": "PHI",
-        "record": "2-7"
+        "team": "Arizona Cardinals",
+        "abbr": "ARI",
+        "record": "3-8"
       }
     ]
   }

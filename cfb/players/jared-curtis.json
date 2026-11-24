@@ -1,0 +1,42 @@
+{
+  "name": "Jared Curtis",
+  "espn_id": "5158948",
+  "team": "Vanderbilt Commodores",
+  "team_abbr": "VAN",
+  "number": "2",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Freshman",
+  "hometown": "Nashville, TN",
+  "league": "cfb",
+  "fun_facts": [
+    "Jared ran for 38 touchdowns in high school.",
+    "Jared threw five touchdowns and ran for one in his last high school game.",
+    "He threw his first college touchdown and ran for two more against Delaware."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "VAN",
+        "182",
+        "289",
+        "2,080",
+        "10",
+        "8"
+      ]
+    ]
+  }
+}

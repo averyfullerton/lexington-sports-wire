@@ -1,0 +1,123 @@
+{
+  "name": "Jake Elliott",
+  "espn_id": "3050478",
+  "team": "Philadelphia Eagles",
+  "team_abbr": "PHI",
+  "number": "4",
+  "position": "Place Kicker",
+  "position_abbr": "PK",
+  "college": "Memphis",
+  "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Jake played tennis and soccer.",
+    "He kicked a school-record 56-yard field goal in college at Memphis.",
+    "He made a 61-yard game-winning field goal, the longest in Eagles history."
+  ],
+  "stats": {
+    "kind": "kicking",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Field goals",
+      "FG %",
+      "Longest",
+      "Points"
+    ],
+    "rows": [
+      [
+        "2017",
+        "PHI",
+        "15",
+        "26-31",
+        "83.9",
+        "61",
+        "117"
+      ],
+      [
+        "2018",
+        "PHI",
+        "16",
+        "26-31",
+        "83.9",
+        "56",
+        "111"
+      ],
+      [
+        "2019",
+        "PHI",
+        "16",
+        "22-26",
+        "84.6",
+        "53",
+        "101"
+      ],
+      [
+        "2020",
+        "PHI",
+        "16",
+        "14-19",
+        "73.7",
+        "54",
+        "66"
+      ],
+      [
+        "2021",
+        "PHI",
+        "17",
+        "30-33",
+        "90.9",
+        "58",
+        "134"
+      ],
+      [
+        "2022",
+        "PHI",
+        "16",
+        "20-23",
+        "87.0",
+        "56",
+        "111"
+      ],
+      [
+        "2023",
+        "PHI",
+        "17",
+        "30-32",
+        "93.8",
+        "61",
+        "135"
+      ],
+      [
+        "2024",
+        "PHI",
+        "17",
+        "28-36",
+        "77.8",
+        "50",
+        "131"
+      ],
+      [
+        "2025",
+        "PHI",
+        "17",
+        "20-27",
+        "74.1",
+        "58",
+        "101"
+      ],
+      [
+        "2026",
+        "PHI",
+        "10",
+        "11-12",
+        "91.7",
+        "58",
+        "51"
+      ]
+    ]
+  }
+}

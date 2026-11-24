@@ -1,0 +1,150 @@
+{
+  "name": "Travis Kelce",
+  "espn_id": "15847",
+  "team": "Kansas City Chiefs",
+  "team_abbr": "KC",
+  "number": "87",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Cincinnati",
+  "experience": 14,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Travis played football, basketball, and baseball in high school.",
+    "Travis was the first NFL tight end with four 1,000-yard seasons in a row.",
+    "Travis was the fastest tight end to reach 10,000 receiving yards, in 140 games."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2014",
+        "KC",
+        "16",
+        "67",
+        "862",
+        "5",
+        "34"
+      ],
+      [
+        "2015",
+        "KC",
+        "16",
+        "72",
+        "875",
+        "5",
+        "42"
+      ],
+      [
+        "2016",
+        "KC",
+        "16",
+        "85",
+        "1,125",
+        "4",
+        "80"
+      ],
+      [
+        "2017",
+        "KC",
+        "15",
+        "83",
+        "1,038",
+        "8",
+        "44"
+      ],
+      [
+        "2018",
+        "KC",
+        "16",
+        "103",
+        "1,336",
+        "10",
+        "43"
+      ],
+      [
+        "2019",
+        "KC",
+        "16",
+        "97",
+        "1,229",
+        "5",
+        "47"
+      ],
+      [
+        "2020",
+        "KC",
+        "15",
+        "105",
+        "1,416",
+        "11",
+        "45"
+      ],
+      [
+        "2021",
+        "KC",
+        "16",
+        "92",
+        "1,125",
+        "9",
+        "69"
+      ],
+      [
+        "2022",
+        "KC",
+        "17",
+        "110",
+        "1,338",
+        "12",
+        "52"
+      ],
+      [
+        "2023",
+        "KC",
+        "15",
+        "93",
+        "984",
+        "5",
+        "53"
+      ],
+      [
+        "2024",
+        "KC",
+        "16",
+        "97",
+        "823",
+        "3",
+        "38"
+      ],
+      [
+        "2025",
+        "KC",
+        "17",
+        "76",
+        "851",
+        "5",
+        "44"
+      ],
+      [
+        "2026",
+        "KC",
+        "10",
+        "41",
+        "586",
+        "4",
+        "59"
+      ]
+    ]
+  }
+}

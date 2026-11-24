@@ -1,0 +1,166 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea5c5c2d3358d0ca9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 199.3,
+  "input": {
+    "player": "Michael Terry III",
+    "team": "Texas Longhorns",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In high school, Michael Terry III was a two-way football star.",
+      "He began his senior season with more than 3,000 career all-purpose yards.",
+      "He was the reigning District 13-5A MVP as a high-school senior.",
+      "In 2026, he scored on a 2-yard run against Ole Miss.",
+      "He also ran in a 1-yard touchdown against Arkansas in 2026."
+    ],
+    "high_school": "Alamo Heights High School",
+    "hometown": "San Antonio, Texas"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "ESPN describes Terry as a two-way star and reports that he entered his senior season with more than 3,000 career all-purpose yards while reigning as District 13-5A MVP. ESPN game coverage records his 2-yard rushing touchdown against Ole Miss and 1-yard touchdown against Arkansas in 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/42774058/michael-terry-iii-commits-texas-nebraska-oregon",
+          "excerpts": [
+            "[Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) in a ceremony at Texas' Alamo Heights High School.\n\nTerry is ESPN's No. 3 athlete prospect in the 2025 cycle and began Wednesday as the nation's third-ranked uncommitted recruit.\n\nA versatile, two-way star from San Antonio, Terry visited Oregon, Texas, [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-a&m-aggies) and Nebraska in the summer before taking return trips to the Longhorns and Huskers earlier this fall.",
+            "2 Related\n\nTerry began his senior season with more than 3,000 career all-purpose yards as Texas' reigning District 13-5A MVP."
+          ],
+          "title": "Michael Terry III commits to Texas over Nebraska, Oregon - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+          "excerpts": [
+            "5 plays, 61 yards, 1:57\n\nTexas Longhorns\n\nTouchdown\n\n9:21 - 2nd\n\n3\n\nMISS\n\n24\n\nTEX\n\nMichael Terry III 2 Yd Run (Gianni Spetic Kick)\n\n6 plays, 62 yards, 2:22\n\n3rd Quarter\n\nOle Miss Rebels\n\nTouchdown"
+          ],
+          "title": "Texas 34-27 Ole Miss (Oct 24, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/matchup/_/gameId/401856755",
+          "excerpts": [
+            "Michael Terry III rushes in for 1-yard touchdown\n\n* 0:32\n\n[View More](https://africa.espn.com/college-football/video/_/gameId/401856755 \"View More - ARK @ TEX Videos\")\n\n## 2026 Standings\n\nFBS"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting-class row for Michael Terry lists Alamo Heights High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/school/_/id/251/class/2025",
+          "excerpts": [
+            "|[**Michael Terry**](https://www.espn.com/college-sports/football/recruiting/player/_/id/253456/michael-terry)  \nVideo | [Scouts Report](https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/253456/michael-terry)  \n[](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/view/rn300/sort/rank/class/2025) |\\#1 ATH |San Antonio, TX  \nAlamo Heights High School |6'3'' |215 |* |86 |Texas"
+          ],
+          "title": "College Football Recruiting Classes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The same ESPN recruiting-class row identifies his location as San Antonio, TX.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/school/_/id/251/class/2025",
+          "excerpts": [
+            "|[**Michael Terry**](https://www.espn.com/college-sports/football/recruiting/player/_/id/253456/michael-terry)  \nVideo | [Scouts Report](https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/253456/michael-terry)  \n[](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/view/rn300/sort/rank/class/2025) |\\#1 ATH |San Antonio, TX  \nAlamo Heights High School |6'3'' |215 |* |86 |Texas"
+          ],
+          "title": "College Football Recruiting Classes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN characterizes Terry as a versatile, two-way star.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/42774058/michael-terry-iii-commits-texas-nebraska-oregon",
+          "excerpts": [
+            "[Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) in a ceremony at Texas' Alamo Heights High School.\n\nTerry is ESPN's No. 3 athlete prospect in the 2025 cycle and began Wednesday as the nation's third-ranked uncommitted recruit.\n\nA versatile, two-way star from San Antonio, Terry visited Oregon, Texas, [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-a&m-aggies) and Nebraska in the summer before taking return trips to the Longhorns and Huskers earlier this fall."
+          ],
+          "title": "Michael Terry III commits to Texas over Nebraska, Oregon - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The article states that Terry began his senior season with more than 3,000 career all-purpose yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/42774058/michael-terry-iii-commits-texas-nebraska-oregon",
+          "excerpts": [
+            "2 Related\n\nTerry began his senior season with more than 3,000 career all-purpose yards as Texas' reigning District 13-5A MVP."
+          ],
+          "title": "Michael Terry III commits to Texas over Nebraska, Oregon - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article identifies Terry as the reigning District 13-5A MVP.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/42774058/michael-terry-iii-commits-texas-nebraska-oregon",
+          "excerpts": [
+            "2 Related\n\nTerry began his senior season with more than 3,000 career all-purpose yards as Texas' reigning District 13-5A MVP."
+          ],
+          "title": "Michael Terry III commits to Texas over Nebraska, Oregon - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN's Ole Miss game coverage records Michael Terry III scoring on a 2-yard run.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856732/ole-miss-texas",
+          "excerpts": [
+            "5 plays, 61 yards, 1:57\n\nTexas Longhorns\n\nTouchdown\n\n9:21 - 2nd\n\n3\n\nMISS\n\n24\n\nTEX\n\nMichael Terry III 2 Yd Run (Gianni Spetic Kick)\n\n6 plays, 62 yards, 2:22\n\n3rd Quarter\n\nOle Miss Rebels\n\nTouchdown"
+          ],
+          "title": "Texas 34-27 Ole Miss (Oct 24, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN's Arkansas game coverage says Michael Terry III ran in for a 1-yard touchdown.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/matchup/_/gameId/401856755",
+          "excerpts": [
+            "Michael Terry III rushes in for 1-yard touchdown\n\n* 0:32\n\n[View More](https://africa.espn.com/college-football/video/_/gameId/401856755 \"View More - ARK @ TEX Videos\")\n\n## 2026 Standings\n\nFBS"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Game Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

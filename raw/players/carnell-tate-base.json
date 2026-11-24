@@ -1,0 +1,159 @@
+{
+  "run_id": "trun_415f3f698c1f435b8eb4c79cfe8437ba",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 197.8,
+  "input": {
+    "player": "Carnell Tate",
+    "team": "Tennessee Titans",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Ohio State",
+    "fun_facts": [
+      "Carnell Tate is from Chicago. He attended Marist High School before finishing high school at IMG Academy.",
+      "He enjoys Legos and video games; his listed favorite is Call of Duty.",
+      "In Ohio State\u2019s 2024 national championship season, he started all 15 games and caught 52 passes for 733 yards and four touchdowns.",
+      "As a junior, he earned first-team Academic All-American honors with a 3.50 GPA while majoring in sport industry.",
+      "He finished his Ohio State career with 121 catches, 1,872 yards and 14 touchdowns; his catches and yards ranked 18th in school history, and his touchdowns ranked 26th."
+    ],
+    "draft": "2026, round 1, pick 4"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Ohio State as Carnell Tate\u2019s team and shows his career history there, supporting Ohio State as the college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4871023/carnell-tate",
+          "excerpts": [
+            "### Biography\n\nTeam [Ohio State Buckeyes](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\nPosition Wide Receiver\n\nClass Junior\n\nHT/WT 6' 3\", 195 lbs\n\nBirthplace Chicago, IL\n\nStatus Active\n\n### Career History\n\n[Ohio State Buckeyes Ohio State Buckeyes 2023-CURRENT (3 Seasons)](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n\n### Latest Videos"
+          ],
+          "title": "Carnell Tate Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited official team and school materials support the hometown and high-school background, hobbies, 2024 championship-season statistics, academic honors and GPA, and Ohio State career totals and rankings.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/j1ej3yryyruoenfjaqog",
+          "excerpts": [
+            "\u2022 Carnell's star at Ohio State continued to rise for three years while he was a member of the team before declaring for the 2026 NFL Draft following the 2025 season, his third with the\n\nprogram\n\n## 2025 Football Roster\n\n**Position:** Wide Receiver **Height:** 6-3\n\n**Weight:** 195 **Hometown:** Chicago\n\n**Last School:** Marist (Ill.) / IMG Academy **Year:** Junior\n\n## 17\n\n## Carnell Tate\n\n\u2022 He played in 39 games between 2023-25, started 26 and finished his Ohio State career with 121 receptions for 1,872 yards and 14 touchdowns\n\n\u2022 He ranks 18th in both receptions and yards at Ohio State and 26th in touchdowns\n\n\u2022 Had a reception in 37 of the 39 games in which he played\n\n\u2022 Despite missing three games in 2025 because of injury, Tate was a force on the playing field with 51 receptions for 875 yards, a 17.2 yards-per reception average with nine touchdowns",
+            "\u2022 Tate was also a force off the field in 2025: he was a first-team Academic All-American as selected by the College Sports Communicators with a 3.50 grade point average while majoring in sport industry \u2022 He is the 33rd Ohio State football player to earn first-team Academic All-America honors \u2022 15 of Tate's starts came as a sophomore during the Buckeyes' national championship season of 2024"
+          ],
+          "title": "Carnell Tate | 2025 | Football | Ohio State"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/mqmds0k1uxk1qbdno71c",
+          "excerpts": [
+            "On draft night, Tate had his mother\u2019s name inscribed on his suit jacket. \u2022 Tate has a love for Legos and video games, including his current favorite Call of Duty.",
+            "**AS A SOPHOMORE (2024),** started in 15 games and caught 52 passes for 733 yards with four touchdowns during the Ohio State national championship run.",
+            "**PERSONAL:** \u2022 Attended Marist (Ill.) High School for his freshman and sophomore seasons before finishing his high school career at IMG Academy. \u2022 Was named a four-star prospect and the No. 25 player nationally regardless of position by 247Sports as a senior."
+          ],
+          "title": "draft PiCKS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s NFL player profile lists Tate\u2019s draft information as 2026, round 1, pick 4.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4871023/carnell-tate",
+          "excerpts": [
+            "[Ohio State](https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes)\n* Draft Info\n  \n  2026: Rd 1, Pk 4 (TEN)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  34\n  \n  Tied-51st\n  \n  YDS\n  \n  413\n  \n  43rd\n  \n  TD\n  \n  1\n  \n  Tied-87th\n  \n  AVG\n  \n  12\\.1\n  \n  56th\n\n* [Overview](https://www.espn.com/nfl/player/_/id/4871023/carnell-tate)"
+          ],
+          "title": "Carnell Tate - Tennessee Titans Wide Receiver - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Titans\u2019 player profile lists Chicago as his hometown; the personal-background section says he attended Marist before finishing high school at IMG Academy.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/j1ej3yryyruoenfjaqog",
+          "excerpts": [
+            "\u2022 Carnell's star at Ohio State continued to rise for three years while he was a member of the team before declaring for the 2026 NFL Draft following the 2025 season, his third with the\n\nprogram\n\n## 2025 Football Roster\n\n**Position:** Wide Receiver **Height:** 6-3\n\n**Weight:** 195 **Hometown:** Chicago\n\n**Last School:** Marist (Ill.) / IMG Academy **Year:** Junior\n\n## 17\n\n## Carnell Tate\n\n\u2022 He played in 39 games between 2023-25, started 26 and finished his Ohio State career with 121 receptions for 1,872 yards and 14 touchdowns\n\n\u2022 He ranks 18th in both receptions and yards at Ohio State and 26th in touchdowns\n\n\u2022 Had a reception in 37 of the 39 games in which he played\n\n\u2022 Despite missing three games in 2025 because of injury, Tate was a force on the playing field with 51 receptions for 875 yards, a 17.2 yards-per reception average with nine touchdowns"
+          ],
+          "title": "Carnell Tate | 2025 | Football | Ohio State"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/mqmds0k1uxk1qbdno71c",
+          "excerpts": [
+            "**PERSONAL:** \u2022 Attended Marist (Ill.) High School for his freshman and sophomore seasons before finishing his high school career at IMG Academy. \u2022 Was named a four-star prospect and the No. 25 player nationally regardless of position by 247Sports as a senior."
+          ],
+          "title": "draft PiCKS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Titans\u2019 profile states that Tate enjoys Legos and video games, including Call of Duty.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/mqmds0k1uxk1qbdno71c",
+          "excerpts": [
+            "On draft night, Tate had his mother\u2019s name inscribed on his suit jacket. \u2022 Tate has a love for Legos and video games, including his current favorite Call of Duty."
+          ],
+          "title": "draft PiCKS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Titans\u2019 profile says Tate started all 15 games and recorded 52 receptions, 733 yards, and four touchdowns during Ohio State\u2019s 2024 championship season.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/mqmds0k1uxk1qbdno71c",
+          "excerpts": [
+            "**AS A SOPHOMORE (2024),** started in 15 games and caught 52 passes for 733 yards with four touchdowns during the Ohio State national championship run."
+          ],
+          "title": "draft PiCKS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "Ohio State\u2019s roster entry identifies Tate as a first-team Academic All-American, gives his 3.50 GPA, and lists his major as sport industry.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/j1ej3yryyruoenfjaqog",
+          "excerpts": [
+            "\u2022 Tate was also a force off the field in 2025: he was a first-team Academic All-American as selected by the College Sports Communicators with a 3.50 grade point average while majoring in sport industry \u2022 He is the 33rd Ohio State football player to earn first-team Academic All-America honors \u2022 15 of Tate's starts came as a sophomore during the Buckeyes' national championship season of 2024"
+          ],
+          "title": "Carnell Tate | 2025 | Football | Ohio State"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Titans\u2019 player profile gives Tate\u2019s career totals and his Ohio State rankings for receptions, receiving yards, and touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/titans/j1ej3yryyruoenfjaqog",
+          "excerpts": [
+            "\u2022 Carnell's star at Ohio State continued to rise for three years while he was a member of the team before declaring for the 2026 NFL Draft following the 2025 season, his third with the\n\nprogram\n\n## 2025 Football Roster\n\n**Position:** Wide Receiver **Height:** 6-3\n\n**Weight:** 195 **Hometown:** Chicago\n\n**Last School:** Marist (Ill.) / IMG Academy **Year:** Junior\n\n## 17\n\n## Carnell Tate\n\n\u2022 He played in 39 games between 2023-25, started 26 and finished his Ohio State career with 121 receptions for 1,872 yards and 14 touchdowns\n\n\u2022 He ranks 18th in both receptions and yards at Ohio State and 26th in touchdowns\n\n\u2022 Had a reception in 37 of the 39 games in which he played\n\n\u2022 Despite missing three games in 2025 because of injury, Tate was a force on the playing field with 51 receptions for 875 yards, a 17.2 yards-per reception average with nine touchdowns"
+          ],
+          "title": "Carnell Tate | 2025 | Football | Ohio State"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

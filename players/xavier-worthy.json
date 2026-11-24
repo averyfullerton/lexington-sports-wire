@@ -1,0 +1,60 @@
+{
+  "name": "Xavier Worthy",
+  "espn_id": "4683062",
+  "team": "Kansas City Chiefs",
+  "team_abbr": "KC",
+  "number": "1",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Texas",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Xavier ran the 40-yard dash in 4.21 seconds, an NFL Combine record.",
+    "Xavier helped his high school win its first state title with 16 touchdowns.",
+    "Xavier set a Texas school record with 12 receiving touchdowns as a college freshman."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "KC",
+        "17",
+        "59",
+        "638",
+        "6",
+        "54"
+      ],
+      [
+        "2025",
+        "KC",
+        "14",
+        "42",
+        "532",
+        "1",
+        "42"
+      ],
+      [
+        "2026",
+        "KC",
+        "10",
+        "35",
+        "316",
+        "2",
+        "41"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Sterling Shepard",
+  "espn_id": "2976592",
+  "team": "New York Jets",
+  "team_abbr": "NYJ",
+  "number": "87",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Oklahoma",
+  "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Sterling caught 69 passes for 1,114 yards and 10 touchdowns in his senior season.",
+    "Sterling caught the winning touchdown in double overtime and had 40 punt return yards.",
+    "Sterling won the Disney Spirit Award in 2014."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2016",
+        "NYG",
+        "16",
+        "65",
+        "683",
+        "8",
+        "32"
+      ],
+      [
+        "2017",
+        "NYG",
+        "11",
+        "59",
+        "731",
+        "2",
+        "77"
+      ],
+      [
+        "2018",
+        "NYG",
+        "16",
+        "66",
+        "872",
+        "4",
+        "58"
+      ],
+      [
+        "2019",
+        "NYG",
+        "10",
+        "57",
+        "576",
+        "3",
+        "36"
+      ],
+      [
+        "2020",
+        "NYG",
+        "12",
+        "66",
+        "656",
+        "3",
+        "29"
+      ],
+      [
+        "2021",
+        "NYG",
+        "7",
+        "36",
+        "366",
+        "1",
+        "37"
+      ],
+      [
+        "2022",
+        "NYG",
+        "3",
+        "13",
+        "154",
+        "1",
+        "65"
+      ],
+      [
+        "2023",
+        "NYG",
+        "15",
+        "10",
+        "57",
+        "1",
+        "13"
+      ],
+      [
+        "2024",
+        "TB",
+        "14",
+        "32",
+        "334",
+        "1",
+        "30"
+      ],
+      [
+        "2025",
+        "TB",
+        "13",
+        "39",
+        "371",
+        "1",
+        "36"
+      ],
+      [
+        "2026",
+        "NYJ",
+        "3",
+        "3",
+        "27",
+        "2",
+        "16"
+      ]
+    ]
+  }
+}

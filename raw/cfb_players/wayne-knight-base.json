@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea3b436425c86fc37",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 140.7,
+  "input": {
+    "player": "Wayne Knight",
+    "team": "UCLA Bruins",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Wayne Knight is from Smyrna, Delaware.",
+      "He played high school football at Smyrna High School.",
+      "At 5 feet 7 inches tall, he rushed for a career-high 212 yards in a game against Troy\u2014including a 73-yard touchdown.",
+      "In each of his first two UCLA games, he scored three touchdowns."
+    ],
+    "high_school": "Smyrna High School",
+    "hometown": "Smyrna, Delaware"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The ESPN biography identifies Smyrna, Delaware, as Knight\u2019s birthplace. His recruiting profile lists Smyrna High School. ESPN reports his career-high 212 rushing yards and 73-yard touchdown against Troy, and reports that he scored three touchdowns in each of UCLA\u2019s first two games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4912342/wayne-knight",
+          "excerpts": [
+            "Position Running Back\n\nClass Senior\n\nHT/WT 5' 7\", 193 lbs\n\nBirthplace Smyrna, DE\n\nStatus Active\n\n### Career History\n\n[UCLA Bruins UCLA Bruins 2026-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) [James Madison Dukes James Madison Dukes 2022-2026 (4"
+          ],
+          "title": "Wayne Knight Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/248933/wayne-knight",
+          "excerpts": [
+            "# Wayne Knight\n\n* \n\n5-7, 180 | Class of 2022\n\n* Hometown [Smyrna, Del.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/11/hometown/3275/class/2022)\n* School [Smyrna High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/12719)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2022)\n* Status Signed [James Madison](https://www.espn.com/college-sports/football/recruiting/school/_/id/256)\n\n#### Scout Grade\n\n* 73\n*"
+          ],
+          "title": "Wayne Knight Running Back Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47217994/wayne-knight-powers-jmu-sun-belt-title-keeps-dukes-alive-cfp",
+          "excerpts": [
+            "[Wayne Knight](https://www.espn.com/college-football/player/_/id/4912342/wayne-knight) rushed for a career-high 212 yards, including a 73-yard touchdown, as No."
+          ],
+          "title": "Wayne Knight powers JMU to Sun Belt title, keeps Dukes alive for CFP - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858443",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858443)\n\n# Wayne Knight scores 3 TDs as UCLA beats San Diego State 28-10\n\n1:17\n\n## San Diego State Aztecs vs. UCLA Bruins: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Sep 13, 2026, 04:07 am\n\nFacebook Facebook Messenger Twitter Email\n\nPASADENA, Calif. -- \u2014 [Wayne Knight](http://www.espn.com/college-football/player/_/id/4912342/wayne-knight) scored three touchdowns after a scoreless first half and UCLA defeated San Diego State 28-10 on Saturday to win its home opener under new coach [Bob Chesney](https://apnews.com/article/ucla-football-preview-d064b6be7ca2ddea4bea3310ea34806b) .\n\nKnight scored on runs of 8 yards in the third and 7 and 36 yards in the fourth, the James Madison transfer's second straight game with three TDs. He had that many in a season-opening [win at California](https://apnews.com/article/ucla-cal-score-9ff32fe534311227b9de34149a28b329) last week."
+          ],
+          "title": "UCLA 28-10 San Diego State (Sep 12, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "Wayne Knight\u2019s ESPN recruiting profile lists Smyrna High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/248933/wayne-knight",
+          "excerpts": [
+            "# Wayne Knight\n\n* \n\n5-7, 180 | Class of 2022\n\n* Hometown [Smyrna, Del.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/11/hometown/3275/class/2022)\n* School [Smyrna High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/12719)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2022)\n* Status Signed [James Madison](https://www.espn.com/college-sports/football/recruiting/school/_/id/256)\n\n#### Scout Grade\n\n* 73\n*"
+          ],
+          "title": "Wayne Knight Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN biography gives Knight\u2019s birthplace as Smyrna, Delaware.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4912342/wayne-knight",
+          "excerpts": [
+            "Position Running Back\n\nClass Senior\n\nHT/WT 5' 7\", 193 lbs\n\nBirthplace Smyrna, DE\n\nStatus Active\n\n### Career History\n\n[UCLA Bruins UCLA Bruins 2026-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) [James Madison Dukes James Madison Dukes 2022-2026 (4"
+          ],
+          "title": "Wayne Knight Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Smyrna, Delaware, as Knight\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4912342/wayne-knight",
+          "excerpts": [
+            "Position Running Back\n\nClass Senior\n\nHT/WT 5' 7\", 193 lbs\n\nBirthplace Smyrna, DE\n\nStatus Active\n\n### Career History\n\n[UCLA Bruins UCLA Bruins 2026-CURRENT (1 Season)](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) [James Madison Dukes James Madison Dukes 2022-2026 (4"
+          ],
+          "title": "Wayne Knight Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recruiting profile lists Smyrna High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/248933/wayne-knight",
+          "excerpts": [
+            "# Wayne Knight\n\n* \n\n5-7, 180 | Class of 2022\n\n* Hometown [Smyrna, Del.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/11/hometown/3275/class/2022)\n* School [Smyrna High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/12719)\n* Position [Running Back](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/RB/class/2022)\n* Status Signed [James Madison](https://www.espn.com/college-sports/football/recruiting/school/_/id/256)\n\n#### Scout Grade\n\n* 73\n*"
+          ],
+          "title": "Wayne Knight Running Back Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN report states that Knight rushed for a career-high 212 yards, including a 73-yard touchdown, against Troy.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47217994/wayne-knight-powers-jmu-sun-belt-title-keeps-dukes-alive-cfp",
+          "excerpts": [
+            "[Wayne Knight](https://www.espn.com/college-football/player/_/id/4912342/wayne-knight) rushed for a career-high 212 yards, including a 73-yard touchdown, as No."
+          ],
+          "title": "Wayne Knight powers JMU to Sun Belt title, keeps Dukes alive for CFP - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN recap says Knight scored three touchdowns against San Diego State and had scored that many in UCLA\u2019s season opener the week before.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858443",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858443)\n\n# Wayne Knight scores 3 TDs as UCLA beats San Diego State 28-10\n\n1:17\n\n## San Diego State Aztecs vs. UCLA Bruins: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Sep 13, 2026, 04:07 am\n\nFacebook Facebook Messenger Twitter Email\n\nPASADENA, Calif. -- \u2014 [Wayne Knight](http://www.espn.com/college-football/player/_/id/4912342/wayne-knight) scored three touchdowns after a scoreless first half and UCLA defeated San Diego State 28-10 on Saturday to win its home opener under new coach [Bob Chesney](https://apnews.com/article/ucla-football-preview-d064b6be7ca2ddea4bea3310ea34806b) .\n\nKnight scored on runs of 8 yards in the third and 7 and 36 yards in the fourth, the James Madison transfer's second straight game with three TDs. He had that many in a season-opening [win at California](https://apnews.com/article/ucla-cal-score-9ff32fe534311227b9de34149a28b329) last week."
+          ],
+          "title": "UCLA 28-10 San Diego State (Sep 12, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

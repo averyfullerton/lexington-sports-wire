@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "California",
   "experience": 11,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Jared threw 43 touchdown passes in 2015, setting a Pac-12 record.",
     "Jared threw six touchdown passes in the Armed Forces Bowl, setting two records.",
@@ -129,11 +132,11 @@
       [
         "2026",
         "DET",
-        "9",
-        "205",
-        "304",
-        "2,437",
-        "18",
+        "10",
+        "225",
+        "332",
+        "2,716",
+        "20",
         "4"
       ]
     ]

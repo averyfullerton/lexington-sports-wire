@@ -1,0 +1,51 @@
+{
+  "name": "Jack Bech",
+  "espn_id": "4603186",
+  "team": "Las Vegas Raiders",
+  "team_abbr": "LV",
+  "number": "18",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "TCU",
+  "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Jack's high school basketball team won three state championships in a row.",
+    "Jack caught 37 touchdowns in high school.",
+    "Jack caught the winning touchdown on the last play of the Senior Bowl and won MVP."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2025",
+        "LV",
+        "16",
+        "20",
+        "224",
+        "0",
+        "37"
+      ],
+      [
+        "2026",
+        "LV",
+        "7",
+        "16",
+        "155",
+        "2",
+        "20"
+      ]
+    ]
+  }
+}

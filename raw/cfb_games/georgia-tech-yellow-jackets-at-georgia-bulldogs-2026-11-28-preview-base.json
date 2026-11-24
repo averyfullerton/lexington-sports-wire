@@ -1,0 +1,298 @@
+{
+  "run_id": "trun_acf50aaad34243e0ba9591be3bda6b5a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 104.8,
+  "input": {
+    "away_team": "Georgia Tech Yellow Jackets",
+    "home_team": "Georgia Bulldogs",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "3-8",
+    "away_team": "Georgia Tech Yellow Jackets",
+    "storyline": "Georgia has clinched a berth in the SEC Championship Game, and Georgia Tech is the Bulldogs\u2019 final regular-season opponent. The Yellow Jackets enter 3-8 after a 50-29 loss to Wake Forest.",
+    "matchup_notes": [
+      "Georgia Tech lost to Wake Forest 50-29 on Nov. 21 and is 3-8 (2-6 ACC).",
+      "Georgia beat South Carolina 34-6 on Nov. 21, improving to 10-1 (8-1 SEC).",
+      "Georgia clinched a berth in the SEC Championship Game with the win over South Carolina.",
+      "Georgia Tech used a two-quarterback system against Wake Forest."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,123 passing yards, 11 TD, 7 INT",
+        "team": "Georgia Tech Yellow Jackets",
+        "name": "Alberto Mendoza"
+      },
+      {
+        "stat_line": "2,390 passing yards, 22 TD, 4 INT",
+        "team": "Georgia Bulldogs",
+        "name": "Gunner Stockton"
+      }
+    ],
+    "home_record": "10-1",
+    "home_team": "Georgia Bulldogs",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Georgia Tech game recap gives the Yellow Jackets\u2019 record as 3-8 and describes their 50-29 loss to Wake Forest, their latest result before this matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-8 , 2-6 ACC\n\n29\n\n3-8 , 2-6 ACC\n\n## Wake Forest Demon Deacons @ Georgia Tech Yellow Jackets",
+            "10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No."
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The ESPN game listing names Georgia Tech Yellow Jackets as the away team in the matchup at Georgia Bulldogs.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856760",
+          "excerpts": [
+            "2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\n[](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-7\n\nNov 28\n\nTBD\n\n[](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n1\n\n[Georgia Bulldogs Georgia UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n9-1\n\n## Georgia Tech Yellow Jackets @ Georgia Bulldogs\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia)",
+            "Georgia Bulldogs vs Georgia Tech Yellow Jackets Sanford Stadium - Sat 11/28/26, TBD [Tickets as low as $116](https://www"
+          ],
+          "title": "Georgia Tech vs. Georgia (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The CFP recap states that Georgia clinched an SEC Championship Game berth and would close its regular season against Georgia Tech. The Georgia Tech recap records its 50-29 loss to Wake Forest and 3-8 record.",
+      "citations": [
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "Five CFP ranked teams lost to unranked opponents, including two top 10 teams: No. 4 UCLA, No. 8 Indiana.  \n  \n**No. 1 Georgia 34, No. 21 South Carolina 6**  \nGeorgia clinched a spot in the SEC Championship Game on Saturday night.  \n  \nSouth Carolina led 6-3 early and gained 100 yards in the first quarter, but Georgia's defense held the Gamecocks to 118 yards the rest of the way. Nate Frazier ran for two touchdowns, Khalil Barnes intercepted LaNorris Sellers inside the Georgia 20, and the Bulldogs sacked Sellers three times. Georgia outgained South Carolina 421-218.  \n  \nIt was Georgia's fifth straight win over South Carolina. The Bulldogs (10-1, 8-1 SEC) close the regular season against Georgia Tech, while South Carolina falls to 6-5 after back-to-back losses."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-8 , 2-6 ACC\n\n29\n\n3-8 , 2-6 ACC\n\n## Wake Forest Demon Deacons @ Georgia Tech Yellow Jackets",
+            "10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No."
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited recaps report Georgia Tech\u2019s loss and record, Georgia\u2019s South Carolina result and SEC Championship Game berth, and Georgia Tech\u2019s use of a two-quarterback system against Wake Forest.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-8 , 2-6 ACC\n\n29\n\n3-8 , 2-6 ACC\n\n## Wake Forest Demon Deacons @ Georgia Tech Yellow Jackets",
+            "10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No.",
+            "Georgia Tech: The Yellow Jackets deployed their two quarterback system again, but neither Adamson nor [Alberto Mendoza](http://www.espn.com/college-football/player/_/id/5191162/alberto-mendoza) carried the momentum forward"
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "Five CFP ranked teams lost to unranked opponents, including two top 10 teams: No. 4 UCLA, No. 8 Indiana.  \n  \n**No. 1 Georgia 34, No. 21 South Carolina 6**  \nGeorgia clinched a spot in the SEC Championship Game on Saturday night.  \n  \nSouth Carolina led 6-3 early and gained 100 yards in the first quarter, but Georgia's defense held the Gamecocks to 118 yards the rest of the way. Nate Frazier ran for two touchdowns, Khalil Barnes intercepted LaNorris Sellers inside the Georgia 20, and the Bulldogs sacked Sellers three times. Georgia outgained South Carolina 421-218.  \n  \nIt was Georgia's fifth straight win over South Carolina. The Bulldogs (10-1, 8-1 SEC) close the regular season against Georgia Tech, while South Carolina falls to 6-5 after back-to-back losses."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NCAA individual-stat tables updated through games on Nov. 21 list Alberto Mendoza with 2,123 passing yards, 11 touchdowns and 7 interceptions, and Gunner Stockton with 2,390 passing yards, 22 touchdowns and 4 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453/p2",
+          "excerpts": [
+            "* [](https://www.ncaa.com/stats/football/fbs/current/individual/453/p3)\n\n_Last updated_ _Sunday, November 22, 2026 8:11 am_ _\\-_ _Through games_ _Saturday, November 21, 2026_\n\n|Rank |Name |Team |Cl |Position |G |Pass Att |Pass Com |Int |Pass TD |Pass Yds |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "|[Washington](https://www.ncaa.com/schools/washington) |Jr. |QB |10 |294 |188 |5 |14 |2182 |\n|61 |Jackson Arnold |[UNLV](https://www.ncaa.com/schools/unlv) |Sr. |QB |11 |283 |164 |7 |18 |2136 |\n|62 |Alberto Mendoza |[Georgia Tech](https://www.ncaa.com/schools/georgia-tech) |Jr. |QB |11 |287 |194 |7 |11 |2123 |\n|63 |Deshawn Purdie |[Liberty](https://www.ncaa.com/schools/liberty) |Jr. |QB |11 |222 |142 |1 |14 |2113 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        },
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453",
+          "excerpts": [
+            "_Last updated_ _Sunday, November 22, 2026 8:11 am_ _\\-_ _Through games_ _Saturday, November 21, 2026_\n\n|Rank |Name |Team |Cl |Position |G |Pass Att |Pass Com |Int |Pass TD |Pass Yds |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|1 |Drew Mestemaker |[Oklahoma St.](https://www.ncaa.com/schools/oklahoma-st) |So. |QB |11 |391 |263 |11 |30 |3533 |",
+            "|QB |11 |294 |199 |9 |19 |2417 |\n|41 |Rocco Becht |[Penn St.](https://www.ncaa.com/schools/penn-st) |Sr. |QB |11 |297 |187 |5 |19 |2396 |\n|42 |Gunner Stockton |[Georgia](https://www.ncaa.com/schools/georgia) |Sr. |QB |11 |243 |176 |4 |22 |2390 |\n|43 |Maddux Madsen |[Boise St.](https://www.ncaa.com/schools/boise-st) |Sr. |QB |10 |289 |194 |3 |20 |2363 |\n|44 |Taron Dickens |[NIU](https://www.ncaa.com/schools/northern-ill) |Jr. |QB |11 |347 |224 |10 |13 |2330 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The CFP recap identifies Georgia\u2019s record as 10-1 (8-1 SEC) after its Nov. 21 win.",
+      "citations": [
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "Five CFP ranked teams lost to unranked opponents, including two top 10 teams: No. 4 UCLA, No. 8 Indiana.  \n  \n**No. 1 Georgia 34, No. 21 South Carolina 6**  \nGeorgia clinched a spot in the SEC Championship Game on Saturday night.  \n  \nSouth Carolina led 6-3 early and gained 100 yards in the first quarter, but Georgia's defense held the Gamecocks to 118 yards the rest of the way. Nate Frazier ran for two touchdowns, Khalil Barnes intercepted LaNorris Sellers inside the Georgia 20, and the Bulldogs sacked Sellers three times. Georgia outgained South Carolina 421-218.  \n  \nIt was Georgia's fifth straight win over South Carolina. The Bulldogs (10-1, 8-1 SEC) close the regular season against Georgia Tech, while South Carolina falls to 6-5 after back-to-back losses."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The ESPN game listing names Georgia Bulldogs as the home team and lists Sanford Stadium in Athens.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856760",
+          "excerpts": [
+            "2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\nFLEX: 3:30 - 4:30pm OR 6 - 8pm ET start\n\n[](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-7\n\nNov 28\n\nTBD\n\n[](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n1\n\n[Georgia Bulldogs Georgia UGA](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n9-1\n\n## Georgia Tech Yellow Jackets @ Georgia Bulldogs\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia)",
+            "Georgia Bulldogs vs Georgia Tech Yellow Jackets Sanford Stadium - Sat 11/28/26, TBD [Tickets as low as $116](https://www"
+          ],
+          "title": "Georgia Tech vs. Georgia (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The ESPN listing shows the game scheduled for Nov. 28, 2026, at Sanford Stadium. That date is after the stated current date, Nov. 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856760/georgia-tech-georgia",
+          "excerpts": [
+            "[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-8\n\nNov 28\n\n8:30 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs)\n\n1",
+            "[Full Schedule](https://www.espn.com/college-football/team/schedule/_/id/59)\n\nGeorgia\n\n|DATE |OPP |RESULT |\n| --- | --- | --- |",
+            "#### 8:30 PM, November 28, 2026\n\n#### Sanford Stadium\n\nAthens, GA\n\n[weather condition 58\u00b0 accuweather](http://www.accuweather.com/en/us/sanford-stadium-ga/30601/hourly-weather-forecast/53561_poi?day=6&hbhhour=15&lang=en-us&partner=espn_gc)"
+          ],
+          "title": "Georgia Tech vs. Georgia (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The recap reports Georgia Tech\u2019s 3-8 record and its 50-29 loss to Wake Forest.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Georgia Tech Yellow Jackets Georgia Tech GT](https://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets)\n\n3-8 , 2-6 ACC\n\n29\n\n3-8 , 2-6 ACC\n\n## Wake Forest Demon Deacons @ Georgia Tech Yellow Jackets",
+            "10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No."
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The CFP recap reports Georgia\u2019s 34-6 win over South Carolina and its resulting 10-1, 8-1 SEC record.",
+      "citations": [
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "Five CFP ranked teams lost to unranked opponents, including two top 10 teams: No. 4 UCLA, No. 8 Indiana.  \n  \n**No. 1 Georgia 34, No. 21 South Carolina 6**  \nGeorgia clinched a spot in the SEC Championship Game on Saturday night.  \n  \nSouth Carolina led 6-3 early and gained 100 yards in the first quarter, but Georgia's defense held the Gamecocks to 118 yards the rest of the way. Nate Frazier ran for two touchdowns, Khalil Barnes intercepted LaNorris Sellers inside the Georgia 20, and the Bulldogs sacked Sellers three times. Georgia outgained South Carolina 421-218.  \n  \nIt was Georgia's fifth straight win over South Carolina. The Bulldogs (10-1, 8-1 SEC) close the regular season against Georgia Tech, while South Carolina falls to 6-5 after back-to-back losses."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The CFP recap states that Georgia clinched a berth in the SEC Championship Game.",
+      "citations": [
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "Five CFP ranked teams lost to unranked opponents, including two top 10 teams: No. 4 UCLA, No. 8 Indiana.  \n  \n**No. 1 Georgia 34, No. 21 South Carolina 6**  \nGeorgia clinched a spot in the SEC Championship Game on Saturday night.  \n  \nSouth Carolina led 6-3 early and gained 100 yards in the first quarter, but Georgia's defense held the Gamecocks to 118 yards the rest of the way. Nate Frazier ran for two touchdowns, Khalil Barnes intercepted LaNorris Sellers inside the Georgia 20, and the Bulldogs sacked Sellers three times. Georgia outgained South Carolina 421-218.  \n  \nIt was Georgia's fifth straight win over South Carolina. The Bulldogs (10-1, 8-1 SEC) close the regular season against Georgia Tech, while South Carolina falls to 6-5 after back-to-back losses."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The recap says Georgia Tech deployed its two-quarterback system against Wake Forest.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "Georgia Tech: The Yellow Jackets deployed their two quarterback system again, but neither Adamson nor [Alberto Mendoza](http://www.espn.com/college-football/player/_/id/5191162/alberto-mendoza) carried the momentum forward"
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NCAA table lists Alberto Mendoza\u2019s 2,123 passing yards, 11 passing touchdowns and 7 interceptions through Nov. 21.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453/p2",
+          "excerpts": [
+            "* [](https://www.ncaa.com/stats/football/fbs/current/individual/453/p3)\n\n_Last updated_ _Sunday, November 22, 2026 8:11 am_ _\\-_ _Through games_ _Saturday, November 21, 2026_\n\n|Rank |Name |Team |Cl |Position |G |Pass Att |Pass Com |Int |Pass TD |Pass Yds |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "|[Washington](https://www.ncaa.com/schools/washington) |Jr. |QB |10 |294 |188 |5 |14 |2182 |\n|61 |Jackson Arnold |[UNLV](https://www.ncaa.com/schools/unlv) |Sr. |QB |11 |283 |164 |7 |18 |2136 |\n|62 |Alberto Mendoza |[Georgia Tech](https://www.ncaa.com/schools/georgia-tech) |Jr. |QB |11 |287 |194 |7 |11 |2123 |\n|63 |Deshawn Purdie |[Liberty](https://www.ncaa.com/schools/liberty) |Jr. |QB |11 |222 |142 |1 |14 |2113 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NCAA table lists Gunner Stockton\u2019s 2,390 passing yards, 22 passing touchdowns and 4 interceptions through Nov. 21.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453",
+          "excerpts": [
+            "_Last updated_ _Sunday, November 22, 2026 8:11 am_ _\\-_ _Through games_ _Saturday, November 21, 2026_\n\n|Rank |Name |Team |Cl |Position |G |Pass Att |Pass Com |Int |Pass TD |Pass Yds |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|1 |Drew Mestemaker |[Oklahoma St.](https://www.ncaa.com/schools/oklahoma-st) |So. |QB |11 |391 |263 |11 |30 |3533 |",
+            "|QB |11 |294 |199 |9 |19 |2417 |\n|41 |Rocco Becht |[Penn St.](https://www.ncaa.com/schools/penn-st) |Sr. |QB |11 |297 |187 |5 |19 |2396 |\n|42 |Gunner Stockton |[Georgia](https://www.ncaa.com/schools/georgia) |Sr. |QB |11 |243 |176 |4 |22 |2390 |\n|43 |Maddux Madsen |[Boise St.](https://www.ncaa.com/schools/boise-st) |Sr. |QB |10 |289 |194 |3 |20 |2363 |\n|44 |Taron Dickens |[NIU](https://www.ncaa.com/schools/northern-ill) |Jr. |QB |11 |347 |224 |10 |13 |2330 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Gunner Stockton has 2,390 passing yards and 22 TDs this season. On Saturday, 3-8 Georgia Tech visits 10-1 No. 1 Georgia in Georgia. This is Georgia\u2019s last regular-season game before the SEC Championship Game. Watch Stockton shine when he throws!",
+    "big_words": [
+      {
+        "word": "shine",
+        "definition": "To do something really well.",
+        "example": "Marcus will shine as he sets up the tent on his camping trip."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1151,
+        "output": 167
+      }
+    ]
+  }
+}

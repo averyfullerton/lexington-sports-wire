@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_415f3f698c1f435b98f5f6d5a5f56f03",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 192.8,
+  "input": {
+    "player": "Josh Johnson",
+    "team": "Arizona Cardinals",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "San Diego",
+    "fun_facts": [
+      "Josh Johnson grew up in Oakland and attended Oakland Tech.",
+      "At the University of San Diego, Josh Johnson played for Jim Harbaugh, who developed him into a record-setting quarterback.",
+      "In a 2007 game against Butler, Josh Johnson threw for 406 yards and six touchdowns.",
+      "Josh Johnson helped teach young quarterbacks in Oakland how to work on their footwork.",
+      "When he joined Arizona, it was his 15th NFL franchise."
+    ],
+    "draft": "2008, round 5, pick 160"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies San Diego as Josh Johnson\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/11394/josh-johnson",
+          "excerpts": [
+            "College [San Diego](https://www.espn.com/college-football/team/_/id/301/san-diego-toreros)\n\nDraft Info 2008: Rd 5, Pk 160 (TB)\n\nStatus Active\n\nExperience 13th Season\n\nBirthplace Oakland, CA"
+          ],
+          "title": "Josh Johnson Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the listed facts about Johnson\u2019s Oakland upbringing and school, his college coach and record-setting status, a six-touchdown college game, his work teaching young quarterbacks, and Arizona being his 15th NFL franchise.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-takeaways-josh-johnson-s-jaguars-week-presser",
+          "excerpts": [
+            "That all comes from Johnson's background, growing up in Oakland and preaching to kids in the inner city about making it out of their environments."
+          ],
+          "title": "Five Takeaways: Josh Johnson's Jaguars Week Presser"
+        },
+        {
+          "url": "https://www.nfl.com/news/johnson-joins-49ers-to-team-up-with-harbaugh-again-09000d5d827d278d",
+          "excerpts": [
+            "He isn't too worried about his role just yet.\n\nFor now, Johnson is thrilled to be reunited with reigning NFL Coach of the Year [Jim Harbaugh](https://www.nfl.com/player/jimharbaugh/2515790/profile) , his former college coach who took a chance on the undersized quarterback at the University of San Diego. Harbaugh developed the 5-foot-11, 145-pound Oakland Tech prep star into a record-setting QB in Southern California.\n\n**Debate: Time for some action!**"
+          ],
+          "title": "Johnson joins 49ers to team up with Harbaugh again | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/272722086/san-diego-butler",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# San Diego Toreros @ Butler Bulldogs\n\nSan Diego Toreros San Diego USD\n\n4-0 , 2-0 Away\n\n56\n\n4-0 , 2-0 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|San Diego\n\nUSD |21 |21 |7 |7 |56 |\n|Butler\n\nBUT |3 |0 |0 |6 |9 |\n\nButler Bulldogs Butler BUT\n\n4-1 , 3-1 Home\n\n9\n\n4-1 , 3-1 Home\n\n* Gamecast\n\n* Box Score\n\n* Team Stats\n\n## Game Leaders\n\nUSD BUT\n\nPassing Yards\n\n406 J. Johnson QB 25/30, 6 TD 406\n\nPassing Yards\n\n27 M. Kobli QB 4/4 27\n\nRushing Yards\n\n115 J.T. Rogan RB 14 CAR 115\n\nRushing Yards\n\n130 S. Gray RB 29 CAR 130\n\nReceiving Yards\n\n122 J. Matthews WR 6 REC, 3 TD 122\n\nReceiving Yards\n\n33 A. Shaw WR 3 REC 33\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n\\--\n\nNone\n\n\\--\n\nFull Box Score\n\n## Team Stats\n\nUSD BUT\n\n621\n\nTotal Yards\n\n253\n\n0\n\nTurnovers\n\n0\n\n28\n\n1st Downs\n\n18\n\n10-78\n\nPenalties\n\n5-36\n\n0/0\n\n3rd Down\n\n0/0\n\n0/0\n\n4th Down\n\n0/0\n\n15:06\n\nPossession\n\n21:34\n\nFull Team Stats\n\n## Game Information"
+          ],
+          "title": "San Diego 56-9 Butler (Sep 29, 2007) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/289666/josh-johnsons-oakland-roots-central-to-maintaining-his-nfl-dream",
+          "excerpts": [
+            "His NFL journey looks like a rock band\u2019s concert tour, with stops in Tampa Bay, San Francisco (twice), Cleveland, Cincinnati (twice), both teams in New York, Indianapolis, Buffalo, Baltimore, Houston and, yes, Oakland.\n\nSince entering the NFL in 2008, he\u2019s attempted 193 passes -- but none since 2011 until last Sunday.\n\nBut he kept believing because he felt there was no other choice. It\u2019s why playing in the Alliance of American Football in February with San Diego appealed to him."
+          ],
+          "title": "Josh Johnson's Oakland roots central to maintaining his NFL dream - ESPN - NFL Nation- ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/cardinals-preparing-to-start-josh-johnson-chiefs-carson-beck?remove_header",
+          "excerpts": [
+            "If he does start, the 40-year-old Johnson would make his 12th career start in his 51st game. The QB has been the definition of a journeyman. Arizona is his 15th career franchise, including offseason or practice-squad stints."
+          ],
+          "title": "Cardinals preparing to start Josh Johnson vs. Chiefs, their fourth starting QB in four weeks | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Commanders\u2019 announcement says Johnson entered the league as a fifth-round pick, No. 160 overall, in the 2008 draft.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/commanders-sign-veteran-qb-josh-johnson",
+          "excerpts": [
+            "The Washington Commanders announced today that they have re-signed quarterback Josh Johnson. Full terms of the deal were not disclosed.\n\nJohnson (6-3, 214) is a 10-year NFL veteran who entered the league with the Tampa Bay Buccaneers as a fifth-round pick (160th overall) in the 2008 draft. In his career, Johnson has played in 45 games with nine starts and recorded thrown for 2,297 passing yards, 13 passing touchdowns and a 58.1 completion percentage."
+          ],
+          "title": "Commanders sign veteran QB Josh Johnson"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Commanders passage describes Johnson\u2019s background growing up in Oakland; the NFL report identifies him as an Oakland Tech prep star.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/five-takeaways-josh-johnson-s-jaguars-week-presser",
+          "excerpts": [
+            "That all comes from Johnson's background, growing up in Oakland and preaching to kids in the inner city about making it out of their environments."
+          ],
+          "title": "Five Takeaways: Josh Johnson's Jaguars Week Presser"
+        },
+        {
+          "url": "https://www.nfl.com/news/johnson-joins-49ers-to-team-up-with-harbaugh-again-09000d5d827d278d",
+          "excerpts": [
+            "He isn't too worried about his role just yet.\n\nFor now, Johnson is thrilled to be reunited with reigning NFL Coach of the Year [Jim Harbaugh](https://www.nfl.com/player/jimharbaugh/2515790/profile) , his former college coach who took a chance on the undersized quarterback at the University of San Diego. Harbaugh developed the 5-foot-11, 145-pound Oakland Tech prep star into a record-setting QB in Southern California.\n\n**Debate: Time for some action!**"
+          ],
+          "title": "Johnson joins 49ers to team up with Harbaugh again | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Johnson played for Jim Harbaugh at the University of San Diego and that Harbaugh developed him into a record-setting quarterback.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/johnson-joins-49ers-to-team-up-with-harbaugh-again-09000d5d827d278d",
+          "excerpts": [
+            "He isn't too worried about his role just yet.\n\nFor now, Johnson is thrilled to be reunited with reigning NFL Coach of the Year [Jim Harbaugh](https://www.nfl.com/player/jimharbaugh/2515790/profile) , his former college coach who took a chance on the undersized quarterback at the University of San Diego. Harbaugh developed the 5-foot-11, 145-pound Oakland Tech prep star into a record-setting QB in Southern California.\n\n**Debate: Time for some action!**"
+          ],
+          "title": "Johnson joins 49ers to team up with Harbaugh again | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN\u2019s game details show Johnson threw for 406 yards and six touchdowns in San Diego\u2019s game against Butler.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/272722086/san-diego-butler",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# San Diego Toreros @ Butler Bulldogs\n\nSan Diego Toreros San Diego USD\n\n4-0 , 2-0 Away\n\n56\n\n4-0 , 2-0 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|San Diego\n\nUSD |21 |21 |7 |7 |56 |\n|Butler\n\nBUT |3 |0 |0 |6 |9 |\n\nButler Bulldogs Butler BUT\n\n4-1 , 3-1 Home\n\n9\n\n4-1 , 3-1 Home\n\n* Gamecast\n\n* Box Score\n\n* Team Stats\n\n## Game Leaders\n\nUSD BUT\n\nPassing Yards\n\n406 J. Johnson QB 25/30, 6 TD 406\n\nPassing Yards\n\n27 M. Kobli QB 4/4 27\n\nRushing Yards\n\n115 J.T. Rogan RB 14 CAR 115\n\nRushing Yards\n\n130 S. Gray RB 29 CAR 130\n\nReceiving Yards\n\n122 J. Matthews WR 6 REC, 3 TD 122\n\nReceiving Yards\n\n33 A. Shaw WR 3 REC 33\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nSacks\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n\\--\n\nNone\n\n\\--\n\nTackles\n\n\\--\n\nNone\n\n\\--\n\nFull Box Score\n\n## Team Stats\n\nUSD BUT\n\n621\n\nTotal Yards\n\n253\n\n0\n\nTurnovers\n\n0\n\n28\n\n1st Downs\n\n18\n\n10-78\n\nPenalties\n\n5-36\n\n0/0\n\n3rd Down\n\n0/0\n\n0/0\n\n4th Down\n\n0/0\n\n15:06\n\nPossession\n\n21:34\n\nFull Team Stats\n\n## Game Information"
+          ],
+          "title": "San Diego 56-9 Butler (Sep 29, 2007) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Johnson worked with Oakland-area kids, including teaching young quarterbacks footwork.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/nflnation/post/_/id/289666/josh-johnsons-oakland-roots-central-to-maintaining-his-nfl-dream",
+          "excerpts": [
+            "His NFL journey looks like a rock band\u2019s concert tour, with stops in Tampa Bay, San Francisco (twice), Cleveland, Cincinnati (twice), both teams in New York, Indianapolis, Buffalo, Baltimore, Houston and, yes, Oakland.\n\nSince entering the NFL in 2008, he\u2019s attempted 193 passes -- but none since 2011 until last Sunday.\n\nBut he kept believing because he felt there was no other choice. It\u2019s why playing in the Alliance of American Football in February with San Diego appealed to him."
+          ],
+          "title": "Josh Johnson's Oakland roots central to maintaining his NFL dream - ESPN - NFL Nation- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage states that Arizona was Johnson\u2019s 15th career franchise.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/cardinals-preparing-to-start-josh-johnson-chiefs-carson-beck?remove_header",
+          "excerpts": [
+            "If he does start, the 40-year-old Johnson would make his 12th career start in his 51st game. The QB has been the definition of a journeyman. Arizona is his 15th career franchise, including offseason or practice-squad stints."
+          ],
+          "title": "Cardinals preparing to start Josh Johnson vs. Chiefs, their fourth starting QB in four weeks | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

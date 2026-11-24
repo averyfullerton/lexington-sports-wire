@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435bae4962d1c01454dc",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 164.0,
+  "input": {
+    "player": "Tyler Shough",
+    "team": "New Orleans Saints",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Louisville",
+    "fun_facts": [
+      "Tyler Shough's hometown was Chandler, Arizona, and he attended Hamilton High School.",
+      "At Oregon, Tyler Shough started all seven games in 2020, when the Ducks won their second consecutive Pac-12 championship.",
+      "After the 2022 season, Tyler Shough was MVP of the Texas Bowl, throwing for 242 yards and accounting for three touchdowns.",
+      "In his final college season at Louisville, Tyler Shough threw for 3,195 yards and 23 touchdowns.",
+      "Tyler Shough played for three college teams\u2014Oregon, Texas Tech, and Louisville\u2014across seven college seasons."
+    ],
+    "draft": "2025, round 2, pick 40"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies Louisville as Tyler Shough's college; his college history shows Louisville was his last school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4360689/tyler-shough",
+          "excerpts": [
+            "College [Louisville](https://www.espn.com/college-football/team/_/id/97/louisville-cardinals)\n\nDraft Info 2025: Rd 2, Pk 40 (NO)\n\nStatus Active\n\nExperience 2nd Season\n\nBirthplace Chandler, AZ"
+          ],
+          "title": "Tyler Shough Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN recruiting profile gives Chandler as his hometown and Hamilton High School as his school. The college coverage says Oregon won its second straight Pac-12 championship in 2020 while Shough started all seven games. Another report names him Texas Bowl MVP and gives his 242 passing yards and three touchdowns. The NFL article reports 3,195 passing yards and 23 touchdowns for his Louisville season. ESPN's account of his college journey names Oregon, Texas Tech, and Louisville across seven seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/227832/tyler-shough",
+          "excerpts": [
+            "# Tyler Shough\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2018)\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/10/class/2018)\n\n* \n\n6-5, 187 | 40: 4.88 | Class of 2018\n\n* Hometown [Chandler, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/10138/class/2018)\n* School [Hamilton High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/5548)"
+          ],
+          "title": "Football Recruiting - Tyler Shough - Player Profiles - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30946826/texas-tech-football-lands-former-oregon-starting-quarterback-tyler-shough-graduate-transfer",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=30946826)\n\nFormer Oregon starting quarterback Tyler Shough is joining Texas Tech as a graduate transfer, he announced Monday.\n\nShough, who started all seven games in 2020 as Oregon won its second consecutive Pac-12 championship, will have three years of eligibility remaining with the Red Raiders."
+          ],
+          "title": "Texas Tech football lands former Oregon starting quarterback Tyler Shough as a graduate transfer - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39050855/texas-tech-quarterback-tyler-shough-transfers-louisville",
+          "excerpts": [
+            "He earned the MVP of the Texas Bowl in a victory over [Ole Miss](https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels) after the 2022 season, throwing for 242 yards and accounting for three touchdowns.\n\nShough began his career at Oregon. He threw for 4,625 yards and 36 touchdowns in 27 career games combined at the two schools. His career completion percentage is more than 63%."
+          ],
+          "title": "Tyler Shough, 24, leaves Texas Tech, transfers to Louisville - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/rookie-tyler-shough-aiming-for-history-by-winning-saints-qb-competition",
+          "excerpts": [
+            "|Bo Burris |1967 |Round 2, No. 27 overall |\n|Tyler Shough |2025 |Round 2, No. 40 overall |\n\nShough\u2019s hardly your average rookie. He will turn 26 on Sept. 28, after seven seasons of college ball with Oregon (three years), Texas Tech (three) and Louisville (one), where he\u2019s coming off a campaign in which he threw for 3,195 yards, 23 touchdowns and six interceptions.\n\nIn all those years, though, he played in just 42 total games with nary 32 starts.\n\nHe\u2019ll be competing with the 26-year-old Haener, a 2023 fourth-round pick of the Saints, and Rattler, a 24-year-old 2024 fifth-round selection of New Orleans."
+          ],
+          "title": "Rookie Tyler Shough aiming for history by winning Saints QB competition | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44906951/new-orleans-tyler-shough-2025-nfl-draft-derek-carr",
+          "excerpts": [
+            "He's played for three teams across seven years of college eligibility -- Oregon from 2018 to '20, Texas Tech from 2021 to '23 and Louisville in 2024 -- long enough to have been teammates with Saints tight end [Juwan Johnson](https://www.espn.com/nfl/player/_/id/3929645/juwan-johnson) , who is entering his sixth NFL season, at Oregon during Shough's freshman season.\n\n\"Tyler's experience, certainly there's value to that,\" Saints coach Kellen Moore said."
+          ],
+          "title": "Saints embrace QB Tyler Shough's unique journey to draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL's report states that Tyler Shough was selected in the second round of the 2025 NFL Draft at No. 40 overall.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/rookie-tyler-shough-aiming-for-history-by-winning-saints-qb-competition",
+          "excerpts": [
+            "[imminent](https://www.nfl.com/news/saints-not-currently-worried-about-adding-veteran-to-young-qb-room) .\n\nShough, a Louisville product, was selected in the second round of the 2025 NFL Draft at [No. 40 overall](https://www.nfl.com/news/2025-nfl-draft-saints-select-louisville-qb-tyler-shough-with-pick-no-40-third-qb-taken) \\-- the third QB taken. He\u2019s the third-highest QB selection in Saints chronicle following Manning at No. 2 overall and Bo Burris at 27th overall (second round at the time) in 1967."
+          ],
+          "title": "Rookie Tyler Shough aiming for history by winning Saints QB competition | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile lists Chandler, Arizona, as his hometown and Hamilton High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/227832/tyler-shough",
+          "excerpts": [
+            "# Tyler Shough\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/6/class/2018)\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/10/class/2018)\n\n* \n\n6-5, 187 | 40: 4.88 | Class of 2018\n\n* Hometown [Chandler, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/10138/class/2018)\n* School [Hamilton High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2018/highschool/5548)"
+          ],
+          "title": "Football Recruiting - Tyler Shough - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The report says Shough started all seven games in 2020 and Oregon won its second consecutive Pac-12 championship.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30946826/texas-tech-football-lands-former-oregon-starting-quarterback-tyler-shough-graduate-transfer",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=30946826)\n\nFormer Oregon starting quarterback Tyler Shough is joining Texas Tech as a graduate transfer, he announced Monday.\n\nShough, who started all seven games in 2020 as Oregon won its second consecutive Pac-12 championship, will have three years of eligibility remaining with the Red Raiders."
+          ],
+          "title": "Texas Tech football lands former Oregon starting quarterback Tyler Shough as a graduate transfer - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The report names Shough as Texas Bowl MVP and says he threw for 242 yards and accounted for three touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39050855/texas-tech-quarterback-tyler-shough-transfers-louisville",
+          "excerpts": [
+            "He earned the MVP of the Texas Bowl in a victory over [Ole Miss](https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels) after the 2022 season, throwing for 242 yards and accounting for three touchdowns.\n\nShough began his career at Oregon. He threw for 4,625 yards and 36 touchdowns in 27 career games combined at the two schools. His career completion percentage is more than 63%."
+          ],
+          "title": "Tyler Shough, 24, leaves Texas Tech, transfers to Louisville - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The report identifies Louisville as his final college stop and gives the season totals of 3,195 passing yards and 23 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/rookie-tyler-shough-aiming-for-history-by-winning-saints-qb-competition",
+          "excerpts": [
+            "|Bo Burris |1967 |Round 2, No. 27 overall |\n|Tyler Shough |2025 |Round 2, No. 40 overall |\n\nShough\u2019s hardly your average rookie. He will turn 26 on Sept. 28, after seven seasons of college ball with Oregon (three years), Texas Tech (three) and Louisville (one), where he\u2019s coming off a campaign in which he threw for 3,195 yards, 23 touchdowns and six interceptions.\n\nIn all those years, though, he played in just 42 total games with nary 32 starts.\n\nHe\u2019ll be competing with the 26-year-old Haener, a 2023 fourth-round pick of the Saints, and Rattler, a 24-year-old 2024 fifth-round selection of New Orleans."
+          ],
+          "title": "Rookie Tyler Shough aiming for history by winning Saints QB competition | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The article states Shough played for Oregon, Texas Tech, and Louisville across seven years of college eligibility.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44906951/new-orleans-tyler-shough-2025-nfl-draft-derek-carr",
+          "excerpts": [
+            "He's played for three teams across seven years of college eligibility -- Oregon from 2018 to '20, Texas Tech from 2021 to '23 and Louisville in 2024 -- long enough to have been teammates with Saints tight end [Juwan Johnson](https://www.espn.com/nfl/player/_/id/3929645/juwan-johnson) , who is entering his sixth NFL season, at Oregon during Shough's freshman season.\n\n\"Tyler's experience, certainly there's value to that,\" Saints coach Kellen Moore said."
+          ],
+          "title": "Saints embrace QB Tyler Shough's unique journey to draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,307 @@
+[
+  {
+    "espn_id": "401856753",
+    "away_team": "Georgia Bulldogs",
+    "home_team": "South Carolina Gamecocks",
+    "away_abbr": "UGA",
+    "home_abbr": "SC",
+    "away_id": "61",
+    "home_id": "2579",
+    "away_rank": 1,
+    "home_rank": 21,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Nate Frazier rumbles 1 yard for a touchdown, putting No. 1 Georgia ahead 10-6! Frazier scored again after halftime in South Carolina. Khalil Barnes snagged an interception at Georgia\u2019s 9-yard line. Gunner Stockton later zipped a 14-yard touchdown pass to Craig Dandridge. Georgia beat No. 21 South Carolina 34-6! Georgia clinched a spot in its 6th straight SEC title game, a first for any team.",
+    "big_words": [
+      {
+        "word": "clinched",
+        "definition": "Made sure of getting something.",
+        "example": "Sofia clinched first place with her bubbling volcano science project."
+      }
+    ],
+    "away_score": 34,
+    "home_score": 6,
+    "away_record": "10-1",
+    "home_record": "6-5"
+  },
+  {
+    "espn_id": "401856872",
+    "away_team": "Utah Utes",
+    "home_team": "TCU Horned Frogs",
+    "away_abbr": "UTAH",
+    "home_abbr": "TCU",
+    "away_id": "254",
+    "home_id": "2628",
+    "away_rank": 2,
+    "home_rank": null,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Devon Dampier threw 2 touchdown passes as No. 2 Utah beat TCU 38-17. He hit Braden Pegan for a 68-yard score. Utah led 17-0 at halftime, but Jeremy Payne ran for 2 touchdowns. His second score tied the game at 17! Hunter Andrews put Utah ahead with a 2-yard touchdown run. Then Dampier zipped an 85-yard touchdown pass to Larry Simmons! Utah stayed the only unbeaten FBS team and stretched its winning streak to 17 games. The win also sent Utah to the Big 12 Championship Game.",
+    "big_words": [
+      {
+        "word": "streak",
+        "definition": "A run of wins or successes in a row.",
+        "example": "Jamal kept his streak going by building a block tower every day."
+      }
+    ],
+    "away_score": 38,
+    "home_score": 17,
+    "away_record": "11-0",
+    "home_record": "5-6"
+  },
+  {
+    "espn_id": "401856746",
+    "away_team": "Chattanooga Mocs",
+    "home_team": "Alabama Crimson Tide",
+    "away_abbr": "UTC",
+    "home_abbr": "ALA",
+    "away_id": "236",
+    "home_id": "333",
+    "away_rank": null,
+    "home_rank": 3,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "254 yards flew from Austin Mack\u2019s arm in his first college start! He threw 4 touchdown passes as No. 3 Alabama beat Chattanooga 47-0 in Alabama. Mack also ran for a touchdown. He zipped scoring passes to Ryan Coleman-Williams and Rico Scott. Alabama\u2019s defense was dominant, holding Chattanooga to 86 yards. The win put Alabama at 9-2 before the Iron Bowl.",
+    "big_words": [
+      {
+        "word": "dominant",
+        "definition": "Much stronger than the other side.",
+        "example": "Hana was dominant at a game of tag on her camping trip."
+      }
+    ],
+    "away_score": 0,
+    "home_score": 47,
+    "away_record": "7-5",
+    "home_record": "9-2"
+  },
+  {
+    "espn_id": "401858528",
+    "away_team": "UCLA Bruins",
+    "home_team": "Michigan Wolverines",
+    "away_abbr": "UCLA",
+    "home_abbr": "MICH",
+    "away_id": "26",
+    "home_id": "130",
+    "away_rank": 4,
+    "home_rank": null,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "In Michigan, the Wolverines faced unbeaten No. 4 UCLA with a bowl trip at stake. Bryce Underwood tossed a touchdown to Mason Bonner for a 10-3 lead. UCLA tied it with 10 seconds left. The teams traded kicks through 2 overtimes. Then Underwood found Jalen Hoffman for the winning 2-point conversion! Michigan stunned UCLA 18-16 in a triple-overtime upset. The win made Michigan bowl eligible at 6-5.",
+    "big_words": [
+      {
+        "word": "upset",
+        "definition": "A win by a team not expected to win.",
+        "example": "Diego's team pulled off an upset in a birthday party game."
+      },
+      {
+        "word": "eligible",
+        "definition": "Allowed to take part in something.",
+        "example": "Diego was eligible to play the birthday party's ring toss game."
+      }
+    ],
+    "away_score": 16,
+    "home_score": 18,
+    "away_record": "10-1",
+    "home_record": "6-5"
+  },
+  {
+    "espn_id": "401856755",
+    "away_team": "Arkansas Razorbacks",
+    "home_team": "Texas Longhorns",
+    "away_abbr": "ARK",
+    "home_abbr": "TEX",
+    "away_id": "8",
+    "home_id": "251",
+    "away_rank": null,
+    "home_rank": 5,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Who ruled the field in Texas? No. 5 Texas beat Arkansas 45-3! Arch Manning ran for a touchdown to start the fun. Jelani McDonald kept the momentum going with a 31-yard pick-six. Manning later zipped a touchdown pass to Emaree Winston. Michael Terry III and Derrek Cooper ran for touchdowns, too. Texas earned its fifth win in a row and moved to 9-2.",
+    "big_words": [
+      {
+        "word": "momentum",
+        "definition": "The power to keep going strong.",
+        "example": "Ava kept her momentum as she raced to see the zoo's monkeys."
+      }
+    ],
+    "away_score": 3,
+    "home_score": 45,
+    "away_record": "4-7",
+    "home_record": "9-2"
+  },
+  {
+    "espn_id": "401858307",
+    "away_team": "SMU Mustangs",
+    "home_team": "Notre Dame Fighting Irish",
+    "away_abbr": "SMU",
+    "home_abbr": "ND",
+    "away_id": "2567",
+    "home_id": "87",
+    "away_rank": null,
+    "home_rank": 6,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "The final score read 24-3, with No. 6 Notre Dame on top! Cooper Flanagan ran 2 yards for the first touchdown. CJ Carr then zipped a 21-yard touchdown pass to Jordan Faison. Nolan James Jr. added a 4-yard touchdown run. Notre Dame\u2019s determined defense held SMU to its lowest score since 2016. The win lifted Notre Dame\u2019s record to 10-1.",
+    "big_words": [
+      {
+        "word": "determined",
+        "definition": "Ready to keep trying and not give up.",
+        "example": "Kofi was determined to learn every word for his spelling test."
+      }
+    ],
+    "away_score": 3,
+    "home_score": 24,
+    "away_record": "7-4",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401858302",
+    "away_team": "Virginia Tech Hokies",
+    "home_team": "Miami Hurricanes",
+    "away_abbr": "VT",
+    "home_abbr": "MIA",
+    "away_id": "259",
+    "home_id": "2390",
+    "away_rank": null,
+    "home_rank": 7,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Virginia Tech led by 14, but No. 7 Miami came roaring back in Florida! Jake Weinberg kicked a school-record 59-yard field goal before halftime. Mark Fletcher Jr. scored to give Miami its first lead in the fourth quarter. He scored again and finished with 3 rushing touchdowns. Virginia Tech's last fourth-down pass fell incomplete. Miami won 28-20 and earned a spot in the ACC title game.",
+    "big_words": [
+      {
+        "word": "incomplete",
+        "definition": "Not caught by a player on the passing team.",
+        "example": "Lily's pass to her friend was incomplete when her dog snagged the ball."
+      }
+    ],
+    "away_score": 20,
+    "home_score": 28,
+    "away_record": "6-5",
+    "home_record": "10-1"
+  },
+  {
+    "espn_id": "401858535",
+    "away_team": "Indiana Hoosiers",
+    "home_team": "Washington Huskies",
+    "away_abbr": "IU",
+    "home_abbr": "WASH",
+    "away_id": "84",
+    "home_id": "264",
+    "away_rank": 8,
+    "home_rank": null,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Tyler Robles kicked a 46-yard field goal in overtime to win it! Washington beat No. 8 Indiana 27-24 in Washington. Demond Williams Jr. had raced 65 yards for an early touchdown. Charlie Becker answered with a 74-yard touchdown catch for Indiana. Late in the game, Williams found Decker DeGraaf for the tying touchdown! Robles finished the comeback with his kick. It was Washington\u2019s first win over a top-10 team in 2 years.",
+    "big_words": [
+      {
+        "word": "comeback",
+        "definition": "A return to winning after being behind.",
+        "example": "Mateo\u2019s goal sparked a comeback in the recess soccer game."
+      }
+    ],
+    "away_score": 24,
+    "home_score": 27,
+    "away_record": "9-2",
+    "home_record": "7-4"
+  },
+  {
+    "espn_id": "401856754",
+    "away_team": "LSU Tigers",
+    "home_team": "Tennessee Volunteers",
+    "away_abbr": "LSU",
+    "home_abbr": "TENN",
+    "away_id": "99",
+    "home_id": "2633",
+    "away_rank": null,
+    "home_rank": 9,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Faizon Brandon races 55 yards for a touchdown, pushing Tennessee farther ahead! Earlier, George MacIntyre tossed a touchdown to DaSaahn Brame. LSU tied it at 13 when Sam Leavitt found Trey'Dez Green. Then Brandon ran 18 yards for the lead in Tennessee. His 2 clutch runs helped No. 9 Tennessee beat LSU 27-13. Tennessee is now 9-2 and still hopes to make the College Football Playoff.",
+    "big_words": [
+      {
+        "word": "clutch",
+        "definition": "Coming through when it matters most.",
+        "example": "Zoe made a clutch save when her garden plant tipped over."
+      }
+    ],
+    "away_score": 13,
+    "home_score": 27,
+    "away_record": "6-5",
+    "home_record": "9-2"
+  },
+  {
+    "espn_id": "401856866",
+    "away_team": "BYU Cougars",
+    "home_team": "Kansas Jayhawks",
+    "away_abbr": "BYU",
+    "home_abbr": "KU",
+    "away_id": "252",
+    "home_id": "2305",
+    "away_rank": 10,
+    "home_rank": null,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "Bear Bachmeier tossed the winning pass to Jojo Phillips in triple overtime! No. 10 BYU beat Kansas 31-29 in Kansas. Isaiah Marshall tied the game late with a pass to Cam Pickett. In the second overtime, LJ Martin ran for a BYU touchdown. Marshall then tied it again with a pass to Nahzae Cox. Bachmeier\u2019s 2-point pass gave BYU its first win over Kansas in 4 meetings! The win kept BYU\u2019s College Football Playoff hopes alive.",
+    "big_words": [
+      {
+        "word": "triple",
+        "definition": "Having 3 parts or happening 3 times.",
+        "example": "Ethan did a triple spin at the talent show."
+      }
+    ],
+    "away_score": 31,
+    "home_score": 29,
+    "away_record": "9-2",
+    "home_record": "4-7"
+  },
+  {
+    "espn_id": "401856751",
+    "away_team": "Kentucky Wildcats",
+    "home_team": "Missouri Tigers",
+    "away_abbr": "UK",
+    "home_abbr": "MIZ",
+    "away_id": "96",
+    "home_id": "142",
+    "away_rank": 16,
+    "home_rank": null,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "314 passing yards made Austin Simmons the spark for Missouri! The Tigers beat No. 16 Kentucky 28-14 in Missouri. Simmons tossed 4 touchdown passes. His 60-yard toss to Donovan Olugbode was their second score together! Kentucky\u2019s Jovantae Barnes ran for a touchdown and caught the 2-point pass. Missouri ended a run of 2 losses and moved to 7-4.",
+    "big_words": [
+      {
+        "word": "spark",
+        "definition": "Someone or something that gets things going.",
+        "example": "Nia\u2019s idea for star-shaped cookies was the spark for a fun baking day."
+      }
+    ],
+    "away_score": 14,
+    "home_score": 28,
+    "away_record": "7-4",
+    "home_record": "7-4"
+  },
+  {
+    "espn_id": "401856748",
+    "away_team": "Vanderbilt Commodores",
+    "home_team": "Florida Gators",
+    "away_abbr": "VAN",
+    "home_abbr": "FLA",
+    "away_id": "238",
+    "home_id": "57",
+    "away_rank": null,
+    "home_rank": 24,
+    "game_date": "2026-11-21",
+    "game_day": "Saturday, Nov 21",
+    "paragraph": "In Florida, No. 24 Florida chased its first winning SEC record since 2020. Myles Graham raced 57 yards with a fumble for a Gators touchdown! Jared Curtis then zipped a 75-yard touchdown pass to Junior Sherrill, putting Vanderbilt ahead 24-17. Aaron Philo ran in to tie it at 24. With 2:18 left, Jadan Baugh rumbled 10 yards for the winning touchdown! The 34-27 win gave Florida a seventh victory and that winning SEC record.",
+    "big_words": [
+      {
+        "word": "victory",
+        "definition": "A win in a game or contest.",
+        "example": "Omar grinned after his swimming lesson victory: crossing the pool without a float."
+      }
+    ],
+    "away_score": 27,
+    "home_score": 34,
+    "away_record": "4-7",
+    "home_record": "7-4"
+  }
+]

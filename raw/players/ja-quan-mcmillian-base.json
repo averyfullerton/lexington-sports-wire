@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_415f3f698c1f435ba80c2a843616851b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 44.7,
+  "input": {
+    "player": "Ja'Quan McMillian",
+    "team": "Denver Broncos",
+    "position": "Cornerback",
+    "season": 2026
+  },
+  "content": {
+    "college": "East Carolina",
+    "fun_facts": [
+      "Ja'Quan McMillian was born in Winston-Salem, North Carolina.",
+      "Ja'Quan McMillian intercepted 22 passes in high school and 12 more while playing at East Carolina.",
+      "Ja'Quan McMillian has referred to himself as \u201cJ-Mac.\u201d",
+      "Ja'Quan McMillian returned an interception 44 yards for a touchdown to help seal Denver's 41\u201332 win over Cleveland in 2024.",
+      "In a game against the Raiders, Ja'Quan McMillian made a one-handed interception and returned it for a touchdown."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies East Carolina as Ja'Quan McMillian's college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4567462/jaquan-mcmillian",
+          "excerpts": [
+            "HT/WT 5' 10\", 183 lbs\n\nBirthdate 6/4/2000 (26)\n\nCollege [East Carolina](https://www.espn.com/college-football/team/_/id/151/east-carolina-pirates)\n\nStatus Active\n\nExperience 4th Season"
+          ],
+          "title": "Ja'Quan McMillian Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages state McMillian's birthplace, his interception totals in high school and at East Carolina, his use of \u201cJ-Mac,\u201d a 44-yard touchdown return against Cleveland, and a one-handed interception returned for a touchdown against the Raiders.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/M/McMiJa00.htm",
+          "excerpts": [
+            "### When was Ja'Quan McMillian born?\n\nJa'Quan McMillian was born on June 4, 2000.\n\n### Where was Ja'Quan McMillian born?\n\nJa'Quan McMillian was born in Winston-Salem, NC."
+          ],
+          "title": "Ja'Quan McMillian Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39015791/denver-broncos-young-cornerback-star-jaquan-mcmillian",
+          "excerpts": [
+            "McMillian has always snatched the ball away from receivers -- 22 interceptions in his high school career to go with 12 more during his time at East Carolina. But he measured 5-foot-9\u00be inches tall at his pro day in March 2022 and ran a 4.59-second hand-timed 40-yard dash."
+          ],
+          "title": "Broncos might have a budding star in CB Ja'Quan McMillian - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47044564/jaquan-mcmillian-denver-broncos-big-plays-nickel-cornerback-pat-surtain-ii-absence",
+          "excerpts": [
+            "He has played 67% of Denver's defensive snaps this season, more than the highly touted Barron.\n\n\"I think I told you guys earlier during camp, J-Mac is going to be J-Mac, no matter who they bring in,\" McMillian said."
+          ],
+          "title": "Ja'Quan McMillian's big plays key to Broncos' playoff push - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401671686",
+          "excerpts": [
+            "# McMillian's pick-6 helps Broncos spoil career nights by Winston and Jeudy and beat Browns 41-32\n\nBy AP\n\nDec 3, 2024, 09:43 am\n\nFacebook Facebook Messenger Twitter Email\n\nDENVER -- \u2014 [Jameis Winston](http://www.espn.com/nfl/player/_/id/2969939/jameis-winston) had a night to remember \u2014 and one to forget.\n\nJa\u2019Quan McMillian [returned an interception 44 yards](https://x.com/NFL/status/1863804452547019180) for a game-sealing touchdown with 1:48 remaining, and Denver spoiled career-best performances by Winston and [former Broncos wide receiver](https://apnews.com/article/jerry-jeudy-browns-broncos-jameis-winston-5b817a915356269d9451a0aff4e98c65) [Jerry Jeudy](http://www.espn.com/nfl/player/_/id/4241463/jerry-jeudy) in beating the [Cleveland Browns](http://www.espn.com/nfl/team/_/name/cle/cleveland-browns) 41-32 on Monday night.\n\nThe good for Winston: He threw for a [franchise-record 497 yards](https://x.com/OptaSTATS/status/1863813213382410641) and four touchdowns."
+          ],
+          "title": "Broncos 41-32 Browns (Dec 2, 2024) Game Recap - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/50569582/broncos-jaquan-mcmillian-comes-clutch-again",
+          "excerpts": [
+            "the Raiders. Isaiah J. Downing-Imagn Images\n\nSo, McMillian undercut Tucker's route and snatched the ball one-handed as he nearly over-ran it, tucked it away and ran up the Raiders' sideline for the touchdown. It gave the Broncos their 38-24 margin.\n\n\"That's definitely a special one, another crucial moment,'' McMillian said."
+          ],
+          "title": "Broncos' Ja'Quan McMillian comes through in clutch again - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN account says McMillian entered the NFL as an undrafted free agent out of East Carolina in 2022; therefore, his draft status is undrafted.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47044564/jaquan-mcmillian-denver-broncos-big-plays-nickel-cornerback-pat-surtain-ii-absence",
+          "excerpts": [
+            "1 Related\n\nIt's the latest step for McMillian, who Broncos defensive coordinator Vance Joseph has called one of the best nickel corners in the league, since he entered the league as an undrafted free agent out of East Carolina in 2022.\n\nMcMillian has been defined by his versatility and competitiveness, as he has played in every game since being promoted from the Broncos' practice squad prior to"
+          ],
+          "title": "Ja'Quan McMillian's big plays key to Broncos' playoff push - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage gives Ja'Quan McMillian's birthplace as Winston-Salem, North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/M/McMiJa00.htm",
+          "excerpts": [
+            "### When was Ja'Quan McMillian born?\n\nJa'Quan McMillian was born on June 4, 2000.\n\n### Where was Ja'Quan McMillian born?\n\nJa'Quan McMillian was born in Winston-Salem, NC."
+          ],
+          "title": "Ja'Quan McMillian Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage reports 22 interceptions in high school and 12 during his time at East Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/39015791/denver-broncos-young-cornerback-star-jaquan-mcmillian",
+          "excerpts": [
+            "McMillian has always snatched the ball away from receivers -- 22 interceptions in his high school career to go with 12 more during his time at East Carolina. But he measured 5-foot-9\u00be inches tall at his pro day in March 2022 and ran a 4.59-second hand-timed 40-yard dash."
+          ],
+          "title": "Broncos might have a budding star in CB Ja'Quan McMillian - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage quotes McMillian using \u201cJ-Mac\u201d to describe himself.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47044564/jaquan-mcmillian-denver-broncos-big-plays-nickel-cornerback-pat-surtain-ii-absence",
+          "excerpts": [
+            "He has played 67% of Denver's defensive snaps this season, more than the highly touted Barron.\n\n\"I think I told you guys earlier during camp, J-Mac is going to be J-Mac, no matter who they bring in,\" McMillian said."
+          ],
+          "title": "Ja'Quan McMillian's big plays key to Broncos' playoff push - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says McMillian returned an interception 44 yards for a game-sealing touchdown against Cleveland.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401671686",
+          "excerpts": [
+            "# McMillian's pick-6 helps Broncos spoil career nights by Winston and Jeudy and beat Browns 41-32\n\nBy AP\n\nDec 3, 2024, 09:43 am\n\nFacebook Facebook Messenger Twitter Email\n\nDENVER -- \u2014 [Jameis Winston](http://www.espn.com/nfl/player/_/id/2969939/jameis-winston) had a night to remember \u2014 and one to forget.\n\nJa\u2019Quan McMillian [returned an interception 44 yards](https://x.com/NFL/status/1863804452547019180) for a game-sealing touchdown with 1:48 remaining, and Denver spoiled career-best performances by Winston and [former Broncos wide receiver](https://apnews.com/article/jerry-jeudy-browns-broncos-jameis-winston-5b817a915356269d9451a0aff4e98c65) [Jerry Jeudy](http://www.espn.com/nfl/player/_/id/4241463/jerry-jeudy) in beating the [Cleveland Browns](http://www.espn.com/nfl/team/_/name/cle/cleveland-browns) 41-32 on Monday night.\n\nThe good for Winston: He threw for a [franchise-record 497 yards](https://x.com/OptaSTATS/status/1863813213382410641) and four touchdowns."
+          ],
+          "title": "Broncos 41-32 Browns (Dec 2, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage describes McMillian snatching the ball one-handed and running it back for a touchdown against the Raiders.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/50569582/broncos-jaquan-mcmillian-comes-clutch-again",
+          "excerpts": [
+            "the Raiders. Isaiah J. Downing-Imagn Images\n\nSo, McMillian undercut Tucker's route and snatched the ball one-handed as he nearly over-ran it, tucked it away and ran up the Raiders' sideline for the touchdown. It gave the Broncos their 38-24 margin.\n\n\"That's definitely a special one, another crucial moment,'' McMillian said."
+          ],
+          "title": "Broncos' Ja'Quan McMillian comes through in clutch again - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

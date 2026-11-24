@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9a76efada262f23a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 79.9,
+  "input": {
+    "player": "Demond Williams Jr.",
+    "team": "Washington Huskies",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Demond Williams Jr. was born in Chandler, Arizona.",
+      "As a high school junior, he completed 68% of his passes for 2,339 yards, with 23 touchdown passes and just one interception.",
+      "That junior season, he also rushed for 764 yards and five touchdowns.",
+      "As a high school senior, he threw for 3,250 yards and 34 touchdowns, with just three interceptions.",
+      "At Washington, he set the school\u2019s single-game total-offense record with 538 yards. In that game, he also became the 16th FBS player to throw for at least 400 yards and rush for at least 100."
+    ],
+    "high_school": "Basha High School",
+    "hometown": "Chandler, Arizona"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography states his birthplace. The high school performance reports give his junior passing and rushing numbers and his senior passing totals. The game recap reports his 538-yard Washington total-offense record and his 400-yard passing/100-yard rushing milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079653/demond-williams-jr",
+          "excerpts": [
+            "Birthplace Chandler, AZ"
+          ],
+          "title": "Demond Williams Jr. Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38108593/qb-demond-williams-jr-stays-home-play-arizona",
+          "excerpts": [
+            "In 13 games last season as a junior for the Bears, Williams completed 68% of his passes for 2,339 yards with 23 touchdowns and just one interception while churning out 764 yards on the ground and five rushing touchdowns."
+          ],
+          "title": "QB Demond Williams Jr. stays at home, will play for Arizona - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39356815/arizona-qb-demond-williams-jr-following-jedd-fisch-washington",
+          "excerpts": [
+            "In 12 games last season as a senior for Basha High School (Arizona), the 5-foot-11, 170-pound Williams completed 77% of his passes for 3,250 yards and 34 touchdowns with just three interceptions."
+          ],
+          "title": "Arizona QB Demond Williams Jr. follows Jedd Fisch to Washington - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752862",
+          "excerpts": [
+            "According to the school, Williams became the 16th player in FBS history to throw for at least 400 yards and rush for at least 100 yards in a game, and the first since 2023. He is also the 12th Washington quarterback to run for 100 yards or more in a game and set the school total offense record with 538 yards."
+          ],
+          "title": "Washington 38-19 Rutgers (Oct 10, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The cited report identifies Williams as a product of Basha High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38108593/qb-demond-williams-jr-stays-home-play-arizona",
+          "excerpts": [
+            "Williams, ranked 219th overall in the 2024 ESPN 300 and a product of Basha High School in Chandler, Arizona, was in Tucson this past weekend to visit coach Jedd Fisch and his staff."
+          ],
+          "title": "QB Demond Williams Jr. stays at home, will play for Arizona - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The biography lists Chandler, Arizona, as his birthplace, and the report also locates his high school in Chandler, Arizona.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079653/demond-williams-jr",
+          "excerpts": [
+            "Birthplace Chandler, AZ"
+          ],
+          "title": "Demond Williams Jr. Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38108593/qb-demond-williams-jr-stays-home-play-arizona",
+          "excerpts": [
+            "Williams, ranked 219th overall in the 2024 ESPN 300 and a product of Basha High School in Chandler, Arizona, was in Tucson this past weekend to visit coach Jedd Fisch and his staff."
+          ],
+          "title": "QB Demond Williams Jr. stays at home, will play for Arizona - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography directly lists Chandler, Arizona, as his birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079653/demond-williams-jr",
+          "excerpts": [
+            "Birthplace Chandler, AZ"
+          ],
+          "title": "Demond Williams Jr. Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The report says that as a junior Williams completed 68% of his passes for 2,339 yards, 23 touchdowns, and one interception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38108593/qb-demond-williams-jr-stays-home-play-arizona",
+          "excerpts": [
+            "In 13 games last season as a junior for the Bears, Williams completed 68% of his passes for 2,339 yards with 23 touchdowns and just one interception while churning out 764 yards on the ground and five rushing touchdowns."
+          ],
+          "title": "QB Demond Williams Jr. stays at home, will play for Arizona - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The same junior-season report gives his rushing totals as 764 yards and five touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38108593/qb-demond-williams-jr-stays-home-play-arizona",
+          "excerpts": [
+            "In 13 games last season as a junior for the Bears, Williams completed 68% of his passes for 2,339 yards with 23 touchdowns and just one interception while churning out 764 yards on the ground and five rushing touchdowns."
+          ],
+          "title": "QB Demond Williams Jr. stays at home, will play for Arizona - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The report states that as a senior Williams threw for 3,250 yards and 34 touchdowns with three interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39356815/arizona-qb-demond-williams-jr-following-jedd-fisch-washington",
+          "excerpts": [
+            "In 12 games last season as a senior for Basha High School (Arizona), the 5-foot-11, 170-pound Williams completed 77% of his passes for 3,250 yards and 34 touchdowns with just three interceptions."
+          ],
+          "title": "Arizona QB Demond Williams Jr. follows Jedd Fisch to Washington - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The recap says Williams became the 16th FBS player to reach at least 400 passing and 100 rushing yards in a game, and that he set Washington\u2019s total-offense record with 538 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752862",
+          "excerpts": [
+            "According to the school, Williams became the 16th player in FBS history to throw for at least 400 yards and rush for at least 100 yards in a game, and the first since 2023. He is also the 12th Washington quarterback to run for 100 yards or more in a game and set the school total offense record with 538 yards."
+          ],
+          "title": "Washington 38-19 Rutgers (Oct 10, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

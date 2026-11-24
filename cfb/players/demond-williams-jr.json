@@ -1,0 +1,60 @@
+{
+  "name": "Demond Williams Jr.",
+  "espn_id": "5079653",
+  "team": "Washington Huskies",
+  "team_abbr": "WASH",
+  "number": "1",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Chandler, AZ",
+  "league": "cfb",
+  "fun_facts": [
+    "Demond set a Washington record with 538 total yards in one game.",
+    "He threw for at least 400 yards and ran for at least 100 that game.",
+    "He threw 34 touchdown passes as a high school senior."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "WASH",
+        "82",
+        "105",
+        "944",
+        "8",
+        "1"
+      ],
+      [
+        "2025",
+        "WASH",
+        "246",
+        "354",
+        "3,065",
+        "25",
+        "8"
+      ],
+      [
+        "2026",
+        "WASH",
+        "188",
+        "294",
+        "2,182",
+        "14",
+        "5"
+      ]
+    ]
+  }
+}

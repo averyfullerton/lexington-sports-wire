@@ -1,0 +1,166 @@
+{
+  "run_id": "trun_415f3f698c1f435b905b384b19a2a2d2",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 57.4,
+  "input": {
+    "player": "Travis Kelce",
+    "team": "Kansas City Chiefs",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Cincinnati",
+    "fun_facts": [
+      "At Cleveland Heights High School, Travis Kelce played football, basketball, and baseball.",
+      "Cincinnati went 32-7 across the three seasons Travis Kelce played there.",
+      "Although he was a high-school quarterback, Travis Kelce waited until 2011\u2014three years after arriving at Cincinnati\u2014to commit to switching to tight end.",
+      "Travis Kelce became the first tight end in NFL history to record four consecutive 1,000-yard seasons.",
+      "Travis Kelce became the fastest tight end to reach 10,000 receiving yards, doing it in his 140th game."
+    ],
+    "draft": "2013, round 3, pick 63"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography lists Cincinnati as Travis Kelce\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15847/travis-kelce",
+          "excerpts": [
+            "# Travis Kelce\n\nKansas City Chiefs\n\n* [Kansas City Chiefs Chiefs](https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs)\n* \\#87\n* Tight End TE\n\n* HT/WT\n  \n  6' 5\", 250 lbs\n* Birthdate\n  \n  10/5/1989 (37)\n* College\n  \n  [Cincinnati](https://www.espn.com/college-football/team/_/id/2132/cincinnati-bearcats)\n\nFollow\n\n* HT/WT\n  \n  6' 5\", 250 lbs\n* Birthdate\n  \n  10/5/1989 (37)\n* College\n  \n  [Cincinnati](https://www.espn.com/college-football/team/_/id/2132/cincinnati-bearcats)\n* Draft Info\n  \n  2013: Rd 3, Pk 63 (KC)"
+          ],
+          "title": "Travis Kelce Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The NCAA article supports the high-school sports and Cincinnati record facts; ESPN describes Kelce\u2019s transition from quarterback to tight end; NFL.com documents his four straight 1,000-yard seasons and his 10,000-yard milestone in 140 games.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/travis-kelce-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Kelce and Cincinnati finished a combined 32-7 during his three played seasons of his collegiate career."
+          ],
+          "title": "Travis Kelce: College football career, stats, highlights, records | NCAA.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41017076/nfl-travis-kelce-george-kittle-tight-ends",
+          "excerpts": [
+            "A high school quarterback who wished to remain at the position long term, Kelce stiff-armed early recommendations about switching to tight end. He consistently resisted the idea in high school despite his coach's belief he had NFL potential at the position. Kelce even ignored offers from major college programs that declined him the opportunity to play quarterback.\n\nIt wasn't until three years after his arrival on the University of Cincinnati campus, in 2011, that Kelce finally committed to making the change."
+          ],
+          "title": "How tight ends like Travis Kelce helped reshape the position - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/travis-kelce-chiefs-2020-man-of-the-year-nominee",
+          "excerpts": [
+            "Travis passed the 1,000-receiving yards mark in the 2019 season, becoming the first tight end in NFL history to have four consecutive 1,000-yard seasons. The Cincinnati product caught three touchdown passes in the club\u2019s 2019 AFC Divisional win vs. Houston, setting a franchise single-game postseason record, and becoming the first player in the Super Bowl era to record three receiving touchdowns in a single quarter in a postseason game. Travis owns the franchise\u2019s second-best mark for receptions and fourth-best mark for receiving yards in the regular season, as well as the top marks in both categories for the Chiefs postseason"
+          ],
+          "title": "Travis Kelce - Chiefs - 2020 Man of the year nominee | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/chiefs-travis-kelce-becomes-fastest-tight-end-to-reach-10-000-receiving-yards",
+          "excerpts": [
+            "[Travis Kelce](https://www.nfl.com/players/travis-kelce) \ufeff\u2019s stellar 2022 season has reached another milestone.\n\nIn Sunday\u2019s [34-28 win over](https://www.nfl.com/games/chiefs-at-broncos-2022-reg-14) the Denver Broncos, the Kansas City Chiefs star became the fifth tight end in NFL history to reach 10,000 yards receiving and the fastest to accomplish the feat.\n\nKelce surpassed 10,000 yards on a 38-yard reception from \ufeff [Patrick Mahomes](https://www.nfl.com/players/patrick-mahomes) \ufeff in the first quarter. He ended the game with four catches for 71 yards, putting his career yardage total at 10,045 yards.\n\nHe hit the mark in just his 140th game, shattering the previous standard set by Hall of Famer Tony Gonzalez, who reached 10,000 yards in his 177th contest."
+          ],
+          "title": "Chiefs' Travis Kelce becomes fastest tight end to reach 10,000 receiving yards | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography gives his draft information as 2013, round 3, pick 63, selected by Kansas City.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/15847/travis-kelce",
+          "excerpts": [
+            "# Travis Kelce\n\nKansas City Chiefs\n\n* [Kansas City Chiefs Chiefs](https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs)\n* \\#87\n* Tight End TE\n\n* HT/WT\n  \n  6' 5\", 250 lbs\n* Birthdate\n  \n  10/5/1989 (37)\n* College\n  \n  [Cincinnati](https://www.espn.com/college-football/team/_/id/2132/cincinnati-bearcats)\n\nFollow\n\n* HT/WT\n  \n  6' 5\", 250 lbs\n* Birthdate\n  \n  10/5/1989 (37)\n* College\n  \n  [Cincinnati](https://www.espn.com/college-football/team/_/id/2132/cincinnati-bearcats)\n* Draft Info\n  \n  2013: Rd 3, Pk 63 (KC)"
+          ],
+          "title": "Travis Kelce Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NCAA article says Kelce was a three-sport athlete at Cleveland Heights High School and names football, basketball, and baseball.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/travis-kelce-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Kelce and Cincinnati finished a combined 32-7 during his three played seasons of his collegiate career."
+          ],
+          "title": "Travis Kelce: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NCAA article states that Kelce and Cincinnati had a combined 32-7 record during his three played college seasons.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/travis-kelce-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Kelce and Cincinnati finished a combined 32-7 during his three played seasons of his collegiate career."
+          ],
+          "title": "Travis Kelce: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN says Kelce was a high-school quarterback and committed to switching to tight end in 2011, three years after arriving at Cincinnati.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41017076/nfl-travis-kelce-george-kittle-tight-ends",
+          "excerpts": [
+            "A high school quarterback who wished to remain at the position long term, Kelce stiff-armed early recommendations about switching to tight end. He consistently resisted the idea in high school despite his coach's belief he had NFL potential at the position. Kelce even ignored offers from major college programs that declined him the opportunity to play quarterback.\n\nIt wasn't until three years after his arrival on the University of Cincinnati campus, in 2011, that Kelce finally committed to making the change."
+          ],
+          "title": "How tight ends like Travis Kelce helped reshape the position - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com identifies Kelce as the first tight end in NFL history with four consecutive 1,000-yard seasons.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/travis-kelce-chiefs-2020-man-of-the-year-nominee",
+          "excerpts": [
+            "Travis passed the 1,000-receiving yards mark in the 2019 season, becoming the first tight end in NFL history to have four consecutive 1,000-yard seasons. The Cincinnati product caught three touchdown passes in the club\u2019s 2019 AFC Divisional win vs. Houston, setting a franchise single-game postseason record, and becoming the first player in the Super Bowl era to record three receiving touchdowns in a single quarter in a postseason game. Travis owns the franchise\u2019s second-best mark for receptions and fourth-best mark for receiving yards in the regular season, as well as the top marks in both categories for the Chiefs postseason"
+          ],
+          "title": "Travis Kelce - Chiefs - 2020 Man of the year nominee | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com says Kelce reached 10,000 receiving yards in his 140th game, faster than any tight end before him.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/chiefs-travis-kelce-becomes-fastest-tight-end-to-reach-10-000-receiving-yards",
+          "excerpts": [
+            "[Travis Kelce](https://www.nfl.com/players/travis-kelce) \ufeff\u2019s stellar 2022 season has reached another milestone.\n\nIn Sunday\u2019s [34-28 win over](https://www.nfl.com/games/chiefs-at-broncos-2022-reg-14) the Denver Broncos, the Kansas City Chiefs star became the fifth tight end in NFL history to reach 10,000 yards receiving and the fastest to accomplish the feat.\n\nKelce surpassed 10,000 yards on a 38-yard reception from \ufeff [Patrick Mahomes](https://www.nfl.com/players/patrick-mahomes) \ufeff in the first quarter. He ended the game with four catches for 71 yards, putting his career yardage total at 10,045 yards.\n\nHe hit the mark in just his 140th game, shattering the previous standard set by Hall of Famer Tony Gonzalez, who reached 10,000 yards in his 177th contest."
+          ],
+          "title": "Chiefs' Travis Kelce becomes fastest tight end to reach 10,000 receiving yards | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.2"
+    ],
+    "off_allowlist_citations": []
+  }
+}

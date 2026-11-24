@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_1d63cf7e4268416eaed7a6341b0cd802",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 103.3,
+  "input": {
+    "player": "Jayden Maiava",
+    "team": "USC Trojans",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In 2023, Jayden Maiava threw for 3,085 yards and 17 touchdowns at UNLV, and also ran for 277 yards and three scores.",
+      "In his first USC start, Jayden Maiava threw three touchdown passes and ran for another in a 28\u201320 win over Nebraska.",
+      "Jayden Maiava opened the 2026 season with 286 passing yards, two passing touchdowns, and a rushing score in USC\u2019s 42\u201326 win over San Jos\u00e9 State.",
+      "In USC\u2019s 30\u201318 upset of No. 2 Ohio State, Jayden Maiava connected with Trent Mosley for a 69-yard touchdown on the game\u2019s second snap.",
+      "Jayden Maiava is from Honolulu, Hawaii, and played high school football at Kaimuki High School."
+    ],
+    "high_school": "Kaimuki High School",
+    "hometown": "Honolulu, Hawaii"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages report Maiava\u2019s 2023 passing and rushing totals, his three passing touchdowns and rushing score in his first USC start, his passing and rushing scores in the 2026 opener, and the 69-yard touchdown to Trent Mosley against No. 2 Ohio State. The recruiting profile identifies his Honolulu hometown and Kaimuki High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39268472/unlv-qb-jayden-maiava-transfer-georgia-father-says",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=39268472)\n\nOpen Extended Reactions\n\n[UNLV](https://www.espn.com/college-football/team/_/id/2439/unlv-rebels) quarterback [Jayden Maiava](https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) is transferring to [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) , his father, William Maiava-Pratt, told ESPN on Monday, confirming a report.\n\nMaiava was a redshirt freshman this past season who threw for 3,085 yards, 17 touchdowns and 10 interceptions, while also rushing for 277 yards and three touchdowns on the ground.\n\nHe was a three-star prospect in the 2022 class out of Honolulu, Hawai'i, and signed with the Rebels out of high school. He redshirted his first season in 2022 but was the starter this season. After he had considered entering the transfer portal after the regular season, it looked as though he might stay at UNLV, but he ultimately decided to transfer and entered the portal on Jan."
+          ],
+          "title": "UNLV QB Jayden Maiava will transfer to Georgia, father says - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628549",
+          "excerpts": [
+            "* [Play Fantasy Football](https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2024)\n\n# Jayden Maiava passes for 3 TDs, runs for another in debut start to lead USC past Nebraska, 28-20\n\nBy AP\n\nNov 16, 2024, 09:20 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLOS ANGELES -- \u2014 [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) passed for 259 yards and three touchdowns and ran for another score in his first start for [Southern California](https://apnews.com/hub/southern-california-trojans-football) , leading the Trojans to a 28-20 victory over slumping [Nebraska](https://apnews.com/hub/nebraska-cornhuskers-football) on Saturday.\n\n[Woody Marks](http://www.espn.com/college-football/player/_/id/4429059/woody-marks) rushed for 146 yards for USC (5-5, 3-5 Big Ten), and [Maiava capped his eventful debut start](https://apnews.com/article/usc-jayden-maiava-quarterback-35c9f7f35d3ec3ca0bf72aa3283a679a) by making a 2-yard TD run with 2:45 to play."
+          ],
+          "title": "USC 28-20 Nebraska (Nov 16, 2024) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401864494",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401864494)\n\n* [Videos](https://www.espn.com/college-football/video/_/gameId/401864494)\n\n# Jayden Maiava, new playmakers lead No. 14 USC to 42-26 win over San Jose State in season opener\n\n2:17\n\n## Stephen A.: Lincoln Riley, USC have to produce, or else\n\n* * *\n\nBy AP\n\nUpdated: Aug 29, 2026, 11:49 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLOS ANGELES -- \u2014 [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) passed for 286 yards and two touchdowns and ran for another score, and No. 14 Southern California opened a season of high expectations with a 42-26 victory over San Jose State on Saturday."
+          ],
+          "title": "USC 42-26 San Jos\u00e9 State (Aug 29, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858509/ohio-state-usc",
+          "excerpts": [
+            "[## USC stuns No. 2 Ohio State 30-18 with big plays from Jayden Maiava, freshman Trent Mosley \u2014 When Trent Mosley took a screen pass straight through the heart of Ohio State's defense for an exhilarating touchdown on the second snap, Southern California realized something special might be brewing on Halloween night. Nov 1, 2026, 05:00 am - AP](https://www.espn.com/college-football/recap/_/gameId/401858509)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nTouchdown\n\n14:21 - 1st\n\n0\n\nOSU\n\n7\n\nUSC\n\nTrent Mosley 69 Yd pass from Jayden Maiava (Caden Chittenden Kick)\n\n2 plays, 75 yards, 0:39\n\nField Goal\n\n8:27 - 1st\n\n3\n\nOSU\n\n7\n\nUSC\n\nConnor Hawkins 39 Yd Field Goal\n\n11 plays, 54 yards, 5:48\n\nTouchdown\n\n2:25 - 1st\n\n3\n\nOSU\n\n14\n\nUSC\n\nWaymond Jordan 9 Yd Run (Caden Chittenden Kick)\n\n4 plays, 31 yards, 1:43\n\n2nd Quarter"
+          ],
+          "title": "USC 30-18 Ohio State (Oct 31, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/240631/jayden-maiava",
+          "excerpts": [
+            "Jayden Maiava 6-4, 205 | Class of 2022 Hometown Honolulu, Hawaii School Kaimuki High School Position Quarterback: Pocket Passer Status Signed UNLV 04/30/2021 Scout Grade 79 23 POSITION 75 REGIONAL"
+          ],
+          "title": "Football Recruiting - Jayden Maiava - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting profile lists Kaimuki High School as Jayden Maiava\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/240631/jayden-maiava",
+          "excerpts": [
+            "Jayden Maiava 6-4, 205 | Class of 2022 Hometown Honolulu, Hawaii School Kaimuki High School Position Quarterback: Pocket Passer Status Signed UNLV 04/30/2021 Scout Grade 79 23 POSITION 75 REGIONAL"
+          ],
+          "title": "Football Recruiting - Jayden Maiava - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile gives Jayden Maiava\u2019s hometown as Honolulu, Hawaii.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/240631/jayden-maiava",
+          "excerpts": [
+            "Jayden Maiava 6-4, 205 | Class of 2022 Hometown Honolulu, Hawaii School Kaimuki High School Position Quarterback: Pocket Passer Status Signed UNLV 04/30/2021 Scout Grade 79 23 POSITION 75 REGIONAL"
+          ],
+          "title": "Football Recruiting - Jayden Maiava - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN report states his 2023 UNLV passing and rushing totals, including touchdowns in both categories.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39268472/unlv-qb-jayden-maiava-transfer-georgia-father-says",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=39268472)\n\nOpen Extended Reactions\n\n[UNLV](https://www.espn.com/college-football/team/_/id/2439/unlv-rebels) quarterback [Jayden Maiava](https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) is transferring to [Georgia](https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs) , his father, William Maiava-Pratt, told ESPN on Monday, confirming a report.\n\nMaiava was a redshirt freshman this past season who threw for 3,085 yards, 17 touchdowns and 10 interceptions, while also rushing for 277 yards and three touchdowns on the ground.\n\nHe was a three-star prospect in the 2022 class out of Honolulu, Hawai'i, and signed with the Rebels out of high school. He redshirted his first season in 2022 but was the starter this season. After he had considered entering the transfer portal after the regular season, it looked as though he might stay at UNLV, but he ultimately decided to transfer and entered the portal on Jan."
+          ],
+          "title": "UNLV QB Jayden Maiava will transfer to Georgia, father says - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap describes his first USC start, reporting three passing touchdowns, a rushing touchdown, and the 28\u201320 Nebraska win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401628549",
+          "excerpts": [
+            "* [Play Fantasy Football](https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2024)\n\n# Jayden Maiava passes for 3 TDs, runs for another in debut start to lead USC past Nebraska, 28-20\n\nBy AP\n\nNov 16, 2024, 09:20 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLOS ANGELES -- \u2014 [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) passed for 259 yards and three touchdowns and ran for another score in his first start for [Southern California](https://apnews.com/hub/southern-california-trojans-football) , leading the Trojans to a 28-20 victory over slumping [Nebraska](https://apnews.com/hub/nebraska-cornhuskers-football) on Saturday.\n\n[Woody Marks](http://www.espn.com/college-football/player/_/id/4429059/woody-marks) rushed for 146 yards for USC (5-5, 3-5 Big Ten), and [Maiava capped his eventful debut start](https://apnews.com/article/usc-jayden-maiava-quarterback-35c9f7f35d3ec3ca0bf72aa3283a679a) by making a 2-yard TD run with 2:45 to play."
+          ],
+          "title": "USC 28-20 Nebraska (Nov 16, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The 2026 season-opener recap reports his 286 passing yards, two touchdown passes, rushing score, and USC\u2019s 42\u201326 victory.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401864494",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401864494)\n\n* [Videos](https://www.espn.com/college-football/video/_/gameId/401864494)\n\n# Jayden Maiava, new playmakers lead No. 14 USC to 42-26 win over San Jose State in season opener\n\n2:17\n\n## Stephen A.: Lincoln Riley, USC have to produce, or else\n\n* * *\n\nBy AP\n\nUpdated: Aug 29, 2026, 11:49 pm\n\nFacebook Facebook Messenger Twitter Email\n\nLOS ANGELES -- \u2014 [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) passed for 286 yards and two touchdowns and ran for another score, and No. 14 Southern California opened a season of high expectations with a 42-26 victory over San Jose State on Saturday."
+          ],
+          "title": "USC 42-26 San Jos\u00e9 State (Aug 29, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game recap reports USC\u2019s 30\u201318 upset of No. 2 Ohio State and records a 69-yard touchdown pass from Maiava to Trent Mosley; its recap text places the play on the game\u2019s second snap.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858509/ohio-state-usc",
+          "excerpts": [
+            "[## USC stuns No. 2 Ohio State 30-18 with big plays from Jayden Maiava, freshman Trent Mosley \u2014 When Trent Mosley took a screen pass straight through the heart of Ohio State's defense for an exhilarating touchdown on the second snap, Southern California realized something special might be brewing on Halloween night. Nov 1, 2026, 05:00 am - AP](https://www.espn.com/college-football/recap/_/gameId/401858509)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nTouchdown\n\n14:21 - 1st\n\n0\n\nOSU\n\n7\n\nUSC\n\nTrent Mosley 69 Yd pass from Jayden Maiava (Caden Chittenden Kick)\n\n2 plays, 75 yards, 0:39\n\nField Goal\n\n8:27 - 1st\n\n3\n\nOSU\n\n7\n\nUSC\n\nConnor Hawkins 39 Yd Field Goal\n\n11 plays, 54 yards, 5:48\n\nTouchdown\n\n2:25 - 1st\n\n3\n\nOSU\n\n14\n\nUSC\n\nWaymond Jordan 9 Yd Run (Caden Chittenden Kick)\n\n4 plays, 31 yards, 1:43\n\n2nd Quarter"
+          ],
+          "title": "USC 30-18 Ohio State (Oct 31, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN recruiting profile lists Honolulu, Hawaii, as his hometown and Kaimuki High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/240631/jayden-maiava",
+          "excerpts": [
+            "Jayden Maiava 6-4, 205 | Class of 2022 Hometown Honolulu, Hawaii School Kaimuki High School Position Quarterback: Pocket Passer Status Signed UNLV 04/30/2021 Scout Grade 79 23 POSITION 75 REGIONAL"
+          ],
+          "title": "Football Recruiting - Jayden Maiava - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

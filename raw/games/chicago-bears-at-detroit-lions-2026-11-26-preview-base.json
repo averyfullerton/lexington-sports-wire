@@ -1,0 +1,374 @@
+{
+  "run_id": "trun_1714e31eeb204d32bd04505dd52eaa26",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 168.7,
+  "input": {
+    "away_team": "Chicago Bears",
+    "home_team": "Detroit Lions",
+    "game_date": "2026-11-26",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "8-2",
+    "away_team": "Chicago Bears",
+    "storyline": "This Thanksgiving Week 12 game matches the NFC North\u2019s top two teams: Detroit was first at 8-2, with Chicago second at 8-2.",
+    "matchup_notes": [
+      "Detroit and Chicago were first and second, respectively, in the NFC North; both were 8-2.",
+      "Chicago beat the New Orleans Saints 21-13 on November 22 and had won five straight games.",
+      "Detroit beat the Tampa Bay Buccaneers 31-21 on November 22 for its sixth straight win.",
+      "The game was scheduled for Thursday, November 26, at 1:00 p.m. ET on CBS."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,727 passing yards, 10 TD, 6 INT",
+        "team": "Chicago Bears",
+        "name": "Caleb Williams"
+      },
+      {
+        "stat_line": "627 rushing yards, 10 TD",
+        "team": "Chicago Bears",
+        "name": "D'Andre Swift"
+      },
+      {
+        "stat_line": "2,716 passing yards, 20 TD, 4 INT",
+        "team": "Detroit Lions",
+        "name": "Jared Goff"
+      },
+      {
+        "stat_line": "1,098 rushing yards, 13 TD",
+        "team": "Detroit Lions",
+        "name": "Jahmyr Gibbs"
+      }
+    ],
+    "home_record": "8-2",
+    "home_team": "Detroit Lions",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game-center listing identifies the Chicago Bears as 8-2, or eight wins and two losses, before the scheduled matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/bears-at-lions-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nChicago Bears\n\nDetroit Lions\n\nChicago Bears, POINTS PER GAME, 26.2, ranked 8th.\n\n26\\.2\n\n8TH\n\nPOINTS PER GAME\n\nDetroit Lions, POINTS PER GAME, 28.8, ranked 5th.\n\n28\\.8\n\n5TH\n\nChicago Bears, YARDS PER GAME, 376, ranked 8th.\n\n376\n\n8TH\n\nYARDS PER GAME\n\nDetroit Lions, YARDS PER GAME, 391.8, ranked 3rd.\n\n391\\.8\n\n3RD\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:06, ranked 1st.\n\n34:06\n\n1ST\n\nTIME OF POSSESSION PER GAME"
+          ],
+          "title": "Chicago Bears at Detroit Lions 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing names Chicago Bears as the away team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/bears-at-lions-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nChicago Bears\n\nDetroit Lions\n\nChicago Bears, POINTS PER GAME, 26.2, ranked 8th.\n\n26\\.2\n\n8TH\n\nPOINTS PER GAME\n\nDetroit Lions, POINTS PER GAME, 28.8, ranked 5th.\n\n28\\.8\n\n5TH\n\nChicago Bears, YARDS PER GAME, 376, ranked 8th.\n\n376\n\n8TH\n\nYARDS PER GAME\n\nDetroit Lions, YARDS PER GAME, 391.8, ranked 3rd.\n\n391\\.8\n\n3RD\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:06, ranked 1st.\n\n34:06\n\n1ST\n\nTIME OF POSSESSION PER GAME"
+          ],
+          "title": "Chicago Bears at Detroit Lions 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The standings show Detroit ahead of Chicago in the NFC North, with both teams at 8-2. The NFL schedule identifies their Week 12 game on Thursday, November 26, making it the Thanksgiving meeting of the division\u2019s top two teams.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/det/detroit-lions",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- |\n|[Detroit](https://www.espn.com/nfl/team/_/name/det/detroit-lions) |8 |2 |0 |.800 |288 |220 |\n|[Chicago](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) |8 |2 |0 |.800 |262 |197 |\n|[Minnesota](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings) |7 |3 |0 |.700 |186 |161 |\n|[Green Bay](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers) |6 |4 |0 |.600 |226 |221 |"
+          ],
+          "title": "Detroit Lions Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |\n| --- | --- | --- | --- | --- |\n|**Denver Broncos** |at |**Pittsburgh Steelers** |3:00 p.m. ET |Prime |\n\n|SUNDAY, NOVEMBER 29 | | | | |\n| --- | --- | --- | --- | --- |"
+          ],
+          "title": "Week 12 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The standings support the division positions and records. The Week 11 schedule and recap evidence show Chicago\u2019s 21-13 win over New Orleans and five-game streak, while the Detroit recap gives its 31-21 win over Tampa Bay and six-game streak. The Week 12 schedule states the date, kickoff time, and network.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/det/detroit-lions",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- |\n|[Detroit](https://www.espn.com/nfl/team/_/name/det/detroit-lions) |8 |2 |0 |.800 |288 |220 |\n|[Chicago](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) |8 |2 |0 |.800 |262 |197 |\n|[Minnesota](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings) |7 |3 |0 |.700 |186 |161 |\n|[Green Bay](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers) |6 |4 |0 |.600 |226 |221 |"
+          ],
+          "title": "Detroit Lions Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "[Watch Replay](https://www.nfl.com/games/ravens-at-panthers-2026-reg-11)\n* [Saints 13, Bears 21, FINAL, Sunday, November 22nd](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n  \n  Final\n  \n  New Orleans Saints Team Logo SAINTS 3-7\n  \n  Hidden Score\n  \n  Chicago Bears Team Logo BEARS 8-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n* [Titans 30, Cowboys 51, FINAL, Sunday, November 22nd](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11)\n  \n  Final\n  \n  Tennessee Titans Team Logo TITANS 1-9\n  \n  Hidden Score"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "_Dan Parr's takeaways:_\n\n1. **Bears defense answers the call.** It wasn\u2019t the blowout victory some were expecting, but Chicago won its fifth straight game, marching out to a 16-0 lead and"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873072/buccaneers-lions",
+          "excerpts": [
+            "## Jameson Williams flips into end zone to celebrate 57-yard TD catch\n\n[## Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win \u2014 The Detroit Lions are finding their groove, leaning on a balanced attack offensively and a steadily improving defense that hasn't been hurt by the losses of Nov 22, 2026, 10:33 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873072)"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |\n| --- | --- | --- | --- | --- |\n|**Denver Broncos** |at |**Pittsburgh Steelers** |3:00 p.m. ET |Prime |\n\n|SUNDAY, NOVEMBER 29 | | | | |\n| --- | --- | --- | --- | --- |"
+          ],
+          "title": "Week 12 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL game-center team leaders list the passing and rushing totals for the four named players; the player-name references in the element citations identify the full names.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/lions-at-bears-2026-reg-17?tab=preview",
+          "excerpts": [
+            "Chicago Bears, TOTAL TURNOVER DIFFERENTIAL, -4, ranked 25th.\n\n\\-4\n\n25TH\n\n## TEAM LEADERS\n\nPASSING\n\n[J. Goff 2716 YDS 67\\.8%CMP 20TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nPASSING\n\n[C. Williams 1727 YDS 68\\.4%CMP 10TD 6INT](https://www.nfl.com/players/caleb-williams/stats)\n\nRUSHING\n\n[J. Gibbs 1098 YDS 222ATT 13TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRUSHING\n\n[D. Swift 627 YDS 168ATT 10TD 3\\.7AVG](https://www.nfl.com/players/dandre-swift/stats)\n\nRECEIVING\n\n[A. St. Brown 792 YDS 70REC 8TD 11\\.3AVG](https://www.nfl.com/players/amon-ra-st-brown/stats)\n\nRECEIVING\n\n[L. Burden 654 YDS 51REC 4TD 12\\.8AVG](https://www.nfl.com/players/luther-burden-iii/stats)"
+          ],
+          "title": "Detroit Lions at Chicago Bears 2026 REG 17 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The game-center listing identifies the Detroit Lions as 8-2, or eight wins and two losses, before the scheduled matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/bears-at-lions-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nChicago Bears\n\nDetroit Lions\n\nChicago Bears, POINTS PER GAME, 26.2, ranked 8th.\n\n26\\.2\n\n8TH\n\nPOINTS PER GAME\n\nDetroit Lions, POINTS PER GAME, 28.8, ranked 5th.\n\n28\\.8\n\n5TH\n\nChicago Bears, YARDS PER GAME, 376, ranked 8th.\n\n376\n\n8TH\n\nYARDS PER GAME\n\nDetroit Lions, YARDS PER GAME, 391.8, ranked 3rd.\n\n391\\.8\n\n3RD\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:06, ranked 1st.\n\n34:06\n\n1ST\n\nTIME OF POSSESSION PER GAME"
+          ],
+          "title": "Chicago Bears at Detroit Lions 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing names Detroit Lions as the home team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/bears-at-lions-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nChicago Bears\n\nCHI\n\nChicago Bears\n\nBEARS\n\nChicago Bears\n\nCHICAGO\n\nBEARS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nDetroit Lions\n\nDET\n\nDetroit Lions\n\nLIONS\n\nDetroit Lions\n\nDETROIT\n\nLIONS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nChicago Bears\n\nDetroit Lions\n\nChicago Bears, POINTS PER GAME, 26.2, ranked 8th.\n\n26\\.2\n\n8TH\n\nPOINTS PER GAME\n\nDetroit Lions, POINTS PER GAME, 28.8, ranked 5th.\n\n28\\.8\n\n5TH\n\nChicago Bears, YARDS PER GAME, 376, ranked 8th.\n\n376\n\n8TH\n\nYARDS PER GAME\n\nDetroit Lions, YARDS PER GAME, 391.8, ranked 3rd.\n\n391\\.8\n\n3RD\n\nChicago Bears, TIME OF POSSESSION PER GAME, 34:06, ranked 1st.\n\n34:06\n\n1ST\n\nTIME OF POSSESSION PER GAME"
+          ],
+          "title": "Chicago Bears at Detroit Lions 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists the game for November 26, 2026. The requested current date is November 24, 2026, so the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |\n| --- | --- | --- | --- | --- |\n|**Denver Broncos** |at |**Pittsburgh Steelers** |3:00 p.m. ET |Prime |\n\n|SUNDAY, NOVEMBER 29 | | | | |\n| --- | --- | --- | --- | --- |"
+          ],
+          "title": "Week 12 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The standings list Detroit first and Chicago second in the NFC North, with each at 8-2.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/det/detroit-lions",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- |\n|[Detroit](https://www.espn.com/nfl/team/_/name/det/detroit-lions) |8 |2 |0 |.800 |288 |220 |\n|[Chicago](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) |8 |2 |0 |.800 |262 |197 |\n|[Minnesota](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings) |7 |3 |0 |.700 |186 |161 |\n|[Green Bay](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers) |6 |4 |0 |.600 |226 |221 |"
+          ],
+          "title": "Detroit Lions Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 schedule records the Saints-Bears final as 13-21, and the NFL recap says Chicago won its fifth straight game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "[Watch Replay](https://www.nfl.com/games/ravens-at-panthers-2026-reg-11)\n* [Saints 13, Bears 21, FINAL, Sunday, November 22nd](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n  \n  Final\n  \n  New Orleans Saints Team Logo SAINTS 3-7\n  \n  Hidden Score\n  \n  Chicago Bears Team Logo BEARS 8-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/saints-at-bears-2026-reg-11)\n* [Titans 30, Cowboys 51, FINAL, Sunday, November 22nd](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11)\n  \n  Final\n  \n  Tennessee Titans Team Logo TITANS 1-9\n  \n  Hidden Score"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "_Dan Parr's takeaways:_\n\n1. **Bears defense answers the call.** It wasn\u2019t the blowout victory some were expecting, but Chicago won its fifth straight game, marching out to a 16-0 lead and"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap states Detroit beat Tampa Bay 31-21 and describes it as the Lions\u2019 sixth straight win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873072/buccaneers-lions",
+          "excerpts": [
+            "## Jameson Williams flips into end zone to celebrate 57-yard TD catch\n\n[## Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win \u2014 The Detroit Lions are finding their groove, leaning on a balanced attack offensively and a steadily improving defense that hasn't been hurt by the losses of Nov 22, 2026, 10:33 pm - AP](https://www.espn.com/nfl/recap/_/gameId/401873072)"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL schedule lists Chicago at Detroit on Thursday, November 26, at 1:00 p.m. ET on CBS.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |\n| --- | --- | --- | --- | --- |\n|**Denver Broncos** |at |**Pittsburgh Steelers** |3:00 p.m. ET |Prime |\n\n|SUNDAY, NOVEMBER 29 | | | | |\n| --- | --- | --- | --- | --- |"
+          ],
+          "title": "Week 12 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The game-center leader line gives Caleb Williams 1,727 passing yards, 10 touchdowns, and 6 interceptions; the player page confirms his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/lions-at-bears-2026-reg-17?tab=preview",
+          "excerpts": [
+            "Chicago Bears, TOTAL TURNOVER DIFFERENTIAL, -4, ranked 25th.\n\n\\-4\n\n25TH\n\n## TEAM LEADERS\n\nPASSING\n\n[J. Goff 2716 YDS 67\\.8%CMP 20TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nPASSING\n\n[C. Williams 1727 YDS 68\\.4%CMP 10TD 6INT](https://www.nfl.com/players/caleb-williams/stats)\n\nRUSHING\n\n[J. Gibbs 1098 YDS 222ATT 13TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRUSHING\n\n[D. Swift 627 YDS 168ATT 10TD 3\\.7AVG](https://www.nfl.com/players/dandre-swift/stats)\n\nRECEIVING\n\n[A. St. Brown 792 YDS 70REC 8TD 11\\.3AVG](https://www.nfl.com/players/amon-ra-st-brown/stats)\n\nRECEIVING\n\n[L. Burden 654 YDS 51REC 4TD 12\\.8AVG](https://www.nfl.com/players/luther-burden-iii/stats)"
+          ],
+          "title": "Detroit Lions at Chicago Bears 2026 REG 17 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/caleb-williams/stats",
+          "excerpts": [
+            "# Caleb Williams Stats Summary | NFL.com\n\n# Caleb Williams\n\nQB \u2022 \\#18\n\n[Chicago Bears](https://www.nfl.com/teams/chicago-bears/)\n\n### active\n\n* [Info](https://www.nfl.com/players/caleb-williams/)"
+          ],
+          "title": "Caleb Williams Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The game-center leader line gives D'Andre Swift 627 rushing yards and 10 touchdowns; the player statistics identify him by his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/lions-at-bears-2026-reg-17?tab=preview",
+          "excerpts": [
+            "Chicago Bears, TOTAL TURNOVER DIFFERENTIAL, -4, ranked 25th.\n\n\\-4\n\n25TH\n\n## TEAM LEADERS\n\nPASSING\n\n[J. Goff 2716 YDS 67\\.8%CMP 20TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nPASSING\n\n[C. Williams 1727 YDS 68\\.4%CMP 10TD 6INT](https://www.nfl.com/players/caleb-williams/stats)\n\nRUSHING\n\n[J. Gibbs 1098 YDS 222ATT 13TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRUSHING\n\n[D. Swift 627 YDS 168ATT 10TD 3\\.7AVG](https://www.nfl.com/players/dandre-swift/stats)\n\nRECEIVING\n\n[A. St. Brown 792 YDS 70REC 8TD 11\\.3AVG](https://www.nfl.com/players/amon-ra-st-brown/stats)\n\nRECEIVING\n\n[L. Burden 654 YDS 51REC 4TD 12\\.8AVG](https://www.nfl.com/players/luther-burden-iii/stats)"
+          ],
+          "title": "Detroit Lions at Chicago Bears 2026 REG 17 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/chi/chicago-bears",
+          "excerpts": [
+            "QB #18 1,727 TD 10 QBR 67\\.2](https://www.espn.com/nfl/player/_/id/4431611/caleb-williams)\n\n[## Rushing Yards D'Andre Swift ### D'Andre Swift RB #4 627 CAR 168 TD 10](https://www.espn.com/nfl/player/_/id/4259545/dandre-swift)"
+          ],
+          "title": "Chicago Bears Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The game-center leader line gives Jared Goff 2,716 passing yards, 20 touchdowns, and 4 interceptions; the player-stat listing confirms his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/lions-at-bears-2026-reg-17?tab=preview",
+          "excerpts": [
+            "Chicago Bears, TOTAL TURNOVER DIFFERENTIAL, -4, ranked 25th.\n\n\\-4\n\n25TH\n\n## TEAM LEADERS\n\nPASSING\n\n[J. Goff 2716 YDS 67\\.8%CMP 20TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nPASSING\n\n[C. Williams 1727 YDS 68\\.4%CMP 10TD 6INT](https://www.nfl.com/players/caleb-williams/stats)\n\nRUSHING\n\n[J. Gibbs 1098 YDS 222ATT 13TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRUSHING\n\n[D. Swift 627 YDS 168ATT 10TD 3\\.7AVG](https://www.nfl.com/players/dandre-swift/stats)\n\nRECEIVING\n\n[A. St. Brown 792 YDS 70REC 8TD 11\\.3AVG](https://www.nfl.com/players/amon-ra-st-brown/stats)\n\nRECEIVING\n\n[L. Burden 654 YDS 51REC 4TD 12\\.8AVG](https://www.nfl.com/players/luther-burden-iii/stats)"
+          ],
+          "title": "Detroit Lions at Chicago Bears 2026 REG 17 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/stats/_/name/det/detroit-lions",
+          "excerpts": [
+            "[## Passing Yards Jared Goff ### Jared Goff QB 2,134](https://www.espn.com/nfl/player/_/id/3046779/jared-goff) [## Rushing Yards Jahmyr Gibbs ### Jahmyr Gibbs RB"
+          ],
+          "title": "Detroit Lions 2026 NFL Regular Season Players Stats - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The game-center leader line gives Jahmyr Gibbs 1,098 rushing yards and 13 touchdowns; the Lions page names Jahmyr Gibbs.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/lions-at-bears-2026-reg-17?tab=preview",
+          "excerpts": [
+            "Chicago Bears, TOTAL TURNOVER DIFFERENTIAL, -4, ranked 25th.\n\n\\-4\n\n25TH\n\n## TEAM LEADERS\n\nPASSING\n\n[J. Goff 2716 YDS 67\\.8%CMP 20TD 4INT](https://www.nfl.com/players/jared-goff/stats)\n\nPASSING\n\n[C. Williams 1727 YDS 68\\.4%CMP 10TD 6INT](https://www.nfl.com/players/caleb-williams/stats)\n\nRUSHING\n\n[J. Gibbs 1098 YDS 222ATT 13TD 5AVG](https://www.nfl.com/players/jahmyr-gibbs/stats)\n\nRUSHING\n\n[D. Swift 627 YDS 168ATT 10TD 3\\.7AVG](https://www.nfl.com/players/dandre-swift/stats)\n\nRECEIVING\n\n[A. St. Brown 792 YDS 70REC 8TD 11\\.3AVG](https://www.nfl.com/players/amon-ra-st-brown/stats)\n\nRECEIVING\n\n[L. Burden 654 YDS 51REC 4TD 12\\.8AVG](https://www.nfl.com/players/luther-burden-iii/stats)"
+          ],
+          "title": "Detroit Lions at Chicago Bears 2026 REG 17 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/teams/detroit-lions",
+          "excerpts": [
+            "Buccaneers | Week 11\")\n\n[video ### Jahmyr Gibbs strolls to the pylon to score his 15th TD of 2026 season Nov 22,"
+          ],
+          "title": "Detroit Lions News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "First place in the NFC North is at stake! The Chicago Bears and Detroit Lions are both 8-2. They play Thursday in Detroit. Bears QB Caleb Williams has 1,727 passing yards and 10 TDs this season. Lions QB Jared Goff has 2,716 passing yards and 20 TDs. Watch for the fierce matchup between these QBs.",
+    "big_words": [
+      {
+        "word": "fierce",
+        "definition": "Full of strong energy.",
+        "example": "Kofi stirred the cookie dough with fierce energy."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1098,
+        "output": 157
+      }
+    ]
+  }
+}

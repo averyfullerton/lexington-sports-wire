@@ -1,0 +1,168 @@
+{
+  "run_id": "trun_415f3f698c1f435bb055c30c2740a8ef",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 70.1,
+  "input": {
+    "player": "George Kittle",
+    "team": "San Francisco 49ers",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Iowa",
+    "fun_facts": [
+      "George Kittle\u2019s hometown is Norman, Oklahoma, where he attended Norman High School.",
+      "In four seasons at Iowa, George Kittle played 49 games and recorded 48 catches, 737 receiving yards, and 10 touchdowns.",
+      "At the 2017 NFL Combine, George Kittle ranked third among tight ends in both the 40-yard dash (4.52 seconds) and broad jump (11 feet).",
+      "George Kittle set the NFL single-season receiving-yards record for a tight end in 2018 with 1,377 yards.",
+      "George Kittle\u2019s first-down celebration and mantra were inspired by Mexican wrestler Pentagon."
+    ],
+    "draft": "2017, round 5, pick 146"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The 49ers media guide says George Kittle played four seasons at Iowa, directly identifying his college.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/49ers/fyp2og6ev5crsnsqnrty.pdf",
+          "excerpts": [
+            "\u2022 As part of the 49ers annual Thanksgiving celebrations, Kittle and his teammates visited Cityteam San Jose to serve a holiday feast to over 300 people in need."
+          ],
+          "title": "85"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited sources support the facts in order: Norman, Oklahoma, as his hometown and high school; his Iowa career totals; his two top-three Combine results; his 2018 tight-end receiving-yard record; and the Pentagon inspiration for his celebration and mantra.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/118354/george-kittle",
+          "excerpts": [
+            "# George Kittle\n\n* \n\n6-4, 205 | 40: 4.86 | Class of 2012\n\n* Hometown [Norman, Okla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/42/hometown/7302/class/2012)\n* School Norman High School\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2012)\n* Status Signed [Weber State](https://www.espn.com/college-sports/football/recruiting/school/_/id/2692) 02/01/2012\n\n#### Scout Grade\n\n* 69\n*\n\n|248 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2012/view/position) |"
+          ],
+          "title": "Football Recruiting - George Kittle - Player Profiles - ESPN"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/49ers/fyp2og6ev5crsnsqnrty.pdf",
+          "excerpts": [
+            "\u2022 As part of the 49ers annual Thanksgiving celebrations, Kittle and his teammates visited Cityteam San Jose to serve a holiday feast to over 300 people in need.",
+            "\u2022 Showed off his athleticism at the 2017 NFL Combine, ranking third among all tight ends in the 40-yard dash (4.52 seconds) and broad jump (11\u20190\u201d).\n\n# GEORGE KITTLE\n\n## **6-4** || **250** || **IOWA**"
+          ],
+          "title": "85"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1567634508/49ers/ns7psufou9yn4utwnmp9.pdf",
+          "excerpts": [
+            "### **CAREER HIGHLIGHTS**\n\n\u2022 Set an NFL record for most rec. yds. (1,377) in a season by a TE in 2018. \u2022 Since entering the league in 2017, Kittle ranks 3rd in the NFL in rec. yds."
+          ],
+          "title": "85"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/29561191/free-beer-wrestling-super-bowl-memories-george-kittle-garage",
+          "excerpts": [
+            "But one wrestler is missing, the one who inspired Kittle's mantra and his first-down celebration: Mexican superstar luchador, Pentagon."
+          ],
+          "title": "Free beer, wrestling and Super Bowl memories: Inside George Kittle's garage - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL Draft tracker\u2019s fifth-round listing identifies George Kittle as San Francisco\u2019s pick at overall selection 146; the round heading identifies it as round 5.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2017/rounds/5",
+          "excerpts": [
+            "* [ROUND 7](https://www.nfl.com/draft/tracker/2017/rounds/7)\n\nPICK\n\nTEAM\n\nPICK 1\n\n(145)\n\nTEAMBroncos\n\nPLAYER JAKE BUTT\n\nTE MICHIGAN\n\nCLE DEN\n\nPICK 2\n\n(146)\n\nTEAM49ers\n\nPLAYER GEORGE KITTLE\n\nTE IOWA\n\nPICK 3\n\n(147)\n\nTEAMBears\n\nPLAYER JORDAN MORGAN\n\nG KUTZTOWN\n\nPICK 4\n\n(148)\n\nTEAMJaguars\n\nPLAYER BLAIR BROWN\n\nLB OHIO\n\nPICK 5\n\n(149)\n\nTEAMFalcons\n\nPLAYER DAMONTAE KAZEE\n\nCB SAN DIEGO STATE\n\nLAR BUF ATL\n\nPICK 6\n\n(150)\n\nTEAMJets\n\nPLAYER JORDAN LEGGETT\n\nTE CLEMSON\n\nPICK 7\n\n(151)\n\nTEAMChargers\n\nPLAYER DESMOND KING\n\nS IOWA\n\nPICK 8\n\n(152)\n\nTEAMPanthers\n\nPLAYER CORN ELDER\n\nCB MIAMI\n\nPICK 9\n\n(153)\n\nTEAMBengals"
+          ],
+          "title": "2017 NFL Draft Picks - Round 5 | NFL.com "
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN\u2019s recruiting profile lists Norman, Oklahoma, as George Kittle\u2019s hometown and names Norman High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/combine/_/id/118354/george-kittle",
+          "excerpts": [
+            "# George Kittle\n\n* \n\n6-4, 205 | 40: 4.86 | Class of 2012\n\n* Hometown [Norman, Okla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/42/hometown/7302/class/2012)\n* School Norman High School\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2012)\n* Status Signed [Weber State](https://www.espn.com/college-sports/football/recruiting/school/_/id/2692) 02/01/2012\n\n#### Scout Grade\n\n* 69\n*\n\n|248 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2012/view/position) |"
+          ],
+          "title": "Football Recruiting - George Kittle - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The 49ers media guide gives his Iowa totals: 49 games, 48 receptions, 737 yards, and 10 touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/49ers/fyp2og6ev5crsnsqnrty.pdf",
+          "excerpts": [
+            "\u2022 As part of the 49ers annual Thanksgiving celebrations, Kittle and his teammates visited Cityteam San Jose to serve a holiday feast to over 300 people in need."
+          ],
+          "title": "85"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The 49ers guide states he ranked third among tight ends in both the 40-yard dash and broad jump at the 2017 Combine, and gives both results.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/49ers/fyp2og6ev5crsnsqnrty.pdf",
+          "excerpts": [
+            "\u2022 Showed off his athleticism at the 2017 NFL Combine, ranking third among all tight ends in the 40-yard dash (4.52 seconds) and broad jump (11\u20190\u201d).\n\n# GEORGE KITTLE\n\n## **6-4** || **250** || **IOWA**"
+          ],
+          "title": "85"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The 49ers guide reports that Kittle set the tight-end single-season receiving-yard record in 2018 with 1,377 yards.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1567634508/49ers/ns7psufou9yn4utwnmp9.pdf",
+          "excerpts": [
+            "### **CAREER HIGHLIGHTS**\n\n\u2022 Set an NFL record for most rec. yds. (1,377) in a season by a TE in 2018. \u2022 Since entering the league in 2017, Kittle ranks 3rd in the NFL in rec. yds."
+          ],
+          "title": "85"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN feature identifies Mexican wrestler Pentagon as the inspiration for Kittle\u2019s mantra and first-down celebration.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/29561191/free-beer-wrestling-super-bowl-memories-george-kittle-garage",
+          "excerpts": [
+            "But one wrestler is missing, the one who inspired Kittle's mantra and his first-down celebration: Mexican superstar luchador, Pentagon."
+          ],
+          "title": "Free beer, wrestling and Super Bowl memories: Inside George Kittle's garage - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

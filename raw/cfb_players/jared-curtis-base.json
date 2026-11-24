@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_1d63cf7e4268416e83e62e7ca49a52c5",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 61.1,
+  "input": {
+    "player": "Jared Curtis",
+    "team": "Vanderbilt Commodores",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Jared Curtis is from Nashville, Tennessee, and now plays for Vanderbilt, his hometown team.",
+      "As a junior at Nashville Christian, he threw for 2,830 yards and 40 touchdowns with just three interceptions, helping his team win Tennessee\u2019s Division II-A state championship.",
+      "He also ran for 1,661 yards and 38 touchdowns during his high-school career.",
+      "In his final high-school game, he helped Nashville Christian win a second straight Division II-A title, throwing for 205 yards and five touchdowns and adding a rushing score.",
+      "Against Delaware in college, he threw for 210 yards and his first college passing touchdown, then ran for two more scores."
+    ],
+    "high_school": "Nashville Christian School",
+    "hometown": "Nashville, Tennessee"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages identify Curtis as being from Nashville and describe Vanderbilt as his hometown team. They also report his junior-season passing stats and state title, his high-school rushing totals, his final high-school-game performance, and his 210-yard, three-touchdown game against Delaware.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "A 6-foot-4, 225-pound junior from Nashville, Tennessee, Curtis previously stood as the cycle's third-ranked uncommitted prospect.",
+            "As a junior last fall, he threw for another 2,830 yards with 40 touchdowns to only three interceptions while leading Nashville Christian to the Tennessee Division II-A state championship.",
+            "On the ground, Curtis recorded 1,661 yards and 38 rushing scores across his high school career."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49950785/vanderbilt-freshman-qb-jared-curtis-debut-vs-nc-state",
+          "excerpts": [
+            "Curtis, once a longtime Georgia commit, flipped his pledge to the hometown Commodores on the eve of the early signing period last December.",
+            "Curtis finished the Week 2 win with 14 completions on 22 attempts for 210 yards and his first career passing touchdown, adding a pair of rushing scores on either side of halftime."
+          ],
+          "title": "Vanderbilt freshman QB Jared Curtis to start vs. NC State - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48627664/diego-pavia-helped-vanderbilt-land-five-star-quarterback-jared-curtis",
+          "excerpts": [
+            "In his final high school game on Dec. 4, Curtis led Nashville Christian to a second straight Division II-A state title with a 59-7 victory against University School of Jackson. He threw for 205 yards with five touchdowns and ran for another score."
+          ],
+          "title": "Diego Pavia helped Vanderbilt land five-star quarterback Jared Curtis - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The cited passage directly says Curtis played varsity football at Nashville (Tennessee) Christian School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "A polished pocket passer with 7,637 passing yards and 130 total touchdowns in three varsity seasons at Nashville (Tennessee) Christian School, Curtis rejoins the Bulldogs as the top-ranked member of the program's 2026 class."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The cited passage describes Curtis as a junior from Nashville, Tennessee, directly supporting the hometown answer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "A 6-foot-4, 225-pound junior from Nashville, Tennessee, Curtis previously stood as the cycle's third-ranked uncommitted prospect."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "One passage identifies Nashville as Curtis\u2019s hometown; the other describes Vanderbilt as the hometown Commodores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "A 6-foot-4, 225-pound junior from Nashville, Tennessee, Curtis previously stood as the cycle's third-ranked uncommitted prospect."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49950785/vanderbilt-freshman-qb-jared-curtis-debut-vs-nc-state",
+          "excerpts": [
+            "Curtis, once a longtime Georgia commit, flipped his pledge to the hometown Commodores on the eve of the early signing period last December."
+          ],
+          "title": "Vanderbilt freshman QB Jared Curtis to start vs. NC State - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage gives his junior-season passing totals and says he led Nashville Christian to the Tennessee Division II-A state championship.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "As a junior last fall, he threw for another 2,830 yards with 40 touchdowns to only three interceptions while leading Nashville Christian to the Tennessee Division II-A state championship."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage reports 1,661 rushing yards and 38 rushing scores across his high-school career.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45012261/jared-curtis-top-2026-quarterback-commits-georgia",
+          "excerpts": [
+            "On the ground, Curtis recorded 1,661 yards and 38 rushing scores across his high school career."
+          ],
+          "title": "Jared Curtis, top 2026 quarterback, commits to Georgia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The cited passage describes his final high-school game, the team\u2019s second straight Division II-A title, and his five passing touchdowns plus a rushing score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48627664/diego-pavia-helped-vanderbilt-land-five-star-quarterback-jared-curtis",
+          "excerpts": [
+            "In his final high school game on Dec. 4, Curtis led Nashville Christian to a second straight Division II-A state title with a 59-7 victory against University School of Jackson. He threw for 205 yards with five touchdowns and ran for another score."
+          ],
+          "title": "Diego Pavia helped Vanderbilt land five-star quarterback Jared Curtis - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Curtis threw for 210 yards and his first college passing touchdown against Delaware, while adding two rushing scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49950785/vanderbilt-freshman-qb-jared-curtis-debut-vs-nc-state",
+          "excerpts": [
+            "Curtis finished the Week 2 win with 14 completions on 22 attempts for 210 yards and his first career passing touchdown, adding a pair of rushing scores on either side of halftime."
+          ],
+          "title": "Vanderbilt freshman QB Jared Curtis to start vs. NC State - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

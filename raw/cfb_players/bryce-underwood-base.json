@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_1d63cf7e4268416e84ba276bd10448c1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 65.7,
+  "input": {
+    "player": "Bryce Underwood",
+    "team": "Michigan Wolverines",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "At Belleville High School, Bryce Underwood threw for 3,165 yards and 40 touchdowns as a junior, with just two interceptions.",
+      "Bryce Underwood's high school team went 50\u20134, won two state championships, and put together a 38-game winning streak.",
+      "Bryce Underwood once kept throwing passes at Michigan's indoor practice field until 2 a.m.; coach Sherrone Moore sent him out to get some sleep.",
+      "Bryce Underwood became just the fourth true freshman in Michigan history to start at quarterback.",
+      "In 2026, Bryce Underwood threw the game-winning two-point conversion in a triple-overtime win over UCLA."
+    ],
+    "high_school": "Belleville High School",
+    "hometown": "Belleville, Michigan"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages support the high-school statistics and record, the late-night throwing anecdote, Underwood's freshman-start milestone at Michigan, and his game-winning conversion against UCLA in 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39254868/lsu-lands-no-1-recruit-2025-class-qb-bryce-underwood",
+          "excerpts": [
+            "As a junior at Belleville High School, Underwood threw for 3,165 yards and had 40 touchdowns with just two interceptions."
+          ],
+          "title": "LSU lands No. 1 recruit in 2025 class, QB Bryce Underwood - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/46140788/college-football-michigan-bryce-underwood-freshman-qb",
+          "excerpts": [
+            "At Belleville, Underwood went 50-4 with two state championships, while winning 38 straight games.",
+            "This spring, Moore got word that Underwood was still throwing passes at 2 a.m. on the indoor practice field. He had to toss him out. \"You gotta sleep,\" Moore told him."
+          ],
+          "title": "Michigan has already rallied behind freshman Bryce Underwood - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48231503/michigan-kyle-whittingham-looks-develop-bryce-underwood",
+          "excerpts": [
+            "At 6-foot-4, 228 pounds, Underwood became just the fourth true freshman in school history to start at quarterback for the Wolverines, joining Rick Leach (1975), Chad Henne (2004) and Tate Forcier (2009)."
+          ],
+          "title": "Michigan's Kyle Whittingham looks to develop Bryce Underwood - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556702/bryce-underwood-michigan-outlast-ucla-triple-over",
+          "excerpts": [
+            "-- [Bryce Underwood](https://www.espn.com/college-football/player/_/id/5141741/bryce-underwood) threw a 3-yard 2-point conversion pass to [Jalen Hoffman](https://www.espn.com/college-football/player/_/id/5156349/jalen-hoffman) , lifting Michigan to an [18-16 triple-overtime win](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) over previously unbeaten No.",
+            "4 in the College Football Playoff rankings.\n\nMichigan made a defensive stop against UCLA backup quarterback [Madden Iamaleava](https://www.espn.com/college-football/player/_/id/5142594/madden-iamaleava) to start the third overtime, which has teams trading single 2-point conversion plays from the 3-yard line, and Underwood rolled right and threw a dart to Hoffman in the corner of the end zone."
+          ],
+          "title": "Bryce Underwood, Michigan outlast UCLA in triple overtime - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile identifies Belleville High School as Bryce Underwood's school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/253546/bryce-underwood",
+          "excerpts": [
+            "School [Belleville High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/894)"
+          ],
+          "title": "Bryce Underwood Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The recruiting profile lists Belleville, Michigan, as Bryce Underwood's hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/253546/bryce-underwood",
+          "excerpts": [
+            "Hometown [Belleville, Mich.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/28/hometown/9080/class/2025)"
+          ],
+          "title": "Bryce Underwood Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage states that as a junior at Belleville, Underwood threw for 3,165 yards and 40 touchdowns with two interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39254868/lsu-lands-no-1-recruit-2025-class-qb-bryce-underwood",
+          "excerpts": [
+            "As a junior at Belleville High School, Underwood threw for 3,165 yards and had 40 touchdowns with just two interceptions."
+          ],
+          "title": "LSU lands No. 1 recruit in 2025 class, QB Bryce Underwood - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage gives Underwood's 50\u20134 high-school record, two state championships, and 38-game winning streak.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/46140788/college-football-michigan-bryce-underwood-freshman-qb",
+          "excerpts": [
+            "At Belleville, Underwood went 50-4 with two state championships, while winning 38 straight games."
+          ],
+          "title": "Michigan has already rallied behind freshman Bryce Underwood - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says Underwood was still throwing at 2 a.m. on Michigan's indoor practice field and that Moore sent him out, telling him to sleep.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/46140788/college-football-michigan-bryce-underwood-freshman-qb",
+          "excerpts": [
+            "This spring, Moore got word that Underwood was still throwing passes at 2 a.m. on the indoor practice field. He had to toss him out. \"You gotta sleep,\" Moore told him."
+          ],
+          "title": "Michigan has already rallied behind freshman Bryce Underwood - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage directly says Underwood was the fourth true freshman in Michigan history to start at quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48231503/michigan-kyle-whittingham-looks-develop-bryce-underwood",
+          "excerpts": [
+            "At 6-foot-4, 228 pounds, Underwood became just the fourth true freshman in school history to start at quarterback for the Wolverines, joining Rick Leach (1975), Chad Henne (2004) and Tate Forcier (2009)."
+          ],
+          "title": "Michigan's Kyle Whittingham looks to develop Bryce Underwood - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage describes Underwood's 3-yard two-point conversion pass that lifted Michigan to a triple-overtime win over UCLA.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556702/bryce-underwood-michigan-outlast-ucla-triple-over",
+          "excerpts": [
+            "-- [Bryce Underwood](https://www.espn.com/college-football/player/_/id/5141741/bryce-underwood) threw a 3-yard 2-point conversion pass to [Jalen Hoffman](https://www.espn.com/college-football/player/_/id/5156349/jalen-hoffman) , lifting Michigan to an [18-16 triple-overtime win](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) over previously unbeaten No.",
+            "4 in the College Football Playoff rankings.\n\nMichigan made a defensive stop against UCLA backup quarterback [Madden Iamaleava](https://www.espn.com/college-football/player/_/id/5142594/madden-iamaleava) to start the third overtime, which has teams trading single 2-point conversion plays from the 3-yard line, and Underwood rolled right and threw a dart to Hoffman in the corner of the end zone."
+          ],
+          "title": "Bryce Underwood, Michigan outlast UCLA in triple overtime - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

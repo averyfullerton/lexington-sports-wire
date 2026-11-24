@@ -1,0 +1,486 @@
+{
+  "run_id": "trun_bd5aff7f279040ea9e728436144be204",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 207.7,
+  "input": {
+    "away_team": "Arkansas Razorbacks",
+    "home_team": "Texas Longhorns",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Arkansas Razorbacks",
+    "key_plays": [
+      "Q1 10:24: Arch Manning 3-yard touchdown run.",
+      "Q1 9:01: Jelani McDonald 31-yard interception-return touchdown.",
+      "Q2 2:20: Arch Manning 21-yard touchdown pass to Emaree Winston.",
+      "Q3 10:13: Michael Terry III 1-yard touchdown run.",
+      "Q4 7:31: Derrek Cooper 8-yard touchdown run."
+    ],
+    "away_score": 3,
+    "storyline": "No. 8 Texas beat Arkansas for its fifth consecutive win, finishing the day 9-2 overall and 6-2 in SEC play.",
+    "top_performers": [
+      {
+        "stat_line": "21 of 25, 287 yards, 2 passing TD, 0 INT; 5 carries, 16 rushing yards, 1 TD",
+        "team": "Texas Longhorns",
+        "name": "Arch Manning"
+      },
+      {
+        "stat_line": "7 carries, 32 yards, 1 TD",
+        "team": "Texas Longhorns",
+        "name": "Michael Terry III"
+      },
+      {
+        "stat_line": "21-yard touchdown reception",
+        "team": "Texas Longhorns",
+        "name": "Emaree Winston"
+      },
+      {
+        "stat_line": "8-yard rushing touchdown",
+        "team": "Texas Longhorns",
+        "name": "Derrek Cooper"
+      },
+      {
+        "stat_line": "31-yard interception-return touchdown",
+        "team": "Texas Longhorns",
+        "name": "Jelani McDonald"
+      }
+    ],
+    "home_record_after": "9-2",
+    "tough_day": [
+      {
+        "stat_line": "15 of 28, 190 yards, 0 TD, 1 INT",
+        "team": "Arkansas Razorbacks",
+        "name": "KJ Jackson"
+      }
+    ],
+    "away_record_after": "4-7",
+    "home_team": "Texas Longhorns",
+    "home_score": 45
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The game summary identifies Texas 45-3 Arkansas and labels it a final score, establishing that the game was completed.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game?gameId=401856755",
+          "excerpts": [
+            "## \n\nTexas 45-3 Arkansas (Nov 21, 2026) Final Score - ESPN\nGame summary of the Texas Longhorns vs. Arkansas Razorbacks NCAAF game, final score 45-3, from November 21, 2026 on ESPN.\n\n## \n\nArkansas vs. Texas (Nov 21, 2026) Live Score - ESPN\nLive coverage of the Arkansas Razorbacks vs. Texas Longhorns NCAAF game on ESPN, including live score, highlights and updated stats."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup line names Arkansas Razorbacks as the away team at Texas Longhorns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas",
+          "excerpts": [
+            "Arkansas Razorbacks @ Texas Longhorns"
+          ],
+          "title": "Arkansas vs. Texas (Nov 21, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The play-by-play records the first-quarter Manning run and McDonald interception return, the second-quarter Manning-to-Winston touchdown, and the later Terry and Cooper touchdown runs, with their quarters and game-clock times.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "2nd & 11 at ARK 15 Incompletion 10:30 - 1st No Huddle-Shotgun #16 A.Manning pass incomplete short right thrown to ARK00 QB hurried by #6 K.House 1st & Goal at ARK 3 3-yd Touchdown Run 10:24 - 1st No Huddle-Shotgun #16 A.Manning rush left for 3 yards gain to the ARK00 TOUCHDOWN, clock 10:24 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 2nd & Goal at ARK 3 Interception 3 plays, 4 yards, 1:17 0 ARK 14 TEX Kickoff 10:18 - 1st",
+            "Shotgun #5 S.Smith rush right for 0 yards to the ARK25 ( C.Vasek) 2nd & 6 at ARK 25 Interception Return Touchdown 9:01 - 1st Shotgun #7 K.Jackson pass intercepted by #4 J.McDonald at ARK31 #4 J.McDonald return 31 yards to the ARK00 TOUCHDOWN, clock 09:01 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 3rd & 6 at ARK 25 Field Goal 11 plays, 63 yards, 5:29 3 ARK 14 TEX Kickoff 9:01 - 1st #44 G.Spetic kickoff 65 yards to the ARK00, Touchback Incompletion 8:55 - 1st Shotgun #7 K.Jackson pass incomplete short left to #6 C.Marshall thrown to ARK35 1st & 10 at ARK 25 12-yd Run 8:46 - 1st Shotgun #7 K.Jackson rush middle for 12 yards gain to the ARK37 ( R.Biles; #19 Z.Umeozulu), 1ST DOWN",
+            "CALL UPHELD 2nd & 8 at 50 21-yd Touchdown Pass 2:20 - 2nd No Huddle-Shotgun #16 A.Manning pass complete deep middle to #85 E.Winston caught at ARK00, for 21 yards to the ARK00 TOUCHDOWN, clock 02:20, 1ST DOWN #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & 10 at ARK 21 Missed FG 7 plays, 49 yards, 1:31 3 ARK 24 TEX Kickoff",
+            "10:42 - 3rd No Huddle-Shotgun #16 A.Manning pass complete short left to #0 R.Brown caught at ARK36, for 30 yards to the ARK01 ( C.Harrison), 1ST DOWN 1st & 10 at ARK 31 1-yd Touchdown Run 10:13 - 3rd #11 M.Terry III rush left for 1 yard gain to the ARK00 TOUCHDOWN, clock 10:13 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 1 Downs 13 plays, 37 yards, 5:50 3 ARK 38 TEX Kickoff 10:13 - 3rd #44 G.Spetic kickoff 65 yards to the ARK00, Touchback 2-yd Run",
+            "9:00 - 4th No Huddle-Shotgun #5 D.Cooper rush left for 4 yards gain to the ARK09 ( K.House; #8 P.Jackson) 2nd & 5 at ARK 13 1-yd Run 8:14 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 1 yard gain to the ARK08 ( X.Sims), 1ST DOWN 3rd & 1 at ARK 9 8-yd Touchdown Run 7:31 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 8 yards gain to the ARK00 TOUCHDOWN, clock 07:31 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 8 Interception 12 plays, 51 yards, 4:59 3 ARK 45 TEX Kickoff 7:31 - 4th"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final scoring table shows Arkansas with 3 and Texas with 45.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856755",
+          "excerpts": [
+            "|[Arkansas](https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks) ARK |3 |0 |0 |0 |3 |\n|[Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns) TEX |14 |17 |7 |7 |45 |"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says No. 8 Texas beat Arkansas for its fifth consecutive win; the final record is separately shown as 9-2 overall and 6-2 in SEC play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "## Arkansas Razorbacks @ Texas Longhorns\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas)"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game log gives Manning's passing and rushing production; the game leaders list Terry's rushing line; the play-by-play documents the touchdown contributions by Winston and Cooper and McDonald's interception-return score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4870906/arch-manning",
+          "excerpts": [
+            "razorbacks \"Team - Arkansas Razorbacks\") |[W 45-3](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas) |21 |25 |287 |84\\.0 |2 |0 |41 |1 |206\\.8 |91\\.9 |5 |16 |3\\.2 |1 |13 |\n|Total | | |208 |314 |2,485 |66\\.2 |21 |10 |62 |31 |148\\.2 |66\\.2 |93 |170 |1\\.8 |4 |20 |\n\n### Glossary\n\n* ATT: Passing Attempts\n* AVG: Yards Per Rush Attempt\n* CAR: Rushing Attempts"
+          ],
+          "title": "Arch Manning 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856755/texas-am-texas",
+          "excerpts": [
+            "Terry III RB 7 CAR, 1 TD 32](https://www.espn.com/college-football/player/_/id/5141729/michael-terry-iii)\n\nReceiving Yards\n\n[106 C."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "CALL UPHELD 2nd & 8 at 50 21-yd Touchdown Pass 2:20 - 2nd No Huddle-Shotgun #16 A.Manning pass complete deep middle to #85 E.Winston caught at ARK00, for 21 yards to the ARK00 TOUCHDOWN, clock 02:20, 1ST DOWN #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & 10 at ARK 21 Missed FG 7 plays, 49 yards, 1:31 3 ARK 24 TEX Kickoff",
+            "9:00 - 4th No Huddle-Shotgun #5 D.Cooper rush left for 4 yards gain to the ARK09 ( K.House; #8 P.Jackson) 2nd & 5 at ARK 13 1-yd Run 8:14 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 1 yard gain to the ARK08 ( X.Sims), 1ST DOWN 3rd & 1 at ARK 9 8-yd Touchdown Run 7:31 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 8 yards gain to the ARK00 TOUCHDOWN, clock 07:31 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 8 Interception 12 plays, 51 yards, 4:59 3 ARK 45 TEX Kickoff 7:31 - 4th",
+            "Shotgun #5 S.Smith rush right for 0 yards to the ARK25 ( C.Vasek) 2nd & 6 at ARK 25 Interception Return Touchdown 9:01 - 1st Shotgun #7 K.Jackson pass intercepted by #4 J.McDonald at ARK31 #4 J.McDonald return 31 yards to the ARK00 TOUCHDOWN, clock 09:01 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 3rd & 6 at ARK 25 Field Goal 11 plays, 63 yards, 5:29 3 ARK 14 TEX Kickoff 9:01 - 1st #44 G.Spetic kickoff 65 yards to the ARK00, Touchback Incompletion 8:55 - 1st Shotgun #7 K.Jackson pass incomplete short left to #6 C.Marshall thrown to ARK35 1st & 10 at ARK 25 12-yd Run 8:46 - 1st Shotgun #7 K.Jackson rush middle for 12 yards gain to the ARK37 ( R.Biles; #19 Z.Umeozulu), 1ST DOWN"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The ESPN game summary lists Texas at 9-2 overall and 6-2 in conference after the final.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856755/texas-am-texas",
+          "excerpts": [
+            "|[Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns) TEX |14 |17 |7 |7 |45 |\n\n[](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n5\n\n[Texas Longhorns Texas TEX](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n\n9-2 , 6-2 SEC\n\n45\n\n9-2 , 6-2 SEC\n\n# Arkansas Razorbacks @ Texas Longhorns"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "Jackson's game log for the Texas game lists 15 completions on 28 attempts for 190 yards, no passing touchdowns, and one interception.",
+      "citations": [],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final scoreboard lists Arkansas at 4-7 overall and 2-6 in SEC play after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/scoreboard/_/date/20261121",
+          "excerpts": [
+            "* [](https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks)\n  \n  [Arkansas](https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks)\n  \n  ( 4-7 2-6 SEC )\n  \n  3\n  \n  0\n  \n  0\n  \n  0\n  \n  3\n* [](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n  \n  5\n  \n  [Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns)\n  \n  ( 9-2 6-2 SEC )\n  \n  14\n  \n  17\n  \n  7\n  \n  7\n  \n  45\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n[Gamecast](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas) [Box Score](https://www.espn.com/college-football"
+          ],
+          "title": "College Football Scores - November 21, 2026 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup line identifies Texas Longhorns as the home team following the at sign.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas",
+          "excerpts": [
+            "Arkansas Razorbacks @ Texas Longhorns"
+          ],
+          "title": "Arkansas vs. Texas (Nov 21, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final scoring table shows Texas's total as 45.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856755",
+          "excerpts": [
+            "|[Arkansas](https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks) ARK |3 |0 |0 |0 |3 |\n|[Texas](https://www.espn.com/college-football/team/_/id/251/texas-longhorns) TEX |14 |17 |7 |7 |45 |"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The play-by-play marks the Q1 10:24 three-yard touchdown run; the recap identifies the quarterback as Arch Manning.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "2nd & 11 at ARK 15 Incompletion 10:30 - 1st No Huddle-Shotgun #16 A.Manning pass incomplete short right thrown to ARK00 QB hurried by #6 K.House 1st & Goal at ARK 3 3-yd Touchdown Run 10:24 - 1st No Huddle-Shotgun #16 A.Manning rush left for 3 yards gain to the ARK00 TOUCHDOWN, clock 10:24 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 2nd & Goal at ARK 3 Interception 3 plays, 4 yards, 1:17 0 ARK 14 TEX Kickoff 10:18 - 1st"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "## Arkansas Razorbacks @ Texas Longhorns\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas)"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The play-by-play records the 31-yard interception-return touchdown at 9:01 in Q1, and the highlight identifies the defender as Jelani McDonald.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "Shotgun #5 S.Smith rush right for 0 yards to the ARK25 ( C.Vasek) 2nd & 6 at ARK 25 Interception Return Touchdown 9:01 - 1st Shotgun #7 K.Jackson pass intercepted by #4 J.McDonald at ARK31 #4 J.McDonald return 31 yards to the ARK00 TOUCHDOWN, clock 09:01 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 3rd & 6 at ARK 25 Field Goal 11 plays, 63 yards, 5:29 3 ARK 14 TEX Kickoff 9:01 - 1st #44 G.Spetic kickoff 65 yards to the ARK00, Touchback Incompletion 8:55 - 1st Shotgun #7 K.Jackson pass incomplete short left to #6 C.Marshall thrown to ARK35 1st & 10 at ARK 25 12-yd Run 8:46 - 1st Shotgun #7 K.Jackson rush middle for 12 yards gain to the ARK37 ( R.Biles; #19 Z.Umeozulu), 1ST DOWN"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/watch/player/_/id/11a5ce9e-2dbd-4549-8169-8019608efb66/redirected/Keyence_4",
+          "excerpts": [
+            "[Back](https://www.espn.com/watch/_/redirected/Keyence_4)\n\n[](https://www.espn.com/watch/player/_/id/11a5ce9e-2dbd-4549-8169-8019608efb66/redirected/Keyence_4)\n\nArkansas vs. #5 Texas\n\nLive\n\nKey Plays\n\n1st Quarter\n\nArch Manning rushes in for 3-yard TD\n\nArch Manning rushes in for 3-yard TD\n\nARK 0\n\n7 TEX Picked! Jelani McDonald hauls in the interception\n\nPicked! Jelani McDonald hauls in the interception\n\nARK 0\n\n14 TEX Max Gilbert kicks 30-yard field goal\n\nMax Gilbert kicks 30-yard field goal\n\nARK 3\n\n14 TEX\n\n2nd Quarter\n\nGianni Spetic makes 36-yard field goal\n\nGianni Spetic makes 36-yard field goal\n\nARK 3\n\n17 TEX\n\n# Arkansas vs. #5 Texas\n\nlive\n\nESPN \u2022 NCAA Football\n\n### Live\n\n* [](https://www.espn.com/watch/player/_/id/1274e9be-1e9b-4091-b143-65bd5ec9c4f0/redirected/Keyence_4=6200)\n  \n  Live\n  \n  ## LSU vs. #9 Tennessee\n  \n  ESPN on ABC \u2022 NCAA Football"
+          ],
+          "title": "Arkansas vs. #5 Texas 11/21/26 - Stream the Game Live - Watch ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play gives the Q2 2:20 21-yard touchdown pass, and the highlight names Emaree Winston as the receiver.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "CALL UPHELD 2nd & 8 at 50 21-yd Touchdown Pass 2:20 - 2nd No Huddle-Shotgun #16 A.Manning pass complete deep middle to #85 E.Winston caught at ARK00, for 21 yards to the ARK00 TOUCHDOWN, clock 02:20, 1ST DOWN #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & 10 at ARK 21 Missed FG 7 plays, 49 yards, 1:31 3 ARK 24 TEX Kickoff"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The play-by-play records Michael Terry III's one-yard touchdown run at 10:13 in Q3; the highlight gives his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "10:42 - 3rd No Huddle-Shotgun #16 A.Manning pass complete short left to #0 R.Brown caught at ARK36, for 30 yards to the ARK01 ( C.Harrison), 1ST DOWN 1st & 10 at ARK 31 1-yd Touchdown Run 10:13 - 3rd #11 M.Terry III rush left for 1 yard gain to the ARK00 TOUCHDOWN, clock 10:13 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 1 Downs 13 plays, 37 yards, 5:50 3 ARK 38 TEX Kickoff 10:13 - 3rd #44 G.Spetic kickoff 65 yards to the ARK00, Touchback 2-yd Run"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The play-by-play records the eight-yard touchdown run at 7:31 in Q4, and the highlight identifies the scorer as Derrek Cooper.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "9:00 - 4th No Huddle-Shotgun #5 D.Cooper rush left for 4 yards gain to the ARK09 ( K.House; #8 P.Jackson) 2nd & 5 at ARK 13 1-yd Run 8:14 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 1 yard gain to the ARK08 ( X.Sims), 1ST DOWN 3rd & 1 at ARK 9 8-yd Touchdown Run 7:31 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 8 yards gain to the ARK00 TOUCHDOWN, clock 07:31 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 8 Interception 12 plays, 51 yards, 4:59 3 ARK 45 TEX Kickoff 7:31 - 4th"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "Manning's game log supplies his passing and rushing stats, and the recap identifies him by full name and describes his three-touchdown performance.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/4870906/arch-manning",
+          "excerpts": [
+            "razorbacks \"Team - Arkansas Razorbacks\") |[W 45-3](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas) |21 |25 |287 |84\\.0 |2 |0 |41 |1 |206\\.8 |91\\.9 |5 |16 |3\\.2 |1 |13 |\n|Total | | |208 |314 |2,485 |66\\.2 |21 |10 |62 |31 |148\\.2 |66\\.2 |93 |170 |1\\.8 |4 |20 |\n\n### Glossary\n\n* ATT: Passing Attempts\n* AVG: Yards Per Rush Attempt\n* CAR: Rushing Attempts"
+          ],
+          "title": "Arch Manning 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856755",
+          "excerpts": [
+            "## Arkansas Razorbacks @ Texas Longhorns\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856755/arkansas-texas)"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The game leaders give Terry's seven carries, 32 yards, and one touchdown; the highlight supplies his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856755/texas-am-texas",
+          "excerpts": [
+            "Terry III RB 7 CAR, 1 TD 32](https://www.espn.com/college-football/player/_/id/5141729/michael-terry-iii)\n\nReceiving Yards\n\n[106 C."
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The scoring play establishes a 21-yard touchdown reception, and the highlight names the receiver as Emaree Winston.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "CALL UPHELD 2nd & 8 at 50 21-yd Touchdown Pass 2:20 - 2nd No Huddle-Shotgun #16 A.Manning pass complete deep middle to #85 E.Winston caught at ARK00, for 21 yards to the ARK00 TOUCHDOWN, clock 02:20, 1ST DOWN #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & 10 at ARK 21 Missed FG 7 plays, 49 yards, 1:31 3 ARK 24 TEX Kickoff"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The play-by-play records Cooper's eight-yard rushing touchdown, and the highlight names Derrek Cooper as the scorer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "9:00 - 4th No Huddle-Shotgun #5 D.Cooper rush left for 4 yards gain to the ARK09 ( K.House; #8 P.Jackson) 2nd & 5 at ARK 13 1-yd Run 8:14 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 1 yard gain to the ARK08 ( X.Sims), 1ST DOWN 3rd & 1 at ARK 9 8-yd Touchdown Run 7:31 - 4th No Huddle-Shotgun #5 D.Cooper rush middle for 8 yards gain to the ARK00 TOUCHDOWN, clock 07:31 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 1st & Goal at ARK 8 Interception 12 plays, 51 yards, 4:59 3 ARK 45 TEX Kickoff 7:31 - 4th"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/video/_/gameId/401856755",
+          "excerpts": [
+            "* [Videos](https://africa.espn.com/college-football/video/_/gameId/401856755)\n\n1:14\n\n## Arkansas Razorbacks vs. Texas Longhorns: Full Highlights\n\n0:20\n\n## John Meredith III comes up with an interception\n\n0:31\n\n## Derrek Cooper finds the end zone for 8-yard TD\n\n0:32\n\n## Michael Terry III rushes in for 1-yard touchdown\n\n0:47\n\n## Arch Manning throws 17-yard touchdown\n\n0:52\n\n## Arch Manning throws 21-yard TD pass to Emaree Winston\n\n0:10\n\n## Gianni Spetic makes 36-yard field goal\n\n0:09"
+          ],
+          "title": "Texas 45-3 Arkansas (21 Nov, 2026) Video Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The play-by-play documents the 31-yard interception return for a touchdown, while the highlight identifies the player as Jelani McDonald.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856755",
+          "excerpts": [
+            "Shotgun #5 S.Smith rush right for 0 yards to the ARK25 ( C.Vasek) 2nd & 6 at ARK 25 Interception Return Touchdown 9:01 - 1st Shotgun #7 K.Jackson pass intercepted by #4 J.McDonald at ARK31 #4 J.McDonald return 31 yards to the ARK00 TOUCHDOWN, clock 09:01 #44 G.Spetic kick attempt good (H: #43 M.Chiumento, LS: #47 T.Dubuc) 3rd & 6 at ARK 25 Field Goal 11 plays, 63 yards, 5:29 3 ARK 14 TEX Kickoff 9:01 - 1st #44 G.Spetic kickoff 65 yards to the ARK00, Touchback Incompletion 8:55 - 1st Shotgun #7 K.Jackson pass incomplete short left to #6 C.Marshall thrown to ARK35 1st & 10 at ARK 25 12-yd Run 8:46 - 1st Shotgun #7 K.Jackson rush middle for 12 yards gain to the ARK37 ( R.Biles; #19 Z.Umeozulu), 1ST DOWN"
+          ],
+          "title": "Texas 45-3 Arkansas (Nov 21, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/watch/player/_/id/11a5ce9e-2dbd-4549-8169-8019608efb66/redirected/Keyence_4",
+          "excerpts": [
+            "[Back](https://www.espn.com/watch/_/redirected/Keyence_4)\n\n[](https://www.espn.com/watch/player/_/id/11a5ce9e-2dbd-4549-8169-8019608efb66/redirected/Keyence_4)\n\nArkansas vs. #5 Texas\n\nLive\n\nKey Plays\n\n1st Quarter\n\nArch Manning rushes in for 3-yard TD\n\nArch Manning rushes in for 3-yard TD\n\nARK 0\n\n7 TEX Picked! Jelani McDonald hauls in the interception\n\nPicked! Jelani McDonald hauls in the interception\n\nARK 0\n\n14 TEX Max Gilbert kicks 30-yard field goal\n\nMax Gilbert kicks 30-yard field goal\n\nARK 3\n\n14 TEX\n\n2nd Quarter\n\nGianni Spetic makes 36-yard field goal\n\nGianni Spetic makes 36-yard field goal\n\nARK 3\n\n17 TEX\n\n# Arkansas vs. #5 Texas\n\nlive\n\nESPN \u2022 NCAA Football\n\n### Live\n\n* [](https://www.espn.com/watch/player/_/id/1274e9be-1e9b-4091-b143-65bd5ec9c4f0/redirected/Keyence_4=6200)\n  \n  Live\n  \n  ## LSU vs. #9 Tennessee\n  \n  ESPN on ABC \u2022 NCAA Football"
+          ],
+          "title": "Arkansas vs. #5 Texas 11/21/26 - Stream the Game Live - Watch ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "Jackson's game log for the Arkansas-Texas game lists 15 of 28 passing, 190 yards, zero touchdowns, and one interception.",
+      "citations": [],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3",
+      "top_performers.4"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Who ruled the field in Texas? No. 5 Texas beat Arkansas 45-3! Arch Manning ran for a touchdown to start the fun. Jelani McDonald kept the momentum going with a 31-yard pick-six. Manning later zipped a touchdown pass to Emaree Winston. Michael Terry III and Derrek Cooper ran for touchdowns, too. Texas earned its fifth win in a row and moved to 9-2.",
+    "big_words": [
+      {
+        "word": "momentum",
+        "definition": "The power to keep going strong.",
+        "example": "Ava kept her momentum as she raced to see the zoo's monkeys."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask, then answer it.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1288,
+        "output": 223
+      }
+    ]
+  }
+}

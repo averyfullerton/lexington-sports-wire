@@ -1,0 +1,51 @@
+{
+  "name": "Isaiah Marshall",
+  "espn_id": "5079604",
+  "team": "Kansas Jayhawks",
+  "team_abbr": "KU",
+  "number": "8",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Southfield, MI",
+  "league": "cfb",
+  "fun_facts": [
+    "Isaiah threw for 246 yards and two touchdowns in Kansas\u2019s 2026 opener.",
+    "Isaiah ran for 164 yards and a touchdown against West Virginia.",
+    "Isaiah threw two touchdowns and ran for another in a three-overtime game against BYU."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "KU",
+        "3",
+        "3",
+        "28",
+        "0",
+        "0"
+      ],
+      [
+        "2026",
+        "KU",
+        "161",
+        "274",
+        "2,054",
+        "13",
+        "10"
+      ]
+    ]
+  }
+}

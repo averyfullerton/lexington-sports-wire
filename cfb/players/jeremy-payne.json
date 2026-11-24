@@ -1,0 +1,56 @@
+{
+  "name": "Jeremy Payne",
+  "espn_id": "5079663",
+  "team": "TCU Horned Frogs",
+  "team_abbr": "TCU",
+  "number": "26",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Missouri City, TX",
+  "league": "cfb",
+  "fun_facts": [
+    "In college, Jeremy ran for 142 yards against North Carolina in TCU\u2019s 2026 opener.",
+    "In college, Jeremy had a 48-yard run against North Carolina.",
+    "In college, Jeremy scored on 43-yard and 8-yard runs against Utah in 2026."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "TCU",
+        "54",
+        "239",
+        "4.4",
+        "3"
+      ],
+      [
+        "2025",
+        "TCU",
+        "110",
+        "623",
+        "5.7",
+        "5"
+      ],
+      [
+        "2026",
+        "TCU",
+        "115",
+        "592",
+        "5.1",
+        "4"
+      ]
+    ]
+  }
+}

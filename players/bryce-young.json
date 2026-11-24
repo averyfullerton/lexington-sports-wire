@@ -1,0 +1,74 @@
+{
+  "name": "Bryce Young",
+  "espn_id": "4685720",
+  "team": "Carolina Panthers",
+  "team_abbr": "CAR",
+  "number": "9",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Alabama",
+  "experience": 4,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Bryce was the first Alabama quarterback to win the Heisman Trophy.",
+    "Bryce set Alabama records with 4,872 passing yards and 47 touchdowns in one college season.",
+    "He set Alabama records with 344 yards and four touchdowns in his first college start."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "CAR",
+        "16",
+        "315",
+        "527",
+        "2,877",
+        "11",
+        "10"
+      ],
+      [
+        "2024",
+        "CAR",
+        "14",
+        "234",
+        "384",
+        "2,403",
+        "15",
+        "9"
+      ],
+      [
+        "2025",
+        "CAR",
+        "16",
+        "304",
+        "478",
+        "3,011",
+        "23",
+        "11"
+      ],
+      [
+        "2026",
+        "CAR",
+        "10",
+        "225",
+        "368",
+        "2,651",
+        "18",
+        "7"
+      ]
+    ]
+  }
+}

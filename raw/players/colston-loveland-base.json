@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_415f3f698c1f435ba2a13aa825048b65",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 76.4,
+  "input": {
+    "player": "Colston Loveland",
+    "team": "Chicago Bears",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Michigan",
+    "fun_facts": [
+      "Colston Loveland is from Gooding, Idaho.",
+      "Every April, Colston Loveland and his brothers helped brand cattle at their aunt and uncle\u2019s farm\u2014a job they liked because it meant skipping school.",
+      "Before becoming a Michigan national champion, Colston Loveland competed in rodeo.",
+      "In Michigan\u2019s 2023 national championship game, Colston Loveland led the Wolverines with 64 receiving yards.",
+      "Colston Loveland scored his first Michigan touchdown against Ohio State and celebrated with a finger-to-lips gesture in front of 106,787 fans.",
+      "In 2024, Colston Loveland set a Michigan record for catches by a tight end with 56."
+    ],
+    "draft": "2025, round 1, pick 10"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies Michigan as Colston Loveland\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4723086/colston-loveland",
+          "excerpts": [
+            "HT/WT 6' 6\", 241 lbs\n\nBirthdate 4/9/2004 (22)\n\nCollege [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nDraft Info 2025: Rd 1, Pk 10 (CHI)\n\nStatus Active"
+          ],
+          "title": "Colston Loveland Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the hometown and cattle-branding facts, his rodeo background, his receiving lead in Michigan\u2019s national championship game, his first Michigan touchdown and celebration against Ohio State, and his 2024 Michigan tight-end reception record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "LAKE FOREST, Ill. -- Two days before he was drafted with the 10th pick by the [Chicago Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) , [Colston Loveland](https://www.espn.com/nfl/player/_/id/4723086/colston-loveland) was back home in Gooding, Idaho, branding cattle.",
+            "Every April, Loveland and his brothers venture down the road to their aunt and uncle's farm nestled in the southern Idaho town of 3,800 for an annual cattle branding. It's a job they'd do in groups to make for efficient work to brand, vaccinate and clip the ear of the calves. The tight end and his two brothers, Cayden and Cash, loved these days because it meant they got to skip school.",
+            "This rural backdrop -- what Loveland and others from Gooding refer to as a \" [hidden gem](https://www.youtube.com/watch?v=hO_Fy7NdpOo) \" -- was the setting for Loveland to evolve from competing in the rodeo to winning a national championship at Michigan to becoming a top-10 pick in",
+            "As a sophomore, Loveland was McCarthy's second-favorite weapon behind Roman Wilson and led the Wolverines in receiving yards (64) in the national championship game in 2023.",
+            "Loveland's first Michigan touchdown came on the road against Ohio State, where the Wolverines hadn't won since 2000 and trailed 20-17 early in the third quarter. ... Editor's Picks 2 Related Quarterback [J.J. McCarthy](https://www.espn.com/nfl/player/_/id/4433970/jj-mccarthy) faked a handoff to a receiver in motion before launching a 45-yard pass that Loveland caught over his left shoulder. After sprinting into the end zone, the freshman turned to the crowd of 106,787 and put his finger to his lips."
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-nfl-draft-bears-select-michigan-te-colston-loveland-with-no-10-overall-pick",
+          "excerpts": [
+            "In 2024, despite missing multiple games due to injury, he set a Wolverines record for catches by a TE with 56 as the go-to target, earning second-team all-conference honors."
+          ],
+          "title": "2025 NFL Draft: Bears select Michigan TE Colston Loveland with No. 10 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN lists his draft as 2025, round 1, pick 10; the NFL\u2019s draft report also says Chicago selected him with the 10th overall pick in the 2025 draft.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4723086/colston-loveland",
+          "excerpts": [
+            "HT/WT 6' 6\", 241 lbs\n\nBirthdate 4/9/2004 (22)\n\nCollege [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n\nDraft Info 2025: Rd 1, Pk 10 (CHI)\n\nStatus Active"
+          ],
+          "title": "Colston Loveland Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-nfl-draft-bears-select-michigan-te-colston-loveland-with-no-10-overall-pick",
+          "excerpts": [
+            "Skip to main content\n\n[Around the NFL](https://www.nfl.com/news/series/around-the-nfl-news)\n\n# 2025 NFL Draft: Bears select Michigan TE Colston Loveland with No. 10 overall pick\n\nPublished:\n\nUpdated:",
+            "body=https%3A%2F%2Fwww.nfl.com%2Fnews%2F2025-nfl-draft-bears-select-michigan-te-colston-loveland-with-no-10-overall-pick)\n\nThe Chicago Bears snagged a pass-catching tight end for Ben Johnson's offense.\n\nWith the 10th overall pick in the 2025 NFL Draft, the Bears selected Michigan's [Colston Loveland](https://www.nfl.com/prospects/colston-loveland/32004c4f-5645-6221-1f26-a303114b69f8) .\n\nWith the pick, Loveland became the highest TE drafted in the opening round by the Bears since legendary Hall of Famer Mike Ditka in 1961. Ditka was selected with the fifth overall pick. Greg Olsen, at No. 31 in 2007, is the only other tight end to be taken by the Bears in the first round."
+          ],
+          "title": "2025 NFL Draft: Bears select Michigan TE Colston Loveland with No. 10 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Loveland was back home in Gooding, Idaho.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "LAKE FOREST, Ill. -- Two days before he was drafted with the 10th pick by the [Chicago Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) , [Colston Loveland](https://www.espn.com/nfl/player/_/id/4723086/colston-loveland) was back home in Gooding, Idaho, branding cattle."
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage describes Loveland and his brothers helping with annual cattle branding at their aunt and uncle\u2019s farm, and says they liked it because they got to skip school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "Every April, Loveland and his brothers venture down the road to their aunt and uncle's farm nestled in the southern Idaho town of 3,800 for an annual cattle branding. It's a job they'd do in groups to make for efficient work to brand, vaccinate and clip the ear of the calves. The tight end and his two brothers, Cayden and Cash, loved these days because it meant they got to skip school."
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage describes Loveland\u2019s path from competing in rodeo to winning a national championship at Michigan.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "This rural backdrop -- what Loveland and others from Gooding refer to as a \" [hidden gem](https://www.youtube.com/watch?v=hO_Fy7NdpOo) \" -- was the setting for Loveland to evolve from competing in the rodeo to winning a national championship at Michigan to becoming a top-10 pick in"
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Loveland led Michigan in receiving yards, with 64, in the 2023 national championship game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "As a sophomore, Loveland was McCarthy's second-favorite weapon behind Roman Wilson and led the Wolverines in receiving yards (64) in the national championship game in 2023."
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says his first Michigan touchdown came against Ohio State and describes his finger-to-lips celebration before a crowd of 106,787.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/44903661/nfl-draft-bears-colston-loveland-michigan",
+          "excerpts": [
+            "Loveland's first Michigan touchdown came on the road against Ohio State, where the Wolverines hadn't won since 2000 and trailed 20-17 early in the third quarter. ... Editor's Picks 2 Related Quarterback [J.J. McCarthy](https://www.espn.com/nfl/player/_/id/4433970/jj-mccarthy) faked a handoff to a receiver in motion before launching a 45-yard pass that Loveland caught over his left shoulder. After sprinting into the end zone, the freshman turned to the crowd of 106,787 and put his finger to his lips."
+          ],
+          "title": "How TE Colston Loveland brings 'Idaho tough' to the Bears - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage states that Loveland set a Wolverines record for catches by a tight end with 56 in 2024.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2025-nfl-draft-bears-select-michigan-te-colston-loveland-with-no-10-overall-pick",
+          "excerpts": [
+            "In 2024, despite missing multiple games due to injury, he set a Wolverines record for catches by a TE with 56 as the go-to target, earning second-team all-conference honors."
+          ],
+          "title": "2025 NFL Draft: Bears select Michigan TE Colston Loveland with No. 10 overall pick | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

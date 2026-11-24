@@ -1,0 +1,475 @@
+{
+  "run_id": "trun_64eebd575c4945059fbe1000ebd76eb9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 283.0,
+  "input": {
+    "away_team": "Jacksonville Jaguars",
+    "home_team": "New York Giants",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Jacksonville Jaguars",
+    "key_plays": [
+      "Q1 2:07: Jameis Winston ran for a 1-yard touchdown to put New York ahead 10-3.",
+      "Q2 6:04: J.J. McCarthy threw an 8-yard touchdown pass to Malik Nabers, extending New York's lead to 17-6.",
+      "Q3 4:02: Josh Hines-Allen forced a Cam Skattebo fumble; Antonio Johnson recovered it and returned it 42 yards.",
+      "Q4 11:08: Adebo intercepted Trevor Lawrence at the Jaguars' 28-yard line.",
+      "Q4 6:47: Trevor Lawrence threw an 18-yard touchdown pass to Brian Thomas Jr.; the two-point pass was intercepted."
+    ],
+    "away_score": 18,
+    "storyline": "The loss was Jacksonville\u2019s first since Week 6, though the Jaguars still led the AFC South by three games. New York improved to 6-3-1 and maintained its NFC East lead.",
+    "top_performers": [
+      {
+        "stat_line": "25/47, 301 yards, 1 TD, 2 INT",
+        "team": "Jacksonville Jaguars",
+        "name": "Trevor Lawrence"
+      },
+      {
+        "stat_line": "8 receptions, 103 yards",
+        "team": "Jacksonville Jaguars",
+        "name": "Parker Washington"
+      },
+      {
+        "stat_line": "18/38, 173 yards, 1 TD, 0 INT",
+        "team": "New York Giants",
+        "name": "J.J. McCarthy"
+      },
+      {
+        "stat_line": "7 receptions, 55 yards, 1 TD",
+        "team": "New York Giants",
+        "name": "Malik Nabers"
+      },
+      {
+        "stat_line": "4/4 field goals",
+        "team": "Jacksonville Jaguars",
+        "name": "Cam Little"
+      }
+    ],
+    "home_record_after": "6-3-1",
+    "tough_day": [
+      {
+        "stat_line": "25/47, 301 yards, 1 TD, 2 INT",
+        "team": "Jacksonville Jaguars",
+        "name": "Trevor Lawrence"
+      },
+      {
+        "stat_line": "13 penalties, 107 yards",
+        "team": "Jacksonville Jaguars",
+        "name": "Jacksonville Jaguars"
+      }
+    ],
+    "away_record_after": "7-3",
+    "home_team": "New York Giants",
+    "home_score": 23
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The game-day page marks Week 11 as FINAL and shows the Jacksonville and New York teams and their final records.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "Jacksonville Jaguars 7-3 WEEK 11 \u2022 SUN \u2022 11/22 \u2022 FINAL \\-- |1 |2 |3 |4 | |3 |3 |0 |12 | |10 |10 |0 |3 | \\-- New York Giants 6-3-1"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-day page identifies Jacksonville as the visitor and names the team Jacksonville Jaguars.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "Jacksonville Jaguars 7-3"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary gives the scoring plays and times; the play-by-play records the third-quarter fumble and fourth-quarter interception and touchdown sequence.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Jaguars C.Little 42 yd. Field Goal (8-20, 3:02) 3 0 1 11:58 Giants D.Zvada 53 yd. Field Goal (4--4, 1:29) 3 3 1 6:06 Giants J.Winston 1 yd. run (D.Zvada kick) (7-53, 2:52) 3 10 1 2:07 Jaguars C.Little 35 yd. Field Goal (11-58, 5:44) 6 10 2 11:23 Giants M.Nabers 8 yd. pass from J.McCarthy (D.Zvada kick) (9-66, 5:19) 6 17 2 6:04 Giants D.Zvada 54 yd. Field Goal (7-28, 1:35) 6 20 2 0:11 Jaguars C.Little 31 yd. Field Goal (9-49, 2:55) 9 20 4 12:17 Giants D.Zvada 43 yd. Field Goal (4-3, 0:59) 9 23 4 10:03 Jaguars Bri.Thomas 18 yd. pass from T.Lawrence (pass failed) (10-75, 3:24) 15 23 4 6:39 **National Football League Game Summary** **National Football League Game Summary** Paid Attendance: 82,649 Time: 3:29 Jaguars C.Little 26 yd. Field Goal (10-60, 2:07) 18 23 4 3:40",
+            "(4:02) (Shotgun) C.Skattebo left tackle to JAX 31 for 1 yard (J.Hines-Allen). FUMBLES (J.Hines-Allen), RECOVERED by JAX-A.Johnson at JAX 27. A.Johnson to NYG 31 for 42 yards (J.McCarthy).",
+            "(11:08) (Shotgun) T.Lawrence pass short left intended for J.Meyers INTERCEPTED by P.Adebo at JAX 28. P.Adebo to JAX 28 for no gain (J.Meyers).",
+            "(6:47) (Shotgun) T.Lawrence pass deep middle to Bri.Thomas for 18 yards, TOUCHDOWN.** 3-10-NYG 18 P15 TWO-POINT CONVERSION ATTEMPT. T.Lawrence pass to J.Cameron is intercepted. ATTEMPT FAILS."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official game summary lists the visitor\u2019s quarter scores as 3, 3, 0, and 12, for a final total of 18.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Jacksonville Jaguars 3 3 0 12 0 18 HOME: New York Giants 10 10 0 3 0 23 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The postgame report says Jacksonville lost for the first time since Week 6, remained three games ahead in the AFC South, and New York maintained its NFC East lead.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "The Jaguars (7-3) lost for the first time since Week 6 and lead the Houston Texans (4-6) by three games in the AFC South. The Giants (6-3-1) maintained their lead in the NFC East. > \"We definitely knew this team was going to be ready to play,\" Coen said of the Giants. \"They're a first-place team in their division."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official postgame report supplies Lawrence\u2019s, Washington\u2019s, McCarthy\u2019s, and Nabers\u2019s passing and receiving lines. It also notes Little\u2019s fourth field goal; the official game summary lists his four successful field goals.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence completed 25 of 47 passes for 301 yards and one touchdown with two interceptions, with wide receiver [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/ \"Parker Washington\") catching eight passes for 103 yards. Lawrence was sacked three times in the first half. > \"It was a lot today that maybe wasn't clicking,\" Washington said. \"As a team, I know we will respond and be ready to get back to work.\" > > Giants quarterback J.J. McCarthy completed 18 of 38 passes for 173 yards and one touchdown with no interceptions, with Nabers catching seven passes for 55 yards and one touchdown.",
+            "Lawrence's fourth-quarter touchdown pass to wide receiver [Brian Thomas Jr.](https://www.jaguars.com/team/players-roster/brian-thomas-jr/ \"Brian Thomas Jr.\") , and kicker [Cam Little](https://www.jaguars.com/team/players-roster/cam-little/ \"Cam Little\") 's fourth field goal of the game, cut a two-touchdown Giants lead to five with just under four minutes remaining, but the Giants ran out the clock on the possession after Little's final field goal."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Little (42) (35) (31) (26) D.Zvada (53) (54) 32WL (43)"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The game-day page lists New York\u2019s record after the final as 6-3-1.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "New York Giants 6-3-1"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The postgame report records Lawrence\u2019s two interceptions, while the game-day box score lists Jacksonville\u2019s 13 penalties for 107 yards.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence completed 25 of 47 passes for 301 yards and one touchdown with two interceptions, with wide receiver [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/ \"Parker Washington\") catching eight passes for 103 yards."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        },
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "Jacksonville Jaguars JAX | |New York Giants NYG | |354 |Total Net Yards |238 | |13 |Total Penalties |6 | |107 |Penalty Yards |46"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The game-day page lists Jacksonville\u2019s record after the final as 7-3.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "Jacksonville Jaguars 7-3"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-day page identifies New York Giants as the home team.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "New York Giants 6-3-1"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary lists New York\u2019s quarter scores as 10, 10, 0, and 3, for a final total of 23.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Jacksonville Jaguars 3 3 0 12 0 18 HOME: New York Giants 10 10 0 3 0 23 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Winston\u2019s 1-yard rushing touchdown at 2:07 of the first quarter; the postgame report gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Giants J.Winston 1 yd. run (D.Zvada kick) (7-53, 2:52) 3 10 1 2:07"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Giants reserve quarterback Jameis Winston and wide receiver Malik Nabers scored first-half touchdowns to give the Giants a 20-6 halftime lead."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records the second-quarter touchdown pass from McCarthy to Nabers; the postgame report identifies both players by name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Giants M.Nabers 8 yd. pass from J.McCarthy (D.Zvada kick) (9-66, 5:19) 6 17 2 6:04"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Giants reserve quarterback Jameis Winston and wide receiver Malik Nabers scored first-half touchdowns to give the Giants a 20-6 halftime lead.",
+            "Giants quarterback J.J. McCarthy completed 18 of 38 passes for 173 yards and one touchdown with no interceptions, with Nabers catching seven passes for 55 yards and one touchdown."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play-by-play gives the fumble and 42-yard return; the postgame report names Josh Hines-Allen, Cam Skattebo, and Antonio Johnson in the play.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(4:02) (Shotgun) C.Skattebo left tackle to JAX 31 for 1 yard (J.Hines-Allen). FUMBLES (J.Hines-Allen), RECOVERED by JAX-A.Johnson at JAX 27. A.Johnson to NYG 31 for 42 yards (J.McCarthy)."
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "He also forced the Jaguars' first takeaway, with safety Antonio Johnson returning a fumble by Giants running back Cam Skattebo 42 yards to the Giants 31 late in the third quarter."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The fourth-quarter play-by-play records Adebo\u2019s interception of Lawrence at the Jaguars\u2019 28-yard line.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(11:08) (Shotgun) T.Lawrence pass short left intended for J.Meyers INTERCEPTED by P.Adebo at JAX 28. P.Adebo to JAX 28 for no gain (J.Meyers)."
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The play-by-play records Lawrence\u2019s 18-yard touchdown pass and failed two-point pass; the postgame report names Brian Thomas Jr. as the receiver.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(6:47) (Shotgun) T.Lawrence pass deep middle to Bri.Thomas for 18 yards, TOUCHDOWN.** 3-10-NYG 18 P15 TWO-POINT CONVERSION ATTEMPT. T.Lawrence pass to J.Cameron is intercepted. ATTEMPT FAILS."
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence's fourth-quarter touchdown pass to wide receiver [Brian Thomas Jr.](https://www.jaguars.com/team/players-roster/brian-thomas-jr/ \"Brian Thomas Jr.\") , and kicker [Cam Little](https://www.jaguars.com/team/players-roster/cam-little/ \"Cam Little\") 's fourth field goal of the game, cut a two-touchdown Giants lead to five with just under four minutes remaining, but the Giants ran out the clock on the possession after Little's final field goal."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The official report states Lawrence completed 25 of 47 passes for 301 yards, one touchdown, and two interceptions.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence completed 25 of 47 passes for 301 yards and one touchdown with two interceptions, with wide receiver [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/ \"Parker Washington\") catching eight passes for 103 yards."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official report states Washington caught eight passes for 103 yards.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence completed 25 of 47 passes for 301 yards and one touchdown with two interceptions, with wide receiver [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/ \"Parker Washington\") catching eight passes for 103 yards."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The official report identifies J.J. McCarthy and records 18 completions on 38 attempts, 173 yards, one touchdown, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Giants quarterback J.J. McCarthy completed 18 of 38 passes for 173 yards and one touchdown with no interceptions, with Nabers catching seven passes for 55 yards and one touchdown."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The report identifies Malik Nabers and records seven catches for 55 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Giants reserve quarterback Jameis Winston and wide receiver Malik Nabers scored first-half touchdowns to give the Giants a 20-6 halftime lead.",
+            "McCarthy completed 18 of 38 passes for 173 yards and one touchdown with no interceptions, with Nabers catching seven passes for 55 yards and one touchdown."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The report identifies Cam Little\u2019s fourth field goal, and the official field-goal summary lists four makes for Little.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence's fourth-quarter touchdown pass to wide receiver [Brian Thomas Jr.](https://www.jaguars.com/team/players-roster/brian-thomas-jr/ \"Brian Thomas Jr.\") , and kicker [Cam Little](https://www.jaguars.com/team/players-roster/cam-little/ \"Cam Little\") 's fourth field goal of the game, cut a two-touchdown Giants lead to five with just under four minutes remaining, but the Giants ran out the clock on the possession after Little's final field goal."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795395578/gamecenter/ab999b80-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Little (42) (35) (31) (26) D.Zvada (53) (54) 32WL (43)"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The report gives Lawrence\u2019s line, including two interceptions, as evidence for the tough-day entry.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/game-report-2026-week-11-giants-23-jaguars-18",
+          "excerpts": [
+            "Lawrence completed 25 of 47 passes for 301 yards and one touchdown with two interceptions, with wide receiver [Parker Washington](https://www.jaguars.com/team/players-roster/parker-washington/ \"Parker Washington\") catching eight passes for 103 yards."
+          ],
+          "title": "Game Report: New York Giants 23, Jacksonville Jaguars 18"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The official box score lists 13 penalties and 107 penalty yards for Jacksonville.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/game-day/2026/reg-week11/jaguars-at-giants/box-score",
+          "excerpts": [
+            "Jacksonville Jaguars JAX | |New York Giants NYG | |354 |Total Net Yards |238 | |13 |Total Penalties |6 | |107 |Penalty Yards |46"
+          ],
+          "title": "Jacksonville Jaguars Game Day"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "top_performers"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "23 points helped the Giants beat the Jaguars 23-18 in New York! Jameis Winston ran for a touchdown to put the Giants ahead. J.J. McCarthy then zipped a touchdown pass to Malik Nabers. Antonio Johnson returned a Jaguars fumble 42 yards. Later, Adebo intercepted a Trevor Lawrence pass. Lawrence hit Brian Thomas Jr. for a touchdown, but the 2-point pass was picked off! The Giants stayed in first place in the NFC East, while the Jaguars kept their AFC South lead.",
+    "big_words": [
+      {
+        "word": "intercepted",
+        "definition": "Caught a pass meant for the other team.",
+        "example": "Mateo intercepted a paper airplane flying over his science project."
+      }
+    ],
+    "opener": "Start with a striking number from the facts (yards, points, a streak, a record).",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1291,
+        "output": 216
+      }
+    ]
+  }
+}

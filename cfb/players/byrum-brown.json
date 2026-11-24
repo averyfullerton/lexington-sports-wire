@@ -1,0 +1,78 @@
+{
+  "name": "Byrum Brown",
+  "espn_id": "4880272",
+  "team": "Auburn Tigers",
+  "team_abbr": "AUB",
+  "number": "17",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Raleigh, NC",
+  "league": "cfb",
+  "fun_facts": [
+    "Byrum was the second USF quarterback to get 4,000 total yards in one season.",
+    "Byrum passed for 3,000 yards and ran for 1,000 yards in 2025.",
+    "Byrum was one of three Auburn players to each run for 80 yards against Southern Miss."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "USF",
+        "36",
+        "50",
+        "404",
+        "5",
+        "1"
+      ],
+      [
+        "2023",
+        "USF",
+        "276",
+        "426",
+        "3,292",
+        "26",
+        "11"
+      ],
+      [
+        "2024",
+        "USF",
+        "78",
+        "132",
+        "836",
+        "2",
+        "0"
+      ],
+      [
+        "2025",
+        "USF",
+        "226",
+        "341",
+        "3,158",
+        "28",
+        "7"
+      ],
+      [
+        "2026",
+        "AUB",
+        "202",
+        "308",
+        "2,035",
+        "15",
+        "8"
+      ]
+    ]
+  }
+}

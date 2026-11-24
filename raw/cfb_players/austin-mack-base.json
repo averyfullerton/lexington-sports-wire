@@ -1,0 +1,151 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9245d8b337083f6a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 48.2,
+  "input": {
+    "player": "Austin Mack",
+    "team": "Alabama Crimson Tide",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Austin Mack is listed at 6 feet 6 inches tall.",
+      "He moved up from the 2024 class and enrolled in college early.",
+      "In 2025, he threw for 228 yards and two touchdowns without an interception, completing 75% of his passes.",
+      "In his first collegiate start, against Chattanooga in 2026, he threw for 254 yards and four touchdowns.",
+      "He also ran for a 1-yard touchdown in that first start."
+    ],
+    "high_school": "Folsom High School",
+    "hometown": "Loomis, California"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "ESPN\u2019s player biography lists Mack\u2019s height as 6 feet 6 inches.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079508/austin-mack",
+          "excerpts": [
+            "2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Austin Mack\n\nAlabama Crimson Tide\n\n* [Alabama Crimson Tide](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* \\#10\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 237 lbs\n* Birthplace\n  \n  Loomis, CA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 237 lbs\n* Birthplace\n  \n  Loomis, CA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  23\n  \n  TD\n  \n  0\n  \n  INT\n  \n  0\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5079508/austin-mack)"
+          ],
+          "title": "Austin Mack Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN\u2019s profile for the Austin Mack associated with Folsom identifies Folsom High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/251129/austin-mack",
+          "excerpts": [
+            "# Austin Mack\n\n* \n\n6-8, 215 | Class of 2023\n\n* Hometown [Folsom, Calif.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/6/hometown/232/class/2023)\n* School [Folsom High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/4589)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2023)\n* Status Signed [Washington](https://www.espn.com/college-sports/football/recruiting/school/_/id/264) 02/01/2023\n\n#### Scout Grade\n\n* 80\n*\n\n|14 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2023/view/position) |\n| --- |"
+          ],
+          "title": "Austin Mack Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN describes Mack as signing with Washington out of Loomis, California; the player biography also lists Loomis, California as his birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39338545/ex-washington-qb-austin-mack-transfers-alabama",
+          "excerpts": [
+            "After seeing nine players exit the program through the transfer portal since he was hired, [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) coach Kalen DeBoer on Thursday added his first transfer in former [Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) quarterback [Austin Mack](https://www.espn.com/college-football/player/_/id/5079508/austin-mack) .\n\nMack signed with Washington in the 2023 class out of Loomis, California. He was originally part of the 2024 class but reclassified and enrolled early."
+          ],
+          "title": "Ex-Washington QB Austin Mack transfers to Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN\u2019s player biography lists Mack at 6 feet 6 inches tall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079508/austin-mack",
+          "excerpts": [
+            "2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Austin Mack\n\nAlabama Crimson Tide\n\n* [Alabama Crimson Tide](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* \\#10\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 237 lbs\n* Birthplace\n  \n  Loomis, CA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 237 lbs\n* Birthplace\n  \n  Loomis, CA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  23\n  \n  TD\n  \n  0\n  \n  INT\n  \n  0\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5079508/austin-mack)"
+          ],
+          "title": "Austin Mack Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN states that Mack was originally part of the 2024 class, reclassified, and enrolled early.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39338545/ex-washington-qb-austin-mack-transfers-alabama",
+          "excerpts": [
+            "After seeing nine players exit the program through the transfer portal since he was hired, [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) coach Kalen DeBoer on Thursday added his first transfer in former [Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) quarterback [Austin Mack](https://www.espn.com/college-football/player/_/id/5079508/austin-mack) .\n\nMack signed with Washington in the 2023 class out of Loomis, California. He was originally part of the 2024 class but reclassified and enrolled early."
+          ],
+          "title": "Ex-Washington QB Austin Mack transfers to Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN\u2019s 2025 stat line for Mack gives 228 passing yards, two touchdowns, zero interceptions, and a 75.0% completion rate.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48100144/ranking-quarterbacks-college-football-power-4-teams-2026",
+          "excerpts": [
+            "The UA offense is facing quite a bit of turnover, but Fifita's return helps.\n\n* * *\n\n## 28\\. [Keelon Russell](https://www.espn.com/college-football/player/_/id/5141629/keelon-russell) or [Austin Mack](https://www.espn.com/college-football/player/_/id/5079508/austin-mack) , [Alabama Crimson Tide](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\n**2025 stat line** : Russell -- 72.7 QBR, 143 passing yards, two TDs, zero INTs, 73.3% completion rate, 13.0 yards per completion; Mack -- 82.5 QBR, 228 passing yards, two TDs, zero INTs, 75.0% completion rate, 9.5 yards per completion\n\nHeading into a make-or-break 2026 campaign, Kalen DeBoer chose to stay in-house to find Ty Simpson's replacement, and the competition between last year's"
+          ],
+          "title": "Pre-spring QB rankings for all 68 Power 4 college football teams - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports that Mack made his first collegiate start against Chattanooga and threw for 254 yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856746",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856746)\n\n# Austin Mack throws 4 TD passes as No. 7 Alabama beats Chattanooga 47-0\n\n1:15\n\n## Chattanooga Mocs vs. Alabama Crimson Tide: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 10:45 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTUSCALOOSA, Ala. -- \u2014 [Austin Mack](http://www.espn.com/college-football/player/_/id/5079508/austin-mack) threw for 254 yards and four touchdowns, leading No. 7 Alabama past Chattanooga 47-0 on Saturday in its final tuneup before the Iron Bowl.\n\nMack made his first collegiate start for the Crimson Tide (9-2, 6-2 SEC, No."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN\u2019s game recap/play details identify Mack\u2019s 1-yard touchdown run in the Chattanooga game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "## Chattanooga Mocs vs. Alabama Crimson Tide: Full Highlights\n* 0:20\n  \n  ## Jett Thomalla throws 15-yard touchdown\n* 0:22\n  \n  ## Austin Mack throws 8-yard TD pass to Noah Rogers\n* 0:18\n  \n  ## Austin Mack throws 29-yard TD pass to Rico Scott\n* 0:35\n  \n  ## Austin Mack throws 3-yard touchdown\n\n[## Austin Mack throws 4 TD passes as No. 7 Alabama beats Chattanooga 47-0 \u2014 Austin Mack threw for 254 yards and four touchdowns, leading No. 7 Alabama past Chattanooga 47-0 on Saturday in its final tuneup before the Iron Bowl. Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nTouchdown\n\n7:03 - 1st\n\n0\n\nUTC\n\n7\n\nALA\n\nAustin Mack 1 Yd Run (Conor Talty Kick)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

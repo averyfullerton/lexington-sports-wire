@@ -1,0 +1,51 @@
+{
+  "name": "Keelon Russell",
+  "espn_id": "5141629",
+  "team": "Alabama Crimson Tide",
+  "team_abbr": "ALA",
+  "number": "12",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Duncanville, TX",
+  "league": "cfb",
+  "fun_facts": [
+    "Keelon won two state championships in high school.",
+    "He had 53 touchdowns and four interceptions in one high school season.",
+    "Keelon had 335 yards and a touchdown in Alabama\u2019s 2026 season opener."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "ALA",
+        "11",
+        "15",
+        "143",
+        "2",
+        "0"
+      ],
+      [
+        "2026",
+        "ALA",
+        "187",
+        "278",
+        "2,480",
+        "21",
+        "6"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Cooper Flanagan",
+  "espn_id": "4870733",
+  "team": "Notre Dame Fighting Irish",
+  "team_abbr": "ND",
+  "number": "87",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Pleasant Hill, CA",
+  "league": "cfb",
+  "fun_facts": [
+    "Cooper caught a 2-yard touchdown pass from C.J. Carr against Rice in 2026.",
+    "He scored a touchdown on a 2-yard run against SMU in 2026.",
+    "He wears No. 87 for Notre Dame."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "ND",
+        "1",
+        "19",
+        "1",
+        "19"
+      ],
+      [
+        "2024",
+        "ND",
+        "4",
+        "55",
+        "2",
+        "28"
+      ],
+      [
+        "2026",
+        "ND",
+        "10",
+        "73",
+        "2",
+        "27"
+      ]
+    ]
+  }
+}

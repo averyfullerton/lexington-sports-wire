@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435bb74c2a018223777d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 168.9,
+  "input": {
+    "player": "Jonah Coleman",
+    "team": "Denver Broncos",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Washington",
+    "fun_facts": [
+      "Jonah Coleman was born in Stockton, California.",
+      "Jonah Coleman played his first two college seasons at Arizona and his last two at Washington.",
+      "In 2023, Jonah Coleman led Arizona in rushing with 871 yards and earned All-Pac-12 honorable mention.",
+      "Jonah Coleman scored five rushing touchdowns in one 2025 game, tying Washington\u2019s modern single-game program record.",
+      "Jonah Coleman finished college with 3,054 rushing yards and 34 rushing touchdowns."
+    ],
+    "draft": "2026, round 4, pick 108"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The career entry lists both Arizona and Washington in order, making Washington the last college Jonah Coleman played for.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/C/ColeJo00.htm",
+          "excerpts": [
+            "Sports Reference Hub, your new customizable home page, is here! Learn more and  .\n\nPhoto of Jonah Coleman\n\n# Jonah Coleman\n\n**Jonah Coleman**\n\n5-8 , 220lb (173cm, 99kg)\n\n**Team** : [Denver Broncos](https://www.pro-football-reference.com/teams/den/2026.htm)\n\n**Born:** [August 20](https://www.pro-football-reference.com/friv/birthdays.cgi?month=8&day=20) , 2003 in Stockton, [CA](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=CA)\n\n**College** : [Arizona](https://www.pro-football-reference.com/schools/arizona/) , [Washington](https://www.pro-football-reference.com/schools/washington/) ( [College Stats](https://www.sports-reference.com/cfb/players/jonah-coleman-1.html) )"
+          ],
+          "title": "Jonah Coleman Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited bio gives Stockton, California as Jonah Coleman\u2019s birthplace. ESPN describes four college seasons split between Arizona and Washington, two at each. Its account of his 2023 Arizona season says he led the team with 871 rushing yards and was an All-Pac-12 honorable mention. The UC Davis recap reports his five-touchdown game and says it tied Washington\u2019s modern program record. ESPN\u2019s career statistics report 3,054 rushing yards and 34 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4702555/jonah-coleman",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nWashington Huskies Jonah Coleman\n\n# Jonah Coleman\n\nWashington Huskies\n\n* [Washington Huskies](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n* \\#1\n* Running Back\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 9\", 228 lbs\n* Birthplace\n  \n  Stockton, CA\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* CAR\n  \n  156\n  \n  Tied-78th\n* YDS\n  \n  758\n  \n  85th\n* TD\n  \n  15\n  \n  Tied-13th\n* AVG\n  \n  4\\.9\n  \n  145th"
+          ],
+          "title": "Jonah Coleman Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48779301/jonah-coleman-denver-broncos-fourth-round-running-back-pass-protection-impact",
+          "excerpts": [
+            "Enter [Jonah Coleman](https://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) , the Broncos' fourth-round pick last month. The 22-year-old's ball-carrying chops are well-established, as the 5-foot-8, 220-pounder averaged 5.5 yards per carry in four college seasons (two at Arizona, two at Washington) and scored a combined 25 rushing touchdowns for the Huskies the past two years.\n\nThat running prowess drew the Broncos in during predraft evaluations, but they also concluded that Coleman was the most proficient pass protector of this running back class."
+          ],
+          "title": "Jonah Coleman ready to make impact in the Broncos' backfield - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39363392/running-back-jonah-coleman-going-arizona-washington",
+          "excerpts": [
+            "227 overall in 2024) committed to the Huskies after entering the portal.\n\nColeman, who entered the portal on Jan. 15, was ESPN's fifth-best available player there, according to Tom VanHaaren's latest rankings.\n\nThe 5-foot-9, 225-pound Coleman played in every game last season, leading the Wildcats (10-3 in 2023) in rushing with 871 yards and was tied for the team lead in touchdowns with five.\n\nHe has two years of eligibility remaining and was an All-Pac-12 honorable mention selection for his work this past season.\n\nUnder Fisch, who was hired to replace Kalen DeBoer on Jan."
+          ],
+          "title": "Running back Jonah Coleman also going from Arizona to Washington - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752821",
+          "excerpts": [
+            "# Jonah Coleman sets career high with 5 rushing touchdowns, Washington trounces UC Davis\n\n* * *\n\nBy AP\n\nSep 7, 2025, 03:31 am\n\nFacebook Facebook Messenger Twitter Email\n\nSEATTLE -- \u2014 [Jonah Coleman](http://www.espn.com/college-football/player/_/id/4702555/jonah-coleman) rushed for a career-high five touchdowns as Washington beat UC Davis 70-10 on Saturday night.\n\nColeman tied the modern program record set by Corey Dillon (1996 vs. UCLA) and Hugh McElhenny (1950 vs. Washington State) on a 5-yard rushing touchdown early in the third quarter. Ervin Daily set the school's all-time mark with seven rushing touchdowns against Whitman in 1919."
+          ],
+          "title": "Washington 70-10 UC Davis (Sep 6, 2025) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
+          "excerpts": [
+            "## RUNNING BACK\n\n## [Jonah Coleman](https://www.espn.com/college-football/player/_/id/4702555/jonah-coleman) , [Washington Huskies](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n**Key numbers** : 756 rushing yards, 15 rushing TDs, 156 carries, 354 receiving yards, 31 receptions, two receiving TDs in 2025. Coleman, who played his first two college seasons at Arizona and followed coach Jedd Fisch to Washington, eclipsed 750 rushing yards in each of his final three seasons, while showing impressive versatility with 77 receptions. He averaged 5.5 yards per rush during his career and had 3,054 yards with 34 TDs."
+          ],
+          "title": "College coaches pick 2026 NFL draft sleepers - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft tracker\u2019s round-four listing identifies Jonah Coleman as the Broncos\u2019 pick at overall No. 108; the tracker is for the 2026 draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2026/rounds/4",
+          "excerpts": [
+            "DT OKLAHOMA SR Senior\n\nCLE SF\n\nPICK 8\n\n(108)\n\nTEAMBroncos\n\nPLAYER JONAH COLEMAN\n\nRB WASHINGTON SR Senior\n\nNO DEN\n\nPICK 9\n\n(109)\n\nTEAMChiefs\n\nPLAYER JADON CANADY\n\nCB OREGON SR Senior\n\nPICK 10\n\n(110)\n\nTEAMJets\n\nPLAYER CADE KLUBNIK\n\nQB CLEMSON SR Senior\n\nCIN NYJ\n\nPICK 11\n\n(111)\n\nTEAMBroncos\n\nPLAYER KAGE CASEY\n\nOT BOISE STATE R-JR Redshirt Junior\n\nMIA DEN\n\nPICK 12\n\n(112)\n\nTEAMCowboys"
+          ],
+          "title": "2026 NFL Draft Picks - Round 4 | NFL.com "
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Stockton, California as Jonah Coleman\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/4702555/jonah-coleman",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nWashington Huskies Jonah Coleman\n\n# Jonah Coleman\n\nWashington Huskies\n\n* [Washington Huskies](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n* \\#1\n* Running Back\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 9\", 228 lbs\n* Birthplace\n  \n  Stockton, CA\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* CAR\n  \n  156\n  \n  Tied-78th\n* YDS\n  \n  758\n  \n  85th\n* TD\n  \n  15\n  \n  Tied-13th\n* AVG\n  \n  4\\.9\n  \n  145th"
+          ],
+          "title": "Jonah Coleman Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account specifies that his four college seasons were divided between Arizona and Washington, two at each school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/48779301/jonah-coleman-denver-broncos-fourth-round-running-back-pass-protection-impact",
+          "excerpts": [
+            "Enter [Jonah Coleman](https://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) , the Broncos' fourth-round pick last month. The 22-year-old's ball-carrying chops are well-established, as the 5-foot-8, 220-pounder averaged 5.5 yards per carry in four college seasons (two at Arizona, two at Washington) and scored a combined 25 rushing touchdowns for the Huskies the past two years.\n\nThat running prowess drew the Broncos in during predraft evaluations, but they also concluded that Coleman was the most proficient pass protector of this running back class."
+          ],
+          "title": "Jonah Coleman ready to make impact in the Broncos' backfield - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The account says Jonah Coleman led Arizona in 2023 with 871 rushing yards and received All-Pac-12 honorable mention.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/39363392/running-back-jonah-coleman-going-arizona-washington",
+          "excerpts": [
+            "227 overall in 2024) committed to the Huskies after entering the portal.\n\nColeman, who entered the portal on Jan. 15, was ESPN's fifth-best available player there, according to Tom VanHaaren's latest rankings.\n\nThe 5-foot-9, 225-pound Coleman played in every game last season, leading the Wildcats (10-3 in 2023) in rushing with 871 yards and was tied for the team lead in touchdowns with five.\n\nHe has two years of eligibility remaining and was an All-Pac-12 honorable mention selection for his work this past season.\n\nUnder Fisch, who was hired to replace Kalen DeBoer on Jan."
+          ],
+          "title": "Running back Jonah Coleman also going from Arizona to Washington - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game recap reports five rushing touchdowns and says the total tied Washington\u2019s modern program record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752821",
+          "excerpts": [
+            "# Jonah Coleman sets career high with 5 rushing touchdowns, Washington trounces UC Davis\n\n* * *\n\nBy AP\n\nSep 7, 2025, 03:31 am\n\nFacebook Facebook Messenger Twitter Email\n\nSEATTLE -- \u2014 [Jonah Coleman](http://www.espn.com/college-football/player/_/id/4702555/jonah-coleman) rushed for a career-high five touchdowns as Washington beat UC Davis 70-10 on Saturday night.\n\nColeman tied the modern program record set by Corey Dillon (1996 vs. UCLA) and Hugh McElhenny (1950 vs. Washington State) on a 5-yard rushing touchdown early in the third quarter. Ervin Daily set the school's all-time mark with seven rushing touchdowns against Whitman in 1919."
+          ],
+          "title": "Washington 70-10 UC Davis (Sep 6, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The statistics summary reports Jonah Coleman\u2019s college totals of 3,054 rushing yards and 34 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2026/story/_/id/48380198/2026-nfl-draft-college-football-coaches-sleeper-picks",
+          "excerpts": [
+            "## RUNNING BACK\n\n## [Jonah Coleman](https://www.espn.com/college-football/player/_/id/4702555/jonah-coleman) , [Washington Huskies](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n**Key numbers** : 756 rushing yards, 15 rushing TDs, 156 carries, 354 receiving yards, 31 receptions, two receiving TDs in 2025. Coleman, who played his first two college seasons at Arizona and followed coach Jedd Fisch to Washington, eclipsed 750 rushing yards in each of his final three seasons, while showing impressive versatility with 77 receptions. He averaged 5.5 yards per rush during his career and had 3,054 yards with 34 TDs."
+          ],
+          "title": "College coaches pick 2026 NFL draft sleepers - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

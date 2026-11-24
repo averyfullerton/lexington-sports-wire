@@ -1,0 +1,162 @@
+{
+  "run_id": "trun_415f3f698c1f435ba8637beef38dbe69",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 50.1,
+  "input": {
+    "player": "Devontez Walker",
+    "team": "Baltimore Ravens",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "North Carolina",
+    "fun_facts": [
+      "Devontez Walker is from Charlotte, North Carolina.",
+      "Devontez Walker\u2019s nickname is \u201cTez.\u201d",
+      "At Kent State, Devontez Walker caught 58 passes for 921 yards and 11 touchdowns in his final season there.",
+      "Devontez Walker caught three touchdown passes in a game for North Carolina."
+    ],
+    "draft": "2024, round 4, pick 113"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The college history lists North Carolina Central, Kent State, and then North Carolina, making North Carolina the last college. ESPN\u2019s profile also identifies North Carolina as his college.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/W/WalkDe01.htm",
+          "excerpts": [
+            "**College** : [North Carolina Central](https://www.pro-football-reference.com/schools/nocarolinacentral/) , [Kent St.](https://www.pro-football-reference.com/schools/kentst/) , [North Carolina](https://www.pro-football-reference.com/schools/nocarolina/) ( [College Stats](https://www.sports-reference.com/cfb/players/devontez-walker-1.html) )"
+          ],
+          "title": "Devontez Walker Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4696882/devontez-walker",
+          "excerpts": [
+            "Team [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n\nPosition Wide Receiver\n\nHT/WT 6' 1\", 198 lbs\n\nBirthdate 6/19/2001 (25)\n\nCollege [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels)\n\nDraft Info 2024: Rd 4, Pk 113 (BAL)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Charlotte, NC\n\n### Career History\n\n[Baltimore Ravens Baltimore Ravens 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/"
+          ],
+          "title": "Devontez Walker Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile gives Charlotte as Walker\u2019s birthplace; the player biography explicitly identifies \u201cTez\u201d as his nickname; the college-season report gives his Kent State receiving totals; and the North Carolina game report says he caught three touchdown passes.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4696882/devontez-walker",
+          "excerpts": [
+            "Team [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n\nPosition Wide Receiver\n\nHT/WT 6' 1\", 198 lbs\n\nBirthdate 6/19/2001 (25)\n\nCollege [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels)\n\nDraft Info 2024: Rd 4, Pk 113 (BAL)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Charlotte, NC\n\n### Career History\n\n[Baltimore Ravens Baltimore Ravens 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/"
+          ],
+          "title": "Devontez Walker Biography - ESPN"
+        },
+        {
+          "url": "https://www.pro-football-reference.com/players/W/WalkDe01.htm",
+          "excerpts": [
+            "Devontez Walker had 136 receiving yards last season and 157 receiving yards over his career.\n\n### What are Devontez Walker's nicknames?\n\nTez is a nickname for Devontez Walker.\n\n## More Walker Pages"
+          ],
+          "title": "Devontez Walker Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38156922/unc-devontez-walker-denied-ncaa-waiver-play-ailing-grandmother",
+          "excerpts": [
+            "NC Central took a chance on him in 2020, but both the fall and spring seasons were canceled because of the COVID-19 pandemic. He ended up at Kent State for two seasons -- the only spot where he has played in college. Last season, Walker had 58 catches for 921 yards and 11 touchdowns."
+          ],
+          "title": "UNC's Devontez Walker denied NCAA waiver to play near ailing grandmother - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38662086/tez-walker-leads-north-carolina-tar-heels-miami-hurricanes",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=38662086)\n\nOpen Extended Reactions\n\nCHAPEL HILL, N.C. -- [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels) coach Mack Brown said all week that [Tez Walker](https://www.espn.com/college-football/player/_/id/4696882/devontez-walker) would make an already dynamic Tar Heels offense even better.\n\nEveryone saw why on Saturday night. In his first game fully integrated into the offensive gameplan since the NCAA granted him immediate eligibility, Walker had three touchdown catches in a [41-31"
+          ],
+          "title": "Tez Walker leads North Carolina Tar Heels past Miami Hurricanes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft announcement identifies Walker as Baltimore\u2019s Round 4 selection with the 113th overall pick in the 2024 draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/ravens-select-devontez-walker-with-no-113-pick-in-2024-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Ravens select Devontez Walker with No. 113 pick in 2024 draft\n\nRepresenting the Baltimore Ravens as its International Fan of the Year, Tiffany Liu announces Baltimore's selection of North Carolina Tar Heels wide receiver Devontez Walker in Round 4 of the 2024 NFL Draft with the No. 113 overall pick (via a trade with the New York Jets).\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters"
+          ],
+          "title": "Baltimore Ravens select wide receiver Devontez Walker with No. 113 pick in 2024 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN profile lists Walker\u2019s birthplace as Charlotte, North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4696882/devontez-walker",
+          "excerpts": [
+            "Team [Baltimore Ravens](https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens)\n\nPosition Wide Receiver\n\nHT/WT 6' 1\", 198 lbs\n\nBirthdate 6/19/2001 (25)\n\nCollege [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels)\n\nDraft Info 2024: Rd 4, Pk 113 (BAL)\n\nStatus Active\n\nExperience 3rd Season\n\nBirthplace Charlotte, NC\n\n### Career History\n\n[Baltimore Ravens Baltimore Ravens 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/"
+          ],
+          "title": "Devontez Walker Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The biography directly states that \u201cTez\u201d is a nickname for Devontez Walker.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/W/WalkDe01.htm",
+          "excerpts": [
+            "Devontez Walker had 136 receiving yards last season and 157 receiving yards over his career.\n\n### What are Devontez Walker's nicknames?\n\nTez is a nickname for Devontez Walker.\n\n## More Walker Pages"
+          ],
+          "title": "Devontez Walker Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The report states that Walker\u2019s Kent State season included 58 catches, 921 yards, and 11 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38156922/unc-devontez-walker-denied-ncaa-waiver-play-ailing-grandmother",
+          "excerpts": [
+            "NC Central took a chance on him in 2020, but both the fall and spring seasons were canceled because of the COVID-19 pandemic. He ended up at Kent State for two seasons -- the only spot where he has played in college. Last season, Walker had 58 catches for 921 yards and 11 touchdowns."
+          ],
+          "title": "UNC's Devontez Walker denied NCAA waiver to play near ailing grandmother - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game report says Walker had three touchdown catches for North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38662086/tez-walker-leads-north-carolina-tar-heels-miami-hurricanes",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=38662086)\n\nOpen Extended Reactions\n\nCHAPEL HILL, N.C. -- [North Carolina](https://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels) coach Mack Brown said all week that [Tez Walker](https://www.espn.com/college-football/player/_/id/4696882/devontez-walker) would make an already dynamic Tar Heels offense even better.\n\nEveryone saw why on Saturday night. In his first game fully integrated into the offensive gameplan since the NCAA granted him immediate eligibility, Walker had three touchdown catches in a [41-31"
+          ],
+          "title": "Tez Walker leads North Carolina Tar Heels past Miami Hurricanes - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3"
+    ],
+    "off_allowlist_citations": []
+  }
+}

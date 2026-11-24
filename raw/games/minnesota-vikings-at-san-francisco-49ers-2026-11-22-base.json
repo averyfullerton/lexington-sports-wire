@@ -1,0 +1,527 @@
+{
+  "run_id": "trun_64eebd575c4945058e284b1f43528525",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 166.2,
+  "input": {
+    "away_team": "Minnesota Vikings",
+    "home_team": "San Francisco 49ers",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Minnesota Vikings",
+    "key_plays": [
+      "Q1 11:16: Brock Purdy 17-yard TD pass to George Kittle",
+      "Q1 1:13: Aaron Jones Sr. 11-yard rushing TD",
+      "Q2 2:09: Brock Purdy 4-yard TD pass to Mike Evans",
+      "Q2 1:59: Ji'Ayir Brown 18-yard interception-return TD",
+      "Q4 13:26: Christian McCaffrey 6-yard rushing TD"
+    ],
+    "away_score": 10,
+    "storyline": "San Francisco\u2019s 35-10 win in Mexico City moved the 49ers to 9-1, while Minnesota fell to 7-3. The 49ers scored 21 points in the second quarter, and Brock Purdy threw three touchdown passes.",
+    "top_performers": [
+      {
+        "stat_line": "21 of 26, 255 yards, 3 TD, 0 INT",
+        "team": "San Francisco 49ers",
+        "name": "Brock Purdy"
+      },
+      {
+        "stat_line": "6 catches, 109 yards, 1 TD",
+        "team": "San Francisco 49ers",
+        "name": "Mike Evans"
+      },
+      {
+        "stat_line": "3 catches, 34 yards, 2 TD",
+        "team": "San Francisco 49ers",
+        "name": "George Kittle"
+      },
+      {
+        "stat_line": "12 carries, 49 yards, 1 TD",
+        "team": "San Francisco 49ers",
+        "name": "Christian McCaffrey"
+      },
+      {
+        "stat_line": "8 carries, 30 yards, 1 TD",
+        "team": "Minnesota Vikings",
+        "name": "Aaron Jones"
+      }
+    ],
+    "home_record_after": "9-1",
+    "tough_day": [
+      {
+        "stat_line": "1-for-3 in red-zone efficiency (33.3%)",
+        "team": "Minnesota Vikings",
+        "name": "Offense"
+      }
+    ],
+    "away_record_after": "7-3",
+    "home_team": "San Francisco 49ers",
+    "home_score": 35
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The Week 11 schedule identifies Vikings 10, 49ers 35 as FINAL on November 22, establishing that this game was played to a final score.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "### International Game\n\n* NFL logo Mexico City\n  \n  [Vikings 10, 49ers 35, FINAL, Sunday, November 22nd](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n  \n  Final\n  \n  Minnesota Vikings Team Logo VIKINGS 7-3\n  \n  Hidden Score\n  \n  San Francisco 49ers Team Logo 49ERS 9-1\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n\nMNF football logo\n\n### Monday Night Football\n\n* [Bengals 20, Commanders 22, FINAL, Monday, November 23rd](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n  \n  Final"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The Week 11 schedule names the away team as the Minnesota Vikings.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "### International Game\n\n* NFL logo Mexico City\n  \n  [Vikings 10, 49ers 35, FINAL, Sunday, November 22nd](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n  \n  Final\n  \n  Minnesota Vikings Team Logo VIKINGS 7-3\n  \n  Hidden Score\n  \n  San Francisco 49ers Team Logo 49ERS 9-1\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n\nMNF football logo\n\n### Monday Night Football\n\n* [Bengals 20, Commanders 22, FINAL, Monday, November 23rd](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n  \n  Final"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring record gives the chronological scoring events, quarter and game clock: Kittle\u2019s opening touchdown, the Vikings\u2019 Jones rushing score, Evans\u2019 touchdown, Brown\u2019s interception return, and McCaffrey\u2019s fourth-quarter touchdown. The accompanying game coverage identifies the relevant players by full name where available.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers G.Kittle 17 yd. pass from B.Purdy (E.Pineiro kick) (7-72, 3:44) 0 7 1 11:16 Vikings A.Jones 11 yd. run (W.Reichard kick) (9-90, 4:48) 7 7 1 1:13 49ers G.Kittle 8 yd. pass from B.Purdy (E.Pineiro kick) (5-67, 2:00) 7 14 2 14:13 Vikings W.Reichard 48 yd. Field Goal (12-45, 7:25) 10 14 2 6:48 49ers M.Evans 4 yd. pass from B.Purdy (E.Pineiro kick) (8-65, 4:39) 10 21 2 2:09 49ers J.Brown 18 yd. interception return (E.Pineiro kick) 10 28 2 1:59 49ers C.McCaffrey 6 yd. run (E.Pineiro kick) (13-98, 7:04) 10 35 4 13:26"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "Scoring Plays All Plays Key Plays\n\n1st Quarter\n\nTouchdown\n\n11:16 - 1st\n\n0\n\nMIN\n\n7\n\nSF\n\nGeorge Kittle 17 Yd pass from Brock Purdy (Eddy Pineiro Kick)\n\n7 plays, 72 yards, 3:44\n\nTouchdown\n\n1:13 - 1st\n\n7\n\nMIN\n\n7\n\nSF"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873077",
+          "excerpts": [
+            "Ji'Ayir Brown's pick-six pads the 49ers' lead\n\n* 0:23\n\n[View More](https://www.espn.com/nfl/video/_/gameId/401873077 \"View More - MIN vs SF Videos\")\n\n## Game Information\n\n#### 1:20 AM, November 23, 2026\n\n#### Estadio Banorte\n\nMexico City, Mexico\n\n#### Attendance: 85,612\n\n#### Where to Watch\n\nNBC\n\n#### Officiating Crew\n\nDown Judge: Dana McKenzie"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Play-by-Play - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The Week 11 schedule lists the Vikings with 10 points in the final score.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "### International Game\n\n* NFL logo Mexico City\n  \n  [Vikings 10, 49ers 35, FINAL, Sunday, November 22nd](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n  \n  Final\n  \n  Minnesota Vikings Team Logo VIKINGS 7-3\n  \n  Hidden Score\n  \n  San Francisco 49ers Team Logo 49ERS 9-1\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n\nMNF football logo\n\n### Monday Night Football\n\n* [Bengals 20, Commanders 22, FINAL, Monday, November 23rd](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n  \n  Final"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The final-score coverage gives the teams\u2019 postgame records, while the recap and scoring record support Purdy\u2019s three touchdown passes and San Francisco\u2019s second-quarter scoring surge.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\n[Minnesota Vikings Vikings MIN](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\n7-3\n\n10\n\n7-3\n\nFinal\n\n| |1 |2 |3 |4 |T |",
+            "|[49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) SF |7 |21 |0 |7 |35 |\n\n[](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n[San Francisco 49ers 49ers SF](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n9-1\n\n35\n\n9-1\n\n# San Francisco 49ers vs Minnesota Vikings\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers)"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap?gameId=401873077",
+          "excerpts": [
+            "# Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City\n\n* * *\n\nBy AP\n\nNov 22, 2026, 11:26 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers G.Kittle 8 yd. pass from B.Purdy (E.Pineiro kick) (5-67, 2:00) 7 14 2 14:13 Vikings W.Reichard 48 yd. Field Goal (12-45, 7:25) 10 14 2 6:48 49ers M.Evans 4 yd. pass from B.Purdy (E.Pineiro kick) (8-65, 4:39) 10 21 2 2:09 49ers J.Brown 18 yd. interception return (E.Pineiro kick) 10 28 2 1:59 49ers C.McCaffrey 6 yd. run (E.Pineiro kick) (13-98, 7:04) 10 35 4 13:26"
+          ],
+          "title": "2026 Mexico City Game"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The box-score statistics support Purdy\u2019s passing line, Evans\u2019 receiving production, Kittle\u2019s two touchdown catches, McCaffrey\u2019s rushing touchdown, and Jones\u2019 rushing touchdown. Game coverage and the scoring record identify the players by name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873077",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- |\n|21/26 |255 |3 |0 |1-7 |\n|1/1 |5 |0 |0 |0-0 |\n|22/27 |253 |3 |0 |1-7 |\n\nVikings"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Jefferson 86 12.3 0 7 9 M.Evans 109 18.2 1 6 7 34 29",
+            "T.Felton 42 7.0 0 6 12 G.Kittle 34 11.3 2 3 3 **17** 16",
+            "J.Mason 38 3.5 0 11 16 C.McCaffrey 49 4.1 1 12 10 A.Jones 30 3.8 1 8 **11**"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "Scoring Plays All Plays Key Plays\n\n1st Quarter\n\nTouchdown\n\n11:16 - 1st\n\n0\n\nMIN\n\n7\n\nSF\n\nGeorge Kittle 17 Yd pass from Brock Purdy (Eddy Pineiro Kick)\n\n7 plays, 72 yards, 3:44\n\nTouchdown\n\n1:13 - 1st\n\n7\n\nMIN\n\n7\n\nSF"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final-score page lists the San Francisco 49ers at 9-1 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "|[49ers](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) SF |7 |21 |0 |7 |35 |\n\n[](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n[San Francisco 49ers 49ers SF](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers)\n\n9-1\n\n35\n\n9-1\n\n# San Francisco 49ers vs Minnesota Vikings\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers)"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official team statistics record Minnesota\u2019s red-zone efficiency as 1-for-3 (33.3%), supporting the unit\u2019s listed difficulty.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "1-3-33% 4-4-100%"
+          ],
+          "title": "2026 Mexico City Game"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final-score page lists the Minnesota Vikings at 7-3 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "[](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\n[Minnesota Vikings Vikings MIN](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings)\n\n7-3\n\n10\n\n7-3\n\nFinal\n\n| |1 |2 |3 |4 |T |"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 11 schedule names the San Francisco 49ers as the home team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "### International Game\n\n* NFL logo Mexico City\n  \n  [Vikings 10, 49ers 35, FINAL, Sunday, November 22nd](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n  \n  Final\n  \n  Minnesota Vikings Team Logo VIKINGS 7-3\n  \n  Hidden Score\n  \n  San Francisco 49ers Team Logo 49ERS 9-1\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n\nMNF football logo\n\n### Monday Night Football\n\n* [Bengals 20, Commanders 22, FINAL, Monday, November 23rd](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n  \n  Final"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The Week 11 schedule lists the 49ers with 35 points in the final score.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-11",
+          "excerpts": [
+            "### International Game\n\n* NFL logo Mexico City\n  \n  [Vikings 10, 49ers 35, FINAL, Sunday, November 22nd](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n  \n  Final\n  \n  Minnesota Vikings Team Logo VIKINGS 7-3\n  \n  Hidden Score\n  \n  San Francisco 49ers Team Logo 49ERS 9-1\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-49ers-2026-reg-11)\n\nMNF football logo\n\n### Monday Night Football\n\n* [Bengals 20, Commanders 22, FINAL, Monday, November 23rd](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n  \n  Final"
+          ],
+          "title": "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring record lists the first-quarter 17-yard touchdown pass at 11:16; the game score details identify George Kittle and Brock Purdy.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers G.Kittle 17 yd. pass from B.Purdy (E.Pineiro kick) (7-72, 3:44) 0 7 1 11:16"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "Scoring Plays All Plays Key Plays\n\n1st Quarter\n\nTouchdown\n\n11:16 - 1st\n\n0\n\nMIN\n\n7\n\nSF\n\nGeorge Kittle 17 Yd pass from Brock Purdy (Eddy Pineiro Kick)\n\n7 plays, 72 yards, 3:44\n\nTouchdown\n\n1:13 - 1st\n\n7\n\nMIN\n\n7\n\nSF"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring record lists the Vikings\u2019 11-yard rushing touchdown at 1:13 of the first quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Vikings A.Jones 11 yd. run (W.Reichard kick) (9-90, 4:48) 7 7 1 1:13"
+          ],
+          "title": "2026 Mexico City Game"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring record gives the second-quarter 4-yard touchdown pass at 2:09, and game coverage identifies Mike Evans and Brock Purdy by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers M.Evans 4 yd. pass from B.Purdy (E.Pineiro kick) (8-65, 4:39) 10 21 2 2:09"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring record gives the 18-yard interception return touchdown at 1:59 of the second quarter; game coverage identifies the scorer as Ji'Ayir Brown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers J.Brown 18 yd. interception return (E.Pineiro kick) 10 28 2 1:59"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873077",
+          "excerpts": [
+            "Ji'Ayir Brown's pick-six pads the 49ers' lead\n\n* 0:23\n\n[View More](https://www.espn.com/nfl/video/_/gameId/401873077 \"View More - MIN vs SF Videos\")\n\n## Game Information\n\n#### 1:20 AM, November 23, 2026\n\n#### Estadio Banorte\n\nMexico City, Mexico\n\n#### Attendance: 85,612\n\n#### Where to Watch\n\nNBC\n\n#### Officiating Crew\n\nDown Judge: Dana McKenzie"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Play-by-Play - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring record lists McCaffrey\u2019s 6-yard rushing touchdown at 13:26 of the fourth quarter, and game coverage gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "49ers C.McCaffrey 6 yd. run (E.Pineiro kick) (13-98, 7:04) 10 35 4 13:26"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The passing box score lists 21 completions on 26 attempts, 255 yards, three touchdowns and no interceptions; coverage identifies Brock Purdy by full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873077",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- |\n|21/26 |255 |3 |0 |1-7 |\n|1/1 |5 |0 |0 |0-0 |\n|22/27 |253 |3 |0 |1-7 |\n\nVikings"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official receiving statistics list Evans with 109 yards, six catches and one touchdown; the game highlights identify Mike Evans by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Jefferson 86 12.3 0 7 9 M.Evans 109 18.2 1 6 7 34 29"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving statistics list Kittle with 34 yards, three catches and two touchdowns; the scoring information identifies George Kittle by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.Felton 42 7.0 0 6 12 G.Kittle 34 11.3 2 3 3 **17** 16"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873077/vikings-49ers",
+          "excerpts": [
+            "Scoring Plays All Plays Key Plays\n\n1st Quarter\n\nTouchdown\n\n11:16 - 1st\n\n0\n\nMIN\n\n7\n\nSF\n\nGeorge Kittle 17 Yd pass from Brock Purdy (Eddy Pineiro Kick)\n\n7 plays, 72 yards, 3:44\n\nTouchdown\n\n1:13 - 1st\n\n7\n\nMIN\n\n7\n\nSF"
+          ],
+          "title": "49ers 35-10 Vikings (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The rushing statistics list McCaffrey with 12 carries, 49 yards and one touchdown; game coverage identifies Christian McCaffrey by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Mason 38 3.5 0 11 16 C.McCaffrey 49 4.1 1 12 10"
+          ],
+          "title": "2026 Mexico City Game"
+        },
+        {
+          "url": "https://www.nfl.com/games/vikings-at-49ers-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nMinnesota Vikings\n\nMIN\n\nMinnesota Vikings\n\nVIKINGS\n\nMinnesota Vikings\n\nMINNESOTA\n\nVIKINGS\n\nHidden Score\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n5:55\n\nGAME HIGHLIGHT\n\nVikings vs. 49ers highlights | Week 11 5:00\n\nTEAM HIGHLIGHT\n\n49ers' top plays vs. Vikings | Week 11 1:20\n\nPLAYER HIGHLIGHT\n\nMike Evans' best plays from 109-yard game vs. Vikings | Week 11 1:28\n\nPLAYER HIGHLIGHT\n\nBrock Purdy's best plays from 255-yard, 3-TD game vs. Vikings | Week 11 0:20\n\nIN GAME HIGHLIGHT\n\nMyles Price's impressive extending catch results in 22-yard gain 0:20\n\nIN GAME HIGHLIGHT\n\nChristian McCaffrey\u2019s 14th TD of 2026 boosts 49ers\u2019 lead to 34-10 against Vikings 0:17\n\nIN GAME HIGHLIGHT\n\nJump-pass alert! Brock Purdy goes airborne for 7-yard completion to Juszczyk in Mexico City 0:21\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Minnesota Vikings at San Francisco 49ers 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The official rushing statistics and first-quarter scoring entry show Jones had 30 yards on eight carries and scored the Vikings\u2019 touchdown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "A.Jones 30 3.8 1 8 **11**",
+            "Vikings A.Jones 11 yd. run (W.Reichard kick) (9-90, 4:48) 7 7 1 1:13"
+          ],
+          "title": "2026 Mexico City Game"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official team statistics show Minnesota converted one of three red-zone opportunities, a 33.3% rate.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795434527/gamecenter/abbf2213-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "1-3-33% 4-4-100%"
+          ],
+          "title": "2026 Mexico City Game"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.1",
+      "storyline",
+      "top_performers",
+      "top_performers.4"
+    ],
+    "off_allowlist_citations": []
+  },
+  "auto_corrections": [
+    {
+      "from": "A. Jones",
+      "to": "Aaron Jones Sr.",
+      "source": "ESPN box score"
+    }
+  ],
+  "recap": {
+    "paragraph": "In Mexico City, the 49ers had a shot at a 9-1 record. Brock Purdy zipped a 17-yard touchdown pass to George Kittle. Aaron Jones Sr. ran for a Vikings touchdown. Then the 49ers surged for 21 points in the second quarter. Purdy hit Mike Evans for a score, and Ji'Ayir Brown raced back a pick-six! Christian McCaffrey ran in another touchdown as San Francisco won 35-10. The 49ers reached 9-1, while the Vikings fell to 7-3.",
+    "big_words": [
+      {
+        "word": "surged",
+        "definition": "Moved ahead with a burst of energy.",
+        "example": "Zoe surged ahead, stacking blocks to finish her tall tower."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1228,
+        "output": 255
+      }
+    ]
+  }
+}

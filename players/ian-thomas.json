@@ -1,0 +1,114 @@
+{
+  "name": "Ian Thomas",
+  "espn_id": "4045305",
+  "team": "Las Vegas Raiders",
+  "team_abbr": "LV",
+  "number": "80",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Indiana",
+  "experience": 9,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Ian played basketball in college before going back to football.",
+    "Ian caught 25 passes in his second season at Indiana.",
+    "Ian caught 36 passes and scored two touchdowns in his first NFL season."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2018",
+        "CAR",
+        "16",
+        "36",
+        "333",
+        "2",
+        "31"
+      ],
+      [
+        "2019",
+        "CAR",
+        "16",
+        "16",
+        "136",
+        "1",
+        "19"
+      ],
+      [
+        "2020",
+        "CAR",
+        "16",
+        "20",
+        "145",
+        "1",
+        "21"
+      ],
+      [
+        "2021",
+        "CAR",
+        "17",
+        "18",
+        "188",
+        "0",
+        "41"
+      ],
+      [
+        "2022",
+        "CAR",
+        "17",
+        "21",
+        "197",
+        "0",
+        "50"
+      ],
+      [
+        "2023",
+        "CAR",
+        "12",
+        "5",
+        "56",
+        "0",
+        "28"
+      ],
+      [
+        "2024",
+        "CAR",
+        "5",
+        "3",
+        "7",
+        "0",
+        "3"
+      ],
+      [
+        "2025",
+        "LV",
+        "15",
+        "13",
+        "114",
+        "0",
+        "20"
+      ],
+      [
+        "2026",
+        "LV",
+        "11",
+        "7",
+        "92",
+        "2",
+        "27"
+      ]
+    ]
+  }
+}

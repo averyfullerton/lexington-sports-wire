@@ -1,0 +1,153 @@
+{
+  "run_id": "trun_415f3f698c1f435b83bb7e95f0ea4650",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 122.4,
+  "input": {
+    "player": "Ladd McConkey",
+    "team": "Los Angeles Chargers",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Georgia",
+    "fun_facts": [
+      "Ladd McConkey grew up in Chatsworth, Georgia. As a high-school senior, he piled up 3,051 all-purpose yards while playing quarterback, running back, receiver, and return specialist.",
+      "Ladd McConkey also played basketball: his high-school team went 16\u20130 in its region and finished 20\u20135 overall during his senior year. He also competed in track and field.",
+      "Ladd McConkey helped Georgia win the 2022 national championship. In the title game, he caught five passes for 88 yards and two touchdowns.",
+      "Ladd McConkey won the 2023 Wuerffel Trophy, which recognizes a player who combines community service with athletic and academic achievement.",
+      "Ladd McConkey set Chargers rookie records with 82 receptions and 1,149 receiving yards."
+    ],
+    "draft": "2024, round 2, pick 34"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Chargers' release identifies Ladd McConkey as a Georgia wide receiver, supporting Georgia as his college.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/vjh8m3u4890nseduuvxd",
+          "excerpts": [
+            "**FOR IMMEDIATE RELEASE Friday, April 26, 2024**\n\n## **Los Angeles Chargers Select McConkey and Colson on Day 2 of NFL Draft**\n\n### The Los Angeles Chargers continued the 2024 NFL Draft with two selections on Friday \u2014 Georgia wide receiver **Ladd McConkey** (34th overall) and Michigan linebacker **Junior Colson** (69th overall). The Bolts moved up from No. 37 overall in a trade with the New England Patriots to select McConkey, acquiring the 34th overall choice used to select McConkey and a fifth-round pick (No. 137) in exchange for the 37th overall pick and a fourth- round selection (No. 110). **McConkey** was a key contributor to Georgia\u2019s run to win a College Football Playoff National Championship in 2022, earning second-team All-Southeastern Conference honors and recording career highs in receptions (58), receiving yards (762) and touchdown grabs (seven). In the Bulldogs\u2019 victory in the National Championship game, McConkey hauled in five catches for 88 yards (17.6 avg.)"
+          ],
+          "title": "Los Angeles Chargers Select McConkey and Colson on Day 2 of NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The Chargers biography supports the hometown, high-school roles and sports, championship-game performance, and Wuerffel Trophy facts. The Chargers' season review directly states the rookie reception and yardage records.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "HIGH SCHOOL & PERSONAL: Attended North Murray High School in Chatsworth, Ga., where he was named First-Team All- State Class 3A as a senior quarterback in 2019 after leading the Mountaineers to the Class 3A quarterfinals with an 8-0 and title in Region 6-3A...Racked up 3,051 all-purpose yards while playing quarterback, running back, receiver and return specialist, adding four interceptions as a defensive back, as a senior in 2019...Also played basketball, where he helped lead the Mountaineers to an undefeated 16-0 Region 6-3A title and a 20-5 overall record as a senior, and competed in track & field.",
+            "Oregon...had a 37-yard catch, as well as two punt returns for 32 yards, in win over Samford...Had four catches for 52 yards in win at South Carolina...Career-high six receptions in win over Kent State...Five catches for 47 yards and a career-long 38-yard punt return in win over Auburn...Team-high five catches for 94 yards, including a 37-yarder for a TD, in win over Tennessee...Five catches for 71 yards and a TD in win at Mississippi State...Also scored on a 70-yard run vs. the Bulldogs...Had two catches in win over Ohio State in the CFP Semifinal Chick-fil-A Peach Bowl...Had one carry for 14 yards and five receptions for combined 88 yards with two touchdowns in CFP National Championship Game win over TCU... **Accolades:** Second-Team All-SEC.",
+            "2023: Wuerffel Trophy winner, honoring player \"who best combines exemplary community service with athletic and academic achievement\"...Named to Allstate AFCA Good Works Team...Named National Football Foundation National Scholar- Athlete...Finalist for William V."
+          ],
+          "title": "Ladd McConkey Bio"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/cnznhfgqqwp7ong31lbh",
+          "excerpts": [
+            "### mcconkey sets team rookie records\n\nIn his rookie season, **WR Ladd McConkey** paced the team in receptions (82) and receiving yards (1,149), while ranking second in touchdown grabs (seven)."
+          ],
+          "title": "Los Angeles Chargers 2024 Season In Review"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Chargers draft biography identifies the 2024 NFL Draft and lists McConkey as a second-round selection, overall pick 34.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "L O S A N G E L E S C H A R G E R S 2 0 2 4 N F L D R A F T\n\n### career accolades\n\n\u25ba _2023 Wuerffel Trophy Winner_\n\n\u25ba _2022 Second-Team All-SEC_\n\n\u25ba _2021 Freshman All-SEC_\n\n2023: Wuerffel Trophy winner, honoring player \"who best combines exemplary community service with athletic and academic achievement\"...Named to Allstate AFCA Good Works Team...Named National Football Foundation National Scholar- Athlete...Finalist for William V. Campbell Trophy and Wuerffel Trophy...Played in nine contests, starting vs.",
+            "Reid Parker Director of Athletics Honor Roll for Fall 2020.\n\nHIGH SCHOOL & PERSONAL: Attended North Murray High School in Chatsworth, Ga., where he was named First-Team All- State Class 3A as a senior quarterback in 2019 after leading the",
+            "# ladd mcconkey\n\n## **WIDE RECEIVER | GEORGIA** 5-11 | 186 lbs | CHATSWORTH, GA.\n\n# round: 2 overall: 34\n\n\u2014 Receiving \u2014 \u2014 Rushing \u2014 \u2014 Scrimmage \u2014"
+          ],
+          "title": "Ladd McConkey Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography gives Chatsworth, Georgia, as his high-school location and states that he recorded 3,051 all-purpose yards as a senior while playing quarterback, running back, receiver, and return specialist.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "HIGH SCHOOL & PERSONAL: Attended North Murray High School in Chatsworth, Ga., where he was named First-Team All- State Class 3A as a senior quarterback in 2019 after leading the Mountaineers to the Class 3A quarterfinals with an 8-0 and title in Region 6-3A...Racked up 3,051 all-purpose yards while playing quarterback, running back, receiver and return specialist, adding four interceptions as a defensive back, as a senior in 2019...Also played basketball, where he helped lead the Mountaineers to an undefeated 16-0 Region 6-3A title and a 20-5 overall record as a senior, and competed in track & field."
+          ],
+          "title": "Ladd McConkey Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The biography says McConkey played basketball, describes his team's undefeated 16\u20130 regional season and 20\u20135 overall record, and notes that he competed in track and field.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "HIGH SCHOOL & PERSONAL: Attended North Murray High School in Chatsworth, Ga., where he was named First-Team All- State Class 3A as a senior quarterback in 2019 after leading the Mountaineers to the Class 3A quarterfinals with an 8-0 and title in Region 6-3A...Racked up 3,051 all-purpose yards while playing quarterback, running back, receiver and return specialist, adding four interceptions as a defensive back, as a senior in 2019...Also played basketball, where he helped lead the Mountaineers to an undefeated 16-0 Region 6-3A title and a 20-5 overall record as a senior, and competed in track & field."
+          ],
+          "title": "Ladd McConkey Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Georgia season biography says the team won the CFP National Championship game against TCU and that McConkey had five receptions for 88 yards and two touchdowns in the game.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "Oregon...had a 37-yard catch, as well as two punt returns for 32 yards, in win over Samford...Had four catches for 52 yards in win at South Carolina...Career-high six receptions in win over Kent State...Five catches for 47 yards and a career-long 38-yard punt return in win over Auburn...Team-high five catches for 94 yards, including a 37-yarder for a TD, in win over Tennessee...Five catches for 71 yards and a TD in win at Mississippi State...Also scored on a 70-yard run vs. the Bulldogs...Had two catches in win over Ohio State in the CFP Semifinal Chick-fil-A Peach Bowl...Had one carry for 14 yards and five receptions for combined 88 yards with two touchdowns in CFP National Championship Game win over TCU... **Accolades:** Second-Team All-SEC."
+          ],
+          "title": "Ladd McConkey Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The biography names McConkey as the 2023 Wuerffel Trophy winner and describes the award as honoring community service alongside athletic and academic achievement.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/thtmarqeq5lqv3t6zqht",
+          "excerpts": [
+            "2023: Wuerffel Trophy winner, honoring player \"who best combines exemplary community service with athletic and academic achievement\"...Named to Allstate AFCA Good Works Team...Named National Football Foundation National Scholar- Athlete...Finalist for William V."
+          ],
+          "title": "Ladd McConkey Bio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Chargers' season review states that McConkey set franchise rookie records with 82 receptions and 1,149 receiving yards.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/cnznhfgqqwp7ong31lbh",
+          "excerpts": [
+            "### mcconkey sets team rookie records\n\nIn his rookie season, **WR Ladd McConkey** paced the team in receptions (82) and receiving yards (1,149), while ranking second in touchdown grabs (seven)."
+          ],
+          "title": "Los Angeles Chargers 2024 Season In Review"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

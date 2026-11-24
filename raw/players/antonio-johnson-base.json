@@ -1,0 +1,177 @@
+{
+  "run_id": "trun_415f3f698c1f435bb9ec82085b840d06",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 187.1,
+  "input": {
+    "player": "Antonio Johnson",
+    "team": "Jacksonville Jaguars",
+    "position": "Safety",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas A&M",
+    "fun_facts": [
+      "Antonio Johnson was born in East St. Louis, Illinois, and attended East St. Louis High School.",
+      "As a true freshman in 2020, Antonio Johnson played seven games and started at nickel back in Texas A&M\u2019s Orange Bowl win over North Carolina.",
+      "In three seasons at Texas A&M, Antonio Johnson made 164 tackles, including 14 tackles for loss, and recorded one interception and seven passes defensed.",
+      "Antonio Johnson earned second-team All-SEC honors in 2022 after recording 71 tackles and five tackles for loss.",
+      "On a Jaguars podcast, Antonio Johnson chatted about a recent Harry Potter binge."
+    ],
+    "draft": "2023, round 5, pick 160"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars\u2019 draft announcement identifies Antonio Johnson as a safety from Texas A&M University, directly supporting the college listed.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-5-pick-160-overall-johnson-is-the-selection",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** Another selection, another defensive player.\n\nAntonio Johnson, a safety from Texas A&M University, on Saturday was selected by the Jaguars in Round 5 of the 2023 NFL Draft \u2013 the No. 160 overall selection.\n\nJohnson (6-feet-2, 198 pounds), who played three seasons at Texas A&M, registered 164 career tackles with 96 solos. He registered 14 tackles for loss, an interception and seven passes defensed in college.\n\nJohnson registered 71 tackles with five tackles for loss in 2022. He was a second-team All-Southeastern Conference selection this past season.\n\nJohnson became the second Texas A&M player selected by the Jaguars in the NFL Draft, the first since offensive tackle Luke Joeckel (Round 1, 2013)."
+          ],
+          "title": "Jaguars Select Antonio Johnson with Pick 160 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Johnson\u2019s birthplace; Jaguars sources identify his high school, freshman Orange Bowl role, college statistics and 2022 All-SEC recognition; a Jaguars podcast description mentions his Harry Potter binge.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429168/antonio-johnson",
+          "excerpts": [
+            "Team [Jacksonville Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nPosition Safety\n\nHT/WT 6' 2\", 198 lbs\n\nBirthdate 10/29/2001 (25)\n\nCollege [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\nDraft Info 2023: Rd 5, Pk 160 (JAX)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace East Saint Louis, IL"
+          ],
+          "title": "Antonio Johnson Biography - ESPN"
+        },
+        {
+          "url": "https://www.jaguars.com/news/getting-to-know-jaguars-rookie-safety-antonio-johnson",
+          "excerpts": [
+            "Senior Correspondent Brian Sexton tracked him down after an especially long day on the practice field and talked about his rise from East St. Louis High School in Illinois to the NFL._"
+          ],
+          "title": "Getting to Know Jaguars Rookie Safety Antonio Johnson"
+        },
+        {
+          "url": "https://www.jaguars.com/draft/2023/",
+          "excerpts": [
+            "Pick 25 (160)\n\n### [Antonio Johnson](https://www.jaguars.com/team/players-roster/antonio-johnson/)\n\nSAF Texas A&M\n\n6-1 198 LBS\n\nFrom Giants\n\nJohnson appeared in seven games for the Aggies as a true freshman in 2020 (14 tackles, one pass breakup), starting at nickel back for the team's Orange Bowl win over North Carolina."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        },
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-5-pick-160-overall-johnson-is-the-selection",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** Another selection, another defensive player.\n\nAntonio Johnson, a safety from Texas A&M University, on Saturday was selected by the Jaguars in Round 5 of the 2023 NFL Draft \u2013 the No. 160 overall selection.\n\nJohnson (6-feet-2, 198 pounds), who played three seasons at Texas A&M, registered 164 career tackles with 96 solos. He registered 14 tackles for loss, an interception and seven passes defensed in college.\n\nJohnson registered 71 tackles with five tackles for loss in 2022. He was a second-team All-Southeastern Conference selection this past season.\n\nJohnson became the second Texas A&M player selected by the Jaguars in the NFL Draft, the first since offensive tackle Luke Joeckel (Round 1, 2013)."
+          ],
+          "title": "Jaguars Select Antonio Johnson with Pick 160 in 2023 NFL Draft"
+        },
+        {
+          "url": "http://www.jaguars.com/video/k000234-antonio-johnson-discusses-his-development-in-year-3-the-o-zone-podcast",
+          "excerpts": [
+            "Advertising\n\n# Jaguars Video | Jacksonville Jaguars - jaguars.com\n\n## Latest and Greatest\n\n# Antonio Johnson Discusses His Development in Year 3 | The O-Zone Podcast\n\nJaguars Safety Antonio Johnson joins Senior Writer John Oehser for the O-Zone Podcast as he prepares for Week 12 against the Cardinals. Johnson talks how his mindset and skills have improved during his time in the NFL, communicating on the defensive side of the ball and how Eric Murray has helped his development. Later, he talks about his recent Harry Potter binge and answers some other fun questions. All this and more on The O-Zone Podcast."
+          ],
+          "title": "Antonio Johnson Discusses His Development in Year 3 | The O-Zone Podcast"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars\u2019 draft announcement states that Johnson was selected in Round 5 as the No. 160 overall pick in the 2023 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-5-pick-160-overall-johnson-is-the-selection",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** Another selection, another defensive player.\n\nAntonio Johnson, a safety from Texas A&M University, on Saturday was selected by the Jaguars in Round 5 of the 2023 NFL Draft \u2013 the No. 160 overall selection.\n\nJohnson (6-feet-2, 198 pounds), who played three seasons at Texas A&M, registered 164 career tackles with 96 solos. He registered 14 tackles for loss, an interception and seven passes defensed in college.\n\nJohnson registered 71 tackles with five tackles for loss in 2022. He was a second-team All-Southeastern Conference selection this past season.\n\nJohnson became the second Texas A&M player selected by the Jaguars in the NFL Draft, the first since offensive tackle Luke Joeckel (Round 1, 2013)."
+          ],
+          "title": "Jaguars Select Antonio Johnson with Pick 160 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "ESPN lists East Saint Louis, Illinois as Johnson\u2019s birthplace, and the Jaguars article traces his path from East St. Louis High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4429168/antonio-johnson",
+          "excerpts": [
+            "Team [Jacksonville Jaguars](https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars)\n\nPosition Safety\n\nHT/WT 6' 2\", 198 lbs\n\nBirthdate 10/29/2001 (25)\n\nCollege [Texas A&M](https://www.espn.com/college-football/team/_/id/245/texas-am-aggies)\n\nDraft Info 2023: Rd 5, Pk 160 (JAX)\n\nStatus Active\n\nExperience 4th Season\n\nBirthplace East Saint Louis, IL"
+          ],
+          "title": "Antonio Johnson Biography - ESPN"
+        },
+        {
+          "url": "https://www.jaguars.com/news/getting-to-know-jaguars-rookie-safety-antonio-johnson",
+          "excerpts": [
+            "Senior Correspondent Brian Sexton tracked him down after an especially long day on the practice field and talked about his rise from East St. Louis High School in Illinois to the NFL._"
+          ],
+          "title": "Getting to Know Jaguars Rookie Safety Antonio Johnson"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Jaguars\u2019 draft page says Johnson appeared in seven games as a 2020 true freshman and started at nickel back in Texas A&M\u2019s Orange Bowl win over North Carolina.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/draft/2023/",
+          "excerpts": [
+            "Pick 25 (160)\n\n### [Antonio Johnson](https://www.jaguars.com/team/players-roster/antonio-johnson/)\n\nSAF Texas A&M\n\n6-1 198 LBS\n\nFrom Giants\n\nJohnson appeared in seven games for the Aggies as a true freshman in 2020 (14 tackles, one pass breakup), starting at nickel back for the team's Orange Bowl win over North Carolina."
+          ],
+          "title": "Jacksonville Jaguars: NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Jaguars report that Johnson played three seasons at Texas A&M and recorded 164 tackles, 14 tackles for loss, one interception and seven passes defensed.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-5-pick-160-overall-johnson-is-the-selection",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** Another selection, another defensive player.\n\nAntonio Johnson, a safety from Texas A&M University, on Saturday was selected by the Jaguars in Round 5 of the 2023 NFL Draft \u2013 the No. 160 overall selection.\n\nJohnson (6-feet-2, 198 pounds), who played three seasons at Texas A&M, registered 164 career tackles with 96 solos. He registered 14 tackles for loss, an interception and seven passes defensed in college.\n\nJohnson registered 71 tackles with five tackles for loss in 2022. He was a second-team All-Southeastern Conference selection this past season.\n\nJohnson became the second Texas A&M player selected by the Jaguars in the NFL Draft, the first since offensive tackle Luke Joeckel (Round 1, 2013)."
+          ],
+          "title": "Jaguars Select Antonio Johnson with Pick 160 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Jaguars report that Johnson recorded 71 tackles and five tackles for loss in 2022 and was a second-team All-Southeastern Conference selection that season.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/nfl-draft-round-5-pick-160-overall-johnson-is-the-selection",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** Another selection, another defensive player.\n\nAntonio Johnson, a safety from Texas A&M University, on Saturday was selected by the Jaguars in Round 5 of the 2023 NFL Draft \u2013 the No. 160 overall selection.\n\nJohnson (6-feet-2, 198 pounds), who played three seasons at Texas A&M, registered 164 career tackles with 96 solos. He registered 14 tackles for loss, an interception and seven passes defensed in college.\n\nJohnson registered 71 tackles with five tackles for loss in 2022. He was a second-team All-Southeastern Conference selection this past season.\n\nJohnson became the second Texas A&M player selected by the Jaguars in the NFL Draft, the first since offensive tackle Luke Joeckel (Round 1, 2013)."
+          ],
+          "title": "Jaguars Select Antonio Johnson with Pick 160 in 2023 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Jaguars\u2019 podcast description says Johnson discussed his recent Harry Potter binge.",
+      "citations": [
+        {
+          "url": "http://www.jaguars.com/video/k000234-antonio-johnson-discusses-his-development-in-year-3-the-o-zone-podcast",
+          "excerpts": [
+            "Advertising\n\n# Jaguars Video | Jacksonville Jaguars - jaguars.com\n\n## Latest and Greatest\n\n# Antonio Johnson Discusses His Development in Year 3 | The O-Zone Podcast\n\nJaguars Safety Antonio Johnson joins Senior Writer John Oehser for the O-Zone Podcast as he prepares for Week 12 against the Cardinals. Johnson talks how his mindset and skills have improved during his time in the NFL, communicating on the defensive side of the ball and how Eric Murray has helped his development. Later, he talks about his recent Harry Potter binge and answers some other fun questions. All this and more on The O-Zone Podcast."
+          ],
+          "title": "Antonio Johnson Discusses His Development in Year 3 | The O-Zone Podcast"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

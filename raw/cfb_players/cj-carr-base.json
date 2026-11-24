@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_1d63cf7e4268416eb33d8b2bb339ef0f",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 41.8,
+  "input": {
+    "player": "CJ Carr",
+    "team": "Notre Dame Fighting Irish",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "CJ Carr threw for 8,135 yards and 78 touchdowns during his final three seasons as Saline's starter.",
+      "In a 2026 game against Rice, he threw four touchdown passes and completed 16 of 20 passes for 253 yards.",
+      "Against Purdue in 2026, he threw three touchdown passes, ran for another score, and passed for 237 yards.",
+      "Against top-ranked Miami in 2026, he threw for 319 yards and three touchdowns in Notre Dame's 31-24 win."
+    ],
+    "high_school": "Saline High School",
+    "hometown": "Saline, Michigan"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN reporting gives Carr's final three-season high-school passing totals, his four-touchdown passing performance against Rice, his three passing touchdowns plus a rushing score against Purdue, and his 319-yard, three-touchdown performance in Notre Dame's win over top-ranked Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48552253/notre-dame-fighting-irish-cj-carr-2026-cfp-nfl-draft",
+          "excerpts": [
+            "Carr had 8,135 passing yards and 78 touchdowns during his final three seasons as Saline's starter."
+          ],
+          "title": "Notre Dame heads into 2026 with QB it hasn't had in a long time - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401859184",
+          "excerpts": [
+            "* [Play-by-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401859184)\n\n* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401859184)\n\n# C.J. Carr throws for 4 touchdowns as No. 3 Notre Dame routs visiting Rice 52-0\n\nBy AP\n\nUpdated: Sep 13, 2026, 01:49 am\n\nFacebook Facebook Messenger Twitter Email\n\nSOUTH BEND, Ind. -- \u2014 C.J. Carr threw for four touchdowns and No. 3 Notre Dame overpowered visiting Rice early on the way to a 52-0 victory on Saturday.\n\nCarr connected on 16 of 20 passes for 253 yards before being replaced by [Noah Grubbs](http://www.espn.com/college-football/player/_/id/5159115/noah-grubbs) in the third quarter.\n\nNotre Dame outgained Rice 478-128 in total yards.\n\nThe Owls suffered their worst loss since a 58-0 loss to Texas in 2021."
+          ],
+          "title": "Notre Dame 52-0 Rice (Sep 12, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858467",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858467)\n\n# CJ Carr throws for 3 TDs, runs for another to help No. 3 Notre Dame rout rival Purdue 49-10\n\nBy AP\n\nUpdated: Sep 26, 2026, 10:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nWEST LAFAYETTE, Ind. -- \u2014 [CJ Carr](http://www.espn.com/college-football/player/_/id/5079369/cj-carr) threw three touchdown passes and ran for another score, linebacker [Drayk Bowen](http://www.espn.com/college-football/player/_/id/4870622/drayk-bowen) scored his first career TD on a 15-yard fumble return and No. 3 Notre Dame beat Purdue 49-10 on Saturday.\n\n[Carr was 14 of 22 for 237 yards](https://apnews.com/article/notre-dame-fighting-irish-bffde57a56bb3fb33554be977e0f6b6a) and threw his first interception of the season. It's the second straight week"
+          ],
+          "title": "Notre Dame 49-10 Purdue (Sep 26, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50416773/notre-dame-fends-rally-dethrone-top-ranked-miami",
+          "excerpts": [
+            "SOUTH BEND, Ind. -- [CJ Carr](https://www.espn.com/college-football/player/_/id/5079369/cj-carr) threw for 319 yards and three touchdowns, and No. 11 Notre Dame avenged its most damaging loss from last season by running out to a 21-point lead and holding on to beat No. 1 Miami 31-24 on Saturday night.\n\n[Micah Gilbert](https://www.espn.com/college-football/player/_/id/5079475/micah-gilbert) caught two of those scoring passes, [Jordan"
+          ],
+          "title": "Notre Dame fends off rally to dethrone top-ranked Miami - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The cited ESPN report identifies Carr as a quarterback from Saline High School in Saline, Michigan.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/34065781/2024-qb-cj-carr-grandson-legendary-michigan-football-coach-lloyd-carr-commits-notre-dame",
+          "excerpts": [
+            "He's a 6-foot-3, 195-pound quarterback from Saline High School in Saline, Michigan, near Ann Arbor, and he will play his college football in South Bend, Indiana."
+          ],
+          "title": "2024 QB C.J. Carr, grandson of legendary Michigan football coach Lloyd Carr, commits to Notre Dame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The same ESPN report explicitly names Saline, Michigan, as the location from which Carr came.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/34065781/2024-qb-cj-carr-grandson-legendary-michigan-football-coach-lloyd-carr-commits-notre-dame",
+          "excerpts": [
+            "He's a 6-foot-3, 195-pound quarterback from Saline High School in Saline, Michigan, near Ann Arbor, and he will play his college football in South Bend, Indiana."
+          ],
+          "title": "2024 QB C.J. Carr, grandson of legendary Michigan football coach Lloyd Carr, commits to Notre Dame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "This ESPN report directly gives Carr's passing-yard and touchdown totals across his final three seasons as Saline's starter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48552253/notre-dame-fighting-irish-cj-carr-2026-cfp-nfl-draft",
+          "excerpts": [
+            "Carr had 8,135 passing yards and 78 touchdowns during his final three seasons as Saline's starter."
+          ],
+          "title": "Notre Dame heads into 2026 with QB it hasn't had in a long time - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Rice recap states Carr threw four touchdown passes and completed 16 of 20 attempts for 253 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401859184",
+          "excerpts": [
+            "* [Play-by-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401859184)\n\n* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401859184)\n\n# C.J. Carr throws for 4 touchdowns as No. 3 Notre Dame routs visiting Rice 52-0\n\nBy AP\n\nUpdated: Sep 13, 2026, 01:49 am\n\nFacebook Facebook Messenger Twitter Email\n\nSOUTH BEND, Ind. -- \u2014 C.J. Carr threw for four touchdowns and No. 3 Notre Dame overpowered visiting Rice early on the way to a 52-0 victory on Saturday.\n\nCarr connected on 16 of 20 passes for 253 yards before being replaced by [Noah Grubbs](http://www.espn.com/college-football/player/_/id/5159115/noah-grubbs) in the third quarter.\n\nNotre Dame outgained Rice 478-128 in total yards.\n\nThe Owls suffered their worst loss since a 58-0 loss to Texas in 2021."
+          ],
+          "title": "Notre Dame 52-0 Rice (Sep 12, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Purdue recap reports three Carr touchdown passes, a rushing score, and 237 passing yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858467",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858467)\n\n# CJ Carr throws for 3 TDs, runs for another to help No. 3 Notre Dame rout rival Purdue 49-10\n\nBy AP\n\nUpdated: Sep 26, 2026, 10:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nWEST LAFAYETTE, Ind. -- \u2014 [CJ Carr](http://www.espn.com/college-football/player/_/id/5079369/cj-carr) threw three touchdown passes and ran for another score, linebacker [Drayk Bowen](http://www.espn.com/college-football/player/_/id/4870622/drayk-bowen) scored his first career TD on a 15-yard fumble return and No. 3 Notre Dame beat Purdue 49-10 on Saturday.\n\n[Carr was 14 of 22 for 237 yards](https://apnews.com/article/notre-dame-fighting-irish-bffde57a56bb3fb33554be977e0f6b6a) and threw his first interception of the season. It's the second straight week"
+          ],
+          "title": "Notre Dame 49-10 Purdue (Sep 26, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN account reports Carr's 319 passing yards and three touchdowns in Notre Dame's 31-24 victory over No. 1 Miami.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50416773/notre-dame-fends-rally-dethrone-top-ranked-miami",
+          "excerpts": [
+            "SOUTH BEND, Ind. -- [CJ Carr](https://www.espn.com/college-football/player/_/id/5079369/cj-carr) threw for 319 yards and three touchdowns, and No. 11 Notre Dame avenged its most damaging loss from last season by running out to a 21-point lead and holding on to beat No. 1 Miami 31-24 on Saturday night.\n\n[Micah Gilbert](https://www.espn.com/college-football/player/_/id/5079475/micah-gilbert) caught two of those scoring passes, [Jordan"
+          ],
+          "title": "Notre Dame fends off rally to dethrone top-ranked Miami - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

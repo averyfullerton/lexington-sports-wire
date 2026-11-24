@@ -1,0 +1,429 @@
+{
+  "run_id": "trun_bd5aff7f279040ea9cbb9bf3a9ba58c4",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 326.8,
+  "input": {
+    "away_team": "Indiana Hoosiers",
+    "home_team": "Washington Huskies",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Indiana Hoosiers",
+    "key_plays": [
+      "Q1 13:26: Demond Williams Jr. 65-yard touchdown run.",
+      "Q1 13:10: Charlie Becker 74-yard touchdown reception from Grant Wilson.",
+      "Q4 9:06: Nick Marsh 35-yard touchdown reception from Josh Hoover.",
+      "Q4 3:34: Decker DeGraaf 20-yard touchdown reception from Demond Williams Jr. to tie the game.",
+      "OT: Tyler Robles 46-yard field goal gave Washington the lead and proved to be the game-winner."
+    ],
+    "away_score": 24,
+    "storyline": "The upset gave Washington its first win over a top-10 opponent in two years, while the overtime defeat put Indiana\u2019s national-title defense in peril.",
+    "top_performers": [
+      {
+        "stat_line": "6 REC, 167 YDS, 1 TD",
+        "team": "Indiana Hoosiers",
+        "name": "Charlie Becker"
+      },
+      {
+        "stat_line": "24/41, 227 YDS, 1 TD, 1 INT; 11 CAR, 88 YDS, 1 TD",
+        "team": "Washington Huskies",
+        "name": "Demond Williams Jr."
+      },
+      {
+        "stat_line": "17 CAR, 77 YDS, 1 TD",
+        "team": "Washington Huskies",
+        "name": "Jayden Limar"
+      },
+      {
+        "stat_line": "7/13, 121 YDS, 1 TD, 0 INT",
+        "team": "Indiana Hoosiers",
+        "name": "Josh Hoover"
+      }
+    ],
+    "home_record_after": "7-4",
+    "tough_day": [
+      {
+        "stat_line": "1/2 FG (long 34); missed a 37-yard FG in OT",
+        "team": "Indiana Hoosiers",
+        "name": "Paddy McAteer"
+      }
+    ],
+    "away_record_after": "9-2",
+    "home_team": "Washington Huskies",
+    "home_score": 27
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The final/OT score table records Indiana 24 and Washington 27, establishing that the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "[Indiana Hoosiers Indiana IU](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\n9-2 , 6-2 Big Ten\n\n24\n\n9-2 , 6-2 Big Ten\n\nFinal/OT\n\n| |1 |2 |3 |4 |OT |T |",
+            "|[Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) WASH |14 |0 |0 |10 |3 |27 |\n\n[](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n[Washington Huskies Washington WASH](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n7-4 , 4-4 Big Ten\n\n27\n\n7-4 , 4-4 Big Ten\n\n## Indiana Hoosiers @ Washington Huskies"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game listing identifies Indiana Hoosiers as the visiting team in the matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "[Indiana Hoosiers Indiana IU](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\n9-2 , 6-2 Big Ten\n\n24\n\n9-2 , 6-2 Big Ten\n\nFinal/OT\n\n| |1 |2 |3 |4 |OT |T |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The cited scoring summaries give the quarter, time, scorer, and play details for the two first-quarter touchdowns, the fourth-quarter touchdowns, and Robles\u2019 overtime field goal.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+          "excerpts": [
+            "Touchdown 13:26 - 1st 0 IU 7 WASH Demond Williams Jr. 65 Yd Run (Tyler Robles Kick)",
+            "Touchdown 13:10 - 1st 7 IU 7 WASH Charlie Becker 74 Yd pass from Grant Wilson (Nico Radicic Kick) 1 play, 74 yards, 0:10",
+            "Touchdown 9:06 - 4th 24 IU 17 WASH Nick Marsh 35 Yd pass from Josh Hoover (Paddy McAteer Kick) 5 plays, 75 yards, 3:00",
+            "Touchdown 3:34 - 4th 24 IU 24 WASH Decker DeGraaf 20 Yd pass from Demond Williams Jr. (Tyler Robles Kick) 7 plays, 74 yards, 2:43"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535",
+          "excerpts": [
+            "7 plays, 74 yards, 2:43\n\nOvertime\n\nField Goal\n\nOT\n\n24\n\nIU\n\n27\n\nWASH\n\nTyler Robles 46 Yd Field Goal\n\n4 plays, -3 yards"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final score table lists Indiana\u2019s total as 24.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535",
+          "excerpts": [
+            "|[Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) IU |14 |0 |3 |7 |0 |24 |\n|[Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) WASH |14 |0 |0 |10 |3 |27 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Washington earned its first win over a top-10 program in two years; the other recap says Indiana\u2019s national-title defense was in peril after the loss.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858535",
+          "excerpts": [
+            "[Demond Williams Jr](http://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) . accounted for two touchdowns, and the Huskies earned their first win over a top-10 program in two years in dramatic fashion by tying the game twice in the fourth quarter and then upsetting the Hoosiers in the extra frame."
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/50556327/indiana-cfp-hopes-take-hit-ot-loss-washington",
+          "excerpts": [
+            "8 [Indiana](https://africa.espn.com/college-football/team/_/id/84/indiana-hoosiers) 's quest to defend its national title in peril, but the Hoosiers also might not get a chance to defend their Big Ten crown."
+          ],
+          "title": "Indiana's CFP hopes take hit after OT loss at Washington - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The cited recap and box-score rows support Becker\u2019s receiving production, Williams Jr.\u2019s passing and rushing totals, Limar\u2019s rushing totals, and Hoover\u2019s passing line.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858535",
+          "excerpts": [
+            "The fifth-year senior finished 7 for 13 for 121 yards, while receiver [Charlie Becker](http://www.espn.com/college-football/player/_/id/5146735/charlie-becker) had six catches for 167 yards and a touchdown on the Hoosiers\u2019 first offensive plays.\n\nThe takeaway\n\nIndiana: Becker\u2019s early touchdown pushed him over the 1,000-yard mark, making him the eighth Hoosier to surpass 1,000 yards in a"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Washington Washington Passing |  | | [Demond Williams Jr.](https://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) #1 |",
+            "Washington Washington Rushing |  | | [Demond Williams Jr.](https://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) #1 | | [Jayden Limar](https://www.espn.com/college-football/player/_/id/4870868/jayden-limar) #17 | | [Brian Bonner Jr.](https://www.espn.com/college-football/player/_/id/5200430/brian-bonner-jr) #34 | | team | | CAR | YDS | TD | LONG | | 11 | 88 | 1 | 65 |",
+            "Indiana Overview Washington Indiana Indiana Passing |  | | [Josh Hoover](https://www.espn.com/college-football/player/_/id/4685401/josh-hoover) #10 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "Washington\u2019s postgame listing shows a 7-4 overall record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "|[Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) WASH |14 |0 |0 |10 |3 |27 |\n\n[](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n[Washington Huskies Washington WASH](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n7-4 , 4-4 Big Ten\n\n27\n\n7-4 , 4-4 Big Ten\n\n## Indiana Hoosiers @ Washington Huskies"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The box score records McAteer at 1-for-2 on field goals, and the recap identifies his missed 37-yard attempt in overtime.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Indiana Indiana Kicking |  | | [Paddy McAteer](https://www.espn.com/college-football/player/_/id/5232716/paddy-mcateer) #35 | | [Nico Radicic](https://www.espn.com/college-football/player/_/id/5078315/nico-radicic) #15 | | team | | FG | PCT | LONG | XP | PTS | | 1/2 | 50.0 | 34 | 1/1 | 4 | | 0/1 | 0.0 | 0 | 2/2 | 2 | | 1/3 | 33.3 | 34 | 3/3 | 6 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "The Hoosiers\u2019 third trip to overtime in the past four weeks turned out to be the opposite of the charm, as Washington tipped Paddy McAteer\u2019s 37-yard field goal wide in the extra period to come away with a 27-24 upset and send the crowd at Husky Stadium storming the field."
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "Indiana\u2019s postgame listing shows a 9-2 overall record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "[Indiana Hoosiers Indiana IU](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\n9-2 , 6-2 Big Ten\n\n24\n\n9-2 , 6-2 Big Ten\n\nFinal/OT\n\n| |1 |2 |3 |4 |OT |T |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game listing names Washington Huskies as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "|[Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) WASH |14 |0 |0 |10 |3 |27 |\n\n[](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n[Washington Huskies Washington WASH](https://www.espn.com/college-football/team/_/id/264/washington-huskies)\n\n7-4 , 4-4 Big Ten\n\n27\n\n7-4 , 4-4 Big Ten\n\n## Indiana Hoosiers @ Washington Huskies"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final score table lists Washington\u2019s total as 27.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535",
+          "excerpts": [
+            "|[Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers) IU |14 |0 |3 |7 |0 |24 |\n|[Washington](https://www.espn.com/college-football/team/_/id/264/washington-huskies) WASH |14 |0 |0 |10 |3 |27 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary identifies Williams Jr.\u2019s 65-yard touchdown run at 13:26 in the first quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+          "excerpts": [
+            "Touchdown 13:26 - 1st 0 IU 7 WASH Demond Williams Jr. 65 Yd Run (Tyler Robles Kick)"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary identifies Becker\u2019s 74-yard touchdown reception from Wilson at 13:10 in the first quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+          "excerpts": [
+            "Touchdown 13:10 - 1st 7 IU 7 WASH Charlie Becker 74 Yd pass from Grant Wilson (Nico Radicic Kick) 1 play, 74 yards, 0:10"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary gives the 9:06 fourth-quarter 35-yard touchdown pass from Hoover to Marsh.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+          "excerpts": [
+            "Touchdown 9:06 - 4th 24 IU 17 WASH Nick Marsh 35 Yd pass from Josh Hoover (Paddy McAteer Kick) 5 plays, 75 yards, 3:00"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary gives the 3:34 fourth-quarter touchdown pass from Williams Jr. to DeGraaf that tied the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535/indiana-washington",
+          "excerpts": [
+            "Touchdown 3:34 - 4th 24 IU 24 WASH Decker DeGraaf 20 Yd pass from Demond Williams Jr. (Tyler Robles Kick) 7 plays, 74 yards, 2:43"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The overtime scoring entry identifies Robles\u2019 46-yard field goal as Washington\u2019s scoring play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858535",
+          "excerpts": [
+            "7 plays, 74 yards, 2:43\n\nOvertime\n\nField Goal\n\nOT\n\n24\n\nIU\n\n27\n\nWASH\n\nTyler Robles 46 Yd Field Goal\n\n4 plays, -3 yards"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap states that Becker had six catches for 167 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858535",
+          "excerpts": [
+            "The fifth-year senior finished 7 for 13 for 121 yards, while receiver [Charlie Becker](http://www.espn.com/college-football/player/_/id/5146735/charlie-becker) had six catches for 167 yards and a touchdown on the Hoosiers\u2019 first offensive plays.\n\nThe takeaway\n\nIndiana: Becker\u2019s early touchdown pushed him over the 1,000-yard mark, making him the eighth Hoosier to surpass 1,000 yards in a"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box score lists Williams Jr. with 24 completions on 41 attempts for 227 yards, one passing touchdown and one interception, plus 11 carries for 88 yards and a rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Washington Washington Passing |  | | [Demond Williams Jr.](https://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) #1 |",
+            "Washington Washington Rushing |  | | [Demond Williams Jr.](https://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) #1 | | [Jayden Limar](https://www.espn.com/college-football/player/_/id/4870868/jayden-limar) #17 | | [Brian Bonner Jr.](https://www.espn.com/college-football/player/_/id/5200430/brian-bonner-jr) #34 | | team | | CAR | YDS | TD | LONG | | 11 | 88 | 1 | 65 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The Washington rushing table lists Limar with 17 carries, 77 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Washington Washington Rushing |  | | [Demond Williams Jr.](https://www.espn.com/college-football/player/_/id/5079653/demond-williams-jr) #1 | | [Jayden Limar](https://www.espn.com/college-football/player/_/id/4870868/jayden-limar) #17 | | [Brian Bonner Jr.](https://www.espn.com/college-football/player/_/id/5200430/brian-bonner-jr) #34 | | team | | CAR | YDS | TD | LONG | | 11 | 88 | 1 | 65 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The Indiana passing table lists Hoover at 7-for-13 for 121 yards, one touchdown, and no interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Indiana Overview Washington Indiana Indiana Passing |  | | [Josh Hoover](https://www.espn.com/college-football/player/_/id/4685401/josh-hoover) #10 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The kicking table shows McAteer made one of two field-goal attempts, and the recap records his missed 37-yard attempt in overtime.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858535",
+          "excerpts": [
+            "Indiana Indiana Kicking |  | | [Paddy McAteer](https://www.espn.com/college-football/player/_/id/5232716/paddy-mcateer) #35 | | [Nico Radicic](https://www.espn.com/college-football/player/_/id/5078315/nico-radicic) #15 | | team | | FG | PCT | LONG | XP | PTS | | 1/2 | 50.0 | 34 | 1/1 | 4 | | 0/1 | 0.0 | 0 | 2/2 | 2 | | 1/3 | 33.3 | 34 | 3/3 | 6 |"
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858535",
+          "excerpts": [
+            "The Hoosiers\u2019 third trip to overtime in the past four weeks turned out to be the opposite of the charm, as Washington tipped Paddy McAteer\u2019s 37-yard field goal wide in the extra period to come away with a 27-24 upset and send the crowd at Husky Stadium storming the field."
+          ],
+          "title": "Washington 27-24 Indiana (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "storyline",
+      "top_performers"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Tyler Robles kicked a 46-yard field goal in overtime to win it! Washington beat No. 8 Indiana 27-24 in Washington. Demond Williams Jr. had raced 65 yards for an early touchdown. Charlie Becker answered with a 74-yard touchdown catch for Indiana. Late in the game, Williams found Decker DeGraaf for the tying touchdown! Robles finished the comeback with his kick. It was Washington\u2019s first win over a top-10 team in 2 years.",
+    "big_words": [
+      {
+        "word": "comeback",
+        "definition": "A return to winning after being behind.",
+        "example": "Mateo\u2019s goal sparked a comeback in the recess soccer game."
+      }
+    ],
+    "opener": "Start with how the game ended: the last big moment.",
+    "attempts": 2,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1298,
+        "output": 225
+      },
+      {
+        "input": 1478,
+        "output": 149
+      }
+    ]
+  }
+}

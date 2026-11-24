@@ -1,0 +1,170 @@
+{
+  "run_id": "trun_415f3f698c1f435b904173a9658ddcd0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 72.0,
+  "input": {
+    "player": "Will Anderson Jr.",
+    "team": "Houston Texans",
+    "position": "Defensive End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Alabama",
+    "fun_facts": [
+      "Will Anderson Jr. is from Hampton, Georgia; as a high-school senior, he recorded 22 sacks and 15 tackles for loss.",
+      "In 2021, Will Anderson Jr. led the FBS with 17.5 sacks.",
+      "Will Anderson Jr. became Alabama\u2019s first two-time unanimous All-American.",
+      "During his final college awards week, Will Anderson Jr. won four trophies: the Lott IMPACT, Nagurski, Lombardi and Bednarik awards.",
+      "Will Anderson Jr. won NFL Defensive Rookie of the Year. That same season, teammate C.J. Stroud won Offensive Rookie of the Year, making them the fourth teammates in league history to win both awards."
+    ],
+    "draft": "2023, round 1, pick 3"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography identifies Alabama as Will Anderson Jr.\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685724/will-anderson-jr",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Will Anderson Jr.\n\nHouston Texans\n\n* [Houston Texans Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n* \\#51\n* Defensive End DE\n\n* HT/WT\n  \n  6' 4\", 243 lbs\n* Birthdate\n  \n  9/2/2001 (25)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\n* HT/WT\n  \n  6' 4\", 243 lbs\n* Birthdate\n  \n  9/2/2001 (25)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* Draft Info\n  \n  2023: Rd 1, Pk 3 (HOU)\n* Status\n  \n  QUESTIONABLE"
+          ],
+          "title": "Will Anderson Jr. Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NCAA passage gives Anderson\u2019s hometown and senior-season high-school statistics. NFL.com reports his 2021 FBS-leading sack total. ESPN notes he was Alabama\u2019s first two-time unanimous All-American and documents his four college awards. NFL.com confirms his Defensive Rookie of the Year honor and that he and C.J. Stroud were the fourth teammate pair to win the defensive and offensive rookie awards in the same season.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-01-13/will-anderson-jr-college-football-stats-highlights-records",
+          "excerpts": [
+            "|2020 |13 |33 |19 |52 |10\\.5 |7 |0 |1 |0 |\n|2021 |15 |58 |44 |102 |34\\.5 |17\\.5 |3 |0 |0 |\n|2022 |13 |24 |27 |51 |17 |10 |2 |0 |1 |\n|**Career** |41 |115 |90 |205 |62 |34\\.5 |5 |0 |1 |\n\n### What kind of prospect was Will Anderson Jr. in high school?\n\nAnderson was a five-star defensive end at Duchtown high school in Hampton, Ga. Anderson ranked as high as the fifth-best player in the country, the top player in Georgia and the top weakside defensive end in the class of 2020. Anderson finished his senior season with 22 sacks and 15 tackles for loss, earning First-Team All-State honors from the Atlanta Journal-Constitution."
+          ],
+          "title": "Will Anderson Jr.: College football stats, highlights, records | NCAA.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/alabama-s-bryce-young-will-anderson-jr-jahmyr-gibbs-announce-they-intend-to-ente",
+          "excerpts": [
+            "Anderson led the FBS in sacks in 2021 with 17.5 and followed that up with 10 more sacks in 2022, along with a pick-six."
+          ],
+          "title": "Alabama's Bryce Young, Will Anderson Jr., Jahmyr Gibbs announce they intend to enter 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36307434/texans-select-cj-stroud-no-2-overall-pick-nfl-draft",
+          "excerpts": [
+            "The 6-foot-4 Anderson had 10 sacks last season and 17.5 sacks in 2021. He became the first Alabama player to be a two-time unanimous All-American and is a two-time SEC Defensive Player of the Year and a two-time Nagurski Trophy winner.\n\nAnderson had 130 pressures from 2021 to 2022 -- 42 more than any other player in the FBS during that span."
+          ],
+          "title": "Texans draft C.J. Stroud at No. 2, then trade up for Will Anderson Jr. - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35236342/alabama-junior-linebacker-anderson-wins-lott-trophy",
+          "excerpts": [
+            "Anderson is the second Alabama player to win the Lott Trophy, joining DeMeco Ryans in 2005. Alabama will receive $25,000 for its general scholarship fund."
+          ],
+          "title": "Alabama junior linebacker Will Anderson wins Lott Trophy - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/texans-de-will-anderson-jr-wins-ap-2023-nfl-defensive-rookie-of-the-year",
+          "excerpts": [
+            "For the second consecutive season, teammates won the Offensive and Defensive Rookie of the year awards.\n\nHouston Texans edge rusher [Will Anderson](https://www.nfl.com/players/will-anderson) snagged the Associated Press 2023 NFL Defensive Rookie of the Year award Thursday night at _NFL Honors_ , joining teammate [C.J. Stroud](https://www.nfl.com/players/c-j-stroud) , who was named the top offensive rookie earlier in the evening.\n\nStroud and Anderson are the fourth teammates to win the awards in NFL History, joining the 1967 Lions, 2017 Saints and 2022 Jets.\n\nAnderson earned 151 points to win the award, ahead of Eagles defensive tackle [Jalen"
+          ],
+          "title": "Texans DE Will Anderson Jr. wins AP 2023 NFL Defensive Rookie of the Year\u00a0 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography states that Anderson was selected in 2023, in round 1, with pick 3 by Houston.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4685724/will-anderson-jr",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# Will Anderson Jr.\n\nHouston Texans\n\n* [Houston Texans Texans](https://www.espn.com/nfl/team/_/name/hou/houston-texans)\n* \\#51\n* Defensive End DE\n\n* HT/WT\n  \n  6' 4\", 243 lbs\n* Birthdate\n  \n  9/2/2001 (25)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\n* HT/WT\n  \n  6' 4\", 243 lbs\n* Birthdate\n  \n  9/2/2001 (25)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* Draft Info\n  \n  2023: Rd 1, Pk 3 (HOU)\n* Status\n  \n  QUESTIONABLE"
+          ],
+          "title": "Will Anderson Jr. Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NCAA passage identifies Hampton, Georgia, and says Anderson had 22 sacks and 15 tackles for loss in his senior season.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-01-13/will-anderson-jr-college-football-stats-highlights-records",
+          "excerpts": [
+            "|2020 |13 |33 |19 |52 |10\\.5 |7 |0 |1 |0 |\n|2021 |15 |58 |44 |102 |34\\.5 |17\\.5 |3 |0 |0 |\n|2022 |13 |24 |27 |51 |17 |10 |2 |0 |1 |\n|**Career** |41 |115 |90 |205 |62 |34\\.5 |5 |0 |1 |\n\n### What kind of prospect was Will Anderson Jr. in high school?\n\nAnderson was a five-star defensive end at Duchtown high school in Hampton, Ga. Anderson ranked as high as the fifth-best player in the country, the top player in Georgia and the top weakside defensive end in the class of 2020. Anderson finished his senior season with 22 sacks and 15 tackles for loss, earning First-Team All-State honors from the Atlanta Journal-Constitution."
+          ],
+          "title": "Will Anderson Jr.: College football stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "NFL.com states that Anderson led the FBS with 17.5 sacks in 2021.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/alabama-s-bryce-young-will-anderson-jr-jahmyr-gibbs-announce-they-intend-to-ente",
+          "excerpts": [
+            "Anderson led the FBS in sacks in 2021 with 17.5 and followed that up with 10 more sacks in 2022, along with a pick-six."
+          ],
+          "title": "Alabama's Bryce Young, Will Anderson Jr., Jahmyr Gibbs announce they intend to enter 2023 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN states that Anderson was the first Alabama player to become a two-time unanimous All-American.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36307434/texans-select-cj-stroud-no-2-overall-pick-nfl-draft",
+          "excerpts": [
+            "The 6-foot-4 Anderson had 10 sacks last season and 17.5 sacks in 2021. He became the first Alabama player to be a two-time unanimous All-American and is a two-time SEC Defensive Player of the Year and a two-time Nagurski Trophy winner.\n\nAnderson had 130 pressures from 2021 to 2022 -- 42 more than any other player in the FBS during that span."
+          ],
+          "title": "Texans draft C.J. Stroud at No. 2, then trade up for Will Anderson Jr. - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports that Anderson won the Lott IMPACT Trophy and that his four-award haul included the Nagurski, Lombardi and Bednarik awards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35236342/alabama-junior-linebacker-anderson-wins-lott-trophy",
+          "excerpts": [
+            "Anderson is the second Alabama player to win the Lott Trophy, joining DeMeco Ryans in 2005. Alabama will receive $25,000 for its general scholarship fund."
+          ],
+          "title": "Alabama junior linebacker Will Anderson wins Lott Trophy - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com confirms Anderson\u2019s Defensive Rookie of the Year win, Stroud\u2019s offensive rookie award, and that they were the fourth teammate pair to win both in the same season.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/texans-de-will-anderson-jr-wins-ap-2023-nfl-defensive-rookie-of-the-year",
+          "excerpts": [
+            "For the second consecutive season, teammates won the Offensive and Defensive Rookie of the year awards.\n\nHouston Texans edge rusher [Will Anderson](https://www.nfl.com/players/will-anderson) snagged the Associated Press 2023 NFL Defensive Rookie of the Year award Thursday night at _NFL Honors_ , joining teammate [C.J. Stroud](https://www.nfl.com/players/c-j-stroud) , who was named the top offensive rookie earlier in the evening.\n\nStroud and Anderson are the fourth teammates to win the awards in NFL History, joining the 1967 Lions, 2017 Saints and 2022 Jets.\n\nAnderson earned 151 points to win the award, ahead of Eagles defensive tackle [Jalen"
+          ],
+          "title": "Texans DE Will Anderson Jr. wins AP 2023 NFL Defensive Rookie of the Year\u00a0 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

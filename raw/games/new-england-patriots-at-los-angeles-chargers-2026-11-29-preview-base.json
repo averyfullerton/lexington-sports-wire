@@ -1,0 +1,328 @@
+{
+  "run_id": "trun_1714e31eeb204d32af2e50fcdd7cf285",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 173.5,
+  "input": {
+    "away_team": "New England Patriots",
+    "home_team": "Los Angeles Chargers",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "5-5",
+    "away_team": "New England Patriots",
+    "storyline": "The 5-5 Patriots enter eighth in the AFC, outside the seven-team playoff field. New England will start Tommy DeVito, with Drake Maye expected to miss the remainder of the season.",
+    "matchup_notes": [
+      "New England is 5-5 and second in the AFC East.",
+      "The Patriots\u2019 most recent game was a 35-10 loss to Detroit; they had a Week 11 bye.",
+      "The Chargers lost 27-24 to the Jets in Week 11; the Week 12 matchup listing shows Los Angeles at 1-9.",
+      "The Patriots confirmed Tommy DeVito as their starter for Week 12, while Drake Maye is expected to miss the rest of the season with a fibula injury."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "403 rushing yards, 2 rushing TD; 259 receiving yards, 2 receiving TD",
+        "team": "New England Patriots",
+        "name": "Rhamondre Stevenson"
+      },
+      {
+        "stat_line": "563 rushing yards, 4 rushing TD; 67 receiving yards",
+        "team": "Los Angeles Chargers",
+        "name": "Omarion Hampton"
+      }
+    ],
+    "home_record": "1-9",
+    "home_team": "Los Angeles Chargers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Patriots\u2019 team page lists a 5-5-0 record, which is 5-5 when ties are omitted.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-england-patriots/",
+          "excerpts": [
+            "# New England Patriots News, Scores, Stats, Schedule | NFL.com\n\nNew England Patriots\n\n2nd AFC East\n\n5 - 5 - 0"
+          ],
+          "title": "New England Patriots News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The cited team page identifies the team as the New England Patriots.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-england-patriots/",
+          "excerpts": [
+            "# New England Patriots News, Scores, Stats, Schedule | NFL.com\n\nNew England Patriots\n\n2nd AFC East\n\n5 - 5 - 0"
+          ],
+          "title": "New England Patriots News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Patriots are described as eighth in the AFC, with only seven teams qualifying for the postseason. The NFL reports that Tommy DeVito will start against the Chargers and that Maye is expected to miss the remainder of the season.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+          "excerpts": [
+            "The Patriots are currently eighth in the AFC, and the top seven teams qualify for the postseason."
+          ],
+          "title": "Patriots QB Drake Maye has fractured fibula, sources say - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23?remove_header",
+          "excerpts": [
+            "[New England Patriots 5-5](https://www.nfl.com/teams/new-england-patriots)\n\n**DEPTH CHART NEWS**\n\n* QB [Tommy DeVito](https://www.nfl.com/players/tommy-devito) will start New England's Week 12 game against the Chargers, coach Mike Vrabel confirmed. DeVito has served as the Patriots' backup QB this season and filled in for the injured [Drake Maye](https://www.nfl.com/players/drake-maye) in their Week 11 loss to Detroit. Maye (fibula) is expected to miss the remainder of the season. [Behren Morton](https://www.nfl.com/players/behren-morton) is the only other QB on the roster.\n\n**INJURIES**\n\n* G [Alijah Vera-Tucker](https://www.nfl.com/players/alijah-vera-tucker) (hamstring; IR) may return to practice Monday, per Vrabel."
+          ],
+          "title": "NFL news roundup: Patriots QB Tommy DeVito to start vs. Chargers | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL pages support the Patriots\u2019 5-5 record and division placement, their 35-10 loss and bye, the Jets\u2019 27-24 win over Los Angeles and the Chargers\u2019 listed 1-9 record, and the Patriots\u2019 announced quarterback change.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-england-patriots/",
+          "excerpts": [
+            "# New England Patriots News, Scores, Stats, Schedule | NFL.com\n\nNew England Patriots\n\n2nd AFC East\n\n5 - 5 - 0"
+          ],
+          "title": "New England Patriots News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-network-patriots-qb-drake-maye-could-miss-rest-of-2026-season",
+          "excerpts": [
+            "After the [35-10](https://www.nfl.com/games/patriots-at-lions-2026-reg-10) loss, coach Mike Vrabel had no update on the severity of Maye\u2019s injury, noting the club would \u201c [get more tests run](https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions) \u201d when they returned to the United States. On Monday, Vrabel confirmed that Maye was en route to the U.S."
+          ],
+          "title": "NFL Network: Patriots QB Drake Maye could miss rest of 2026 season | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "At the bottom of the [AFC playoff picture](https://www.nfl.com/standings/playoff-picture) , the Patriots enter their bye at 5-5 with four games against playoff contenders and three against lowly AFC opponents remaining. For New England to sneak into the No. 7 seed, it will need at least one win against the Bills, Vikings, Chiefs or Broncos, and no games dropped against the Chargers, Jets and Dolphins."
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Los Angeles Chargers\n\nCHARGERS\n\nLos Angeles Chargers\n\nLOS ANGELES\n\nCHARGERS\n\n1-9\n\n1 win, 9 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE"
+          ],
+          "title": "New England Patriots at Los Angeles Chargers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23?remove_header",
+          "excerpts": [
+            "[New England Patriots 5-5](https://www.nfl.com/teams/new-england-patriots)\n\n**DEPTH CHART NEWS**\n\n* QB [Tommy DeVito](https://www.nfl.com/players/tommy-devito) will start New England's Week 12 game against the Chargers, coach Mike Vrabel confirmed. DeVito has served as the Patriots' backup QB this season and filled in for the injured [Drake Maye](https://www.nfl.com/players/drake-maye) in their Week 11 loss to Detroit. Maye (fibula) is expected to miss the remainder of the season. [Behren Morton](https://www.nfl.com/players/behren-morton) is the only other QB on the roster.\n\n**INJURIES**\n\n* G [Alijah Vera-Tucker](https://www.nfl.com/players/alijah-vera-tucker) (hamstring; IR) may return to practice Monday, per Vrabel."
+          ],
+          "title": "NFL news roundup: Patriots QB Tommy DeVito to start vs. Chargers | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL player-stat tables give Stevenson\u2019s 2026 rushing and receiving totals and Hampton\u2019s 2026 rushing and receiving totals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/rhamondre-stevenson/stats/",
+          "excerpts": [
+            "|2025 |New England Patriots |14 |13 |130 |603 |4\\.6 |7 |32 |345 |10\\.8 |55 |2 |3 |3 |\n|2026 |New England Patriots |10 |10 |108 |403 |3\\.7 |2 |27 |259 |9\\.6 |48 |2 |2 |2 |"
+          ],
+          "title": "Rhamondre Stevenson Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://fantasy-www.nfl.com/players/omarion-hampton/stats/",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2025 |Los Angeles Chargers |9 |6 |124 |545 |4\\.4 |4 |32 |192 |6 |22 |1 |1 |0 |\n|2026 |Los Angeles Chargers |10 |9 |138 |563 |4\\.1 |4 |13 |67 |5\\.2 |18 |0 |3 |2 |\n|TOTAL | |19 |15 |262 |1108 |4\\.2 |8 |45 |259 |5\\.6 |22 |1 |4 |2 |"
+          ],
+          "title": "Omarion Hampton Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Week 12 game page lists the Los Angeles Chargers at 1-9 before the matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Los Angeles Chargers\n\nCHARGERS\n\nLos Angeles Chargers\n\nLOS ANGELES\n\nCHARGERS\n\n1-9\n\n1 win, 9 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE"
+          ],
+          "title": "New England Patriots at Los Angeles Chargers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 12 game page identifies Los Angeles as the Chargers\u2019 team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Los Angeles Chargers\n\nCHARGERS\n\nLos Angeles Chargers\n\nLOS ANGELES\n\nCHARGERS\n\n1-9\n\n1 win, 9 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE"
+          ],
+          "title": "New England Patriots at Los Angeles Chargers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The Patriots schedule lists the Chargers game for Sunday, November 29. That date is after the stated current date of November 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/new-england-patriots",
+          "excerpts": [
+            "Detroit Lions Team Logo LIONS 7-2\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/patriots-at-lions-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* PATRIOTS' BYE WEEK\n\n### Week 12\n\n* [Patriots at Chargers, Sunday, November 29th, 4:05 PM, CBS](https://www.nfl.com/games/patriots-at-chargers-2026-reg-12)\n  \n  LOCAL\n  \n  New England Patriots Team Logo PATRIOTS\n  \n  Los Angeles Chargers Team Logo CHARGERS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 New England Patriots Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Patriots\u2019 team page gives their 5-5 record and second-place AFC East standing.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-england-patriots/",
+          "excerpts": [
+            "# New England Patriots News, Scores, Stats, Schedule | NFL.com\n\nNew England Patriots\n\n2nd AFC East\n\n5 - 5 - 0"
+          ],
+          "title": "New England Patriots News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The NFL reports a 35-10 loss to Detroit and that New England entered its bye at 5-5.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-network-patriots-qb-drake-maye-could-miss-rest-of-2026-season",
+          "excerpts": [
+            "After the [35-10](https://www.nfl.com/games/patriots-at-lions-2026-reg-10) loss, coach Mike Vrabel had no update on the severity of Maye\u2019s injury, noting the club would \u201c [get more tests run](https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions) \u201d when they returned to the United States. On Monday, Vrabel confirmed that Maye was en route to the U.S."
+          ],
+          "title": "NFL Network: Patriots QB Drake Maye could miss rest of 2026 season | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-10-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "At the bottom of the [AFC playoff picture](https://www.nfl.com/standings/playoff-picture) , the Patriots enter their bye at 5-5 with four games against playoff contenders and three against lowly AFC opponents remaining. For New England to sneak into the No. 7 seed, it will need at least one win against the Bills, Vikings, Chiefs or Broncos, and no games dropped against the Chargers, Jets and Dolphins."
+          ],
+          "title": "2026 NFL season, Week 10: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 11 results list the Jets\u2019 27-24 win over the Chargers, and the Week 12 game page lists Los Angeles at 1-9.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Los Angeles Chargers\n\nCHARGERS\n\nLos Angeles Chargers\n\nLOS ANGELES\n\nCHARGERS\n\n1-9\n\n1 win, 9 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE"
+          ],
+          "title": "New England Patriots at Los Angeles Chargers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL reports DeVito will start New England\u2019s Week 12 game and that Maye is expected to miss the remainder of the season.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-nov-23?remove_header",
+          "excerpts": [
+            "[New England Patriots 5-5](https://www.nfl.com/teams/new-england-patriots)\n\n**DEPTH CHART NEWS**\n\n* QB [Tommy DeVito](https://www.nfl.com/players/tommy-devito) will start New England's Week 12 game against the Chargers, coach Mike Vrabel confirmed. DeVito has served as the Patriots' backup QB this season and filled in for the injured [Drake Maye](https://www.nfl.com/players/drake-maye) in their Week 11 loss to Detroit. Maye (fibula) is expected to miss the remainder of the season. [Behren Morton](https://www.nfl.com/players/behren-morton) is the only other QB on the roster.\n\n**INJURIES**\n\n* G [Alijah Vera-Tucker](https://www.nfl.com/players/alijah-vera-tucker) (hamstring; IR) may return to practice Monday, per Vrabel."
+          ],
+          "title": "NFL news roundup: Patriots QB Tommy DeVito to start vs. Chargers | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 player-stat row lists Stevenson\u2019s rushing and receiving yards and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/rhamondre-stevenson/stats/",
+          "excerpts": [
+            "|2025 |New England Patriots |14 |13 |130 |603 |4\\.6 |7 |32 |345 |10\\.8 |55 |2 |3 |3 |\n|2026 |New England Patriots |10 |10 |108 |403 |3\\.7 |2 |27 |259 |9\\.6 |48 |2 |2 |2 |"
+          ],
+          "title": "Rhamondre Stevenson Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The 2026 player-stat row lists Hampton\u2019s rushing yards and touchdowns, plus his receiving yards.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/players/omarion-hampton/stats/",
+          "excerpts": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2025 |Los Angeles Chargers |9 |6 |124 |545 |4\\.4 |4 |32 |192 |6 |22 |1 |1 |0 |\n|2026 |Los Angeles Chargers |10 |9 |138 |563 |4\\.1 |4 |13 |67 |5\\.2 |18 |0 |3 |2 |\n|TOTAL | |19 |15 |262 |1108 |4\\.2 |8 |45 |259 |5\\.6 |22 |1 |4 |2 |"
+          ],
+          "title": "Omarion Hampton Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Los Angeles on Sunday, Nov 29, the Chargers host the Patriots. The Chargers are 1-9, and the Patriots are 5-5. New England is just outside the 7-team AFC playoff field! Watch Omarion Hampton, who has 563 rushing yards and 4 rushing touchdowns. Can the Patriots find a clever way to slow him down?",
+    "big_words": [
+      {
+        "word": "clever",
+        "definition": "Smart at finding ways to do things.",
+        "example": "Marcus made a clever volcano for his science project."
+      }
+    ],
+    "opener": "Start by setting the scene: where the game is and when.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1075,
+        "output": 120
+      }
+    ]
+  }
+}

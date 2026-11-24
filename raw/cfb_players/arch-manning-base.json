@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea5d15c2ba245a089",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 30.5,
+  "input": {
+    "player": "Arch Manning",
+    "team": "Texas Longhorns",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Arch Manning grew up in New Orleans and went to Ole Miss and LSU football games as a kid.",
+      "He played flag football in fifth grade.",
+      "At Isidore Newman, he was a four-year starter and threw for 8,599 yards and 115 touchdowns, while also rushing for 1,155 yards and 25 touchdowns.",
+      "He broke his high school\u2019s records for passing yards and passing touchdowns.",
+      "In 2026, he threw a 4-yard touchdown pass with 3 seconds left to help Texas beat LSU, 22\u201321."
+    ],
+    "high_school": "Isidore Newman School",
+    "hometown": "New Orleans, Louisiana"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the childhood and flag-football details, Manning\u2019s high school starting tenure and statistics, the school records he broke, and his late touchdown pass in Texas\u2019s 2026 win over LSU.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/45748994/arch-manning-ready-first-first-season-texas-starter",
+          "excerpts": [
+            "He grew up in New Orleans going to games at Ole Miss and LSU, and he carries with him a deep appreciation for the history of the conference."
+          ],
+          "title": "Arch Manning ready for first season as Texas' starter - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/story/_/id/46022536/American",
+          "excerpts": [
+            "When Arch played fifth-grade flag football, Stewart and Cooper talked about moving him up to the middle school team but decided to keep him where he was, staving off the mania that awaited him."
+          ],
+          "title": "Book: Inside the ruthless recruitment of Arch Manning - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35296913/qb-arch-manning-no-2-prospect-espn-300-signs-texas",
+          "excerpts": [
+            "At Newman, Arch Manning was a four-year starter, throwing for 8,599 yards and 115 touchdowns with 20 interceptions while rushing for 1,155 yards and 25 TDs.",
+            "He broke Eli's school record for passing yards (7,268) and Peyton's for TDs (93)."
+          ],
+          "title": "QB Arch Manning, No. 2 prospect in ESPN 300, signs with Texas - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856885",
+          "excerpts": [
+            "Manning found [Raleek Brown](http://www.espn.com/college-football/player/_/id/4685268/raleek-brown) for a 4-yard touchdown pass along the left sideline with 3 seconds left, and No. 8 Texas escaped Tiger Stadium with a 22-21 victory over No. 24 LSU on Saturday night."
+          ],
+          "title": "Texas 22-21 LSU (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile identifies Isidore Newman School as Manning\u2019s school.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/242188/arch-manning",
+          "excerpts": [
+            "School [Isidore Newman School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/6448)"
+          ],
+          "title": "Arch Manning Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The recruiting profile lists his hometown as New Orleans, Louisiana (abbreviated there as \u201cNew Orleans, La.\u201d).",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/242188/arch-manning",
+          "excerpts": [
+            "Hometown [New Orleans, La.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/23/hometown/10738/class/2023)"
+          ],
+          "title": "Arch Manning Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "This passage says Manning grew up in New Orleans and went to Ole Miss and LSU games.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/45748994/arch-manning-ready-first-first-season-texas-starter",
+          "excerpts": [
+            "He grew up in New Orleans going to games at Ole Miss and LSU, and he carries with him a deep appreciation for the history of the conference."
+          ],
+          "title": "Arch Manning ready for first season as Texas' starter - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states that Manning played fifth-grade flag football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/story/_/id/46022536/American",
+          "excerpts": [
+            "When Arch played fifth-grade flag football, Stewart and Cooper talked about moving him up to the middle school team but decided to keep him where he was, staving off the mania that awaited him."
+          ],
+          "title": "Book: Inside the ruthless recruitment of Arch Manning - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that Manning was a four-year starter at Newman and gives his passing and rushing totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35296913/qb-arch-manning-no-2-prospect-espn-300-signs-texas",
+          "excerpts": [
+            "At Newman, Arch Manning was a four-year starter, throwing for 8,599 yards and 115 touchdowns with 20 interceptions while rushing for 1,155 yards and 25 TDs."
+          ],
+          "title": "QB Arch Manning, No. 2 prospect in ESPN 300, signs with Texas - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Manning broke his school\u2019s passing-yard and touchdown records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/35296913/qb-arch-manning-no-2-prospect-espn-300-signs-texas",
+          "excerpts": [
+            "He broke Eli's school record for passing yards (7,268) and Peyton's for TDs (93)."
+          ],
+          "title": "QB Arch Manning, No. 2 prospect in ESPN 300, signs with Texas - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The game recap describes Manning\u2019s touchdown pass with 3 seconds remaining and Texas\u2019s 22\u201321 victory over LSU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856885",
+          "excerpts": [
+            "Manning found [Raleek Brown](http://www.espn.com/college-football/player/_/id/4685268/raleek-brown) for a 4-yard touchdown pass along the left sideline with 3 seconds left, and No. 8 Texas escaped Tiger Stadium with a 22-21 victory over No. 24 LSU on Saturday night."
+          ],
+          "title": "Texas 22-21 LSU (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

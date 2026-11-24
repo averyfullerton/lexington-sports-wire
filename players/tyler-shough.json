@@ -1,0 +1,54 @@
+{
+  "name": "Tyler Shough",
+  "espn_id": "4360689",
+  "team": "New Orleans Saints",
+  "team_abbr": "NO",
+  "number": "6",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Louisville",
+  "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Tyler was MVP of the Texas Bowl in college, with three touchdowns.",
+    "Tyler threw 23 touchdowns in his last college season at Louisville.",
+    "Tyler played for three college teams: Oregon, Texas Tech, and Louisville."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "NO",
+        "11",
+        "221",
+        "327",
+        "2,384",
+        "10",
+        "6"
+      ],
+      [
+        "2026",
+        "NO",
+        "10",
+        "254",
+        "385",
+        "2,395",
+        "16",
+        "8"
+      ]
+    ]
+  }
+}

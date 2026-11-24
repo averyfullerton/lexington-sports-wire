@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_1d63cf7e4268416e90a63ccc1a57b6b6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 34.6,
+  "input": {
+    "player": "Faizon Brandon",
+    "team": "Tennessee Volunteers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "At Grimsley High School, Faizon Brandon threw for 6,956 yards and 82 touchdowns as a three-year starter. His team went 35-1 and won two state titles.",
+      "As a sophomore at Grimsley, Faizon Brandon threw for 3,026 yards and 36 touchdowns, with just three interceptions.",
+      "Faizon Brandon was named Tennessee\u2019s starting quarterback as a true freshman.",
+      "In his college debut, Faizon Brandon became the first SEC player since Cam Newton to throw for three touchdowns and run for two in the same game.",
+      "Against LSU in 2026, Faizon Brandon scored on two fourth-quarter runs: one from 18 yards and another from 55 yards."
+    ],
+    "high_school": "Grimsley High School",
+    "hometown": "Greensboro, North Carolina"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages state Faizon Brandon\u2019s Grimsley career totals and team achievements, his sophomore-season passing stats, his appointment as Tennessee\u2019s true-freshman starter, his historic five-touchdown college debut, and his two fourth-quarter touchdown runs against LSU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49711401/sources-true-freshman-faizon-brandon-wins-tennessee-qb-job",
+          "excerpts": [
+            "He threw for 6,956 yards and 82 touchdowns as a three-year starter at Grimsley High School, where Brandon posted a 35-1 record and led his program to a pair of state titles.",
+            "Monday has named true freshman [Faizon Brandon](https://www.espn.com/college-football/player/_/id/5158973/faizon-brandon) as the Volunteers' starting quarterback.\n\nThe 6-foot-4 pocket passer from Greensboro, North Carolina, signed with the Vols last December and spent the offseason competing with second-year quarterback [George MacIntyre](https://www.espn.com/college-football/player/_/id/5141571/george-macintyre) for the program's starting job."
+          ],
+          "title": "True freshman Faizon Brandon wins Tennessee starting QB job - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/40717994/qb-faizon-brandon-no-32-class-2026-commits-tennessee",
+          "excerpts": [
+            "The 6-foot-4, 195-pound quarterback from Greensboro, North Carolina, threw for 3,026 yards and 36 touchdowns with three interceptions last fall as a sophomore at Grimsley High School. He stands as the first member of Tennessee's 2026 recruiting class, and leaves four-star pocket passer [Ryder Lyons](https://www.espn.com/college-sports/football/recruiting/player/_/id/256646/ryder-lyons) (No. 35 in the ESPN 300) as the cycle's last uncommitted top-10 pocket passer.\n\n## Editor's Picks\n\n*"
+          ],
+          "title": "QB Faizon Brandon, No. 32 in class of 2026, commits to Tennessee - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856666",
+          "excerpts": [
+            "Brandon became the first Southeastern Conference player since Auburn\u2019s Cam Newton to throw for three touchdowns and run for two in his debut.\n\n\u201c(Brandon) managed what we were trying to accomplish extremely well,\u201d said Tennessee coach Josh Heupel."
+          ],
+          "title": "Tennessee 56-9 Furman (Sep 5, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "Updated: Nov 22, 2026, 01:55 am\n\nFacebook Facebook Messenger Twitter Email\n\nKNOXVILLE, Tenn. -- \u2014 [Faizon Brandon](http://www.espn.com/college-football/player/_/id/5158973/faizon-brandon) had two long touchdown runs in the fourth quarter, Tennessee's stifling defense shut down LSU late, and the No. 9 Volunteers beat the Tigers 27-13 on Saturday to maintain their place in the College Football Playoff hunt.\n\nBrandon, a freshman who shared time at quarterback with [George MacIntyre](http://www.espn.com/college-football/player/_/id/5141571/george-macintyre) , broke a 13-all tie with an 18-yard touchdown run, then added a 55-yard scoring scamper with just over 4 minutes remaining to put the game away.\n\nMacIntyre was just 12 of 21 for 79 yards with a touchdown pass."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN\u2019s profile identifies Grimsley High School as Faizon Brandon\u2019s school; an ESPN report also describes him as a three-year starter there.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/256539/faizon-brandon",
+          "excerpts": [
+            "# Faizon Brandon\n\n* \n\n6-4, 195 | Class of 2026\n\n* Hometown [Greensboro, N.C.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/33/hometown/4203/class/2026)\n* School [Grimsley High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/5427)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2026)\n* Status Signed [Tennessee](https://www.espn.com/college-sports/football/recruiting/school/_/id/2633) 08/03/2024\n\n#### Scout Grade\n\n* 91\n*\n\n|3 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Faizon Brandon Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN\u2019s profile explicitly lists Greensboro, N.C., as Faizon Brandon\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/256539/faizon-brandon",
+          "excerpts": [
+            "# Faizon Brandon\n\n* \n\n6-4, 195 | Class of 2026\n\n* Hometown [Greensboro, N.C.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/33/hometown/4203/class/2026)\n* School [Grimsley High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/5427)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2026)\n* Status Signed [Tennessee](https://www.espn.com/college-sports/football/recruiting/school/_/id/2633) 08/03/2024\n\n#### Scout Grade\n\n* 91\n*\n\n|3 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Faizon Brandon Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage gives Brandon\u2019s three-year Grimsley passing totals, the team\u2019s 35-1 record, and its two state titles.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49711401/sources-true-freshman-faizon-brandon-wins-tennessee-qb-job",
+          "excerpts": [
+            "He threw for 6,956 yards and 82 touchdowns as a three-year starter at Grimsley High School, where Brandon posted a 35-1 record and led his program to a pair of state titles."
+          ],
+          "title": "True freshman Faizon Brandon wins Tennessee starting QB job - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage states that Brandon threw for 3,026 yards and 36 touchdowns with three interceptions as a Grimsley sophomore.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/40717994/qb-faizon-brandon-no-32-class-2026-commits-tennessee",
+          "excerpts": [
+            "The 6-foot-4, 195-pound quarterback from Greensboro, North Carolina, threw for 3,026 yards and 36 touchdowns with three interceptions last fall as a sophomore at Grimsley High School. He stands as the first member of Tennessee's 2026 recruiting class, and leaves four-star pocket passer [Ryder Lyons](https://www.espn.com/college-sports/football/recruiting/player/_/id/256646/ryder-lyons) (No. 35 in the ESPN 300) as the cycle's last uncommitted top-10 pocket passer.\n\n## Editor's Picks\n\n*"
+          ],
+          "title": "QB Faizon Brandon, No. 32 in class of 2026, commits to Tennessee - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says Tennessee named Brandon, a true freshman from Greensboro, its starting quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49711401/sources-true-freshman-faizon-brandon-wins-tennessee-qb-job",
+          "excerpts": [
+            "Monday has named true freshman [Faizon Brandon](https://www.espn.com/college-football/player/_/id/5158973/faizon-brandon) as the Volunteers' starting quarterback.\n\nThe 6-foot-4 pocket passer from Greensboro, North Carolina, signed with the Vols last December and spent the offseason competing with second-year quarterback [George MacIntyre](https://www.espn.com/college-football/player/_/id/5141571/george-macintyre) for the program's starting job."
+          ],
+          "title": "True freshman Faizon Brandon wins Tennessee starting QB job - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage identifies Brandon as the first SEC player since Cam Newton to throw for three touchdowns and run for two in his debut.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856666",
+          "excerpts": [
+            "Brandon became the first Southeastern Conference player since Auburn\u2019s Cam Newton to throw for three touchdowns and run for two in his debut.\n\n\u201c(Brandon) managed what we were trying to accomplish extremely well,\u201d said Tennessee coach Josh Heupel."
+          ],
+          "title": "Tennessee 56-9 Furman (Sep 5, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage describes Brandon\u2019s 18-yard and 55-yard touchdown runs in the fourth quarter against LSU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "Updated: Nov 22, 2026, 01:55 am\n\nFacebook Facebook Messenger Twitter Email\n\nKNOXVILLE, Tenn. -- \u2014 [Faizon Brandon](http://www.espn.com/college-football/player/_/id/5158973/faizon-brandon) had two long touchdown runs in the fourth quarter, Tennessee's stifling defense shut down LSU late, and the No. 9 Volunteers beat the Tigers 27-13 on Saturday to maintain their place in the College Football Playoff hunt.\n\nBrandon, a freshman who shared time at quarterback with [George MacIntyre](http://www.espn.com/college-football/player/_/id/5141571/george-macintyre) , broke a 13-all tie with an 18-yard touchdown run, then added a 55-yard scoring scamper with just over 4 minutes remaining to put the game away.\n\nMacIntyre was just 12 of 21 for 79 yards with a touchdown pass."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

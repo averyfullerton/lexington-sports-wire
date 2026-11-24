@@ -1,0 +1,431 @@
+{
+  "run_id": "trun_64eebd575c49450586014db134827f00",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 347.4,
+  "input": {
+    "away_team": "Pittsburgh Steelers",
+    "home_team": "Philadelphia Eagles",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Pittsburgh Steelers",
+    "key_plays": [
+      "Q1 0:35: Saquon Barkley 38-yard rushing touchdown, giving the Eagles a 13-0 lead.",
+      "Q3 4:48: Chris Boswell made a 52-yard field goal to cut the Eagles' lead to 16-9.",
+      "Q4 4:19: Jake Elliott made a 55-yard field goal to extend Philadelphia's lead to 19-9.",
+      "Q4 1:21: Aaron Rodgers threw a 20-yard touchdown pass to Max Hurleman, making it 19-16.",
+      "Q4 1:09: Joe Milton completed a 7-yard pass to DeVonta Smith on third-and-6 to secure the Eagles' first down and end Pittsburgh's comeback chance."
+    ],
+    "away_score": 16,
+    "storyline": "The Eagles snapped a seven-game losing streak, while Pittsburgh's loss extended its drought without a win in Philadelphia back to 1965.",
+    "top_performers": [
+      {
+        "stat_line": "17 carries, 75 yards, 1 TD",
+        "team": "Philadelphia Eagles",
+        "name": "Saquon Barkley"
+      },
+      {
+        "stat_line": "30 of 44, 227 yards, 1 TD, 0 INT, 5 sacks",
+        "team": "Pittsburgh Steelers",
+        "name": "Aaron Rodgers"
+      },
+      {
+        "stat_line": "6 receptions, 61 yards, 1 TD",
+        "team": "Pittsburgh Steelers",
+        "name": "Max Hurleman"
+      },
+      {
+        "stat_line": "4 of 4 field goals, long 55 yards; 1 of 1 XP",
+        "team": "Philadelphia Eagles",
+        "name": "Jake Elliott"
+      }
+    ],
+    "home_record_after": "3-7",
+    "tough_day": [
+      {
+        "stat_line": "20 carries, 73 yards, 0 TD",
+        "team": "Pittsburgh Steelers",
+        "name": "Rushing offense"
+      },
+      {
+        "stat_line": "1 reception, 2 yards; ejected",
+        "team": "Pittsburgh Steelers",
+        "name": "DK Metcalf"
+      }
+    ],
+    "away_record_after": "6-4",
+    "home_team": "Philadelphia Eagles",
+    "home_score": 19
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game summary identifies the visitor and home teams and gives the completed quarter-by-quarter totals, confirming the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 6 7 0 16 HOME: Philadelphia Eagles 13 0 3 3 0 19 **1 2 3 4 OT Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official summary labels Pittsburgh as the visitor, identifying the away team as the Pittsburgh Steelers.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 6 7 0 16"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary lists the scoring plays and their quarters and times; the recap describes Milton's late third-down completion to Smith that stopped Pittsburgh's comeback chance.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Play Description (Extra Point) (Drive Info) Team Qtr Time Visitor Home** Eagles J.Elliott 41 yd. Field Goal (5-17, 2:39) 0 3 1 10:01 Eagles J.Elliott 29 yd. Field Goal (9-58, 4:53) 0 6 1 2:57 Eagles S.Barkley 38 yd. run (J.Elliott kick) (2-48, 0:44) 0 13 1 0:35 Steelers C.Boswell 25 yd. Field Goal (17-77, 8:22) 3 13 2 1:01 Steelers C.Boswell 40 yd. Field Goal (4-2, 0:57) 6 13 3 13:55 Eagles J.Elliott 53 yd. Field Goal (6-20, 2:32) 6 16 3 8:33 Steelers C.Boswell 52 yd. Field Goal (9-30, 3:45) 9 16 3 4:48 Eagles J.Elliott 55 yd. Field Goal (9-34, 4:20) 9 19 4 4:19 Steelers M.Hurleman 20 yd. pass from A.Rodgers (C.Boswell kick) (13-72, 2:58) 16 19 4 1:21"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873076",
+          "excerpts": [
+            "His completion on third-and-6 to Smith for 7 yards with 1:09 left wiped out any shot of a last-gasp Steelers comeback."
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official game summary gives Pittsburgh's final total as 16.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Pittsburgh Steelers 0 3 6 7 0 16"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The game recap states that Philadelphia snapped a seven-game losing streak and that Pittsburgh remained winless in Philadelphia since 1965.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873076",
+          "excerpts": [
+            "Eagles snap 7-game losing streak and keep Steelers winless in Philly since 1965 with 19-16 victory"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The box-score evidence gives Barkley's rushing line, Rodgers' passing and sack totals, Hurleman's receiving line, and Elliott's field-goal and extra-point results.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "| [Saquon Barkley](https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley) #26 | | [Will Shipley](https://www.espn.com/nfl/player/_/id/4431545/will-shipley) #28 | | [Joe Milton](https://www.espn.com/nfl/player/_/id/4360698/joe-milton) #14 | | team | | CAR | YDS | TD | LONG | | 17 | 75 | 1 | 38 |",
+            "[Aaron Rodgers](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) #8 | | team | | C/ATT | YDS | TD | INT | SACKS | | 30/44 | 227 | 1 | 0 | 5-45 |",
+            "[Max Hurleman](https://www.espn.com/nfl/player/_/id/4694237/max-hurleman) #84 | | [Roman Wilson](https://www.espn.com/nfl/player/_/id/4431492/roman-wilson) #14 | | [Germie Bernard](https://www.espn.com/nfl/player/_/id/4685261/germie-bernard) #17 | | [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Darnell Washington](https://www.espn.com/nfl/player/_/id/4430802/darnell-washington) #80 | ... |  | | [Max Hurleman](https://www.espn.com/nfl/player/_/id/4694237/max-hurleman) #84 | | [Roman Wilson](https://www.espn.com/nfl/player/_/id/4431492/roman-wilson) #14 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | team | | REC | YDS | TD | LONG | TGTS | | 6 | 61 | 1 | 20 | 7 |",
+            "Eagles Philadelphia Kicking |  | | [Jake Elliott](https://www.espn.com/nfl/player/_/id/3050478/jake-elliott) #4 | | team | | FG | PCT | LONG | XP | PTS | | 4/4 | 100.0 | 55 | 1/1 | 13 |"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final scoreboard lists the Eagles at 3-7 after the 19-16 result.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard/_/week/11/year/2026/seasontype/2",
+          "excerpts": [
+            "[Steelers](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)\n  \n  ( 6-4 2-4 Away )\n  \n  0\n  \n  3\n  \n  6\n  \n  7\n  \n  16\n* [](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n  \n  [Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n  \n  ( 3-7 2-4 Home )\n  \n  13\n  \n  0\n  \n  3\n  \n  3\n  \n  19\n\n0:52\n\n## Pittsburgh Steelers vs. Philadelphia Eagles: Game Highlights\n\n[Gamecast](https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles) [Box Score](https://www.espn.com/nfl/boxscore/_/gameId/401873076) [Highlights](https://www.espn.com/nfl/video/_/gameId/401873076)"
+          ],
+          "title": "NFL Scores - Regular Season Week 11, 2026 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The official statistics show Pittsburgh had 73 rushing yards on 20 attempts and Metcalf recorded one catch for two yards; the recap reports his ejection.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** A.Rodgers 29 5.8 0 5 12 S.Barkley 75 4.4 1 17 **38** J.Warren 28 3.1 0 9 11 W.Shipley 9 2.3 0 4 4 R.Dowdle 15 3.0 0 5 10 J.Milton 7 1.4 0 5 5 P.Freiermuth 1 1.0 0 1 1 20 73 3.7 12 0 Total 26 91 3.5 38 1 Total",
+            "D.Metcalf 2 2.0 0 1 4 2"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873076",
+          "excerpts": [
+            "Metcalf finished with one catch for 2 yards. He was ejected for the third time in his career."
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final scoreboard lists the Steelers at 6-4 after the 16-19 result.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/scoreboard/_/week/11/year/2026/seasontype/2",
+          "excerpts": [
+            "[Steelers](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)\n  \n  ( 6-4 2-4 Away )\n  \n  0\n  \n  3\n  \n  6\n  \n  7\n  \n  16\n* [](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n  \n  [Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n  \n  ( 3-7 2-4 Home )\n  \n  13\n  \n  0\n  \n  3\n  \n  3\n  \n  19\n\n0:52\n\n## Pittsburgh Steelers vs. Philadelphia Eagles: Game Highlights\n\n[Gamecast](https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles) [Box Score](https://www.espn.com/nfl/boxscore/_/gameId/401873076) [Highlights](https://www.espn.com/nfl/video/_/gameId/401873076)"
+          ],
+          "title": "NFL Scores - Regular Season Week 11, 2026 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official summary identifies Philadelphia as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Philadelphia Eagles 13 0 3 3 0 19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official game summary gives Philadelphia's final total as 19.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Philadelphia Eagles 13 0 3 3 0 19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The official scoring summary records Barkley's 38-yard rushing touchdown in the first quarter at 0:35.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Eagles S.Barkley 38 yd. run (J.Elliott kick) (2-48, 0:44) 0 13 1 0:35"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The official scoring summary records Boswell's 52-yard field goal in the third quarter at 4:48.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Steelers C.Boswell 52 yd. Field Goal (9-30, 3:45) 9 16 3 4:48"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring summary records Elliott's 55-yard field goal in the fourth quarter at 4:19.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Eagles J.Elliott 55 yd. Field Goal (9-34, 4:20) 9 19 4 4:19"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official scoring summary identifies Rodgers' 20-yard touchdown pass to Hurleman in the fourth quarter at 1:21.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Steelers M.Hurleman 20 yd. pass from A.Rodgers (C.Boswell kick) (13-72, 2:58) 16 19 4 1:21"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The play-by-play places Milton's seven-yard completion to Smith at 1:09 in the fourth quarter; the recap says it wiped out Pittsburgh's last-gasp comeback chance.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**Fourth Quarter** **Play By Play** 11/22/2026",
+            "(1:09) (Shotgun) J.Milton pass short left to D.Smith to PHI 46 for 7 yards (J.Dean). 3-6-PHI 39 P11"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873076",
+          "excerpts": [
+            "His completion on third-and-6 to Smith for 7 yards with 1:09 left wiped out any shot of a last-gasp Steelers comeback."
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box score identifies Barkley and lists 17 carries, 75 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "| [Saquon Barkley](https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley) #26 | | [Will Shipley](https://www.espn.com/nfl/player/_/id/4431545/will-shipley) #28 | | [Joe Milton](https://www.espn.com/nfl/player/_/id/4360698/joe-milton) #14 | | team | | CAR | YDS | TD | LONG | | 17 | 75 | 1 | 38 |"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box score lists Rodgers' 30 completions on 44 attempts, 227 yards, one touchdown, no interceptions, and five sacks for 45 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "[Aaron Rodgers](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers) #8 | | team | | C/ATT | YDS | TD | INT | SACKS | | 30/44 | 227 | 1 | 0 | 5-45 |"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving box-score row for Hurleman records six catches, 61 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "[Max Hurleman](https://www.espn.com/nfl/player/_/id/4694237/max-hurleman) #84 | | [Roman Wilson](https://www.espn.com/nfl/player/_/id/4431492/roman-wilson) #14 | | [Germie Bernard](https://www.espn.com/nfl/player/_/id/4685261/germie-bernard) #17 | | [Pat Freiermuth](https://www.espn.com/nfl/player/_/id/4361411/pat-freiermuth) #88 | | [Darnell Washington](https://www.espn.com/nfl/player/_/id/4430802/darnell-washington) #80 | ... |  | | [Max Hurleman](https://www.espn.com/nfl/player/_/id/4694237/max-hurleman) #84 | | [Roman Wilson](https://www.espn.com/nfl/player/_/id/4431492/roman-wilson) #14 | | [Jaylen Warren](https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren) #30 | | team | | REC | YDS | TD | LONG | TGTS | | 6 | 61 | 1 | 20 | 7 |"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The kicking box score lists Elliott at four field goals made on four attempts, a long of 55 yards, and one extra point made.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "Eagles Philadelphia Kicking |  | | [Jake Elliott](https://www.espn.com/nfl/player/_/id/3050478/jake-elliott) #4 | | team | | FG | PCT | LONG | XP | PTS | | 4/4 | 100.0 | 55 | 1/1 | 13 |"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official team rushing total records 20 Pittsburgh carries for 73 yards and no rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**RUSHING ATT YDS LG TD AVG RUSHING ATT YDS LG TD AVG** A.Rodgers 29 5.8 0 5 12 S.Barkley 75 4.4 1 17 **38** J.Warren 28 3.1 0 9 11 W.Shipley 9 2.3 0 4 4 R.Dowdle 15 3.0 0 5 10 J.Milton 7 1.4 0 5 5 P.Freiermuth 1 1.0 0 1 1 20 73 3.7 12 0 Total 26 91 3.5 38 1 Total"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The box score records Metcalf's one catch for two yards, and the game recap reports that he was ejected.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795382134/gamecenter/abbf1908-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "D.Metcalf 2 2.0 0 1 4 2"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873076",
+          "excerpts": [
+            "Metcalf finished with one catch for 2 yards. He was ejected for the third time in his career."
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Steelers fought back in Philadelphia, but the Eagles held on to win 19-16. Saquon Barkley dashed 38 yards for an Eagles touchdown! Jake Elliott later booted a 55-yard field goal. Aaron Rodgers hit Max Hurleman for a touchdown, bringing Pittsburgh within 3 points. Then Joe Milton found DeVonta Smith for a clutch first down! The Eagles snapped a 7-game skid and moved to 3-7.",
+    "big_words": [
+      {
+        "word": "clutch",
+        "definition": "Coming through at just the right time.",
+        "example": "Diego made a clutch grab before his library book hit the floor."
+      }
+    ],
+    "opener": "Start with the losing team's side of the story, then turn to the winners.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1248,
+        "output": 141
+      }
+    ]
+  }
+}

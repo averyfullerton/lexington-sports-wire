@@ -1,0 +1,51 @@
+{
+  "name": "Bryce Underwood",
+  "espn_id": "5141741",
+  "team": "Michigan Wolverines",
+  "team_abbr": "MICH",
+  "number": "19",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Detroit, MI",
+  "league": "cfb",
+  "fun_facts": [
+    "Bryce's high school team won 38 games in a row.",
+    "Bryce threw passes at Michigan's practice field until 2 a.m.",
+    "Bryce threw the winning two-point conversion against UCLA in triple overtime."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "MICH",
+        "202",
+        "335",
+        "2,428",
+        "11",
+        "9"
+      ],
+      [
+        "2026",
+        "MICH",
+        "85",
+        "156",
+        "1,077",
+        "6",
+        "6"
+      ]
+    ]
+  }
+}

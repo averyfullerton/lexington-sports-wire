@@ -1,0 +1,167 @@
+{
+  "run_id": "trun_1d63cf7e4268416eb4bee913f0de3a2a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 116.4,
+  "input": {
+    "player": "Bear Bachmeier",
+    "team": "BYU Cougars",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "As a kid, Bear Bachmeier staged home-run derbies with a rolled-up sock, had WWE-style ladder matches, and started playing tackle football at age 5.",
+      "He would approach strangers with a whiffle ball, take a batting stance, and ask them to throw it to him.",
+      "At age 3, he could dribble a basketball between his legs; he also played hallway football.",
+      "Before his senior season at Murrieta Valley, he had already thrown for 5,550 yards and 47 touchdowns.",
+      "In 2026, he became the first BYU quarterback since Steve Young in the 1983 Holiday Bowl to record a passing, rushing, and receiving touchdown in the same game."
+    ],
+    "high_school": "Murrieta Valley High School",
+    "hometown": "Murrieta, California"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages describe Bachmeier's childhood games, his whiffle-ball approach to strangers, his basketball skill at age 3, his high-school passing totals, and the BYU passing-rushing-receiving touchdown milestone.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47050380/byu-qb-bear-bachmeier-cougars-college-football-playoff-contention",
+          "excerpts": [
+            "Childhood was filled with impromptu competitions such a home run derby with a rolled-up sock, WWE ladder matches and tackle football beginning at age 5.",
+            "He'd walk up to strangers with a whiffle ball, get in a batting stance and say, \"Throw me the ball."
+          ],
+          "title": "BYU QB Bear Bachmeier has Cougars in Big 12, CFP contention - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/39464810/dual-threat-qb-bear-bachmeier-commits-stanford-2025",
+          "excerpts": [
+            "He recalled childhood games of hallway football and Bear Bachmeier being able to dribble a basketball between his legs at age 3.",
+            "The 6-foot-2, 215-pound Bachmeier is entering his senior year at Murrieta Valley (California) High School having already thrown for 5,550 yards and 47 touchdowns."
+          ],
+          "title": "Dual-threat QB Bear Bachmeier commits to Stanford for 2025 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50232147/2026-midseason-player-rank-top-25",
+          "excerpts": [
+            "2 Notre Dame vaulted Bachmeier into the rankings, as he became the first BYU quarterback to record a passing, rushing and receiving touchdown in the same game since Steve Young in the 1983 Holiday Bowl."
+          ],
+          "title": "2026 CFB Player Rank - The top 25 players at midseason - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile identifies Murrieta Valley High School as Bachmeier's school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/253880/bear-bachmeier",
+          "excerpts": [
+            "School [Murrieta Valley High School]"
+          ],
+          "title": "Bear Bachmeier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The recruiting profile lists Murrieta, California, as Bachmeier's hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/253880/bear-bachmeier",
+          "excerpts": [
+            "Hometown [Murrieta, Calif."
+          ],
+          "title": "Bear Bachmeier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says his childhood included sock-based home-run derbies, WWE ladder matches, and tackle football beginning at age 5.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47050380/byu-qb-bear-bachmeier-cougars-college-football-playoff-contention",
+          "excerpts": [
+            "Childhood was filled with impromptu competitions such a home run derby with a rolled-up sock, WWE ladder matches and tackle football beginning at age 5."
+          ],
+          "title": "BYU QB Bear Bachmeier has Cougars in Big 12, CFP contention - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage describes him approaching strangers with a whiffle ball, getting into a batting stance, and asking them to throw it.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47050380/byu-qb-bear-bachmeier-cougars-college-football-playoff-contention",
+          "excerpts": [
+            "He'd walk up to strangers with a whiffle ball, get in a batting stance and say, \"Throw me the ball."
+          ],
+          "title": "BYU QB Bear Bachmeier has Cougars in Big 12, CFP contention - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says he could dribble a basketball between his legs at age 3 and recalls playing hallway football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/39464810/dual-threat-qb-bear-bachmeier-commits-stanford-2025",
+          "excerpts": [
+            "He recalled childhood games of hallway football and Bear Bachmeier being able to dribble a basketball between his legs at age 3."
+          ],
+          "title": "Dual-threat QB Bear Bachmeier commits to Stanford for 2025 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says that before his senior year at Murrieta Valley, he had thrown for 5,550 yards and 47 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/39464810/dual-threat-qb-bear-bachmeier-commits-stanford-2025",
+          "excerpts": [
+            "The 6-foot-2, 215-pound Bachmeier is entering his senior year at Murrieta Valley (California) High School having already thrown for 5,550 yards and 47 touchdowns."
+          ],
+          "title": "Dual-threat QB Bear Bachmeier commits to Stanford for 2025 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage identifies him as the first BYU quarterback since Steve Young in the 1983 Holiday Bowl to record passing, rushing, and receiving touchdowns in one game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50232147/2026-midseason-player-rank-top-25",
+          "excerpts": [
+            "2 Notre Dame vaulted Bachmeier into the rankings, as he became the first BYU quarterback to record a passing, rushing and receiving touchdown in the same game since Steve Young in the 1983 Holiday Bowl."
+          ],
+          "title": "2026 CFB Player Rank - The top 25 players at midseason - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

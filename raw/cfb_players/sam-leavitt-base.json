@@ -1,0 +1,149 @@
+{
+  "run_id": "trun_1d63cf7e4268416e8f8019b4b6a0a29b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 63.4,
+  "input": {
+    "player": "Sam Leavitt",
+    "team": "LSU Tigers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Sam Leavitt is from West Linn, Oregon.",
+      "As a senior at West Linn High School, he won Oregon Gatorade Player of the Year.",
+      "As a true freshman at Michigan State, he played in four games and completed 15 of 23 passes for 139 yards and two touchdowns.",
+      "In 2024, he helped Arizona State win the Big 12 championship and reach the College Football Playoff, earning Big 12 Offensive Freshman of the Year and second-team all-conference honors."
+    ],
+    "high_school": "West Linn High School",
+    "hometown": "West Linn, Oregon"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN profile identifies West Linn as Leavitt\u2019s hometown. ESPN reports that he won Oregon Gatorade Player of the Year as a West Linn senior, played four games as a true freshman at Michigan State, and completed 15 of 23 passes for 139 yards and two touchdowns. ESPN also reports his 2024 Arizona State achievements and honors.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/251545/sam-leavitt",
+          "excerpts": [
+            "Hometown [West Linn, Ore.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/43/hometown/7021/class/2023)"
+          ],
+          "title": "Sam Leavitt Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40919853/sources-asu-qb-sam-leavitt-start-opener-vs-wyoming",
+          "excerpts": [
+            "Sources told ESPN that redshirt freshman transfer [Sam Leavitt](https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) has been named the starting quarterback for the opener against Wyoming. He beat out transfer [Jeff Sims](https://www.espn.com/college-football/player/_/id/4429066/jeff-sims) (Georgia Tech/Nebraska), and sources said both have been informed of the decision.\n\nLeavitt won the job after emerging as the favorite with a strong camp. At Michigan State last season, he completed 15-of-23 passes for 139 yards and two touchdowns.\n\nLeavitt played in four games as a true freshman at MSU. He is an Oregon native who won Oregon Gatorade Player of the Year as a senior at West Linn High School."
+          ],
+          "title": "Sources: ASU QB Sam Leavitt to start in opener vs. Wyoming - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47590116/lsu-likely-land-transfer-qb-sam-leavitt-sources-say",
+          "excerpts": [
+            "Leavitt, the Big 12's preseason Offensive Player of the Year, has thrown for 4,652 yards, rushed for 816 yards and scored 46 total touchdowns with 11 interceptions in his career between two years at Arizona State and one at [Michigan State](https://www.espn.com/college-football/team/_/id/127/michigan-state-spartans) .\n\nThe 6-foot-2, 205-pound redshirt sophomore led the Sun Devils to a Big 12 championship and a College Football Playoff appearance during his first season in the program in 2024, earning Big 12 Offensive Freshman of the Year and second-team all-conference honors."
+          ],
+          "title": "Sources: After visiting Miami, QB Sam Leavitt signs with LSU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "ESPN names West Linn High School as the school where Leavitt was a senior when he won Oregon Gatorade Player of the Year.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40919853/sources-asu-qb-sam-leavitt-start-opener-vs-wyoming",
+          "excerpts": [
+            "Sources told ESPN that redshirt freshman transfer [Sam Leavitt](https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) has been named the starting quarterback for the opener against Wyoming. He beat out transfer [Jeff Sims](https://www.espn.com/college-football/player/_/id/4429066/jeff-sims) (Georgia Tech/Nebraska), and sources said both have been informed of the decision.\n\nLeavitt won the job after emerging as the favorite with a strong camp. At Michigan State last season, he completed 15-of-23 passes for 139 yards and two touchdowns.\n\nLeavitt played in four games as a true freshman at MSU. He is an Oregon native who won Oregon Gatorade Player of the Year as a senior at West Linn High School."
+          ],
+          "title": "Sources: ASU QB Sam Leavitt to start in opener vs. Wyoming - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile explicitly lists Sam Leavitt\u2019s hometown as West Linn, Oregon.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/251545/sam-leavitt",
+          "excerpts": [
+            "Hometown [West Linn, Ore.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/43/hometown/7021/class/2023)"
+          ],
+          "title": "Sam Leavitt Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile identifies West Linn, Oregon, as Leavitt\u2019s hometown.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/251545/sam-leavitt",
+          "excerpts": [
+            "Hometown [West Linn, Ore.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/43/hometown/7021/class/2023)"
+          ],
+          "title": "Sam Leavitt Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN states that Leavitt won Oregon Gatorade Player of the Year as a senior at West Linn High School.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40919853/sources-asu-qb-sam-leavitt-start-opener-vs-wyoming",
+          "excerpts": [
+            "Sources told ESPN that redshirt freshman transfer [Sam Leavitt](https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) has been named the starting quarterback for the opener against Wyoming. He beat out transfer [Jeff Sims](https://www.espn.com/college-football/player/_/id/4429066/jeff-sims) (Georgia Tech/Nebraska), and sources said both have been informed of the decision.\n\nLeavitt won the job after emerging as the favorite with a strong camp. At Michigan State last season, he completed 15-of-23 passes for 139 yards and two touchdowns.\n\nLeavitt played in four games as a true freshman at MSU. He is an Oregon native who won Oregon Gatorade Player of the Year as a senior at West Linn High School."
+          ],
+          "title": "Sources: ASU QB Sam Leavitt to start in opener vs. Wyoming - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN reports that he played in four games as a true freshman at Michigan State and completed 15 of 23 passes for 139 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/40919853/sources-asu-qb-sam-leavitt-start-opener-vs-wyoming",
+          "excerpts": [
+            "Sources told ESPN that redshirt freshman transfer [Sam Leavitt](https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) has been named the starting quarterback for the opener against Wyoming. He beat out transfer [Jeff Sims](https://www.espn.com/college-football/player/_/id/4429066/jeff-sims) (Georgia Tech/Nebraska), and sources said both have been informed of the decision.\n\nLeavitt won the job after emerging as the favorite with a strong camp. At Michigan State last season, he completed 15-of-23 passes for 139 yards and two touchdowns.\n\nLeavitt played in four games as a true freshman at MSU. He is an Oregon native who won Oregon Gatorade Player of the Year as a senior at West Linn High School."
+          ],
+          "title": "Sources: ASU QB Sam Leavitt to start in opener vs. Wyoming - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN credits Leavitt with helping Arizona State win the 2024 Big 12 championship and reach the College Football Playoff, and lists his Big 12 Offensive Freshman of the Year and second-team all-conference honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/47590116/lsu-likely-land-transfer-qb-sam-leavitt-sources-say",
+          "excerpts": [
+            "Leavitt, the Big 12's preseason Offensive Player of the Year, has thrown for 4,652 yards, rushed for 816 yards and scored 46 total touchdowns with 11 interceptions in his career between two years at Arizona State and one at [Michigan State](https://www.espn.com/college-football/team/_/id/127/michigan-state-spartans) .\n\nThe 6-foot-2, 205-pound redshirt sophomore led the Sun Devils to a Big 12 championship and a College Football Playoff appearance during his first season in the program in 2024, earning Big 12 Offensive Freshman of the Year and second-team all-conference honors."
+          ],
+          "title": "Sources: After visiting Miami, QB Sam Leavitt signs with LSU - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

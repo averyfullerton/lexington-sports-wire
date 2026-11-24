@@ -1,0 +1,171 @@
+{
+  "run_id": "trun_415f3f698c1f435b8823f73bbe7fad38",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 82.3,
+  "input": {
+    "player": "Xavier Worthy",
+    "team": "Kansas City Chiefs",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Texas",
+    "fun_facts": [
+      "Xavier Worthy is from Fresno, California.",
+      "Xavier Worthy played both football and track at Central East High School.",
+      "As a high school junior, Xavier Worthy helped Central East win its first state title after a 15\u20130 season, catching 55 passes for 992 yards and 16 touchdowns.",
+      "Xavier Worthy ran the 100 meters in 10.55 seconds as a sophomore.",
+      "As a Texas freshman, Xavier Worthy set school records with 62 catches, 981 receiving yards and 12 receiving touchdowns.",
+      "At the 2024 NFL Combine, Xavier Worthy ran the 40-yard dash in 4.21 seconds, setting a combine record."
+    ],
+    "draft": "2024, round 1, pick 28"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NCAA profile identifies Texas as Xavier Worthy's school and lists his active college years.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "**School:** Texas **Position:** Wide receiver **Height:** 5-foot-11 **Weight:** 165 pounds **Years active:** 2021-2023"
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NCAA profile states Worthy's Fresno hometown, high-school sports, junior-season team and receiving achievements, 100-meter time, Texas freshman records, and NFL Combine 40-yard-dash record.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Xavier Worthy, a native of Fresno, California, signed with Texas over offers that included Michigan, Oregon and more, per [247Sports",
+            "Worthy was a two-sport athlete in football and track at Central East High School.",
+            "Worthy's senior season was cancelled due to COVID-19, but as a junior he led Central East to its first-ever CIF Division 1-AA state championship after a 15-0 season where he caught 55 passes for 992 yards and 16 touchdowns.",
+            "On the track, Worthy PR'd in the 100 meters as a sophomore in 10.55 seconds.",
+            "1st in Texas freshman receptions (62) 1st in Texas freshman receiving yards (981) 1st in Texas freshman receiving touchdowns (12)",
+            "After college, Xavier Worthy set the **NFL Combine 40-yard dash record,** finishing in 4.21 seconds."
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft video description explicitly identifies Xavier Worthy's selection by Kansas City in Round 1 of the 2024 draft at No. 28 overall.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/chiefs-select-xavier-worthy-with-no-28-pick-in-2024-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Chiefs select Xavier Worthy with No. 28 pick in 2024 draft\n\nIn association with the Make-A-Wish Foundation, diehard Kansas City Chiefs fan Justin announces Kansas City's selection of Texas Longhorns wide receiver Xavier Worthy in Round 1 of the 2024 NFL Draft with the No. 28 overall pick (via a trade with the Buffalo Bills).\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Kansas City Chiefs select wide receiver Xavier Worthy with No. 28 pick in 2024 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile describes Xavier Worthy as a native of Fresno, California.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Xavier Worthy, a native of Fresno, California, signed with Texas over offers that included Michigan, Oregon and more, per [247Sports"
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile states that Xavier Worthy competed in football and track at Central East High School.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Worthy was a two-sport athlete in football and track at Central East High School."
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The profile says that as a junior, Xavier Worthy led Central East to its first state title after a 15\u20130 season and caught 55 passes for 992 yards and 16 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Worthy's senior season was cancelled due to COVID-19, but as a junior he led Central East to its first-ever CIF Division 1-AA state championship after a 15-0 season where he caught 55 passes for 992 yards and 16 touchdowns."
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The profile gives Xavier Worthy's sophomore 100-meter personal record as 10.55 seconds.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "On the track, Worthy PR'd in the 100 meters as a sophomore in 10.55 seconds."
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The profile lists Texas freshman records of 62 receptions, 981 receiving yards, and 12 receiving touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "1st in Texas freshman receptions (62) 1st in Texas freshman receiving yards (981) 1st in Texas freshman receiving touchdowns (12)"
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The profile says Xavier Worthy set the NFL Combine 40-yard-dash record with a time of 4.21 seconds.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-06/xavier-worthy-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "After college, Xavier Worthy set the **NFL Combine 40-yard dash record,** finishing in 4.21 seconds."
+          ],
+          "title": "Xavier Worthy: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

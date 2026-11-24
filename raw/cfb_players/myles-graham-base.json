@@ -1,0 +1,180 @@
+{
+  "run_id": "trun_1d63cf7e4268416ea7eb65355b41c540",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 178.2,
+  "input": {
+    "player": "Myles Graham",
+    "team": "Florida Gators",
+    "position": "Linebacker",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Myles Graham grew up around football in Gainesville. His father, Earnest Graham, was a Florida and NFL running back.",
+      "He wears No. 5 for Florida\u2014the same number his father wore as a Gator.",
+      "At Gainesville\u2019s Buchholz High, Myles Graham was a two-way standout, playing on both sides of the ball in 2023.",
+      "In 2025, he led Florida with 76 tackles, becoming the first Gators linebacker to lead the team in tackles since 2021.",
+      "In 2026, his 57-yard fumble return against Vanderbilt was his first career touchdown, and he was named SEC Co-Defensive Player of the Week."
+    ],
+    "high_school": "Buchholz High School",
+    "hometown": "Gainesville, Fla."
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the five facts: Myles Graham grew up around football and his father Earnest played for Florida and in the NFL; he says he wears the same number his father wore; a Florida feature describes his two-way play at Buchholz; the roster bio records his 2025 tackle lead and milestone; and Florida\u2019s Vanderbilt report and weekly award announcement document the 57-yard fumble return, first career touchdown, and SEC honor.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/news/2025/9/18/football-gators-linebacker-myles-graham-living-up-to-legacy-florida-at-miami-college-football.aspx",
+          "excerpts": [
+            "5 Orange & Blue jersey runs in the family. His father, former UF and NFL running back Earnest Graham, is the fourth all-time leading rusher in school history (3,085 yards from 1999-2002).  \n  \n[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/17585) grew up around the game and, as a senior, transferred to Gainesville's Buchholz High, a few miles from the UF campus. His father is in his first season as head coach at Santa Fe High School. Their bond was built around the game, and the Gators are a massive part of their story.",
+            "Florida's defense has surrendered just two touchdowns and is ranked 23rd nationally in rushing defense and 28th overall.  \n  \n[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/17585) is the present and future. He is just getting started. To help him find his way, he often thinks about the past.  \n  \n\"Being a legacy [player] here is everything,\" he said. \"I get to put on the 5, the same number my dad wore at Florida. I have Graham on my back. So, being a legacy means everything to me."
+          ],
+          "title": "Gators LB Myles Graham Living Up To Legacy - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/documents/download/2026/8/12/Myles_Graham_-_Feature_Clips.pdf",
+          "excerpts": [
+            "## \n\nFLORIDA FOOTBALL Myles Graham\n6 days ago \u2014 Graham , the son of former UF running back Earnest Graham , returns for his third season with the Gators in 2026 after a stellar 2025 campaign in the middle of\u00a0... Read more 21 pages\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nAug 12, 2026 \u2014 Graham led Florida's defense with 76 tackles, including seven tackles for loss and two sacks, as a sophomore in 2025, and his four defended\n\n...\n\nDepot College Football Awards show on December 11, and also serve as captain of the 2026 Allstate. AFCA\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nThe younger Graham was a two-way standout in high school. At Gainesville's Buchholz High, Myles starred on both sides of the ball in 2023, but linebacker proved.\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nAug 12, 2026 \u2014 The son of former Gators running back Earnest Graham appeared in all 13 games in 2024, tallying 30 tackles (nine solo), one sack,"
+          ],
+          "title": "FLORIDA FOOTBALL Myles Graham"
+        },
+        {
+          "url": "https://floridagators.com/sports/football/roster/myles-graham/18265",
+          "excerpts": [
+            "**2025:** Started every game of the 2025 campaign and led the Gators with 76 tackles (36 solo), becoming first UF linebacker to lead team in tackles since 2021."
+          ],
+          "title": "Myles Graham - Football - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Not two minutes later, UF was back in the end zone celebrating after linebacker **[Ty Jackson](https://floridagators.com/sports/football/roster/ty-jackson/18270)** forced a fumble by running back **Makhilyn Young** and linebacker **[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/18265)** did a 57-yard scoop-and-score to put Florida ahead 17-9 with 5:27 to play in the half. Vanderbilt, though, had an answer. A couple, actually."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/23/football-graham-tabbed-sec-co-defensive-player-of-the-week",
+          "excerpts": [
+            "Graham finished with a team high 10 tackles along with a 57-yard scoop-and-score\n\nBy: Noah Trala\n\nGAINESVILLE, Fla. \u2013 Junior linebacker [Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/18265) has been named SEC Co-Defensive Player of the Week following his performance in No. 20 Florida's 34-27 win over Vanderbilt on Saturday, the conference announced on Monday.  \n  \nGraham led the Gators with 10 tackles (two solo), marking his sixth time this season that he has led the Gators in tackles in a game.",
+            "The scoop-and-score was Graham's first touchdown of his career, the first defensive touchdown for the"
+          ],
+          "title": "Graham Tabbed SEC Co-Defensive Player of the Week - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The Florida roster identifies Buchholz as Myles Graham\u2019s high school.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/myles-graham/18265",
+          "excerpts": [
+            "[](https://x.com/MylesGraham2) [](https://www.instagram.com/mylessgraham)\n\n* Position:\n      Inside Linebacker\n* Class:\n      Junior\n* Season at UF:\n      3rd\n* Hometown:\n      Gainesville, Fla.\n* High School:\n      Buchholz\n* Height:\n      6-1\n* Weight:\n      228"
+          ],
+          "title": "Myles Graham - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The Florida roster lists his hometown as Gainesville, Fla.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/myles-graham/18265",
+          "excerpts": [
+            "[](https://x.com/MylesGraham2) [](https://www.instagram.com/mylessgraham)\n\n* Position:\n      Inside Linebacker\n* Class:\n      Junior\n* Season at UF:\n      3rd\n* Hometown:\n      Gainesville, Fla.\n* High School:\n      Buchholz\n* Height:\n      6-1\n* Weight:\n      228"
+          ],
+          "title": "Myles Graham - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Myles Graham grew up around the game and identifies his father, Earnest Graham, as a former UF and NFL running back.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/news/2025/9/18/football-gators-linebacker-myles-graham-living-up-to-legacy-florida-at-miami-college-football.aspx",
+          "excerpts": [
+            "5 Orange & Blue jersey runs in the family. His father, former UF and NFL running back Earnest Graham, is the fourth all-time leading rusher in school history (3,085 yards from 1999-2002).  \n  \n[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/17585) grew up around the game and, as a senior, transferred to Gainesville's Buchholz High, a few miles from the UF campus. His father is in his first season as head coach at Santa Fe High School. Their bond was built around the game, and the Gators are a massive part of their story."
+          ],
+          "title": "Gators LB Myles Graham Living Up To Legacy - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "Myles Graham says he wears No. 5, the same number his father wore at Florida.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/news/2025/9/18/football-gators-linebacker-myles-graham-living-up-to-legacy-florida-at-miami-college-football.aspx",
+          "excerpts": [
+            "Florida's defense has surrendered just two touchdowns and is ranked 23rd nationally in rushing defense and 28th overall.  \n  \n[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/17585) is the present and future. He is just getting started. To help him find his way, he often thinks about the past.  \n  \n\"Being a legacy [player] here is everything,\" he said. \"I get to put on the 5, the same number my dad wore at Florida. I have Graham on my back. So, being a legacy means everything to me."
+          ],
+          "title": "Gators LB Myles Graham Living Up To Legacy - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Florida feature says Graham was a two-way high school standout and starred on both sides of the ball at Gainesville\u2019s Buchholz High in 2023.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2026/8/12/Myles_Graham_-_Feature_Clips.pdf",
+          "excerpts": [
+            "## \n\nFLORIDA FOOTBALL Myles Graham\n6 days ago \u2014 Graham , the son of former UF running back Earnest Graham , returns for his third season with the Gators in 2026 after a stellar 2025 campaign in the middle of\u00a0... Read more 21 pages\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nAug 12, 2026 \u2014 Graham led Florida's defense with 76 tackles, including seven tackles for loss and two sacks, as a sophomore in 2025, and his four defended\n\n...\n\nDepot College Football Awards show on December 11, and also serve as captain of the 2026 Allstate. AFCA\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nThe younger Graham was a two-way standout in high school. At Gainesville's Buchholz High, Myles starred on both sides of the ball in 2023, but linebacker proved.\n\n## \n\nFLORIDA FOOTBALL Myles Graham\nAug 12, 2026 \u2014 The son of former Gators running back Earnest Graham appeared in all 13 games in 2024, tallying 30 tackles (nine solo), one sack,"
+          ],
+          "title": "FLORIDA FOOTBALL Myles Graham"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The roster bio states he led the Gators with 76 tackles in 2025 and became the first UF linebacker to lead the team in tackles since 2021.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/myles-graham/18265",
+          "excerpts": [
+            "**2025:** Started every game of the 2025 campaign and led the Gators with 76 tackles (36 solo), becoming first UF linebacker to lead team in tackles since 2021."
+          ],
+          "title": "Myles Graham - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The game report documents Graham\u2019s 57-yard fumble-return score against Vanderbilt; the award announcement identifies it as his first career touchdown and names him SEC Co-Defensive Player of the Week.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Not two minutes later, UF was back in the end zone celebrating after linebacker **[Ty Jackson](https://floridagators.com/sports/football/roster/ty-jackson/18270)** forced a fumble by running back **Makhilyn Young** and linebacker **[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/18265)** did a 57-yard scoop-and-score to put Florida ahead 17-9 with 5:27 to play in the half. Vanderbilt, though, had an answer. A couple, actually."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/23/football-graham-tabbed-sec-co-defensive-player-of-the-week",
+          "excerpts": [
+            "Graham finished with a team high 10 tackles along with a 57-yard scoop-and-score\n\nBy: Noah Trala\n\nGAINESVILLE, Fla. \u2013 Junior linebacker [Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/18265) has been named SEC Co-Defensive Player of the Week following his performance in No. 20 Florida's 34-27 win over Vanderbilt on Saturday, the conference announced on Monday.  \n  \nGraham led the Gators with 10 tackles (two solo), marking his sixth time this season that he has led the Gators in tackles in a game.",
+            "The scoop-and-score was Graham's first touchdown of his career, the first defensive touchdown for the"
+          ],
+          "title": "Graham Tabbed SEC Co-Defensive Player of the Week - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

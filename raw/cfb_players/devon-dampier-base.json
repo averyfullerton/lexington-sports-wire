@@ -1,0 +1,185 @@
+{
+  "run_id": "trun_1d63cf7e4268416eade1bf22f91c08d9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 91.0,
+  "input": {
+    "player": "Devon Dampier",
+    "team": "Utah Utes",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "ESPN lists Scottsdale, Arizona, as Devon Dampier\u2019s hometown and Saguaro High School as his school.",
+      "He accounted for four touchdowns in Utah\u2019s 2026 win over BYU.",
+      "In that BYU game, Dampier made a 29-yard catch on a fourth-down trick play.",
+      "Against TCU in 2026, he threw touchdown passes of 68 and 85 yards and ran for two more scores.",
+      "Against Arizona in 2026, he ran for 100 yards and two touchdowns."
+    ],
+    "high_school": "Saguaro High School",
+    "hometown": "Scottsdale, Arizona"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The recruiting profile identifies Scottsdale and Saguaro High School. The BYU recap reports four touchdowns; the Week 10 account describes Dampier\u2019s 29-yard catch on a fourth-down trick play. The TCU recap records two long touchdown passes and two rushing scores, while the Arizona recap says he rushed for 100 yards and two scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/252407/devon-dampier",
+          "excerpts": [
+            "# Devon Dampier\n\n* \n\n6-0, 190 | Class of 2023\n\n* Hometown [Scottsdale, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/5941/class/2023)\n* School [Saguaro High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/11887)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2023)"
+          ],
+          "title": "Devon Dampier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856849",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856849)\n\n# No. 3 Utah snaps three-game losing streak to No. 7 BYU with 28-20 win over Cougars\n\n0:50\n\n## Devon Dampier does it all in Utah's Holy War win over BYU\n\n* * *\n\nBy AP\n\nUpdated: Nov 7, 2026, 10:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nSALT LAKE CITY -- \u2014 [Devon Dampier](http://www.espn.com/college-football/player/_/id/5105849/devon-dampier) accounted for four touchdowns, Utah intercepted four [Bear Bachmeier](http://www.espn.com/college-football/player/_/id/5141367/bear-bachmeier) passes and the third-ranked Utes remained undefeated with a 28-20 victory over No. 7 BYU on Saturday.\n\nDampier hurt the Cougars with with his arm and legs, finishing with 266 yards of offense to help the Utes (9-0, 6-0 Big 12, No. 3 CFP) snap a three-game losing streak in the Holy War rivalry series."
+          ],
+          "title": "Utah 28-20 BYU (Nov 7, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/page/mondaytakeaways110826/2026-college-football-takeaways-week-10",
+          "excerpts": [
+            "# College football takeaways: Lasting impressions from Week 10\n\nplay\n\nQB Devon Dampier makes great catch on Utah's 4th-down trick play (0:23)\n\n* ESPN\n\nNov 9, 2026, 07:35 AM ET\n\nShare",
+            "Which has disappointed more?\n\nAfter his Utes beat BYU to remain undefeated, should Utah quarterback [Devon Dampier](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier) be getting more attention in the Heisman race?\n\nAnd which team should be on upset alert?",
+            "They had 43 passes to 28 runs as a function of the way the game went. But they proved to themselves in the second half that they have the talent on offense to hold on until",
+            "Dampier isn't high on the national leaderboard for total offense or QBR with his 2,533 total yards and 27 total TDs, but he's putting together quite the highlight reel and added more big-time throws and runs to it against BYU, not to mention an incredible 29-yard catch."
+          ],
+          "title": "College football takeaways - Lasting impressions from Week 10 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856872)\n\n# Dampier throws 2 long TD passes as No. 2 Utah beats TCU 38-17 to clinch spot in Big 12 title game\n\n1:17\n\n## Utah outlasts TCU to remain undefeated\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 07:07 am\n\nFacebook Facebook Messenger Twitter Email\n\nFORT WORTH, Texas -- \u2014 [Devon Dampier](http://www.espn.com/college-football/player/_/id/5105849/devon-dampier) threw a 68-yard touchdown pass before halftime and an 85-yard clincher in the fourth quarter as No. 2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game.\n\nDampier also ran for two scores to lift the Utes (11-0, 8-0 Big 12, No. 2 CFP), who blew a 17-point halftime lead."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856864",
+          "excerpts": [
+            "He ran for 100 yards and two more scores to put the Utes in prime position to reach the Big 12 title game and the CFP."
+          ],
+          "title": "Utah 40-39 Arizona (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile explicitly lists Saguaro High School as Devon Dampier\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/252407/devon-dampier",
+          "excerpts": [
+            "# Devon Dampier\n\n* \n\n6-0, 190 | Class of 2023\n\n* Hometown [Scottsdale, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/5941/class/2023)\n* School [Saguaro High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/11887)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2023)"
+          ],
+          "title": "Devon Dampier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The recruiting profile explicitly lists Scottsdale, Arizona, as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/252407/devon-dampier",
+          "excerpts": [
+            "# Devon Dampier\n\n* \n\n6-0, 190 | Class of 2023\n\n* Hometown [Scottsdale, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/5941/class/2023)\n* School [Saguaro High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/11887)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2023)"
+          ],
+          "title": "Devon Dampier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Scottsdale as Dampier\u2019s hometown and Saguaro High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/252407/devon-dampier",
+          "excerpts": [
+            "# Devon Dampier\n\n* \n\n6-0, 190 | Class of 2023\n\n* Hometown [Scottsdale, Ariz.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/5/hometown/5941/class/2023)\n* School [Saguaro High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/11887)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2023)"
+          ],
+          "title": "Devon Dampier Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The BYU game recap states that Dampier accounted for four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856849",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856849)\n\n# No. 3 Utah snaps three-game losing streak to No. 7 BYU with 28-20 win over Cougars\n\n0:50\n\n## Devon Dampier does it all in Utah's Holy War win over BYU\n\n* * *\n\nBy AP\n\nUpdated: Nov 7, 2026, 10:13 pm\n\nFacebook Facebook Messenger Twitter Email\n\nSALT LAKE CITY -- \u2014 [Devon Dampier](http://www.espn.com/college-football/player/_/id/5105849/devon-dampier) accounted for four touchdowns, Utah intercepted four [Bear Bachmeier](http://www.espn.com/college-football/player/_/id/5141367/bear-bachmeier) passes and the third-ranked Utes remained undefeated with a 28-20 victory over No. 7 BYU on Saturday.\n\nDampier hurt the Cougars with with his arm and legs, finishing with 266 yards of offense to help the Utes (9-0, 6-0 Big 12, No. 3 CFP) snap a three-game losing streak in the Holy War rivalry series."
+          ],
+          "title": "Utah 28-20 BYU (Nov 7, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap describes his catch on Utah\u2019s fourth-down trick play and identifies it as a 29-yard catch.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/page/mondaytakeaways110826/2026-college-football-takeaways-week-10",
+          "excerpts": [
+            "# College football takeaways: Lasting impressions from Week 10\n\nplay\n\nQB Devon Dampier makes great catch on Utah's 4th-down trick play (0:23)\n\n* ESPN\n\nNov 9, 2026, 07:35 AM ET\n\nShare",
+            "Which has disappointed more?\n\nAfter his Utes beat BYU to remain undefeated, should Utah quarterback [Devon Dampier](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier) be getting more attention in the Heisman race?\n\nAnd which team should be on upset alert?",
+            "They had 43 passes to 28 runs as a function of the way the game went. But they proved to themselves in the second half that they have the talent on offense to hold on until",
+            "Dampier isn't high on the national leaderboard for total offense or QBR with his 2,533 total yards and 27 total TDs, but he's putting together quite the highlight reel and added more big-time throws and runs to it against BYU, not to mention an incredible 29-yard catch."
+          ],
+          "title": "College football takeaways - Lasting impressions from Week 10 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The TCU recap reports the 68- and 85-yard touchdown passes and two rushing scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401856872)\n\n# Dampier throws 2 long TD passes as No. 2 Utah beats TCU 38-17 to clinch spot in Big 12 title game\n\n1:17\n\n## Utah outlasts TCU to remain undefeated\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 07:07 am\n\nFacebook Facebook Messenger Twitter Email\n\nFORT WORTH, Texas -- \u2014 [Devon Dampier](http://www.espn.com/college-football/player/_/id/5105849/devon-dampier) threw a 68-yard touchdown pass before halftime and an 85-yard clincher in the fourth quarter as No. 2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game.\n\nDampier also ran for two scores to lift the Utes (11-0, 8-0 Big 12, No. 2 CFP), who blew a 17-point halftime lead."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Arizona recap states that Dampier ran for 100 yards and two scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856864",
+          "excerpts": [
+            "He ran for 100 yards and two more scores to put the Utes in prime position to reach the Big 12 title game and the CFP."
+          ],
+          "title": "Utah 40-39 Arizona (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

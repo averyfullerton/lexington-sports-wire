@@ -1,0 +1,64 @@
+{
+  "name": "Bo Nix",
+  "espn_id": "4426338",
+  "team": "Denver Broncos",
+  "team_abbr": "DEN",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Oregon",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Bo won two state titles in a row in high school.",
+    "Bo threw three touchdowns and ran for three more against California in college.",
+    "Bo set a Broncos rookie record with 29 passing touchdowns in the NFL."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "DEN",
+        "17",
+        "376",
+        "567",
+        "3,775",
+        "29",
+        "12"
+      ],
+      [
+        "2025",
+        "DEN",
+        "17",
+        "388",
+        "612",
+        "3,931",
+        "25",
+        "11"
+      ],
+      [
+        "2026",
+        "DEN",
+        "10",
+        "193",
+        "322",
+        "1,955",
+        "12",
+        "5"
+      ]
+    ]
+  }
+}

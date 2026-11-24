@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Michigan State",
   "experience": 15,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Kirk starred in football, basketball, and baseball in high school.",
     "Kirk set school records for passing yards and touchdowns in college.",
@@ -179,22 +182,22 @@
       [
         "2026",
         "MIN",
-        "1",
-        "21",
-        "31",
-        "207",
         "2",
-        "1"
+        "47",
+        "69",
+        "442",
+        "2",
+        "2"
       ],
       [
         "2026",
         "",
-        "10",
-        "223",
-        "346",
-        "2,547",
+        "11",
+        "249",
+        "384",
+        "2,782",
         "22",
-        "9"
+        "10"
       ]
     ]
   }

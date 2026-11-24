@@ -1,0 +1,192 @@
+{
+  "run_id": "trun_415f3f698c1f435b94792886eab6725b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 78.1,
+  "input": {
+    "player": "Jack Bech",
+    "team": "Las Vegas Raiders",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "TCU",
+    "fun_facts": [
+      "As a kid growing up in Lafayette, Jack Bech\u2019s family drove to the Superdome to watch the Saints; his uncle Brett played for New Orleans in the 1990s.",
+      "At St. Thomas More, Jack Bech also played basketball, and his team won three straight state championships from 2019 to 2021.",
+      "Jack Bech finished high school with 173 catches for 3,236 yards and 37 touchdowns in 35 games.",
+      "In 2024 at TCU, Jack Bech caught 62 passes for 1,034 yards and nine touchdowns; his receiving-yard total ranked fourth in school history for a season.",
+      "At the 2025 Senior Bowl, Jack Bech caught the game-winning touchdown on the final play and was named the game\u2019s MVP."
+    ],
+    "draft": "2025, round 2, pick 58"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The college listing gives LSU followed by TCU, making TCU the last college listed. The NFL player profile also identifies TCU as Jack Bech\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BechJa00.htm",
+          "excerpts": [
+            "**College** : [LSU](https://www.pro-football-reference.com/schools/lsu/) , [TCU](https://www.pro-football-reference.com/schools/tcu/) ( [College Stats](https://www.sports-reference.com/cfb/players/jack-bech-1.html) )\n\n**High School** : [St. Thomas More](https://www.pro-football-reference.com/schools/high_schools.cgi?id=93c0abdb) ( [LA](https://www.pro-football-reference.com/schools/high_schools.cgi?hs_state=LA) )"
+          ],
+          "title": "Jack Bech Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/jack-bech",
+          "excerpts": [
+            "# Jack Bech Stats, News and Video - WR | NFL.com\n\n# Jack Bech\n\nWR \u2022 \\#18\n\n[Las Vegas Raiders](https://www.nfl.com/teams/las-vegas-raiders/)\n\n### active\n\n* [Info](https://www.nfl.com/players/jack-bech/)\n* [Stats](https://www.nfl.com/players/jack-bech/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-1\n* Weight\n  \n  214\n* Arms\n  \n  31 1/2\n* Hands\n  \n  9\n\n* Experience\n  \n  2\n* College\n  \n  TCU\n* Age\n  \n  23\n* Hometown\n  \n  Lafayette, LA\n\n## Related Content - Articles"
+          ],
+          "title": "Jack Bech Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited NFL profile article describes the Lafayette-to-Superdome childhood trips and uncle Brett\u2019s Saints connection. The Raiders\u2019 draft materials give Bech\u2019s high-school basketball titles and receiving totals. ESPN\u2019s account of his 2024 TCU season reports his catches, yards, touchdowns, and school ranking. NFL coverage describes the Senior Bowl\u2019s final-play winning touchdown, and identifies Bech as MVP.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/raiders-jack-bech-is-determined-to-honor-his-brother-s-legacy-in-new-orleans",
+          "excerpts": [
+            "-- New Orleans is where Jack Bech's love for football first formed.\n\nAs a kid, Bech's family would drive two hours east from their home in Lafayette, La., to the Superdome to watch the Saints, the team his uncle Brett played for in the 1990s. New Orleans was where Jack first competed on an NFL field while playing for St. Thomas More Catholic High in Louisiana's Division II Select state title game at the end of his sophomore season.\n\nIt was where his family last felt whole, where they spent Christmas together in 2024."
+          ],
+          "title": "Raiders' Jack Bech is determined to honor his brother's legacy in New Orleans | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1745644459/raiders/c5wpbseuwwjeyiie5k5n.pdf",
+          "excerpts": [
+            "won a combined five Louisiana Division II State Championships during his prep career ... won state titles in football as both a junior and senior ... also a member of St. Thomas More's basketball team that captured three straight championships (2019-21) ... closed his high school career with 173 receptions for 3,236 yards and 37 touchdowns in 35 games ... caught 69 passes for 1,391 yards and 16 touchdowns as a senior ... led St. Thomas to an 11-2 record and the Division II Louisiana State Championship as a junior ... had 91 receptions for 1,668 yards and 20 touchdowns ... as a sophomore in 2018, he helped St. Thomas More to an 11-2 record and a state runner-up finish.\n\n### **BECH**\n\n**2 Players Preview: Jack Bech**\n\n**JACK BECH'S COLLEGE RUSHING/RECEIVING STATISTICS**\n\n**RUSHING RECEIVING**\n\n**DATE TEAM GP GS NO. YDS. AVG. LG TD NO. YDS. AVG. LG TD**"
+          ],
+          "title": "DRAFT PICKS"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2025/story/_/id/44700622/nfl-draft-2025-prospect-jack-bech-tiger-new-orleans-attack",
+          "excerpts": [
+            "There's usually a transition. With Jack, there was no transition.\"\n\nHe responded with one of the greatest seasons by a Horned Frogs receiver, catching 62 passes for 1,034 yards and nine touchdowns in 2024, the fourth-highest single-season total in TCU history, trailing only [Josh Doctson](https://www.espn.com/nfl/player/_/id/2576019/josh-doctson) , [Quentin Johnston](https://www.espn.com/nfl/player/_/id/4429025/quentin-johnston) and [Jalen Reagor](https://www.espn.com/nfl/player/_/id/4241802/jalen-reagor) , who were all first-round picks."
+          ],
+          "title": "NFL draft prospect Jack Bech 'propelled' by late brother - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-senior-bowl-game-takeaways-2025-nfl-draft",
+          "excerpts": [
+            "**1) Bech\u2019s walk-off TD caps wild finish.** The American Team trailed, 19-16, in the closing moments of the Senior Bowl, driving deep into the National Team\u2019s end of the field. They were not playing for the tie.\n\nOn the final play of the game, Memphis QB Seth Henigan hit TCU WR Jack Bech [for the game-winning touchdown](https://x.com/nflnetwork/status/1885819262394380658) to give the"
+          ],
+          "title": "2025 Senior Bowl takeaways: TCU WR Jack Bech honors late brother, wins MVP after game-winning catch | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-senior-bowl-game-takeaways-2025-nfl-draft?campaign=Twitter_atn",
+          "excerpts": [
+            "the American Team a 22-19 victory -- one of the most dramatic and emotional Senior Bowl finishes we\u2019ll ever see.\n\nFor Bech -- who was named MVP of the game -- the moment clearly weighed heavily."
+          ],
+          "title": "2025 Senior Bowl takeaways: TCU WR Jack Bech honors late brother, wins MVP after game-winning catch | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Raiders\u2019 draft-picks table lists Jack Bech at round 2, pick 26 in the round, overall pick 58.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1745644459/raiders/c5wpbseuwwjeyiie5k5n.pdf",
+          "excerpts": [
+            "### Round Round Pick Overall Pick Position Player School\n\n### 1 6 6 RB Ashton Jeanty Boise State\n\n### 2 26 58^ WR Jack Bech TCU\n\n### 3 4 68 CB Darien Porter Iowa State\n\n### 3 34 98+ OL Caleb Rogers Texas Tech\n\n### 3 35 99^ T Charles Grant William & Mary\n\n### 4 6 108\n\n### 4 33 135+\n\n### 6 4 180\n\n### 6 37 213\\*\n\n### 6 39 215\\*\n\n### 7 6 222"
+          ],
+          "title": "DRAFT PICKS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The article says the family home was in Lafayette and that, when Jack Bech was a kid, they drove to the Superdome to watch the Saints; it also says uncle Brett played for the Saints in the 1990s.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/raiders-jack-bech-is-determined-to-honor-his-brother-s-legacy-in-new-orleans",
+          "excerpts": [
+            "-- New Orleans is where Jack Bech's love for football first formed.\n\nAs a kid, Bech's family would drive two hours east from their home in Lafayette, La., to the Superdome to watch the Saints, the team his uncle Brett played for in the 1990s. New Orleans was where Jack first competed on an NFL field while playing for St. Thomas More Catholic High in Louisiana's Division II Select state title game at the end of his sophomore season.\n\nIt was where his family last felt whole, where they spent Christmas together in 2024."
+          ],
+          "title": "Raiders' Jack Bech is determined to honor his brother's legacy in New Orleans | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Raiders\u2019 player biography states that Bech was on St. Thomas More\u2019s basketball team that won three consecutive championships from 2019 to 2021.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1745644459/raiders/c5wpbseuwwjeyiie5k5n.pdf",
+          "excerpts": [
+            "won a combined five Louisiana Division II State Championships during his prep career ... won state titles in football as both a junior and senior ... also a member of St. Thomas More's basketball team that captured three straight championships (2019-21) ... closed his high school career with 173 receptions for 3,236 yards and 37 touchdowns in 35 games ... caught 69 passes for 1,391 yards and 16 touchdowns as a senior ... led St. Thomas to an 11-2 record and the Division II Louisiana State Championship as a junior ... had 91 receptions for 1,668 yards and 20 touchdowns ... as a sophomore in 2018, he helped St. Thomas More to an 11-2 record and a state runner-up finish.\n\n### **BECH**\n\n**2 Players Preview: Jack Bech**\n\n**JACK BECH'S COLLEGE RUSHING/RECEIVING STATISTICS**\n\n**RUSHING RECEIVING**\n\n**DATE TEAM GP GS NO. YDS. AVG. LG TD NO. YDS. AVG. LG TD**"
+          ],
+          "title": "DRAFT PICKS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The same biography reports 173 receptions, 3,236 receiving yards, and 37 touchdowns over 35 high-school games.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/v1745644459/raiders/c5wpbseuwwjeyiie5k5n.pdf",
+          "excerpts": [
+            "won a combined five Louisiana Division II State Championships during his prep career ... won state titles in football as both a junior and senior ... also a member of St. Thomas More's basketball team that captured three straight championships (2019-21) ... closed his high school career with 173 receptions for 3,236 yards and 37 touchdowns in 35 games ... caught 69 passes for 1,391 yards and 16 touchdowns as a senior ... led St. Thomas to an 11-2 record and the Division II Louisiana State Championship as a junior ... had 91 receptions for 1,668 yards and 20 touchdowns ... as a sophomore in 2018, he helped St. Thomas More to an 11-2 record and a state runner-up finish.\n\n### **BECH**\n\n**2 Players Preview: Jack Bech**\n\n**JACK BECH'S COLLEGE RUSHING/RECEIVING STATISTICS**\n\n**RUSHING RECEIVING**\n\n**DATE TEAM GP GS NO. YDS. AVG. LG TD NO. YDS. AVG. LG TD**"
+          ],
+          "title": "DRAFT PICKS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "ESPN reports Bech\u2019s 2024 TCU totals of 62 catches, 1,034 yards, and nine touchdowns, and identifies the yardage as the fourth-highest single-season total in TCU history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2025/story/_/id/44700622/nfl-draft-2025-prospect-jack-bech-tiger-new-orleans-attack",
+          "excerpts": [
+            "There's usually a transition. With Jack, there was no transition.\"\n\nHe responded with one of the greatest seasons by a Horned Frogs receiver, catching 62 passes for 1,034 yards and nine touchdowns in 2024, the fourth-highest single-season total in TCU history, trailing only [Josh Doctson](https://www.espn.com/nfl/player/_/id/2576019/josh-doctson) , [Quentin Johnston](https://www.espn.com/nfl/player/_/id/4429025/quentin-johnston) and [Jalen Reagor](https://www.espn.com/nfl/player/_/id/4241802/jalen-reagor) , who were all first-round picks."
+          ],
+          "title": "NFL draft prospect Jack Bech 'propelled' by late brother - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL coverage describes Bech catching the game-winning touchdown on the Senior Bowl\u2019s final play; the accompanying account states that he was named MVP.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2025-senior-bowl-game-takeaways-2025-nfl-draft",
+          "excerpts": [
+            "**1) Bech\u2019s walk-off TD caps wild finish.** The American Team trailed, 19-16, in the closing moments of the Senior Bowl, driving deep into the National Team\u2019s end of the field. They were not playing for the tie.\n\nOn the final play of the game, Memphis QB Seth Henigan hit TCU WR Jack Bech [for the game-winning touchdown](https://x.com/nflnetwork/status/1885819262394380658) to give the"
+          ],
+          "title": "2025 Senior Bowl takeaways: TCU WR Jack Bech honors late brother, wins MVP after game-winning catch | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2025-senior-bowl-game-takeaways-2025-nfl-draft?campaign=Twitter_atn",
+          "excerpts": [
+            "the American Team a 22-19 victory -- one of the most dramatic and emotional Senior Bowl finishes we\u2019ll ever see.\n\nFor Bech -- who was named MVP of the game -- the moment clearly weighed heavily."
+          ],
+          "title": "2025 Senior Bowl takeaways: TCU WR Jack Bech honors late brother, wins MVP after game-winning catch | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

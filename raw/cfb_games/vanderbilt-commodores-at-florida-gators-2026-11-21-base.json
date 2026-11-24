@@ -1,0 +1,480 @@
+{
+  "run_id": "trun_bd5aff7f279040ea9678ee2927095330",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 96.5,
+  "input": {
+    "away_team": "Vanderbilt Commodores",
+    "home_team": "Florida Gators",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Vanderbilt Commodores",
+    "key_plays": [
+      "Q2 5:27: Myles Graham returned a fumble 57 yards for a Florida touchdown.",
+      "Q2 1:46: Jared Curtis threw a 9-yard touchdown pass to Sedrick Alexander; Cole Spence completed the two-point conversion pass to tie the game at 17.",
+      "Q2 0:39: Jared Curtis threw a 75-yard touchdown pass to Junior Sherrill, putting Vanderbilt ahead 24-17.",
+      "Q3 4:07: Aaron Philo scored on a 1-yard run to tie the game at 24.",
+      "Q4 2:18: Jadan Baugh scored on a 10-yard run to put Florida ahead for good, 34-27."
+    ],
+    "away_score": 27,
+    "storyline": "Florida\u2019s comeback win gave it a seventh victory and guaranteed its first winning SEC record since 2020. Florida finished the game 7-4 overall and 5-4 in SEC play; Vanderbilt fell to 4-7 and 1-7.",
+    "top_performers": [
+      {
+        "stat_line": "20 of 26, 241 yards, 0 TD, 0 INT; 17 carries, 73 net yards, 2 TD",
+        "team": "Florida Gators",
+        "name": "Aaron Philo"
+      },
+      {
+        "stat_line": "12 of 25, 200 yards, 2 TD, 0 INT",
+        "team": "Vanderbilt Commodores",
+        "name": "Jared Curtis"
+      },
+      {
+        "stat_line": "15 carries, 129 yards, 0 TD",
+        "team": "Vanderbilt Commodores",
+        "name": "Sedrick Alexander"
+      },
+      {
+        "stat_line": "6 receptions, 149 yards, 1 TD",
+        "team": "Vanderbilt Commodores",
+        "name": "Junior Sherrill"
+      },
+      {
+        "stat_line": "6 receptions, 117 yards, 0 TD",
+        "team": "Florida Gators",
+        "name": "Eric Singleton Jr."
+      }
+    ],
+    "home_record_after": "7-4",
+    "tough_day": [
+      {
+        "stat_line": "Allowed 411 total yards and 34 points",
+        "team": "Vanderbilt Commodores",
+        "name": "Vanderbilt defense"
+      }
+    ],
+    "away_record_after": "4-7",
+    "home_team": "Florida Gators",
+    "home_score": 34
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official box score identifies the game date, shows Vanderbilt and Florida, and marks the result Final with scores and records, establishing that this exact game was played to completion.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "11/21/2026 Ben Hill Griffin Stadium Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The box score identifies the matchup as Vanderbilt versus Florida, and the recap refers to Vanderbilt as the Commodores and Florida as the Gators; together these support the full team name Vanderbilt Commodores.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt vs Florida [View PDF , Opens in new window](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gatorzone.com/stats/football/2026/pdf/20261121024404-44513.pdf) Box Score Play-by-play Drive Chart Team Stats Individual Participation 11/21/2026 Ben Hill Griffin Stadium Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "**GAINESVILLE, Fla. \u2014** Tailback **[Jadan Baugh](https://floridagators.com/sports/football/roster/jadan-baugh/18251)** scored on a go-ahead 10-yard touchdown run with just over two minutes remaining, the Florida defense put the clamps on Vanderbilt's final drive and the 24th-ranked Gators got a 34-27 comeback victory in their Southeastern Conference and home finale Saturday at sold-out Spurrier/Florida Field."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary records the listed scoring plays in sequence, including the quarter, clock time, scorer or passer, play description, and resulting score.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |2nd |FLA |05:27 |FLA - Graham,Myles 57 yd fumble recovery (Durkin,Patrick kick) |9 |17 |",
+            "| |2nd |VU |01:46 |VU - Alexander,Sedrick 9 yd pass from Curtis,Jared (Spence,Cole pass) 10 plays, 75 yards, TOP 03:41 |17 |17 |",
+            "| |2nd |VU |00:39 |VU - Sherrill,Junior 75 yd pass from Curtis,Jared (Taylor,Brock kick) 2 plays, 80 yards, TOP 00:22 |24 |17 |",
+            "| |3rd |FLA |04:07 |FLA - Philo,Aaron 1 yd run (Durkin,Patrick kick), 6 plays, 36 yards, TOP 02:27 |24 |24 |",
+            "| |4th |FLA |02:18 |FLA - Baugh,Jadan 10 yd run (Durkin,Patrick kick), 7 plays, 75 yards, TOP 03:34 |27 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final-score listing gives Vanderbilt 27 and Florida 34; Vanderbilt is the away team in this matchup.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4 |Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total | |Vanderbilt |3 |21 |0 |3 |27 | |Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states that Florida\u2019s seventh win improved bowl positioning and that the Gators guaranteed their first winning SEC record since 2020. It also gives Florida\u2019s 7-4, 5-4 record and Vanderbilt\u2019s 4-7, 1-7 record.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "A seventh win and better bowl-game positioning, with the Gators almost certain to wind up playing their postseason in the state. Possibly, with another win, in the Citrus Bowl in Orlando.",
+            "Yes, it's the first season of playing nine SEC games, but the Gators guaranteed their first winning record in league play since 2020. Up Next Florida (7-4, 5-4) wraps the 2026 regular season with its annual rivalry clash against Florida State (5-5, 3-4), which will close its Atlantic Cost Conference schedule later Saturday with a home date against North Carolina State."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The official individual passing, rushing, and receiving tables provide the stated performance figures. The recap confirms the full-name forms used for these players and highlights their contributions.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|[Philo, Aaron](https://floridagators.com/sports/football/roster/aaron-philo/18345) |20 |26 |241 |0 |0 |50 |2 |",
+            "|[Philo, Aaron](https://floridagators.com/sports/football/roster/aaron-philo/18345) |17 |93 |20 |73 |2 |16 |4\\.3 |",
+            "|Curtis, Jared |12 |25 |200 |2 |0 |75 |3 |",
+            "|Alexander, Sedrick |15 |130 |1 |129 |0 |51 |8\\.6 |",
+            "|Sherrill, Junior |6 |149 |1 |75 |",
+            "|[Singleton Jr., Eric](https://floridagators.com/sports/football/roster/eric-singleton-jr/18349) |6 |117 |0 |50 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final box-score header lists Florida at 7-4 overall and 5-4 in conference play after the game; the requested win-loss record is 7-4.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The final score shows Florida scored 34 points, and the team statistics list Florida with 411 total yards. Those are the objective figures cited for Vanderbilt\u2019s defense.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total | |Vanderbilt |3 |21 |0 |3 |27 | |Florida |3 |14 |7 |10 |34 |",
+            "|Yards |378 |411 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final box-score header lists Vanderbilt at 4-7 overall and 1-7 in conference play after the game; the requested win-loss record is 4-7.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official box score identifies Florida as the home opponent to Vanderbilt, and the recap uses \u201cGators\u201d for Florida. These support the full team name Florida Gators.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt vs Florida [View PDF , Opens in new window](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gatorzone.com/stats/football/2026/pdf/20261121024404-44513.pdf) Box Score Play-by-play Drive Chart Team Stats Individual Participation 11/21/2026 Ben Hill Griffin Stadium Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "**GAINESVILLE, Fla. \u2014** Tailback **[Jadan Baugh](https://floridagators.com/sports/football/roster/jadan-baugh/18251)** scored on a go-ahead 10-yard touchdown run with just over two minutes remaining, the Florida defense put the clamps on Vanderbilt's final drive and the 24th-ranked Gators got a 34-27 comeback victory in their Southeastern Conference and home finale Saturday at sold-out Spurrier/Florida Field."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final-score listing gives Florida 34 and Vanderbilt 27; Florida is the home team in this matchup.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Vanderbilt 4-7 , 1-7 27 Final 34 Florida 7-4 , 5-4 |Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total | |Vanderbilt |3 |21 |0 |3 |27 | |Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Myles Graham\u2019s 57-yard fumble-return touchdown at 5:27 of the second quarter; the recap confirms his name and the play.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |2nd |FLA |05:27 |FLA - Graham,Myles 57 yd fumble recovery (Durkin,Patrick kick) |9 |17 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Not two minutes later, UF was back in the end zone celebrating after linebacker **[Ty Jackson](https://floridagators.com/sports/football/roster/ty-jackson/18270)** forced a fumble by running back **Makhilyn Young** and linebacker **[Myles Graham](https://floridagators.com/sports/football/roster/myles-graham/18265)** did a 57-yard scoop-and-score to put Florida ahead 17-9 with 5:27 to play in the half."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary identifies the 1:46 second-quarter touchdown pass from Jared Curtis to Sedrick Alexander and records Cole Spence\u2019s successful two-point pass that tied the game.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |2nd |VU |01:46 |VU - Alexander,Sedrick 9 yd pass from Curtis,Jared (Spence,Cole pass) 10 plays, 75 yards, TOP 03:41 |17 |17 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records Jared Curtis\u2019s 75-yard touchdown pass to Junior Sherrill at 0:39 of the second quarter, giving Vanderbilt a 24-17 lead.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |2nd |VU |00:39 |VU - Sherrill,Junior 75 yd pass from Curtis,Jared (Taylor,Brock kick) 2 plays, 80 yards, TOP 00:22 |24 |17 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Aaron Philo\u2019s 1-yard touchdown run at 4:07 of the third quarter, tying the score at 24.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |3rd |FLA |04:07 |FLA - Philo,Aaron 1 yd run (Durkin,Patrick kick), 6 plays, 36 yards, TOP 02:27 |24 |24 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records Jadan Baugh\u2019s 10-yard fourth-quarter touchdown run at 2:18; the recap identifies it as the go-ahead score.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "| |4th |FLA |02:18 |FLA - Baugh,Jadan 10 yd run (Durkin,Patrick kick), 7 plays, 75 yards, TOP 03:34 |27 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "**GAINESVILLE, Fla. \u2014** Tailback **[Jadan Baugh](https://floridagators.com/sports/football/roster/jadan-baugh/18251)** scored on a go-ahead 10-yard touchdown run with just over two minutes remaining, the Florida defense put the clamps on Vanderbilt's final drive and the 24th-ranked Gators got a 34-27 comeback victory in their Southeastern Conference and home finale Saturday at sold-out Spurrier/Florida Field."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The box score gives Aaron Philo\u2019s passing and rushing totals, including 241 passing yards, 73 net rushing yards, and two rushing touchdowns; the recap confirms his full name and dual-threat performance.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|[Philo, Aaron](https://floridagators.com/sports/football/roster/aaron-philo/18345) |20 |26 |241 |0 |0 |50 |2 |",
+            "|[Philo, Aaron](https://floridagators.com/sports/football/roster/aaron-philo/18345) |17 |93 |20 |73 |2 |16 |4\\.3 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Florida sophomore quarterback **[Aaron Philo](https://floridagators.com/sports/football/roster/aaron-philo/18345)** , making his second consecutive start after his heroics in last week's win at 11th-ranked Kentucky, passed for 241 yards and rushed for 73 more and two scores."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The passing table lists Curtis\u2019s 12 completions on 25 attempts for 200 yards, two touchdowns, and no interceptions. The recap gives his full name.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|Curtis, Jared |12 |25 |200 |2 |0 |75 |3 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Vandy freshman quarterback **Jared Curtis** passed for 200 yards and a couple TDs."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The rushing table lists Sedrick Alexander with 15 attempts for 129 yards and no touchdowns; the recap confirms his full name.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|Alexander, Sedrick |15 |130 |1 |129 |0 |51 |8\\.6 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Tailback **Sedrick Alexander** rushed for 129 yards, wide receiver **Junior Sherrill** hauled in six passes for 149 yards and a touchdown and Commodores kicker **Brock Taylor** nailed four field goals, three from beyond 50 yards, helping their team to a halftime lead before the Gators started making plays on both sides of the ball."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The receiving table lists Junior Sherrill with six catches for 149 yards and one touchdown; the recap confirms his full name and performance.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|Sherrill, Junior |6 |149 |1 |75 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Tailback **Sedrick Alexander** rushed for 129 yards, wide receiver **Junior Sherrill** hauled in six passes for 149 yards and a touchdown and Commodores kicker **Brock Taylor** nailed four field goals, three from beyond 50 yards, helping their team to a halftime lead before the Gators started making plays on both sides of the ball."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The receiving table lists Eric Singleton Jr. with six receptions for 117 yards and no touchdowns; the recap confirms the full name.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|[Singleton Jr., Eric](https://floridagators.com/sports/football/roster/eric-singleton-jr/18349) |6 |117 |0 |50 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/11/21/football-final-gators-34-vanderbilt-27-nov-21-2026",
+          "excerpts": [
+            "Baugh carried 19 times for 76 yards and a touchdown, while wideout **[Eric Singleton Jr.](https://floridagators.com/sports/football/roster/eric-singleton-jr-/18349)** caught six passes for 117 yards."
+          ],
+          "title": "FINAL: Florida 34, Vanderbilt 27 - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official final score and team statistics support the stated 34 points and 411 total yards allowed by Vanderbilt\u2019s defense.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total | |Vanderbilt |3 |21 |0 |3 |27 | |Florida |3 |14 |7 |10 |34 |",
+            "|Yards |378 |411 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_team",
+      "home_team",
+      "top_performers",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "In Florida, No. 24 Florida chased its first winning SEC record since 2020. Myles Graham raced 57 yards with a fumble for a Gators touchdown! Jared Curtis then zipped a 75-yard touchdown pass to Junior Sherrill, putting Vanderbilt ahead 24-17. Aaron Philo ran in to tie it at 24. With 2:18 left, Jadan Baugh rumbled 10 yards for the winning touchdown! The 34-27 win gave Florida a seventh victory and that winning SEC record.",
+    "big_words": [
+      {
+        "word": "victory",
+        "definition": "A win in a game or contest.",
+        "example": "Omar grinned after his swimming lesson victory: crossing the pool without a float."
+      }
+    ],
+    "opener": "Start by setting the scene with drama: where the game was and what was at stake.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1406,
+        "output": 161
+      }
+    ]
+  }
+}

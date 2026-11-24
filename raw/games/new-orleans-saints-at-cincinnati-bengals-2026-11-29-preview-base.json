@@ -1,0 +1,361 @@
+{
+  "run_id": "trun_1714e31eeb204d3296658ea04771cea2",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 142.4,
+  "input": {
+    "away_team": "New Orleans Saints",
+    "home_team": "Cincinnati Bengals",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "3-7",
+    "away_team": "New Orleans Saints",
+    "storyline": "Cincinnati holds a one-game lead over Cleveland and Pittsburgh in the AFC North, while New Orleans enters at 3-7 and fourth in the NFC South after a Week 11 loss.",
+    "matchup_notes": [
+      "New Orleans is 3-7 and fourth in the NFC South; it lost 21-13 at Chicago in Week 11.",
+      "Cincinnati is 7-3 and leads the AFC North by one game over Cleveland and Pittsburgh.",
+      "The Bengals lost 22-20 to Washington in Week 11.",
+      "Washington\u2019s win snapped Cincinnati\u2019s five-game winning streak."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,429 passing yards, 16 TD",
+        "team": "New Orleans Saints",
+        "name": "Tyler Shough"
+      },
+      {
+        "stat_line": "3,095 passing yards, 29 TD",
+        "team": "Cincinnati Bengals",
+        "name": "Joe Burrow"
+      }
+    ],
+    "home_record": "7-3",
+    "home_team": "Cincinnati Bengals",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Saints\u2019 NFL team page lists their record as 3-7-0, which is 3-7 in win-loss format.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-orleans-saints",
+          "excerpts": [
+            "# New Orleans Saints News, Scores, Stats, Schedule | NFL.com\n\nNew Orleans Saints\n\n4th NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "New Orleans Saints News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game center identifies the visiting team as the New Orleans Saints and the home team as the Cincinnati Bengals.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/saints-at-bengals-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nCincinnati Bengals\n\nCIN\n\nCincinnati Bengals\n\nBENGALS\n\nCincinnati Bengals\n\nCINCINNATI\n\nBENGALS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nCincinnati Bengals\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nCincinnati Bengals, POINTS PER GAME, 30.9, ranked 3rd.\n\n30\\.9\n\n3RD\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nCincinnati Bengals, YARDS PER GAME, 383.7, ranked 6th.\n\n383\\.7\n\n6TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 23rd.\n\n29:52\n\n23RD\n\nTIME OF POSSESSION PER GAME\n\nCincinnati Bengals, TIME OF POSSESSION PER GAME, 30:47, ranked 9th.\n\n30:47\n\n9TH\n\nNew Orleans Saints, TOTAL DEF SACKS, 26, ranked 9th.\n\n26\n\n9TH\n\nTOTAL DEF SACKS"
+          ],
+          "title": "New Orleans Saints at Cincinnati Bengals 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL recap states Cincinnati has a one-game lead over the Browns and Steelers in the AFC North. The Saints\u2019 NFL page lists New Orleans at 3-7 and fourth in the NFC South; the Week 11 result is reflected in the matchup notes.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "They now hold only a one-game lead in the AFC North over the Browns and Steelers, and they took a major hit in the race for the AFC\u2019s top seed that includes the Bills (9-1), Broncos (8-2), Chiefs (8-2) and Jaguars (7-3).\n3. **Commanders D delivers its finest performance.** Joe Burrow and the Bengals offense was operating at a borderline unfair level entering Monday night, averaging 36.2 points per game amid a five-game winning streak. The recent past meant little to Washington, which stood toe to toe with the red-hot Bengals and came out on top."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/new-orleans-saints",
+          "excerpts": [
+            "# New Orleans Saints News, Scores, Stats, Schedule | NFL.com\n\nNew Orleans Saints\n\n4th NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "New Orleans Saints News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL team pages give the Saints\u2019 and Bengals\u2019 records and the Saints\u2019 division place. Week 11 score evidence documents the Saints\u2019 loss at Chicago and the Bengals\u2019 loss to Washington; NFL coverage also states Cincinnati\u2019s five-game winning streak ended and that it held a one-game AFC North lead.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-orleans-saints",
+          "excerpts": [
+            "# New Orleans Saints News, Scores, Stats, Schedule | NFL.com\n\nNew Orleans Saints\n\n4th NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "New Orleans Saints News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873071",
+          "excerpts": [
+            "|[Saints](https://www.espn.com/nfl/team/_/name/no/new-orleans-saints) NO |0 |10 |0 |3 |13 |\n|[Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) CHI |3 |13 |3 |2 |21 |",
+            "Chicago Bears: Game Highlights\n* 0:46\n  \n  ## Jeffery Simmons gets 3 sacks to help lead Bears past Saints\n* 0:30\n  \n  ## Bears get to Tyler Shough in the end zone for a safety\n* 0:22",
+            "[See More Odds](https://sportsbook.draftkings.com/)\n\n## Game Information\n\n#### 6:00 PM, November 22, 2026\n\n#### Soldier Field\n\nChicago, IL\n\n#### Attendance: 59,911\n\n#### Where to Watch\n\nFox"
+          ],
+          "title": "Bears 21-13 Saints (Nov 22, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://fantasy-www.nfl.com/teams/cincinnati-bengals",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 3 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873078",
+          "excerpts": [
+            "NASCAR F1 Women's NCAA soccer Men's NCAA soccer Serie A Premier League LALIGA MLS Liga F\n\nWeek 10 Week 11 Week 12\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n[Cincinnati Bengals Bengals CIN](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n7-3 , 4-2 Away\n\n20\n\n7-3 , 4-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) CIN |0 |10 |7 |3 |20 |\n|[Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders) WSH |0 |7 |6 |9 |22 |\n\n[](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)"
+          ],
+          "title": "Commanders 22-20 Bengals (Nov 23, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://amp.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "Jayden Daniels and Washington won back-to-back games for the first time since 2024 postseason while snapping Joe Burrow and the Bengals' five-game winning streak."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "They now hold only a one-game lead in the AFC North over the Browns and Steelers, and they took a major hit in the race for the AFC\u2019s top seed that includes the Bills (9-1), Broncos (8-2), Chiefs (8-2) and Jaguars (7-3).\n3. **Commanders D delivers its finest performance.** Joe Burrow and the Bengals offense was operating at a borderline unfair level entering Monday night, averaging 36.2 points per game amid a five-game winning streak. The recent past meant little to Washington, which stood toe to toe with the red-hot Bengals and came out on top."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "Shough\u2019s cited 2026 totals through the prior game were 2,173 passing yards and 15 TD; the Week 11 game highlight reports a 256-yard, one-TD game, yielding 2,429 yards and 16 TD. Burrow\u2019s cited totals were 2,795 passing yards and 27 TD; his Week 11 recap reports 300 yards and two TD, yielding 3,095 yards and 29 TD.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/tyler-shough/stats/career",
+          "excerpts": [
+            "|2026 |New Orleans Saints |9 |343 |229 |66\\.8 |2173 |6\\.3 |52 |15 |7 |110 |32\\.1 |23 |23 |156 |90\\.2 |\n|2025 |New Orleans Saints |11 |327 |221 |67\\.6 |2384 |7\\.3 |62 |10 |6 |107 |32\\.7 |19 |31 |195 |91\\.3 |\n|TOTAL | |20 |670 |450 |67\\.2 |4557 |6\\.8 |62 |25 |13 |217 |32\\.4 |42 |54 |351 |90\\.7 |\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |New Orleans Saints |9 |40 |187 |4\\.7 |36 |2 |14 |35 |2 |0 |6 |"
+          ],
+          "title": "Tyler Shough Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "BEARS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:15\n\nPLAYER HIGHLIGHT\n\nChris Olave's best plays from 102-yard game vs. Bears | Week 11 2:42\n\nPLAYER HIGHLIGHT\n\nCaleb Williams' best plays from 2-TD, 192-yard game vs. Saints | Week 11 2:11\n\nPLAYER HIGHLIGHT\n\nTyler Shough's best plays from 1-TD, 256-yard game vs. Bears | Week 11 5:12\n\nGAME HIGHLIGHT\n\nSaints vs. Bears highlights | Week 11 0:11\n\nIN GAME HIGHLIGHT\n\nSaints decrease Bears lead with 51-yard Charlie Smyth FG 0:17\n\nIN GAME HIGHLIGHT\n\nJeffery Simmons lassos Shough with an incredible amount of force for 13-yard sack 0:13\n\nIN GAME HIGHLIGHT\n\nChris Olave\u2019s toe-drag catch ends Shough\u2019s sideline strike in style 0:33\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/joe-burrow/stats/career",
+          "excerpts": [
+            "|2026 |Cincinnati Bengals |9 |340 |254 |74\\.7 |2795 |8\\.2 |53 |27 |6 |142 |41\\.8 |32 |16 |105 |117\\.7 |\n|2025 |Cincinnati Bengals |8 |259 |173 |66\\.8 |1809 |7 |43 |17 |5 |100 |38\\.6 |22 |17 |113 |100\\.7 |"
+          ],
+          "title": "Joe Burrow Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873078",
+          "excerpts": [
+            "\u201cThis was a full team win,\u201d coach Dan Quinn said.\n\nBurrow threw for 300 yards and two touchdowns for AFC North-leading Cincinnati (7-3), but the Commanders largely held in check a Bengals team that had won five straight, scoring 31 points or more each time."
+          ],
+          "title": "Commanders 22-20 Bengals (Nov 23, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Bengals\u2019 NFL team page lists a 7-3-0 record before the scheduled Week 12 game.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/teams/cincinnati-bengals",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 3 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game center identifies Cincinnati Bengals as the home team in this matchup.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/games/saints-at-bengals-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nNew Orleans Saints\n\nNO\n\nNew Orleans Saints\n\nSAINTS\n\nNew Orleans Saints\n\nNEW ORLEANS\n\nSAINTS\n\n3-6\n\n3 wins, 6 losses, 0 ties\n\nCincinnati Bengals\n\nCIN\n\nCincinnati Bengals\n\nBENGALS\n\nCincinnati Bengals\n\nCINCINNATI\n\nBENGALS\n\n7-2\n\n7 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nNew Orleans Saints\n\nCincinnati Bengals\n\nNew Orleans Saints, POINTS PER GAME, 22.4, ranked 15th.\n\n22\\.4\n\n15TH\n\nPOINTS PER GAME\n\nCincinnati Bengals, POINTS PER GAME, 30.9, ranked 3rd.\n\n30\\.9\n\n3RD\n\nNew Orleans Saints, YARDS PER GAME, 314.2, ranked 22nd.\n\n314\\.2\n\n22ND\n\nYARDS PER GAME\n\nCincinnati Bengals, YARDS PER GAME, 383.7, ranked 6th.\n\n383\\.7\n\n6TH\n\nNew Orleans Saints, TIME OF POSSESSION PER GAME, 29:52, ranked 23rd.\n\n29:52\n\n23RD\n\nTIME OF POSSESSION PER GAME\n\nCincinnati Bengals, TIME OF POSSESSION PER GAME, 30:47, ranked 9th.\n\n30:47\n\n9TH\n\nNew Orleans Saints, TOTAL DEF SACKS, 26, ranked 9th.\n\n26\n\n9TH\n\nTOTAL DEF SACKS"
+          ],
+          "title": "New Orleans Saints at Cincinnati Bengals 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL schedule lists Saints at Bengals for Sunday, November 29, in Week 12; the matchup was still upcoming as of November 24, 2026.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/cincinnati-bengals",
+          "excerpts": [
+            "### Week 12\n\n* [Saints at Bengals, Sunday, November 29th, 1:00 PM, CBS](https://www.nfl.com/games/saints-at-bengals-2026-reg-12)\n  \n  LOCAL\n  \n  New Orleans Saints Team Logo SAINTS\n  \n  Cincinnati Bengals Team Logo BENGALS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Cincinnati Bengals Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Saints\u2019 page lists the 3-7 record and fourth-place division standing; the Week 11 scoreboard shows their 21-13 loss at Chicago.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/new-orleans-saints",
+          "excerpts": [
+            "# New Orleans Saints News, Scores, Stats, Schedule | NFL.com\n\nNew Orleans Saints\n\n4th NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "New Orleans Saints News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873071",
+          "excerpts": [
+            "|[Saints](https://www.espn.com/nfl/team/_/name/no/new-orleans-saints) NO |0 |10 |0 |3 |13 |\n|[Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) CHI |3 |13 |3 |2 |21 |",
+            "Chicago Bears: Game Highlights\n* 0:46\n  \n  ## Jeffery Simmons gets 3 sacks to help lead Bears past Saints\n* 0:30\n  \n  ## Bears get to Tyler Shough in the end zone for a safety\n* 0:22",
+            "[See More Odds](https://sportsbook.draftkings.com/)\n\n## Game Information\n\n#### 6:00 PM, November 22, 2026\n\n#### Soldier Field\n\nChicago, IL\n\n#### Attendance: 59,911\n\n#### Where to Watch\n\nFox"
+          ],
+          "title": "Bears 21-13 Saints (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Bengals\u2019 NFL page lists their 7-3 record, and the NFL recap states they held a one-game lead over Cleveland and Pittsburgh.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/teams/cincinnati-bengals",
+          "excerpts": [
+            "# Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com\n\nCincinnati Bengals\n\n1st AFC North\n\n7 - 3 - 0"
+          ],
+          "title": "Cincinnati Bengals News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "They now hold only a one-game lead in the AFC North over the Browns and Steelers, and they took a major hit in the race for the AFC\u2019s top seed that includes the Bills (9-1), Broncos (8-2), Chiefs (8-2) and Jaguars (7-3).\n3. **Commanders D delivers its finest performance.** Joe Burrow and the Bengals offense was operating at a borderline unfair level entering Monday night, averaging 36.2 points per game amid a five-game winning streak. The recent past meant little to Washington, which stood toe to toe with the red-hot Bengals and came out on top."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 11 final score table records Washington 22, Cincinnati 20.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873078",
+          "excerpts": [
+            "NASCAR F1 Women's NCAA soccer Men's NCAA soccer Serie A Premier League LALIGA MLS Liga F\n\nWeek 10 Week 11 Week 12\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n[](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n[Cincinnati Bengals Bengals CIN](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals)\n\n7-3 , 4-2 Away\n\n20\n\n7-3 , 4-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) CIN |0 |10 |7 |3 |20 |\n|[Commanders](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders) WSH |0 |7 |6 |9 |22 |\n\n[](https://www.espn.com/nfl/team/_/name/wsh/washington-commanders)"
+          ],
+          "title": "Commanders 22-20 Bengals (Nov 23, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL recap says Washington\u2019s win snapped the Bengals\u2019 five-game winning streak.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "Jayden Daniels and Washington won back-to-back games for the first time since 2024 postseason while snapping Joe Burrow and the Bengals' five-game winning streak."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "Shough\u2019s 2026 passing total was 2,173 yards and 15 TD before Week 11; the Week 11 highlight reports a 256-yard, one-TD game. Adding those figures gives 2,429 passing yards and 16 TD.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/tyler-shough/stats/career",
+          "excerpts": [
+            "|2026 |New Orleans Saints |9 |343 |229 |66\\.8 |2173 |6\\.3 |52 |15 |7 |110 |32\\.1 |23 |23 |156 |90\\.2 |\n|2025 |New Orleans Saints |11 |327 |221 |67\\.6 |2384 |7\\.3 |62 |10 |6 |107 |32\\.7 |19 |31 |195 |91\\.3 |\n|TOTAL | |20 |670 |450 |67\\.2 |4557 |6\\.8 |62 |25 |13 |217 |32\\.4 |42 |54 |351 |90\\.7 |\n\n### Rushing\n\n|YEAR |TEAM |G |ATT |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |FUM |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |New Orleans Saints |9 |40 |187 |4\\.7 |36 |2 |14 |35 |2 |0 |6 |"
+          ],
+          "title": "Tyler Shough Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "BEARS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n1:15\n\nPLAYER HIGHLIGHT\n\nChris Olave's best plays from 102-yard game vs. Bears | Week 11 2:42\n\nPLAYER HIGHLIGHT\n\nCaleb Williams' best plays from 2-TD, 192-yard game vs. Saints | Week 11 2:11\n\nPLAYER HIGHLIGHT\n\nTyler Shough's best plays from 1-TD, 256-yard game vs. Bears | Week 11 5:12\n\nGAME HIGHLIGHT\n\nSaints vs. Bears highlights | Week 11 0:11\n\nIN GAME HIGHLIGHT\n\nSaints decrease Bears lead with 51-yard Charlie Smyth FG 0:17\n\nIN GAME HIGHLIGHT\n\nJeffery Simmons lassos Shough with an incredible amount of force for 13-yard sack 0:13\n\nIN GAME HIGHLIGHT\n\nChris Olave\u2019s toe-drag catch ends Shough\u2019s sideline strike in style 0:33\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "New Orleans Saints at Chicago Bears 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Burrow\u2019s 2026 passing total was 2,795 yards and 27 TD before Week 11; the Week 11 recap reports 300 yards and two TD. Adding the figures gives 3,095 passing yards and 29 TD.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/joe-burrow/stats/career",
+          "excerpts": [
+            "|2026 |Cincinnati Bengals |9 |340 |254 |74\\.7 |2795 |8\\.2 |53 |27 |6 |142 |41\\.8 |32 |16 |105 |117\\.7 |\n|2025 |Cincinnati Bengals |8 |259 |173 |66\\.8 |1809 |7 |43 |17 |5 |100 |38\\.6 |22 |17 |113 |100\\.7 |"
+          ],
+          "title": "Joe Burrow Career Stats | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873078",
+          "excerpts": [
+            "\u201cThis was a full team win,\u201d coach Dan Quinn said.\n\nBurrow threw for 300 yards and two touchdowns for AFC North-leading Cincinnati (7-3), but the Commanders largely held in check a Bengals team that had won five straight, scoring 31 points or more each time."
+          ],
+          "title": "Commanders 22-20 Bengals (Nov 23, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The Bengals lost 22-20 to Washington in their last game. Now Cincinnati is home to face the New Orleans Saints! The 7-3 Bengals have a slim lead in the AFC North, while the Saints are 3-7. Saints QB Tyler Shough has 2,429 passing yards and 16 TDs. Watch Bengals QB Joe Burrow throw the ball: He has 3,095 passing yards and 29 TDs!",
+    "big_words": [
+      {
+        "word": "slim",
+        "definition": "Small or narrow.",
+        "example": "Ethan\u2019s dog squeezed through a slim gap in the fence."
+      }
+    ],
+    "opener": "Start with one team's streak or last game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1016,
+        "output": 188
+      }
+    ]
+  }
+}

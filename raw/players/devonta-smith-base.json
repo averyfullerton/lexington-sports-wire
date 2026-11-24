@@ -1,0 +1,167 @@
+{
+  "run_id": "trun_415f3f698c1f435b839f29a3e92aa20a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.8,
+  "input": {
+    "player": "DeVonta Smith",
+    "team": "Philadelphia Eagles",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Alabama",
+    "fun_facts": [
+      "DeVonta Smith played basketball at Amite High School in Louisiana and was so good he scored around 40 points in some games.",
+      "As a freshman at Alabama, DeVonta Smith caught a game-winning touchdown in the national championship game.",
+      "DeVonta Smith became the fourth wide receiver ever to win the Heisman Trophy.",
+      "DeVonta Smith finished his college career as a two-time national champion.",
+      "DeVonta Smith set Alabama single-season records with 1,856 receiving yards and 23 receiving touchdowns."
+    ],
+    "draft": "2021, round 1, pick 10"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The biography identifies DeVonta Smith's college as Alabama.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4241478/devonta-smith",
+          "excerpts": [
+            "Week 9 Week 10 Week 11\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# DeVonta Smith\n\nPhiladelphia Eagles\n\n* [Philadelphia Eagles Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 170 lbs\n* Birthdate\n  \n  11/14/1998 (28)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\nFollow\n\n* HT/WT\n  \n  6' 0\", 170 lbs\n* Birthdate\n  \n  11/14/1998 (28)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* Draft Info\n  \n  2021: Rd 1, Pk 10 (PHI)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* REC\n  \n  26"
+          ],
+          "title": "DeVonta Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support, respectively, Smith's high-school basketball and scoring, his freshman national-championship winning touchdown, his distinction as the fourth wide receiver to win the Heisman, his two national championships, and his Alabama single-season receiving-yardage and touchdown records.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50042344/philadelphia-eagles-devonta-smith-wr1-post-aj-brown-mnf",
+          "excerpts": [
+            "They played together on the basketball team at Amite (Louisiana) High Magnet School. The wiry 6-foot Smith was so good at the sport, Grady said, that he was reaching upward of 40 points a game in",
+            "Smith finished his college career as a two-time national champion, the SEC's leader in receiving yards and touchdowns, and the first receiver to win the Heisman Trophy since Desmond Howard in 1991."
+          ],
+          "title": "Eagles' DeVonta Smith is headed into another stratosphere - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/eagles-pick-alabama-wr-devonta-smith-at-no-10-after-trade-with-cowboys",
+          "excerpts": [
+            "The Philadelphia Eagles acquired the No. 10 pick in the 2021 NFL Draft from the Dallas Cowboys in exchange for the No. 12 pick and a third-round pick (No. 84).\n\nThe Eagles used the pick to draft Alabama wide receiver [DeVonta Smith](https://www.nfl.com/prospects/devonta-smith/3200534d-4920-6016-573c-fcc767bafc4d) , the reigning Heisman Trophy winner.\n\nIn Smith, the Eagles get a dynamic downfield threat who made a four-year impact at the college level, catching a game-winning TD pass in a national championship game as a freshman, and winning the Heisman Trophy after a prolific season of 1,853 yards and 23 TDs as a senior.\n\nAt just six-foot and 166 pounds as of Smith\u2019s combine medical check in Indianapolis earlier this month, his"
+          ],
+          "title": "Eagles pick Alabama WR DeVonta Smith at No. 10 after trade with Cowboys | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/devonta-smith-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Before Devonta Smith was a star wide receiver on Philadelphia Eagles, he was the third Alabama player and the fourth wide receiver ever to win the prestigious Heisman Trophy during his collegiate career.\n\nHere's more on Smith's college career.\n\n### The vitals on Devonta Smith\n\n**School:** Alabama  \n**Position:** Wide receiver  \n**Height:** 6-1  \n**Weight:** 175 pounds",
+            "* 1st in National Championship single-game receptions (12)\n* 1st in National Championship single-game receiving touchdowns (3)\n* 1st in Alabama single-season receiving touchdowns (23)\n* 1st in Alabama single-season receiving yards (1,856)\n* 2nd in Alabama single-season receptions (117)\n* 1st in Alabama career receptions (235)"
+          ],
+          "title": "DeVonta Smith: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The biography states that DeVonta Smith was selected in 2021, round 1, pick 10, by Philadelphia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4241478/devonta-smith",
+          "excerpts": [
+            "Week 9 Week 10 Week 11\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# DeVonta Smith\n\nPhiladelphia Eagles\n\n* [Philadelphia Eagles Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n* \\#6\n* Wide Receiver WR\n\n* HT/WT\n  \n  6' 0\", 170 lbs\n* Birthdate\n  \n  11/14/1998 (28)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\nFollow\n\n* HT/WT\n  \n  6' 0\", 170 lbs\n* Birthdate\n  \n  11/14/1998 (28)\n* College\n  \n  [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* Draft Info\n  \n  2021: Rd 1, Pk 10 (PHI)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* REC\n  \n  26"
+          ],
+          "title": "DeVonta Smith Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Smith played basketball at Amite High Magnet School and was reaching around 40 points per game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50042344/philadelphia-eagles-devonta-smith-wr1-post-aj-brown-mnf",
+          "excerpts": [
+            "They played together on the basketball team at Amite (Louisiana) High Magnet School. The wiry 6-foot Smith was so good at the sport, Grady said, that he was reaching upward of 40 points a game in"
+          ],
+          "title": "Eagles' DeVonta Smith is headed into another stratosphere - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Smith caught a game-winning touchdown pass in a national championship game as a freshman.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/eagles-pick-alabama-wr-devonta-smith-at-no-10-after-trade-with-cowboys",
+          "excerpts": [
+            "The Philadelphia Eagles acquired the No. 10 pick in the 2021 NFL Draft from the Dallas Cowboys in exchange for the No. 12 pick and a third-round pick (No. 84).\n\nThe Eagles used the pick to draft Alabama wide receiver [DeVonta Smith](https://www.nfl.com/prospects/devonta-smith/3200534d-4920-6016-573c-fcc767bafc4d) , the reigning Heisman Trophy winner.\n\nIn Smith, the Eagles get a dynamic downfield threat who made a four-year impact at the college level, catching a game-winning TD pass in a national championship game as a freshman, and winning the Heisman Trophy after a prolific season of 1,853 yards and 23 TDs as a senior.\n\nAt just six-foot and 166 pounds as of Smith\u2019s combine medical check in Indianapolis earlier this month, his"
+          ],
+          "title": "Eagles pick Alabama WR DeVonta Smith at No. 10 after trade with Cowboys | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Smith as the fourth wide receiver ever to win the Heisman Trophy.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/devonta-smith-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Before Devonta Smith was a star wide receiver on Philadelphia Eagles, he was the third Alabama player and the fourth wide receiver ever to win the prestigious Heisman Trophy during his collegiate career.\n\nHere's more on Smith's college career.\n\n### The vitals on Devonta Smith\n\n**School:** Alabama  \n**Position:** Wide receiver  \n**Height:** 6-1  \n**Weight:** 175 pounds"
+          ],
+          "title": "DeVonta Smith: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage states that Smith finished his college career as a two-time national champion.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50042344/philadelphia-eagles-devonta-smith-wr1-post-aj-brown-mnf",
+          "excerpts": [
+            "Smith finished his college career as a two-time national champion, the SEC's leader in receiving yards and touchdowns, and the first receiver to win the Heisman Trophy since Desmond Howard in 1991."
+          ],
+          "title": "Eagles' DeVonta Smith is headed into another stratosphere - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The listed Alabama records include 1,856 single-season receiving yards and 23 single-season receiving touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/devonta-smith-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "* 1st in National Championship single-game receptions (12)\n* 1st in National Championship single-game receiving touchdowns (3)\n* 1st in Alabama single-season receiving touchdowns (23)\n* 1st in Alabama single-season receiving yards (1,856)\n* 2nd in Alabama single-season receptions (117)\n* 1st in Alabama career receptions (235)"
+          ],
+          "title": "DeVonta Smith: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

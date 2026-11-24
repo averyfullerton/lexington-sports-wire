@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_1d63cf7e4268416ebc2802c1b7101475",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 93.5,
+  "input": {
+    "player": "Aaron Philo",
+    "team": "Florida Gators",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Aaron Philo is from Bogart, Georgia. He moved to Prince Avenue in seventh grade and decided to try quarterback in eighth grade, after a coach who had seen him play baseball encouraged him.",
+      "He lettered in basketball and threw a no-hitter as a freshman baseball player.",
+      "By the end of high school, he had become Georgia\u2019s all-time passing-yards leader, with 13,922 yards, and had thrown 159 touchdown passes.",
+      "As a senior, he tied Georgia\u2019s single-season record with 56 touchdown passes. He also passed for 4,596 yards that year and 4,598 as a junior.",
+      "He led Prince Avenue to back-to-back state championships as a junior and senior.",
+      "In 2026, he became the first Florida Gator in 13 years to rush for more than 100 yards at Kentucky."
+    ],
+    "high_school": "Prince Avenue Christian",
+    "hometown": "Bogart, Georgia"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The Florida roster identifies Philo\u2019s hometown and summarizes his baseball and basketball participation, high school passing records, and championships. The Florida Gators article recounts when he began playing quarterback and the coach\u2019s baseball-related suggestion. The Kentucky game account documents his 100-yard rushing milestone.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "Hometown: Bogart, Ga.",
+            "High School:** Rated as a three-star prospect by _Rivals_ , _247Sports_ and ESPN \u2026 Georgia high school football's all-time leader in passing yards (13,922), breaking the record previously held by current Jacksonville Jaguars quarterback Trevor Lawrence (13,902 yds. at Cartersville H.S. \u2013 2014-17) \u2026 Third in Georgia high school history with 159 touchdown passes \u2026 Tied Georgia H.S. single-season record with 56 touchdown passes as a senior in 2023 \u2026 Owns the third- and fourth-highest single-season passing yardage totals in state history (4,598 as a junior in 2022, 4,596 as a senior in '23) \u2026 First-team all-state \u2026 Three-year starter led Prince Avenue to back-to-back state championships as a junior and senior (2022 and 2023) \u2026 Also won state title as backup QB for Prince Avenue as a freshman (2000) \u2026 Threw at least one touchdown pass in every game over his three seasons as a starter \u2026 Threw for at least 4,500 yards in each of his three seasons as starter \u2026 A dynamic runner, finished his prep career with 32 touchdown runs and nearly 1,200 yards on the ground \u2026 Team captain \u2026 Coached by Greg Vandagriff \u2026 Also lettered in basketball \u2026 Threw a no-hitter as a freshman baseball player \u2026 Member of National Honor Society and Beta Club \u2026 Named Mr.",
+            "Became the first Gator to rush for over 100 yards at Kentucky in 13 years \u2013 since Matt Jones in 2013 (167) - and the first UF quarterback to rush for 100 yards in a game since Anthony Richardson in 2022 vs. LSU."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/8/7/football-from-lagway-to-philo-and-jones-the-dominoes-behind-floridas-qb-battle-aaron-philo-tramell-jones-dj-lagway",
+          "excerpts": [
+            "I moved to Prince Avenue in seventh grade \u2026 in eighth grade I decided to play, and I went out there, it was like the first day, and I was like, 'I'm just gonna like go to tight end or something.' I had never played quarterback. \"I had a coach on the middle school team that had seen me play baseball, and he had coached me in baseball, and he was like, 'Why don't we try to stick this kid at quarterback,' and kind of just rolled with it ever since."
+          ],
+          "title": "From Lagway to Philo and Jones, the Dominoes Behind Florida's QB Battle - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The Florida Gators roster directly lists Prince Avenue Christian as Philo\u2019s high school.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "High School: Prince Avenue Christian"
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The Florida Gators roster directly gives his hometown as Bogart, Georgia.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "Hometown: Bogart, Ga."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The roster states his hometown; Philo\u2019s account says he moved to Prince Avenue in seventh grade and describes deciding to play quarterback in eighth grade after a coach who had seen him play baseball suggested the position.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "Hometown: Bogart, Ga."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/news/2026/8/7/football-from-lagway-to-philo-and-jones-the-dominoes-behind-floridas-qb-battle-aaron-philo-tramell-jones-dj-lagway",
+          "excerpts": [
+            "I moved to Prince Avenue in seventh grade \u2026 in eighth grade I decided to play, and I went out there, it was like the first day, and I was like, 'I'm just gonna like go to tight end or something.' I had never played quarterback. \"I had a coach on the middle school team that had seen me play baseball, and he had coached me in baseball, and he was like, 'Why don't we try to stick this kid at quarterback,' and kind of just rolled with it ever since."
+          ],
+          "title": "From Lagway to Philo and Jones, the Dominoes Behind Florida's QB Battle - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The roster says Philo lettered in basketball and threw a no-hitter as a freshman baseball player.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "High School:** Rated as a three-star prospect by _Rivals_ , _247Sports_ and ESPN \u2026 Georgia high school football's all-time leader in passing yards (13,922), breaking the record previously held by current Jacksonville Jaguars quarterback Trevor Lawrence (13,902 yds. at Cartersville H.S. \u2013 2014-17) \u2026 Third in Georgia high school history with 159 touchdown passes \u2026 Tied Georgia H.S. single-season record with 56 touchdown passes as a senior in 2023 \u2026 Owns the third- and fourth-highest single-season passing yardage totals in state history (4,598 as a junior in 2022, 4,596 as a senior in '23) \u2026 First-team all-state \u2026 Three-year starter led Prince Avenue to back-to-back state championships as a junior and senior (2022 and 2023) \u2026 Also won state title as backup QB for Prince Avenue as a freshman (2000) \u2026 Threw at least one touchdown pass in every game over his three seasons as a starter \u2026 Threw for at least 4,500 yards in each of his three seasons as starter \u2026 A dynamic runner, finished his prep career with 32 touchdown runs and nearly 1,200 yards on the ground \u2026 Team captain \u2026 Coached by Greg Vandagriff \u2026 Also lettered in basketball \u2026 Threw a no-hitter as a freshman baseball player \u2026 Member of National Honor Society and Beta Club \u2026 Named Mr."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The roster identifies his 13,922 passing yards as Georgia\u2019s high school record and says he finished with 159 touchdown passes.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "High School:** Rated as a three-star prospect by _Rivals_ , _247Sports_ and ESPN \u2026 Georgia high school football's all-time leader in passing yards (13,922), breaking the record previously held by current Jacksonville Jaguars quarterback Trevor Lawrence (13,902 yds. at Cartersville H.S. \u2013 2014-17) \u2026 Third in Georgia high school history with 159 touchdown passes \u2026 Tied Georgia H.S. single-season record with 56 touchdown passes as a senior in 2023 \u2026 Owns the third- and fourth-highest single-season passing yardage totals in state history (4,598 as a junior in 2022, 4,596 as a senior in '23) \u2026 First-team all-state \u2026 Three-year starter led Prince Avenue to back-to-back state championships as a junior and senior (2022 and 2023) \u2026 Also won state title as backup QB for Prince Avenue as a freshman (2000) \u2026 Threw at least one touchdown pass in every game over his three seasons as a starter \u2026 Threw for at least 4,500 yards in each of his three seasons as starter \u2026 A dynamic runner, finished his prep career with 32 touchdown runs and nearly 1,200 yards on the ground \u2026 Team captain \u2026 Coached by Greg Vandagriff \u2026 Also lettered in basketball \u2026 Threw a no-hitter as a freshman baseball player \u2026 Member of National Honor Society and Beta Club \u2026 Named Mr."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The roster says he tied Georgia\u2019s single-season record with 56 touchdown passes as a senior and lists 4,596 passing yards in 2023 and 4,598 in 2022.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "High School:** Rated as a three-star prospect by _Rivals_ , _247Sports_ and ESPN \u2026 Georgia high school football's all-time leader in passing yards (13,922), breaking the record previously held by current Jacksonville Jaguars quarterback Trevor Lawrence (13,902 yds. at Cartersville H.S. \u2013 2014-17) \u2026 Third in Georgia high school history with 159 touchdown passes \u2026 Tied Georgia H.S. single-season record with 56 touchdown passes as a senior in 2023 \u2026 Owns the third- and fourth-highest single-season passing yardage totals in state history (4,598 as a junior in 2022, 4,596 as a senior in '23) \u2026 First-team all-state \u2026 Three-year starter led Prince Avenue to back-to-back state championships as a junior and senior (2022 and 2023) \u2026 Also won state title as backup QB for Prince Avenue as a freshman (2000) \u2026 Threw at least one touchdown pass in every game over his three seasons as a starter \u2026 Threw for at least 4,500 yards in each of his three seasons as starter \u2026 A dynamic runner, finished his prep career with 32 touchdown runs and nearly 1,200 yards on the ground \u2026 Team captain \u2026 Coached by Greg Vandagriff \u2026 Also lettered in basketball \u2026 Threw a no-hitter as a freshman baseball player \u2026 Member of National Honor Society and Beta Club \u2026 Named Mr."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The roster states he led Prince Avenue to back-to-back state championships as a junior and senior.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "High School:** Rated as a three-star prospect by _Rivals_ , _247Sports_ and ESPN \u2026 Georgia high school football's all-time leader in passing yards (13,922), breaking the record previously held by current Jacksonville Jaguars quarterback Trevor Lawrence (13,902 yds. at Cartersville H.S. \u2013 2014-17) \u2026 Third in Georgia high school history with 159 touchdown passes \u2026 Tied Georgia H.S. single-season record with 56 touchdown passes as a senior in 2023 \u2026 Owns the third- and fourth-highest single-season passing yardage totals in state history (4,598 as a junior in 2022, 4,596 as a senior in '23) \u2026 First-team all-state \u2026 Three-year starter led Prince Avenue to back-to-back state championships as a junior and senior (2022 and 2023) \u2026 Also won state title as backup QB for Prince Avenue as a freshman (2000) \u2026 Threw at least one touchdown pass in every game over his three seasons as a starter \u2026 Threw for at least 4,500 yards in each of his three seasons as starter \u2026 A dynamic runner, finished his prep career with 32 touchdown runs and nearly 1,200 yards on the ground \u2026 Team captain \u2026 Coached by Greg Vandagriff \u2026 Also lettered in basketball \u2026 Threw a no-hitter as a freshman baseball player \u2026 Member of National Honor Society and Beta Club \u2026 Named Mr."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Florida game account says he became the first Gator to rush for over 100 yards at Kentucky in 13 years.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/roster/aaron-philo/18345",
+          "excerpts": [
+            "Became the first Gator to rush for over 100 yards at Kentucky in 13 years \u2013 since Matt Jones in 2013 (167) - and the first UF quarterback to rush for 100 yards in a game since Anthony Richardson in 2022 vs. LSU."
+          ],
+          "title": "Aaron Philo - Football - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

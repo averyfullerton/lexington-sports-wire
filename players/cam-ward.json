@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Miami",
   "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Cam set the Division I college career record with 158 passing touchdowns.",
     "Cam set a Miami college season record with 39 passing touchdowns.",
@@ -39,11 +42,11 @@
       [
         "2026",
         "TEN",
-        "9",
-        "183",
-        "287",
-        "1,714",
-        "8",
+        "10",
+        "204",
+        "317",
+        "1,962",
+        "10",
         "6"
       ]
     ]

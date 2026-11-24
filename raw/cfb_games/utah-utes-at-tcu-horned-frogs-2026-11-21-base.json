@@ -1,0 +1,429 @@
+{
+  "run_id": "trun_bd5aff7f279040eab043bda48b6ee921",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 134.8,
+  "input": {
+    "away_team": "Utah Utes",
+    "home_team": "TCU Horned Frogs",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Utah Utes",
+    "key_plays": [
+      "Q2 1:28: Devon Dampier 68-yard touchdown pass to Braden Pegan.",
+      "Q3 9:13: Jeremy Payne 43-yard touchdown run.",
+      "Q3 3:37: Jeremy Payne 8-yard touchdown run, tying the score at 17.",
+      "Q4 5:46: Hunter Andrews 2-yard touchdown run to put Utah ahead.",
+      "Q4 2:59: Devon Dampier 85-yard touchdown pass to Larry Simmons."
+    ],
+    "away_score": 38,
+    "storyline": "Utah remained the only unbeaten FBS team, clinched a spot in the Big 12 Championship Game, and extended its winning streak to 17 games. TCU came back from a 17-0 halftime deficit to tie the game, but Utah scored three touchdowns in the final 5:46.",
+    "top_performers": [
+      {
+        "stat_line": "18/28, 278 passing yards, 2 passing TD; 21 carries, 62 rushing yards, 2 rushing TD",
+        "team": "Utah Utes",
+        "name": "Devon Dampier"
+      },
+      {
+        "stat_line": "12 carries, 108 yards, 2 TD",
+        "team": "TCU Horned Frogs",
+        "name": "Jeremy Payne"
+      },
+      {
+        "stat_line": "114 receiving yards, 1 TD",
+        "team": "Utah Utes",
+        "name": "Larry Simmons"
+      }
+    ],
+    "home_record_after": "5-6",
+    "tough_day": [
+      {
+        "stat_line": "15/31, 106 passing yards, 2 INT",
+        "team": "TCU Horned Frogs",
+        "name": "Adam Schobel"
+      }
+    ],
+    "away_record_after": "11-0",
+    "home_team": "TCU Horned Frogs",
+    "home_score": 17
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The final-score listing identifies the matchup and marks it Final, with Utah winning 38-17.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "[Utah Utes Utah UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes)\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) UTAH |10 |7 |0 |21 |38 |\n|[TCU](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs) TCU |0 |0 |14 |3 |17 |"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The scoreboard names Utah Utes as the visiting team in the Utah-at-TCU matchup.",
+      "citations": [
+        {
+          "url": "https://espndeportes.espn.com/futbol-americano/colegial/juego/_/juegoId/401856872/utah-tcu",
+          "excerpts": [
+            "Salta al contenido principal Ir a la navegaci\u00f3n\n\n2\n\nUtah Utes Utah UTAH\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nF\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|Utah UTAH |10 |7 |0 |21 |38 |\n|TCU TCU |0 |0 |14 |3 |17 |\n\nTCU Horned Frogs TCU TCU\n\n5-6 , 3-5 Big 12\n\n17\n\n5-6 , 3-5 Big 12\n\n# Utah Utes en TCU Horned Frogs"
+          ],
+          "title": "Utah 38-17 TCU (21 de Nov., 2026) Resultado Final - ESPN DEPORTES"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The scoring summary gives the quarter, time, players, and play descriptions for the Pegan, Payne, and Andrews touchdowns; the separate fourth-quarter entry identifies Simmons's 85-yard touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856872",
+          "excerpts": [
+            "1:28 - 2nd\n\n17\n\nUTAH\n\n0\n\nTCU\n\nBraden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n2 plays, 80 yards, 0:22\n\n3rd Quarter\n\nTouchdown\n\n9:13 - 3rd\n\n17\n\nUTAH\n\n7\n\nTCU\n\nJeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal\n\n11 plays, 65 yards, 6:11\n\nTouchdown\n\n5:46 - 4th\n\n24\n\nUTAH\n\n17\n\nTCU\n\nHunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "9 plays, 75 yards, 3:39\n\nTouchdown\n\n2:59 - 4th\n\n31\n\nUTAH\n\n17\n\nTCU\n\nLarry Simmons 85 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n3 plays, 91 yards, 1:43\n\nTouchdown\n\n1:53 - 4th\n\n38\n\nUTAH\n\n17\n\nTCU"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final scoreboard lists Utah's total as 38.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "[Utah Utes Utah UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes)\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) UTAH |10 |7 |0 |21 |38 |\n|[TCU](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs) TCU |0 |0 |14 |3 |17 |"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Utah was the only unbeaten FBS team, clinched a Big 12 title-game berth, and recorded its 17th straight win; it also recounts TCU's rally to a tie before Utah answered.",
+      "citations": [
+        {
+          "url": "https://collegefootballplayoff.com/news/2026/11/23/wk-12-recap",
+          "excerpts": [
+            "**No. 2 Utah 38, TCU 17**  \nUtah is now the nation's only unbeaten FBS team, and it clinched a spot in the Big 12 Championship Game.  \n  \nUtah led 17-0 at halftime after Devon Dampier's 68-yard touchdown pass to Braden Pegan. TCU tied it 17-17 behind two Jeremy Payne touchdown runs and a fourth-quarter field goal.",
+            "The Utes (11-0, 8-0 Big 12) close at home against West Virginia on Friday, November 27.  \n  \n**Michigan 18, No. 4 UCLA 16 (3OT)**  \nThe upset of the weekend came in Ann Arbor."
+          ],
+          "title": "Week 12 Recap: Five CFP Ranked Teams Fall - College Football Playoff"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game leaders give Dampier's passing and rushing totals; Payne's game log gives his carries, yards, and touchdowns; the recap records Simmons's receiving yards and the scoring entry confirms his touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "Passing Yards\n\n[278 D. Dampier QB 18/28, 2 TD 278](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nPassing Yards\n\n[106 A. Schobel QB 15/31, 2 INT 106](https://www.espn.com/college-football/player/_/id/5141643/adam-schobel)\n\nRushing Yards\n\n[62 D. Dampier QB 21 CAR, 2 TD 62](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nRushing Yards\n\n[108 J.",
+            "9 plays, 75 yards, 3:39\n\nTouchdown\n\n2:59 - 4th\n\n31\n\nUTAH\n\n17\n\nTCU\n\nLarry Simmons 85 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n3 plays, 91 yards, 1:43\n\nTouchdown\n\n1:53 - 4th\n\n38\n\nUTAH\n\n17\n\nTCU"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5079663/jeremy-payne",
+          "excerpts": [
+            "|Sun 11/22 |vs UTAH 2 [UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes \"Team - Utah Utes\") |[L 38-17](https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu) |12 |108 |9\\.0 |2 |43 |0 |0 |0\\.0 |0 |0 |0 |0 |\n|Total | | |103 |484 |4\\.7 |2 |48 |18 |86 |4\\.8 |0 |17 |1 |1 |\n\n### Glossary\n\n* AVG: Yards Per Rush Attempt\n* CAR: Rushing Attempts\n* FUM: Fumbles"
+          ],
+          "title": "Jeremy Payne 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856872",
+          "excerpts": [
+            "Simmons, who had 114 yards receiving, veered to the Utah sideline to finish the 85-yarder."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The final game listing shows TCU at 5-6 after the result.",
+      "citations": [
+        {
+          "url": "https://espndeportes.espn.com/futbol-americano/colegial/juego/_/juegoId/401856872/utah-tcu",
+          "excerpts": [
+            "Salta al contenido principal Ir a la navegaci\u00f3n\n\n2\n\nUtah Utes Utah UTAH\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nF\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|Utah UTAH |10 |7 |0 |21 |38 |\n|TCU TCU |0 |0 |14 |3 |17 |\n\nTCU Horned Frogs TCU TCU\n\n5-6 , 3-5 Big 12\n\n17\n\n5-6 , 3-5 Big 12\n\n# Utah Utes en TCU Horned Frogs"
+          ],
+          "title": "Utah 38-17 TCU (21 de Nov., 2026) Resultado Final - ESPN DEPORTES"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The passing leaders list Schobel at 15/31 for 106 yards with two interceptions; the player listing identifies him as Adam Schobel of TCU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "Passing Yards\n\n[278 D. Dampier QB 18/28, 2 TD 278](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nPassing Yards\n\n[106 A. Schobel QB 15/31, 2 INT 106](https://www.espn.com/college-football/player/_/id/5141643/adam-schobel)\n\nRushing Yards\n\n[62 D. Dampier QB 21 CAR, 2 TD 62](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nRushing Yards\n\n[108 J."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5141643/adam-schobel",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Adam Schobel\n\nTCU Horned Frogs\n\n* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#11\n* Quarterback QB\n\n* Class"
+          ],
+          "title": "Adam Schobel - TCU Horned Frogs Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The final game listing shows Utah at 11-0 after the win.",
+      "citations": [
+        {
+          "url": "https://espndeportes.espn.com/futbol-americano/colegial/juego/_/juegoId/401856872/utah-tcu",
+          "excerpts": [
+            "Salta al contenido principal Ir a la navegaci\u00f3n\n\n2\n\nUtah Utes Utah UTAH\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nF\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|Utah UTAH |10 |7 |0 |21 |38 |\n|TCU TCU |0 |0 |14 |3 |17 |\n\nTCU Horned Frogs TCU TCU\n\n5-6 , 3-5 Big 12\n\n17\n\n5-6 , 3-5 Big 12\n\n# Utah Utes en TCU Horned Frogs"
+          ],
+          "title": "Utah 38-17 TCU (21 de Nov., 2026) Resultado Final - ESPN DEPORTES"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The scoreboard names TCU Horned Frogs as the home team in the Utah-at-TCU matchup.",
+      "citations": [
+        {
+          "url": "https://espndeportes.espn.com/futbol-americano/colegial/juego/_/juegoId/401856872/utah-tcu",
+          "excerpts": [
+            "Salta al contenido principal Ir a la navegaci\u00f3n\n\n2\n\nUtah Utes Utah UTAH\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nF\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|Utah UTAH |10 |7 |0 |21 |38 |\n|TCU TCU |0 |0 |14 |3 |17 |\n\nTCU Horned Frogs TCU TCU\n\n5-6 , 3-5 Big 12\n\n17\n\n5-6 , 3-5 Big 12\n\n# Utah Utes en TCU Horned Frogs"
+          ],
+          "title": "Utah 38-17 TCU (21 de Nov., 2026) Resultado Final - ESPN DEPORTES"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final scoreboard lists TCU's total as 17.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "[Utah Utes Utah UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes)\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) UTAH |10 |7 |0 |21 |38 |\n|[TCU](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs) TCU |0 |0 |14 |3 |17 |"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary identifies Braden Pegan's 68-yard touchdown reception from Devon Dampier at 1:28 in the second quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856872",
+          "excerpts": [
+            "1:28 - 2nd\n\n17\n\nUTAH\n\n0\n\nTCU\n\nBraden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n2 plays, 80 yards, 0:22\n\n3rd Quarter\n\nTouchdown\n\n9:13 - 3rd\n\n17\n\nUTAH\n\n7\n\nTCU\n\nJeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal\n\n11 plays, 65 yards, 6:11\n\nTouchdown\n\n5:46 - 4th\n\n24\n\nUTAH\n\n17\n\nTCU\n\nHunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary lists Jeremy Payne's 43-yard touchdown run at 9:13 in the third quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856872",
+          "excerpts": [
+            "1:28 - 2nd\n\n17\n\nUTAH\n\n0\n\nTCU\n\nBraden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n2 plays, 80 yards, 0:22\n\n3rd Quarter\n\nTouchdown\n\n9:13 - 3rd\n\n17\n\nUTAH\n\n7\n\nTCU\n\nJeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal\n\n11 plays, 65 yards, 6:11\n\nTouchdown\n\n5:46 - 4th\n\n24\n\nUTAH\n\n17\n\nTCU\n\nHunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary lists Payne's 8-yard touchdown run at 3:37 in the third quarter, bringing the score to 17-17.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856872",
+          "excerpts": [
+            "1:28 - 2nd\n\n17\n\nUTAH\n\n0\n\nTCU\n\nBraden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n2 plays, 80 yards, 0:22\n\n3rd Quarter\n\nTouchdown\n\n9:13 - 3rd\n\n17\n\nUTAH\n\n7\n\nTCU\n\nJeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal\n\n11 plays, 65 yards, 6:11\n\nTouchdown\n\n5:46 - 4th\n\n24\n\nUTAH\n\n17\n\nTCU\n\nHunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary lists Hunter Andrews's 2-yard touchdown run at 5:46 in the fourth quarter, giving Utah the lead.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856872",
+          "excerpts": [
+            "1:28 - 2nd\n\n17\n\nUTAH\n\n0\n\nTCU\n\nBraden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n2 plays, 80 yards, 0:22\n\n3rd Quarter\n\nTouchdown\n\n9:13 - 3rd\n\n17\n\nUTAH\n\n7\n\nTCU\n\nJeremy Payne 43 Yd Run (Kyle Lemmermann Kick)\n\n6 plays, 80 yards, 2:56\n\nTouchdown\n\n3:37 - 3rd\n\n17\n\nUTAH\n\n14\n\nTCU\n\nJeremy Payne 8 Yd Run (Kyle Lemmermann Kick)\n\n7 plays, 67 yards, 3:22\n\n4th Quarter\n\nField Goal\n\n9:26 - 4th\n\n17\n\nUTAH\n\n17\n\nTCU\n\nKyle Lemmermann 32 Yd Field Goal\n\n11 plays, 65 yards, 6:11\n\nTouchdown\n\n5:46 - 4th\n\n24\n\nUTAH\n\n17\n\nTCU\n\nHunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring entry identifies Larry Simmons's 85-yard touchdown reception from Devon Dampier at 2:59 in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "9 plays, 75 yards, 3:39\n\nTouchdown\n\n2:59 - 4th\n\n31\n\nUTAH\n\n17\n\nTCU\n\nLarry Simmons 85 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n3 plays, 91 yards, 1:43\n\nTouchdown\n\n1:53 - 4th\n\n38\n\nUTAH\n\n17\n\nTCU"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The game leaders list Dampier's 18/28 passing line with 278 yards and two passing touchdowns, as well as 21 carries, 62 yards, and two rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "Passing Yards\n\n[278 D. Dampier QB 18/28, 2 TD 278](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nPassing Yards\n\n[106 A. Schobel QB 15/31, 2 INT 106](https://www.espn.com/college-football/player/_/id/5141643/adam-schobel)\n\nRushing Yards\n\n[62 D. Dampier QB 21 CAR, 2 TD 62](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nRushing Yards\n\n[108 J."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "Payne's game log records 12 carries for 108 yards and two rushing touchdowns against Utah.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5079663/jeremy-payne",
+          "excerpts": [
+            "|Sun 11/22 |vs UTAH 2 [UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes \"Team - Utah Utes\") |[L 38-17](https://www.espn.com/college-football/game/_/gameId/401856872/utah-tcu) |12 |108 |9\\.0 |2 |43 |0 |0 |0\\.0 |0 |0 |0 |0 |\n|Total | | |103 |484 |4\\.7 |2 |48 |18 |86 |4\\.8 |0 |17 |1 |1 |\n\n### Glossary\n\n* AVG: Yards Per Rush Attempt\n* CAR: Rushing Attempts\n* FUM: Fumbles"
+          ],
+          "title": "Jeremy Payne 2026 Stats per Game - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The recap states Simmons had 114 receiving yards, and the scoring entry records his 85-yard touchdown reception.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856872",
+          "excerpts": [
+            "Simmons, who had 114 yards receiving, veered to the Utah sideline to finish the 85-yarder."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "9 plays, 75 yards, 3:39\n\nTouchdown\n\n2:59 - 4th\n\n31\n\nUTAH\n\n17\n\nTCU\n\nLarry Simmons 85 Yd pass from Devon Dampier (Dillon Curtis Kick)\n\n3 plays, 91 yards, 1:43\n\nTouchdown\n\n1:53 - 4th\n\n38\n\nUTAH\n\n17\n\nTCU"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The game leaders show Schobel's 15/31, 106-yard passing line with two interceptions; his player listing gives his full name and TCU affiliation.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872",
+          "excerpts": [
+            "Passing Yards\n\n[278 D. Dampier QB 18/28, 2 TD 278](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nPassing Yards\n\n[106 A. Schobel QB 15/31, 2 INT 106](https://www.espn.com/college-football/player/_/id/5141643/adam-schobel)\n\nRushing Yards\n\n[62 D. Dampier QB 21 CAR, 2 TD 62](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\nRushing Yards\n\n[108 J."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5141643/adam-schobel",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Adam Schobel\n\nTCU Horned Frogs\n\n* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#11\n* Quarterback QB\n\n* Class"
+          ],
+          "title": "Adam Schobel - TCU Horned Frogs Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record_after",
+      "away_score",
+      "away_team",
+      "game_was_played",
+      "home_record_after",
+      "home_score",
+      "home_team",
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Devon Dampier threw 2 touchdown passes as No. 2 Utah beat TCU 38-17. He hit Braden Pegan for a 68-yard score. Utah led 17-0 at halftime, but Jeremy Payne ran for 2 touchdowns. His second score tied the game at 17! Hunter Andrews put Utah ahead with a 2-yard touchdown run. Then Dampier zipped an 85-yard touchdown pass to Larry Simmons! Utah stayed the only unbeaten FBS team and stretched its winning streak to 17 games. The win also sent Utah to the Big 12 Championship Game.",
+    "big_words": [
+      {
+        "word": "streak",
+        "definition": "A run of wins or successes in a row.",
+        "example": "Jamal kept his streak going by building a block tower every day."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 2,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1249,
+        "output": 268
+      },
+      {
+        "input": 1485,
+        "output": 172
+      }
+    ]
+  }
+}

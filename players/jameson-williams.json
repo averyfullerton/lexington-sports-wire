@@ -1,0 +1,78 @@
+{
+  "name": "Jameson Williams",
+  "espn_id": "4426388",
+  "team": "Detroit Lions",
+  "team_abbr": "DET",
+  "number": "1",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Alabama",
+  "experience": 5,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Jameson set a state record in the 300-meter hurdles in high school.",
+    "Jameson scored eight college touchdowns of at least 50 yards in 2021.",
+    "Jameson scored on a 61-yard run in a Lions NFL playoff game."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2022",
+        "DET",
+        "6",
+        "1",
+        "41",
+        "1",
+        "41"
+      ],
+      [
+        "2023",
+        "DET",
+        "12",
+        "24",
+        "354",
+        "2",
+        "63"
+      ],
+      [
+        "2024",
+        "DET",
+        "15",
+        "58",
+        "1,001",
+        "7",
+        "82"
+      ],
+      [
+        "2025",
+        "DET",
+        "17",
+        "65",
+        "1,117",
+        "7",
+        "64"
+      ],
+      [
+        "2026",
+        "DET",
+        "10",
+        "36",
+        "611",
+        "6",
+        "57"
+      ]
+    ]
+  }
+}

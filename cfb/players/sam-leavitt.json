@@ -1,0 +1,69 @@
+{
+  "name": "Sam Leavitt",
+  "espn_id": "5078810",
+  "team": "LSU Tigers",
+  "team_abbr": "LSU",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "West Linn, OR",
+  "league": "cfb",
+  "fun_facts": [
+    "Sam won Oregon Gatorade Player of the Year in high school.",
+    "Sam threw two touchdowns in four games as a college freshman at Michigan State.",
+    "Sam helped Arizona State win the Big 12 championship and reach the College Football Playoff."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "MSU",
+        "15",
+        "23",
+        "139",
+        "2",
+        "2"
+      ],
+      [
+        "2024",
+        "ASU",
+        "216",
+        "350",
+        "2,885",
+        "24",
+        "6"
+      ],
+      [
+        "2025",
+        "ASU",
+        "145",
+        "239",
+        "1,628",
+        "10",
+        "3"
+      ],
+      [
+        "2026",
+        "LSU",
+        "269",
+        "379",
+        "3,019",
+        "20",
+        "12"
+      ]
+    ]
+  }
+}

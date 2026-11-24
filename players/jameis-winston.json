@@ -1,0 +1,154 @@
+{
+  "name": "Jameis Winston",
+  "espn_id": "2969939",
+  "team": "New York Giants",
+  "team_abbr": "NYG",
+  "number": "19",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": "Florida State",
+  "experience": 12,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Jameis was a pitcher and outfielder in college.",
+    "Jameis was 19 when he became the youngest Heisman Trophy winner.",
+    "Jameis led Florida State to the college national championship in 2013."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2015",
+        "TB",
+        "16",
+        "312",
+        "535",
+        "4,042",
+        "22",
+        "15"
+      ],
+      [
+        "2016",
+        "TB",
+        "16",
+        "345",
+        "567",
+        "4,090",
+        "28",
+        "18"
+      ],
+      [
+        "2017",
+        "TB",
+        "13",
+        "282",
+        "442",
+        "3,504",
+        "19",
+        "11"
+      ],
+      [
+        "2018",
+        "TB",
+        "11",
+        "244",
+        "378",
+        "2,992",
+        "19",
+        "14"
+      ],
+      [
+        "2019",
+        "TB",
+        "16",
+        "380",
+        "626",
+        "5,109",
+        "33",
+        "30"
+      ],
+      [
+        "2020",
+        "NO",
+        "4",
+        "7",
+        "11",
+        "75",
+        "0",
+        "0"
+      ],
+      [
+        "2021",
+        "NO",
+        "7",
+        "95",
+        "161",
+        "1,170",
+        "14",
+        "3"
+      ],
+      [
+        "2022",
+        "NO",
+        "3",
+        "73",
+        "115",
+        "858",
+        "4",
+        "5"
+      ],
+      [
+        "2023",
+        "NO",
+        "7",
+        "25",
+        "47",
+        "264",
+        "2",
+        "3"
+      ],
+      [
+        "2024",
+        "CLE",
+        "12",
+        "181",
+        "296",
+        "2,121",
+        "13",
+        "12"
+      ],
+      [
+        "2025",
+        "NYG",
+        "3",
+        "37",
+        "66",
+        "567",
+        "2",
+        "2"
+      ],
+      [
+        "2026",
+        "NYG",
+        "9",
+        "96",
+        "167",
+        "1,028",
+        "8",
+        "5"
+      ]
+    ]
+  }
+}

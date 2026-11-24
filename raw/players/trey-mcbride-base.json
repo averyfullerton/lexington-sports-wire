@@ -1,0 +1,171 @@
+{
+  "run_id": "trun_415f3f698c1f435b81ff0127d7e41b5d",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 152.8,
+  "input": {
+    "player": "Trey McBride",
+    "team": "Arizona Cardinals",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Colorado State",
+    "fun_facts": [
+      "Trey McBride was born in Fort Morgan, Colorado.",
+      "At Colorado State, Trey McBride won the 2021 Mackey Award, led FBS tight ends with 1,121 receiving yards, and earned first-team All-American honors.",
+      "Trey McBride was the first tight end selected in the 2022 NFL Draft.",
+      "Trey McBride set the NFL single-season record for a tight end with 126 receptions in 2025.",
+      "Trey McBride set an NFL record for most consecutive games with at least five catches by a tight end."
+    ],
+    "draft": "2022, round 2, pick 55"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The player profile identifies Trey McBride's college as Colorado State.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4361307/trey-mcbride",
+          "excerpts": [
+            "* [Arizona Cardinals Cardinals](https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals)\n* \\#85\n* Tight End TE\n\n* HT/WT\n  \n  6' 4\", 246 lbs\n* Birthdate\n  \n  11/22/1999 (27)\n* College\n  \n  [Colorado State](https://www.espn.com/college-football/team/_/id/36/colorado-state-rams)\n\nFollow\n\n* HT/WT\n  \n  6' 4\", 246 lbs\n* Birthdate\n  \n  11/22/1999 (27)\n* College\n  \n  [Colorado State](https://www.espn.com/college-football/team/_/id/36/colorado-state-rams)\n* Draft Info\n  \n  2022: Rd 2, Pk 55 (ARI)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* REC\n  \n  87\n  \n  2nd\n  \n  YDS\n  \n  689\n  \n  16th\n  \n  TD\n  \n  5\n  \n  Tied-16th\n  \n  AVG\n  \n  7\\.9\n  \n  118th\n\n* [Overview](https://www.espn.com/nfl/player/_/id/4361307/trey-mcbride)"
+          ],
+          "title": "Trey McBride - Arizona Cardinals Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives Fort Morgan as Trey McBride's birthplace. The NFL draft coverage states he won the 2021 Mackey Award, led FBS tight ends with 1,121 receiving yards, earned first-team All-American honors, and was the first tight end selected in the 2022 draft. NFL and ESPN coverage also report his tight-end single-season reception record of 126 and his consecutive-games record for five or more catches.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361307/trey-mcbride",
+          "excerpts": [
+            "Draft Info 2022: Rd 2, Pk 55 (ARI)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Fort Morgan, CO\n\n### Career History"
+          ],
+          "title": "Trey McBride Biography - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/cardinals-select-colorado-st-te-trey-mcbride-in-second-round-of-2022-nfl-draft",
+          "excerpts": [
+            "They chose his understudy Friday night.\n\nArizona spent the 55th overall pick on Colorado State standout [Trey McBride](https://www.nfl.com/prospects/trey-mcbride/32004d43-4274-3360-cc50-43990383247d) , making him the first tight end selected in the 2022 NFL Draft in Las Vegas.\n\nMcBride brings the hardware with him to the NFL. The 2021 Mackey Award winner led all tight ends in the Football Bowl Subdivision with 1,121 receiving yards and earned first-team All-American honors in his final season with the Rams, capping a career that also included two first-team All-Mountain West selections (2019, 2021). McBride's 1,121 yards were the fourth-most from a tight end in a single season in the FBS since at least 1996.\n\nHe certainly earned them. McBride's highlight tape shows off a number of examples of him making contested catches with his strong hands -- he recorded 17 such receptions in 2021, per Pro Football"
+          ],
+          "title": "Cardinals select Colorado St. TE Trey McBride in second round of 2022 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/is-trey-mcbride-nfl-s-top-te-cardinals-all-pro-weighs-in",
+          "excerpts": [
+            "Arizona Cardinals star [Trey McBride](https://www.nfl.com/players/trey-mcbride) broke the all-time single-season record for receptions by a tight end with 126 and was named the first-team All-Pro TE in 2025, signifying the top player at the position last year.\n\nDespite the record and accolades, the humble McBride told the [Ross Tucker Football Podcast](https://www.youtube.com/watch?v=GEnKVn8AZ_w) last week that he doesn\u2019t consider himself the best tight end in the game.\n\n\u201cNo, I don\u2019t. These guys, [Travis (Kelce)](https://www.nfl.com/players/travis-kelce/) , [George (Kittle)](https://www.nfl"
+          ],
+          "title": "Is Trey McBride NFL's top TE? Cardinals All-Pro weighs in | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47809943/arizona-cardinals-trey-mcbride-pro-bowl",
+          "excerpts": [
+            "On Tuesday, McBride will play in his second straight Pro Bowl, just one of the accolades he received this season, but also a nod to his standing in the NFL -- even if he doesn't see himself in the same way as others do.\n\nMcBride turned in the best season of any tight end this season, one that culminated with his first All-Pro nod and included setting two NFL records, including the most consecutive games with five or more catches by a tight end.\n\nAnd despite all the praise and accomplishments, McBride doesn't think he's the best tight end in the NFL.\n\n\"I think I'm a great tight end, I just don't think I'm the best,\" McBride told ESPN. \"I feel like I'm considered one of the top tight ends, but I got to just keep proving myself each and every day, each and every week, every year."
+          ],
+          "title": "Cardinals TE Trey McBride basks in Pro Bowl spotlight - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft table lists Trey McBride in round 2 at overall pick 55, and identifies the 2022 annual selection meeting.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/chargers/nq4tssz0i0pfe34lwfzv",
+          "excerpts": [
+            "**TIME OF ROUND: 1 HOUR, 38 MINUTES**\n\n**TOTAL TIME 14 HOURS, 29 MINUTES**\n\n**\\+ Compensatory Pick**\n\n**\\# Underclassman**\n\n**NATIONAL FOOTBALL LEAGUE**\n\n_87th ANNUAL SELECTION MEETING_\n\n_APRIL 28 - APRIL 30, 2022_\n\n**ARIZONA CARDINALS**\n\n**Round Name Pos College Overall**\n\n1 Choice to BUFFALO\n\nthrough BALTIMORE\n\n2 McBride, Trey TE Colorado State 55"
+          ],
+          "title": "2022 NFL Draft Day 3 Reports"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Fort Morgan, Colorado, as Trey McBride's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4361307/trey-mcbride",
+          "excerpts": [
+            "Draft Info 2022: Rd 2, Pk 55 (ARI)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace Fort Morgan, CO\n\n### Career History"
+          ],
+          "title": "Trey McBride Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NFL draft coverage identifies his 2021 Mackey Award, FBS-leading 1,121 receiving yards among tight ends, and first-team All-American recognition.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/cardinals-select-colorado-st-te-trey-mcbride-in-second-round-of-2022-nfl-draft",
+          "excerpts": [
+            "They chose his understudy Friday night.\n\nArizona spent the 55th overall pick on Colorado State standout [Trey McBride](https://www.nfl.com/prospects/trey-mcbride/32004d43-4274-3360-cc50-43990383247d) , making him the first tight end selected in the 2022 NFL Draft in Las Vegas.\n\nMcBride brings the hardware with him to the NFL. The 2021 Mackey Award winner led all tight ends in the Football Bowl Subdivision with 1,121 receiving yards and earned first-team All-American honors in his final season with the Rams, capping a career that also included two first-team All-Mountain West selections (2019, 2021). McBride's 1,121 yards were the fourth-most from a tight end in a single season in the FBS since at least 1996.\n\nHe certainly earned them. McBride's highlight tape shows off a number of examples of him making contested catches with his strong hands -- he recorded 17 such receptions in 2021, per Pro Football"
+          ],
+          "title": "Cardinals select Colorado St. TE Trey McBride in second round of 2022 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The same NFL coverage says McBride was the first tight end selected in the 2022 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/cardinals-select-colorado-st-te-trey-mcbride-in-second-round-of-2022-nfl-draft",
+          "excerpts": [
+            "They chose his understudy Friday night.\n\nArizona spent the 55th overall pick on Colorado State standout [Trey McBride](https://www.nfl.com/prospects/trey-mcbride/32004d43-4274-3360-cc50-43990383247d) , making him the first tight end selected in the 2022 NFL Draft in Las Vegas.\n\nMcBride brings the hardware with him to the NFL. The 2021 Mackey Award winner led all tight ends in the Football Bowl Subdivision with 1,121 receiving yards and earned first-team All-American honors in his final season with the Rams, capping a career that also included two first-team All-Mountain West selections (2019, 2021). McBride's 1,121 yards were the fourth-most from a tight end in a single season in the FBS since at least 1996.\n\nHe certainly earned them. McBride's highlight tape shows off a number of examples of him making contested catches with his strong hands -- he recorded 17 such receptions in 2021, per Pro Football"
+          ],
+          "title": "Cardinals select Colorado St. TE Trey McBride in second round of 2022 NFL Draft | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL coverage reports McBride broke the tight-end single-season receptions record with 126 catches in 2025.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/is-trey-mcbride-nfl-s-top-te-cardinals-all-pro-weighs-in",
+          "excerpts": [
+            "Arizona Cardinals star [Trey McBride](https://www.nfl.com/players/trey-mcbride) broke the all-time single-season record for receptions by a tight end with 126 and was named the first-team All-Pro TE in 2025, signifying the top player at the position last year.\n\nDespite the record and accolades, the humble McBride told the [Ross Tucker Football Podcast](https://www.youtube.com/watch?v=GEnKVn8AZ_w) last week that he doesn\u2019t consider himself the best tight end in the game.\n\n\u201cNo, I don\u2019t. These guys, [Travis (Kelce)](https://www.nfl.com/players/travis-kelce/) , [George (Kittle)](https://www.nfl"
+          ],
+          "title": "Is Trey McBride NFL's top TE? Cardinals All-Pro weighs in | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that McBride's season included an NFL record for the most consecutive games with five or more catches by a tight end.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/47809943/arizona-cardinals-trey-mcbride-pro-bowl",
+          "excerpts": [
+            "On Tuesday, McBride will play in his second straight Pro Bowl, just one of the accolades he received this season, but also a nod to his standing in the NFL -- even if he doesn't see himself in the same way as others do.\n\nMcBride turned in the best season of any tight end this season, one that culminated with his first All-Pro nod and included setting two NFL records, including the most consecutive games with five or more catches by a tight end.\n\nAnd despite all the praise and accomplishments, McBride doesn't think he's the best tight end in the NFL.\n\n\"I think I'm a great tight end, I just don't think I'm the best,\" McBride told ESPN. \"I feel like I'm considered one of the top tight ends, but I got to just keep proving myself each and every day, each and every week, every year."
+          ],
+          "title": "Cardinals TE Trey McBride basks in Pro Bowl spotlight - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

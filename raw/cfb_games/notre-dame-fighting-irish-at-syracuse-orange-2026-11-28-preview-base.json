@@ -1,0 +1,349 @@
+{
+  "run_id": "trun_acf50aaad34243e0b4c6d3d273439b8b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 117.1,
+  "input": {
+    "away_team": "Notre Dame Fighting Irish",
+    "home_team": "Syracuse Orange",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "10-1",
+    "away_team": "Notre Dame Fighting Irish",
+    "storyline": "Notre Dame could lock up a College Football Playoff spot the following week. Syracuse entered at 5-6, with bowl eligibility still in reach as it hosted Notre Dame.",
+    "matchup_notes": [
+      "Notre Dame was 10-1 after a 24-3 win over SMU in its most recent game.",
+      "Syracuse was 5-6 after losing 27-15 to Boston College in its most recent game.",
+      "Notre Dame could lock up a College Football Playoff spot the following week.",
+      "Syracuse\u2019s bowl-eligibility path was still alive, with Notre Dame its next home matchup."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,697 passing yards, 24 TD",
+        "team": "Notre Dame Fighting Irish",
+        "name": "CJ Carr"
+      },
+      {
+        "stat_line": "1,886 passing yards, 10 TD, 6 INT",
+        "team": "Syracuse Orange",
+        "name": "Steve Angeli"
+      }
+    ],
+    "home_record": "5-6",
+    "home_team": "Syracuse Orange",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The ESPN matchup listing shows Notre Dame at 10-1 before the scheduled Nov. 28 game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup listing names Notre Dame Fighting Irish as the away team in Notre Dame @ Syracuse.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "ESPN reported Notre Dame could lock up a College Football Playoff spot the following week. It also described Syracuse\u2019s bowl-eligibility path as still in play; the matchup listing gives Syracuse\u2019s 5-6 record, which makes that stake relevant to this game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858307",
+          "excerpts": [
+            "(last verified: 2026-11-24) SMU: The Mustangs fell to 0-3 against ranked teams this season, losing to Louisville, Wake Forest and Notre Dame."
+          ],
+          "title": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "The takeaway\n\nSyracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury."
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited recap and matchup records support both teams\u2019 recent results and records. ESPN\u2019s recap also states Notre Dame\u2019s CFP opportunity and Syracuse\u2019s bowl-eligibility situation ahead of its home game with Notre Dame.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858307",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858307)\n\n# Defense powers No. 3 Notre Dame past SMU 24-3\n\nBy AP\n\nUpdated: Nov 22, 2026, 05:11 am\n\nFacebook Facebook Messenger Twitter Email\n\nSOUTH BEND, Ind. -- \u2014 Notre Dame\u2019s defense held SMU to its lowest point total since 2016,"
+          ],
+          "title": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858309",
+          "excerpts": [
+            "[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6 , 3-6 ACC\n\n15\n\n5-6 , 3-6 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |",
+            "[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\n27\n\n5-6 , 3-4 ACC\n\n# Syracuse Orange @ Boston College Eagles\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858309/syracuse-boston-college)"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858307",
+          "excerpts": [
+            "(last verified: 2026-11-24) SMU: The Mustangs fell to 0-3 against ranked teams this season, losing to Louisville, Wake Forest and Notre Dame."
+          ],
+          "title": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "The takeaway\n\nSyracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury."
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "ESPN\u2019s 2026 team leaders list CJ Carr with 2,697 passing yards and 24 touchdowns. Its matchup season leaders list Syracuse\u2019s S. Angeli with 1,886 passing yards, 10 touchdowns and 6 interceptions; Syracuse\u2019s team leaders identify the quarterback by his full name, Steve Angeli.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/18/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards CJ Carr ### CJ Carr QB #13 2,697 TD 24 QBR 87\\.5](https://www.espn.com/college-football/player/_/id/5079369/cj-carr)\n\n[## Rushing Yards Nolan James Jr. ### Nolan James Jr. RB #2 742 CAR 135 TD 11](https://www.espn.com/college-football/player/_/id/5189515/nolan-james-jr)"
+          ],
+          "title": "Notre Dame Fighting Irish Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/183/syracuse-orange",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Steve Angeli ### Steve Angeli QB #9 1,722 TD 10 QBR 51\\.2](https://www.espn.com/college-football/player/_/id/4685694/steve-angeli)\n\n[## Rushing Yards Tylik Hill ### Tylik Hill RB #20 591 CAR 115 TD 2](https://www.espn.com/college-football/player/_/id/5261613/tylik-hill)"
+          ],
+          "title": "Syracuse Orange Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[According to ESPN Analytics](https://www.espn.com/college-football/fpi)\n\nFacebook Twitter\n\n## Season Leaders\n\n[ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish) [SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\nPassing Yards\n\n[2,697 C. Carr QB 216/319, 24 TD, 3 INT 2,697](https://www.espn.com/college-football/player/_/id/5079369/cj-carr)\n\nPassing Yards\n\n[1,886 S. Angeli QB 156/275, 10 TD, 6 INT 1,886](https://www.espn.com/college-football/player/_/id/4685694/steve-angeli)\n\nRushing Yards\n\n[742 N. James Jr.",
+            "D'Appolonia LB 78](https://www.espn.com/college-football/player/_/id/5092238/chris-dappolonia)\n\n[Full Player Stats](https://www.espn.com/college-football/stats)\n\n## LAST FIVE GAMES\n\nNotre Dame"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The ESPN matchup listing shows Syracuse at 5-6 before the scheduled Nov. 28 game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup listing names Syracuse Orange as the home team in Notre Dame @ Syracuse.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The matchup listing gives the game date as Nov. 28, 2026, which is after the user-provided current date of Nov. 24, 2026; the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The matchup listing gives Notre Dame\u2019s 10-1 record, and the recap reports its 24-3 win over SMU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858307",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401858307)\n\n# Defense powers No. 3 Notre Dame past SMU 24-3\n\nBy AP\n\nUpdated: Nov 22, 2026, 05:11 am\n\nFacebook Facebook Messenger Twitter Email\n\nSOUTH BEND, Ind. -- \u2014 Notre Dame\u2019s defense held SMU to its lowest point total since 2016,"
+          ],
+          "title": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The ESPN box score lists Syracuse at 5-6 and records its 15 points against Boston College\u2019s 27 in the final.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858309",
+          "excerpts": [
+            "[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6 , 3-6 ACC\n\n15\n\n5-6 , 3-6 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |",
+            "[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\n27\n\n5-6 , 3-4 ACC\n\n# Syracuse Orange @ Boston College Eagles\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858309/syracuse-boston-college)"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap says Notre Dame could lock up a College Football Playoff spot the following week.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858307",
+          "excerpts": [
+            "(last verified: 2026-11-24) SMU: The Mustangs fell to 0-3 against ranked teams this season, losing to Louisville, Wake Forest and Notre Dame."
+          ],
+          "title": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "ESPN says Syracuse\u2019s bowl-eligibility path remained in play and identifies Notre Dame as its next home matchup; the matchup listing shows Syracuse at 5-6.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "The takeaway\n\nSyracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury."
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[Notre Dame Fighting Irish Notre Dame ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish)\n\n10-1\n\nNov 28\n\n5:00 PM\n\nABC\n\n[](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n[Syracuse Orange Syracuse SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\n5-6\n\n# Notre Dame Fighting Irish @ Syracuse Orange"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The ESPN team leaders list CJ Carr with 2,697 passing yards and 24 touchdowns for 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/18/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards CJ Carr ### CJ Carr QB #13 2,697 TD 24 QBR 87\\.5](https://www.espn.com/college-football/player/_/id/5079369/cj-carr)\n\n[## Rushing Yards Nolan James Jr. ### Nolan James Jr. RB #2 742 CAR 135 TD 11](https://www.espn.com/college-football/player/_/id/5189515/nolan-james-jr)"
+          ],
+          "title": "Notre Dame Fighting Irish Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Syracuse\u2019s team leaders identify the quarterback as Steve Angeli, and the matchup season leaders give his 1,886 passing yards, 10 touchdowns and 6 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/183/syracuse-orange",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Steve Angeli ### Steve Angeli QB #9 1,722 TD 10 QBR 51\\.2](https://www.espn.com/college-football/player/_/id/4685694/steve-angeli)\n\n[## Rushing Yards Tylik Hill ### Tylik Hill RB #20 591 CAR 115 TD 2](https://www.espn.com/college-football/player/_/id/5261613/tylik-hill)"
+          ],
+          "title": "Syracuse Orange Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858314/notre-dame-syracuse",
+          "excerpts": [
+            "[According to ESPN Analytics](https://www.espn.com/college-football/fpi)\n\nFacebook Twitter\n\n## Season Leaders\n\n[ND](https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish) [SYR](https://www.espn.com/college-football/team/_/id/183/syracuse-orange)\n\nPassing Yards\n\n[2,697 C. Carr QB 216/319, 24 TD, 3 INT 2,697](https://www.espn.com/college-football/player/_/id/5079369/cj-carr)\n\nPassing Yards\n\n[1,886 S. Angeli QB 156/275, 10 TD, 6 INT 1,886](https://www.espn.com/college-football/player/_/id/4685694/steve-angeli)\n\nRushing Yards\n\n[742 N. James Jr.",
+            "D'Appolonia LB 78](https://www.espn.com/college-football/player/_/id/5092238/chris-dappolonia)\n\n[Full Player Stats](https://www.espn.com/college-football/stats)\n\n## LAST FIVE GAMES\n\nNotre Dame"
+          ],
+          "title": "Notre Dame vs. Syracuse (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.3",
+      "players_to_watch",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "On Saturday, Nov 28, football comes to Syracuse, New York. No. 3 Notre Dame is 10-1, and Syracuse is 5-6. Notre Dame\u2019s CJ Carr has 2,697 passing yards and 24 touchdowns! Notre Dame could lock up a College Football Playoff spot the next week. Syracuse is hopeful about reaching a bowl. It all kicks off Saturday in Syracuse, New York.",
+    "big_words": [
+      {
+        "word": "hopeful",
+        "definition": "Feeling that something good could happen.",
+        "example": "Grace felt hopeful as she learned to ride her bike without help."
+      }
+    ],
+    "opener": "Start by setting the scene: where the game is and when.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1134,
+        "output": 289
+      }
+    ]
+  }
+}

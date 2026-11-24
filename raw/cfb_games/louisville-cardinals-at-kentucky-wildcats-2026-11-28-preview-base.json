@@ -1,0 +1,294 @@
+{
+  "run_id": "trun_acf50aaad34243e082f153a92c51a42b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 270.8,
+  "input": {
+    "away_team": "Louisville Cardinals",
+    "home_team": "Kentucky Wildcats",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "8-3",
+    "away_team": "Louisville Cardinals",
+    "storyline": "Kentucky\u2019s regular season ends with this in-state rivalry at Kroger Field. UK Athletics identifies the game as Senior Day and the Governor\u2019s Cup.",
+    "matchup_notes": [
+      "Louisville is 8-3 after a 42-10 win over Pittsburgh on Nov. 21; Lincoln Kienholz threw five touchdown passes.",
+      "Kentucky is 7-4 after a 28-14 loss at Missouri on Nov. 21.",
+      "Louisville was eliminated from the ACC championship game despite its win over Pittsburgh.",
+      "Kentucky has lost the turnover margin in each of its last three games."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "804 rushing yards, 8 TD",
+        "team": "Louisville Cardinals",
+        "name": "Isaac Brown"
+      },
+      {
+        "stat_line": "711 receiving yards, 57 receptions",
+        "team": "Kentucky Wildcats",
+        "name": "Kenny Darby"
+      }
+    ],
+    "home_record": "7-4",
+    "home_team": "Kentucky Wildcats",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The matchup listing gives Louisville\u2019s record as 8-3 before the Nov. 28 game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856761",
+          "excerpts": [
+            "HOU 8-3 Sun 2:30 AM ESPN2 [Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard) [](https://www.espn.com/college-football/team/_/id/97/louisville-cardinals) 23 [Louisville Cardinals Louisville LOU](https://www.espn.com/college-football/team/_/id/97/louisville-cardinals) 8-3 Nov 28 5:00 PM ESPN2 [](https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats) 16 [Kentucky Wildcats Kentucky UK](https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats) 7-4"
+          ],
+          "title": "Louisville vs. Kentucky (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup is listed as Louisville Cardinals at Kentucky Wildcats, identifying Louisville as the away team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856761/louisville-kentucky",
+          "excerpts": [
+            "Louisville Cardinals @ Kentucky Wildcats"
+          ],
+          "title": "Louisville vs. Kentucky (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "UK Athletics describes the Nov. 28 game against in-state rival Louisville as Kentucky\u2019s regular-season conclusion and identifies it as Senior Day and the Governor\u2019s Cup.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2025/12/11/kentucky-footballs-2026-schedule-revealed",
+          "excerpts": [
+            "After a two-year absence, the Missouri Tigers return to the slate November 21 with the final road trip of the campaign. The regular season concludes Nov. 28 for Senior Day against instate rival Louisville.\n\nThe full schedule is as follows:\n\n|**Date** |**Opponent** |**Site** |\n| --- | --- | --- |\n|Sept. 5 |YOUNGSTOWN STATE |HOME |\n|Sept."
+          ],
+          "title": "Kentucky Football\u2019s 2026 Schedule Revealed \u2013 UK Athletics"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/06/25/2026-kentucky-football-promotional-schedule-fan-themes-announced",
+          "excerpts": [
+            "Homecoming, Night Ops, Salute to Veterans, Senior Day and the annual Governor's Cup matchup against Louisville."
+          ],
+          "title": "2026 Kentucky Football Promotional Schedule, Fan Themes Announced \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited game recap and Kentucky postgame notes establish the teams\u2019 latest results and records, Louisville\u2019s ACC championship-game elimination, and Kentucky\u2019s three-game run of losing the turnover margin.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858306",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858306)\n\n# Lincoln Kienholz throws 5 TD passes and No. 21 Louisville forces 4 turnovers in 42-10 win over Pitt\n\n1:15\n\n## Pittsburgh Panthers vs. Louisville Cardinals: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 06:34 am\n\nFacebook Facebook Messenger Twitter Email\n\nLOUISVILLE, Ky. -- \u2014 [Lincoln Kienholz](http://www.espn.com/college-football/player/_/id/5078278/lincoln-kienholz) threw a season-high five touchdown passes and Louisville's defense forced four turnovers Saturday night as the 21st-ranked Cardinals rolled to a 42-10 victory over Pittsburgh.",
+            "Louisville: Despite the win, the Cardinals were eliminated from playing in next month\u2019s ACC championship game. They have five straight seasons with eight or more wins.\n\nQuarterback dilemma"
+          ],
+          "title": "Louisville 42-10 Pittsburgh (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "**FINAL SCORE:** Missouri 28, No. 16 Kentucky 14 **Team Records and Series Information** Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league.",
+            "Turnovers telling the tale: during Kentucky\u2019s six-game win streak, the Wildcats won or tied the turnover margin in every game. UK has lost the turnover margin the last three games."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Louisville player statistics list Isaac Brown\u2019s rushing totals and touchdowns. Kentucky\u2019s postgame notes report Kenny Darby\u2019s season reception total and receiving yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5079349/isaac-brown",
+          "excerpts": [
+            "Isaac Brown"
+          ],
+          "title": "Isaac Brown - Louisville Cardinals Running Back - ESPN"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "WR **Kenny Darby** caught eight passes for 110 yards. It is Darby\u2019s first career 100-yard receiving game and first by a UK freshman since teammate DJ Miller versus Tennessee in 2025 and only the ninth in school history. He has 57 catches on the season, breaking UK freshman record of 50 by Barion Brown in 2022. He leads the Cats with 711 receiving yards this season, surpassing Barion Brown (628) for the UK single-season freshman record."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "Kentucky\u2019s official postgame notes state that the team is 7-4 overall after its Nov. 21 game.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "**Team Records and Series Information** Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup is listed as Louisville at Kentucky, identifying Kentucky Wildcats as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856761/louisville-kentucky",
+          "excerpts": [
+            "Louisville Cardinals @ Kentucky Wildcats"
+          ],
+          "title": "Louisville vs. Kentucky (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The game listing gives the date as Nov. 28, 2026; that is after the stated current date of Nov. 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6604098",
+          "excerpts": [
+            "## Football\n\nLouisville\n\nKentucky\n\nNov 28, 2026\n\nKroger Field, Lexington, KY\n\n# Louisville vs Kentucky Football Game Summary - November 28, 2026 | NCAA.com\n\n## FBS Football\n\nSHARE\n\n[](https://www.facebook.com/sharer/sharer.php?u=https://www.ncaa.com/game/6604098) [](https://twitter.com/share?url=https://www.ncaa.com/game/6604098)\n\n[More FBS Football scores \u203a](https://www.ncaa.com/scoreboard/football/fbs)\n\nLoading...\n\n##### Advertisement"
+          ],
+          "title": "Louisville vs Kentucky Football Game Summary - November 28, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The recap reports Louisville\u2019s 42-10 win over Pittsburgh and Kienholz\u2019s five touchdown passes; the matchup listing gives Louisville\u2019s 8-3 record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858306",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858306)\n\n# Lincoln Kienholz throws 5 TD passes and No. 21 Louisville forces 4 turnovers in 42-10 win over Pitt\n\n1:15\n\n## Pittsburgh Panthers vs. Louisville Cardinals: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 06:34 am\n\nFacebook Facebook Messenger Twitter Email\n\nLOUISVILLE, Ky. -- \u2014 [Lincoln Kienholz](http://www.espn.com/college-football/player/_/id/5078278/lincoln-kienholz) threw a season-high five touchdown passes and Louisville's defense forced four turnovers Saturday night as the 21st-ranked Cardinals rolled to a 42-10 victory over Pittsburgh."
+          ],
+          "title": "Louisville 42-10 Pittsburgh (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856761",
+          "excerpts": [
+            "HOU 8-3 Sun 2:30 AM ESPN2 [Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard) [](https://www.espn.com/college-football/team/_/id/97/louisville-cardinals) 23 [Louisville Cardinals Louisville LOU](https://www.espn.com/college-football/team/_/id/97/louisville-cardinals) 8-3 Nov 28 5:00 PM ESPN2 [](https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats) 16 [Kentucky Wildcats Kentucky UK](https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats) 7-4"
+          ],
+          "title": "Louisville vs. Kentucky (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "Kentucky\u2019s postgame notes report the 28-14 Missouri result and the Wildcats\u2019 7-4 overall record.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "**FINAL SCORE:** Missouri 28, No. 16 Kentucky 14 **Team Records and Series Information** Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap states that Louisville was eliminated from playing in the ACC championship game despite the win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858306",
+          "excerpts": [
+            "Louisville: Despite the win, the Cardinals were eliminated from playing in next month\u2019s ACC championship game. They have five straight seasons with eight or more wins.\n\nQuarterback dilemma"
+          ],
+          "title": "Louisville 42-10 Pittsburgh (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "Kentucky\u2019s postgame notes state that the Wildcats lost the turnover margin in their last three games.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "Turnovers telling the tale: during Kentucky\u2019s six-game win streak, the Wildcats won or tied the turnover margin in every game. UK has lost the turnover margin the last three games."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 season statistics list Isaac Brown with 804 rushing yards and 8 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5079349/isaac-brown",
+          "excerpts": [
+            "Isaac Brown"
+          ],
+          "title": "Isaac Brown - Louisville Cardinals Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Kentucky\u2019s postgame notes state that Darby had 57 catches and led the team with 711 receiving yards for the season.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "WR **Kenny Darby** caught eight passes for 110 yards. It is Darby\u2019s first career 100-yard receiving game and first by a UK freshman since teammate DJ Miller versus Tennessee in 2025 and only the ninth in school history. He has 57 catches on the season, breaking UK freshman record of 50 by Barion Brown in 2022. He leads the Cats with 711 receiving yards this season, surpassing Barion Brown (628) for the UK single-season freshman record."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "players_to_watch",
+      "players_to_watch.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "No. 18 Louisville heads to Kentucky with an 8-3 record. The Kentucky Wildcats are 7-4. The rivals play for the Governor\u2019s Cup on Saturday! Louisville\u2019s Isaac Brown has run for 804 yards and 8 touchdowns. Can Kentucky\u2019s Kenny Darby add to his 711 receiving yards?",
+    "big_words": [
+      {
+        "word": "rivals",
+        "definition": "People or teams that compete against each other.",
+        "example": "Priya and her rivals raced across the pool at their swimming lesson."
+      }
+    ],
+    "opener": "Start with the road team's side of the story.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1125,
+        "output": 231
+      }
+    ]
+  }
+}

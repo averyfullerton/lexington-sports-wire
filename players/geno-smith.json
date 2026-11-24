@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "West Virginia",
   "experience": 14,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Geno chose football over a spot at an art school.",
     "Geno set college records with 656 passing yards and eight touchdown passes in one game.",
@@ -149,11 +152,11 @@
       [
         "2026",
         "NYJ",
-        "10",
-        "196",
-        "292",
-        "2,226",
-        "12",
+        "11",
+        "213",
+        "313",
+        "2,402",
+        "15",
         "3"
       ]
     ]

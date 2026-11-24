@@ -1,0 +1,69 @@
+{
+  "name": "Jayden Maiava",
+  "espn_id": "4685454",
+  "team": "USC Trojans",
+  "team_abbr": "USC",
+  "number": "14",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Palolo, HI",
+  "league": "cfb",
+  "fun_facts": [
+    "Jayden threw three touchdown passes and ran for one in his first USC start.",
+    "Jayden threw a 69-yard touchdown to Trent Mosley on the second snap against Ohio State.",
+    "Jayden threw 17 touchdowns and ran for three scores at UNLV in 2023."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "UNLV",
+        "224",
+        "353",
+        "3,085",
+        "17",
+        "10"
+      ],
+      [
+        "2024",
+        "USC",
+        "101",
+        "169",
+        "1,201",
+        "11",
+        "6"
+      ],
+      [
+        "2025",
+        "USC",
+        "265",
+        "403",
+        "3,711",
+        "24",
+        "10"
+      ],
+      [
+        "2026",
+        "USC",
+        "245",
+        "373",
+        "3,072",
+        "23",
+        "8"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "run_id": "trun_acf50aaad34243e0b2ddbe444dc3ce87",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 222.0,
+  "input": {
+    "away_team": "West Virginia Mountaineers",
+    "home_team": "Utah Utes",
+    "game_date": "2026-11-27",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "5-6",
+    "away_team": "West Virginia Mountaineers",
+    "storyline": "Utah enters unbeaten and has already clinched a spot in the Big 12 Championship Game. West Virginia comes in after a 34-31 loss to Houston, its third straight defeat.",
+    "matchup_notes": [
+      "Utah is 11-0 overall and 8-0 in Big 12 play.",
+      "Utah beat TCU 38-17 on Nov. 21, clinching a Big 12 Championship Game berth and extending its winning streak to 17 games.",
+      "West Virginia lost 34-31 to Houston on Nov. 21.",
+      "West Virginia has lost three straight, its second three-game losing streak of the season."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,258 passing yards, 14 TD",
+        "team": "West Virginia Mountaineers",
+        "name": "Michael Hawkins Jr."
+      },
+      {
+        "stat_line": "1,215 rushing yards, 9 TD",
+        "team": "West Virginia Mountaineers",
+        "name": "Cam Cook"
+      },
+      {
+        "stat_line": "2,535 passing yards, 24 TD",
+        "team": "Utah Utes",
+        "name": "Devon Dampier"
+      },
+      {
+        "stat_line": "718 receiving yards, 49 receptions, 9 TD",
+        "team": "Utah Utes",
+        "name": "Braden Pegan"
+      }
+    ],
+    "home_record": "11-0",
+    "home_team": "Utah Utes",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The ESPN recap lists West Virginia at 5-6 overall before its scheduled matchup with Utah.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856868",
+          "excerpts": [
+            "5-6 , 2-6 Big 12\n\n31\n\n5-6 , 2-6 Big 12\n\n## Houston Cougars @ West Virginia Mountaineers\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401856868/houston-west-virginia)"
+          ],
+          "title": "Houston 34-31 West Virginia (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The ESPN team page identifies the away side as the West Virginia Mountaineers.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers",
+          "excerpts": [
+            "# West Virginia Mountaineers\n\nFollow\n\n* 5-5\n* 13th in Big 12\n\n* \n* [Home](https://www.espn.com/college-football/team/_/id/277)"
+          ],
+          "title": "West Virginia Mountaineers Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Utah's win over TCU secured its Big 12 title-game spot and extended its streak to 17 wins. The Houston recap says West Virginia lost and had lost three straight.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game.\n\nDampier also ran for two scores to lift the Utes (11-0, 8-0 Big 12, No. 2 CFP), who blew a 17-point halftime lead."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50550966/sources-houston-qb-conner-weigman-henderson-start",
+          "excerpts": [
+            "West Virginia (5-6, 2-6) couldn't hold on to a 10-point lead and has lost three straight for the second time this season."
+          ],
+          "title": "Keisean Henderson leads Houston after Conner Weigman ruled out - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited ESPN records and game recaps support Utah's 11-0 record, its TCU win and championship qualification, West Virginia's 34-31 Houston loss, and its three-game losing streak.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+          "excerpts": [
+            "Staff Joseph Weiser/Icon Sportswire](https://www.espn.com/college-football/story/_/page/playoffpredictions112126/cfp-predictions-week-12)\n\nBack to Top\n\n### 2026 Big 12 Standings\n\n|Team |CONF |OVR |\n| --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) |8-0 |11-0 |"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game.\n\nDampier also ran for two scores to lift the Utes (11-0, 8-0 Big 12, No. 2 CFP), who blew a 17-point halftime lead."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856868",
+          "excerpts": [
+            "# Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31\n\nBy AP\n\nUpdated: Nov 21, 2026, 11:12 pm\n\nFacebook Facebook Messenger Twitter Email\n\nMORGANTOWN, W.Va."
+          ],
+          "title": "Houston 34-31 West Virginia (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50550966/sources-houston-qb-conner-weigman-henderson-start",
+          "excerpts": [
+            "West Virginia (5-6, 2-6) couldn't hold on to a 10-point lead and has lost three straight for the second time this season."
+          ],
+          "title": "Keisean Henderson leads Houston after Conner Weigman ruled out - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "ESPN's season-leader listings provide the selected players' names and current passing, rushing, and receiving statistics.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/277",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Michael Hawkins Jr. ### Michael Hawkins Jr. QB #3 2,258 TD 14 QBR 83\\.4](https://www.espn.com/college-football/player/_/id/5079465/michael-hawkins-jr)\n\n[## Rushing Yards Cam Cook ### Cam Cook RB #4 1,215 CAR 243 TD 9](https://www.espn.com/college-football/player/_/id/4918103/cam-cook)"
+          ],
+          "title": "West Virginia Mountaineers Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Devon Dampier ### Devon Dampier QB #4 2,535 TD 24 QBR 81\\.5](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\n[## Rushing Yards Wayshawn Parker ### Wayshawn Parker RB #1 765 CAR 125 TD 9](https://www.espn.com/college-football/player/_/id/5173431/wayshawn-parker)"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254",
+          "excerpts": [
+            "[## Receiving Yards Braden Pegan ### Braden Pegan WR #7 718 REC 49 TD 9](https://www.espn.com/college-football/player/_/id/4869422/braden-pegan)\n\n[Full Team Statistics](https://www.espn.com/college-football/team/stats/_/id/254)\n\n### 2026 Team Stats\n\nPassing Yards\n\n250\\.5\n\n58 th\n\nRushing Yards\n\n216\\.2\n\n11 th\n\nPoints For\n\n37\\.9\n\nTied-12 th\n\nPoints Against"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The ESPN recap for Utah's Nov. 21 game lists the Utes at 11-0 overall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "[Utah Utes Utah UTAH](https://www.espn.com/college-football/team/_/id/254/utah-utes)\n\n11-0 , 8-0 Big 12\n\n38\n\n11-0 , 8-0 Big 12\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) UTAH |10 |7 |0 |21 |38 |\n|[TCU](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs) TCU |0 |0 |14 |3 |17 |"
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The ESPN team page names the home side as the Utah Utes in its matchup listing against West Virginia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+          "excerpts": [
+            "Utah Utes vs West Virginia Mountaineers Rice-Eccles Stadium - Sat 11/28/26, 2:00 [Tickets as low as"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "ESPN lists this as a pregame matchup scheduled for Nov. 27, after the stated current date of Nov. 24, 2026, so it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401856880",
+          "excerpts": [
+            "## \n\nWest Virginia vs. Utah (Nov 27, 2026) Pregame\nGamecast \u00b7 Tickets. No Story Available. Game Information. Rice-Eccles Stadium. Rice-Eccles Stadium. 6:00 PM, November 27, 2026Coverage: FOX. Salt Lake City, UT."
+          ],
+          "title": "West Virginia vs. Utah (Nov 27, 2026) Pregame"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The standings entry shows Utah at 11-0 overall and 8-0 in conference play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+          "excerpts": [
+            "Staff Joseph Weiser/Icon Sportswire](https://www.espn.com/college-football/story/_/page/playoffpredictions112126/cfp-predictions-week-12)\n\nBack to Top\n\n### 2026 Big 12 Standings\n\n|Team |CONF |OVR |\n| --- | --- | --- |\n|[Utah](https://www.espn.com/college-football/team/_/id/254/utah-utes) |8-0 |11-0 |"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The recap states Utah beat TCU 38-17, clinched a Big 12 championship-game spot, and won its 17th straight game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game.\n\nDampier also ran for two scores to lift the Utes (11-0, 8-0 Big 12, No. 2 CFP), who blew a 17-point halftime lead."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap headline identifies Houston's 34-31 win over West Virginia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856868",
+          "excerpts": [
+            "# Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31\n\nBy AP\n\nUpdated: Nov 21, 2026, 11:12 pm\n\nFacebook Facebook Messenger Twitter Email\n\nMORGANTOWN, W.Va."
+          ],
+          "title": "Houston 34-31 West Virginia (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The recap says West Virginia had lost three consecutive games, its second such streak that season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50550966/sources-houston-qb-conner-weigman-henderson-start",
+          "excerpts": [
+            "West Virginia (5-6, 2-6) couldn't hold on to a 10-point lead and has lost three straight for the second time this season."
+          ],
+          "title": "Keisean Henderson leads Houston after Conner Weigman ruled out - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The ESPN team-leader listing gives Michael Hawkins Jr.'s 2,258 passing yards and 14 touchdowns; the same listing identifies his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/277",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Michael Hawkins Jr. ### Michael Hawkins Jr. QB #3 2,258 TD 14 QBR 83\\.4](https://www.espn.com/college-football/player/_/id/5079465/michael-hawkins-jr)\n\n[## Rushing Yards Cam Cook ### Cam Cook RB #4 1,215 CAR 243 TD 9](https://www.espn.com/college-football/player/_/id/4918103/cam-cook)"
+          ],
+          "title": "West Virginia Mountaineers Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The ESPN team-leader listing names Cam Cook and gives his 1,215 rushing yards and nine touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/277",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Michael Hawkins Jr. ### Michael Hawkins Jr. QB #3 2,258 TD 14 QBR 83\\.4](https://www.espn.com/college-football/player/_/id/5079465/michael-hawkins-jr)\n\n[## Rushing Yards Cam Cook ### Cam Cook RB #4 1,215 CAR 243 TD 9](https://www.espn.com/college-football/player/_/id/4918103/cam-cook)"
+          ],
+          "title": "West Virginia Mountaineers Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The ESPN team-leader listing names Devon Dampier and gives his 2,535 passing yards and 24 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Devon Dampier ### Devon Dampier QB #4 2,535 TD 24 QBR 81\\.5](https://www.espn.com/college-football/player/_/id/5105849/devon-dampier)\n\n[## Rushing Yards Wayshawn Parker ### Wayshawn Parker RB #1 765 CAR 125 TD 9](https://www.espn.com/college-football/player/_/id/5173431/wayshawn-parker)"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The ESPN team-leader listing gives Braden Pegan's 718 receiving yards, 49 receptions, and nine touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/254",
+          "excerpts": [
+            "[## Receiving Yards Braden Pegan ### Braden Pegan WR #7 718 REC 49 TD 9](https://www.espn.com/college-football/player/_/id/4869422/braden-pegan)\n\n[Full Team Statistics](https://www.espn.com/college-football/team/stats/_/id/254)\n\n### 2026 Team Stats\n\nPassing Yards\n\n250\\.5\n\n58 th\n\nRushing Yards\n\n216\\.2\n\n11 th\n\nPoints For\n\n37\\.9\n\nTied-12 th\n\nPoints Against"
+          ],
+          "title": "Utah Utes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "players_to_watch.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "17 wins in a row for Utah! On Friday, 5-6 West Virginia visits No. 2 Utah in Utah. The Utes are 11-0 and have a spot in the Big 12 Championship Game. Utah\u2019s Devon Dampier has 2,535 passing yards and 24 touchdowns. Watch for a fierce matchup with West Virginia\u2019s Cam Cook, who has 1,215 rushing yards and 9 touchdowns.",
+    "big_words": [
+      {
+        "word": "fierce",
+        "definition": "Full of energy and strength.",
+        "example": "Omar played a fierce game of tug with his pet dog."
+      }
+    ],
+    "opener": "Start with a striking number from this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1217,
+        "output": 183
+      }
+    ]
+  }
+}

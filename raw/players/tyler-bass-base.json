@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435b8bb980a8c97664d7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 208.4,
+  "input": {
+    "player": "Tyler Bass",
+    "team": "Buffalo Bills",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "college": "Georgia Southern",
+    "fun_facts": [
+      "Tyler Bass went to Dutch Fork High School in Irmo, South Carolina.",
+      "At Georgia Southern, Tyler Bass kicked a 37-yard field goal in the second overtime to help beat South Alabama 20\u201317.",
+      "In 2024, Tyler Bass made a 61-yard field goal that set a Buffalo Bills franchise record.",
+      "Tyler Bass made all 51 of his regular-season extra-point attempts in 2021.",
+      "Tyler Bass became the first player in Bills history to score 120 or more points in three seasons."
+    ],
+    "draft": "2020, round 6, pick 188"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL roster row identifies Tyler Bass and lists Georgia Southern as his college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/buffalo-bills/roster",
+          "excerpts": [
+            "* [Roster](https://www.nfl.com/teams/buffalo-bills/roster)\n* [Stats](https://www.nfl.com/teams/buffalo-bills/stats)\n\nAdvertising\n\n## Roster\n\n|Player |No |Pos |Status |Height |Weight |Experience |College |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|[Josh Allen](https://www.nfl.com/players/josh-allen/) |17 |QB |ACT |77 |237 |9 |Wyoming |\n|[Kyle Allen](https://www.nfl.com/players/kyle-allen/) |11 |QB |ACT |75 |210 |8 |Houston |\n|[Alec Anderson](https://www.nfl.com/players/alec-anderson-2/) |70 |OT |ACT |77 |305 |4 |UCLA |\n|[Joe Andreessen](https://www.nfl.com/players/joe-andreessen/) |44 |LB |ACT |73 |240 |3 |Buffalo |\n|[Tyler Bass](https://www.nfl.com/players/tyler-bass/) |16 |K |ACT |70 |183 |7 |Georgia Southern |\n|[Skyler Bell](https://www.nfl.com/players/skyler-bell/) |13 |WR |ACT |71 |192 |R |Connecticut |"
+          ],
+          "title": "Buffalo Bills 2026 Player Roster | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support each listed fact: Tyler Bass's high school and its location, his overtime college field goal, the 61-yard Bills-record kick, his perfect 2021 extra-point total, and the three-season scoring milestone.",
+      "citations": [
+        {
+          "url": "https://playfootball.nfl.com/media/1188/04-30-20-nfl-draft-picks-by-high-school.pdf",
+          "excerpts": [
+            "**SOUTH CAROLINA (6)**\n\n**PLAYER NFL TEAM (ROUND) COLLEGE HIGH SCHOOL (CITY)**\n\nK Tyler Bass Buffalo (6) Georgia Southern Dutch Fork (Irmo)\n\nLB T.J. Brunson New York Giants (7) South Carolina Richland Northeast (Columbia)\n\nWR Bryan Edwards Las Vegas (3) South Carolina Conway\n\nDT Javon Kinlaw San Francisco (1) South Carolina Goose Creek"
+          ],
+          "title": "234 HIGH SCHOOLS HAVE PLAYERS SELECTED IN 2020 NFL DRAFT IMG ACADEMY (FL) LEADS ALL HIGH SCHOOLS WITH FOUR PLAYERS"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401121948/ga-southern-south-alabama",
+          "excerpts": [
+            "388\n\nTotal Yards\n\n247\n\n0\n\nTurnovers\n\n1\n\n22\n\n1st Downs\n\n4\n\n5-35\n\nPenalties\n\n4-25\n\n5/18\n\n3rd Down\n\n0/10\n\n1/1\n\n4th Down\n\n0/0\n\n40:38\n\nPossession\n\n19:22\n\n[Full Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401121948)\n\n## Game Information\n\nMobile, AL\n\nESPNU\n\n[## Late TD, FG in OT lifts Georgia Southern past South Alabama Tyler Bass kicked a 37-yard field goal in the second overtime after the Georgia Southern forced a turnover and the Eagles rallied to defeat South Alabama 20-17 on Thursday night. Oct 3, 2019, 11:12 pm - Associated Press](https://www.espn.com/college-football/recap/_/gameId/401121948)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n2nd Quarter\n\nGeorgia Southern Eagles\n\nField Goal\n\n11:03 - 2nd\n\n3\n\nGASO\n\n0\n\nUSA\n\nTyler Bass 46 Yd Field Goal\n\n12 plays, 61 yards, 6:25\n\nSouth Alabama Jaguars\n\nTouchdown\n\n10:52 - 2nd\n\n3\n\nGASO\n\n7\n\nUSA\n\nKawaan Baker 75 Yd pass from Cephus Johnson (Frankie Onate Kick)"
+          ],
+          "title": "Georgia Southern 20-17 South Alabama (Oct 3, 2019) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401671493",
+          "excerpts": [
+            "61-yard field goal with 5 seconds left, [and the kick was good](https://x.com/BuffaloBills/status/1853180991122096574) to give Buffalo a 30-27 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) on Sunday.\n\n\u201cIt means everything. Very emotional,\u201d the 27-year-old Bass said of a field goal that was the longest of his career and broke the franchise record by 2 yards. Steve Christie had the previous mark, a 59-yarder in 1993."
+          ],
+          "title": "Bills 30-27 Dolphins (Nov 3, 2024) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36249749/bills-agree-tyler-bass-four-year-extension",
+          "excerpts": [
+            "A [Georgia Southern](https://www.espn.com/college-football/team/_/id/290/georgia-southern-eagles) product, Bass was drafted by Buffalo in the sixth round of the 2020 NFL draft. He has been the Bills' kicker in every game since, making 85.6% of his career kicks and 97.5% of PATs.\n\nIn each of the past two seasons, Bass has made over 87% of his kicks. He has never missed more than two PATs in a season and made all 51 of his regular-season PATs in 2021. He ranked 12th among kickers with more than 10 attempts in accuracy in 2022 (87.1%)."
+          ],
+          "title": "Bills sign kicker Tyler Bass to four-year extension - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/36249749/bills-agree-tyler-bass-four-year-extension",
+          "excerpts": [
+            "He has never missed more than two PATs in a season and made all 51 of his regular-season PATs in 2021. He ranked 12th among kickers with more than 10 attempts in accuracy in 2022 (87.1%).\n\nBass has shown the ability to kick consistently despite the tough conditions that the lake wind and lake-effect snow can bring to Highmark Stadium. He also has had success at the end of the season, with his highest field goal accuracy percentages coming in December (89.5%) and January (100%). In his career, Bass, the first member of the Bills' 2020 draft class to be extended, has missed only four fourth-quarter or overtime kicks (24-of-28), including the postseason, and he has made all five of his potential game-tying or go-ahead kicks in the final two minutes of regulation or overtime. He is the first player in Bills history to score 120-plus points in three seasons."
+          ],
+          "title": "Bills sign kicker Tyler Bass to four-year extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The profile states that the Bills selected Tyler Bass in the sixth round, 188th overall, of the 2020 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BassTy00.htm",
+          "excerpts": [
+            "**Draft** : [Buffalo Bills](https://www.pro-football-reference.com/teams/buf/2020_draft.htm) in the 6th round (188th overall) of the [2020 NFL Draft](https://www.pro-football-reference.com/years/2020/draft.htm) ."
+          ],
+          "title": "Tyler Bass Stats, Height, Weight, Position, Draft, College | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL draft information lists Tyler Bass with Dutch Fork High School in Irmo, South Carolina.",
+      "citations": [
+        {
+          "url": "https://playfootball.nfl.com/media/1188/04-30-20-nfl-draft-picks-by-high-school.pdf",
+          "excerpts": [
+            "**SOUTH CAROLINA (6)**\n\n**PLAYER NFL TEAM (ROUND) COLLEGE HIGH SCHOOL (CITY)**\n\nK Tyler Bass Buffalo (6) Georgia Southern Dutch Fork (Irmo)\n\nLB T.J. Brunson New York Giants (7) South Carolina Richland Northeast (Columbia)\n\nWR Bryan Edwards Las Vegas (3) South Carolina Conway\n\nDT Javon Kinlaw San Francisco (1) South Carolina Goose Creek"
+          ],
+          "title": "234 HIGH SCHOOLS HAVE PLAYERS SELECTED IN 2020 NFL DRAFT IMG ACADEMY (FL) LEADS ALL HIGH SCHOOLS WITH FOUR PLAYERS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The game recap says Bass kicked a 37-yard field goal in the second overtime as Georgia Southern beat South Alabama 20\u201317.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401121948/ga-southern-south-alabama",
+          "excerpts": [
+            "388\n\nTotal Yards\n\n247\n\n0\n\nTurnovers\n\n1\n\n22\n\n1st Downs\n\n4\n\n5-35\n\nPenalties\n\n4-25\n\n5/18\n\n3rd Down\n\n0/10\n\n1/1\n\n4th Down\n\n0/0\n\n40:38\n\nPossession\n\n19:22\n\n[Full Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401121948)\n\n## Game Information\n\nMobile, AL\n\nESPNU\n\n[## Late TD, FG in OT lifts Georgia Southern past South Alabama Tyler Bass kicked a 37-yard field goal in the second overtime after the Georgia Southern forced a turnover and the Eagles rallied to defeat South Alabama 20-17 on Thursday night. Oct 3, 2019, 11:12 pm - Associated Press](https://www.espn.com/college-football/recap/_/gameId/401121948)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n2nd Quarter\n\nGeorgia Southern Eagles\n\nField Goal\n\n11:03 - 2nd\n\n3\n\nGASO\n\n0\n\nUSA\n\nTyler Bass 46 Yd Field Goal\n\n12 plays, 61 yards, 6:25\n\nSouth Alabama Jaguars\n\nTouchdown\n\n10:52 - 2nd\n\n3\n\nGASO\n\n7\n\nUSA\n\nKawaan Baker 75 Yd pass from Cephus Johnson (Frankie Onate Kick)"
+          ],
+          "title": "Georgia Southern 20-17 South Alabama (Oct 3, 2019) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap identifies Bass's 61-yard kick as the new Bills franchise record, surpassing the previous 59-yard mark.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401671493",
+          "excerpts": [
+            "61-yard field goal with 5 seconds left, [and the kick was good](https://x.com/BuffaloBills/status/1853180991122096574) to give Buffalo a 30-27 victory over the [Miami Dolphins](http://www.espn.com/nfl/team/_/name/mia/miami-dolphins) on Sunday.\n\n\u201cIt means everything. Very emotional,\u201d the 27-year-old Bass said of a field goal that was the longest of his career and broke the franchise record by 2 yards. Steve Christie had the previous mark, a 59-yarder in 1993."
+          ],
+          "title": "Bills 30-27 Dolphins (Nov 3, 2024) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage states that Bass made every regular-season PAT in 2021, totaling 51.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/36249749/bills-agree-tyler-bass-four-year-extension",
+          "excerpts": [
+            "A [Georgia Southern](https://www.espn.com/college-football/team/_/id/290/georgia-southern-eagles) product, Bass was drafted by Buffalo in the sixth round of the 2020 NFL draft. He has been the Bills' kicker in every game since, making 85.6% of his career kicks and 97.5% of PATs.\n\nIn each of the past two seasons, Bass has made over 87% of his kicks. He has never missed more than two PATs in a season and made all 51 of his regular-season PATs in 2021. He ranked 12th among kickers with more than 10 attempts in accuracy in 2022 (87.1%)."
+          ],
+          "title": "Bills sign kicker Tyler Bass to four-year extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Bass was the first player in Bills history to score at least 120 points in three seasons.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/36249749/bills-agree-tyler-bass-four-year-extension",
+          "excerpts": [
+            "He has never missed more than two PATs in a season and made all 51 of his regular-season PATs in 2021. He ranked 12th among kickers with more than 10 attempts in accuracy in 2022 (87.1%).\n\nBass has shown the ability to kick consistently despite the tough conditions that the lake wind and lake-effect snow can bring to Highmark Stadium. He also has had success at the end of the season, with his highest field goal accuracy percentages coming in December (89.5%) and January (100%). In his career, Bass, the first member of the Bills' 2020 draft class to be extended, has missed only four fourth-quarter or overtime kicks (24-of-28), including the postseason, and he has made all five of his potential game-tying or go-ahead kicks in the final two minutes of regulation or overtime. He is the first player in Bills history to score 120-plus points in three seasons."
+          ],
+          "title": "Bills sign kicker Tyler Bass to four-year extension - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

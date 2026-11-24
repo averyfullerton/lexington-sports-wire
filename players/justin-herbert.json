@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Oregon",
   "experience": 7,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Justin threw a softball at age 7 and made it to a national track meet.",
     "Justin was a star in three sports in high school.",
@@ -89,11 +92,11 @@
       [
         "2026",
         "LAC",
-        "9",
-        "156",
-        "253",
-        "1,720",
-        "6",
+        "10",
+        "171",
+        "274",
+        "1,851",
+        "8",
         "11"
       ]
     ]

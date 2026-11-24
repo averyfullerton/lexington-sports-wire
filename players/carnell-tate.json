@@ -1,0 +1,42 @@
+{
+  "name": "Carnell Tate",
+  "espn_id": "4871023",
+  "team": "Tennessee Titans",
+  "team_abbr": "TEN",
+  "number": "14",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Ohio State",
+  "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Carnell likes Legos and video games, and his favorite is Call of Duty.",
+    "Carnell caught 52 passes in college during Ohio State\u2019s 2024 national championship season.",
+    "He caught 14 touchdowns in college at Ohio State."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "TEN",
+        "8",
+        "36",
+        "471",
+        "2",
+        "59"
+      ]
+    ]
+  }
+}

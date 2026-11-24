@@ -1,0 +1,56 @@
+{
+  "name": "Isaac Brown",
+  "espn_id": "5079349",
+  "team": "Louisville Cardinals",
+  "team_abbr": "LOU",
+  "number": "1",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Miami, FL",
+  "league": "cfb",
+  "fun_facts": [
+    "In college, Isaac scored a 77-yard touchdown on his fifth carry.",
+    "In college, Isaac was Louisville\u2019s first freshman to rush for over 1,000 yards.",
+    "In college, Isaac scored a 97-yard touchdown against Florida State."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "LOU",
+        "165",
+        "1,173",
+        "7.1",
+        "11"
+      ],
+      [
+        "2025",
+        "LOU",
+        "101",
+        "884",
+        "8.8",
+        "7"
+      ],
+      [
+        "2026",
+        "LOU",
+        "120",
+        "834",
+        "7.0",
+        "8"
+      ]
+    ]
+  }
+}

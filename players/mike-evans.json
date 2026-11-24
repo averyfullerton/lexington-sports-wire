@@ -1,0 +1,150 @@
+{
+  "name": "Mike Evans",
+  "espn_id": "16737",
+  "team": "San Francisco 49ers",
+  "team_abbr": "SF",
+  "number": "5",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Texas A&M",
+  "experience": 13,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Mike did not play football until his last year of high school.",
+    "Mike set a college record with 287 receiving yards in one game against Auburn.",
+    "Mike began his NFL career with 11 straight 1,000-yard receiving seasons, tying Jerry Rice."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2014",
+        "TB",
+        "15",
+        "68",
+        "1,051",
+        "12",
+        "56"
+      ],
+      [
+        "2015",
+        "TB",
+        "15",
+        "74",
+        "1,206",
+        "3",
+        "68"
+      ],
+      [
+        "2016",
+        "TB",
+        "16",
+        "96",
+        "1,321",
+        "12",
+        "45"
+      ],
+      [
+        "2017",
+        "TB",
+        "15",
+        "71",
+        "1,001",
+        "5",
+        "42"
+      ],
+      [
+        "2018",
+        "TB",
+        "16",
+        "86",
+        "1,524",
+        "8",
+        "72"
+      ],
+      [
+        "2019",
+        "TB",
+        "13",
+        "67",
+        "1,157",
+        "8",
+        "67"
+      ],
+      [
+        "2020",
+        "TB",
+        "16",
+        "70",
+        "1,006",
+        "13",
+        "50"
+      ],
+      [
+        "2021",
+        "TB",
+        "16",
+        "74",
+        "1,035",
+        "14",
+        "46"
+      ],
+      [
+        "2022",
+        "TB",
+        "15",
+        "77",
+        "1,124",
+        "6",
+        "63"
+      ],
+      [
+        "2023",
+        "TB",
+        "17",
+        "79",
+        "1,255",
+        "13",
+        "75"
+      ],
+      [
+        "2024",
+        "TB",
+        "14",
+        "74",
+        "1,004",
+        "11",
+        "57"
+      ],
+      [
+        "2025",
+        "TB",
+        "8",
+        "30",
+        "368",
+        "3",
+        "45"
+      ],
+      [
+        "2026",
+        "SF",
+        "7",
+        "33",
+        "529",
+        "4",
+        "54"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "run_id": "trun_bd5aff7f279040eab6dee904c11ef1ea",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 164.3,
+  "input": {
+    "away_team": "Chattanooga Mocs",
+    "home_team": "Alabama Crimson Tide",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Chattanooga Mocs",
+    "key_plays": [
+      "Q1 7:03: Austin Mack 1-yard rushing touchdown (Conor Talty kick).",
+      "Q1 3:56: Alabama recorded a team safety.",
+      "Q2 8:53: Ryan Coleman-Williams caught an 8-yard touchdown pass from Austin Mack.",
+      "Q2 0:53: Rico Scott caught a 29-yard touchdown pass from Austin Mack.",
+      "Q4 7:31: Kevin Riley caught a 15-yard touchdown pass from Jett Thomalla."
+    ],
+    "away_score": 0,
+    "storyline": "Austin Mack made his first collegiate start, throwing for 254 yards and four touchdowns as No. 7 Alabama won its final tuneup before the Iron Bowl. The victory left Alabama 9-2 overall (6-2 SEC).",
+    "top_performers": [
+      {
+        "stat_line": "20/25, 254 yards, 4 TD",
+        "team": "Alabama Crimson Tide",
+        "name": "Austin Mack"
+      },
+      {
+        "stat_line": "10 carries, 75 yards",
+        "team": "Alabama Crimson Tide",
+        "name": "Daniel Hill"
+      },
+      {
+        "stat_line": "3 receptions, 63 yards",
+        "team": "Alabama Crimson Tide",
+        "name": "Kaleb Edwards"
+      }
+    ],
+    "home_record_after": "9-2",
+    "tough_day": [
+      {
+        "stat_line": "86 total yards",
+        "team": "Chattanooga Mocs",
+        "name": "Chattanooga offense"
+      }
+    ],
+    "away_record_after": "7-5",
+    "home_team": "Alabama Crimson Tide",
+    "home_score": 47
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The game summary names Chattanooga and Alabama, gives the score as 0\u201347 with FINAL, and lists November 21, 2026.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6640297",
+          "excerpts": [
+            "## Football Chattanooga Alabama 0 FINAL 47 November 21st 2026"
+          ],
+          "title": "Chattanooga vs Alabama Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup is shown as Chattanooga Mocs @ Alabama Crimson Tide, identifying Chattanooga as the away team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Chattanooga Mocs @ Alabama Crimson Tide"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The scoring-play timeline lists the game\u2019s scoring events by quarter and clock time, including the touchdowns and the team safety selected for the answer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final game summary lists Chattanooga first and shows 0 FINAL 47.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6640297",
+          "excerpts": [
+            "## Football Chattanooga Alabama 0 FINAL 47 November 21st 2026"
+          ],
+          "title": "Chattanooga vs Alabama Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap states Mack threw for 254 yards and four touchdowns, that it was his first collegiate start, that Alabama was 9-2, and that the win was its final tuneup before the Iron Bowl.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856746",
+          "excerpts": [
+            "TUSCALOOSA, Ala. -- \u2014 [Austin Mack](http://www.espn.com/college-football/player/_/id/5079508/austin-mack) threw for 254 yards and four touchdowns, leading No. 7 Alabama past Chattanooga 47-0 on Saturday in its final tuneup before the Iron Bowl. Mack made his first collegiate start for the Crimson Tide (9-2, 6-2 SEC, No. 3 CFP) in place of [Keelon Russell](http://www.espn.com/college-football/player/_/id/5141629/keelon-russell) , who injured his ankle against LSU but played against Vanderbilt last week."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The game leaders list gives Mack\u2019s 20/25, 254-yard, four-touchdown passing line; Hill\u2019s 10 carries for 75 yards; and Edwards\u2019 three receptions for 63 yards. Player links identify the full names used here.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Awad QB 6/12 59](https://www.espn.com/college-football/player/_/id/5220783/parker-awad) Passing Yards [254 A. Mack QB 20/25, 4 TD 254](https://www.espn.com/college-football/player/_/id/5079508/austin-mack) Rushing Yards [19 H.",
+            "Hill RB 10 CAR 75](https://www.espn.com/college-football/player/_/id/5079506/daniel-hill) Receiving Yards [23 T.",
+            "Edwards TE 3 REC 63](https://www.espn.com/college-football/player/_/id/5142591/kaleb-edwards) Sacks -- None -- Sacks [1 Y."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The recap identifies Alabama\u2019s record as 9-2 after the Chattanooga game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856746",
+          "excerpts": [
+            "Mack made his first collegiate start for the Crimson Tide (9-2, 6-2 SEC, No. 3 CFP) in place of [Keelon Russell](http://www.espn.com/college-football/player/_/id/5141629/keelon-russell) , who injured his ankle against LSU but played against Vanderbilt last week."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The team-stat table reports 86 total yards for Chattanooga, supporting the entry for its offense.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Team Stats [UTC](https://www.espn.com/college-football/team/_/id/236/chattanooga-mocs) [ALA](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) 86 Total Yards 553 0 Turnovers 0 5 1st Downs 31 4-41 Penalties 6-53 1/9 3rd Down 6/10 0/0 4th Down 1/1 20:31 Possession 39:29"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The recap identifies Chattanooga\u2019s record as 7-5 after the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856746",
+          "excerpts": [
+            "The defense held Chattanooga (7-5, 6-3 Southern Conference) to 87 yards."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup is shown as Chattanooga Mocs @ Alabama Crimson Tide, identifying Alabama as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Chattanooga Mocs @ Alabama Crimson Tide"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final game summary lists Alabama second and shows 0 FINAL 47.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6640297",
+          "excerpts": [
+            "## Football Chattanooga Alabama 0 FINAL 47 November 21st 2026"
+          ],
+          "title": "Chattanooga vs Alabama Football Game Summary - November 21, 2026 | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring timeline records Austin Mack\u2019s 1-yard rushing touchdown at 7:03 of the first quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring timeline records Alabama\u2019s team safety at 3:56 of the first quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring timeline records Ryan Coleman-Williams\u2019 8-yard touchdown reception from Austin Mack at 8:53 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring timeline records Rico Scott\u2019s 29-yard touchdown reception from Austin Mack at 0:53 of the second quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring timeline records Kevin Riley\u2019s 15-yard touchdown reception from Jett Thomalla at 7:31 of the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Nov 21, 2026, 10:45 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401856746) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Touchdown 7:03 - 1st 0 UTC 7 ALA Austin Mack 1 Yd Run (Conor Talty Kick) 7 plays, 52 yards, 3:12 Safety 3:56 - 1st 0 UTC 9 ALA Team Safety 2 plays, -3 yards, 0:40 2nd Quarter Field Goal 13:09 - 2nd 0 UTC 12 ALA Conor Talty 24 Yd Field Goal 12 plays, 54 yards, 5:43 Touchdown 8:53 - 2nd 0 UTC 19 ALA Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 48 yards, 2:45 Touchdown 2:44 - 2nd 0 UTC 26 ALA Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick) 6 plays, 80 yards, 3:25 Touchdown 0:53 - 2nd 0 UTC 33 ALA Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick) 5 plays, 83 yards, 0:59 3rd Quarter Touchdown 7:01 - 3rd 0 UTC 40 ALA Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick) 9 plays, 92 yards, 4:02 4th Quarter Touchdown 7:31 - 4th 0 UTC 47 ALA Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick) 13 plays, 80 yards, 10:38 [Full Play-By-Play](https://www.espn.com/college-football/playbyplay/_/gameId/401856746)"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The passing-leader entry gives Austin Mack\u2019s completion, yardage, and touchdown totals; the player link identifies his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Awad QB 6/12 59](https://www.espn.com/college-football/player/_/id/5220783/parker-awad) Passing Yards [254 A. Mack QB 20/25, 4 TD 254](https://www.espn.com/college-football/player/_/id/5079508/austin-mack) Rushing Yards [19 H."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The rushing-leader entry records Daniel Hill with 10 carries for 75 yards; the player link identifies his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Hill RB 10 CAR 75](https://www.espn.com/college-football/player/_/id/5079506/daniel-hill) Receiving Yards [23 T."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The receiving-leader entry records Kaleb Edwards with three receptions for 63 yards; the player link identifies his full name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Edwards TE 3 REC 63](https://www.espn.com/college-football/player/_/id/5142591/kaleb-edwards) Sacks -- None -- Sacks [1 Y."
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The team-stat table reports Chattanooga\u2019s 86 total yards, supporting the Chattanooga offense entry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856746/chattanooga-alabama",
+          "excerpts": [
+            "Team Stats [UTC](https://www.espn.com/college-football/team/_/id/236/chattanooga-mocs) [ALA](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide) 86 Total Yards 553 0 Turnovers 0 5 1st Downs 31 4-41 Penalties 6-53 1/9 3rd Down 6/10 0/0 4th Down 1/1 20:31 Possession 39:29"
+          ],
+          "title": "Alabama 47-0 Chattanooga (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "254 yards flew from Austin Mack\u2019s arm in his first college start! He threw 4 touchdown passes as No. 3 Alabama beat Chattanooga 47-0 in Alabama. Mack also ran for a touchdown. He zipped scoring passes to Ryan Coleman-Williams and Rico Scott. Alabama\u2019s defense was dominant, holding Chattanooga to 86 yards. The win put Alabama at 9-2 before the Iron Bowl.",
+    "big_words": [
+      {
+        "word": "dominant",
+        "definition": "Much stronger than the other side.",
+        "example": "Hana was dominant at a game of tag on her camping trip."
+      }
+    ],
+    "opener": "Start with a striking number from the facts (yards, points, a streak, a record).",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1210,
+        "output": 169
+      }
+    ]
+  }
+}

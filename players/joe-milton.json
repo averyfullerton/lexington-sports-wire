@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Tennessee",
   "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Joe threw for 251 yards and three touchdowns in the college Orange Bowl.",
     "Joe completed 15 of 22 passes for 225 yards and a touchdown in college.",
@@ -49,10 +52,10 @@
       [
         "2026",
         "PHI",
-        "1",
-        "18",
-        "34",
-        "169",
+        "2",
+        "29",
+        "55",
+        "310",
         "0",
         "0"
       ]

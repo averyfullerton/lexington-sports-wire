@@ -1,0 +1,60 @@
+{
+  "name": "Bucky Irving",
+  "espn_id": "4596448",
+  "team": "Tampa Bay Buccaneers",
+  "team_abbr": "TB",
+  "number": "7",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Oregon",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Bucky ran for 1,122 yards and eight touchdowns as an NFL rookie.",
+    "Bucky led Oregon with 1,180 rushing yards in college in 2023.",
+    "He caught 47 passes for 392 yards as an NFL rookie."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "TB",
+        "17",
+        "207",
+        "1,122",
+        "5.4",
+        "8"
+      ],
+      [
+        "2025",
+        "TB",
+        "10",
+        "173",
+        "588",
+        "3.4",
+        "1"
+      ],
+      [
+        "2026",
+        "TB",
+        "10",
+        "185",
+        "893",
+        "4.8",
+        "8"
+      ]
+    ]
+  }
+}

@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Oklahoma State",
   "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Ollie ran for 1,732 yards and 21 touchdowns in 2023.",
     "Ollie tied Oklahoma State\u2019s record with five rushing touchdowns against BYU.",
@@ -37,10 +40,10 @@
       [
         "2026",
         "MIA",
-        "9",
-        "127",
-        "539",
-        "4.2",
+        "10",
+        "138",
+        "608",
+        "4.4",
         "4"
       ]
     ]

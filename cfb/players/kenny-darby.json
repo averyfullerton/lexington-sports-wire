@@ -1,0 +1,40 @@
+{
+  "name": "Kenny Darby",
+  "espn_id": "5215172",
+  "team": "Kentucky Wildcats",
+  "team_abbr": "UK",
+  "number": "19",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": null,
+  "experience": null,
+  "class_year": "Freshman",
+  "hometown": "Bossier City, LA",
+  "league": "cfb",
+  "fun_facts": [
+    "Kenny scored nine rushing touchdowns as a high school senior.",
+    "Kenny set a Kentucky college first-year game record with 12 catches.",
+    "Kenny broke Kentucky\u2019s college first-year record with 57 catches in one season."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "UK",
+        "57",
+        "711",
+        "3",
+        "44"
+      ]
+    ]
+  }
+}

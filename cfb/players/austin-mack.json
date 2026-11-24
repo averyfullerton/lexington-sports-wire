@@ -1,0 +1,60 @@
+{
+  "name": "Austin Mack",
+  "espn_id": "5079508",
+  "team": "Alabama Crimson Tide",
+  "team_abbr": "ALA",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Loomis, CA",
+  "league": "cfb",
+  "fun_facts": [
+    "Austin threw for 254 yards and four touchdowns in his first college start.",
+    "He ran for a 1-yard touchdown in his first college start.",
+    "Austin is 6 feet 6 inches tall."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "ALA",
+        "2",
+        "3",
+        "39",
+        "1",
+        "0"
+      ],
+      [
+        "2025",
+        "ALA",
+        "24",
+        "32",
+        "228",
+        "2",
+        "0"
+      ],
+      [
+        "2026",
+        "ALA",
+        "23",
+        "29",
+        "277",
+        "4",
+        "0"
+      ]
+    ]
+  }
+}

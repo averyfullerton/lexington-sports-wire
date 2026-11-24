@@ -1,0 +1,287 @@
+{
+  "run_id": "trun_1714e31eeb204d32adabeea4766e3e6e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 125.7,
+  "input": {
+    "away_team": "Seattle Seahawks",
+    "home_team": "San Francisco 49ers",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "6-4",
+    "away_team": "Seattle Seahawks",
+    "storyline": "The 9-1 49ers and 6-4 Seahawks meet in an NFC West game, with both teams\u2019 positions in the division standings at stake.",
+    "matchup_notes": [
+      "The 49ers are 9-1, while Seattle is 6-4 in the 2026 NFC West standings.",
+      "San Francisco beat Minnesota 35-10 in Week 11, moving to 9-1.",
+      "Seattle beat Las Vegas 21-13 in Week 10 and had a bye in Week 11."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "79 receptions, 1,207 receiving yards, 10 TD",
+        "team": "Seattle Seahawks",
+        "name": "Jaxon Smith-Njigba"
+      },
+      {
+        "stat_line": "2,624 passing yards, 23 passing TD",
+        "team": "San Francisco 49ers",
+        "name": "Brock Purdy"
+      }
+    ],
+    "home_record": "9-1",
+    "home_team": "San Francisco 49ers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The official game page lists Seattle at 6-4 before this Week 12 matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "Skip to main content\n\nSeattle Seahawks\n\nSEA\n\nSeattle Seahawks\n\nSEAHAWKS\n\nSeattle Seahawks\n\nSEATTLE\n\nSEAHAWKS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nSan Francisco 49ers\n\nSF\n\nSan Francisco 49ers\n\n49ERS\n\nSan Francisco 49ers\n\nSAN FRANCISCO\n\n49ERS\n\n8-1\n\n8 wins, 1 loss, 0 ties\n\nFOX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nSeattle Seahawks\n\nSan Francisco 49ers\n\nSeattle Seahawks, POINTS PER GAME, 22.3, ranked 17th.\n\n22\\.3\n\n17TH\n\nPOINTS PER GAME\n\nSan Francisco 49ers, POINTS PER GAME, 31.2, ranked 2nd.\n\n31\\.2\n\n2ND"
+          ],
+          "title": "Seattle Seahawks at San Francisco 49ers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The Week 12 schedule identifies Seattle as the visiting Seahawks in the Seahawks-at-49ers matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "* [Seahawks at 49ers, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12)\n  \n  LOCAL\n  \n  Seattle Seahawks Team Logo SEAHAWKS\n  \n  San Francisco 49ers Team Logo 49ERS\n  \n* * *\n  \n  LOCAL\n  \n  [Tickets](https://www.ticketmaster.com/event/1C006463D0C2456D?wt.mc_id=NFL_LEAGUE_SCHED_PG_SF_LINK9&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_SF_LINK9&campaign=sf-ti-iw-sp-2072734) [Hotel](https://www.marriott.com/search/findHotels.mi?pageType=advanced&showMore=true&destinationAddress.location=Levis+Stadium&cid=PMO_GLB0003VDI_GLE00095QU_GLF000HKFP"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The 2026 NFC West standings list San Francisco at 9-1 and Seattle at 6-4, grounding the division-race significance of their matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+          "excerpts": [
+            "Bill Barnwell and ESPN's Mike Golic, Jr. discuss dark\u2026\n\n* 4d\n\nBack to Top\n\n### 2026 NFC West Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[San Francisco](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) |9 |1 |0 |.900 |316 |206 |\n|[Seattle](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks) |6 |4 |0 |.600 |223 |175 |\n|[LA Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) |6 |4 |0 |.600 |248 |187 |\n|[Arizona](https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals) |3 |8 |0 |.273 |191 |323 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense"
+          ],
+          "title": "Seattle Seahawks Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The standings and Week 11 recap support the records and San Francisco result; Seattle\u2019s Week 10 score and Week 11 bye are supported by its game result and schedule.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+          "excerpts": [
+            "Bill Barnwell and ESPN's Mike Golic, Jr. discuss dark\u2026\n\n* 4d\n\nBack to Top\n\n### 2026 NFC West Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[San Francisco](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) |9 |1 |0 |.900 |316 |206 |\n|[Seattle](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks) |6 |4 |0 |.600 |223 |175 |\n|[LA Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) |6 |4 |0 |.600 |248 |187 |\n|[Arizona](https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals) |3 |8 |0 |.273 |191 |323 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense"
+          ],
+          "title": "Seattle Seahawks Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh Steelers 16\n\n**Late Window**\n\n* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873062",
+          "excerpts": [
+            "6-4 , 2-2 Away\n\n21\n\n6-4 , 2-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Seahawks](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks) SEA |7 |0 |14 |0 |21 |\n|[Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) LV |7 |3 |0 |3 |13 |\n\n[](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\n[Las Vegas Raiders Raiders LV](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\n4-6 , 1-4 Home\n\n13\n\n4-6 , 1-4 Home\n\n# Seattle Seahawks @ Las Vegas Raiders"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/seattle-seahawks",
+          "excerpts": [
+            "Las Vegas Raiders Team Logo RAIDERS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/seahawks-at-raiders-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* SEAHAWKS' BYE WEEK\n\n### Week 12\n\n* [Seahawks at 49ers, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12)\n  \n  LOCAL\n  \n  Seattle Seahawks Team Logo SEAHAWKS\n  \n  San Francisco 49ers Team Logo 49ERS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Seattle Seahawks Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The player-stat sources list Smith-Njigba\u2019s 2026 receiving totals and Purdy\u2019s 2026 passing totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba",
+          "excerpts": [
+            "## 2026 regular season stats\n\n* REC\n  \n  79\n  \n  1st\n  \n  YDS\n  \n  1,207\n  \n  1st\n  \n  TD\n  \n  10\n  \n  1st\n  \n  AVG\n  \n  15\\.3"
+          ],
+          "title": "Jaxon Smith-Njigba - Seattle Seahawks Wide Receiver - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/49ers-at-chiefs-2026-reg-16",
+          "excerpts": [
+            "Kansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nSan Francisco 49ers\n\nKansas City Chiefs"
+          ],
+          "title": "San Francisco 49ers at Kansas City Chiefs 2026 REG 16 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Week 11 recap lists San Francisco at 9-1 after its win over Minnesota and before this game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh Steelers 16\n\n**Late Window**\n\n* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 12 schedule names San Francisco as the home team in the Seahawks-at-49ers matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "* [Seahawks at 49ers, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12)\n  \n  LOCAL\n  \n  Seattle Seahawks Team Logo SEAHAWKS\n  \n  San Francisco 49ers Team Logo 49ERS\n  \n* * *\n  \n  LOCAL\n  \n  [Tickets](https://www.ticketmaster.com/event/1C006463D0C2456D?wt.mc_id=NFL_LEAGUE_SCHED_PG_SF_LINK9&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_SF_LINK9&campaign=sf-ti-iw-sp-2072734) [Hotel](https://www.marriott.com/search/findHotels.mi?pageType=advanced&showMore=true&destinationAddress.location=Levis+Stadium&cid=PMO_GLB0003VDI_GLE00095QU_GLF000HKFP"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists the game for November 29, 2026; that date is after the stated current date of November 24, 2026, so it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "* [Seahawks at 49ers, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12)\n  \n  LOCAL\n  \n  Seattle Seahawks Team Logo SEAHAWKS\n  \n  San Francisco 49ers Team Logo 49ERS\n  \n* * *\n  \n  LOCAL\n  \n  [Tickets](https://www.ticketmaster.com/event/1C006463D0C2456D?wt.mc_id=NFL_LEAGUE_SCHED_PG_SF_LINK9&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=SCHED_PG_SF_LINK9&campaign=sf-ti-iw-sp-2072734) [Hotel](https://www.marriott.com/search/findHotels.mi?pageType=advanced&showMore=true&destinationAddress.location=Levis+Stadium&cid=PMO_GLB0003VDI_GLE00095QU_GLF000HKFP"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The 2026 NFC West standings show San Francisco at 9-1 and Seattle at 6-4.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+          "excerpts": [
+            "Bill Barnwell and ESPN's Mike Golic, Jr. discuss dark\u2026\n\n* 4d\n\nBack to Top\n\n### 2026 NFC West Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[San Francisco](https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers) |9 |1 |0 |.900 |316 |206 |\n|[Seattle](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks) |6 |4 |0 |.600 |223 |175 |\n|[LA Rams](https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams) |6 |4 |0 |.600 |248 |187 |\n|[Arizona](https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals) |3 |8 |0 |.273 |191 |323 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense"
+          ],
+          "title": "Seattle Seahawks Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 recap reports San Francisco\u2019s 35-10 win over Minnesota and its resulting 9-1 record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh Steelers 16\n\n**Late Window**\n\n* New York Jets 27, Los Angeles Chargers 24\n* New York Giants 23, Jacksonville Jaguars 18\n* Denver Broncos 38, Las Vegas Raiders 24\n\n**Sunday Night**\n\n* San Francisco 49ers 35, Minnesota Vikings 10\n\nLoading...\n\nHighlights from the Week 11 matchup between the Miami Dolphins and the Buffalo Bills during the 2026 NFL season.\n\nSCORE\n\n9\n\n[Miami Dolphins 1-9](https://www.nfl.com/teams/miami-dolphins)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The game result records Seattle\u2019s 21-13 Week 10 win over Las Vegas; the schedule lists Seattle\u2019s Week 11 bye.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873062",
+          "excerpts": [
+            "6-4 , 2-2 Away\n\n21\n\n6-4 , 2-2 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Seahawks](https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks) SEA |7 |0 |14 |0 |21 |\n|[Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) LV |7 |3 |0 |3 |13 |\n\n[](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\n[Las Vegas Raiders Raiders LV](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\n4-6 , 1-4 Home\n\n13\n\n4-6 , 1-4 Home\n\n# Seattle Seahawks @ Las Vegas Raiders"
+          ],
+          "title": "Seahawks 21-13 Raiders (Nov 15, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/seattle-seahawks",
+          "excerpts": [
+            "Las Vegas Raiders Team Logo RAIDERS 4-6\n  \n  Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/seahawks-at-raiders-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* SEAHAWKS' BYE WEEK\n\n### Week 12\n\n* [Seahawks at 49ers, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12)\n  \n  LOCAL\n  \n  Seattle Seahawks Team Logo SEAHAWKS\n  \n  San Francisco 49ers Team Logo 49ERS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Seattle Seahawks Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 regular-season player stats list Jaxon Smith-Njigba with 79 receptions, 1,207 yards and 10 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4430878/jaxon-smith-njigba",
+          "excerpts": [
+            "## 2026 regular season stats\n\n* REC\n  \n  79\n  \n  1st\n  \n  YDS\n  \n  1,207\n  \n  1st\n  \n  TD\n  \n  10\n  \n  1st\n  \n  AVG\n  \n  15\\.3"
+          ],
+          "title": "Jaxon Smith-Njigba - Seattle Seahawks Wide Receiver - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The listed 2026 team leaders show Brock Purdy with 2,624 passing yards and 23 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/49ers-at-chiefs-2026-reg-16",
+          "excerpts": [
+            "Kansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\n8-2\n\n8 wins, 2 losses, 0 ties\n\nCBS network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nSan Francisco 49ers\n\nKansas City Chiefs"
+          ],
+          "title": "San Francisco 49ers at Kansas City Chiefs 2026 REG 16 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "players_to_watch",
+      "players_to_watch.0",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The 6-4 Seattle Seahawks head to San Francisco to face the 9-1 49ers. Watch these talented pass stars! Seattle\u2019s Jaxon Smith-Njigba has 79 catches, 1,207 yards, and 10 touchdowns. San Francisco\u2019s Brock Purdy has 2,624 passing yards and 23 passing touchdowns. A win would help either team in the NFC West standings.",
+    "big_words": [
+      {
+        "word": "talented",
+        "definition": "Very good at doing something.",
+        "example": "On a rainy day, Jamal made a talented drawing of a bright red dragon."
+      }
+    ],
+    "opener": "Start with the road team's side of the story.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1026,
+        "output": 294
+      }
+    ]
+  }
+}

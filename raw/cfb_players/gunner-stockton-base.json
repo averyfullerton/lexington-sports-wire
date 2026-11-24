@@ -1,0 +1,184 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9674b9d3dfd1d680",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 53.9,
+  "input": {
+    "player": "Gunner Stockton",
+    "team": "Georgia Bulldogs",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Gunner Stockton\u2019s youth football teams went 65-0, and he didn\u2019t lose a game until seventh grade.",
+      "From ages 10 to 14, he played baseball for the East Cobb Astros as a cleanup hitter, catcher and starting pitcher.",
+      "At Rabun County High, he was named a MaxPreps All-American in baseball as a freshman and sophomore.",
+      "Across four high school seasons, he totaled 13,652 passing yards and 177 passing touchdowns, plus 4,372 rushing yards and 77 rushing touchdowns.",
+      "In Georgia\u2019s 2025 SEC Championship win, he threw three touchdown passes and was named the game\u2019s MVP.",
+      "His hometown is Tiger, Georgia."
+    ],
+    "high_school": "Rabun County High School",
+    "hometown": "Tiger, Georgia"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the six facts respectively: Stockton\u2019s youth football record and when he first lost; his baseball roles and ages with the East Cobb Astros; his high-school baseball honors; his career high-school passing and rushing totals; his three touchdown passes and MVP honor in Georgia\u2019s SEC title game; and his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43172523/sugar-bowl-college-football-playoff-georgia-gunner-stockton",
+          "excerpts": [
+            "When George Bobo saw Gunner throw a football the first time, he said, \"Holy crap, you need to make him a quarterback.\" Stockton was the quarterback on teams that went 65-0 in the North Georgia Youth Football League. He didn't lose a game until the seventh grade at Rabun County Middle School.",
+            "In four seasons, Stockton accumulated 13,652 passing yards with 177 touchdowns and 4,372 rushing yards with 77 scores."
+          ],
+          "title": "Sugar Bowl: What Georgia has in Gunner Stockton - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+          "excerpts": [
+            "Before Stockton became a record-setting quarterback at Rabun County High, he was a cleanup hitter, catcher and starting pitcher for the East Cobb Astros. Stockton played for the famed travel ball team from Marietta, Georgia, from ages 10 to 14.",
+            "Editor's Picks While Stockton gave up travel ball to focus on football, he was named a MaxPreps All-American in baseball as a freshman and sophomore at Rabun County High.",
+            "He could drive anything he wanted, but his parents are trying to instill values in him.\" Pride in Gunner Stockton's exploits runs high in and around his hometown of Tiger, Georgia."
+          ],
+          "title": "Gunner Stockton back in spotlight as Georgia faces Alabama - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401777351",
+          "excerpts": [
+            "Stockton threw [three touchdown passes](https://x.com/i/status/1997427288288227783) as the third-ranked Bulldogs solidified their position for a first-round bye in the College Football Playoff and beat Alabama in the SEC championship game for the first time, pounding the 10th-ranked Crimson Tide 28-7 on Saturday. Stockton, who completed 20 of 26 passes for 156 yards and rushed for 39 yards, was named the game's MVP."
+          ],
+          "title": "Georgia 28-7 Alabama (Dec 6, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile identifies Rabun County High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/evaluation/_/id/240359/gunner-stockton",
+          "excerpts": [
+            "School [Rabun County High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/11220)"
+          ],
+          "title": "Football Recruiting - Gunner Stockton - Player Profiles - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The passage explicitly names Tiger, Georgia, as Gunner Stockton\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+          "excerpts": [
+            "He could drive anything he wanted, but his parents are trying to instill values in him.\" Pride in Gunner Stockton's exploits runs high in and around his hometown of Tiger, Georgia."
+          ],
+          "title": "Gunner Stockton back in spotlight as Georgia faces Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Stockton quarterbacked youth teams that went 65-0 and that he did not lose a game until seventh grade.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43172523/sugar-bowl-college-football-playoff-georgia-gunner-stockton",
+          "excerpts": [
+            "When George Bobo saw Gunner throw a football the first time, he said, \"Holy crap, you need to make him a quarterback.\" Stockton was the quarterback on teams that went 65-0 in the North Georgia Youth Football League. He didn't lose a game until the seventh grade at Rabun County Middle School."
+          ],
+          "title": "Sugar Bowl: What Georgia has in Gunner Stockton - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage lists his baseball positions and says he played for the East Cobb Astros from ages 10 to 14.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+          "excerpts": [
+            "Before Stockton became a record-setting quarterback at Rabun County High, he was a cleanup hitter, catcher and starting pitcher for the East Cobb Astros. Stockton played for the famed travel ball team from Marietta, Georgia, from ages 10 to 14."
+          ],
+          "title": "Gunner Stockton back in spotlight as Georgia faces Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage says he was named a MaxPreps All-American in baseball as a freshman and sophomore at Rabun County High.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+          "excerpts": [
+            "Editor's Picks While Stockton gave up travel ball to focus on football, he was named a MaxPreps All-American in baseball as a freshman and sophomore at Rabun County High."
+          ],
+          "title": "Gunner Stockton back in spotlight as Georgia faces Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage gives his four-season high-school totals: 13,652 passing yards, 177 passing touchdowns, 4,372 rushing yards and 77 rushing scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/43172523/sugar-bowl-college-football-playoff-georgia-gunner-stockton",
+          "excerpts": [
+            "In four seasons, Stockton accumulated 13,652 passing yards with 177 touchdowns and 4,372 rushing yards with 77 scores."
+          ],
+          "title": "Sugar Bowl: What Georgia has in Gunner Stockton - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The game recap says he threw three touchdown passes in Georgia\u2019s SEC Championship victory and was named MVP.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401777351",
+          "excerpts": [
+            "Stockton threw [three touchdown passes](https://x.com/i/status/1997427288288227783) as the third-ranked Bulldogs solidified their position for a first-round bye in the College Football Playoff and beat Alabama in the SEC championship game for the first time, pounding the 10th-ranked Crimson Tide 28-7 on Saturday. Stockton, who completed 20 of 26 passes for 156 yards and rushed for 39 yards, was named the game's MVP."
+          ],
+          "title": "Georgia 28-7 Alabama (Dec 6, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage explicitly identifies Tiger, Georgia, as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+          "excerpts": [
+            "He could drive anything he wanted, but his parents are trying to instill values in him.\" Pride in Gunner Stockton's exploits runs high in and around his hometown of Tiger, Georgia."
+          ],
+          "title": "Gunner Stockton back in spotlight as Georgia faces Alabama - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

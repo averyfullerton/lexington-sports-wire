@@ -1,0 +1,529 @@
+{
+  "run_id": "trun_64eebd575c494505b4cb4875f86fe442",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 264.3,
+  "input": {
+    "away_team": "Las Vegas Raiders",
+    "home_team": "Denver Broncos",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Las Vegas Raiders",
+    "key_plays": [
+      "Q2 2:45: Fernando Mendoza 68-yard TD pass to Ashton Jeanty cut Denver's lead to 17-10.",
+      "Q3 5:13: Fernando Mendoza 19-yard TD pass to Ian Thomas tied the game at 17-17.",
+      "Q3 0:20: Jonah Coleman scored on a 4-yard run to put Denver back ahead, 24-17.",
+      "Q4 4:29: Fernando Mendoza's 7-yard TD pass to Jack Bech pulled Las Vegas within 31-24.",
+      "Q4 1:52: Ja'Quan McMillian returned an interception 35 yards for a touchdown, extending Denver's lead to 38-24."
+    ],
+    "away_score": 24,
+    "storyline": "Denver extended its winning streak to six games after the Raiders erased a 17-point deficit. The Broncos honored the late Tom Jackson, and Ja'Quan McMillian's fourth-quarter pick-six sealed the win.",
+    "top_performers": [
+      {
+        "stat_line": "24 carries, 111 yards, 3 TD",
+        "team": "Denver Broncos",
+        "name": "Jonah Coleman"
+      },
+      {
+        "stat_line": "18 of 37, 267 yards, 3 TD, 1 INT",
+        "team": "Las Vegas Raiders",
+        "name": "Fernando Mendoza"
+      },
+      {
+        "stat_line": "11 carries, 79 rushing yards; 5 receptions, 90 receiving yards, 1 TD",
+        "team": "Las Vegas Raiders",
+        "name": "Ashton Jeanty"
+      },
+      {
+        "stat_line": "19 of 35, 225 yards, 1 TD, 1 INT",
+        "team": "Denver Broncos",
+        "name": "Bo Nix"
+      }
+    ],
+    "home_record_after": "8-2",
+    "tough_day": [
+      {
+        "stat_line": "Sacked 5 times; 1 interception returned 35 yards for a touchdown",
+        "team": "Las Vegas Raiders",
+        "name": "Fernando Mendoza"
+      }
+    ],
+    "away_record_after": "4-7",
+    "home_team": "Denver Broncos",
+    "home_score": 38
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL game summary gives the visitor and home scores for all quarters and a total of 24-38, establishing that the game was played to a final score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Las Vegas Raiders 0 10 7 7 0 24 HOME: Denver Broncos 3 14 7 14 0 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game summary labels Las Vegas Raiders as the visitor, identifying them as the away team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Las Vegas Raiders 0 10 7 7 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The ESPN play-by-play scoring list provides the full names, sequence, quarter, time, and description of the game's scoring plays.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The NFL game summary lists Las Vegas as the visitor with a final total of 24.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Las Vegas Raiders 0 10 7 7 0 24"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Week 11 account says Denver pushed its win streak to six; the recap describes the Tom Jackson tribute, the Raiders' comeback from 17 points down, and McMillian sealing the victory with a pick-six.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "1. **Broncos push win streak to six by running over Raiders.** Things got a little hairy for Sean Payton\u2019s squad after a 17-point lead evaporated in the third quarter. Then, Denver saddled [Jonah Coleman](https://www.nfl.com/players/jonah-coleman) and rode the rookie back into the lead and away from the Raiders."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "DENVER -- \u2014 Rookie [Jonah Coleman](http://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) ran for a season-best 111 yards and three touchdowns and the [Denver Broncos](http://www.espn.com/nfl/team/_/name/den/denver-broncos) beat the [Las Vegas Raiders](http://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) 38-24 on a solemn Sunday in the Mile High City as they honored \u201cOrange Crush\u201d and ESPN great [Tom Jackson](https://apnews.com/article/tom-jackson-dead-espn-broncos-bba71b580bd5120afcbad215af5b9f72) following his death at age 75. ... For the coin flip, Broncos great Champ Bailey wore a No. 57 Jackson jersey following a moment of silence and a video tribute to the fiery cornerstone of the defense that led Denver to its first Super Bowl appearance in 1977. [Ja'Quan McMillian](http://www.espn.com/nfl/player/_/id/4567462/ja'quan-mcmillian) sealed the victory with a 35-yard, one-handed pick-6 with 1:52 remaining and the Broncos (8-2) clinging to a seven-point lead. Coleman scored on runs of 1, 4 and 7 yards, the latter two after the Raiders (4-7) had erased a 17-0 deficit."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary supplies the rushing, passing, and receiving stat rows. The recap gives Coleman, Mendoza, and Nix's full names and passing figures; the NFL highlight identifies Ashton Jeanty by full name, while the game summary records his rushing and receiving production.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "A.Jeanty 79 7.2 0 11 46 J.Coleman 111 4.6 3 24 14",
+            "F.Mendoza 267 3 37 18 5/40 1 88.5 B.Nix 225 1 35 19 1/7 1 71.7 36 **68** 35 225 1 19 1/7 1 71.7 18 267 3 37 5/40 1 88.5 Total",
+            "A.Jeanty 90 18.0 1 5 8 J.Coleman 18 4.5 0 4 5 7 **68**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "DENVER -- \u2014 Rookie [Jonah Coleman](http://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) ran for a season-best 111 yards and three touchdowns and the [Denver Broncos](http://www.espn.com/nfl/team/_/name/den/denver-broncos) beat the [Las Vegas Raiders](http://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) 38-24 on a solemn Sunday in the Mile High City as they honored \u201cOrange Crush\u201d and ESPN great [Tom Jackson](https://apnews.com/article/tom-jackson-dead-espn-broncos-bba71b580bd5120afcbad215af5b9f72) following his death at age 75.",
+            "Mendoza finished 18 of 37 for 267 yards with three touchdowns and an interception."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/videos/can-t-miss-play-ashton-jeanty-burns-broncos-on-46-yard-run-into-red-zone",
+          "excerpts": [
+            "Advertising\n\n## Can't-Miss Plays\n\nPresented By\n\n# Can't-Miss Play: Ashton Jeanty burns Broncos on 46-yard run into red zone\n\nLas Vegas Raiders running back Ashton Jeanty rushes for 46 yards against the Denver Broncos during Week 11 of the 2026 NFL season."
+          ],
+          "title": "Can't-Miss Play: Las Vegas Raiders running back Ashton Jeanty burns Broncos on 46-yard run into red zone"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The recap identifies Denver's record as 8-2 after the victory.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "57 Jackson jersey following a moment of silence and a video tribute to the fiery cornerstone of the defense that led Denver to its first Super Bowl appearance in 1977. [Ja'Quan McMillian](http://www.espn.com/nfl/player/_/id/4567462/ja'quan-mcmillian) sealed the victory with a 35-yard, one-handed pick-6 with 1:52 remaining and the Broncos (8-2) clinging to a seven-point lead. Coleman scored on runs of 1, 4 and 7 yards, the latter two after the Raiders (4-7) had erased a 17-0 deficit."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap says Mendoza was sacked five times and threw an interception; the official game summary records McMillian's 35-yard interception return for a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "Mendoza finished 18 of 37 for 267 yards with three touchdowns and an interception."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Broncos J.McMillian 35 yd. interception return (W.Lutz kick) 24 38 4 1:52"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The recap gives Las Vegas's postgame record as 4-7.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "57 Jackson jersey following a moment of silence and a video tribute to the fiery cornerstone of the defense that led Denver to its first Super Bowl appearance in 1977. [Ja'Quan McMillian](http://www.espn.com/nfl/player/_/id/4567462/ja'quan-mcmillian) sealed the victory with a 35-yard, one-handed pick-6 with 1:52 remaining and the Broncos (8-2) clinging to a seven-point lead. Coleman scored on runs of 1, 4 and 7 yards, the latter two after the Raiders (4-7) had erased a 17-0 deficit."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game summary labels Denver Broncos as the home team.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Denver Broncos 3 14 7 14 0 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The NFL game summary lists Denver as the home team with a final total of 38.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Denver Broncos 3 14 7 14 0 38"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The NFL game summary places Jeanty's 68-yard touchdown pass at 2:45 in the second quarter; the highlight identifies the players by full name, and the ESPN scoring list confirms the play.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Raiders A.Jeanty 68 yd. pass from F.Mendoza (M.Gay kick) (5-84, 1:54) 10 17 2 2:45"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/videos/can-t-miss-play-68-yard-score-mendoza-s-first-nfl-td-strike-occurs-on-sideline-loft-to-jeanty",
+          "excerpts": [
+            "Advertising\n\n## Can't-Miss Plays\n\nPresented By\n\n# Can't-Miss Play: 68-YARD score! Mendoza's first NFL TD strike occurs on sideline loft to Jeanty\n\nLas Vegas Raiders quarterback Fernando Mendoza throws a 68-yard touchdown pass to running back Ashton Jeanty against the Denver Broncos during Week 11 of the 2026 NFL season.\n\n[NOW PLAYING video ### Can't-Miss Play: 68-YARD score! Mendoza's first NFL TD strike occurs on sideline loft to Jeanty Las Vegas Raiders quarterback Fernando Mendoza throws a 68-yard touchdown pass"
+          ],
+          "title": "Can\u2019t-Miss Play: 68-YARD score! Las Vegas Raiders quarterback Fernando Mendoza\u2019s first NFL touchdown strike occurs on sideline loft to running back Ashton Jeanty"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The game summary records the Raiders' third-quarter 19-yard touchdown pass at 5:13; the recap and scoring list identify Ian Thomas and confirm it tied the game.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Raiders I.Thomas 19 yd. pass from F.Mendoza (M.Gay kick) (5-39, 2:42) 17 17 3 5:13"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "Las Vegas erased the final remnants of a 17-0 deficit when Mendoza hit tight end [Ian Thomas](http://www.espn.com/nfl/player/_/id/4045305/ian-thomas) for a 19-yard touchdown in the third quarter."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The game summary places Coleman's 4-yard rushing touchdown at 0:20 in the third quarter; the recap identifies Coleman and confirms Denver regained the lead.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Broncos J.Coleman 4 yd. run (W.Lutz kick) (10-72, 4:53) 17 24 3 0:20"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "DENVER -- \u2014 Rookie [Jonah Coleman](http://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) ran for a season-best 111 yards and three touchdowns and the [Denver Broncos](http://www.espn.com/nfl/team/_/name/den/denver-broncos) beat the [Las Vegas Raiders](http://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) 38-24 on a solemn Sunday in the Mile High City as they honored \u201cOrange Crush\u201d and ESPN great [Tom Jackson](https://apnews.com/article/tom-jackson-dead-espn-broncos-bba71b580bd5120afcbad215af5b9f72) following his death at age 75."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official game summary lists the Raiders' fourth-quarter 7-yard touchdown pass at 4:29, and the recap identifies Jack Bech and the resulting 31-24 score.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Raiders J.Bech 7 yd. pass from F.Mendoza (M.Gay kick) (8-69, 3:02) 24 31 4 4:29"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "Mendoza's 7-yard strike to [Jack Bech](http://www.espn.com/nfl/player/_/id/4603186/jack-bech) with 4:29 remaining got the Raiders within 31-24."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The NFL game summary records McMillian's 35-yard interception return touchdown at 1:52; the recap confirms it sealed Denver's victory.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Broncos J.McMillian 35 yd. interception return (W.Lutz kick) 24 38 4 1:52"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "57 Jackson jersey following a moment of silence and a video tribute to the fiery cornerstone of the defense that led Denver to its first Super Bowl appearance in 1977. [Ja'Quan McMillian](http://www.espn.com/nfl/player/_/id/4567462/ja'quan-mcmillian) sealed the victory with a 35-yard, one-handed pick-6 with 1:52 remaining and the Broncos (8-2) clinging to a seven-point lead."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873075/raiders-broncos",
+          "excerpts": [
+            "Nov 23, 2026, 02:48 am - AP](https://www.espn.com/nfl/recap/_/gameId/401873075) Play-By-Play Scoring Plays All Plays Key Plays 1st Quarter Field Goal 8:43 - 1st 0 LV 3 DEN Wil Lutz 38 Yd Field Goal 4 plays, 4 yards, 1:25 2nd Quarter Touchdown 14:50 - 2nd 0 LV 10 DEN Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick) 12 plays, 74 yards, 5:51 Touchdown 10:35 - 2nd 0 LV 17 DEN Jonah Coleman 1 Yd Rush (Wil Lutz Kick) 6 plays, 72 yards, 3:08 Field Goal 6:43 - 2nd 3 LV 17 DEN Matt Gay 28 Yd Field Goal 10 plays, 65 yards, 3:52 Touchdown 2:45 - 2nd 10 LV 17 DEN Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 84 yards, 1:54 3rd Quarter Touchdown 5:13 - 3rd 17 LV 17 DEN Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick) 5 plays, 39 yards, 2:42 Touchdown 0:20 - 3rd 17 LV 24 DEN Jonah Coleman 4 Yd Rush (Wil Lutz Kick) 10 plays, 72 yards, 4:53 4th Quarter Touchdown 9:21 - 4th 17 LV 31 DEN Jonah Coleman 7 Yd Rush (Wil Lutz Kick) 5 plays, 54 yards, 2:51 Touchdown 4:29 - 4th 24 LV 31 DEN Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick) 8 plays, 69 yards, 3:02 Touchdown 1:52 - 4th 24 LV 38 DEN Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick) 3 plays, 5 yards, 0:31 [Full Play-By-Play](https://www.espn.com/nfl/playbyplay/_/gameId/401873075)"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The gamebook's rushing row gives Coleman's 24 carries, 111 yards, and 3 touchdowns; the recap supplies his full name and reports his 111-yard, three-touchdown game.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "A.Jeanty 79 7.2 0 11 46 J.Coleman 111 4.6 3 24 14"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "DENVER -- \u2014 Rookie [Jonah Coleman](http://www.espn.com/nfl/player/_/id/4702555/jonah-coleman) ran for a season-best 111 yards and three touchdowns and the [Denver Broncos](http://www.espn.com/nfl/team/_/name/den/denver-broncos) beat the [Las Vegas Raiders](http://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) 38-24 on a solemn Sunday in the Mile High City as they honored \u201cOrange Crush\u201d and ESPN great [Tom Jackson](https://apnews.com/article/tom-jackson-dead-espn-broncos-bba71b580bd5120afcbad215af5b9f72) following his death at age 75."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The box score identifies Fernando Mendoza and lists his passing line; the recap confirms his three touchdowns, interception, and five sacks.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873075",
+          "excerpts": [
+            "| [Fernando Mendoza](https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza) #15 | | team | | C/ATT | YDS | TD | INT | SACKS | | 18/37 | 267 | 3 | 1 | 5-40 |"
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "Mendoza finished 18 of 37 for 267 yards with three touchdowns and an interception."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The gamebook lists Jeanty's rushing, receiving, and touchdown figures; the NFL highlight identifies the Raiders player as Ashton Jeanty.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "A.Jeanty 79 7.2 0 11 46 J.Coleman 111 4.6 3 24 14",
+            "A.Jeanty 90 18.0 1 5 8 J.Coleman 18 4.5 0 4 5 7 **68**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/videos/can-t-miss-play-ashton-jeanty-burns-broncos-on-46-yard-run-into-red-zone",
+          "excerpts": [
+            "Advertising\n\n## Can't-Miss Plays\n\nPresented By\n\n# Can't-Miss Play: Ashton Jeanty burns Broncos on 46-yard run into red zone\n\nLas Vegas Raiders running back Ashton Jeanty rushes for 46 yards against the Denver Broncos during Week 11 of the 2026 NFL season."
+          ],
+          "title": "Can't-Miss Play: Las Vegas Raiders running back Ashton Jeanty burns Broncos on 46-yard run into red zone"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official gamebook provides the Broncos passing statistics, and the recap identifies Bo Nix and states his completion, yardage, touchdown, and interception totals.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "F.Mendoza 267 3 37 18 5/40 1 88.5 B.Nix 225 1 35 19 1/7 1 71.7 36 **68** 35 225 1 19 1/7 1 71.7 18 267 3 37 5/40 1 88.5 Total"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "He was sacked five times. [Bo Nix](http://www.espn.com/nfl/player/_/id/4426338/bo-nix) completed 19 of 35 passes for 225 yards with one TD and an interception."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap states Mendoza was sacked five times and threw an interception; the gamebook records McMillian's 35-yard interception return for a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873075",
+          "excerpts": [
+            "Mendoza finished 18 of 37 for 267 yards with three touchdowns and an interception."
+          ],
+          "title": "Broncos 38-24 Raiders (Nov 22, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795423725/gamecenter/ab99a17b-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Broncos J.McMillian 35 yd. interception return (W.Lutz kick) 24 38 4 1:52"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Jonah Coleman ran for 111 yards and 3 touchdowns as Denver beat Las Vegas 38-24! The Raiders erased a 17-point lead in Denver. Fernando Mendoza threw to Ian Thomas to tie it at 17-17. Coleman rumbled in from 4 yards out to put the Broncos back ahead. Mendoza later found Jack Bech to bring the Raiders within 7. Then Ja'Quan McMillian snagged a pass and raced 35 yards for a pick-six! The Broncos showed grit and won their 6th game in a row.",
+    "big_words": [
+      {
+        "word": "grit",
+        "definition": "The courage to keep going when something is hard.",
+        "example": "Lily showed grit as she set up her lemonade stand."
+      }
+    ],
+    "opener": "Start with the star player's name and what he did.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1220,
+        "output": 162
+      }
+    ]
+  }
+}

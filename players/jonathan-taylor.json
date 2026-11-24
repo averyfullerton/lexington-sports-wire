@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Wisconsin",
   "experience": 7,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Jonathan broke the FBS freshman rushing record in college with 1,977 yards.",
     "Jonathan was the fastest player to reach 5,000 rushing yards in FBS history.",
@@ -82,10 +85,10 @@
       [
         "2026",
         "IND",
-        "10",
-        "177",
-        "739",
-        "4.2",
+        "11",
+        "188",
+        "760",
+        "4.0",
         "8"
       ]
     ]

@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Tennessee",
   "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Alvin scored six rushing touchdowns in one NFL game, tying the record!",
     "Alvin won the AP Offensive Rookie of the Year award after his first season.",
@@ -109,10 +112,10 @@
       [
         "2026",
         "NO",
-        "8",
-        "49",
-        "161",
-        "3.3",
+        "9",
+        "50",
+        "162",
+        "3.2",
         "3"
       ]
     ]

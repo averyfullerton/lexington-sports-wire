@@ -1,130 +1,130 @@
 [
   {
-    "title": "Daniels Delivers Late!",
-    "paragraph": "The Commanders faced the Giants in New York. Late in the game, Washington was down 21-17. Then Jayden Daniels made a dramatic throw! He hit Stefon Diggs for a 32-yard touchdown with 57 seconds left. The Commanders won 24-21.",
+    "title": "Washington Wins at the Wire!",
+    "paragraph": "The Bengals came to Washington on a five-game win streak. Jayden Daniels again delivered in a high-pressure moment. Washington drove late with the game on the line. Then Drew Stevens made a magnificent 26-yard field goal! The kick gave the Commanders a 22-20 win and ended Cincinnati\u2019s streak.",
     "big_words": [
       {
-        "word": "dramatic",
-        "definition": "Full of action that grabs your attention.",
-        "example": "Sofia made a dramatic change to her science project."
+        "word": "magnificent",
+        "definition": "Very impressive or wonderful.",
+        "example": "Sofia made a magnificent science project."
       }
     ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50469451/commanders-jayden-daniels-redemption-game-winning-drive",
-    "source_title": "Commanders' Daniels finds redemption with game-winning drive - ESPN",
-    "angle": "Jayden Daniels threw a touchdown pass with just 49 seconds left to give the Commanders a thrilling win!",
-    "attempts": 1,
-    "final_safety": {
-      "arrest": 0.0,
-      "lawsuit": 0.0,
-      "suspension": 0.001,
-      "new_or_serious_injury": 0.0,
-      "death": 0.005,
-      "gambling": 0.003,
-      "abuse": 0.001,
-      "other_mature": 0.029
-    },
-    "official_record_used": true
-  },
-  {
-    "title": "Parker Powers the Jaguars",
-    "paragraph": "The Jaguars went to Tennessee and piled up points against the Titans. Parker Washington caught a 2-yard touchdown pass from Trevor Lawrence. He made an astonishing six catches for 148 yards in the first half! One was a 50-yard catch and run that set up a field goal. Cam Little made four field goals, and the Jaguars scored 40 points. They beat the Titans 40-23 for their third win in a row.",
-    "big_words": [
-      {
-        "word": "astonishing",
-        "definition": "So surprising that it makes you amazed.",
-        "example": "Jamal made astonishing progress at his swimming lesson."
-      }
-    ],
-    "source_url": "https://www.jaguars.com/news/five-key-plays-that-fueled-jaguars-40-23-victory-over-titans-in-week-10",
-    "source_title": "Five Key Plays From Jaguars' Week 10 Win Over Titans",
-    "angle": "The Jaguars piled up 40 points against the Titans, with Parker Washington having a big game.",
-    "attempts": 1,
+    "source_url": "https://africa.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+    "source_title": "Commanders win again with late-game drive by Jayden Daniels - ESPN",
+    "angle": "Jayden Daniels led another late-game drive as the Commanders ended the Bengals\u2019 five-game winning streak.",
+    "attempts": 3,
     "final_safety": {
       "arrest": 0.0,
       "lawsuit": 0.0,
       "suspension": 0.0,
-      "new_or_serious_injury": 0.005,
-      "death": 0.016,
+      "new_or_serious_injury": 0.002,
+      "death": 0.008,
+      "gambling": 0.0,
+      "abuse": 0.001,
+      "other_mature": 0.026
+    },
+    "official_record_used": true
+  },
+  {
+    "title": "Lamb Hits Two Big Marks",
+    "paragraph": "CeeDee Lamb had a memorable day for the Cowboys. He topped 1,000 receiving yards for the sixth season in a row. He also caught his 50th career touchdown! Dak Prescott tossed him the ball from 8 yards out. The Cowboys beat the Titans 51-30. Only one Cowboy, Michael Irvin, has more 1,000-yard seasons.",
+    "big_words": [
+      {
+        "word": "memorable",
+        "definition": "Worth remembering for a long time.",
+        "example": "Jamal had a memorable swimming lesson when he learned to float."
+      }
+    ],
+    "source_url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+    "source_title": "NFL Week 11 takeaways, questions, fantasy spin on Sunday's games - ESPN",
+    "angle": "Cowboys star CeeDee Lamb topped 1,000 receiving yards for the sixth straight season and caught his 50th career touchdown.",
+    "attempts": 2,
+    "final_safety": {
+      "arrest": 0.0,
+      "lawsuit": 0.001,
+      "suspension": 0.001,
+      "new_or_serious_injury": 0.002,
+      "death": 0.02,
       "gambling": 0.0,
       "abuse": 0.002,
-      "other_mature": 0.015
+      "other_mature": 0.022
     },
     "official_record_used": true
   },
   {
-    "title": "Donald\u2019s Sack Is Back!",
-    "paragraph": "The Rams faced the Cardinals in Arizona. Aaron Donald got his first sack in 1,050 days! He savored the moment. Matthew Stafford also threw three touchdown passes. The Rams won 34-6. Donald said the team win felt even better.",
+    "title": "Rodgers Strikes Late",
+    "paragraph": "The Steelers faced the Eagles in a close game. Saquon Barkley ran 38 yards for an Eagles touchdown. Chris Boswell kicked three field goals for Pittsburgh. Aaron Rodgers led a spirited late push! He threw a 20-yard touchdown pass to Max Hurleman. But the Eagles won, 19-16.",
     "big_words": [
       {
-        "word": "savored",
-        "definition": "Enjoyed something very much.",
-        "example": "Hana savored her time playing with her pet dog."
+        "word": "spirited",
+        "definition": "Full of energy and effort.",
+        "example": "Hana made a spirited dash across the yard with her pet dog."
       }
     ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50497324/rams-aaron-donald-savors-first-sack-1050-days-vs-cardinals",
-    "source_title": "Rams' Aaron Donald savors first sack in 1,050 days vs. Cardinals - ESPN",
-    "angle": "Rams star Aaron Donald celebrated his first sack in 1,050 days and a team victory!",
+    "source_url": "https://africa.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+    "source_title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones - ESPN",
+    "angle": "Aaron Rodgers threw three touchdown passes to help the Steelers beat the Colts 34-22.",
+    "attempts": 2,
+    "final_safety": {
+      "arrest": 0.0,
+      "lawsuit": 0.001,
+      "suspension": 0.001,
+      "new_or_serious_injury": 0.012,
+      "death": 0.011,
+      "gambling": 0.001,
+      "abuse": 0.003,
+      "other_mature": 0.031
+    },
+    "official_record_used": true
+  },
+  {
+    "title": "Panthers Win a Wild One",
+    "paragraph": "The Panthers and Ravens piled up points. Bryce Young threw two touchdown passes for Carolina. Chuba Hubbard ran for two more touchdowns. But Baltimore took the lead in the fourth quarter. Then Ryan Fitzgerald made a brilliant 37-yard field goal! Carolina won, 35-33.",
+    "big_words": [
+      {
+        "word": "brilliant",
+        "definition": "Very clever or impressive.",
+        "example": "Diego had a brilliant idea for his block tower."
+      }
+    ],
+    "source_url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
+    "source_title": "Week 11 NFL highlights: Best plays, touchdowns, more - ESPN",
+    "angle": "The Panthers won a high-scoring thriller against the Ravens, 35-33.",
     "attempts": 1,
     "final_safety": {
-      "arrest": 0.001,
-      "lawsuit": 0.0,
-      "suspension": 0.0,
+      "arrest": 0.0,
+      "lawsuit": 0.001,
+      "suspension": 0.001,
       "new_or_serious_injury": 0.013,
-      "death": 0.007,
-      "gambling": 0.0,
-      "abuse": 0.026,
+      "death": 0.022,
+      "gambling": 0.004,
+      "abuse": 0.002,
       "other_mature": 0.021
     },
     "official_record_used": true
   },
   {
-    "title": "49ers Race Across the Field",
-    "paragraph": "The 49ers raced up and down the field in Dallas. They piled up 584 yards against the Cowboys. Brock Purdy tossed a 74-yard touchdown pass to Christian McCaffrey. Then Deebo Samuel Sr. ran 70 yards for a touchdown! McCaffrey caught another dazzling touchdown pass for 66 yards. All those yards helped the 49ers win 46-40.",
+    "title": "Texans Shine Against Colts",
+    "paragraph": "The Texans faced their division rivals, the Colts. Houston got a splendid start when C.J. Stroud hit Nico Collins for a 42-yard touchdown! Stroud also threw touchdown passes to Kayshon Boutte and Marlin Klein. Will Anderson Jr. sacked Daniel Jones for a safety. The Texans won 26-3! The win kept Houston's playoff hopes alive.",
     "big_words": [
       {
-        "word": "dazzling",
-        "definition": "So amazing that it gets your attention.",
-        "example": "Diego built a dazzling tower with his blocks."
+        "word": "splendid",
+        "definition": "Very good or wonderful.",
+        "example": "Ava found a splendid library book to read."
       }
     ],
-    "source_url": "https://www.espn.com/nfl/story/_/id/50498373/49ers-put-big-numbers-victory-cowboys",
-    "source_title": "49ers put up big numbers in victory over Cowboys - ESPN",
-    "angle": "The 49ers raced up and down the field for 584 yards in their win over the Cowboys.",
+    "source_url": "https://www.espn.com/nba/story/_/id/2586363...",
+    "source_title": "Week 11 NFL highlights: Best plays, touchdowns, more - ESPN",
+    "angle": "The Texans beat their division rivals, the Colts, to keep their playoff hopes alive.",
     "attempts": 1,
     "final_safety": {
-      "arrest": 0.0,
-      "lawsuit": 0.0,
-      "suspension": 0.0,
-      "new_or_serious_injury": 0.005,
+      "arrest": 0.001,
+      "lawsuit": 0.001,
+      "suspension": 0.001,
+      "new_or_serious_injury": 0.006,
       "death": 0.008,
       "gambling": 0.0,
-      "abuse": 0.003,
-      "other_mature": 0.016
-    },
-    "official_record_used": true
-  },
-  {
-    "title": "Chargers Hold On in Baltimore",
-    "paragraph": "The Chargers faced the Ravens in Baltimore on Monday night. Justin Herbert ran 22 yards for a touchdown. Omarion Hampton ran for a touchdown, too. But Derrick Henry scored twice to keep the Ravens close. Late in the game, Tarheeb Still forced a fumble! The Chargers held on for a 23-20 triumph, their first win of the season.",
-    "big_words": [
-      {
-        "word": "triumph",
-        "definition": "A win or great success.",
-        "example": "Ava felt triumph when she found her library book."
-      }
-    ],
-    "source_url": "https://www.nfl.com/news/chargers-ravens-on-monday-night-football-what-we-learned-from-los-angeles-23-20-win-over-baltimore",
-    "source_title": "Chargers-Ravens on 'Monday Night Football': What We Learned from Los Angeles' 23-20 win over Baltimore | Latest NFL News, Analysis & Updates | NFL.com",
-    "angle": "The Chargers edged the Ravens 23-20 in a close Monday night game.",
-    "attempts": 1,
-    "final_safety": {
-      "arrest": 0.0,
-      "lawsuit": 0.0,
-      "suspension": 0.0,
-      "new_or_serious_injury": 0.0,
-      "death": 0.006,
-      "gambling": 0.0,
-      "abuse": 0.007,
+      "abuse": 0.028,
       "other_mature": 0.031
     },
     "official_record_used": true

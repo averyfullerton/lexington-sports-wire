@@ -1,0 +1,186 @@
+{
+  "run_id": "trun_415f3f698c1f435bb7892b86ba42377c",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 183.0,
+  "input": {
+    "player": "Marlin Klein",
+    "team": "Houston Texans",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Michigan",
+    "fun_facts": [
+      "Marlin Klein was born in Cologne, Germany.",
+      "At 16, Marlin Klein moved to the United States to play football.",
+      "Marlin Klein was a Michigan team captain in 2025 and earned All-Big Ten honors.",
+      "In 2025, Marlin Klein caught 24 passes for 248 yards and a touchdown for Michigan.",
+      "At the 2026 NFL Scouting Combine, Marlin Klein ran the 40-yard dash in 4.61 seconds.",
+      "In Michigan\u2019s bowl game, Marlin Klein caught four passes for 39 yards."
+    ],
+    "draft": "2026, round 2, pick 59"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile lists Michigan as Marlin Klein\u2019s college.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/marlin-klein",
+          "excerpts": [
+            "# Marlin Klein Stats, News and Video - TE | NFL.com\n\n# Marlin Klein\n\nTE \u2022 \\#83\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/marlin-klein/)\n* [Stats](https://www.nfl.com/players/marlin-klein/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-6\n* Weight\n  \n  250\n* Arms\n  \n  32 1/2\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Michigan\n* Age\n  \n  24\n* Hometown\n  \n  Cologne, Germany\n\n## Related Content - Articles"
+          ],
+          "title": "Marlin Klein Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited profile identifies Cologne as Klein\u2019s birthplace; the ESPN game recap says he moved to the United States at 16 to play football; ESPN reports his 2025 captaincy and All-Big Ten honors, his 2025 receiving numbers, and his bowl-game catches; and the NFL Combine video records his 4.61-second 40-yard dash.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/marlin-klein",
+          "excerpts": [
+            "# Marlin Klein Stats, News and Video - TE | NFL.com\n\n# Marlin Klein\n\nTE \u2022 \\#83\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/marlin-klein/)\n* [Stats](https://www.nfl.com/players/marlin-klein/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-6\n* Weight\n  \n  250\n* Arms\n  \n  32 1/2\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Michigan\n* Age\n  \n  24\n* Hometown\n  \n  Cologne, Germany\n\n## Related Content - Articles",
+            "[video ### Marlin Klein runs official 4.61-second 40-yard dash at 2026 combine Michigan Wolverines tight end Marlin Klein runs the 40-yard dash at the 2026 NFL Scouting Combine.](https://www.nfl.com/videos/marlin-klein-runs-40-yard-dash-at-2026-combine \"Marlin Klein runs official 4.61-second 40-yard dash at 2026 combine\")"
+          ],
+          "title": "Marlin Klein Stats, News and Video - TE | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873274",
+          "excerpts": [
+            "# Texans' DeMeco Ryans praises rookie Marlin Klein after catch vs Chargers in his NFL debut\n\nBy AP\n\nUpdated: Aug 14, 2026, 04:15 am\n\nFacebook Facebook Messenger Twitter Email\n\nHOUSTON -- \u2014 [Houston Texans](http://www.espn.com/nfl/team/_/name/hou/houston-texans) rookie [Marlin Klein](http://www.espn.com/nfl/player/_/id/4695705/marlin-klein) played just 11 snaps in his NFL debut Thursday night against the [Los Angeles Chargers](http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) .\n\nBut it was more than enough to impress coach DeMeco Ryans.\n\nKlein, a tight end who was born in Germany and moved to the United States to play football at age 16, had a 31-yard reception on Houston's first drive in a 27-7 loss."
+          ],
+          "title": "Chargers 27-7 Texans (Aug 13, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/news/_/id/4695705/marlin-klein",
+          "excerpts": [
+            "Michigan TE Marlin Klein is declaring for the NFL Draft, he tells ESPN. He\u2019s 6-6, 250 lbs and is viewed as versatile player who can block and be a threat in the pass game. He\u2019s a 2025 team captain who earned All-Big Ten honors.",
+            "Michigan TE Marlin Klein is declaring for the NFL Draft, he tells ESPN. He\u2019s 6-6, 250 lbs and is viewed as versatile player who can block and be a threat in the pass game."
+          ],
+          "title": "Marlin Klein News - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4695705/marlin-klein",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nMichigan Wolverines Marlin Klein\n\n# Marlin Klein\n\nMichigan Wolverines\n\n* [Michigan Wolverines](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n* \\#17\n* Tight End\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 250 lbs\n* Birthplace\n  \n  Cologne, Germany\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* REC\n  \n  24\n* YDS\n  \n  248\n* TD\n  \n  1\n* AVG\n  \n  10\\.3\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4695705/marlin-klein)"
+          ],
+          "title": "Marlin Klein - Michigan Wolverines Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft video description states the Texans selected Marlin Klein in Round 2 of the 2026 draft with the No. 59 overall pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/marlin-klein",
+          "excerpts": [
+            "## Related Content - Videos\n\n[video ### Texans select Marlin Klein with No. 59 pick in 2026 draft Former tight end Billy Miller announces the Houston Texans' selection of Michigan Wolverines tight end Marlin Klein in Round 2 of the 2026 NFL Draft with the No. 59 overall pick.](https://www.nfl.com/videos/texans-select-marlin-klein-with-no-59-pick-in-2026-draft \"Texans select Marlin Klein with No. 59 pick in 2026 draft\")"
+          ],
+          "title": "Marlin Klein Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL profile lists Cologne, Germany as Marlin Klein\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/marlin-klein",
+          "excerpts": [
+            "# Marlin Klein Stats, News and Video - TE | NFL.com\n\n# Marlin Klein\n\nTE \u2022 \\#83\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/marlin-klein/)\n* [Stats](https://www.nfl.com/players/marlin-klein/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  6-6\n* Weight\n  \n  250\n* Arms\n  \n  32 1/2\n* Hands\n  \n  9 1/4\n\n* Experience\n  \n  R\n* College\n  \n  Michigan\n* Age\n  \n  24\n* Hometown\n  \n  Cologne, Germany\n\n## Related Content - Articles"
+          ],
+          "title": "Marlin Klein Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap says Marlin Klein was born in Germany and moved to the United States at age 16 to play football.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873274",
+          "excerpts": [
+            "# Texans' DeMeco Ryans praises rookie Marlin Klein after catch vs Chargers in his NFL debut\n\nBy AP\n\nUpdated: Aug 14, 2026, 04:15 am\n\nFacebook Facebook Messenger Twitter Email\n\nHOUSTON -- \u2014 [Houston Texans](http://www.espn.com/nfl/team/_/name/hou/houston-texans) rookie [Marlin Klein](http://www.espn.com/nfl/player/_/id/4695705/marlin-klein) played just 11 snaps in his NFL debut Thursday night against the [Los Angeles Chargers](http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) .\n\nBut it was more than enough to impress coach DeMeco Ryans.\n\nKlein, a tight end who was born in Germany and moved to the United States to play football at age 16, had a 31-yard reception on Houston's first drive in a 27-7 loss."
+          ],
+          "title": "Chargers 27-7 Texans (Aug 13, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN report identifies Marlin Klein as a 2025 team captain who earned All-Big Ten honors.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/news/_/id/4695705/marlin-klein",
+          "excerpts": [
+            "Michigan TE Marlin Klein is declaring for the NFL Draft, he tells ESPN. He\u2019s 6-6, 250 lbs and is viewed as versatile player who can block and be a threat in the pass game. He\u2019s a 2025 team captain who earned All-Big Ten honors."
+          ],
+          "title": "Marlin Klein News - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN player profile lists his 2025 season totals as 24 receptions, 248 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4695705/marlin-klein",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nMichigan Wolverines Marlin Klein\n\n# Marlin Klein\n\nMichigan Wolverines\n\n* [Michigan Wolverines](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n* \\#17\n* Tight End\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 250 lbs\n* Birthplace\n  \n  Cologne, Germany\n* Status\n  \n  Active\n\n## 2025 season stats\n\n* REC\n  \n  24\n* YDS\n  \n  248\n* TD\n  \n  1\n* AVG\n  \n  10\\.3\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4695705/marlin-klein)"
+          ],
+          "title": "Marlin Klein - Michigan Wolverines Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The NFL Combine video identifies Klein\u2019s official 40-yard dash time as 4.61 seconds.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/marlin-klein",
+          "excerpts": [
+            "[video ### Marlin Klein runs official 4.61-second 40-yard dash at 2026 combine Michigan Wolverines tight end Marlin Klein runs the 40-yard dash at the 2026 NFL Scouting Combine.](https://www.nfl.com/videos/marlin-klein-runs-40-yard-dash-at-2026-combine \"Marlin Klein runs official 4.61-second 40-yard dash at 2026 combine\")"
+          ],
+          "title": "Marlin Klein Stats, News and Video - TE | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The ESPN report says Klein caught four passes for 39 yards in Michigan\u2019s bowl game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/news/_/id/4695705/marlin-klein",
+          "excerpts": [
+            "Michigan TE Marlin Klein is declaring for the NFL Draft, he tells ESPN. He\u2019s 6-6, 250 lbs and is viewed as versatile player who can block and be a threat in the pass game."
+          ],
+          "title": "Marlin Klein News - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

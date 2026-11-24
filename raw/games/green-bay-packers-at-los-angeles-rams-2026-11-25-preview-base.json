@@ -1,0 +1,330 @@
+{
+  "run_id": "trun_1714e31eeb204d32a5485e5b688bae35",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 122.6,
+  "input": {
+    "away_team": "Green Bay Packers",
+    "home_team": "Los Angeles Rams",
+    "game_date": "2026-11-25",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "6-4",
+    "away_team": "Green Bay Packers",
+    "storyline": "Both teams enter at 6-4. NFL.com described Green Bay\u2019s trip to Los Angeles as a meaningful playoff-race test.",
+    "matchup_notes": [
+      "Both teams enter Week 12 with 6-4 records.",
+      "The Rams had won four straight before their Week 11 bye.",
+      "Green Bay\u2019s most recent game was a 30-10 Week 10 loss to Minnesota; the Packers had a Week 11 bye.",
+      "Micah Parsons was medically cleared and set to make his 2026 season debut for Green Bay."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,838 passing yards, 20 TD, 7 INT",
+        "team": "Green Bay Packers",
+        "name": "Jordan Love"
+      },
+      {
+        "stat_line": "2,623 passing yards, 19 TD, 10 INT",
+        "team": "Los Angeles Rams",
+        "name": "Matthew Stafford"
+      }
+    ],
+    "home_record": "6-4",
+    "home_team": "Los Angeles Rams",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The game center lists the Packers at 6-4, with six wins, four losses, and no ties, before the Week 12 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game center identifies Green Bay as the visiting team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The source identifies Green Bay as 6-4 and frames its road game against the Rams as important to playoff-race momentum, supporting the playoff-race significance stated here.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/who-are-the-nfl-s-contenders-and-pretenders-sorting-out-giants-steelers-rams-and-more",
+          "excerpts": [
+            "**Green Bay Packers (6-4) -- Contenders**\n\nAfter a rocky start, the Packers climbed into the upper echelon of the league using an explosive passing attack and an aggressive, turnover-generating defense. However, Green Bay finds itself in last place in an elite NFC North.\n\nThe Packers have a monumental road game against the Los Angeles Rams on Thanksgiving Eve. The winner will build meaningful momentum in the playoff race.\n\n**Los Angeles Rams (6-4) -- TBD**\n\nCan you be a contender while on shaky footing? The Rams hope the answer is yes."
+          ],
+          "title": "Who are the NFL's contenders and pretenders? Sorting out Giants, Steelers, Rams and more | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The game center gives both teams\u2019 6-4 records. NFL.com reports the Rams\u2019 four-game winning streak and notes the Week 11 bye. The Packers\u2019 recent-games listing shows their Week 10 30-10 loss to Minnesota, and the Packers schedule marks Week 11 as a bye. NFL.com reports Parsons was medically cleared and set to make his season debut in the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH",
+            "nfl.com/teams/minnesota-vikings) [PACKERS GB PACKERS PACKERS 6 6 wins 4 4 losses 0 0 ties 0\\.6 0\\.6 win percentage](https://www.nfl.com/teams/green-bay-packers)\n\n[See All](https://www.nfl.com/standings)\n\n## Recent Games\n\nPACKERS RAMS\n\n[Week 10 Wk 10 vs versus Minnesota Vikings Logo VIKINGS L Loss 30-10 30 to 10 points Watch Replay Replay"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-power-rankings-week-11-2026-nfl-season",
+          "excerpts": [
+            "15\n\nRank increased by\n\n2\n\n[Los Angeles Rams 6-4](https://www.nfl.com/teams/los-angeles-rams)\n\nThe Rams have won four straight! Do I trust this winning streak? Nope. Los Angeles is missing nearly all of its key offensive playmakers and needed to resort to 13 and 20 personnel to get the job done [Sunday](https://www.nfl.com/games/rams-at-cardinals-2026-reg-10) ,",
+            "We\u2019ll learn much more about the Rams after their Week 11 bye, with games [against Green Bay](https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=overview) , [Kansas City](https://www.nfl.com/games/chiefs-at-rams-2026-reg-13?tab=overview) and [San Francisco](https://www.nfl.com/games/rams-at-49ers-2026-reg-14?tab=overview) coming out of the break.\n\nRank\n\n16"
+          ],
+          "title": "NFL Power Rankings, Week 11: Vikings vault into top five; Browns, Rams and Commanders on the rise | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/green-bay-packers",
+          "excerpts": [
+            "Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-packers-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* PACKERS' BYE WEEK\n\n### Week 12\n\n* [Packers at Rams, Wednesday, November 25th, 8:00 PM, NETFLIX](https://www.nfl.com/games/packers-at-rams-2026-reg-12)\n  \n  LOCAL\n  \n  Green Bay Packers Team Logo PACKERS"
+          ],
+          "title": "NFL 2026 Green Bay Packers Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/packers-micah-parsons-knee-medically-cleared-set-to-make-season-debut-vs-rams?remove_header",
+          "excerpts": [
+            "The return, finally, of [Micah Parsons](https://www.nfl.com/players/micah-parsons) .\n\nGreen Bay's star pass rusher has been medically cleared and is set to make his 2026 season debut in Wednesday's Thanksgiving Eve game [against](https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=overview) the Rams, NFL Network Insider Ian Rapoport reported on Monday.\n\nThe edge rusher returned to practice on Nov. 4 and currently remains on the team's physically unable to perform list. He was limited at practice on Monday and will need to be officially activated to the 53-man roster ahead of Wednesday's game."
+          ],
+          "title": "NFL Network: Packers' Micah Parsons (knee) medically cleared, set to play vs. Rams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The 2026 season table for Jordan Love lists 2,838 passing yards, 20 touchdowns, and 7 interceptions. The game-center passing summary gives Matthew Stafford 2,623 yards, 19 touchdowns, and 10 interceptions; the player-stats row also identifies Stafford by full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/jordan-love/stats",
+          "excerpts": [
+            "# Jordan Love Stats Summary | NFL.com\n\n# Jordan Love\n\nQB \u2022 \\#10\n\n[Green Bay Packers](https://www.nfl.com/teams/green-bay-packers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/jordan-love/)",
+            "|6 |Cowboys |W 23 - 13 |23 |41 |276 |6\\.7 |1 |1 |3 |15 |74\\.8 |4 |12 |3 |1 | | |\n|7 |@Lions |L 17 - 20 |27 |45 |274 |6\\.1 |2 |1 |1 |10 |83 | | | | | | |\n|8 |Panthers |W 27 - 19 |30 |41 |288 |7 |3 |1 |0 |0 |106\\.6 | | | | |0 |0 |\n|9 |@Patriots |W 45 - 27 |23 |29 |372 |12\\.8 |3 |0 |3 |23 |153\\.2 |1 |13 |13 |1 | | |",
+            "|SEASON |TEAM |G |GS |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |",
+            "|2024 |Green Bay Packers |15 |15 |268 |425 |3389 |8 |25 |11 |14 |95 |96\\.7 |25 |83 |3\\.3 |1 |4 |0 |\n|2025 |Green Bay Packers |15 |15 |291 |439 |3381 |7\\.7 |23 |6 |21 |169 |101\\.2 |47 |199 |4\\.2 |0 |7 |2 |\n|2026 |Green Bay Packers |10 |10 |232 |368 |2838 |7\\.7 |20 |7 |25 |160 |96\\.9 |13 |23 |1\\.8 |2 |5 |1 |"
+          ],
+          "title": "Jordan Love Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/stats/player-stats",
+          "excerpts": [
+            "|[Matthew Stafford](https://www.nfl.com/players/matthew-stafford/) |2623 |7 |372 |248 |66\\.7 |19 |10 |92\\.8 |132 |35\\.5 |29 |7 |64 |15 |112 |"
+          ],
+          "title": "NFL 2026 Player Stats | passing Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[J. Love 2838 YDS 63%CMP 20TD 7INT](https://www.nfl.com/players/jordan-love/stats)\n\nPASSING\n\n[J. Stafford 2623 YDS 66\\.7%CMP 19TD 10INT](https://www.nfl.com/players/matthew-stafford/stats)\n\nRUSHING\n\n[K. Johnson 214 YDS 52ATT 1TD 4\\.1AVG](https://www.nfl.com/players/kaleb-johnson/stats)\n\nRUSHING\n\n[K. Williams 616 YDS 139ATT 6TD 4\\.4AVG](https://www.nfl.com/players/kyren-williams/stats)\n\nRECEIVING\n\n[C. Watson 916 YDS 52REC 7TD 17\\.6AVG](https://www.nfl.com/players/christian-watson/stats)"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The game center lists the Rams at 6-4, with six wins, four losses, and no ties, before the Week 12 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game center identifies the Los Angeles Rams as the home team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The matchup is listed as a Week 12 preview scheduled for November 25, 2026. Since the stated current date is November 24, it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/boxscores/202611250ram.htm",
+          "excerpts": [
+            "[PFR Home Page](https://www.pro-football-reference.com/) > [Boxscores](https://www.pro-football-reference.com/boxscores/) > **Green Bay Packers at Los Angeles Rams - November 25th, 2026**",
+            "# Green Bay Packers at Los Angeles Rams - November 25th, 2026 - SoFi Stadium\n\n## NFL Scores \u2014 [Week 12](https://www.pro-football-reference.com/years/2026/week_12.htm)\n\n|[GNB](https://www.pro-football-reference.com/teams/gnb/2026.htm) | |[Preview](https://www.pro-football-reference.com/boxscores/202611250ram.htm) |\n| --- | --- | --- |\n|[LAR](https://www.pro-football-reference.com/teams/ram/2026.htm) | | |\n\n|[KAN](https://www.pro-football-reference.com/teams/kan/2026.htm) | |[Preview](https://www.pro-football-reference.com/boxscores/202611260buf.htm) |"
+          ],
+          "title": "Green Bay Packers  at  Los Angeles Rams - November 25th, 2026 - SoFi Stadium | Pro-Football-Reference.com"
+        },
+        {
+          "url": "https://amp.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "Advertising\n\n# Week 12 schedule change\n\nPublished: Nov 17, 2026 at 02:18 PM\n\n* \n* \n* \n*\n\n**NEW YORK \u2014 Nov. 17, 2026 \u2014** Flex scheduling is in effect for Week 12.  The matchup between the Raiders and Browns in Cleveland will move to Sunday Night Football at 8:20 p.m. ET on NBC, while the Patriots' game against the Chargers in Los Angeles will move to 4:05 p.m. ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |"
+          ],
+          "title": "Week 12 schedule change"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The game center lists both the Packers and Rams at 6-4.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nGreen Bay Packers\n\nGB\n\nGreen Bay Packers\n\nPACKERS\n\nGreen Bay Packers\n\nGREEN BAY\n\nPACKERS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nLos Angeles Rams\n\nLAR\n\nLos Angeles Rams\n\nRAMS\n\nLos Angeles Rams\n\nLOS ANGELES\n\nRAMS\n\n6-4\n\n6 wins, 4 losses, 0 ties\n\nNETFLIX network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nGreen Bay Packers\n\nLos Angeles Rams\n\nGreen Bay Packers, POINTS PER GAME, 22.6, ranked 14th.\n\n22\\.6\n\n14TH\n\nPOINTS PER GAME\n\nLos Angeles Rams, POINTS PER GAME, 24.8, ranked 12th.\n\n24\\.8\n\n12TH"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "NFL.com says the Rams had won four straight and discusses their Week 11 bye before the games that follow it.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-power-rankings-week-11-2026-nfl-season",
+          "excerpts": [
+            "15\n\nRank increased by\n\n2\n\n[Los Angeles Rams 6-4](https://www.nfl.com/teams/los-angeles-rams)\n\nThe Rams have won four straight! Do I trust this winning streak? Nope. Los Angeles is missing nearly all of its key offensive playmakers and needed to resort to 13 and 20 personnel to get the job done [Sunday](https://www.nfl.com/games/rams-at-cardinals-2026-reg-10) ,",
+            "We\u2019ll learn much more about the Rams after their Week 11 bye, with games [against Green Bay](https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=overview) , [Kansas City](https://www.nfl.com/games/chiefs-at-rams-2026-reg-13?tab=overview) and [San Francisco](https://www.nfl.com/games/rams-at-49ers-2026-reg-14?tab=overview) coming out of the break.\n\nRank\n\n16"
+          ],
+          "title": "NFL Power Rankings, Week 11: Vikings vault into top five; Browns, Rams and Commanders on the rise | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Packers\u2019 recent-games listing shows the 30-10 Week 10 loss to Minnesota, while the schedule marks Week 11 as Green Bay\u2019s bye.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "nfl.com/teams/minnesota-vikings) [PACKERS GB PACKERS PACKERS 6 6 wins 4 4 losses 0 0 ties 0\\.6 0\\.6 win percentage](https://www.nfl.com/teams/green-bay-packers)\n\n[See All](https://www.nfl.com/standings)\n\n## Recent Games\n\nPACKERS RAMS\n\n[Week 10 Wk 10 vs versus Minnesota Vikings Logo VIKINGS L Loss 30-10 30 to 10 points Watch Replay Replay"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/green-bay-packers",
+          "excerpts": [
+            "Hidden Score\n  \n* * *\n  \n  Final\n  \n  [Watch Replay](https://www.nfl.com/games/vikings-at-packers-2026-reg-10)\n\n### Week 11\n\nCURRENT WEEK\n\n* PACKERS' BYE WEEK\n\n### Week 12\n\n* [Packers at Rams, Wednesday, November 25th, 8:00 PM, NETFLIX](https://www.nfl.com/games/packers-at-rams-2026-reg-12)\n  \n  LOCAL\n  \n  Green Bay Packers Team Logo PACKERS"
+          ],
+          "title": "NFL 2026 Green Bay Packers Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "NFL.com reports Parsons was medically cleared and set to make his 2026 season debut against the Rams.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/packers-micah-parsons-knee-medically-cleared-set-to-make-season-debut-vs-rams?remove_header",
+          "excerpts": [
+            "The return, finally, of [Micah Parsons](https://www.nfl.com/players/micah-parsons) .\n\nGreen Bay's star pass rusher has been medically cleared and is set to make his 2026 season debut in Wednesday's Thanksgiving Eve game [against](https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=overview) the Rams, NFL Network Insider Ian Rapoport reported on Monday.\n\nThe edge rusher returned to practice on Nov. 4 and currently remains on the team's physically unable to perform list. He was limited at practice on Monday and will need to be officially activated to the 53-man roster ahead of Wednesday's game."
+          ],
+          "title": "NFL Network: Packers' Micah Parsons (knee) medically cleared, set to play vs. Rams | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The season row lists Love\u2019s 2026 passing totals: 2,838 yards, 20 touchdowns, and 7 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/jordan-love/stats",
+          "excerpts": [
+            "# Jordan Love Stats Summary | NFL.com\n\n# Jordan Love\n\nQB \u2022 \\#10\n\n[Green Bay Packers](https://www.nfl.com/teams/green-bay-packers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/jordan-love/)",
+            "|6 |Cowboys |W 23 - 13 |23 |41 |276 |6\\.7 |1 |1 |3 |15 |74\\.8 |4 |12 |3 |1 | | |\n|7 |@Lions |L 17 - 20 |27 |45 |274 |6\\.1 |2 |1 |1 |10 |83 | | | | | | |\n|8 |Panthers |W 27 - 19 |30 |41 |288 |7 |3 |1 |0 |0 |106\\.6 | | | | |0 |0 |\n|9 |@Patriots |W 45 - 27 |23 |29 |372 |12\\.8 |3 |0 |3 |23 |153\\.2 |1 |13 |13 |1 | | |",
+            "|SEASON |TEAM |G |GS |COMP |ATT |YDS |AVG |TD |INT |SCK |SCKY |RATE |ATT |YDS |AVG |TD |FUM |LOST |",
+            "|2024 |Green Bay Packers |15 |15 |268 |425 |3389 |8 |25 |11 |14 |95 |96\\.7 |25 |83 |3\\.3 |1 |4 |0 |\n|2025 |Green Bay Packers |15 |15 |291 |439 |3381 |7\\.7 |23 |6 |21 |169 |101\\.2 |47 |199 |4\\.2 |0 |7 |2 |\n|2026 |Green Bay Packers |10 |10 |232 |368 |2838 |7\\.7 |20 |7 |25 |160 |96\\.9 |13 |23 |1\\.8 |2 |5 |1 |"
+          ],
+          "title": "Jordan Love Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Stafford\u2019s player-stat row identifies him by full name, and the game-center summary lists his 2,623 passing yards, 19 touchdowns, and 10 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/stats/player-stats",
+          "excerpts": [
+            "|[Matthew Stafford](https://www.nfl.com/players/matthew-stafford/) |2623 |7 |372 |248 |66\\.7 |19 |10 |92\\.8 |132 |35\\.5 |29 |7 |64 |15 |112 |"
+          ],
+          "title": "NFL 2026 Player Stats | passing Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12?tab=preview",
+          "excerpts": [
+            "PASSING\n\n[J. Love 2838 YDS 63%CMP 20TD 7INT](https://www.nfl.com/players/jordan-love/stats)\n\nPASSING\n\n[J. Stafford 2623 YDS 66\\.7%CMP 19TD 10INT](https://www.nfl.com/players/matthew-stafford/stats)\n\nRUSHING\n\n[K. Johnson 214 YDS 52ATT 1TD 4\\.1AVG](https://www.nfl.com/players/kaleb-johnson/stats)\n\nRUSHING\n\n[K. Williams 616 YDS 139ATT 6TD 4\\.4AVG](https://www.nfl.com/players/kyren-williams/stats)\n\nRECEIVING\n\n[C. Watson 916 YDS 52REC 7TD 17\\.6AVG](https://www.nfl.com/players/christian-watson/stats)"
+          ],
+          "title": "Green Bay Packers at Los Angeles Rams 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Jordan Love has 2,838 passing yards and 20 TDs this season. His Green Bay Packers play the Los Angeles Rams in Los Angeles on Wednesday, Nov 25. Both teams are 6-4. This is an exciting test in the playoff race! The Rams won 4 straight games before their bye.",
+    "big_words": [
+      {
+        "word": "exciting",
+        "definition": "Something that makes you feel happy and eager.",
+        "example": "Ava had an exciting birthday party with a giant cake."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1007,
+        "output": 185
+      }
+    ]
+  }
+}

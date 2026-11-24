@@ -1,0 +1,322 @@
+{
+  "run_id": "trun_1714e31eeb204d32aaef04110cb57121",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 253.5,
+  "input": {
+    "away_team": "Kansas City Chiefs",
+    "home_team": "Buffalo Bills",
+    "game_date": "2026-11-26",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "8-2",
+    "away_team": "Kansas City Chiefs",
+    "storyline": "This is a significant AFC playoff-position matchup: Buffalo enters 9-1 and atop the AFC East, while Kansas City's result has implications for its AFC top-seed hopes and the AFC West race.",
+    "matchup_notes": [
+      "Kansas City has won three straight, including a 34-7 Week 11 win over Arizona.",
+      "Buffalo beat Miami 26-9 in Week 11.",
+      "Since its Week 7 bye, Buffalo's defense has held opponents to 10, 6, 12 and 9 points in its last four games.",
+      "Patrick Mahomes threw for 324 yards and three touchdowns against Arizona; it was his second straight game with at least 300 passing yards and three touchdowns."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,709 passing yards, 22 TD, 4 INT",
+        "team": "Kansas City Chiefs",
+        "name": "Patrick Mahomes"
+      },
+      {
+        "stat_line": "2,527 passing yards, 14 TD, 9 INT",
+        "team": "Buffalo Bills",
+        "name": "Josh Allen"
+      }
+    ],
+    "home_record": "9-1",
+    "home_team": "Buffalo Bills",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game-center listing gives Kansas City's record as 8-2, or eight wins, two losses and no ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "8-2 8 wins, 2 losses, 0 ties"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing identifies the away team by its full name, Kansas City Chiefs.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "Kansas City Chiefs KC Kansas City Chiefs"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Bills are listed as first in the AFC East with a 9-1 record. ESPN describes the Chiefs-Bills game as important to Kansas City's AFC top-seed hopes and AFC West race, grounding the matchup's playoff-position significance.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/buffalo-bills",
+          "excerpts": [
+            "# Buffalo Bills News, Scores, Stats, Schedule | NFL.com\n\nBuffalo Bills\n\n1st AFC East\n\n9 - 1 - 0"
+          ],
+          "title": "Buffalo Bills News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50435694",
+          "excerpts": [
+            "**Week 9 result:** Beat the Jets [35-12](https://www.espn.com/nfl/game/_/gameId/401873045/jets-chiefs)  \n**Week 9 ranking:** 6\n\n**Most important game of the second half:** [Week 12 at the Bills](https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills)\n\nIf the Chiefs want any shot of earning the AFC's top seed, which would include a first-round bye and home-field advantage in the postseason, they'll have to go on the road and beat one of their biggest rivals. A win over the Bills on Thanksgiving night would also boost the Chiefs' odds of passing the Broncos to win the AFC West crown."
+          ],
+          "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 10 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL game-center results show Kansas City's wins in Weeks 9, 10 and 11, including the 34-7 Arizona result. The NFL's Week 11 recap records Buffalo's 26-9 win over Miami and its defense's four post-bye point totals. The NFL Week 11 aftermath reports Mahomes' 324-yard, three-touchdown performance and his consecutive-game achievement.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "[Week 11 Wk 11 vs versus Arizona Cardinals Logo CARDINALS W Win 7-34 7 to 34 points Watch Replay Replay Button](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?active-tab=watch)"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games?remove_header",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Baltimore Ravens at Carolina Panthers\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh 16\n\n**Late Window**\n\n* New York Jets at Los Angeles Chargers"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Since the Week 7 bye, Buffalo\u2019s defense has held opponents to 10, 6, 12 and 9 points. The Bills have faced struggling offenses, but [Gregory Rousseau](https://www.nfl.com/players/gregory-rousseau)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/news/nfl-week-11-sunday-aftermath-brock-purdy-giants-chiefs-bills",
+          "excerpts": [
+            "Mahomes put up 324 passing yards and three touchdown passes in the trouncing of Arizona. It marked the QB\u2019s second straight game with at least 300 yards _and_ three touchdowns, and the third such game in his last four starts. This is the first time Mahomes has had back-to-back games with 300+ pass yards and three-plus pass touchdowns since Weeks 10 and 11 in 2022, a season which culminated in his second-career MVP award."
+          ],
+          "title": "NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The game center lists each quarterback's season-to-date passing totals: Mahomes has 2,709 yards, 22 touchdowns and four interceptions; Allen has 2,527 yards, 14 touchdowns and nine interceptions. The cited NFL player pages confirm their full names and teams.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "[P. Mahomes 2709 YDS 67\\.1%CMP 22TD 4INT](https://www.nfl.com/players/patrick-mahomes/stats)",
+            "[J. Allen 2527 YDS 64\\.2%CMP 14TD 9INT](https://www.nfl.com/players/josh-allen/stats)"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/patrick-mahomes/stats",
+          "excerpts": [
+            "# Patrick Mahomes Stats Summary | NFL.com\n\n# Patrick Mahomes\n\nQB \u2022 \\#15\n\n[Kansas City Chiefs](https://www.nfl.com/teams/kansas-city-chiefs/)\n\n### active"
+          ],
+          "title": "Patrick Mahomes Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/josh-allen/stats",
+          "excerpts": [
+            "# Josh Allen Stats Summary | NFL.com\n\n# Josh Allen\n\nQB \u2022 \\#17\n\n[Buffalo Bills](https://www.nfl.com/teams/buffalo-bills/)\n\n### active\n\n* [Info](https://www.nfl.com/players/josh-allen/)"
+          ],
+          "title": "Josh Allen Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL game-center listing gives Buffalo's record as 9-1, or nine wins, one loss and no ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "9-1 9 wins, 1 loss, 0 ties"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing identifies the home team by its full name, Buffalo Bills.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "Buffalo Bills BUF Buffalo Bills"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The official schedule lists Chiefs at Bills for Thursday, November 26, in Week 12. That date is after the user's stated current date of November 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/buffalo-bills",
+          "excerpts": [
+            "### Week 12\n\n* [Chiefs at Bills, Thursday, November 26th, 8:20 PM, NBC](https://www.nfl.com/games/chiefs-at-bills-2026-reg-12)\n  \n  LOCAL\n  \n  Kansas City Chiefs Team Logo CHIEFS"
+          ],
+          "title": "NFL 2026 Buffalo Bills Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The game-center recent-results line shows Kansas City's wins in Weeks 9, 10 and 11, with the Week 11 win over Arizona listed as 34-7.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "[Week 11 Wk 11 vs versus Arizona Cardinals Logo CARDINALS W Win 7-34 7 to 34 points Watch Replay Replay Button](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?active-tab=watch)"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 results list states Buffalo beat Miami 26-9.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games?remove_header",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Baltimore Ravens at Carolina Panthers\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh 16\n\n**Late Window**\n\n* New York Jets at Los Angeles Chargers"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The NFL report gives Buffalo's opponents' point totals since the Week 7 bye as 10, 6, 12 and 9.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Since the Week 7 bye, Buffalo\u2019s defense has held opponents to 10, 6, 12 and 9 points. The Bills have faced struggling offenses, but [Gregory Rousseau](https://www.nfl.com/players/gregory-rousseau)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The NFL Week 11 aftermath states Mahomes had 324 passing yards and three touchdowns against Arizona and that it was his second straight game with at least 300 passing yards and three touchdowns.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/news/nfl-week-11-sunday-aftermath-brock-purdy-giants-chiefs-bills",
+          "excerpts": [
+            "Mahomes put up 324 passing yards and three touchdown passes in the trouncing of Arizona. It marked the QB\u2019s second straight game with at least 300 yards _and_ three touchdowns, and the third such game in his last four starts. This is the first time Mahomes has had back-to-back games with 300+ pass yards and three-plus pass touchdowns since Weeks 10 and 11 in 2022, a season which culminated in his second-career MVP award."
+          ],
+          "title": "NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The game center gives Mahomes' current season totals as 2,709 passing yards, 22 touchdowns and four interceptions; the NFL player page identifies him as Patrick Mahomes.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "[P. Mahomes 2709 YDS 67\\.1%CMP 22TD 4INT](https://www.nfl.com/players/patrick-mahomes/stats)"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/patrick-mahomes/stats",
+          "excerpts": [
+            "# Patrick Mahomes Stats Summary | NFL.com\n\n# Patrick Mahomes\n\nQB \u2022 \\#15\n\n[Kansas City Chiefs](https://www.nfl.com/teams/kansas-city-chiefs/)\n\n### active"
+          ],
+          "title": "Patrick Mahomes Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The game center gives Allen's current season totals as 2,527 passing yards, 14 touchdowns and nine interceptions; the NFL player page identifies him as Josh Allen and a Buffalo Bills quarterback.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/chiefs-at-bills-2026-reg-12",
+          "excerpts": [
+            "[J. Allen 2527 YDS 64\\.2%CMP 14TD 9INT](https://www.nfl.com/players/josh-allen/stats)"
+          ],
+          "title": "Kansas City Chiefs at Buffalo Bills 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/josh-allen/stats",
+          "excerpts": [
+            "# Josh Allen Stats Summary | NFL.com\n\n# Josh Allen\n\nQB \u2022 \\#17\n\n[Buffalo Bills](https://www.nfl.com/teams/buffalo-bills/)\n\n### active\n\n* [Info](https://www.nfl.com/players/josh-allen/)"
+          ],
+          "title": "Josh Allen Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.0",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "2,709 passing yards! That is Patrick Mahomes\u2019 total for the 8-2 Kansas City Chiefs. On Thursday, the Chiefs visit the 9-1 Buffalo Bills in Buffalo. Bills QB Josh Allen has 2,527 passing yards and 14 TDs. Kansas City needs this game in its chase for the AFC\u2019s top seed and the AFC West lead.",
+    "big_words": [
+      {
+        "word": "chase",
+        "definition": "To go after something you want.",
+        "example": "Mateo and his puppy chase a butterfly through the garden."
+      }
+    ],
+    "opener": "Start with a striking number from this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1039,
+        "output": 239
+      }
+    ]
+  }
+}

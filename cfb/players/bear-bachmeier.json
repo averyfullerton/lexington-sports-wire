@@ -1,0 +1,51 @@
+{
+  "name": "Bear Bachmeier",
+  "espn_id": "5141367",
+  "team": "BYU Cougars",
+  "team_abbr": "BYU",
+  "number": "47",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Murrieta, CA",
+  "league": "cfb",
+  "fun_facts": [
+    "Bear could dribble a basketball between his legs at age 3.",
+    "Bear asked strangers to throw him a whiffle ball while he stood ready to bat.",
+    "Bear had passing, rushing, and receiving touchdowns in one college game in 2026."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "BYU",
+        "251",
+        "387",
+        "3,033",
+        "15",
+        "7"
+      ],
+      [
+        "2026",
+        "BYU",
+        "185",
+        "299",
+        "2,299",
+        "14",
+        "8"
+      ]
+    ]
+  }
+}

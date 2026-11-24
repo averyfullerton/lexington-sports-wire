@@ -1,0 +1,193 @@
+{
+  "run_id": "trun_415f3f698c1f435bbc711f09af932987",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 196.5,
+  "input": {
+    "player": "Jameson Williams",
+    "team": "Detroit Lions",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "Alabama",
+    "fun_facts": [
+      "Jameson Williams grew up with his siblings on the south side of St. Louis.",
+      "When he was 10, Jameson Williams got up as early as 6 a.m. to train with his family; they called it \u201cThe Williams Six.\u201d",
+      "In high school, Jameson Williams set a state record in the 300-meter hurdles.",
+      "After two seasons at Ohio State, Jameson Williams transferred to Alabama. In 2021, he caught 79 passes for 1,572 yards and 15 touchdowns; eight of those touchdowns covered at least 50 yards, tied for the most by an FBS player in a season over the previous 15 years.",
+      "Jameson Williams scored on a 61-yard run in a Lions playoff game; it was the fifth-longest touchdown in Lions playoff history."
+    ],
+    "draft": "2022, round 1, pick 12"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN profile identifies Alabama as his college. ESPN's career account says he played two seasons at Ohio State before transferring to Alabama, supporting Alabama as the last college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426388/jameson-williams",
+          "excerpts": [
+            "College [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\nDraft Info 2022: Rd 1, Pk 12 (DET)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace St. Louis, MO"
+          ],
+          "title": "Jameson Williams Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41570854/detroit-lions-jameson-williams-journey-nfl-stardom",
+          "excerpts": [
+            "Alabama lost the game 33-18, ending Williams' college career. He had played two seasons at Ohio State before transferring to Alabama, where he broke out. He caught 79 passes for 1,572 yards and 15 touchdowns for the Crimson Tide in 2021, with eight of his TD receptions covering 50 or more yards.\n\nFour months later, the Lions traded up 20 spots to make Williams the 12th selection in the 2022 draft, and the fourth wide receiver taken after [Drake"
+          ],
+          "title": "Lions WR Jameson Williams' complicated journey to NFL stardom - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN passages respectively describe Jameson Williams's St. Louis upbringing, early-morning family training, his high-school hurdles record, his standout Alabama receiving season and long-touchdown milestone, and his long Lions playoff touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41570854/detroit-lions-jameson-williams-journey-nfl-stardom",
+          "excerpts": [
+            "**WILLIAMS GREW UP** with his three siblings in the south side of St. Louis. The family bounced from home to home before settling in a small, two-bedroom house on Winnebago Street when Williams was a teen. The children were closely monitored by their parents. Rules were strict. Williams was not permitted to have a cell phone until high school. And James drove his children everywhere they needed to go.\n\nThrough it all, James and Tianna prepared their children to thrive at the highest levels while remaining grounded. James and Tianna were both track athletes at Sumner High School in St. Louis. Williams' older brother, James Jr., and older sister, Ja'Inna, also ran track at Northwest Missouri State University and Wayland Baptist University, respectively. And Slim played safety at Wayne State."
+          ],
+          "title": "Lions WR Jameson Williams' complicated journey to NFL stardom - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38550286/is-detroit-lions-jameson-williams-ready-launch",
+          "excerpts": [
+            "When he was 10 years old, Williams said he was waking up to train with his parents and siblings as early as 6 a.m. -- a time they called \"The Williams Six.\"\n\nHis parents, James and Tianna Williams, were both track athletes at Sumner High School in St. Louis, Missouri.\n\nHis older brother, James Jr., ran track at Northwest Missouri State University. His older sister, Ja'Inna, ran at Wayland Baptist University. And his younger brother, Jaden -- aka \"Slim\" -- plays safety at Wayne State University in Detroit.\n\n\"So, in the morning, you're pretty much getting up and doing a workout, no matter what sport it is, so you need to get used to that. That was my gift to them,\" James Sr. said."
+          ],
+          "title": "Is Lions WR Jameson Williams finally ready to launch after gambling ban? - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/31383494/former-ohio-state-buckeyes-wr-jameson-williams-transferring-alabama-crimson-tide",
+          "excerpts": [
+            "Williams is known as a speedy receiver who in high school set a state record in the 300-meter hurdles, beating a mark previously held by former Buckeyes running back [Ezekiel"
+          ],
+          "title": "Former Ohio State Buckeyes WR Jameson Williams transferring to Alabama football program - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33822884/detroit-lions-take-michigan-de-aidan-hutchinson-no-2-overall-pick-nfl-draft",
+          "excerpts": [
+            "As a junior, Williams had 79 catches for 1,572 yards and 15 touchdowns, making him one of five FBS players and the only SEC player to eclipse 1,500 receiving yards last season. His eight touchdown catches of 50-plus yards in 2021 were tied for the most in a season by an FBS player over the past 15 seasons."
+          ],
+          "title": "Detroit Lions take Aidan Hutchinson at No. 2, trade up to get Jameson Williams with 12th pick in NFL draft - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43471400/lions-jahmyr-gibbs-scores-1-yard-td-vs-commanders",
+          "excerpts": [
+            "Bridgewater handed the ball off to running [Jahmyr Gibbs](https://www.espn.com/nfl/player/_/id/4429795/jahmyr-gibbs) who tossed it to Williams who did the rest.\n\nWilliams' score is the fifth-longest touchdown in Lions playoff history, and the longest since Ron Rice had a 94-yard blocked field-goal return in the 1999 wild-card game at Washington, per ESPN Research.\n\n> OH MY SAM!!"
+          ],
+          "title": "Lions' Jameson Williams, Sam LaPorta score spectacular TDs - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN bio explicitly lists the 2022 draft information as round 1, pick 12, for Detroit.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4426388/jameson-williams",
+          "excerpts": [
+            "College [Alabama](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n\nDraft Info 2022: Rd 1, Pk 12 (DET)\n\nStatus Active\n\nExperience 5th Season\n\nBirthplace St. Louis, MO"
+          ],
+          "title": "Jameson Williams Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Jameson Williams grew up with his siblings on the south side of St. Louis.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41570854/detroit-lions-jameson-williams-journey-nfl-stardom",
+          "excerpts": [
+            "**WILLIAMS GREW UP** with his three siblings in the south side of St. Louis. The family bounced from home to home before settling in a small, two-bedroom house on Winnebago Street when Williams was a teen. The children were closely monitored by their parents. Rules were strict. Williams was not permitted to have a cell phone until high school. And James drove his children everywhere they needed to go.\n\nThrough it all, James and Tianna prepared their children to thrive at the highest levels while remaining grounded. James and Tianna were both track athletes at Sumner High School in St. Louis. Williams' older brother, James Jr., and older sister, Ja'Inna, also ran track at Northwest Missouri State University and Wayland Baptist University, respectively. And Slim played safety at Wayne State."
+          ],
+          "title": "Lions WR Jameson Williams' complicated journey to NFL stardom - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says he trained with his family as early as 6 a.m. at age 10 and that they called the routine \u201cThe Williams Six.\u201d",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/38550286/is-detroit-lions-jameson-williams-ready-launch",
+          "excerpts": [
+            "When he was 10 years old, Williams said he was waking up to train with his parents and siblings as early as 6 a.m. -- a time they called \"The Williams Six.\"\n\nHis parents, James and Tianna Williams, were both track athletes at Sumner High School in St. Louis, Missouri.\n\nHis older brother, James Jr., ran track at Northwest Missouri State University. His older sister, Ja'Inna, ran at Wayland Baptist University. And his younger brother, Jaden -- aka \"Slim\" -- plays safety at Wayne State University in Detroit.\n\n\"So, in the morning, you're pretty much getting up and doing a workout, no matter what sport it is, so you need to get used to that. That was my gift to them,\" James Sr. said."
+          ],
+          "title": "Is Lions WR Jameson Williams finally ready to launch after gambling ban? - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage states that Williams set a high-school state record in the 300-meter hurdles.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/31383494/former-ohio-state-buckeyes-wr-jameson-williams-transferring-alabama-crimson-tide",
+          "excerpts": [
+            "Williams is known as a speedy receiver who in high school set a state record in the 300-meter hurdles, beating a mark previously held by former Buckeyes running back [Ezekiel"
+          ],
+          "title": "Former Ohio State Buckeyes WR Jameson Williams transferring to Alabama football program - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passages describe his transfer to Alabama and his 2021 totals of 79 catches, 1,572 yards, and 15 touchdowns, including eight scores of 50-plus yards\u2014a mark tied for the most by an FBS player in a season over the stated period.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/41570854/detroit-lions-jameson-williams-journey-nfl-stardom",
+          "excerpts": [
+            "Alabama lost the game 33-18, ending Williams' college career. He had played two seasons at Ohio State before transferring to Alabama, where he broke out. He caught 79 passes for 1,572 yards and 15 touchdowns for the Crimson Tide in 2021, with eight of his TD receptions covering 50 or more yards.\n\nFour months later, the Lions traded up 20 spots to make Williams the 12th selection in the 2022 draft, and the fourth wide receiver taken after [Drake"
+          ],
+          "title": "Lions WR Jameson Williams' complicated journey to NFL stardom - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/33822884/detroit-lions-take-michigan-de-aidan-hutchinson-no-2-overall-pick-nfl-draft",
+          "excerpts": [
+            "As a junior, Williams had 79 catches for 1,572 yards and 15 touchdowns, making him one of five FBS players and the only SEC player to eclipse 1,500 receiving yards last season. His eight touchdown catches of 50-plus yards in 2021 were tied for the most in a season by an FBS player over the past 15 seasons."
+          ],
+          "title": "Detroit Lions take Aidan Hutchinson at No. 2, trade up to get Jameson Williams with 12th pick in NFL draft - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage identifies Williams's 61-yard playoff touchdown as the fifth-longest touchdown in Lions playoff history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43471400/lions-jahmyr-gibbs-scores-1-yard-td-vs-commanders",
+          "excerpts": [
+            "Bridgewater handed the ball off to running [Jahmyr Gibbs](https://www.espn.com/nfl/player/_/id/4429795/jahmyr-gibbs) who tossed it to Williams who did the rest.\n\nWilliams' score is the fifth-longest touchdown in Lions playoff history, and the longest since Ron Rice had a 94-yard blocked field-goal return in the 1999 wild-card game at Washington, per ESPN Research.\n\n> OH MY SAM!!"
+          ],
+          "title": "Lions' Jameson Williams, Sam LaPorta score spectacular TDs - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

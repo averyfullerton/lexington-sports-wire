@@ -1,0 +1,173 @@
+{
+  "run_id": "trun_1d63cf7e4268416e9c2227dda61e6274",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 213.7,
+  "input": {
+    "player": "Ashton Daniels",
+    "team": "Florida State Seminoles",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Ashton Daniels is from Buford, Georgia, and played high school football at Buford High School.",
+      "Against Virginia in 2026, Daniels scored five rushing touchdowns, setting a Florida State quarterback record.",
+      "In that Virginia game, he rushed for a career-best 136 yards on 17 carries.",
+      "In Florida State\u2019s 2026 season opener, he threw a touchdown pass and ran for a touchdown while passing for 202 yards.",
+      "Daniels began his college career at Stanford, where he started for two seasons."
+    ],
+    "high_school": "Buford High School",
+    "hometown": "Buford, Georgia"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The ESPN profile identifies Daniels as being from Buford and attending Buford High School. ESPN\u2019s Virginia recap reports his five-rushing-touchdown Florida State quarterback record, and the same game\u2019s recap gives his career-best rushing total. ESPN\u2019s season-opener recap reports his passing and rushing touchdowns and 202 passing yards. ESPN also reports that he began his career at Stanford and started there for two seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246536/ashton-daniels",
+          "excerpts": [
+            "# Ashton Daniels\n\n* \n\n6-3, 205 | Class of 2022\n\n* Hometown [Buford, Ga.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/14/hometown/3516/class/2022)\n* School [Buford High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/1631)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2022)\n* Status Signed [Stanford](https://www.espn.com/college-sports/football/recruiting/school/_/id/24) 06/28/2021\n\n#### Scout Grade\n\n* 78\n*\n\n|33 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2022/view/position) |\n| --- |"
+          ],
+          "title": "Ashton Daniels Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858253",
+          "excerpts": [
+            "# Ashton Daniels sets Florida State quarterback record with 5 rushing TDs in 38-7 rout of Virginia\n\n1:19\n\n## Virginia Cavaliers vs. Florida State Seminoles: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Oct 4, 2026, 12:46 am\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Ashton Daniels](http://www.espn.com/college-football/player/_/id/4838679/ashton-daniels) had five rushing touchdowns, setting a record for a Florida State quarterback, and the Seminoles had 10 sacks in a 38-7 rout of Virginia on Saturday.\n\nAfter losses to ranked opponents SMU and Alabama, the Seminoles (3-2, 1-1 Atlantic Coast Conference) earned a resounding victory and their first over a Power 4 team in 2026.",
+            "But also seen some incredible work from our players.\u201d\n\nDaniels ran 17 times for a career-best 136 yards and completed 12 of 19 passes for 183 yards with an interception."
+          ],
+          "title": "Florida State 38-7 Virginia (Oct 3, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401864570",
+          "excerpts": [
+            "By AP\n\nUpdated: Aug 30, 2026, 04:30 am\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Ashton Daniels](http://www.espn.com/college-football/player/_/id/4838679/ashton-daniels) passed for 202 yards and had a touchdown passing as well as rushing as Florida State defeated New Mexico State 34-17 in a season opener on Saturday.\n\nAfter starting at Stanford for two seasons and playing at Auburn in four games last fall, Daniels completed 17 of 27 passes with a 4-yard touchdown to [Samuel Singleton Jr](http://www.espn.com/college-football/player/_/id/4870955/samuel-singleton-jr) . and an interception in his debut with the Seminoles. He also had an interception.\n\n\u201cI think the team did well, I think the offense did well,\u201d Daniels said. \u201cObviously, there\u2019s some plays that we want to have back."
+          ],
+          "title": "Florida State 34-17 New Mexico State (Aug 29, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48552190/ashton-daniels-named-starting-quarterback-florida-state",
+          "excerpts": [
+            "> \u2014 FSU Football (@FSUFootball) [April 21, 2026](https://twitter.com/FSUFootball/status/2046638056866791640?ref_src=twsrc%5Etfw)\n\nFlorida State is looking for consistency at the quarterback position after transfers DJ Uiagalelei (2024) and [Tommy Castellanos](https://www.espn.com/college-football/player/_/id/4773919/tommy-castellanos) (2025) each struggled in their respective seasons as starters.\n\nDaniels began his career at [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal) , where he started for two seasons before going to Auburn last season. In his four-year career, Daniels has played in 37 career games with 23 starts, throwing for 4,783 yards and 24 touchdowns while adding 1,397 yards and 11 touchdowns on the ground.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Ashton Daniels named starting quarterback for Florida State - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN profile lists Buford High School as Ashton Daniels\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246536/ashton-daniels",
+          "excerpts": [
+            "# Ashton Daniels\n\n* \n\n6-3, 205 | Class of 2022\n\n* Hometown [Buford, Ga.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/14/hometown/3516/class/2022)\n* School [Buford High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/1631)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2022)\n* Status Signed [Stanford](https://www.espn.com/college-sports/football/recruiting/school/_/id/24) 06/28/2021\n\n#### Scout Grade\n\n* 78\n*\n\n|33 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2022/view/position) |\n| --- |"
+          ],
+          "title": "Ashton Daniels Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN profile explicitly gives Ashton Daniels\u2019s hometown as Buford, Georgia.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246536/ashton-daniels",
+          "excerpts": [
+            "# Ashton Daniels\n\n* \n\n6-3, 205 | Class of 2022\n\n* Hometown [Buford, Ga.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/14/hometown/3516/class/2022)\n* School [Buford High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/1631)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2022)\n* Status Signed [Stanford](https://www.espn.com/college-sports/football/recruiting/school/_/id/24) 06/28/2021\n\n#### Scout Grade\n\n* 78\n*\n\n|33 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2022/view/position) |\n| --- |"
+          ],
+          "title": "Ashton Daniels Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile identifies Buford, Georgia, as Daniels\u2019s hometown and Buford High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/246536/ashton-daniels",
+          "excerpts": [
+            "# Ashton Daniels\n\n* \n\n6-3, 205 | Class of 2022\n\n* Hometown [Buford, Ga.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/14/hometown/3516/class/2022)\n* School [Buford High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/1631)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2022)\n* Status Signed [Stanford](https://www.espn.com/college-sports/football/recruiting/school/_/id/24) 06/28/2021\n\n#### Scout Grade\n\n* 78\n*\n\n|33 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2022/view/position) |\n| --- |"
+          ],
+          "title": "Ashton Daniels Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap says Daniels scored five rushing touchdowns and that this set a record for a Florida State quarterback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858253",
+          "excerpts": [
+            "# Ashton Daniels sets Florida State quarterback record with 5 rushing TDs in 38-7 rout of Virginia\n\n1:19\n\n## Virginia Cavaliers vs. Florida State Seminoles: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Oct 4, 2026, 12:46 am\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Ashton Daniels](http://www.espn.com/college-football/player/_/id/4838679/ashton-daniels) had five rushing touchdowns, setting a record for a Florida State quarterback, and the Seminoles had 10 sacks in a 38-7 rout of Virginia on Saturday.\n\nAfter losses to ranked opponents SMU and Alabama, the Seminoles (3-2, 1-1 Atlantic Coast Conference) earned a resounding victory and their first over a Power 4 team in 2026."
+          ],
+          "title": "Florida State 38-7 Virginia (Oct 3, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap reports that Daniels ran 17 times for a career-best 136 yards in the Virginia game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858253",
+          "excerpts": [
+            "But also seen some incredible work from our players.\u201d\n\nDaniels ran 17 times for a career-best 136 yards and completed 12 of 19 passes for 183 yards with an interception."
+          ],
+          "title": "Florida State 38-7 Virginia (Oct 3, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The season-opener recap says Daniels passed for 202 yards and had both a passing touchdown and a rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401864570",
+          "excerpts": [
+            "By AP\n\nUpdated: Aug 30, 2026, 04:30 am\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [Ashton Daniels](http://www.espn.com/college-football/player/_/id/4838679/ashton-daniels) passed for 202 yards and had a touchdown passing as well as rushing as Florida State defeated New Mexico State 34-17 in a season opener on Saturday.\n\nAfter starting at Stanford for two seasons and playing at Auburn in four games last fall, Daniels completed 17 of 27 passes with a 4-yard touchdown to [Samuel Singleton Jr](http://www.espn.com/college-football/player/_/id/4870955/samuel-singleton-jr) . and an interception in his debut with the Seminoles. He also had an interception.\n\n\u201cI think the team did well, I think the offense did well,\u201d Daniels said. \u201cObviously, there\u2019s some plays that we want to have back."
+          ],
+          "title": "Florida State 34-17 New Mexico State (Aug 29, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN report says Daniels began his career at Stanford and started there for two seasons.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/48552190/ashton-daniels-named-starting-quarterback-florida-state",
+          "excerpts": [
+            "> \u2014 FSU Football (@FSUFootball) [April 21, 2026](https://twitter.com/FSUFootball/status/2046638056866791640?ref_src=twsrc%5Etfw)\n\nFlorida State is looking for consistency at the quarterback position after transfers DJ Uiagalelei (2024) and [Tommy Castellanos](https://www.espn.com/college-football/player/_/id/4773919/tommy-castellanos) (2025) each struggled in their respective seasons as starters.\n\nDaniels began his career at [Stanford](https://www.espn.com/college-football/team/_/id/24/stanford-cardinal) , where he started for two seasons before going to Auburn last season. In his four-year career, Daniels has played in 37 career games with 23 starts, throwing for 4,783 yards and 24 touchdowns while adding 1,397 yards and 11 touchdowns on the ground.\n\nGAMBLING PROBLEM?"
+          ],
+          "title": "Ashton Daniels named starting quarterback for Florida State - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

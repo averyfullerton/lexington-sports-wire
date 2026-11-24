@@ -1,0 +1,505 @@
+{
+  "run_id": "trun_64eebd575c49450598d6f9be3baeb839",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 348.2,
+  "input": {
+    "away_team": "Cincinnati Bengals",
+    "home_team": "Washington Commanders",
+    "game_date": "2026-11-23",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Cincinnati Bengals",
+    "key_plays": [
+      "Q2 1:55: Joe Burrow's 31-yard touchdown pass to Tee Higgins put Cincinnati ahead 10-0.",
+      "Q2 0:12: Jacory Croskey-Merritt's 1-yard rushing touchdown cut the lead to 10-7.",
+      "Q4 2:26: Drew Stevens made a 41-yard field goal to put Washington ahead 19-17.",
+      "Q4 0:46: Evan McPherson made a 56-yard field goal to give Cincinnati a 20-19 lead.",
+      "Q4 0:04: Jayden Daniels completed passes of 22 and 42 yards to Antonio Williams, setting up Drew Stevens's 26-yard walk-off field goal."
+    ],
+    "away_score": 20,
+    "storyline": "Washington ended Cincinnati's five-game winning streak with a 22-20 win. The Commanders scored on six consecutive possessions, their most in a row in 48 years, and Jayden Daniels set up Drew Stevens's walk-off field goal with two late completions to rookie Antonio Williams.",
+    "top_performers": [
+      {
+        "stat_line": "23 of 35, 289 passing yards, 55 rushing yards, 0 passing TD, 0 INT",
+        "team": "Washington Commanders",
+        "name": "Jayden Daniels"
+      },
+      {
+        "stat_line": "9 receptions, 122 yards, 0 TD",
+        "team": "Washington Commanders",
+        "name": "Antonio Williams"
+      },
+      {
+        "stat_line": "28 of 40, 300 yards, 2 TD, 0 INT",
+        "team": "Cincinnati Bengals",
+        "name": "Joe Burrow"
+      },
+      {
+        "stat_line": "5 of 5 field goals, 1 of 1 extra point, 16 points",
+        "team": "Washington Commanders",
+        "name": "Drew Stevens"
+      },
+      {
+        "stat_line": "13 carries, 54 yards, 1 TD",
+        "team": "Washington Commanders",
+        "name": "Jacory Croskey-Merritt"
+      }
+    ],
+    "home_record_after": "4-5-1",
+    "tough_day": [
+      {
+        "stat_line": "6 carries, 6 yards, 0 TD",
+        "team": "Cincinnati Bengals",
+        "name": "Chase Brown"
+      }
+    ],
+    "away_record_after": "7-3",
+    "home_team": "Washington Commanders",
+    "home_score": 22
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official NFL game summary lists the Bengals and Commanders' completed quarter-by-quarter totals, ending 20-22.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Cincinnati Bengals 0 10 7 3 0 20 HOME: Washington Commanders 0 7 6 9 0 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game summary identifies the matchup as Cincinnati Bengals at Washington Commanders.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cincinnati Bengals at Washington Commanders** Start Time: 8:16 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The official scoring summary gives the two second-quarter touchdowns and the fourth-quarter field goals. The official play-by-play records Daniels's late throws to Williams and Stevens's winning kick.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals T.Higgins 31 yd. pass from J.Burrow (E.McPherson kick) (5-77, 2:38) 10 0 2 1:55 Commanders J.Croskey-Merritt 1 yd. run (D.Stevens kick) (9-79, 1:43) 10 7 2 0:12",
+            "Commanders D.Stevens 41 yd. Field Goal (11-56, 6:04) 17 19 4 2:26",
+            "Bengals E.McPherson 56 yd. Field Goal (6-40, 1:40) 20 19 4 0:46",
+            "(:39) (Shotgun) J.Daniels pass deep middle to A.Williams to 50 for 22 yards (B.Cook) [J.Allen]. 1-10-WAS 28 P22 (:24) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-10-50 (:23) (Shotgun) J.Daniels pass deep middle to A.Williams to CIN 8 for 42 yards (D.Turner). 2-10-50 P23 (:05) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-8-CIN 8 **(:04) D.Stevens 26 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.** 2-8-CIN 8 **CIN 20 WAS 22, 5 plays, 64 yards, 0:46 drive, 15:00 elapsed"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official final line gives Cincinnati 20 and Washington 22; Cincinnati is the visitor.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Cincinnati Bengals 0 10 7 3 0 20 HOME: Washington Commanders 0 7 6 9 0 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The reports state Cincinnati had won five straight, describe Washington scoring on six consecutive possessions\u2014a 48-year team high\u2014and the official play-by-play documents the late completions and winning kick.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/instant-analysis-commanders-bengals-monday-night-football",
+          "excerpts": [
+            "They would need a lot to go right against the Bengals, who had won their last five games"
+          ],
+          "title": "Instant analysis | Commanders stun Bengals with 22-20 MNF win"
+        },
+        {
+          "url": "https://africa.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+          "excerpts": [
+            "a last-second 27-yard field goal from [Drew Stevens](https://www.espn.com/nfl/player/_/id/5081335/drew-stevens) in a [22-20 decision](https://africa.espn.com/nfl/game/_/gameId/401873078/bengals-commanders) over the [Cincinnati Bengals](https://africa.espn.com/nfl/team/_/name/cin/cincinnati-bengals) .",
+            "On Monday, he needed only two passes to move the Commanders into field goal position, and both went to rookie [Antonio Williams](https://www.espn.com/nfl/player/_/id/5081432/antonio-williams) , on a 22-yarder across the middle and 42-yarder on a deep crosser to the 8-yard line. Daniels finished with 289 yards passing and 55 more rushing. He also led scoring drives on six consecutive possessions, Washington's most in a row in 48 years."
+          ],
+          "title": "Commanders win again with late-game drive by Jayden Daniels - ESPN"
+        },
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(:39) (Shotgun) J.Daniels pass deep middle to A.Williams to 50 for 22 yards (B.Cook) [J.Allen]. 1-10-WAS 28 P22 (:24) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-10-50 (:23) (Shotgun) J.Daniels pass deep middle to A.Williams to CIN 8 for 42 yards (D.Turner). 2-10-50 P23 (:05) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-8-CIN 8 **(:04) D.Stevens 26 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.** 2-8-CIN 8 **CIN 20 WAS 22, 5 plays, 64 yards, 0:46 drive, 15:00 elapsed"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary provides the passing, rushing, receiving, and kicking figures for these players. The additional reports identify Jayden Daniels, Antonio Williams, Joe Burrow, and Drew Stevens by full name; the roster and team-stat reference support Jacory Croskey-Merritt's full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Perine 26 4.3 0 6 11 J.Daniels 55 9.2 0 6 47 C.Brown 6 1.0 0 6 3 J.Croskey-Merritt 54 4.2 1 13 9 J.Burrow -1 -0.5 0 2 0 A.Ekeler 41 5.9 0 7 17 14 31 2.2 11 0 Total 26 150 5.8 47 1 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Burrow 300 2 40 28 3/19 0 108.3 J.Daniels 289 0 35 23 3/11 0 91.2 42 44",
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Gesicki 77 15.4 0 5 6 A.Williams 122 13.6 0 9 11 42 32",
+            "FG XP 2Pt Rush** **2Pt Rec** **Points Sfty** CIN E.McPherson 0 0 0 0 0 0 0 0 2 2 0 0 8 0 CIN T.Higgins 0 0 1 0 0 0 0 0 0 0 0 0 6 0 CIN C.Young 0 0 1 0 0 0 0 0 0 0 0 0 6 0 WAS D.Stevens 0 0 0 0 0 0 0 0 5 1 0 0 16 0",
+            "C.Brown 6 1.0 0 6 3"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+          "excerpts": [
+            "# Jayden Daniels again delivers in 'high pressure' situation for Commanders\n\n* John Keim Nov 24, 2026, 02:09 AM ET\n  \n  Close\n  \n  John Keim covers the Washington Commanders for ESPN.",
+            "was a second consecutive game-winning drive, this time resulting in a last-second 27-yard [Drew Stevens](https://www.espn.com/nfl/player/_/id/5081335/drew-stevens) field goal and [22-20 win](https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders) over the [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) .",
+            "On Monday, he needed only two passes to move the Commanders into field goal position, and both went to rookie [Antonio Williams](https://www.espn.com/nfl/player/_/id/5081432/antonio-williams) : a 22-yarder across the middle and 42-yarder on a deep crosser to the 8-yard line. Daniels finished with 289 yards passing and 55 more rushing. He also led scoring drives on six consecutive possessions, Washington's most in a row"
+          ],
+          "title": "Commanders win again with late-game drive by Jayden Daniels - ESPN"
+        },
+        {
+          "url": "https://amp.nfl.com/videos/bengals-vs-commanders-highlights-week-11",
+          "excerpts": [
+            "[NOW PLAYING video ### Antonio Williams' best catches in 122-yard game vs. Bengals | Week 11 Watch the best plays from Washington Commanders wide receiver Antonio Williams' 122-yard game vs. the Cincinnati Bengals in Week 11 of the 2026 NFL season.](https://amp.nfl.com/videos/antonio-williams-best-catches-in-122-yard-game-vs-bengals-week-11 \"Antonio Williams' best catches in 122-yard game vs."
+          ],
+          "title": "Cincinnati Bengals vs. Washington Commanders highlights | Week 11"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "Burrow is still Burrow, so he managed 300 yards and two TDs on 28-of-40 passing, but he was constantly thrown off rhythm by Washington\u2019s pass rush.",
+            "Starting the final possession with no timeouts, Daniels zipped a 22-yarder to [Antonio Williams](https://www.nfl.com/players/antonio-williams) down the gut of the Bengals defense to reach midfield. After a spike to save clock, Daniels went right back to Williams on a crosser, placing the ball perfectly past [DJ Turner](https://www.nfl.com/players/dj-turner) to the rookie, who broke free deep into enemy territory. Another spike later, and fellow rookie [Drew Stevens](https://www.nfl.com/players/drew-stevens) was lining up to nail his fifth kick of the night, a 26-yard game-winning stunner."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-vs-bengals-preview-week-11-2026",
+          "excerpts": [
+            "Rushing Yards -- QB Jayden Daniels (280) Rushing TDs -- RB Jacory Croskey-Merritt and QB Jayden Daniels (2)"
+          ],
+          "title": "Commanders vs. Bengals preview | An AFC contender comes to town"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL result reports Washington's postgame record as 4-5-1.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "SCORE\n\n20\n\n[Cincinnati Bengals 7-3](https://www.nfl.com/teams/cincinnati-bengals)\n\nSCORE\n\n22\n\n[Washington Commanders 4-5-1](https://www.nfl.com/teams/washington-commanders)\n\n**REWATCH** : [Bengals-Commanders on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n**READ** : [Commanders' playoff probability sits at 21% after upset](https://www.nfl.com/standings/playoff-picture)\n\n[FULL BOX SCORE](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n\n1. **Daniels, Williams deliver miracle win.** Washington\u2019s ability to hang tough with a Bengals team on an absolute heater was commendable all night."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The game summary shows C. Brown with six carries for six yards and no rushing touchdown; the roster identifies the player as Chase Brown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Brown 6 1.0 0 6 3"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bengals/fmzmdau78liqqlccdnjd",
+          "excerpts": [
+            "RG 66 Dalton Risner 69 Jacob Bayer\n\nROT 71 Amarius Mims 77 Myles Hinton\n\nTE 89 Drew Sample 88 Mike Gesicki 84 Jack Endries\n\n85 Cam Grandy\n\nWR 81 Dohnte Meyers\n\nWR 5 Tee Higgins 86 Colbie Young\n\nQB 9 Joe Burrow 16 Joe Flacco\n\nHB 30 Chase Brown 34 Samaje Perine 25 Tahj Brooks\n\n### **BENGALS OFFENSE**\n\nP 10 Tress Way\n\nK 19 Drew Stevens\n\nH 10 Tress Way\n\nLS 69 Tyler Ott"
+          ],
+          "title": "WASHINGTON COMMANDERS VS. CINCINNATI BENGALS WASHINGTON COMMANDERS VS. CINCINNATI BENGALS"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL result reports Cincinnati's postgame record as 7-3.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "SCORE\n\n20\n\n[Cincinnati Bengals 7-3](https://www.nfl.com/teams/cincinnati-bengals)\n\nSCORE\n\n22\n\n[Washington Commanders 4-5-1](https://www.nfl.com/teams/washington-commanders)\n\n**REWATCH** : [Bengals-Commanders on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n**READ** : [Commanders' playoff probability sits at 21% after upset](https://www.nfl.com/standings/playoff-picture)\n\n[FULL BOX SCORE](https://www.nfl.com/games/bengals-at-commanders-2026-reg-11)\n\n1. **Daniels, Williams deliver miracle win.** Washington\u2019s ability to hang tough with a Bengals team on an absolute heater was commendable all night."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game summary names Washington Commanders as the home team in the matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cincinnati Bengals at Washington Commanders** Start Time: 8:16 PM EST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official final line gives Washington 22 points.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Cincinnati Bengals 0 10 7 3 0 20 HOME: Washington Commanders 0 7 6 9 0 22"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records Higgins's 31-yard touchdown reception from Burrow in the second quarter at 1:55.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals T.Higgins 31 yd. pass from J.Burrow (E.McPherson kick) (5-77, 2:38) 10 0 2 1:55"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The game summary records the Commanders' 1-yard rushing touchdown at 0:12; the team reference supplies Croskey-Merritt's full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Commanders J.Croskey-Merritt 1 yd. run (D.Stevens kick) (9-79, 1:43) 10 7 2 0:12"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-vs-bengals-preview-week-11-2026",
+          "excerpts": [
+            "Rushing Yards -- QB Jayden Daniels (280) Rushing TDs -- RB Jacory Croskey-Merritt and QB Jayden Daniels (2)"
+          ],
+          "title": "Commanders vs. Bengals preview | An AFC contender comes to town"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The official scoring summary records Stevens's 41-yard field goal in the fourth quarter at 2:26.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Commanders D.Stevens 41 yd. Field Goal (11-56, 6:04) 17 19 4 2:26"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The official scoring summary records McPherson's 56-yard field goal in the fourth quarter at 0:46.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Bengals E.McPherson 56 yd. Field Goal (6-40, 1:40) 20 19 4 0:46"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The fourth-quarter play-by-play records Daniels's 22- and 42-yard completions to Williams and Stevens's 26-yard field goal as time expired.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "(:39) (Shotgun) J.Daniels pass deep middle to A.Williams to 50 for 22 yards (B.Cook) [J.Allen]. 1-10-WAS 28 P22 (:24) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-10-50 (:23) (Shotgun) J.Daniels pass deep middle to A.Williams to CIN 8 for 42 yards (D.Turner). 2-10-50 P23 (:05) (No Huddle) J.Daniels spiked the ball to stop the clock. 1-8-CIN 8 **(:04) D.Stevens 26 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.** 2-8-CIN 8 **CIN 20 WAS 22, 5 plays, 64 yards, 0:46 drive, 15:00 elapsed"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The game summary gives Daniels's passing and rushing totals; the game report names him and confirms his 289 passing yards and 55 rushing yards.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Perine 26 4.3 0 6 11 J.Daniels 55 9.2 0 6 47 C.Brown 6 1.0 0 6 3 J.Croskey-Merritt 54 4.2 1 13 9 J.Burrow -1 -0.5 0 2 0 A.Ekeler 41 5.9 0 7 17 14 31 2.2 11 0 Total 26 150 5.8 47 1 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Burrow 300 2 40 28 3/19 0 108.3 J.Daniels 289 0 35 23 3/11 0 91.2 42 44"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+          "excerpts": [
+            "# Jayden Daniels again delivers in 'high pressure' situation for Commanders\n\n* John Keim Nov 24, 2026, 02:09 AM ET\n  \n  Close\n  \n  John Keim covers the Washington Commanders for ESPN.",
+            "was a second consecutive game-winning drive, this time resulting in a last-second 27-yard [Drew Stevens](https://www.espn.com/nfl/player/_/id/5081335/drew-stevens) field goal and [22-20 win](https://www.espn.com/nfl/game/_/gameId/401873078/bengals-commanders) over the [Cincinnati Bengals](https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals) .",
+            "On Monday, he needed only two passes to move the Commanders into field goal position, and both went to rookie [Antonio Williams](https://www.espn.com/nfl/player/_/id/5081432/antonio-williams) : a 22-yarder across the middle and 42-yarder on a deep crosser to the 8-yard line. Daniels finished with 289 yards passing and 55 more rushing. He also led scoring drives on six consecutive possessions, Washington's most in a row"
+          ],
+          "title": "Commanders win again with late-game drive by Jayden Daniels - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official receiving table records Williams's nine catches for 122 yards; the team highlight identifies him by full name and describes the 122-yard game.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "**PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** M.Gesicki 77 15.4 0 5 6 A.Williams 122 13.6 0 9 11 42 32"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://amp.nfl.com/videos/bengals-vs-commanders-highlights-week-11",
+          "excerpts": [
+            "[NOW PLAYING video ### Antonio Williams' best catches in 122-yard game vs. Bengals | Week 11 Watch the best plays from Washington Commanders wide receiver Antonio Williams' 122-yard game vs. the Cincinnati Bengals in Week 11 of the 2026 NFL season.](https://amp.nfl.com/videos/antonio-williams-best-catches-in-122-yard-game-vs-bengals-week-11 \"Antonio Williams' best catches in 122-yard game vs."
+          ],
+          "title": "Cincinnati Bengals vs. Washington Commanders highlights | Week 11"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The game report explicitly states Burrow went 28-of-40 for 300 yards and two touchdowns; the official final box score records no interception.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "Burrow is still Burrow, so he managed 300 yards and two TDs on 28-of-40 passing, but he was constantly thrown off rhythm by Washington\u2019s pass rush."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official scoring information records Stevens's five field goals, one extra point, and 16 points; the report identifies him by full name and describes his winning kick.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "FG XP 2Pt Rush** **2Pt Rec** **Points Sfty** CIN E.McPherson 0 0 0 0 0 0 0 0 2 2 0 0 8 0 CIN T.Higgins 0 0 1 0 0 0 0 0 0 0 0 0 6 0 CIN C.Young 0 0 1 0 0 0 0 0 0 0 0 0 6 0 WAS D.Stevens 0 0 0 0 0 0 0 0 5 1 0 0 16 0"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "Starting the final possession with no timeouts, Daniels zipped a 22-yarder to [Antonio Williams](https://www.nfl.com/players/antonio-williams) down the gut of the Bengals defense to reach midfield. After a spike to save clock, Daniels went right back to Williams on a crosser, placing the ball perfectly past [DJ Turner](https://www.nfl.com/players/dj-turner) to the rookie, who broke free deep into enemy territory. Another spike later, and fellow rookie [Drew Stevens](https://www.nfl.com/players/drew-stevens) was lining up to nail his fifth kick of the night, a 26-yard game-winning stunner."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.4",
+      "reasoning": "The game summary records Croskey-Merritt's 13 carries, 54 yards, and one rushing touchdown; the team reference gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Brown 6 1.0 0 6 3"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.commanders.com/news/commanders-vs-bengals-preview-week-11-2026",
+          "excerpts": [
+            "Rushing Yards -- QB Jayden Daniels (280) Rushing TDs -- RB Jacory Croskey-Merritt and QB Jayden Daniels (2)"
+          ],
+          "title": "Commanders vs. Bengals preview | An AFC contender comes to town"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official rushing line shows six carries for six yards and no touchdown; the roster identifies C. Brown as Chase Brown.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795494250/gamecenter/abbf25b8-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "C.Brown 6 1.0 0 6 3"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/bengals/fmzmdau78liqqlccdnjd",
+          "excerpts": [
+            "RG 66 Dalton Risner 69 Jacob Bayer\n\nROT 71 Amarius Mims 77 Myles Hinton\n\nTE 89 Drew Sample 88 Mike Gesicki 84 Jack Endries\n\n85 Cam Grandy\n\nWR 81 Dohnte Meyers\n\nWR 5 Tee Higgins 86 Colbie Young\n\nQB 9 Joe Burrow 16 Joe Flacco\n\nHB 30 Chase Brown 34 Samaje Perine 25 Tahj Brooks\n\n### **BENGALS OFFENSE**\n\nP 10 Tress Way\n\nK 19 Drew Stevens\n\nH 10 Tress Way\n\nLS 69 Tyler Ott"
+          ],
+          "title": "WASHINGTON COMMANDERS VS. CINCINNATI BENGALS WASHINGTON COMMANDERS VS. CINCINNATI BENGALS"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "storyline",
+      "tough_day",
+      "tough_day.0"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Who won the last kick? Drew Stevens did, giving Washington a 22-20 win over Cincinnati! Joe Burrow first zipped a touchdown pass to Tee Higgins for a 10-0 lead. Washington fought back, but Evan McPherson's 56-yard kick put Cincinnati ahead late. Then Jayden Daniels hit Antonio Williams for 2 long passes. Stevens kicked the winning field goal as time ran out. Washington scored on 6 consecutive drives and ended Cincinnati's 5-game winning run.",
+    "big_words": [
+      {
+        "word": "consecutive",
+        "definition": "Coming one after another, without a break.",
+        "example": "Ethan roasted 3 consecutive marshmallows on his camping trip."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask, then answer it.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1293,
+        "output": 201
+      }
+    ]
+  }
+}

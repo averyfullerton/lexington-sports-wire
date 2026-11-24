@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "LSU",
   "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Jayden won the Heisman Trophy in 2023.",
     "Jayden gained 606 total yards in one college game at LSU.",
@@ -49,10 +52,10 @@
       [
         "2026",
         "WSH",
-        "7",
-        "138",
-        "213",
-        "1,499",
+        "8",
+        "161",
+        "248",
+        "1,788",
         "10",
         "2"
       ]

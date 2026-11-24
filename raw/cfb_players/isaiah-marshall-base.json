@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_1d63cf7e4268416e8fd43b670758e2e6",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 79.3,
+  "input": {
+    "player": "Isaiah Marshall",
+    "team": "Kansas Jayhawks",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In Kansas\u2019s 2026 season opener, Isaiah Marshall threw for 246 yards and two touchdowns.",
+      "Against West Virginia, Isaiah Marshall rushed for a career-high 164 yards and a touchdown.",
+      "In Kansas\u2019s three-overtime game against BYU, Isaiah Marshall passed for 186 yards and two touchdowns, then added 90 rushing yards and another score.",
+      "By Nov. 24, Isaiah Marshall led Kansas in both passing and rushing: 1,868 passing yards and 692 rushing yards, with 11 passing touchdowns and five rushing touchdowns."
+    ],
+    "high_school": "Southfield High School",
+    "hometown": "Southfield, Michigan"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited game recaps report Marshall\u2019s passing production in the season opener, his career-high rushing game against West Virginia, and his passing and rushing output against BYU. The Kansas team-leaders listing gives his 2026 passing and rushing totals and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856769",
+          "excerpts": [
+            "# Kansas shakes off sluggish start, crushes LIU 51-6 in its opener ahead of Border War with Missouri\n\n* * *\n\nBy AP\n\nUpdated: Sep 5, 2026, 12:34 am\n\nFacebook Facebook Messenger Twitter Email\n\nLAWRENCE, Kan. -- \u2014 [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079607/marquawn-mccraney) threw for 246 yards and two touchdowns, [Yasin Willis](http://www.espn.com/college-football/player/_/id/5079752/owen-wafle) ran for 72 yards and two scores in his Kansas debut, and the Jayhawks rolled after a sluggish start to a 51-6 victory over Long Island University in their season-opener on Friday night."
+          ],
+          "title": "Kansas 51-6 Long Island University (Sep 4, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856861",
+          "excerpts": [
+            "# QB Isaiah Marshall's career rushing day leads Kansas over West Virginia 37-14\n\n1:15\n\n## Kansas Jayhawks vs. West Virginia Mountaineers: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 15, 2026, 01:13 am\n\nFacebook Facebook Messenger Twitter Email\n\nMORGANTOWN, W.Va. -- \u2014 [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) rushed for a career-high 164 yards and one touchdown, [Khijohnn Cummings-Coleman](http://www.espn.com/college-football/player/_/id/5146742/khijohnn-cummings-coleman) and [Chase Belcher](http://www.espn.com/college-football/player/_/id/4840113/chase-belcher) each scored twice on the ground and Kansas beat West Virginia 37-14 on Saturday.\n\nKansas (4-6, 2-5 Big 12) had no trouble moving the ball in the first half against the Power Four\u2019s worst defense."
+          ],
+          "title": "Kansas 37-14 West Virginia (Nov 14, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "[Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) had 186 yards passing and two touchdowns for Kansas, along with 90 yards rushing and another score. But the young quarterback was unable to find anyone in the end zone in the third OT, giving the Cougars a chance to finally avenge their 2024 loss in Provo, Utah, when the Jayhawks spoiled their perfect season."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/4/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards Isaiah Marshall ### Isaiah Marshall QB #8 1,868 TD 11 QBR 72\\.1](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall)\n\n[## Rushing Yards Isaiah Marshall ### Isaiah Marshall QB #8 692 CAR 121 TD 5](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall)"
+          ],
+          "title": "Kansas Jayhawks Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting profile identifies Southfield High School as Isaiah Marshall\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/251075/isaiah-marshall",
+          "excerpts": [
+            "# Isaiah Marshall\n\n* \n\n6-0, 210 | Class of 2024\n\n* Hometown [Southfield, Mich.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/28/hometown/3917/class/2024)\n* School Southfield High School\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2024)\n* Status Signed [Kansas](https://www.espn.com/college-sports/football/recruiting/school/_/id/2305) 02/02/2023\n\n#### Scout Grade\n\n* 76\n*\n\n|45 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/quarterback-pocket-passer/class/2024/view/position) |\n| --- |"
+          ],
+          "title": "Isaiah Marshall Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The biography lists Isaiah Marshall\u2019s birthplace as Southfield, Michigan; that supports the hometown entry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5079604/isaiah-marshall",
+          "excerpts": [
+            "Team [Kansas Jayhawks](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\nPosition Quarterback\n\nClass Sophomore\n\nHT/WT 6' 0\", 210 lbs\n\nBirthplace Southfield, MI\n\nStatus Active\n\n### Career History\n\n[Kansas Jayhawks Kansas Jayhawks 2025-CURRENT (2 Seasons)](https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks)\n\nESPN\n\n* [Terms of Use](https://disneytermsofuse.com/english/)"
+          ],
+          "title": "Isaiah Marshall Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recap says Marshall threw for 246 yards and two touchdowns in Kansas\u2019s season opener.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856769",
+          "excerpts": [
+            "# Kansas shakes off sluggish start, crushes LIU 51-6 in its opener ahead of Border War with Missouri\n\n* * *\n\nBy AP\n\nUpdated: Sep 5, 2026, 12:34 am\n\nFacebook Facebook Messenger Twitter Email\n\nLAWRENCE, Kan. -- \u2014 [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079607/marquawn-mccraney) threw for 246 yards and two touchdowns, [Yasin Willis](http://www.espn.com/college-football/player/_/id/5079752/owen-wafle) ran for 72 yards and two scores in his Kansas debut, and the Jayhawks rolled after a sluggish start to a 51-6 victory over Long Island University in their season-opener on Friday night."
+          ],
+          "title": "Kansas 51-6 Long Island University (Sep 4, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The recap explicitly describes 164 rushing yards as Marshall\u2019s career high and reports a rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856861",
+          "excerpts": [
+            "# QB Isaiah Marshall's career rushing day leads Kansas over West Virginia 37-14\n\n1:15\n\n## Kansas Jayhawks vs. West Virginia Mountaineers: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 15, 2026, 01:13 am\n\nFacebook Facebook Messenger Twitter Email\n\nMORGANTOWN, W.Va. -- \u2014 [Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) rushed for a career-high 164 yards and one touchdown, [Khijohnn Cummings-Coleman](http://www.espn.com/college-football/player/_/id/5146742/khijohnn-cummings-coleman) and [Chase Belcher](http://www.espn.com/college-football/player/_/id/4840113/chase-belcher) each scored twice on the ground and Kansas beat West Virginia 37-14 on Saturday.\n\nKansas (4-6, 2-5 Big 12) had no trouble moving the ball in the first half against the Power Four\u2019s worst defense."
+          ],
+          "title": "Kansas 37-14 West Virginia (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The recap reports 186 passing yards, two passing touchdowns, 90 rushing yards, and another score against BYU.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856866",
+          "excerpts": [
+            "[Isaiah Marshall](http://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall) had 186 yards passing and two touchdowns for Kansas, along with 90 yards rushing and another score. But the young quarterback was unable to find anyone in the end zone in the third OT, giving the Cougars a chance to finally avenge their 2024 loss in Provo, Utah, when the Jayhawks spoiled their perfect season."
+          ],
+          "title": "BYU 31-29 Kansas (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The team-leaders listing gives Marshall 1,868 passing yards and 11 passing touchdowns, plus 692 rushing yards and five rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/4/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards Isaiah Marshall ### Isaiah Marshall QB #8 1,868 TD 11 QBR 72\\.1](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall)\n\n[## Rushing Yards Isaiah Marshall ### Isaiah Marshall QB #8 692 CAR 121 TD 5](https://www.espn.com/college-football/player/_/id/5079604/isaiah-marshall)"
+          ],
+          "title": "Kansas Jayhawks Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

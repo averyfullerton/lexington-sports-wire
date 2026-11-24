@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Mississippi State",
   "experience": 11,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Dak played football on streets and in parking lots.",
     "Dak left college with 38 school records.",
@@ -129,11 +132,11 @@
       [
         "2026",
         "DAL",
-        "10",
-        "248",
-        "387",
-        "2,724",
-        "21",
+        "11",
+        "276",
+        "420",
+        "3,049",
+        "25",
         "6"
       ]
     ]

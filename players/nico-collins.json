@@ -1,0 +1,87 @@
+{
+  "name": "Nico Collins",
+  "espn_id": "4258173",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "12",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "Michigan",
+  "experience": 6,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Nico also played basketball in high school.",
+    "Nico caught 25 touchdowns in his last two high school seasons.",
+    "Nico had 1,297 receiving yards and eight touchdowns for the Texans in 2023."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2021",
+        "HOU",
+        "14",
+        "33",
+        "446",
+        "1",
+        "32"
+      ],
+      [
+        "2022",
+        "HOU",
+        "10",
+        "37",
+        "481",
+        "2",
+        "58"
+      ],
+      [
+        "2023",
+        "HOU",
+        "15",
+        "80",
+        "1,297",
+        "8",
+        "75"
+      ],
+      [
+        "2024",
+        "HOU",
+        "12",
+        "68",
+        "1,006",
+        "7",
+        "67"
+      ],
+      [
+        "2025",
+        "HOU",
+        "15",
+        "71",
+        "1,117",
+        "6",
+        "57"
+      ],
+      [
+        "2026",
+        "HOU",
+        "8",
+        "40",
+        "536",
+        "6",
+        "45"
+      ]
+    ]
+  }
+}

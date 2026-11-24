@@ -1,0 +1,149 @@
+{
+  "run_id": "trun_1d63cf7e4268416eba26f4413ebdfe31",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 176.6,
+  "input": {
+    "player": "Mason Bonner",
+    "team": "Michigan Wolverines",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Mason Bonner\u2019s recruiting profile lists Denver, Colorado, as his hometown.",
+      "He played high school football at J. K. Mullen High School.",
+      "At Michigan, he was listed as a 6-foot-7 freshman tight end wearing No. 18.",
+      "Against No. 4 UCLA, Bonner caught a 6-yard touchdown pass from Bryce Underwood. Michigan went on to win 18\u201316 in triple overtime."
+    ],
+    "high_school": "J. K. Mullen High School",
+    "hometown": "Denver, Colorado"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The recruiting profile identifies Denver as Bonner\u2019s hometown and J. K. Mullen High School as his school. His ESPN player bio gives his freshman status, tight end position, height, and jersey number. ESPN\u2019s UCLA game entry identifies his 6-yard touchdown and Michigan\u2019s triple-overtime win over No. 4 UCLA.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265250/mason-bonner",
+          "excerpts": [
+            "# Mason Bonner\n\n* \n\n6-6, 205 | Class of 2026\n\n* Hometown [Denver, Colo.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/8/hometown/2330/class/2026)\n* School [J. K. Mullen High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/6481)\n* Position [Tight End-H](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-H/class/2026)\n* Status Signed [Michigan](https://www.espn.com/college-sports/football/recruiting/school/_/id/130) 05/22/2025\n\n#### Scout Grade\n\n* 79\n*\n\n|19 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-h/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Mason Bonner Tight End H Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5276673/mason-bonner",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Mason Bonner\n\nMichigan Wolverines\n\n* [Michigan Wolverines](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n* \\#18\n* TE\n\nFollow\n\n* Class\n  \n  Freshman\n* HT/WT\n  \n  6' 7\", 229 lbs\n* Birthplace\n  \n  Lakewood, CO\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* REC\n  \n  0\n  \n  YDS\n  \n  0\n  \n  TD\n  \n  0\n  \n  AVG\n  \n  0\\.0\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5276673/mason-bonner)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5276673/mason-bonner)"
+          ],
+          "title": "Mason Bonner Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "## Michigan ends UCLA's undefeated season with 3OT win\n* 0:42\n  \n  ## Michigan stuns No. 4 UCLA 18-16 in 3OT\n* 0:51\n  \n  ## Ty Dieffenbach is carted off with injury after first play in OT for UCLA\n* 0:14\n  \n  ## UCLA ties it late on Anthony Woods' TD strike to Brayden Loftin\n* 0:36\n  \n  ## Bryce Underwood throws 6-yard TD pass to Mason Bonner"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "Mason Bonner\u2019s recruiting profile names J. K. Mullen High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265250/mason-bonner",
+          "excerpts": [
+            "# Mason Bonner\n\n* \n\n6-6, 205 | Class of 2026\n\n* Hometown [Denver, Colo.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/8/hometown/2330/class/2026)\n* School [J. K. Mullen High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/6481)\n* Position [Tight End-H](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-H/class/2026)\n* Status Signed [Michigan](https://www.espn.com/college-sports/football/recruiting/school/_/id/130) 05/22/2025\n\n#### Scout Grade\n\n* 79\n*\n\n|19 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-h/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Mason Bonner Tight End H Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "Mason Bonner\u2019s recruiting profile explicitly lists Denver, Colorado, as his hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265250/mason-bonner",
+          "excerpts": [
+            "# Mason Bonner\n\n* \n\n6-6, 205 | Class of 2026\n\n* Hometown [Denver, Colo.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/8/hometown/2330/class/2026)\n* School [J. K. Mullen High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/6481)\n* Position [Tight End-H](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-H/class/2026)\n* Status Signed [Michigan](https://www.espn.com/college-sports/football/recruiting/school/_/id/130) 05/22/2025\n\n#### Scout Grade\n\n* 79\n*\n\n|19 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-h/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Mason Bonner Tight End H Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Denver, Colo., as Bonner\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265250/mason-bonner",
+          "excerpts": [
+            "# Mason Bonner\n\n* \n\n6-6, 205 | Class of 2026\n\n* Hometown [Denver, Colo.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/8/hometown/2330/class/2026)\n* School [J. K. Mullen High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/6481)\n* Position [Tight End-H](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-H/class/2026)\n* Status Signed [Michigan](https://www.espn.com/college-sports/football/recruiting/school/_/id/130) 05/22/2025\n\n#### Scout Grade\n\n* 79\n*\n\n|19 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-h/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Mason Bonner Tight End H Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The profile names J. K. Mullen High School as Bonner\u2019s school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265250/mason-bonner",
+          "excerpts": [
+            "# Mason Bonner\n\n* \n\n6-6, 205 | Class of 2026\n\n* Hometown [Denver, Colo.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/8/hometown/2330/class/2026)\n* School [J. K. Mullen High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/6481)\n* Position [Tight End-H](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/TE-H/class/2026)\n* Status Signed [Michigan](https://www.espn.com/college-sports/football/recruiting/school/_/id/130) 05/22/2025\n\n#### Scout Grade\n\n* 79\n*\n\n|19 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/tight-end-h/class/2026/view/position) |\n| --- |"
+          ],
+          "title": "Mason Bonner Tight End H Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The player bio identifies Bonner as a freshman tight end and lists him at 6'7\" and No. 18.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5276673/mason-bonner",
+          "excerpts": [
+            "[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Mason Bonner\n\nMichigan Wolverines\n\n* [Michigan Wolverines](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines)\n* \\#18\n* TE\n\nFollow\n\n* Class\n  \n  Freshman\n* HT/WT\n  \n  6' 7\", 229 lbs\n* Birthplace\n  \n  Lakewood, CO\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* REC\n  \n  0\n  \n  YDS\n  \n  0\n  \n  TD\n  \n  0\n  \n  AVG\n  \n  0\\.0\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5276673/mason-bonner)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5276673/mason-bonner)"
+          ],
+          "title": "Mason Bonner Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game entry describes Underwood\u2019s 6-yard touchdown pass to Bonner and reports Michigan\u2019s 18\u201316 triple-overtime win over No. 4 UCLA.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan",
+          "excerpts": [
+            "## Michigan ends UCLA's undefeated season with 3OT win\n* 0:42\n  \n  ## Michigan stuns No. 4 UCLA 18-16 in 3OT\n* 0:51\n  \n  ## Ty Dieffenbach is carted off with injury after first play in OT for UCLA\n* 0:14\n  \n  ## UCLA ties it late on Anthony Woods' TD strike to Brayden Loftin\n* 0:36\n  \n  ## Bryce Underwood throws 6-yard TD pass to Mason Bonner"
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

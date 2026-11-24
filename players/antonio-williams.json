@@ -8,6 +8,9 @@
   "position_abbr": "WR",
   "college": "Clemson",
   "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Antonio made 207 catches and scored 21 touchdowns at Clemson.",
     "Antonio scored nine receiving touchdowns of at least 20 yards since 2024.",
@@ -28,11 +31,11 @@
       [
         "2026",
         "WSH",
-        "9",
-        "28",
-        "326",
+        "10",
+        "37",
+        "448",
         "2",
-        "33"
+        "42"
       ]
     ]
   }

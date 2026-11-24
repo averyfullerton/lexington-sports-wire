@@ -1,0 +1,373 @@
+{
+  "run_id": "trun_acf50aaad34243e08ebf0d944805cd06",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 112.9,
+  "input": {
+    "away_team": "USC Trojans",
+    "home_team": "UCLA Bruins",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "8-3",
+    "away_team": "USC Trojans",
+    "storyline": "A UCLA win over rival USC would send the Bruins to the Big Ten title game, making this matchup consequential to the conference race.",
+    "matchup_notes": [
+      "Entering the matchup, UCLA was 10-1 (7-1 Big Ten) and USC was 8-3 (5-3 Big Ten).",
+      "UCLA\u2019s first loss came against Michigan, 18-16 in triple overtime on Nov. 21.",
+      "USC most recently beat Maryland 35-21; Waymond Jordan and Trent Mosley each scored twice.",
+      "UCLA had not clinched a Big Ten title-game berth after Week 12; a win over USC would send the Bruins to the championship game.",
+      "As of Nov. 23, UCLA quarterback Ty Dieffenbach was not ruled out against USC after a minor hip injury, but he was not yet in the clear."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "3,072 passing yards, 23 TD, 8 INT",
+        "team": "USC Trojans",
+        "name": "Jayden Maiava"
+      },
+      {
+        "stat_line": "875 rushing yards, 13 TD on 157 carries",
+        "team": "UCLA Bruins",
+        "name": "Wayne Knight"
+      },
+      {
+        "stat_line": "1,406 passing yards, 8 TD, 4 INT; availability for USC was uncertain after a minor hip injury",
+        "team": "UCLA Bruins",
+        "name": "Ty Dieffenbach"
+      }
+    ],
+    "home_record": "10-1",
+    "home_team": "UCLA Bruins",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The matchup listing shows USC at 8-3 before the scheduled Nov. 28 game.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858543",
+          "excerpts": [
+            "[USC Trojans USC USC](https://africa.espn.com/college-football/team/_/id/30/usc-trojans)\n\n8-3 , 5-3 Big Ten\n\n28 Nov\n\n8:30 PM\n\n[](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n4\n\n[UCLA Bruins UCLA UCLA](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n10-1 , 7-1 Big Ten\n\n# USC Trojans @ UCLA Bruins"
+          ],
+          "title": "USC vs. UCLA (28 Nov, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup heading identifies USC Trojans as the visiting team and UCLA Bruins as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401858543",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# USC Trojans @ UCLA Bruins\n\n[](https://www.espn.com/college-football/team/_/id/30/usc-trojans)"
+          ],
+          "title": "USC vs. UCLA (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The source states that UCLA would advance to the Big Ten title game with a win over rival USC, establishing the conference-race stakes.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/story/_/id/50555001",
+          "excerpts": [
+            "UCLA would advance to the Big Ten title game with a win next week against rival [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans) , but in the event of a loss, all bets are off,"
+          ],
+          "title": "Best of Week 12: The Year of Parity hits the Big Ten - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited matchup listing supports the teams\u2019 records; the Michigan report gives UCLA\u2019s triple-overtime result; the USC recap reports its Maryland win and two players\u2019 touchdowns; the Week 12 account describes UCLA\u2019s title-game path; and the Nov. 23 report gives Dieffenbach\u2019s injury and status.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858543",
+          "excerpts": [
+            "[USC Trojans USC USC](https://africa.espn.com/college-football/team/_/id/30/usc-trojans)\n\n8-3 , 5-3 Big Ten\n\n28 Nov\n\n8:30 PM\n\n[](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n4\n\n[UCLA Bruins UCLA UCLA](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n10-1 , 7-1 Big Ten\n\n# USC Trojans @ UCLA Bruins"
+          ],
+          "title": "USC vs. UCLA (28 Nov, 2026) Live Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556702/bryce-underwood-michigan-outlast-ucla-triple-over",
+          "excerpts": [
+            "# Bryce Underwood makes most of second chance, sparks Michigan's upset of UCLA\n\n* Associated Press\n\nNov 21, 2026, 08:10 PM ET\n\n* Copy Link Copy Link",
+            "Hoffman](https://www.espn.com/college-football/player/_/id/5156349/jalen-hoffman) , lifting Michigan to an [18-16 triple-overtime win](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) over previously unbeaten No. 4 [UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) on Saturday night.\n\nThe Wolverines (6-5, 3-5 Big Ten) become bowl eligible under embattled coach Kyle Whittingham, who will soon have a new boss who will decide if he will return for a second season with college football's winningest program.\n\nThe Bruins (10-1, 7-1) blew a chance to clinch a spot in the Big Ten championship game and to move a step closer toward earning a first-round bye in the 12-team postseason after entering the game No."
+          ],
+          "title": "Bryce Underwood, Michigan outlast UCLA in triple overtime - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858534",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858534)\n\n# Trent Mosley, Waymond Jordan score 2 TDs apiece in No. 18 USC's 35-21 win over Maryland\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 11:20 pm\n\nFacebook Facebook Messenger Twitter Email",
+            "\u201cYeah, he wasn't very happy,\u201d quarterback [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) said.",
+            "Jordan](http://www.espn.com/college-football/player/_/id/5295318/waymond-jordan) rushed for 80 yards and two more scores, and USC rallied for a 35-21 victory over Maryland on Saturday night."
+          ],
+          "title": "USC 35-21 Maryland (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/story/_/id/50555001",
+          "excerpts": [
+            "UCLA would advance to the Big Ten title game with a win next week against rival [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans) , but in the event of a loss, all bets are off,"
+          ],
+          "title": "Best of Week 12: The Year of Parity hits the Big Ten - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50573866/ucla-qb-dieffenbach-not-ruled-saturday-game-vs-usc",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) quarterback [Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) is \"doing better than we thought\" and there is a chance he could play against ... Dieffenbach was carted off the field during the first overtime of UCLA's [18-16 triple overtime loss](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) at [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) on Saturday in what appeared at the time to be a serious lower-body injury. Dieffenbach suffered what turned out to be a minor hip injury, sources told ESPN's Pete Thamel. \"It's a little bit better than we thought,\" Chesney said. \"We got X-rays right there on the spot, and those were clean. He's nowhere near in the clear, but at the same point in time, he's going to do everything in his power to get himself ready [for USC]."
+          ],
+          "title": "UCLA QB Dieffenbach not ruled out Saturday's game vs. USC - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The player-stat pages provide Maiava\u2019s passing totals, Knight\u2019s rushing totals, and Dieffenbach\u2019s passing totals; the injury update supports the note about Dieffenbach\u2019s uncertain availability.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava",
+          "excerpts": [
+            "* [USC Trojans](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n* \\#14\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 230 lbs\n* Birthplace\n  \n  Palolo, HI\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 230 lbs\n* Birthplace\n  \n  Palolo, HI\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  3,072\n  \n  7th\n  \n  TD\n  \n  23\n  \n  Tied-13th\n  \n  INT\n  \n  8\n  \n  Tied-95th\n  \n  QBR\n  \n  81\\.3\n  \n  12th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/4685454/jayden-maiava)\n\n* [Stats](https://www.espn.com/college-football/player/stats/_/id/4685454/jayden-maiava)"
+          ],
+          "title": "Jayden Maiava - USC Trojans Quarterback - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4912342/wayne-knight",
+          "excerpts": [
+            "# Wayne Knight\n\nUCLA Bruins\n\n* [UCLA Bruins](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n* \\#3\n* Running Back RB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 7\", 193 lbs\n* Birthplace\n  \n  Smyrna, DE\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 7\", 193 lbs\n* Birthplace\n  \n  Smyrna, DE\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  157\n  \n  Tied-40th\n  \n  YDS\n  \n  875\n  \n  29th\n  \n  TD\n  \n  13\n  \n  Tied-11th\n  \n  AVG\n  \n  5\\.6"
+          ],
+          "title": "Wayne Knight - UCLA Bruins Running Back - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5092275/ty-dieffenbach",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Ty Dieffenbach\n\nUCLA Bruins\n\n* [UCLA Bruins](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n* \\#14\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 227 lbs\n* Birthplace\n  \n  Calabasas, CA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 227 lbs\n* Birthplace\n  \n  Calabasas, CA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  1,406\n  \n  105th\n  \n  TD\n  \n  8\n  \n  Tied-111th\n  \n  INT\n  \n  4\n  \n  Tied-27th\n  \n  QBR\n  \n  59\\.9\n  \n  60th"
+          ],
+          "title": "Ty Dieffenbach 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50573866/ucla-qb-dieffenbach-not-ruled-saturday-game-vs-usc",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) quarterback [Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) is \"doing better than we thought\" and there is a chance he could play against ... Dieffenbach was carted off the field during the first overtime of UCLA's [18-16 triple overtime loss](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) at [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) on Saturday in what appeared at the time to be a serious lower-body injury. Dieffenbach suffered what turned out to be a minor hip injury, sources told ESPN's Pete Thamel. \"It's a little bit better than we thought,\" Chesney said. \"We got X-rays right there on the spot, and those were clean. He's nowhere near in the clear, but at the same point in time, he's going to do everything in his power to get himself ready [for USC]."
+          ],
+          "title": "UCLA QB Dieffenbach not ruled out Saturday's game vs. USC - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The matchup listing shows UCLA at 10-1 before the scheduled Nov. 28 game.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858543",
+          "excerpts": [
+            "[USC Trojans USC USC](https://africa.espn.com/college-football/team/_/id/30/usc-trojans)\n\n8-3 , 5-3 Big Ten\n\n28 Nov\n\n8:30 PM\n\n[](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n4\n\n[UCLA Bruins UCLA UCLA](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n10-1 , 7-1 Big Ten\n\n# USC Trojans @ UCLA Bruins"
+          ],
+          "title": "USC vs. UCLA (28 Nov, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup heading identifies UCLA Bruins as the home team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401858543",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\n# USC Trojans @ UCLA Bruins\n\n[](https://www.espn.com/college-football/team/_/id/30/usc-trojans)"
+          ],
+          "title": "USC vs. UCLA (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The game listing schedules the matchup for Nov. 28, 2026; the stated current date is Nov. 24, so it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858543/usc-ucla",
+          "excerpts": [
+            "## Game Information\n\n#### 8:30 PM, November 28, 2026\n\n#### Rose Bowl\n\nPasadena, CA"
+          ],
+          "title": "USC vs. UCLA (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The matchup listing gives UCLA\u2019s 10-1 overall and 7-1 Big Ten records, and USC\u2019s 8-3 overall and 5-3 Big Ten records.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858543",
+          "excerpts": [
+            "[USC Trojans USC USC](https://africa.espn.com/college-football/team/_/id/30/usc-trojans)\n\n8-3 , 5-3 Big Ten\n\n28 Nov\n\n8:30 PM\n\n[](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n4\n\n[UCLA Bruins UCLA UCLA](https://africa.espn.com/college-football/team/_/id/26/ucla-bruins)\n\n10-1 , 7-1 Big Ten\n\n# USC Trojans @ UCLA Bruins"
+          ],
+          "title": "USC vs. UCLA (28 Nov, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The game account identifies the Nov. 21 Michigan game and reports Michigan\u2019s 18-16 triple-overtime win over UCLA.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556702/bryce-underwood-michigan-outlast-ucla-triple-over",
+          "excerpts": [
+            "# Bryce Underwood makes most of second chance, sparks Michigan's upset of UCLA\n\n* Associated Press\n\nNov 21, 2026, 08:10 PM ET\n\n* Copy Link Copy Link",
+            "Hoffman](https://www.espn.com/college-football/player/_/id/5156349/jalen-hoffman) , lifting Michigan to an [18-16 triple-overtime win](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) over previously unbeaten No. 4 [UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) on Saturday night.\n\nThe Wolverines (6-5, 3-5 Big Ten) become bowl eligible under embattled coach Kyle Whittingham, who will soon have a new boss who will decide if he will return for a second season with college football's winningest program.\n\nThe Bruins (10-1, 7-1) blew a chance to clinch a spot in the Big Ten championship game and to move a step closer toward earning a first-round bye in the 12-team postseason after entering the game No."
+          ],
+          "title": "Bryce Underwood, Michigan outlast UCLA in triple overtime - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The USC recap reports the 35-21 win over Maryland and states that Waymond Jordan and Trent Mosley each scored twice.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858534",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858534)\n\n# Trent Mosley, Waymond Jordan score 2 TDs apiece in No. 18 USC's 35-21 win over Maryland\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 11:20 pm\n\nFacebook Facebook Messenger Twitter Email",
+            "\u201cYeah, he wasn't very happy,\u201d quarterback [Jayden Maiava](http://www.espn.com/college-football/player/_/id/4685454/jayden-maiava) said.",
+            "Jordan](http://www.espn.com/college-football/player/_/id/5295318/waymond-jordan) rushed for 80 yards and two more scores, and USC rallied for a 35-21 victory over Maryland on Saturday night."
+          ],
+          "title": "USC 35-21 Maryland (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The sources state that UCLA would advance to the Big Ten title game with a win over USC and that it had not clinched a berth after its Week 12 loss.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/story/_/id/50555001",
+          "excerpts": [
+            "UCLA would advance to the Big Ten title game with a win next week against rival [USC](https://www.espn.com/college-football/team/_/id/30/usc-trojans) , but in the event of a loss, all bets are off,"
+          ],
+          "title": "Best of Week 12: The Year of Parity hits the Big Ten - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858528",
+          "excerpts": [
+            "The Bruins (10-1, 7-1 Big Ten) blew a chance to clinch a spot in the Big Ten championship game and move a step closer toward earning a first-round bye in the 12-team postseason after entering the game No."
+          ],
+          "title": "Michigan 18-16 UCLA (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.4",
+      "reasoning": "The Nov. 23 report says Dieffenbach had a minor hip injury, was not yet in the clear, and still had a chance to play against USC.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50573866/ucla-qb-dieffenbach-not-ruled-saturday-game-vs-usc",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) quarterback [Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) is \"doing better than we thought\" and there is a chance he could play against ... Dieffenbach was carted off the field during the first overtime of UCLA's [18-16 triple overtime loss](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) at [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) on Saturday in what appeared at the time to be a serious lower-body injury. Dieffenbach suffered what turned out to be a minor hip injury, sources told ESPN's Pete Thamel. \"It's a little bit better than we thought,\" Chesney said. \"We got X-rays right there on the spot, and those were clean. He's nowhere near in the clear, but at the same point in time, he's going to do everything in his power to get himself ready [for USC]."
+          ],
+          "title": "UCLA QB Dieffenbach not ruled out Saturday's game vs. USC - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "Maiava\u2019s 2026 season statistics list 3,072 passing yards, 23 touchdowns, and 8 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava",
+          "excerpts": [
+            "* [USC Trojans](https://www.espn.com/college-football/team/_/id/30/usc-trojans)\n* \\#14\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 230 lbs\n* Birthplace\n  \n  Palolo, HI\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 230 lbs\n* Birthplace\n  \n  Palolo, HI\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  3,072\n  \n  7th\n  \n  TD\n  \n  23\n  \n  Tied-13th\n  \n  INT\n  \n  8\n  \n  Tied-95th\n  \n  QBR\n  \n  81\\.3\n  \n  12th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/4685454/jayden-maiava)\n\n* [Stats](https://www.espn.com/college-football/player/stats/_/id/4685454/jayden-maiava)"
+          ],
+          "title": "Jayden Maiava - USC Trojans Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Knight\u2019s 2026 season profile lists 875 rushing yards, 13 touchdowns, and 157 carries.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/4912342/wayne-knight",
+          "excerpts": [
+            "# Wayne Knight\n\nUCLA Bruins\n\n* [UCLA Bruins](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n* \\#3\n* Running Back RB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 7\", 193 lbs\n* Birthplace\n  \n  Smyrna, DE\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  5' 7\", 193 lbs\n* Birthplace\n  \n  Smyrna, DE\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  157\n  \n  Tied-40th\n  \n  YDS\n  \n  875\n  \n  29th\n  \n  TD\n  \n  13\n  \n  Tied-11th\n  \n  AVG\n  \n  5\\.6"
+          ],
+          "title": "Wayne Knight - UCLA Bruins Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "Dieffenbach\u2019s season line lists 1,406 passing yards, 8 touchdowns, and 4 interceptions; the injury report describes his hip injury and says he was not yet in the clear for the USC game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/gamelog/_/id/5092275/ty-dieffenbach",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Ty Dieffenbach\n\nUCLA Bruins\n\n* [UCLA Bruins](https://www.espn.com/college-football/team/_/id/26/ucla-bruins)\n* \\#14\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 227 lbs\n* Birthplace\n  \n  Calabasas, CA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 6\", 227 lbs\n* Birthplace\n  \n  Calabasas, CA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  1,406\n  \n  105th\n  \n  TD\n  \n  8\n  \n  Tied-111th\n  \n  INT\n  \n  4\n  \n  Tied-27th\n  \n  QBR\n  \n  59\\.9\n  \n  60th"
+          ],
+          "title": "Ty Dieffenbach 2026 Stats per Game - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50573866/ucla-qb-dieffenbach-not-ruled-saturday-game-vs-usc",
+          "excerpts": [
+            "[UCLA](https://www.espn.com/college-football/team/_/id/26/ucla-bruins) quarterback [Ty Dieffenbach](https://www.espn.com/college-football/player/_/id/5092275/ty-dieffenbach) is \"doing better than we thought\" and there is a chance he could play against ... Dieffenbach was carted off the field during the first overtime of UCLA's [18-16 triple overtime loss](https://www.espn.com/college-football/game/_/gameId/401858528/ucla-michigan) at [Michigan](https://www.espn.com/college-football/team/_/id/130/michigan-wolverines) on Saturday in what appeared at the time to be a serious lower-body injury. Dieffenbach suffered what turned out to be a minor hip injury, sources told ESPN's Pete Thamel. \"It's a little bit better than we thought,\" Chesney said. \"We got X-rays right there on the spot, and those were clean. He's nowhere near in the clear, but at the same point in time, he's going to do everything in his power to get himself ready [for USC]."
+          ],
+          "title": "UCLA QB Dieffenbach not ruled out Saturday's game vs. USC - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record",
+      "home_record",
+      "matchup_notes",
+      "matchup_notes.0",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "A spot in the Big Ten title game is at stake! On Saturday, No. 10 UCLA (10-1) hosts No. 15 USC (8-3) in California. USC\u2019s Jayden Maiava is in the spotlight with 3,072 passing yards and 23 TDs. UCLA\u2019s Wayne Knight has 875 rushing yards and 13 TDs! A UCLA win would send the Bruins to the Big Ten title game.",
+    "big_words": [
+      {
+        "word": "spotlight",
+        "definition": "The center of everyone\u2019s attention.",
+        "example": "Sofia stepped into the spotlight at her talent show."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1251,
+        "output": 182
+      }
+    ]
+  }
+}

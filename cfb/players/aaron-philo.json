@@ -1,0 +1,60 @@
+{
+  "name": "Aaron Philo",
+  "espn_id": "5132812",
+  "team": "Florida Gators",
+  "team_abbr": "FLA",
+  "number": "12",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Bogart, GA",
+  "league": "cfb",
+  "fun_facts": [
+    "Aaron threw a no-hitter in baseball as a freshman.",
+    "Aaron passed for 13,922 yards in high school, a Georgia record.",
+    "Aaron led Prince Avenue to two straight state championships in high school."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "GT",
+        "38",
+        "74",
+        "565",
+        "1",
+        "2"
+      ],
+      [
+        "2025",
+        "GT",
+        "21",
+        "28",
+        "373",
+        "1",
+        "1"
+      ],
+      [
+        "2026",
+        "FLA",
+        "146",
+        "206",
+        "1,727",
+        "9",
+        "5"
+      ]
+    ]
+  }
+}

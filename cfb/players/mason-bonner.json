@@ -1,0 +1,40 @@
+{
+  "name": "Mason Bonner",
+  "espn_id": "5276673",
+  "team": "Michigan Wolverines",
+  "team_abbr": "MICH",
+  "number": "18",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": null,
+  "experience": null,
+  "class_year": "Freshman",
+  "hometown": "Lakewood, CO",
+  "league": "cfb",
+  "fun_facts": [
+    "Mason caught a 6-yard touchdown pass against UCLA.",
+    "Mason was a 6-foot-7 tight end at Michigan.",
+    "He played high school football at J. K. Mullen."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "MICH",
+        "4",
+        "74",
+        "1",
+        "27"
+      ]
+    ]
+  }
+}

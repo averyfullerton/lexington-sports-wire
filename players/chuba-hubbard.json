@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Oklahoma State",
   "experience": 6,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Chuba set Canadian records in two races as a kid.",
     "Chuba ran for 2,094 yards in college in 2019.",
@@ -73,11 +76,11 @@
       [
         "2026",
         "CAR",
-        "9",
-        "161",
-        "711",
+        "10",
+        "188",
+        "831",
         "4.4",
-        "7"
+        "9"
       ]
     ]
   }

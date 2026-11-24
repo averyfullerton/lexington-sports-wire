@@ -1,0 +1,344 @@
+{
+  "run_id": "trun_acf50aaad34243e0b996ad9c53ce04ae",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 85.9,
+  "input": {
+    "away_team": "Boston College Eagles",
+    "home_team": "Miami Hurricanes",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "5-6",
+    "away_team": "Boston College Eagles",
+    "storyline": "Boston College can become bowl eligible with a win, while Miami has secured a place in the ACC championship game.",
+    "matchup_notes": [
+      "Boston College beat Syracuse 27\u201315 in its Nov. 21 game.",
+      "Miami beat Virginia Tech 28\u201320, with Mark Fletcher Jr. scoring three rushing touchdowns; Miami clinched a place in the ACC championship game.",
+      "Miami had won 12 consecutive ACC games.",
+      "Boston College was 5\u20136, with bowl eligibility still in play."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,798 passing yards, 12 TD",
+        "team": "Boston College Eagles",
+        "name": "Mason McKenzie"
+      },
+      {
+        "stat_line": "3,317 passing yards, 29 TD",
+        "team": "Miami Hurricanes",
+        "name": "Darian Mensah"
+      },
+      {
+        "stat_line": "1,027 receiving yards, 73 receptions, 13 TD",
+        "team": "Miami Hurricanes",
+        "name": "Malachi Toney"
+      }
+    ],
+    "home_record": "10-1",
+    "home_team": "Miami Hurricanes",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Boston College recap lists the Eagles at 5-6 before the game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\n27\n\n5-6 , 3-4 ACC\n\n## Syracuse Orange @ Boston College Eagles"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The cited recap identifies the team as Boston College Eagles.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\n27\n\n5-6 , 3-4 ACC\n\n## Syracuse Orange @ Boston College Eagles"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Boston College still had bowl eligibility in play but would need to win at Miami; Miami's recap says it clinched a spot in the ACC title game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/2192694...",
+          "excerpts": [
+            "Syracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury.\n\nBoston College: Five of the six Eagles\u2019 home games were decided by one score, three of them wins. Becoming bowl eligible is still in play, but it would take a huge upset at Miami."
+          ],
+          "title": "McKenzie throws for 2 TDs and former Syracuse commit MacCormack helps lead BC over Orange 27-15 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858302)\n\n# Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game\n\n1:15\n\n## Virginia Tech Hokies vs. Miami Hurricanes: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 04:30 am\n\nFacebook Facebook Messenger Twitter Email\n\nMIAMI GARDENS, Fla."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited recaps report Boston College's Syracuse win, Miami's Virginia Tech win and ACC-title-game berth, Miami's ACC winning streak, and Boston College's remaining bowl-eligibility opportunity.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/2192694...",
+          "excerpts": [
+            "BOSTON -- \u2014 [Mason McKenzie](https://www.espn.com/college-football/player/_/id/5307005/mason-mckenzie) threw two touchdown passes, former Syracuse commit [Bo MacCormack III](https://www.espn.com/college-football/player/_/id/5208592/bo-maccormack) broke up the middle for a 56-yard score and Boston College beat the Orange 27-15 on Saturday.",
+            "Syracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury.\n\nBoston College: Five of the six Eagles\u2019 home games were decided by one score, three of them wins. Becoming bowl eligible is still in play, but it would take a huge upset at Miami."
+          ],
+          "title": "McKenzie throws for 2 TDs and former Syracuse commit MacCormack helps lead BC over Orange 27-15 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858302)\n\n# Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game\n\n1:15\n\n## Virginia Tech Hokies vs. Miami Hurricanes: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 04:30 am\n\nFacebook Facebook Messenger Twitter Email\n\nMIAMI GARDENS, Fla.",
+            "Miami: The Hurricanes have now won 12 consecutive ACC games, the longest such run in school history."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "ESPN's 2026 team-leader listings give McKenzie's passing yards and touchdowns, and Miami's leader listing gives Mensah's passing totals and Toney's receiving totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/103",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Mason McKenzie ### Mason McKenzie QB #10 1,798 TD 12 QBR 50\\.0](https://www.espn.com/college-football/player/_/id/5307005/mason-mckenzie)"
+          ],
+          "title": "Boston College Eagles Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/2390",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/1/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards Darian Mensah ### Darian Mensah QB #10 3,317 TD 29 QBR 87\\.4](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah)\n\n[## Rushing Yards Javian Mallory ### Javian Mallory RB #21 624 CAR 94 TD 9](https://www.espn.com/college-football/player/_/id/5160496/javian-mallory)\n\n[## Receiving Yards Malachi Toney ### Malachi Toney WR #1 1,027 REC 73 TD 13](https://www.espn.com/college-football/player/_/id/5159175/malachi-toney)"
+          ],
+          "title": "Miami Hurricanes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Miami game recap lists the Hurricanes at 10-1 before the Boston College matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n7\n\n[Miami Hurricanes Miami MIA](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n10-1 , 8-0 ACC\n\n28\n\n10-1 , 8-0 ACC\n\n## Virginia Tech Hokies @ Miami Hurricanes\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami)"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The cited recap identifies the home side as Miami Hurricanes.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n7\n\n[Miami Hurricanes Miami MIA](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n10-1 , 8-0 ACC\n\n28\n\n10-1 , 8-0 ACC\n\n## Virginia Tech Hokies @ Miami Hurricanes\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858302/virginia-tech-miami)"
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule and game preview place Boston College at Miami on Nov. 28, 2026, which is after the stated current date of Nov. 24, 2026; the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/schedule",
+          "excerpts": [
+            "wpcrn=BetSlipDeepLink&wpscid=ESPNcom&wpcrid=SchedulePages&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35043765) |\n\nSaturday, November 28, 2026"
+          ],
+          "title": "College Football Schedule - 2026 Season - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401858311",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\nNov 28\n\n5:00 PM\n\nESPN\n\n[](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n7\n\n[Miami Hurricanes Miami MIA](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes)\n\n10-1 , 8-0 ACC\n\n## Boston College Eagles @ Miami Hurricanes\n\n* [Gamecast](https://www.espn.com/college-football/game/_/gameId/401858311/boston-college-miami)"
+          ],
+          "title": "Boston College vs. Miami (Nov 28, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The recap reports Boston College's 27-15 win over Syracuse, and the game recap is dated Nov. 21, 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/2192694...",
+          "excerpts": [
+            "BOSTON -- \u2014 [Mason McKenzie](https://www.espn.com/college-football/player/_/id/5307005/mason-mckenzie) threw two touchdown passes, former Syracuse commit [Bo MacCormack III](https://www.espn.com/college-football/player/_/id/5208592/bo-maccormack) broke up the middle for a 56-yard score and Boston College beat the Orange 27-15 on Saturday."
+          ],
+          "title": "McKenzie throws for 2 TDs and former Syracuse commit MacCormack helps lead BC over Orange 27-15 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "# McKenzie throws for 2 TDs and former Syracuse commit MacCormack helps lead BC over Orange 27-15\n\n* * *\n\nBy AP\n\nNov 21, 2026, 04:07 pm\n\nFacebook Facebook Messenger Twitter Email"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Miami recap headline states that the Hurricanes beat Virginia Tech 28-20 and clinched a place in the ACC title game, noting Fletcher's three touchdown runs.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858302)\n\n# Fletcher's 3 TD runs lift No. 5 Miami past Virginia Tech 28-20, 'Canes clinch spot in ACC title game\n\n1:15\n\n## Virginia Tech Hokies vs. Miami Hurricanes: Full Highlights\n\n* * *\n\nBy AP\n\nUpdated: Nov 22, 2026, 04:30 am\n\nFacebook Facebook Messenger Twitter Email\n\nMIAMI GARDENS, Fla."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap states that Miami had won 12 consecutive ACC games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858302",
+          "excerpts": [
+            "Miami: The Hurricanes have now won 12 consecutive ACC games, the longest such run in school history."
+          ],
+          "title": "Miami 28-20 Virginia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "Boston College's listed 5-6 record and the recap's statement that bowl eligibility remained in play support this note.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858309",
+          "excerpts": [
+            "[Boston College Eagles Boston College BC](https://www.espn.com/college-football/team/_/id/103/boston-college-eagles)\n\n5-6 , 3-4 ACC\n\n27\n\n5-6 , 3-4 ACC\n\n## Syracuse Orange @ Boston College Eagles"
+          ],
+          "title": "Boston College 27-15 Syracuse (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/2192694...",
+          "excerpts": [
+            "Syracuse: Their path to bowl eligibility just got a lot tougher with a matchup against Notre Dame at home next week and the uncertainty with Angeli\u2019s injury.\n\nBoston College: Five of the six Eagles\u2019 home games were decided by one score, three of them wins. Becoming bowl eligible is still in play, but it would take a huge upset at Miami."
+          ],
+          "title": "McKenzie throws for 2 TDs and former Syracuse commit MacCormack helps lead BC over Orange 27-15 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The Boston College 2026 team-leader listing names Mason McKenzie and shows 1,798 passing yards and 12 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/103",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Mason McKenzie ### Mason McKenzie QB #10 1,798 TD 12 QBR 50\\.0](https://www.espn.com/college-football/player/_/id/5307005/mason-mckenzie)"
+          ],
+          "title": "Boston College Eagles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Miami's 2026 team-leader listing shows Darian Mensah with 3,317 passing yards and 29 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/2390",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/1/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards Darian Mensah ### Darian Mensah QB #10 3,317 TD 29 QBR 87\\.4](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah)\n\n[## Rushing Yards Javian Mallory ### Javian Mallory RB #21 624 CAR 94 TD 9](https://www.espn.com/college-football/player/_/id/5160496/javian-mallory)\n\n[## Receiving Yards Malachi Toney ### Malachi Toney WR #1 1,027 REC 73 TD 13](https://www.espn.com/college-football/player/_/id/5159175/malachi-toney)"
+          ],
+          "title": "Miami Hurricanes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The same 2026 leader listing shows Malachi Toney with 1,027 receiving yards, 73 receptions, and 13 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/2390",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/college-football/standings/_/group/1/view/fbs)\n\n### 2026 Team Leaders\n\n[## Passing Yards Darian Mensah ### Darian Mensah QB #10 3,317 TD 29 QBR 87\\.4](https://www.espn.com/college-football/player/_/id/5121169/darian-mensah)\n\n[## Rushing Yards Javian Mallory ### Javian Mallory RB #21 624 CAR 94 TD 9](https://www.espn.com/college-football/player/_/id/5160496/javian-mallory)\n\n[## Receiving Yards Malachi Toney ### Malachi Toney WR #1 1,027 REC 73 TD 13](https://www.espn.com/college-football/player/_/id/5159175/malachi-toney)"
+          ],
+          "title": "Miami Hurricanes Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record",
+      "away_team",
+      "game_was_played",
+      "home_record",
+      "home_team",
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "matchup_notes.2",
+      "matchup_notes.3",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Boston College beat Syracuse 27-15 in its last game. On Saturday, the 5-6 Eagles visit No. 4 Miami in Florida. The 10-1 Hurricanes have won 12 ACC games in a row! Miami's Darian Mensah has 3,317 passing yards and 29 touchdowns this season. Miami has a spot in the ACC championship game. Boston College has a chance to reach a bowl with a win.",
+    "big_words": [
+      {
+        "word": "chance",
+        "definition": "A possibility that something can happen.",
+        "example": "Leo has a chance to see a lion at the zoo."
+      }
+    ],
+    "opener": "Start with one team's streak or last game.",
+    "attempts": 2,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1148,
+        "output": 137
+      },
+      {
+        "input": 1304,
+        "output": 134
+      }
+    ]
+  }
+}

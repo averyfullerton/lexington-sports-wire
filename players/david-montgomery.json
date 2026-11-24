@@ -1,0 +1,105 @@
+{
+  "name": "David Montgomery",
+  "espn_id": "4035538",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "32",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Iowa State",
+  "experience": 8,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "David scored three touchdowns in his Texans debut, a team record.",
+    "David was called \u201cKnuckles\u201d in Detroit for his strength.",
+    "He led the FBS in broken tackles for two straight seasons."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2019",
+        "CHI",
+        "16",
+        "242",
+        "889",
+        "3.7",
+        "6"
+      ],
+      [
+        "2020",
+        "CHI",
+        "15",
+        "247",
+        "1,070",
+        "4.3",
+        "8"
+      ],
+      [
+        "2021",
+        "CHI",
+        "13",
+        "225",
+        "849",
+        "3.8",
+        "7"
+      ],
+      [
+        "2022",
+        "CHI",
+        "16",
+        "201",
+        "801",
+        "4.0",
+        "5"
+      ],
+      [
+        "2023",
+        "DET",
+        "14",
+        "219",
+        "1,015",
+        "4.6",
+        "13"
+      ],
+      [
+        "2024",
+        "DET",
+        "14",
+        "185",
+        "775",
+        "4.2",
+        "12"
+      ],
+      [
+        "2025",
+        "DET",
+        "17",
+        "158",
+        "716",
+        "4.5",
+        "8"
+      ],
+      [
+        "2026",
+        "HOU",
+        "6",
+        "78",
+        "245",
+        "3.1",
+        "2"
+      ]
+    ]
+  }
+}

@@ -8,6 +8,9 @@
   "position_abbr": "PK",
   "college": "Florida State",
   "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Ryan made a 59-yard field goal in college, the second-longest in school history.",
     "Ryan made four game-winning field goals as an NFL rookie.",
@@ -37,11 +40,11 @@
       [
         "2026",
         "CAR",
-        "9",
-        "15-17",
-        "88.2",
+        "10",
+        "17-19",
+        "89.5",
         "55",
-        "63"
+        "72"
       ]
     ]
   }

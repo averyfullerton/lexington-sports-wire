@@ -1,0 +1,316 @@
+{
+  "run_id": "trun_1714e31eeb204d328ee49c4a8ce203a0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 237.7,
+  "input": {
+    "away_team": "Las Vegas Raiders",
+    "home_team": "Cleveland Browns",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "4-7",
+    "away_team": "Las Vegas Raiders",
+    "storyline": "The NFL moved the Week 12 matchup into Sunday Night Football, and it has AFC playoff implications: Cleveland entered at 6-4 while Las Vegas was 4-7.",
+    "matchup_notes": [
+      "The Raiders entered at 4-7 after losing 38-24 to Denver in Week 11.",
+      "Cleveland's most recent game was a 27-24 win over Houston on Nov. 15, bringing the Browns to 6-4.",
+      "Cleveland had its Week 11 bye before hosting Las Vegas.",
+      "The Browns entered with a 4-0 home record."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "458 passing yards, 3 TD, 1 INT",
+        "team": "Las Vegas Raiders",
+        "name": "Fernando Mendoza"
+      },
+      {
+        "stat_line": "2,118 passing yards, 7 TD, 4 INT",
+        "team": "Cleveland Browns",
+        "name": "Deshaun Watson"
+      }
+    ],
+    "home_record": "6-4",
+    "home_team": "Cleveland Browns",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL game-center listing identifies the Raiders and gives their record as 4-7.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-browns-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nLas Vegas Raiders\n\nLV\n\nLas Vegas Raiders\n\nRAIDERS\n\nLas Vegas Raiders\n\nLAS VEGAS\n\nRAIDERS\n\n4-7\n\n4 wins, 7 losses, 0 ties\n\nCleveland Browns\n\nCLE\n\nCleveland Browns\n\nBROWNS"
+          ],
+          "title": "Las Vegas Raiders at Cleveland Browns 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game-center listing names Las Vegas Raiders as the visiting team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-browns-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nLas Vegas Raiders\n\nLV\n\nLas Vegas Raiders\n\nRAIDERS\n\nLas Vegas Raiders\n\nLAS VEGAS\n\nRAIDERS\n\n4-7\n\n4 wins, 7 losses, 0 ties\n\nCleveland Browns\n\nCLE\n\nCleveland Browns\n\nBROWNS"
+          ],
+          "title": "Las Vegas Raiders at Cleveland Browns 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL flex announcement describes the game as having AFC playoff implications. The standings and Week 11 result establish Cleveland at 6-4 and Las Vegas at 4-7 entering the matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50512634/nfl-flexes-raiders-browns-snf-slot-week-12",
+          "excerpts": [
+            "The NFL has flexed the [Las Vegas Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders) \\- [Cleveland Browns](https://www.espn.com/nfl/team/_/name/cle/cleveland-browns) Week 12 game into NBC's \"Sunday Night Football\" slot, the league announced Tuesday.\n\nThe Nov. 29 matchup will replace the previously scheduled [New England Patriots](https://www.espn.com/nfl/team/_/name/ne/new-england-patriots) \\- [Los Angeles Chargers](https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers) game, which will move to the 4:05 p.m. ET slot.\n\nInstead, Cleveland will host Las Vegas in a primetime game that will have huge implications in the AFC playoff race."
+          ],
+          "title": "NFL flexes Raiders-Browns into SNF slot for Week 12 - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights of the Week 11 matchup between the Las Vegas Raiders and Denver Broncos during the 2026 NFL season.\n\nSCORE\n\n24\n\n[Las Vegas Raiders 4-7](https://www.nfl.com/teams/las-vegas-raiders)\n\nSCORE\n\n38\n\n[Denver Broncos 8-2](https://www.nfl.com/teams/denver-broncos)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/standings/division/2026/REG",
+          "excerpts": [
+            "|[Cleveland Browns Browns](https://www.nfl.com/teams/cleveland-browns/) |6 |4 |0 |0\\.600 |188 |220 |\\-32 |4 - 0 - 0 |2 - 4 - 0 |2 - 1 - 0 |0\\.667 |4 - 3 - 0 |0\\.571 |2 - 1 - 0 |1W |3 - 2 - 0 |\n|[Pittsburgh Steelers Steelers](https://www.nfl.com/teams/pittsburgh-steelers/) |6 |4 |0 |0\\.600 |214 |201 |13 |4 - 0 - 0 |2 - 4 - 0 |2 - 2 - 0"
+          ],
+          "title": "2026 NFL Division Standings"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited sources support the Raiders' Week 11 loss and 4-7 record, Cleveland's latest win and 6-4 record, the Browns' Week 11 bye, and Cleveland's 4-0 home mark.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights of the Week 11 matchup between the Las Vegas Raiders and Denver Broncos during the 2026 NFL season.\n\nSCORE\n\n24\n\n[Las Vegas Raiders 4-7](https://www.nfl.com/teams/las-vegas-raiders)\n\nSCORE\n\n38\n\n[Denver Broncos 8-2](https://www.nfl.com/teams/denver-broncos)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://amp.nfl.com/news/browns-follow-familiar-path-slow-start-fast-finish-and-another-one-score-victory",
+          "excerpts": [
+            "This fourth-quarter thrill ride continued despite another first-quarter clunker, and the Browns defense went from early-game spectator to mostly dominant the rest of the way.\n\nWith a comeback that was unique even in a season full of them, the Browns twice rallied to defeat the Houston Texans, [27-24](https://www.nytimes.com/athletic/7783828/2026/11/15/texans-browns-nfl-week-10-score-result-takeaways/) , to improve to 6-4 and run the tally to six wins via final-quarter drive engineered by Deshaun Watson.",
+            "on a 30-yard pass with 1:11 to go, a play that set the stage for Quinshon Judkins to run in the winning points and for a Cleveland defense to wrap things up with a deserved curtain call.",
+            "After their Week 11 bye, the Browns host the Raiders, Bengals and Falcons."
+          ],
+          "title": "Browns follow familiar path: Slow start, fast finish and another one-score victory"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50512634/nfl-flexes-browns-raiders-snf-slot-week-12",
+          "excerpts": [
+            "The Browns (6-4) currently are the AFC's seventh seed, holding the third and final wild card spot in the conference. Cleveland is 4-0 at home for the first time since 1963.\n\nThe Raiders (4-6) are two games behind Cleveland in the standings."
+          ],
+          "title": "NFL flexes Raiders-Browns into SNF slot for Week 12 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The ESPN player page identifies Mendoza as a Raiders quarterback and gives his 2026 passing totals. The NFL player stats page identifies Watson as a Browns quarterback and lists his 2026 passing totals.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
+          "excerpts": [
+            "Week 10 Week 11 Week 12\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Fernando Mendoza\n\nLas Vegas Raiders\n\n* [Las Vegas Raiders Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n* \\#15\n* Quarterback QB\n\n* HT/WT\n  \n  6' 5\", 225 lbs\n* Birthdate\n  \n  10/1/2003 (23)",
+            "* Draft Info\n  \n  2026: Rd 1, Pk 1 (LV)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* YDS\n  \n  458\n  \n  TD\n  \n  3\n  \n  INT\n  \n  1\n  \n  QBR\n  \n  44\\.0"
+          ],
+          "title": "Fernando Mendoza - Las Vegas Raiders Quarterback - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/deshaun-watson/stats",
+          "excerpts": [
+            "# Deshaun Watson Stats Summary | NFL.com\n\n# Deshaun Watson\n\nQB \u2022 \\#4\n\n[Cleveland Browns](https://www.nfl.com/teams/cleveland-browns/)\n\n### active",
+            "|5 |@Jets |L 12 - 17 |15 |33 |155 |4\\.7 |1 |0 |8 |53 |69\\.6 |6 |40 |6\\.7 |0 |3 |1 |\n|6 |Ravens |W 13 - 10 |16 |26 |164 |6\\.3 |0 |0 |5 |20 |79\\.6 |8 |29 |3\\.6 |0 | | |",
+            "|9 |@Saints |L 22 - 23 | | | | | | | | | | | | | | | |\n|10 |Texans |W 27 - 24 |25 |40 |312 |7\\.8 |0 |1 |4 |32 |76\\.2 |8 |49 |6\\.1 |1 |1 |0 |\n\n## Career Stats\n\n### QB Career",
+            "|2018 |Houston Texans |16 |16 |345 |505 |4165 |8\\.2 |26 |9 |62 |384 |103\\.1 |99 |551 |5\\.6 |5 |9 |3 |",
+            "|2022 |Cleveland Browns |6 |6 |99 |170 |1102 |6\\.5 |7 |5 |20 |106 |79\\.1 |36 |175 |4\\.9 |1 |1 |0 |",
+            "|2026 |Cleveland Browns |9 |9 |188 |289 |2118 |7\\.3 |7 |4 |37 |206 |89\\.1 |59 |266 |4\\.5 |2 |8 |3 |\n|TOTAL | |82 |81 |1715 |2594 |20022 |7\\.7 |130 |52 |281 |1638 |97\\.7 |459 |2408 |5\\.2 |22 |49 |18 |"
+          ],
+          "title": "Deshaun Watson Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL standings row for Cleveland lists six wins, four losses, and no ties.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/standings/division/2026/REG",
+          "excerpts": [
+            "|[Cleveland Browns Browns](https://www.nfl.com/teams/cleveland-browns/) |6 |4 |0 |0\\.600 |188 |220 |\\-32 |4 - 0 - 0 |2 - 4 - 0 |2 - 1 - 0 |0\\.667 |4 - 3 - 0 |0\\.571 |2 - 1 - 0 |1W |3 - 2 - 0 |\n|[Pittsburgh Steelers Steelers](https://www.nfl.com/teams/pittsburgh-steelers/) |6 |4 |0 |0\\.600 |214 |201 |13 |4 - 0 - 0 |2 - 4 - 0 |2 - 2 - 0"
+          ],
+          "title": "2026 NFL Division Standings"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game-center listing identifies Cleveland Browns as the home team.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/raiders-at-browns-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Skip to main content\n\nLas Vegas Raiders\n\nLV\n\nLas Vegas Raiders\n\nRAIDERS\n\nLas Vegas Raiders\n\nLAS VEGAS\n\nRAIDERS\n\n4-7\n\n4 wins, 7 losses, 0 ties\n\nCleveland Browns\n\nCLE\n\nCleveland Browns\n\nBROWNS"
+          ],
+          "title": "Las Vegas Raiders at Cleveland Browns 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists Raiders at Browns for Sunday, November 29. Since the requested current date is November 24, the scheduled game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "SNF football logo\n\n### Sunday Night Football\n\n* [Raiders at Browns, Sunday, November 29th, 8:20 PM, NBC](https://www.nfl.com/games/raiders-at-browns-2026-reg-12)\n  \n  LOCAL\n  \n  Las Vegas Raiders Team Logo RAIDERS\n  \n  Cleveland Browns Team Logo BROWNS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Week 11 result shows Las Vegas at 4-7 after the 38-24 loss to Denver.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Highlights of the Week 11 matchup between the Las Vegas Raiders and Denver Broncos during the 2026 NFL season.\n\nSCORE\n\n24\n\n[Las Vegas Raiders 4-7](https://www.nfl.com/teams/las-vegas-raiders)\n\nSCORE\n\n38\n\n[Denver Broncos 8-2](https://www.nfl.com/teams/denver-broncos)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The recap states Cleveland rallied to beat Houston 27-24 and improved to 6-4.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/browns-follow-familiar-path-slow-start-fast-finish-and-another-one-score-victory",
+          "excerpts": [
+            "This fourth-quarter thrill ride continued despite another first-quarter clunker, and the Browns defense went from early-game spectator to mostly dominant the rest of the way.\n\nWith a comeback that was unique even in a season full of them, the Browns twice rallied to defeat the Houston Texans, [27-24](https://www.nytimes.com/athletic/7783828/2026/11/15/texans-browns-nfl-week-10-score-result-takeaways/) , to improve to 6-4 and run the tally to six wins via final-quarter drive engineered by Deshaun Watson.",
+            "on a 30-yard pass with 1:11 to go, a play that set the stage for Quinshon Judkins to run in the winning points and for a Cleveland defense to wrap things up with a deserved curtain call."
+          ],
+          "title": "Browns follow familiar path: Slow start, fast finish and another one-score victory"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The recap says the Browns would host the Raiders after their Week 11 bye.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/browns-follow-familiar-path-slow-start-fast-finish-and-another-one-score-victory",
+          "excerpts": [
+            "After their Week 11 bye, the Browns host the Raiders, Bengals and Falcons."
+          ],
+          "title": "Browns follow familiar path: Slow start, fast finish and another one-score victory"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The source states Cleveland was 4-0 at home.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50512634/nfl-flexes-browns-raiders-snf-slot-week-12",
+          "excerpts": [
+            "The Browns (6-4) currently are the AFC's seventh seed, holding the third and final wild card spot in the conference. Cleveland is 4-0 at home for the first time since 1963.\n\nThe Raiders (4-6) are two games behind Cleveland in the standings."
+          ],
+          "title": "NFL flexes Raiders-Browns into SNF slot for Week 12 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The ESPN player page identifies Fernando Mendoza with Las Vegas and lists 458 passing yards, three touchdowns, and one interception for 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/4837248/fernando-mendoza",
+          "excerpts": [
+            "Week 10 Week 11 Week 12\n\n[Full Scoreboard \u00bb](https://www.espn.com/nfl/scoreboard)\n\n# Fernando Mendoza\n\nLas Vegas Raiders\n\n* [Las Vegas Raiders Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n* \\#15\n* Quarterback QB\n\n* HT/WT\n  \n  6' 5\", 225 lbs\n* Birthdate\n  \n  10/1/2003 (23)",
+            "* Draft Info\n  \n  2026: Rd 1, Pk 1 (LV)\n* Status\n  \n  Active\n\n## 2026 regular season stats\n\n* YDS\n  \n  458\n  \n  TD\n  \n  3\n  \n  INT\n  \n  1\n  \n  QBR\n  \n  44\\.0"
+          ],
+          "title": "Fernando Mendoza - Las Vegas Raiders Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL player stats page identifies Deshaun Watson with Cleveland and lists 2,118 passing yards, seven touchdowns, and four interceptions for 2026.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/deshaun-watson/stats",
+          "excerpts": [
+            "# Deshaun Watson Stats Summary | NFL.com\n\n# Deshaun Watson\n\nQB \u2022 \\#4\n\n[Cleveland Browns](https://www.nfl.com/teams/cleveland-browns/)\n\n### active",
+            "|5 |@Jets |L 12 - 17 |15 |33 |155 |4\\.7 |1 |0 |8 |53 |69\\.6 |6 |40 |6\\.7 |0 |3 |1 |\n|6 |Ravens |W 13 - 10 |16 |26 |164 |6\\.3 |0 |0 |5 |20 |79\\.6 |8 |29 |3\\.6 |0 | | |",
+            "|9 |@Saints |L 22 - 23 | | | | | | | | | | | | | | | |\n|10 |Texans |W 27 - 24 |25 |40 |312 |7\\.8 |0 |1 |4 |32 |76\\.2 |8 |49 |6\\.1 |1 |1 |0 |\n\n## Career Stats\n\n### QB Career",
+            "|2018 |Houston Texans |16 |16 |345 |505 |4165 |8\\.2 |26 |9 |62 |384 |103\\.1 |99 |551 |5\\.6 |5 |9 |3 |",
+            "|2022 |Cleveland Browns |6 |6 |99 |170 |1102 |6\\.5 |7 |5 |20 |106 |79\\.1 |36 |175 |4\\.9 |1 |1 |0 |",
+            "|2026 |Cleveland Browns |9 |9 |188 |289 |2118 |7\\.3 |7 |4 |37 |206 |89\\.1 |59 |266 |4\\.5 |2 |8 |3 |\n|TOTAL | |82 |81 |1715 |2594 |20022 |7\\.7 |130 |52 |281 |1638 |97\\.7 |459 |2408 |5\\.2 |22 |49 |18 |"
+          ],
+          "title": "Deshaun Watson Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Fernando Mendoza has 458 passing yards and 3 TDs this season. His 4-7 Las Vegas Raiders play the 6-4 Cleveland Browns in Cleveland. They play on Sunday night! This is an important game for the AFC playoff race. The Browns are 4-0 at home!",
+    "big_words": [
+      {
+        "word": "important",
+        "definition": "Something that matters a lot.",
+        "example": "Hana took a deep breath before her important spelling test."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1041,
+        "output": 223
+      }
+    ]
+  }
+}

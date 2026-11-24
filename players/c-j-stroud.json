@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Ohio State",
   "experience": 4,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "C.J. dunked on kindergartners when he was just 3!",
     "C.J. set a college team record with 573 passing yards in the Rose Bowl.",
@@ -59,12 +62,12 @@
       [
         "2026",
         "HOU",
-        "9",
-        "201",
-        "320",
-        "2,462",
-        "19",
-        "3"
+        "10",
+        "222",
+        "347",
+        "2,656",
+        "22",
+        "4"
       ]
     ]
   }

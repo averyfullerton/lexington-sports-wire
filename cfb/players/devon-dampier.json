@@ -1,0 +1,69 @@
+{
+  "name": "Devon Dampier",
+  "espn_id": "5105849",
+  "team": "Utah Utes",
+  "team_abbr": "UTAH",
+  "number": "4",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Phoenix, AZ",
+  "league": "cfb",
+  "fun_facts": [
+    "Devon made a 29-yard catch on a fourth-down trick play against BYU.",
+    "He threw 68-yard and 85-yard touchdown passes and ran for two scores against TCU.",
+    "He ran for 100 yards and two touchdowns against Arizona."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "UNM",
+        "40",
+        "64",
+        "525",
+        "6",
+        "0"
+      ],
+      [
+        "2024",
+        "UNM",
+        "226",
+        "390",
+        "2,768",
+        "12",
+        "12"
+      ],
+      [
+        "2025",
+        "UTAH",
+        "212",
+        "334",
+        "2,490",
+        "24",
+        "5"
+      ],
+      [
+        "2026",
+        "UTAH",
+        "203",
+        "306",
+        "2,535",
+        "24",
+        "8"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "run_id": "trun_acf50aaad34243e09acb8c7642c492c0",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 103.3,
+  "input": {
+    "away_team": "Florida Gators",
+    "home_team": "Florida State Seminoles",
+    "game_date": "2026-11-27",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "7-4",
+    "away_team": "Florida Gators",
+    "storyline": "Florida brings a two-game winning streak to Tallahassee; Florida State is 5-6 after its Nov. 21 loss to NC State, so the Seminoles need a win to reach six victories.",
+    "matchup_notes": [
+      "Florida enters on a two-game winning streak and most recently beat Vanderbilt 34-27 on Nov. 21.",
+      "Florida State lost 28-10 to NC State on Nov. 21.",
+      "In conference play, Florida is 5-4 in the SEC and Florida State is 3-5 in the ACC."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,727 passing yards, 9 TD",
+        "team": "Florida Gators",
+        "name": "Aaron Philo"
+      },
+      {
+        "stat_line": "2,309 passing yards, 14 TD",
+        "team": "Florida State Seminoles",
+        "name": "Ashton Daniels"
+      }
+    ],
+    "home_record": "5-6",
+    "home_team": "Florida State Seminoles",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "Florida's Nov. 21 box score lists the Gators at 7-4 before the Florida State game.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Box Score Play-by-play Drive Chart Team Stats Individual Participation\n\n11/21/2026\n\nBen Hill Griffin Stadium\n\nVanderbilt\n\n4-7 , 1-7\n\n27\n\nFinal\n\n34\n\nFlorida\n\n7-4 , 5-4\n\n|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total |\n| --- | --- | --- | --- | --- | --- |\n|Vanderbilt |3 |21 |0 |3 |27 |\n|Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game-center listing identifies the visiting team as the Florida Gators.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/game-center/27914",
+          "excerpts": [
+            "Skip to main content Pause All Rotators\n\nFlorida Gators\n\nEvents and Results\n\nToggle Calendar Dropdown\n\nReturning to Main Navigation\n\n# Game Center for Football at Florida State on 11/27/2026\n\nFlorida Gators\n\nvs\n\nFlorida State\n\nFri, Nov. 27th\n\n3:30 p.m.\n\n[Watch](https://www.espn.com/watch/player/_/id/4fc96ced-56ad-4917-8ffc-ccd96b2cfd80)"
+          ],
+          "title": "Football at Florida State on 11/27/2026 - Game Center - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "Florida's schedule lists a two-game winning streak. Florida State's record and Nov. 21 result show it was 5-6 after losing to NC State, so a win would bring it to six victories.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/schedule/2026",
+          "excerpts": [
+            "Skip to main content Pause All Rotators\n\nFlorida Gators\n\nEvents and Results\n\nToggle Calendar Dropdown\n\nReturning to Main Navigation\n\n# 2026 Football Schedule\n\nOverall Wins 7 Losses 4\n\nConf Wins 5 Losses 4\n\nStreak\n\nW2\n\nHome Wins 4 Losses 2\n\nAway Wins 3 Losses 1\n\nNeutral Wins 0 Losses 1\n\n## Next Game Information\n\n## at Florida State\n\nFri, Nov 27\n\n3:30 p.m.\n\n0 Days\n\n0 Hours"
+          ],
+          "title": "2026 Football Schedule - Florida Gators"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "[Florida State Seminoles Florida St FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\n5-6 , 3-5 ACC\n\n10\n\n5-6 , 3-5 ACC\n\n## NC State Wolfpack @ Florida State Seminoles",
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858304)\n\n# CJ Bailey, Davion Gause lead NC State to 28-10 win over Florida State\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 08:32 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [CJ Bailey](http://www.espn.com/college-football/player/_/id/5079301/cj-bailey) threw for 292 yards and three touchdowns as NC State defeated Florida State 28-10 on Saturday.\n\n[Davion Gause](http://www.espn.com/college-football/player/_/id/5079468/davion-gause) had 25 carries for 292 yards and added five receptions for 71 yards"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited schedule and box-score/review records establish Florida's two-game streak and Vanderbilt result, Florida State's loss to NC State, and both teams' conference records.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/schedule/2026",
+          "excerpts": [
+            "Skip to main content Pause All Rotators\n\nFlorida Gators\n\nEvents and Results\n\nToggle Calendar Dropdown\n\nReturning to Main Navigation\n\n# 2026 Football Schedule\n\nOverall Wins 7 Losses 4\n\nConf Wins 5 Losses 4\n\nStreak\n\nW2\n\nHome Wins 4 Losses 2\n\nAway Wins 3 Losses 1\n\nNeutral Wins 0 Losses 1\n\n## Next Game Information\n\n## at Florida State\n\nFri, Nov 27\n\n3:30 p.m.\n\n0 Days\n\n0 Hours"
+          ],
+          "title": "2026 Football Schedule - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Box Score Play-by-play Drive Chart Team Stats Individual Participation\n\n11/21/2026\n\nBen Hill Griffin Stadium\n\nVanderbilt\n\n4-7 , 1-7\n\n27\n\nFinal\n\n34\n\nFlorida\n\n7-4 , 5-4\n\n|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total |\n| --- | --- | --- | --- | --- | --- |\n|Vanderbilt |3 |21 |0 |3 |27 |\n|Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "[Florida State Seminoles Florida St FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\n5-6 , 3-5 ACC\n\n10\n\n5-6 , 3-5 ACC\n\n## NC State Wolfpack @ Florida State Seminoles",
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858304)\n\n# CJ Bailey, Davion Gause lead NC State to 28-10 win over Florida State\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 08:32 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [CJ Bailey](http://www.espn.com/college-football/player/_/id/5079301/cj-bailey) threw for 292 yards and three touchdowns as NC State defeated Florida State 28-10 on Saturday.\n\n[Davion Gause](http://www.espn.com/college-football/player/_/id/5079468/davion-gause) had 25 carries for 292 yards and added five receptions for 71 yards"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The 2026 team-leader listings give Aaron Philo's Florida passing totals and Ashton Daniels' Florida State passing totals.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/team/_/id/57/florida-gators",
+          "excerpts": [
+            "[## Passing Yards Aaron Philo ### Aaron Philo QB #12 1,727 TD 9 QBR 77\\.6](https://africa.espn.com/college-football/player/_/id/5132812/aaron-philo)\n\n[## Rushing Yards Jadan Baugh ### Jadan Baugh RB #13 981 CAR 197 TD 16](https://africa.espn.com/college-football/player/_/id/5079322/jadan-baugh)\n\n[## Receiving Yards Dallas Wilson ### Dallas Wilson WR #6 517 REC 41 TD 3](https://africa.espn.com/college-football/player/_/id/5141723/dallas-wilson)\n\n[Full Team Statistics](https://africa.espn.com/college-football/team/stats/_/id/57)\n\n### 2026 Team Stats\n\nPassing Yards\n\n226\\.1\n\n112 th\n\nRushing Yards\n\n169\\.0\n\n49 th\n\nPoints For\n\n31\\.5\n\nTied-36 th\n\nPoints Against\n\n26\\.3\n\nTied-83 rd\n\n[Full Team Stats](https://africa.espn.com/college-football/stats/team)"
+          ],
+          "title": "Florida Gators Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Ashton Daniels ### Ashton Daniels QB #14 2,309 TD 14 QBR 74\\.1](https://www.espn.com/college-football/player/_/id/4838679/ashton-daniels)"
+          ],
+          "title": "Florida State Seminoles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Florida State record shown before its Nov. 21 game is 5-6, which is its record entering the Nov. 27 matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "[Florida State Seminoles Florida St FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\n5-6 , 3-5 ACC\n\n10\n\n5-6 , 3-5 ACC\n\n## NC State Wolfpack @ Florida State Seminoles"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The cited listing names the home team as the Florida State Seminoles.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "[Florida State Seminoles Florida St FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\n5-6 , 3-5 ACC\n\n10\n\n5-6 , 3-5 ACC\n\n## NC State Wolfpack @ Florida State Seminoles"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The game-center listing schedules the game for Nov. 27, 2026; the stated current date is Nov. 24, 2026, so it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/game-center/27914",
+          "excerpts": [
+            "Skip to main content Pause All Rotators\n\nFlorida Gators\n\nEvents and Results\n\nToggle Calendar Dropdown\n\nReturning to Main Navigation\n\n# Game Center for Football at Florida State on 11/27/2026\n\nFlorida Gators\n\nvs\n\nFlorida State\n\nFri, Nov. 27th\n\n3:30 p.m.\n\n[Watch](https://www.espn.com/watch/player/_/id/4fc96ced-56ad-4917-8ffc-ccd96b2cfd80)"
+          ],
+          "title": "Football at Florida State on 11/27/2026 - Game Center - Florida Gators"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "Florida's schedule shows a two-game winning streak, and its Nov. 21 box score records the 34-27 Vanderbilt win.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/schedule/2026",
+          "excerpts": [
+            "Skip to main content Pause All Rotators\n\nFlorida Gators\n\nEvents and Results\n\nToggle Calendar Dropdown\n\nReturning to Main Navigation\n\n# 2026 Football Schedule\n\nOverall Wins 7 Losses 4\n\nConf Wins 5 Losses 4\n\nStreak\n\nW2\n\nHome Wins 4 Losses 2\n\nAway Wins 3 Losses 1\n\nNeutral Wins 0 Losses 1\n\n## Next Game Information\n\n## at Florida State\n\nFri, Nov 27\n\n3:30 p.m.\n\n0 Days\n\n0 Hours"
+          ],
+          "title": "2026 Football Schedule - Florida Gators"
+        },
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Box Score Play-by-play Drive Chart Team Stats Individual Participation\n\n11/21/2026\n\nBen Hill Griffin Stadium\n\nVanderbilt\n\n4-7 , 1-7\n\n27\n\nFinal\n\n34\n\nFlorida\n\n7-4 , 5-4\n\n|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total |\n| --- | --- | --- | --- | --- | --- |\n|Vanderbilt |3 |21 |0 |3 |27 |\n|Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Nov. 21 game recap states that NC State defeated Florida State 28-10.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "* [Videos](https://www.espn.com/college-football/video/_/gameId/401858304)\n\n# CJ Bailey, Davion Gause lead NC State to 28-10 win over Florida State\n\n* * *\n\nBy AP\n\nUpdated: Nov 21, 2026, 08:32 pm\n\nFacebook Facebook Messenger Twitter Email\n\nTALLAHASSEE, Fla. -- \u2014 [CJ Bailey](http://www.espn.com/college-football/player/_/id/5079301/cj-bailey) threw for 292 yards and three touchdowns as NC State defeated Florida State 28-10 on Saturday.\n\n[Davion Gause](http://www.espn.com/college-football/player/_/id/5079468/davion-gause) had 25 carries for 292 yards and added five receptions for 71 yards"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "Florida's box score lists a 5-4 conference record, while Florida State's listing shows a 3-5 ACC record.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/sports/football/stats/2026/vanderbilt/boxscore/27913",
+          "excerpts": [
+            "Box Score Play-by-play Drive Chart Team Stats Individual Participation\n\n11/21/2026\n\nBen Hill Griffin Stadium\n\nVanderbilt\n\n4-7 , 1-7\n\n27\n\nFinal\n\n34\n\nFlorida\n\n7-4 , 5-4\n\n|Team |1st quarter 1 |2nd quarter 2 |3rd quarter 3 |4th quarter 4 |Total |\n| --- | --- | --- | --- | --- | --- |\n|Vanderbilt |3 |21 |0 |3 |27 |\n|Florida |3 |14 |7 |10 |34 |"
+          ],
+          "title": "Football vs Vanderbilt on 11/21/2026 - Box Score - Florida Gators"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858304",
+          "excerpts": [
+            "[Florida State Seminoles Florida St FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\n5-6 , 3-5 ACC\n\n10\n\n5-6 , 3-5 ACC\n\n## NC State Wolfpack @ Florida State Seminoles"
+          ],
+          "title": "NC State 28-10 Florida State (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "Florida's 2026 team-leader listing reports Aaron Philo with 1,727 passing yards and 9 touchdowns.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/team/_/id/57/florida-gators",
+          "excerpts": [
+            "[## Passing Yards Aaron Philo ### Aaron Philo QB #12 1,727 TD 9 QBR 77\\.6](https://africa.espn.com/college-football/player/_/id/5132812/aaron-philo)\n\n[## Rushing Yards Jadan Baugh ### Jadan Baugh RB #13 981 CAR 197 TD 16](https://africa.espn.com/college-football/player/_/id/5079322/jadan-baugh)\n\n[## Receiving Yards Dallas Wilson ### Dallas Wilson WR #6 517 REC 41 TD 3](https://africa.espn.com/college-football/player/_/id/5141723/dallas-wilson)\n\n[Full Team Statistics](https://africa.espn.com/college-football/team/stats/_/id/57)\n\n### 2026 Team Stats\n\nPassing Yards\n\n226\\.1\n\n112 th\n\nRushing Yards\n\n169\\.0\n\n49 th\n\nPoints For\n\n31\\.5\n\nTied-36 th\n\nPoints Against\n\n26\\.3\n\nTied-83 rd\n\n[Full Team Stats](https://africa.espn.com/college-football/stats/team)"
+          ],
+          "title": "Florida Gators Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "Florida State's 2026 team-leader listing reports Ashton Daniels with 2,309 passing yards and 14 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles",
+          "excerpts": [
+            "### 2026 Team Leaders\n\n[## Passing Yards Ashton Daniels ### Ashton Daniels QB #14 2,309 TD 14 QBR 74\\.1](https://www.espn.com/college-football/player/_/id/4838679/ashton-daniels)"
+          ],
+          "title": "Florida State Seminoles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "home_record",
+      "home_team",
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Florida State needs 1 more win to reach 6! On Friday, the 5-6 Seminoles host the 7-4 No. 20 Florida Gators in Tallahassee. Florida has won 2 games in a row. Watch Ashton Daniels: He has 2,309 passing yards and 14 touchdowns. A win would lift Florida State to 6-6 in the standings!",
+    "big_words": [
+      {
+        "word": "lift",
+        "definition": "To raise something up.",
+        "example": "Ethan can lift the watering can to reach his garden flowers."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1101,
+        "output": 126
+      }
+    ]
+  }
+}

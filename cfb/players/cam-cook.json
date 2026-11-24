@@ -1,0 +1,64 @@
+{
+  "name": "Cam Cook",
+  "espn_id": "4918103",
+  "team": "West Virginia Mountaineers",
+  "team_abbr": "WVU",
+  "number": "4",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Round Rock, TX",
+  "league": "cfb",
+  "fun_facts": [
+    "Cam ran 72 yards on West Virginia\u2019s first play of the 2026 college season.",
+    "Cam led the FBS with 1,659 rushing yards in college in 2025.",
+    "Cam and Michael Hawkins Jr. each ran for over 1,000 yards in college in 2026."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "TCU",
+        "16",
+        "58",
+        "3.6",
+        "0"
+      ],
+      [
+        "2024",
+        "TCU",
+        "119",
+        "460",
+        "3.9",
+        "9"
+      ],
+      [
+        "2025",
+        "JVST",
+        "295",
+        "1,659",
+        "5.6",
+        "16"
+      ],
+      [
+        "2026",
+        "WVU",
+        "243",
+        "1,215",
+        "5.0",
+        "9"
+      ]
+    ]
+  }
+}

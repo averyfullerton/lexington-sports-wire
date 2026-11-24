@@ -1,0 +1,456 @@
+{
+  "run_id": "trun_64eebd575c49450596b02b5765f8c40e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 333.6,
+  "input": {
+    "away_team": "Arizona Cardinals",
+    "home_team": "Kansas City Chiefs",
+    "game_date": "2026-11-22",
+    "season": 2026,
+    "week": 11
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Arizona Cardinals",
+    "key_plays": [
+      "Q1 9:46: Travis Kelce catches an 8-yard touchdown pass from Patrick Mahomes.",
+      "Q1 0:48: Emmett Johnson scores on a 3-yard run.",
+      "Q2 9:48: Simi Fehoko catches a 2-yard touchdown pass from Josh Johnson.",
+      "Q2 1:54: Travis Kelce catches a 22-yard touchdown pass from Patrick Mahomes.",
+      "Q4 14:54: Xavier Worthy catches an 18-yard touchdown pass from Patrick Mahomes."
+    ],
+    "away_score": 7,
+    "storyline": "Kansas City improved to 8-2 with its third straight win, while Arizona fell to 3-8. Patrick Mahomes threw for 324 yards and three touchdowns, his second consecutive game topping 300 passing yards.",
+    "top_performers": [
+      {
+        "stat_line": "27 of 39, 324 yards, 3 TD",
+        "team": "Kansas City Chiefs",
+        "name": "Patrick Mahomes"
+      },
+      {
+        "stat_line": "23 carries, 105 yards, 1 TD; 4 receptions, 38 yards",
+        "team": "Kansas City Chiefs",
+        "name": "Emmett Johnson"
+      },
+      {
+        "stat_line": "6 receptions, 74 yards, 2 TD",
+        "team": "Kansas City Chiefs",
+        "name": "Travis Kelce"
+      },
+      {
+        "stat_line": "2 receptions, 38 yards, 1 TD",
+        "team": "Kansas City Chiefs",
+        "name": "Xavier Worthy"
+      }
+    ],
+    "home_record_after": "8-2",
+    "tough_day": [
+      {
+        "stat_line": "18 of 31, 155 yards, 1 TD, 0 INT, 3 sacks",
+        "team": "Arizona Cardinals",
+        "name": "Josh Johnson"
+      }
+    ],
+    "away_record_after": "3-8",
+    "home_team": "Kansas City Chiefs",
+    "home_score": 34
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The official game-center entry marks this Week 11 matchup Final, establishing that the game was played to completion.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n[Download Game Book (PDF)](https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf)\n\nINFO RECAP STATS HIGHLIGHTS & REPLAYS\n\nTEAM\n\nQ1\n\nQuarter 1\n\nQ2\n\nQuarter 2\n\nQ3\n\nQuarter 3\n\nQ4\n\nQuarter 4\n\nTOTAL\n\nTotal\n\nArizona Cardinals\n\nHidden Score\n\nHidden Score\n\nHidden Score\n\nHidden Score\n\nHidden Score\n\nKansas City Chiefs\n\nHidden Score\n\nHidden Score\n\nHidden Score"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL game summary identifies Arizona Cardinals as the visiting team in the matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Arizona Cardinals at Kansas City Chiefs** Start Time: 12:02 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The NFL game summary lists the game's scoring plays in sequence, including the touchdown scorers, descriptions and quarter-clock times reflected in the answer.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs T.Kelce 8 yd. pass from P.Mahomes (H.Butker kick) (11-72, 5:14) 0 7 1 9:46 Chiefs E.Johnson 3 yd. run (H.Butker kick) (16-80, 7:22) 0 14 1 0:48 Cardinals S.Fehoko 2 yd. pass from J.Johnson (C.Ryland kick) (10-63, 6:00) 7 14 2 9:48 Chiefs H.Butker 40 yd. Field Goal (10-48, 5:16) 7 17 2 4:32 Chiefs T.Kelce 22 yd. pass from P.Mahomes (H.Butker kick) (3-37, 1:04) 7 24 2 1:54 Chiefs H.Butker 44 yd. Field Goal (11-48, 1:10) 7 27 2 0:00 Chiefs X.Worthy 18 yd. pass from P.Mahomes (H.Butker kick) (9-97, 3:11) 7 34 4 14:54"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The official summary's visitor line records the Arizona Cardinals' final total as 7.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "VISITOR: Arizona Cardinals 0 7"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL recap gives both teams' postgame records, identifies Kansas City's win as a blowout, reports Mahomes' 324 yards and three touchdowns, and notes his second straight 300-yard game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 7 [Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals) SCORE 34 [Kansas City Chiefs 8-2](https://www.nfl.com/teams/kansas-city-chiefs) **REWATCH:** [Cardinals-Chiefs on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807) [FULL BOX SCORE](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11) ... **Chiefs handle business in blowout win over Cardinals.** [Patrick Mahomes](https://www.nfl.com/players/patrick-mahomes) diced up Arizona\u2019s defense with T-1000 precision. Before sitting for the bulk of the fourth quarter, the star QB racked up 324 yards on 27-of-39 passing with three touchdowns. It marked the second straight game for Mahomes breaking the 300-yard barrier and the third time in four weeks.",
+            "It was vintage Kelce on [a stick-nod 22-yard TD snag](https://www.nfl.com/videos/can-t-miss-play-mahomes-second-td-connection-with-kelce-is-delivered-amid-swarm-of-cardinals) to blast the game open late in the second quarter. ... Everything was clicking as the Chiefs scored on their first five drives and racked up 435 yards and 27 first downs against the hapless Cards. Rolling over struggling opponents is exactly what good teams do. Much like the Bills, K.C. wasn\u2019t looking ahead to Thanksgiving night, and got a little more rest in the fourth quarter for its efforts."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The NFL game summary supplies the individual rushing, receiving and passing statistics; the NFL recap identifies Mahomes by full name and confirms his passing line. The game highlights identify Emmett Johnson, Travis Kelce and Xavier Worthy by name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Z.Knight 35 5.0 0 7 13 E.Johnson 105 4.6 1 23 16 T.Allgeier 23 3.3 0 7 6 J.Ott 12 2.4 0 5 3 S.Fehoko 7 2.3 0 3 8 N.Carter 3 3.0 0 1 3 J.Johnson 5 2.5 0 2 3 J.Fields -2 -1.0 0 2 -1 T.McBride 4 4.0 0 1 4 Z.Jones 1 1.0 0 1 1 21 75 3.6 13 0 Total 31 118 3.8 16 1 Total **PASSING ATT YDS LG SK/YD TD CMP IN RT PASSING ATT YDS LG SK/YD TD CMP IN RT** J.Johnson 155 1 31 18 3/25 0 82.1 P.Mahomes 324 3 39 27 1/7 0 120.0 26 25 J.Fields 0 0 1 0 0/0 0 39.6 0 40 324 3 27 1/7 0 117.1 18 155 1 31 3/25 0 82.1 Total Total 26 25 **PASS RECEIVING REC YDS LG TD AVG TAR PASS RECEIVING REC YDS LG TD AVG TAR** T.McBride 54 6.0 0 9 14 T.Kelce 74 12.3 2 6 7 **22** 9 H.Wallace 57 14.3 0 4 7 R.Rice 53 8.8 0 6 6 15 25 Z.Jones 17 17.0 0 1 2 J.Downs 59 14.8 0 4 5 26 17 H.Long 11 11.0 0 1 1 E.Johnson 38 9.5 0 4 4 12 11 Z.Knight 10 10.0 0 1 1 N.Gray 21 7.0 0 3 5 12 10 E.Higgins 4 4.0 0 1 1 C.Allen 41 20.5 0 2 4 26 4 S.Fehoko 2 2.0 1 1 5 X.Worthy 38 19.0 1 2 4 20 **2** J.Royals 0 0.0 0 0 1 0 A.Armstrong 0 0.0 0 0 1 0 18 155 8.6 25 1 Total 31 27 324 12.0 26 3 Total 37",
+            "T.McBride 54 6.0 0 9 14 T.Kelce 74 12.3 2 6 7 **22** 9",
+            "S.Fehoko 2 2.0 1 1 5 X.Worthy 38 19.0 1 2 4 20 **2**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Before sitting for the bulk of the fourth quarter, the star QB racked up 324 yards on 27-of-39 passing with three touchdowns. It marked the second straight game for Mahomes breaking the 300-yard barrier and the third time in four weeks."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The NFL recap lists the Kansas City Chiefs at 8-2 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 7 [Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals) SCORE 34 [Kansas City Chiefs 8-2"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The game summary lists the Cardinals quarterback's 18 completions on 31 attempts, 155 passing yards, one touchdown, no interceptions and three sacks; the box-score roster identifies him as Josh Johnson.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Johnson 155 1 31 18 3/25 0 82.1"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873067",
+          "excerpts": [
+            "Josh Johnson](https://www.espn.com/nfl/player/_/id/11394/josh-johnson) #9 |"
+          ],
+          "title": "Chiefs 34-7 Cardinals (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The NFL recap lists the Arizona Cardinals at 3-8 after the game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE 7 [Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals) SCORE 34 [Kansas City Chiefs 8-2"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL game summary identifies Kansas City Chiefs as the home team in the matchup.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Arizona Cardinals at Kansas City Chiefs** Start Time: 12:02 PM CST"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The official summary's home line records the Kansas City Chiefs' final total as 34.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "HOME: Kansas City Chiefs 14 13 0 7 0 34"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring summary records the first-quarter 8-yard Kelce touchdown at 9:46; the highlights identify Travis Kelce and Patrick Mahomes by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs T.Kelce 8 yd. pass from P.Mahomes (H.Butker kick) (11-72, 5:14) 0 7 1 9:46"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n2:07\n\nPLAYER HIGHLIGHT\n\nEvery Travis Kelce catch from 2-TD game vs. Cardinals | Week 11 3:42\n\nPLAYER HIGHLIGHT\n\nPatrick Mahomes' best plays from 3-TD game vs. Cardinals | Week 11 6:11\n\nGAME HIGHLIGHT\n\nCardinals vs. Chiefs highlights | Week 11 3:31\n\nPLAYER HIGHLIGHT\n\nEmmett Johnson's best plays from 143-yard game vs. Cardinals | Week 11 0:24\n\nIN GAME HIGHLIGHT\n\nMahomes finds Cyrus Allen for 26-yard sideline grab to end third quarter 0:39\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring summary records Emmett Johnson's 3-yard rushing touchdown at 0:48 in the first quarter, and the highlights give his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs E.Johnson 3 yd. run (H.Butker kick) (16-80, 7:22) 0 14 1 0:48"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n2:07\n\nPLAYER HIGHLIGHT\n\nEvery Travis Kelce catch from 2-TD game vs. Cardinals | Week 11 3:42\n\nPLAYER HIGHLIGHT\n\nPatrick Mahomes' best plays from 3-TD game vs. Cardinals | Week 11 6:11\n\nGAME HIGHLIGHT\n\nCardinals vs. Chiefs highlights | Week 11 3:31\n\nPLAYER HIGHLIGHT\n\nEmmett Johnson's best plays from 143-yard game vs. Cardinals | Week 11 0:24\n\nIN GAME HIGHLIGHT\n\nMahomes finds Cyrus Allen for 26-yard sideline grab to end third quarter 0:39\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The scoring summary records the Cardinals' 2-yard Fehoko touchdown catch from Josh Johnson at 9:48 in the second quarter.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Cardinals S.Fehoko 2 yd. pass from J.Johnson (C.Ryland kick) (10-63, 6:00) 7 14 2 9:48"
+          ],
+          "title": "National Football League Game Summary"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring summary records Kelce's 22-yard touchdown reception from Mahomes at 1:54 in the second quarter; the highlights identify both players by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs T.Kelce 22 yd. pass from P.Mahomes (H.Butker kick) (3-37, 1:04) 7 24 2 1:54"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n2:07\n\nPLAYER HIGHLIGHT\n\nEvery Travis Kelce catch from 2-TD game vs. Cardinals | Week 11 3:42\n\nPLAYER HIGHLIGHT\n\nPatrick Mahomes' best plays from 3-TD game vs. Cardinals | Week 11 6:11\n\nGAME HIGHLIGHT\n\nCardinals vs. Chiefs highlights | Week 11 3:31\n\nPLAYER HIGHLIGHT\n\nEmmett Johnson's best plays from 143-yard game vs. Cardinals | Week 11 0:24\n\nIN GAME HIGHLIGHT\n\nMahomes finds Cyrus Allen for 26-yard sideline grab to end third quarter 0:39\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring summary records the 18-yard Worthy touchdown reception at 14:54 in the fourth quarter, and the NFL highlight gives his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Chiefs X.Worthy 18 yd. pass from P.Mahomes (H.Butker kick) (9-97, 3:11) 7 34 4 14:54"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Xavier Worthy wins race to pylon to complete Mahomes\u2019 18-yard TD pass 0:29\n\nIN GAME HIGHLIGHT\n\nPatrick Mahomes pump fake gets Rashee Rice open in middle of field for 20 yards 0:34\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The NFL recap states Mahomes threw for 324 yards on 27-of-39 passing with three touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Before sitting for the bulk of the fourth quarter, the star QB racked up 324 yards on 27-of-39 passing with three touchdowns. It marked the second straight game for Mahomes breaking the 300-yard barrier and the third time in four weeks."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The official game summary lists Emmett Johnson's rushing and receiving production, and the NFL highlights identify him by full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "Z.Knight 35 5.0 0 7 13 E.Johnson 105 4.6 1 23 16 T.Allgeier 23 3.3 0 7 6 J.Ott 12 2.4 0 5 3 S.Fehoko 7 2.3 0 3 8 N.Carter 3 3.0 0 1 3 J.Johnson 5 2.5 0 2 3 J.Fields -2 -1.0 0 2 -1 T.McBride 4 4.0 0 1 4 Z.Jones 1 1.0 0 1 1 21 75 3.6 13 0 Total",
+            "H.Long 11 11.0 0 1 1 E.Johnson 38 9.5 0 4 4 12 11"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n2:07\n\nPLAYER HIGHLIGHT\n\nEvery Travis Kelce catch from 2-TD game vs. Cardinals | Week 11 3:42\n\nPLAYER HIGHLIGHT\n\nPatrick Mahomes' best plays from 3-TD game vs. Cardinals | Week 11 6:11\n\nGAME HIGHLIGHT\n\nCardinals vs. Chiefs highlights | Week 11 3:31\n\nPLAYER HIGHLIGHT\n\nEmmett Johnson's best plays from 143-yard game vs. Cardinals | Week 11 0:24\n\nIN GAME HIGHLIGHT\n\nMahomes finds Cyrus Allen for 26-yard sideline grab to end third quarter 0:39\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The official game summary records six catches, 74 yards and two touchdowns for T. Kelce; the highlights identify him as Travis Kelce.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "T.McBride 54 6.0 0 9 14 T.Kelce 74 12.3 2 6 7 **22** 9"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Skip to main content\n\nArizona Cardinals\n\nAZ\n\nArizona Cardinals\n\nCARDINALS\n\nArizona Cardinals\n\nARIZONA\n\nCARDINALS\n\nHidden Score\n\nKansas City Chiefs\n\nKC\n\nKansas City Chiefs\n\nCHIEFS\n\nKansas City Chiefs\n\nKANSAS CITY\n\nCHIEFS\n\nHidden Score\n\nFinal\n\nWEEK 11\n\nRECAP STATS HIGHLIGHTS & REPLAYS\n\n## HIGHLIGHTS\n\n2:07\n\nPLAYER HIGHLIGHT\n\nEvery Travis Kelce catch from 2-TD game vs. Cardinals | Week 11 3:42\n\nPLAYER HIGHLIGHT\n\nPatrick Mahomes' best plays from 3-TD game vs. Cardinals | Week 11 6:11\n\nGAME HIGHLIGHT\n\nCardinals vs. Chiefs highlights | Week 11 3:31\n\nPLAYER HIGHLIGHT\n\nEmmett Johnson's best plays from 143-yard game vs. Cardinals | Week 11 0:24\n\nIN GAME HIGHLIGHT\n\nMahomes finds Cyrus Allen for 26-yard sideline grab to end third quarter 0:39\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The official game summary lists Worthy's two receptions, 38 yards and one touchdown; the NFL highlight provides his full name.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "S.Fehoko 2 2.0 1 1 5 X.Worthy 38 19.0 1 2 4 20 **2**"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11?tab=highlights-replays",
+          "excerpts": [
+            "Xavier Worthy wins race to pylon to complete Mahomes\u2019 18-yard TD pass 0:29\n\nIN GAME HIGHLIGHT\n\nPatrick Mahomes pump fake gets Rashee Rice open in middle of field for 20 yards 0:34\n\nIN GAME HIGHLIGHT"
+          ],
+          "title": "Arizona Cardinals at Kansas City Chiefs 2026 REG 11 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The official game summary records Josh Johnson's passing line and three sacks taken, establishing the statistical basis for the tough-day entry.",
+      "citations": [
+        {
+          "url": "https://static.www.nfl.com/image/upload/v1795380693/gamecenter/ab999891-4feb-11f1-abca-2c54536568a9.pdf",
+          "excerpts": [
+            "J.Johnson 155 1 31 18 3/25 0 82.1"
+          ],
+          "title": "National Football League Game Summary"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873067",
+          "excerpts": [
+            "Josh Johnson](https://www.espn.com/nfl/player/_/id/11394/josh-johnson) #9 |"
+          ],
+          "title": "Chiefs 34-7 Cardinals (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "top_performers",
+      "top_performers.1"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "The final score lit up Kansas City: Chiefs 34, Cardinals 7. Patrick Mahomes zipped a touchdown pass to Travis Kelce to start the scoring! Emmett Johnson rumbled in for another Chiefs touchdown. Arizona answered when Josh Johnson found Simi Fehoko for a touchdown. Mahomes hit Kelce again, then found Xavier Worthy for his third touchdown pass! The Chiefs put on a spectacular show for their third straight win. Kansas City climbed to 8-2, while Arizona moved to 3-8.",
+    "big_words": [
+      {
+        "word": "spectacular",
+        "definition": "Very exciting and amazing to see.",
+        "example": "Hana made a spectacular splash at her swimming lesson."
+      }
+    ],
+    "opener": "Start with the final score, told in a fresh way (not 'X beat Y').",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1180,
+        "output": 150
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "run_id": "trun_415f3f698c1f435b9883fafe377a6ef1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 42.6,
+  "input": {
+    "player": "Saquon Barkley",
+    "team": "Philadelphia Eagles",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Penn State",
+    "fun_facts": [
+      "Saquon Barkley\u2019s birthplace is Coplay, Pennsylvania.",
+      "In high school, Saquon Barkley played football, basketball, and track.",
+      "In 2015, Saquon Barkley won the 100-meter race at the Eastern Pennsylvania Conference track and field championships.",
+      "Saquon Barkley gave away the first gold medal he won as a high school sprinter.",
+      "At Penn State, Saquon Barkley set school records with 5,538 all-purpose yards, 53 total touchdowns, and 43 rushing touchdowns; he was also a two-time Big Ten Offensive Player of the Year.",
+      "As a kid, Saquon Barkley admired Barry Sanders, kept a Sanders action figure in his bedroom, and practiced running side to side like him."
+    ],
+    "draft": "2018, round 1, pick 2"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The ESPN biography identifies Saquon Barkley\u2019s college as Penn State.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 6' 0\", 233 lbs\n\nBirthdate 2/9/1997 (29)\n\nCollege [Penn State](https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions)\n\nDraft Info 2018: Rd 1, Pk 2 (NYG)\n\nStatus Active"
+          ],
+          "title": "Saquon Barkley Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN biography gives Coplay, Pennsylvania as his birthplace. NCAA.com describes Barkley as a three-sport high-school athlete. NFL.com reports his 100-meter championship and that he gave away his first high-school sprinting gold medal. ESPN reports his Penn State records and awards, and his childhood admiration for Barry Sanders.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "Experience 9th Season\n\nBirthplace Coplay, PA\n\n### Career History\n\n[Philadelphia Eagles Philadelphia Eagles 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) [New"
+          ],
+          "title": "Saquon Barkley Biography - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/saquon-barkley-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Barkley was a three-sport athlete in football, basketball and track at Whitehall High School in Whitehall Township, Pennsylvania. Barkley, four-star recruit, was ranked as high as the No. 6 overall running back in the country and the No. 1 player in Pennsylvania, depending on the recruiting service, in the class of 2015."
+          ],
+          "title": "Saquon Barkley: College football career, stats, highlights, records | NCAA.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/catch-me-if-you-can",
+          "excerpts": [
+            "It's not on the football field.\n\nIt was May 2015, and Barkley won the 100 meters in the Eastern Pennsylvania Conference track and field championships.",
+            "Barkley smiles. This is the guy who gave away the first gold medal he won as a high school sprinter. Who deadlifts more than defensive linemen, who runs faster than ... almost anyone."
+          ],
+          "title": "Penn State's Saquon Barkley putting distance between himself and peers"
+        },
+        {
+          "url": "https://www.espn.com/nfl/draft2018/story/_/id/23329005/saquon-barkley-selected-new-york-giants-number-two-pick",
+          "excerpts": [
+            "Barkley rushed for 3,843 yards and was the two-time Big Ten Offensive Player of the Year at Penn State. His 5,538 all-purpose yards, 53 total touchdowns and 43 rushing touchdowns were school records. The Giants were enamored with Barkley from the start of the process, and their offseason moves sent them in the direction of the draft's top running back."
+          ],
+          "title": "Saquon Barkley taken by Giants at No. 2 as team bolsters offensive attack - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/espn/feature/story/_/page/enterpriseBarkley/could-penn-state-saquon-barkley-best-running-back-country",
+          "excerpts": [
+            "_Where is he?_\n\nIt's the third quarter of the 2017 Rose Bowl, and Penn State's running back has just juked a USC defender near the line of scrimmage at his own 20. As a kid, Barkley had loved Barry Sanders, even keeping a Sanders action figure in his bedroom. Growing up, he'd run to one side, then the other, trying to perfect Sanders' Houdini act, an early experiment in lateral quickness that ultimately led him here, in Pasadena, on the verge of breaking a big run."
+          ],
+          "title": "Could Penn State's Saquon Barkley be the best running back in the country?"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The ESPN biography lists Barkley\u2019s draft information as 2018, first round, pick 2.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 6' 0\", 233 lbs\n\nBirthdate 2/9/1997 (29)\n\nCollege [Penn State](https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions)\n\nDraft Info 2018: Rd 1, Pk 2 (NYG)\n\nStatus Active"
+          ],
+          "title": "Saquon Barkley Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography gives Coplay, Pennsylvania as Saquon Barkley\u2019s birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "Experience 9th Season\n\nBirthplace Coplay, PA\n\n### Career History\n\n[Philadelphia Eagles Philadelphia Eagles 2024-CURRENT (3 Seasons)](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) [New"
+          ],
+          "title": "Saquon Barkley Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The NCAA.com account says Saquon Barkley was a three-sport athlete in football, basketball, and track at Whitehall High School.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/2025-02-09/saquon-barkley-college-football-career-stats-highlights-records",
+          "excerpts": [
+            "Barkley was a three-sport athlete in football, basketball and track at Whitehall High School in Whitehall Township, Pennsylvania. Barkley, four-star recruit, was ranked as high as the No. 6 overall running back in the country and the No. 1 player in Pennsylvania, depending on the recruiting service, in the class of 2015."
+          ],
+          "title": "Saquon Barkley: College football career, stats, highlights, records | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The NFL.com article states that Saquon Barkley won the 100 meters at the Eastern Pennsylvania Conference track and field championships in May 2015.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/catch-me-if-you-can",
+          "excerpts": [
+            "It's not on the football field.\n\nIt was May 2015, and Barkley won the 100 meters in the Eastern Pennsylvania Conference track and field championships."
+          ],
+          "title": "Penn State's Saquon Barkley putting distance between himself and peers"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The NFL.com article says Barkley gave away the first gold medal he won as a high-school sprinter.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/back-2-campus/catch-me-if-you-can",
+          "excerpts": [
+            "Barkley smiles. This is the guy who gave away the first gold medal he won as a high school sprinter. Who deadlifts more than defensive linemen, who runs faster than ... almost anyone."
+          ],
+          "title": "Penn State's Saquon Barkley putting distance between himself and peers"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports Barkley\u2019s Penn State school records for all-purpose yards and touchdowns, and that he was a two-time Big Ten Offensive Player of the Year.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/draft2018/story/_/id/23329005/saquon-barkley-selected-new-york-giants-number-two-pick",
+          "excerpts": [
+            "Barkley rushed for 3,843 yards and was the two-time Big Ten Offensive Player of the Year at Penn State. His 5,538 all-purpose yards, 53 total touchdowns and 43 rushing touchdowns were school records. The Giants were enamored with Barkley from the start of the process, and their offseason moves sent them in the direction of the draft's top running back."
+          ],
+          "title": "Saquon Barkley taken by Giants at No. 2 as team bolsters offensive attack - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "ESPN describes Barkley\u2019s childhood admiration for Barry Sanders, including keeping a Sanders action figure and practicing his side-to-side running moves.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/espn/feature/story/_/page/enterpriseBarkley/could-penn-state-saquon-barkley-best-running-back-country",
+          "excerpts": [
+            "_Where is he?_\n\nIt's the third quarter of the 2017 Rose Bowl, and Penn State's running back has just juked a USC defender near the line of scrimmage at his own 20. As a kid, Barkley had loved Barry Sanders, even keeping a Sanders action figure in his bedroom. Growing up, he'd run to one side, then the other, trying to perfect Sanders' Houdini act, an early experiment in lateral quickness that ultimately led him here, in Pasadena, on the verge of breaking a big run."
+          ],
+          "title": "Could Penn State's Saquon Barkley be the best running back in the country?"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

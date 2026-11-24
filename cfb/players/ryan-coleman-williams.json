@@ -1,0 +1,56 @@
+{
+  "name": "Ryan Coleman-Williams",
+  "espn_id": "5141711",
+  "team": "Alabama Crimson Tide",
+  "team_abbr": "ALA",
+  "number": "1",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Mobile, AL",
+  "league": "cfb",
+  "fun_facts": [
+    "Ryan scored 76 touchdowns in high school.",
+    "He made a spin move on a 75-yard touchdown catch against Georgia.",
+    "As a college freshman, Ryan caught six passes for 177 yards against Georgia."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "ALA",
+        "48",
+        "865",
+        "8",
+        "84"
+      ],
+      [
+        "2025",
+        "ALA",
+        "49",
+        "689",
+        "4",
+        "75"
+      ],
+      [
+        "2026",
+        "ALA",
+        "34",
+        "509",
+        "5",
+        "58"
+      ]
+    ]
+  }
+}

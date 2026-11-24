@@ -1,0 +1,372 @@
+{
+  "run_id": "trun_1714e31eeb204d3294d4f40ae8d02b6a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 262.3,
+  "input": {
+    "away_team": "Baltimore Ravens",
+    "home_team": "Houston Texans",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "4-7",
+    "away_team": "Baltimore Ravens",
+    "storyline": "The 4-7 Ravens, fourth in the AFC North, visit the 4-6 Texans, second in the AFC South. Baltimore is coming off a 35-33 loss to Carolina, while Houston beat Indianapolis 26-3 in Week 11.",
+    "matchup_notes": [
+      "Baltimore is 4-7 and fourth in the AFC North; Houston is 4-6 and second in the AFC South.",
+      "The Ravens enter on a six-game losing streak.",
+      "In Week 11, Baltimore lost 35-33 to Carolina, while Houston beat Indianapolis 26-3.",
+      "Houston has 33 sacks, ranked second; Baltimore has 19, ranked 22nd."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "785 receiving yards, 57 receptions, 3 TD",
+        "team": "Baltimore Ravens",
+        "name": "Zay Flowers"
+      },
+      {
+        "stat_line": "2,656 passing yards, 22 TD, 4 INT",
+        "team": "Houston Texans",
+        "name": "C.J. Stroud"
+      },
+      {
+        "stat_line": "536 receiving yards, 40 receptions, 6 TD",
+        "team": "Houston Texans",
+        "name": "Nico Collins"
+      }
+    ],
+    "home_record": "4-6",
+    "home_team": "Houston Texans",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL team page lists the Ravens at 4-7-0, which is a 4-7 win-loss record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "# Baltimore Ravens News, Scores, Stats, Schedule | NFL.com\n\nBaltimore Ravens\n\n4th AFC North\n\n4 - 7 - 0"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The team page identifies the club as the Baltimore Ravens.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "# Baltimore Ravens News, Scores, Stats, Schedule | NFL.com\n\nBaltimore Ravens\n\n4th AFC North\n\n4 - 7 - 0"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL team pages give the teams' records and division positions; the Week 11 report lists Baltimore's 33 points against Carolina's 35, and the Texans' previous-game summary records their 26-3 win over Indianapolis.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "# Baltimore Ravens News, Scores, Stats, Schedule | NFL.com\n\nBaltimore Ravens\n\n4th AFC North\n\n4 - 7 - 0"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/houston-texans",
+          "excerpts": [
+            "# Houston Texans News, Scores, Stats, Schedule | NFL.com\n\nHouston Texans\n\n2nd AFC South\n\n4 - 6 - 0"
+          ],
+          "title": "Houston Texans News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "the Chargers).\n\nBack to top\n\nLoading...\n\nHighlights from the Week 11 matchup between the Baltimore Ravens and the Carolina Panthers during the 2026 NFL season.\n\nSCORE\n\n33\n\n[Baltimore Ravens 4-7](https://www.nfl.com/teams/baltimore-ravens)\n\nSCORE\n\n35\n\n[Carolina Panthers 5-5](https://www.nfl.com/teams/carolina-panthers)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/stats/ngs/trends/teams/houston-texans",
+          "excerpts": [
+            "Next Gen Stats, powered by AWS\n\nPLAYOFF\n\n28%\n\nDIVISION TITLE\n\n4%\n\n\\#1 SEED\n\n0%\n\nPREV GAME\n\nHome vs VS IND\n\nDATE\n\n11/19/26\n\nSCORE\n\nW 26-3\n\n### Playoff Probability\n\nNext Gen Stats, powered by AWS"
+          ],
+          "title": "Houston Texans Tendencies & Stats | NFL Next Gen Trends"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL pages establish the teams' current records, division positions and sack totals; the standings show Baltimore's six-game skid, and the Week 11 reports give both teams' latest results.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "# Baltimore Ravens News, Scores, Stats, Schedule | NFL.com\n\nBaltimore Ravens\n\n4th AFC North\n\n4 - 7 - 0"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/houston-texans",
+          "excerpts": [
+            "# Houston Texans News, Scores, Stats, Schedule | NFL.com\n\nHouston Texans\n\n2nd AFC South\n\n4 - 6 - 0"
+          ],
+          "title": "Houston Texans News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/standings",
+          "excerpts": [
+            "|[Pittsburgh Steelers Steelers](https://www.nfl.com/teams/pittsburgh-steelers/) |6 |4 |0 |0\\.600 |214 |201 |13 |4 - 0 - 0 |2 - 4 - 0 |2 - 2 - 0 |0\\.500 |3 - 3 - 0 |0\\.500 |3 - 1 - 0 |2L |3 - 2 - 0 |\n|[Baltimore Ravens Ravens](https://www.nfl.com/teams/baltimore-ravens/) |4 |7 |0 |0\\.364 |242 |294 |\\-52 |1 - 4 - 0 |3 - 3 - 0 |0 - 2 - 0 |0\\.000 |2 - 5 - 0 |0\\.286 |2 - 2 - 0 |6L |0 - 5 - 0 |\n\n|AFC SOUTH |W |L |T |PCT |PF |PA |Net Pts |Home |Road |Div |Pct |Conf |Pct |Non-Conf |Strk |Last 5 |"
+          ],
+          "title": "2026 NFL Division Standings"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "the Chargers).\n\nBack to top\n\nLoading...\n\nHighlights from the Week 11 matchup between the Baltimore Ravens and the Carolina Panthers during the 2026 NFL season.\n\nSCORE\n\n33\n\n[Baltimore Ravens 4-7](https://www.nfl.com/teams/baltimore-ravens)\n\nSCORE\n\n35\n\n[Carolina Panthers 5-5](https://www.nfl.com/teams/carolina-panthers)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/stats/ngs/trends/teams/houston-texans",
+          "excerpts": [
+            "Next Gen Stats, powered by AWS\n\nPLAYOFF\n\n28%\n\nDIVISION TITLE\n\n4%\n\n\\#1 SEED\n\n0%\n\nPREV GAME\n\nHome vs VS IND\n\nDATE\n\n11/19/26\n\nSCORE\n\nW 26-3\n\n### Playoff Probability\n\nNext Gen Stats, powered by AWS"
+          ],
+          "title": "Houston Texans Tendencies & Stats | NFL Next Gen Trends"
+        },
+        {
+          "url": "https://www.nfl.com/games/ravens-at-texans-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Baltimore Ravens, YARDS PER GAME, 328.3, ranked 16th.\n\n328\\.3\n\n16TH\n\nYARDS PER GAME\n\nHouston Texans, YARDS PER GAME, 349.1, ranked 11th.\n\n349\\.1\n\n11TH\n\nBaltimore Ravens, TIME OF POSSESSION PER GAME, 30:38, ranked 12th.\n\n30:38\n\n12TH\n\nTIME OF POSSESSION PER GAME\n\nHouston Texans, TIME OF POSSESSION PER GAME, 29:33, ranked 23rd.\n\n29:33\n\n23RD\n\nBaltimore Ravens, TOTAL DEF SACKS, 19, ranked 22nd.\n\n19\n\n22ND\n\nTOTAL DEF SACKS\n\nHouston Texans, TOTAL DEF SACKS, 33, ranked 2nd.\n\n33\n\n2ND\n\nBaltimore Ravens, TOTAL DEF INTS, 4, ranked 25th."
+          ],
+          "title": "Baltimore Ravens at Houston Texans 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The cited player-stat pages list Flowers' 2026 receiving totals, Stroud's 2026 passing totals, and Collins' 2026 receiving totals.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/players/zay-flowers/stats/",
+          "excerpts": [
+            "|2026 |Baltimore Ravens |10 |8 |57 |785 |13\\.8 |54 |3 |7 |38 |5\\.4 |20 |0 |1 |1 |\n|TOTAL | |60 |56 |294 |3913 |13\\.3 |75 |17 |34 |212 |6\\.2 |37 |2 |4 |4 |"
+          ],
+          "title": "Zay Flowers Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/c-j-stroud/stats",
+          "excerpts": [
+            "|2025 |Houston Texans |14 |14 |273 |423 |3041 |7\\.2 |19 |8 |23 |189 |92\\.9 |48 |209 |4\\.4 |1 |2 |0 |\n|2026 |Houston Texans |10 |10 |222 |347 |2656 |7\\.6 |22 |4 |18 |119 |103\\.6 |29 |147 |5\\.1 |1 |3 |2 |\n|TOTAL | |56 |56 |1150 |1801 |13532 |7\\.5 |84 |29 |131 |1047 |95\\.4 |168 |756 |4\\.5 |5 |19 |10 |\n\nThe browser you are using is no longer supported on this site."
+          ],
+          "title": "C.J. Stroud Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/players/nico-collins/stats/career",
+          "excerpts": [
+            "* [Situational](https://www.nfl.com/players/nico-collins/stats/situational/)\n\n### Receiving\n\n|YEAR |TEAM |G |REC |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Houston Texans |8 |40 |536 |13\\.4 |45 |6 |28 |70 |8 |3 |"
+          ],
+          "title": "Nico Collins Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL team page lists the Texans at 4-6-0, which is a 4-6 win-loss record.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/houston-texans",
+          "excerpts": [
+            "# Houston Texans News, Scores, Stats, Schedule | NFL.com\n\nHouston Texans\n\n2nd AFC South\n\n4 - 6 - 0"
+          ],
+          "title": "Houston Texans News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The team page identifies the club as the Houston Texans.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/houston-texans",
+          "excerpts": [
+            "# Houston Texans News, Scores, Stats, Schedule | NFL.com\n\nHouston Texans\n\n2nd AFC South\n\n4 - 6 - 0"
+          ],
+          "title": "Houston Texans News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL Week 12 schedule lists Baltimore at Houston on Sunday, November 29; the supplied current date is November 24, so the scheduled game has not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "* [Ravens at Texans, Sunday, November 29th, 1:00 PM, CBS](https://www.nfl.com/games/ravens-at-texans-2026-reg-12)\n  \n  LOCAL\n  \n  Baltimore Ravens Team Logo RAVENS\n  \n  Houston Texans Team Logo TEXANS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The team pages state Baltimore's 4-7 record and fourth-place AFC North position, and Houston's 4-6 record and second-place AFC South position.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/baltimore-ravens",
+          "excerpts": [
+            "# Baltimore Ravens News, Scores, Stats, Schedule | NFL.com\n\nBaltimore Ravens\n\n4th AFC North\n\n4 - 7 - 0"
+          ],
+          "title": "Baltimore Ravens News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/houston-texans",
+          "excerpts": [
+            "# Houston Texans News, Scores, Stats, Schedule | NFL.com\n\nHouston Texans\n\n2nd AFC South\n\n4 - 6 - 0"
+          ],
+          "title": "Houston Texans News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The NFL standings row for Baltimore lists its current streak as 6L.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/standings",
+          "excerpts": [
+            "|[Pittsburgh Steelers Steelers](https://www.nfl.com/teams/pittsburgh-steelers/) |6 |4 |0 |0\\.600 |214 |201 |13 |4 - 0 - 0 |2 - 4 - 0 |2 - 2 - 0 |0\\.500 |3 - 3 - 0 |0\\.500 |3 - 1 - 0 |2L |3 - 2 - 0 |\n|[Baltimore Ravens Ravens](https://www.nfl.com/teams/baltimore-ravens/) |4 |7 |0 |0\\.364 |242 |294 |\\-52 |1 - 4 - 0 |3 - 3 - 0 |0 - 2 - 0 |0\\.000 |2 - 5 - 0 |0\\.286 |2 - 2 - 0 |6L |0 - 5 - 0 |\n\n|AFC SOUTH |W |L |T |PCT |PF |PA |Net Pts |Home |Road |Div |Pct |Conf |Pct |Non-Conf |Strk |Last 5 |"
+          ],
+          "title": "2026 NFL Division Standings"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 11 report gives Baltimore's 33-35 result against Carolina; the Texans' previous-game summary records Houston's 26-3 win over Indianapolis.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "the Chargers).\n\nBack to top\n\nLoading...\n\nHighlights from the Week 11 matchup between the Baltimore Ravens and the Carolina Panthers during the 2026 NFL season.\n\nSCORE\n\n33\n\n[Baltimore Ravens 4-7](https://www.nfl.com/teams/baltimore-ravens)\n\nSCORE\n\n35\n\n[Carolina Panthers 5-5](https://www.nfl.com/teams/carolina-panthers)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "http://www.nfl.com/stats/ngs/trends/teams/houston-texans",
+          "excerpts": [
+            "Next Gen Stats, powered by AWS\n\nPLAYOFF\n\n28%\n\nDIVISION TITLE\n\n4%\n\n\\#1 SEED\n\n0%\n\nPREV GAME\n\nHome vs VS IND\n\nDATE\n\n11/19/26\n\nSCORE\n\nW 26-3\n\n### Playoff Probability\n\nNext Gen Stats, powered by AWS"
+          ],
+          "title": "Houston Texans Tendencies & Stats | NFL Next Gen Trends"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The matchup statistics show Houston with 33 sacks, ranked second, and Baltimore with 19, ranked 22nd.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/ravens-at-texans-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Baltimore Ravens, YARDS PER GAME, 328.3, ranked 16th.\n\n328\\.3\n\n16TH\n\nYARDS PER GAME\n\nHouston Texans, YARDS PER GAME, 349.1, ranked 11th.\n\n349\\.1\n\n11TH\n\nBaltimore Ravens, TIME OF POSSESSION PER GAME, 30:38, ranked 12th.\n\n30:38\n\n12TH\n\nTIME OF POSSESSION PER GAME\n\nHouston Texans, TIME OF POSSESSION PER GAME, 29:33, ranked 23rd.\n\n29:33\n\n23RD\n\nBaltimore Ravens, TOTAL DEF SACKS, 19, ranked 22nd.\n\n19\n\n22ND\n\nTOTAL DEF SACKS\n\nHouston Texans, TOTAL DEF SACKS, 33, ranked 2nd.\n\n33\n\n2ND\n\nBaltimore Ravens, TOTAL DEF INTS, 4, ranked 25th."
+          ],
+          "title": "Baltimore Ravens at Houston Texans 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The 2026 receiving-stat row for Zay Flowers lists 57 receptions, 785 yards and 3 touchdowns.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/players/zay-flowers/stats/",
+          "excerpts": [
+            "|2026 |Baltimore Ravens |10 |8 |57 |785 |13\\.8 |54 |3 |7 |38 |5\\.4 |20 |0 |1 |1 |\n|TOTAL | |60 |56 |294 |3913 |13\\.3 |75 |17 |34 |212 |6\\.2 |37 |2 |4 |4 |"
+          ],
+          "title": "Zay Flowers Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The 2026 season row for C.J. Stroud lists 2,656 passing yards, 22 touchdowns and 4 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/c-j-stroud/stats",
+          "excerpts": [
+            "|2025 |Houston Texans |14 |14 |273 |423 |3041 |7\\.2 |19 |8 |23 |189 |92\\.9 |48 |209 |4\\.4 |1 |2 |0 |\n|2026 |Houston Texans |10 |10 |222 |347 |2656 |7\\.6 |22 |4 |18 |119 |103\\.6 |29 |147 |5\\.1 |1 |3 |2 |\n|TOTAL | |56 |56 |1150 |1801 |13532 |7\\.5 |84 |29 |131 |1047 |95\\.4 |168 |756 |4\\.5 |5 |19 |10 |\n\nThe browser you are using is no longer supported on this site."
+          ],
+          "title": "C.J. Stroud Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The 2026 receiving-stat row for Nico Collins lists 40 receptions, 536 yards and 6 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/nico-collins/stats/career",
+          "excerpts": [
+            "* [Situational](https://www.nfl.com/players/nico-collins/stats/situational/)\n\n### Receiving\n\n|YEAR |TEAM |G |REC |YDS |AVG |LNG |TD |1st |1st% |20+ |40+ |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|2026 |Houston Texans |8 |40 |536 |13\\.4 |45 |6 |28 |70 |8 |3 |"
+          ],
+          "title": "Nico Collins Career Stats | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "33 sacks put Houston second in the league! The 4-6 Texans host the 4-7 Baltimore Ravens in Houston. Watch Zay Flowers, who has 785 receiving yards and 3 TDs. Texans QB C.J. Stroud has 2,656 passing yards and 22 TDs! Baltimore is determined to snap a 6-game skid and move up from fourth in the AFC North.",
+    "big_words": [
+      {
+        "word": "determined",
+        "definition": "Set on doing something and not giving up.",
+        "example": "Priya was determined to nail her dance at the talent show."
+      }
+    ],
+    "opener": "Start with a striking number from this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1090,
+        "output": 131
+      }
+    ]
+  }
+}

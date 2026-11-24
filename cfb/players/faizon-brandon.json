@@ -1,0 +1,42 @@
+{
+  "name": "Faizon Brandon",
+  "espn_id": "5158973",
+  "team": "Tennessee Volunteers",
+  "team_abbr": "TENN",
+  "number": "11",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Freshman",
+  "hometown": "Greensboro, NC",
+  "league": "cfb",
+  "fun_facts": [
+    "In college, Faizon threw three touchdowns and ran for two in his first game.",
+    "In high school, Faizon\u2019s team won two state titles and went 35-1.",
+    "Against LSU, Faizon scored on runs of 18 and 55 yards in the fourth quarter."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2026",
+        "TENN",
+        "64",
+        "109",
+        "732",
+        "9",
+        "2"
+      ]
+    ]
+  }
+}

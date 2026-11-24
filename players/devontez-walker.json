@@ -1,0 +1,60 @@
+{
+  "name": "Devontez Walker",
+  "espn_id": "4696882",
+  "team": "Baltimore Ravens",
+  "team_abbr": "BAL",
+  "number": "81",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "North Carolina",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Devontez's nickname is Tez.",
+    "He caught 11 touchdowns in his last season at Kent State in college.",
+    "He caught three touchdown passes in one game for North Carolina in college."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "BAL",
+        "9",
+        "1",
+        "21",
+        "1",
+        "21"
+      ],
+      [
+        "2025",
+        "BAL",
+        "12",
+        "6",
+        "136",
+        "3",
+        "38"
+      ],
+      [
+        "2026",
+        "BAL",
+        "10",
+        "5",
+        "109",
+        "1",
+        "47"
+      ]
+    ]
+  }
+}

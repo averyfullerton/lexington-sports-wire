@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Iowa State",
   "experience": 5,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Brock broke or tied 32 school records in college.",
     "Brock was the last pick in the 2022 NFL Draft, earning the nickname \u201cMr. Irrelevant.\u201d",
@@ -69,11 +72,11 @@
       [
         "2026",
         "SF",
-        "9",
-        "185",
-        "264",
-        "2,369",
-        "20",
+        "10",
+        "206",
+        "290",
+        "2,624",
+        "23",
         "5"
       ]
     ]

@@ -1,0 +1,438 @@
+{
+  "run_id": "trun_bd5aff7f279040eaa05448bc981865a3",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 152.0,
+  "input": {
+    "away_team": "LSU Tigers",
+    "home_team": "Tennessee Volunteers",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "LSU Tigers",
+    "key_plays": [
+      "Q2 0:12: George MacIntyre 2-yard TD pass to DaSaahn Brame.",
+      "Q3 5:06: Cooper Ranvier 23-yard field goal.",
+      "Q3 1:34: Sam Leavitt 9-yard TD pass to Trey'Dez Green, tying the score at 13.",
+      "Q4 8:22: Faizon Brandon 18-yard rushing TD, putting Tennessee ahead.",
+      "Q4 4:04: Faizon Brandon 55-yard rushing TD, extending Tennessee's lead."
+    ],
+    "away_score": 13,
+    "storyline": "No. 9 Tennessee improved to 9-2 (6-2 SEC) and kept its College Football Playoff hopes alive. LSU fell to 6-5 (3-5 SEC); Lane Kiffin became the first Tigers coach since Gaynell Tinsley in 1948 to lose five SEC games in his first season.",
+    "top_performers": [
+      {
+        "stat_line": "12 carries, 2 TD (18- and 55-yard runs)",
+        "team": "Tennessee Volunteers",
+        "name": "Faizon Brandon"
+      },
+      {
+        "stat_line": "27 of 39, 222 yards, 1 TD, 0 INT",
+        "team": "LSU Tigers",
+        "name": "Sam Leavitt"
+      },
+      {
+        "stat_line": "7 receptions, 72 yards, 1 TD",
+        "team": "LSU Tigers",
+        "name": "Trey'Dez Green"
+      },
+      {
+        "stat_line": "12 of 21, 79 yards, 1 TD",
+        "team": "Tennessee Volunteers",
+        "name": "George MacIntyre"
+      }
+    ],
+    "home_record_after": "9-2",
+    "tough_day": [
+      {
+        "stat_line": "Sacked 8 times for 46 yards",
+        "team": "LSU Tigers",
+        "name": "Sam Leavitt"
+      },
+      {
+        "stat_line": "34 carries, 43 yards (1.3 yards per carry)",
+        "team": "LSU Tigers",
+        "name": "LSU rushing unit"
+      }
+    ],
+    "away_record_after": "6-5",
+    "home_team": "Tennessee Volunteers",
+    "home_score": 27
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The NCAA game summary identifies LSU and Tennessee and gives the result as 13 FINAL 27, confirming the game reached a final score.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6603822",
+          "excerpts": [
+            "[More FBS Football scores \u203a](https://www.ncaa.com/scoreboard/football/fbs)\n\nLSU LSU (6-4)\n\nLSU\n\n9\n\nTennessee TENN (8-2)\n\nTennessee\n\n13 FINAL 27\n\n\u2039 Return to live video\n\nfootball"
+          ],
+          "title": "ncaa.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The matchup line names LSU Tigers as the visiting team against Tennessee Volunteers.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "LSU Tigers @ Tennessee Volunteers"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The scoring-play records show Brame's second-quarter touchdown, Ranvier's third-quarter field goal, Green's tying touchdown, and Brandon's two fourth-quarter scoring runs in chronological order.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+          "excerpts": [
+            "Nov 22, 2026, 01:55 am - AP](https://www.espn.com/college-football/recap/_/gameId/401856754)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nField Goal\n\n7:32 - 1st\n\n3\n\nLSU\n\n0\n\nTENN\n\nScott Starzyk 44 Yd Field Goal\n\n4 plays, -7 yards, 0:46\n\nField Goal\n\n3:13 - 1st\n\n6\n\nLSU\n\n0\n\nTENN\n\nScott Starzyk 26 Yd Field Goal\n\n7 plays, 41 yards, 3:27\n\n2nd Quarter\n\nField Goal\n\n8:10 - 2nd\n\n6\n\nLSU\n\n3\n\nTENN\n\nCooper Ranvier 52 Yd Field Goal\n\n7 plays, 14 yards, 1:58\n\nTouchdown\n\n0:12 - 2nd\n\n6\n\nLSU\n\n10\n\nTENN\n\nDaSaahn Brame 2 Yd pass from George MacIntyre (Cooper Ranvier Kick)"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754",
+          "excerpts": [
+            "10\n\nTENN\n\nDaSaahn Brame 2 Yd pass from George MacIntyre (Cooper Ranvier Kick)\n\n5 plays, 34 yards, 1:00\n\n3rd Quarter\n\nField Goal\n\n5:06 - 3rd\n\n6\n\nLSU\n\n13\n\nTENN\n\nCooper Ranvier 23 Yd Field Goal\n\n8 plays, 34 yards, 3:44\n\nTouchdown\n\n1:34 - 3rd\n\n13\n\nLSU\n\n13\n\nTENN\n\nTrey'Dez Green 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)\n\n1 play, 9 yards, 0:06\n\n4th Quarter\n\nTouchdown\n\n8:22 - 4th\n\n13\n\nLSU",
+            "8 plays, 34 yards, 3:44\n\nTouchdown\n\n1:34 - 3rd\n\n13\n\nLSU\n\n13\n\nTENN\n\nTrey'Dez Green 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)\n\n1 play, 9 yards, 0:06\n\n4th Quarter\n\nTouchdown\n\n8:22 - 4th\n\n13\n\nLSU",
+            "Faizon Brandon 18 Yd Run (Cooper Ranvier Kick)\n\n11 plays, 63 yards, 5:22\n\nTouchdown\n\n4:04 - 4th\n\n13\n\nLSU\n\n27\n\nTENN\n\nFaizon Brandon 55 Yd Run (Cooper Ranvier Kick)\n\n3 plays, 49 yards, 0:42"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The final score row for LSU lists 13 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "|[LSU](https://www.espn.com/college-football/team/_/id/99/lsu-tigers) LSU |6 |0 |7 |0 |13 |"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says the No. 9 Volunteers won to maintain their place in the playoff hunt and gives their 9-2, 6-2 SEC standing; the takeaway states Kiffin's five-SEC-loss milestone and its comparison with Gaynell Tinsley in 1948.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "9 Volunteers beat the Tigers 27-13 on Saturday to maintain their place in the College Football Playoff hunt. Brandon, a freshman who shared time at quarterback with [George MacIntyre](http://www.espn.com/college-football/player/_/id/5141571/george-macintyre) , broke a 13-all tie with an 18-yard touchdown run, then added a 55-yard scoring scamper with just over 4 minutes remaining to put ... MacIntyre was just 12 of 21 for 79 yards with a touchdown pass. \u201cGeorge was not 100% (knee injury from Texas A&M game last week),\u201d Tennessee coach Josh Heupel said. \u201cHe was limited. It was Faison who made some big plays at the end.\u201d The Vols (9-2, 6-2 SEC), who were ranked ninth in the latest poll released by the playoff selection committee, struggled on offense",
+            "The Takeaway LSU: Kiffin is the first Tigers coach to lose five SEC games in his first season since Gaynell Tinsley in 1948."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The cited ESPN recap reports Brandon's 12 carries and two scores and MacIntyre's passing line; the NCAA passing and receiving table gives Leavitt's 27-39-0 for 222 yards and one touchdown and Green's 7 catches for 72 yards and a touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556758/no-9-vols-topple-lsu-make-cfp-case-different-style",
+          "excerpts": [
+            "Bishop and Gordon combined for 106 yards rushing. Brandon led the team with 12 carries for 124 yards and two touchdowns.\n\nThe defense, meanwhile, was stifling."
+          ],
+          "title": "No. 9 Vols topple LSU, make CFP case with 'different style' - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/game/6603822",
+          "excerpts": [
+            "|10 |SAM LEAVITT |27-39-0 |222 |1 |30 |\n|Total | |27-39-0 |222 |1 |30 |\n\n|Receiving | |REC |YDS |TD |Long |\n| --- | --- | --- | --- | --- | --- |\n|13 |DILIN JONES |4 |13 |0 |10 |\n|88 |MALIK ELZY |4 |53 |0 |23 |\n|83 |COREY BARBER JR. |1 |4 |0 |4 |\n|3 |EUGENE WILSON III |8 |43 |0 |12 |\n|7 |TREY'DEZ GREEN |7 |72 |1 |26 |\n|4 |JACKSON HARRIS |2 |7 |0 |5 |\n|2 |TRE BROWN |1 |30 |0 |30 |\n|Total | |27 |222 |1 |30 |"
+          ],
+          "title": "ncaa.com"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "MacIntyre was just 12 of 21 for 79 yards with a touchdown pass."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The Tennessee team record displayed after the final is 9-2 overall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "9-2 , 6-2 SEC"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The recap says Leavitt was sacked eight times and reports LSU's 34 rushes for 43 yards, or 1.3 per carry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "LSU (6-5, 3-5) couldn't handle the Vols' defense, though. [Sam Leavitt](http://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) threw for 222 yards and a touchdown, but he also was sacked eight times. The Tigers ran 34 times for 43 yards, an average of just 1.3 per carry."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The LSU record displayed after the final is 6-5 overall.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "6-5 , 3-5 SEC"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The matchup line identifies Tennessee Volunteers as the home team opposite LSU Tigers.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "LSU Tigers @ Tennessee Volunteers"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The final score row for Tennessee lists 27 points.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "|[Tennessee](https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers) TENN |0 |10 |3 |14 |27 |"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The scoring sequence identifies MacIntyre's second-quarter touchdown pass to Brame at 0:12.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754/lsu-tennessee",
+          "excerpts": [
+            "Nov 22, 2026, 01:55 am - AP](https://www.espn.com/college-football/recap/_/gameId/401856754)\n\nPlay-By-Play\n\nScoring Plays All Plays Key Plays\n\n1st Quarter\n\nField Goal\n\n7:32 - 1st\n\n3\n\nLSU\n\n0\n\nTENN\n\nScott Starzyk 44 Yd Field Goal\n\n4 plays, -7 yards, 0:46\n\nField Goal\n\n3:13 - 1st\n\n6\n\nLSU\n\n0\n\nTENN\n\nScott Starzyk 26 Yd Field Goal\n\n7 plays, 41 yards, 3:27\n\n2nd Quarter\n\nField Goal\n\n8:10 - 2nd\n\n6\n\nLSU\n\n3\n\nTENN\n\nCooper Ranvier 52 Yd Field Goal\n\n7 plays, 14 yards, 1:58\n\nTouchdown\n\n0:12 - 2nd\n\n6\n\nLSU\n\n10\n\nTENN\n\nDaSaahn Brame 2 Yd pass from George MacIntyre (Cooper Ranvier Kick)"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The scoring sequence lists Ranvier's 23-yard field goal at 5:06 in the third quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754",
+          "excerpts": [
+            "10\n\nTENN\n\nDaSaahn Brame 2 Yd pass from George MacIntyre (Cooper Ranvier Kick)\n\n5 plays, 34 yards, 1:00\n\n3rd Quarter\n\nField Goal\n\n5:06 - 3rd\n\n6\n\nLSU\n\n13\n\nTENN\n\nCooper Ranvier 23 Yd Field Goal\n\n8 plays, 34 yards, 3:44\n\nTouchdown\n\n1:34 - 3rd\n\n13\n\nLSU\n\n13\n\nTENN\n\nTrey'Dez Green 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)\n\n1 play, 9 yards, 0:06\n\n4th Quarter\n\nTouchdown\n\n8:22 - 4th\n\n13\n\nLSU"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The play record gives the third-quarter 1:34 touchdown pass from Leavitt to Green, tying the game at 13.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754",
+          "excerpts": [
+            "8 plays, 34 yards, 3:44\n\nTouchdown\n\n1:34 - 3rd\n\n13\n\nLSU\n\n13\n\nTENN\n\nTrey'Dez Green 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)\n\n1 play, 9 yards, 0:06\n\n4th Quarter\n\nTouchdown\n\n8:22 - 4th\n\n13\n\nLSU"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The scoring record lists Brandon's 18-yard touchdown run at 8:22 in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754",
+          "excerpts": [
+            "Faizon Brandon 18 Yd Run (Cooper Ranvier Kick)\n\n11 plays, 63 yards, 5:22\n\nTouchdown\n\n4:04 - 4th\n\n13\n\nLSU\n\n27\n\nTENN\n\nFaizon Brandon 55 Yd Run (Cooper Ranvier Kick)\n\n3 plays, 49 yards, 0:42"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The scoring record lists Brandon's 55-yard touchdown run at 4:04 in the fourth quarter.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856754",
+          "excerpts": [
+            "Faizon Brandon 18 Yd Run (Cooper Ranvier Kick)\n\n11 plays, 63 yards, 5:22\n\nTouchdown\n\n4:04 - 4th\n\n13\n\nLSU\n\n27\n\nTENN\n\nFaizon Brandon 55 Yd Run (Cooper Ranvier Kick)\n\n3 plays, 49 yards, 0:42"
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The recap states Brandon led Tennessee with 12 carries for 124 yards and two touchdowns; the answer includes his carry count and touchdowns and identifies his two scoring runs.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50556758/no-9-vols-topple-lsu-make-cfp-case-different-style",
+          "excerpts": [
+            "Bishop and Gordon combined for 106 yards rushing. Brandon led the team with 12 carries for 124 yards and two touchdowns.\n\nThe defense, meanwhile, was stifling."
+          ],
+          "title": "No. 9 Vols topple LSU, make CFP case with 'different style' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The NCAA passing table lists Sam Leavitt at 27 completions in 39 attempts, 222 yards, one touchdown, and zero interceptions.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6603822",
+          "excerpts": [
+            "|10 |SAM LEAVITT |27-39-0 |222 |1 |30 |\n|Total | |27-39-0 |222 |1 |30 |\n\n|Receiving | |REC |YDS |TD |Long |\n| --- | --- | --- | --- | --- | --- |\n|13 |DILIN JONES |4 |13 |0 |10 |\n|88 |MALIK ELZY |4 |53 |0 |23 |\n|83 |COREY BARBER JR. |1 |4 |0 |4 |\n|3 |EUGENE WILSON III |8 |43 |0 |12 |\n|7 |TREY'DEZ GREEN |7 |72 |1 |26 |\n|4 |JACKSON HARRIS |2 |7 |0 |5 |\n|2 |TRE BROWN |1 |30 |0 |30 |\n|Total | |27 |222 |1 |30 |"
+          ],
+          "title": "ncaa.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The NCAA receiving table lists Trey'Dez Green with 7 receptions, 72 yards, and one touchdown.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/game/6603822",
+          "excerpts": [
+            "|10 |SAM LEAVITT |27-39-0 |222 |1 |30 |\n|Total | |27-39-0 |222 |1 |30 |\n\n|Receiving | |REC |YDS |TD |Long |\n| --- | --- | --- | --- | --- | --- |\n|13 |DILIN JONES |4 |13 |0 |10 |\n|88 |MALIK ELZY |4 |53 |0 |23 |\n|83 |COREY BARBER JR. |1 |4 |0 |4 |\n|3 |EUGENE WILSON III |8 |43 |0 |12 |\n|7 |TREY'DEZ GREEN |7 |72 |1 |26 |\n|4 |JACKSON HARRIS |2 |7 |0 |5 |\n|2 |TRE BROWN |1 |30 |0 |30 |\n|Total | |27 |222 |1 |30 |"
+          ],
+          "title": "ncaa.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The recap names George MacIntyre and reports his line of 12 completions in 21 attempts for 79 yards and a touchdown pass.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "Brandon, a freshman who shared time at quarterback with [George MacIntyre](http://www.espn.com/college-football/player/_/id/5141571/george-macintyre) , broke a 13-all tie with an 18-yard touchdown run, then added a 55-yard scoring scamper with just over 4 minutes remaining to put ... MacIntyre was just 12 of 21 for 79 yards with a touchdown pass."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The recap explicitly states that Sam Leavitt was sacked eight times.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "LSU (6-5, 3-5) couldn't handle the Vols' defense, though. [Sam Leavitt](http://www.espn.com/college-football/player/_/id/5078810/sam-leavitt) threw for 222 yards and a touchdown, but he also was sacked eight times."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.1",
+      "reasoning": "The recap reports LSU ran 34 times for 43 yards, averaging 1.3 yards per carry.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856754",
+          "excerpts": [
+            "The Tigers ran 34 times for 43 yards, an average of just 1.3 per carry."
+          ],
+          "title": "Tennessee 27-13 LSU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays",
+      "key_plays.0",
+      "key_plays.1",
+      "key_plays.2",
+      "key_plays.3",
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.0",
+      "top_performers.1",
+      "top_performers.2",
+      "top_performers.3",
+      "tough_day",
+      "tough_day.0",
+      "tough_day.1"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Faizon Brandon races 55 yards for a touchdown, pushing Tennessee farther ahead! Earlier, George MacIntyre tossed a touchdown to DaSaahn Brame. LSU tied it at 13 when Sam Leavitt found Trey'Dez Green. Then Brandon ran 18 yards for the lead in Tennessee. His 2 clutch runs helped No. 9 Tennessee beat LSU 27-13. Tennessee is now 9-2 and still hopes to make the College Football Playoff.",
+    "big_words": [
+      {
+        "word": "clutch",
+        "definition": "Coming through when it matters most.",
+        "example": "Zoe made a clutch save when her garden plant tipped over."
+      }
+    ],
+    "opener": "Start with the single biggest play, told as action, as if it is happening now.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1361,
+        "output": 198
+      }
+    ]
+  }
+}

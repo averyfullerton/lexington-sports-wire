@@ -1,0 +1,172 @@
+{
+  "run_id": "trun_415f3f698c1f435b9bd2bd94b14277c9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 59.4,
+  "input": {
+    "player": "Ian Thomas",
+    "team": "Las Vegas Raiders",
+    "position": "Tight End",
+    "season": 2026
+  },
+  "content": {
+    "college": "Indiana",
+    "fun_facts": [
+      "Ian Thomas is from Baltimore, Maryland.",
+      "He began at Nassau Community College playing basketball, then returned to football and transferred to Indiana as a junior.",
+      "In his second season at Indiana, Ian Thomas caught 25 passes, up from three in his first season.",
+      "As a rookie in 2018, Ian Thomas made 36 catches for 333 yards and two touchdowns.",
+      "During the 2018 draft, NFL analyst Daniel Jeremiah compared Ian Thomas to Antonio Gates."
+    ],
+    "draft": "2018, round 4, pick 101"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The player biography identifies Ian Thomas's college as Indiana.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4045305/ian-thomas",
+          "excerpts": [
+            "Team [Las Vegas Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\nPosition Tight End\n\nHT/WT 6' 3\", 253 lbs\n\nBirthdate 6/6/1996 (29)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nDraft Info 2018: Rd 4, Pk 101 (CAR)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Baltimore, MD"
+          ],
+          "title": "Ian Thomas Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives his Baltimore birthplace; the ESPN account describes his initial basketball attendance at Nassau Community College, his return to football, Indiana transfer, and first two seasons' reception totals. NFL.com states his rookie receiving totals, and its 2018 draft coverage reports Daniel Jeremiah's comparison to Antonio Gates.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4045305/ian-thomas",
+          "excerpts": [
+            "Team [Las Vegas Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\nPosition Tight End\n\nHT/WT 6' 3\", 253 lbs\n\nBirthdate 6/6/1996 (29)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nDraft Info 2018: Rd 4, Pk 101 (CAR)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Baltimore, MD"
+          ],
+          "title": "Ian Thomas Biography - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/carolina-panthers/post/_/id/29811/panthers-rookie-ian-thomas-showed-perseverance-on-path-to-nfl",
+          "excerpts": [
+            "Besides losing his parents at a young age, he wasn't recruited by a Division I team out of Digital Harbor High School (Baltimore) and wound up at Nassau Community College -- initially for basketball.\n\nHe ultimately found his way back to football and transferred to Indiana as a junior. He caught only three passes his first season and 25 this past year, but showed enough athletic prowess to impress NFL coaches and general managers."
+          ],
+          "title": "Panthers rookie Ian Thomas showed perseverance on path to NFL - ESPN - Carolina Panthers Blog- ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/nfl-injury-updates-latest-league-news-from-friday-feb-25",
+          "excerpts": [
+            "It\u2019s a very strong deal for Thomas, who is coming off an 18-catch 188-yard season in 2021.\n\nNew offensive coordinator Ben McAdoo\u2019s system leans on the tight end position, particularly blocking. The deal indicates the Panthers clearly view Thomas as an ideal fit.\n\nIn four years with the Panthers after becoming a fourth-round pick in 2018, Thomas has generated 90 catches for 802 yards and four TDs. The Indiana product got off to a strong start as a rookie, netting 333 yards and two TDs with 36 receptions. He hasn\u2019t come close to those figures the past three years but is a stellar blocking TE.\n\nThomas and [Tommy Tremble](https://www.nfl.com/players/tommy-tremble/) , a 2021 third-round pick, project as the Panthers' top tight ends heading into 2022."
+          ],
+          "title": "NFL injury updates, latest league news from Friday, Feb. 25 | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/news/panthers-kick-off-draft-s-final-day-with-te-ian-thomas-0ap3000000929776",
+          "excerpts": [
+            "The [Panthers](https://www.nfl.com/teams/carolinapanthers/profile?team=CAR) kicked off Day 3 of the draft by nabbing tight end [Ian Thomas](https://www.nfl.com/prospects/ian-thomas?id=32462018-0002-5598-49c6-a898fedcd981) out of Indiana at No. 101 overall in the fourth round Saturday.\n\nThomas is an uber-athletic, pass-catching tight end who drew comparisons to [Antonio Gates](https://www.nfl.com/player/antoniogates/2505299/profile) from NFL Media draft expert Daniel Jeremiah.\n\n\"He's got athletic traits and upside,\" said fellow draft sage Mike Mayock, who praised Thomas as a \"very physical\" specimen who has teams \"intrigued by his upside.\""
+          ],
+          "title": "Panthers kick off draft's final day with TE Ian Thomas | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "Ian Thomas's ESPN biography directly lists his draft information as 2018, round 4, pick 101.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4045305/ian-thomas",
+          "excerpts": [
+            "Team [Las Vegas Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\nPosition Tight End\n\nHT/WT 6' 3\", 253 lbs\n\nBirthdate 6/6/1996 (29)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nDraft Info 2018: Rd 4, Pk 101 (CAR)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Baltimore, MD"
+          ],
+          "title": "Ian Thomas Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The biography lists Baltimore, MD as Ian Thomas's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4045305/ian-thomas",
+          "excerpts": [
+            "Team [Las Vegas Raiders](https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders)\n\nPosition Tight End\n\nHT/WT 6' 3\", 253 lbs\n\nBirthdate 6/6/1996 (29)\n\nCollege [Indiana](https://www.espn.com/college-football/team/_/id/84/indiana-hoosiers)\n\nDraft Info 2018: Rd 4, Pk 101 (CAR)\n\nStatus Active\n\nExperience 9th Season\n\nBirthplace Baltimore, MD"
+          ],
+          "title": "Ian Thomas Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The account says Ian Thomas initially attended Nassau Community College for basketball, returned to football, and transferred to Indiana as a junior.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/carolina-panthers/post/_/id/29811/panthers-rookie-ian-thomas-showed-perseverance-on-path-to-nfl",
+          "excerpts": [
+            "Besides losing his parents at a young age, he wasn't recruited by a Division I team out of Digital Harbor High School (Baltimore) and wound up at Nassau Community College -- initially for basketball.\n\nHe ultimately found his way back to football and transferred to Indiana as a junior. He caught only three passes his first season and 25 this past year, but showed enough athletic prowess to impress NFL coaches and general managers."
+          ],
+          "title": "Panthers rookie Ian Thomas showed perseverance on path to NFL - ESPN - Carolina Panthers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The account contrasts three catches in his first Indiana season with 25 in the next season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/carolina-panthers/post/_/id/29811/panthers-rookie-ian-thomas-showed-perseverance-on-path-to-nfl",
+          "excerpts": [
+            "Besides losing his parents at a young age, he wasn't recruited by a Division I team out of Digital Harbor High School (Baltimore) and wound up at Nassau Community College -- initially for basketball.\n\nHe ultimately found his way back to football and transferred to Indiana as a junior. He caught only three passes his first season and 25 this past year, but showed enough athletic prowess to impress NFL coaches and general managers."
+          ],
+          "title": "Panthers rookie Ian Thomas showed perseverance on path to NFL - ESPN - Carolina Panthers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com states that as a rookie Ian Thomas had 36 receptions for 333 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/nfl-injury-updates-latest-league-news-from-friday-feb-25",
+          "excerpts": [
+            "It\u2019s a very strong deal for Thomas, who is coming off an 18-catch 188-yard season in 2021.\n\nNew offensive coordinator Ben McAdoo\u2019s system leans on the tight end position, particularly blocking. The deal indicates the Panthers clearly view Thomas as an ideal fit.\n\nIn four years with the Panthers after becoming a fourth-round pick in 2018, Thomas has generated 90 catches for 802 yards and four TDs. The Indiana product got off to a strong start as a rookie, netting 333 yards and two TDs with 36 receptions. He hasn\u2019t come close to those figures the past three years but is a stellar blocking TE.\n\nThomas and [Tommy Tremble](https://www.nfl.com/players/tommy-tremble/) , a 2021 third-round pick, project as the Panthers' top tight ends heading into 2022."
+          ],
+          "title": "NFL injury updates, latest league news from Friday, Feb. 25 | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "NFL.com reports that draft analyst Daniel Jeremiah compared Ian Thomas to Antonio Gates.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/panthers-kick-off-draft-s-final-day-with-te-ian-thomas-0ap3000000929776",
+          "excerpts": [
+            "The [Panthers](https://www.nfl.com/teams/carolinapanthers/profile?team=CAR) kicked off Day 3 of the draft by nabbing tight end [Ian Thomas](https://www.nfl.com/prospects/ian-thomas?id=32462018-0002-5598-49c6-a898fedcd981) out of Indiana at No. 101 overall in the fourth round Saturday.\n\nThomas is an uber-athletic, pass-catching tight end who drew comparisons to [Antonio Gates](https://www.nfl.com/player/antoniogates/2505299/profile) from NFL Media draft expert Daniel Jeremiah.\n\n\"He's got athletic traits and upside,\" said fellow draft sage Mike Mayock, who praised Thomas as a \"very physical\" specimen who has teams \"intrigued by his upside.\""
+          ],
+          "title": "Panthers kick off draft's final day with TE Ian Thomas | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

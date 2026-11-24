@@ -1,0 +1,178 @@
+{
+  "run_id": "trun_415f3f698c1f435bbea271246551f555",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 84.2,
+  "input": {
+    "player": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "position": "Running Back",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oregon",
+    "fun_facts": [
+      "Bucky Irving is from Chicago, Illinois.",
+      "Before finishing his college career at Oregon, Bucky Irving played at Minnesota in 2021.",
+      "In 2023, Bucky Irving led Oregon in rushing with 1,180 yards.",
+      "As an NFL rookie, Bucky Irving rushed for 1,122 yards and eight touchdowns on 207 carries; he was the only player with more than 1,100 rushing yards that season who had fewer than 250 carries.",
+      "Bucky Irving also caught 47 passes for 392 yards during his rookie season."
+    ],
+    "draft": "2024, round 4, pick 125"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s player biography identifies Oregon as Bucky Irving\u2019s college, which is the last college listed for him.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/4596448/bucky-irving",
+          "excerpts": [
+            "Position Running Back\n\nHT/WT 5' 10\", 195 lbs\n\nBirthdate 8/19/2002 (24)\n\nCollege [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks)\n\nDraft Info 2024: Rd 4, Pk 125 (TB)"
+          ],
+          "title": "Bucky Irving Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN profile gives Chicago as his birthplace. ESPN\u2019s college-season table shows Minnesota in 2021 and Oregon in 2022 and 2023; its 2023 Oregon team statistics list Irving as the rushing leader with 1,180 yards. NFL.com reports his rookie rushing total, touchdowns and carries, and ESPN reports his rookie receiving totals.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bucky-irving",
+          "excerpts": [
+            "# Bucky Irving Stats, News and Video - RB | NFL.com\n\n# Bucky Irving\n\nRB \u2022 \\#7\n\n[Tampa Bay Buccaneers](https://www.nfl.com/teams/tampa-bay-buccaneers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/bucky-irving/)\n* [Stats](https://www.nfl.com/players/bucky-irving/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-10\n* Weight\n  \n  194\n* Arms\n  \n  29 1/2\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  3\n* College\n  \n  Oregon\n* Age\n  \n  24\n* Hometown\n  \n  Chicago, IL\n\n## Related Content - Articles\n\n[news ### 2026 NFL season, Week 9: What We Learned from Sunday's games Around The NFL breaks down what you need to know from Sunday's action in Week 9 of the 2026 NFL season.](https://www.nfl.com/news/2026-nfl-season-week-9-what-we-learned-from-sunday-s-games \"2026 NFL season, Week 9: What We Learned from Sunday's games\")"
+          ],
+          "title": "Bucky Irving Stats, News and Video - RB | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/stats/_/id/4596448/type/college-football",
+          "excerpts": [
+            "## Stats\n\nNCAA - Football National Football League\n\nRushing\n\n|season |Team |\n| --- | --- |\n|2021 |MINN [MINN](https://www.espn.com/college-football/team/_/id/135/minnesota-golden-gophers) |\n|2022 |ORE [ORE](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) |\n|2023 |ORE [ORE](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) |\n|Career | |\n\n|CAR |YDS |AVG |TD |LNG |"
+          ],
+          "title": "Bucky Irving Career Stats - NCAAF - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/stats/_/id/2483/season/2023",
+          "excerpts": [
+            "2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004\n\nTeam leaders\n\n[## Passing Yards Bo Nix ### Bo Nix QB 4,508](https://www.espn.com/college-football/player/_/id/4426338/bo-nix) [## Rushing Yards Bucky Irving ### Bucky Irving RB 1,180](https://www.espn.com/college-football/player/_/id/4596448/bucky-irving) [## Receiving Yards Troy Franklin ### Troy Franklin WR 1,383](https://www.espn.com/college-football/player/_/id"
+          ],
+          "title": "Oregon Ducks 2023 College Football Players Stats - ESPN"
+        },
+        {
+          "url": "http://www.nfl.com/news/bucky-irving-buccaneers-rb-not-satisfied-stuck-after-sensational-rookie-season",
+          "excerpts": [
+            "Tampa Bay running back [Bucky Irving](http://www.nfl.com/players/bucky-irving) blasted off midway through his rookie season, gashing defenses, breaking tackles and becoming a focal point of the Buccaneers offense.\n\nIrving didn't see 10 totes in a game until Week 4 of the 2024 season and didn't consistently generate double-digit carries until Week 10. But when he got opportunities, the rook zoomed through defenses to the tune of 1,122 yards and eight touchdowns on 207 carries. Irving was the only player above the 1,100-yard mark who didn't see at least 250 carries.\n\nIrving's efficiency statistics put him among the best backs in the NFL."
+          ],
+          "title": "Buccaneers RB Bucky Irving not 'getting satisfied and stuck in last year' after sensational rookie season | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45944116/tampa-bay-buccaneers-bucky-irving-encore-year-2-rachaad-white",
+          "excerpts": [
+            "And they've done it since his rookie season, when he was named to the PFWA All-Rookie team after leading all rookies with 1,122 rushing yards and eight rushing touchdowns. On top of that, he caught 47 passes for 392 yards."
+          ],
+          "title": "Buccaneers excited to unleash RB Bucky Irving in Year 2 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The NFL draft selection report states that Tampa Bay selected Bucky Irving in the fourth round of the 2024 draft with the 125th overall pick.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/videos/buccaneers-select-bucky-irving-with-no-125-pick-in-2024-draft",
+          "excerpts": [
+            "Advertising\n\n## Draft\n\n# Buccaneers select Bucky Irving with No. 125 pick in 2024 draft\n\nRepresenting the Tampa Bay Buccaneers from Hamburg, Germany as one of the founders of the Buccaneers' supporters club in Germany, Carsten Neubauer announces Tampa Bay's selection of Oregon Ducks running back Bucky Irving in Round 4 of the 2024 NFL Draft with the No. 125 overall pick.\n\n[NOW PLAYING video ### 2026 Draft Letters First round prospects from the 2026 NFL Draft watch video letters from their loved ones after being drafted.](https://www.nfl.com/videos/2026-draft-letters \"2026 Draft Letters\")"
+          ],
+          "title": "Tampa Bay Buccaneers select running back Bucky Irving with No. 125 pick in 2024 draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The NFL player profile lists Bucky Irving\u2019s hometown as Chicago, Illinois.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bucky-irving",
+          "excerpts": [
+            "# Bucky Irving Stats, News and Video - RB | NFL.com\n\n# Bucky Irving\n\nRB \u2022 \\#7\n\n[Tampa Bay Buccaneers](https://www.nfl.com/teams/tampa-bay-buccaneers/)\n\n### active\n\n* [Info](https://www.nfl.com/players/bucky-irving/)\n* [Stats](https://www.nfl.com/players/bucky-irving/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-10\n* Weight\n  \n  194\n* Arms\n  \n  29 1/2\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  3\n* College\n  \n  Oregon\n* Age\n  \n  24\n* Hometown\n  \n  Chicago, IL\n\n## Related Content - Articles\n\n[news ### 2026 NFL season, Week 9: What We Learned from Sunday's games Around The NFL breaks down what you need to know from Sunday's action in Week 9 of the 2026 NFL season.](https://www.nfl.com/news/2026-nfl-season-week-9-what-we-learned-from-sunday-s-games \"2026 NFL season, Week 9: What We Learned from Sunday's games\")"
+          ],
+          "title": "Bucky Irving Stats, News and Video - RB | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "ESPN\u2019s college stats table lists Minnesota for 2021 and Oregon for 2022 and 2023, supporting that he played at Minnesota before completing his college career at Oregon.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/stats/_/id/4596448/type/college-football",
+          "excerpts": [
+            "## Stats\n\nNCAA - Football National Football League\n\nRushing\n\n|season |Team |\n| --- | --- |\n|2021 |MINN [MINN](https://www.espn.com/college-football/team/_/id/135/minnesota-golden-gophers) |\n|2022 |ORE [ORE](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) |\n|2023 |ORE [ORE](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) |\n|Career | |\n\n|CAR |YDS |AVG |TD |LNG |"
+          ],
+          "title": "Bucky Irving Career Stats - NCAAF - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "ESPN\u2019s 2023 Oregon team statistics identify Bucky Irving as the team\u2019s rushing leader with 1,180 yards.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/stats/_/id/2483/season/2023",
+          "excerpts": [
+            "2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004\n\nTeam leaders\n\n[## Passing Yards Bo Nix ### Bo Nix QB 4,508](https://www.espn.com/college-football/player/_/id/4426338/bo-nix) [## Rushing Yards Bucky Irving ### Bucky Irving RB 1,180](https://www.espn.com/college-football/player/_/id/4596448/bucky-irving) [## Receiving Yards Troy Franklin ### Troy Franklin WR 1,383](https://www.espn.com/college-football/player/_/id"
+          ],
+          "title": "Oregon Ducks 2023 College Football Players Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "NFL.com states that Irving gained 1,122 yards and scored eight touchdowns on 207 carries as a rookie, and that he was the only player above 1,100 rushing yards with fewer than 250 carries.",
+      "citations": [
+        {
+          "url": "http://www.nfl.com/news/bucky-irving-buccaneers-rb-not-satisfied-stuck-after-sensational-rookie-season",
+          "excerpts": [
+            "Tampa Bay running back [Bucky Irving](http://www.nfl.com/players/bucky-irving) blasted off midway through his rookie season, gashing defenses, breaking tackles and becoming a focal point of the Buccaneers offense.\n\nIrving didn't see 10 totes in a game until Week 4 of the 2024 season and didn't consistently generate double-digit carries until Week 10. But when he got opportunities, the rook zoomed through defenses to the tune of 1,122 yards and eight touchdowns on 207 carries. Irving was the only player above the 1,100-yard mark who didn't see at least 250 carries.\n\nIrving's efficiency statistics put him among the best backs in the NFL."
+          ],
+          "title": "Buccaneers RB Bucky Irving not 'getting satisfied and stuck in last year' after sensational rookie season | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "ESPN reports that Irving caught 47 passes for 392 yards during his rookie season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/45944116/tampa-bay-buccaneers-bucky-irving-encore-year-2-rachaad-white",
+          "excerpts": [
+            "And they've done it since his rookie season, when he was named to the PFWA All-Rookie team after leading all rookies with 1,122 rushing yards and eight rushing touchdowns. On top of that, he caught 47 passes for 392 yards."
+          ],
+          "title": "Buccaneers excited to unleash RB Bucky Irving in Year 2 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

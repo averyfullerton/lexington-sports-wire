@@ -1,0 +1,72 @@
+{
+  "name": "Wayne Knight",
+  "espn_id": "4912342",
+  "team": "UCLA Bruins",
+  "team_abbr": "UCLA",
+  "number": "3",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Smyrna, DE",
+  "league": "cfb",
+  "fun_facts": [
+    "Wayne ran for 212 yards against Troy, with a 73-yard touchdown.",
+    "Wayne scored three touchdowns in each of his first two UCLA games.",
+    "Wayne played football at Smyrna High School."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "JMU",
+        "5",
+        "-8",
+        "-1.6",
+        "0"
+      ],
+      [
+        "2023",
+        "JMU",
+        "4",
+        "23",
+        "5.8",
+        "0"
+      ],
+      [
+        "2024",
+        "JMU",
+        "77",
+        "449",
+        "5.8",
+        "2"
+      ],
+      [
+        "2025",
+        "JMU",
+        "207",
+        "1,373",
+        "6.6",
+        "9"
+      ],
+      [
+        "2026",
+        "UCLA",
+        "157",
+        "875",
+        "5.6",
+        "13"
+      ]
+    ]
+  }
+}

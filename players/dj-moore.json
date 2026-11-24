@@ -8,6 +8,9 @@
   "position_abbr": "WR",
   "college": "Maryland",
   "experience": 9,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "DJ won a Little League championship at age 5 and still has his jersey.",
     "DJ made 80 catches and eight touchdowns in college in 2017.",
@@ -100,10 +103,10 @@
       [
         "2026",
         "BUF",
-        "7",
-        "23",
-        "375",
-        "3",
+        "8",
+        "31",
+        "466",
+        "4",
         "49"
       ]
     ]

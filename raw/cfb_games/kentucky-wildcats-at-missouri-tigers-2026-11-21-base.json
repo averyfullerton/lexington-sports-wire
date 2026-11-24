@@ -1,0 +1,425 @@
+{
+  "run_id": "trun_bd5aff7f279040eabebfa48f8c8ab413",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 110.1,
+  "input": {
+    "away_team": "Kentucky Wildcats",
+    "home_team": "Missouri Tigers",
+    "game_date": "2026-11-21",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "game_was_played": true,
+    "away_team": "Kentucky Wildcats",
+    "key_plays": [
+      "Q1 4:10 remaining: Austin Simmons 7-yard TD pass to Donovan Olugbode.",
+      "Q2 8:28 remaining: Austin Simmons 23-yard TD pass to Jude James.",
+      "Q3: Austin Simmons 41-yard TD pass to Naeshaun Montgomery.",
+      "Q3 4:30 remaining: Austin Simmons 60-yard TD pass to Donovan Olugbode.",
+      "Q4 13:23 remaining: Jovantae Barnes 2-yard TD run; Kenny Minchey completed the 2-point pass to Barnes."
+    ],
+    "away_score": 14,
+    "storyline": "Missouri snapped a two-game losing streak and finished the game 7-4 overall (4-4 SEC). The Tigers beat Kentucky for a second straight time after losing seven of the previous eight meetings.",
+    "top_performers": [
+      {
+        "stat_line": "17-of-22, 314 passing yards, 4 TD",
+        "team": "Missouri Tigers",
+        "name": "Austin Simmons"
+      },
+      {
+        "stat_line": "5 receptions, 105 yards, 2 TD",
+        "team": "Missouri Tigers",
+        "name": "Donovan Olugbode"
+      },
+      {
+        "stat_line": "8 receptions, 110 yards",
+        "team": "Kentucky Wildcats",
+        "name": "Kenny Darby"
+      },
+      {
+        "stat_line": "16 carries, 69 yards, 1 TD; 2 receptions, 25 yards",
+        "team": "Kentucky Wildcats",
+        "name": "Jovantae Barnes"
+      }
+    ],
+    "home_record_after": "7-4",
+    "tough_day": [
+      {
+        "stat_line": "27-of-43, 288 passing yards, 2 INT",
+        "team": "Kentucky Wildcats",
+        "name": "Kenny Minchey"
+      }
+    ],
+    "away_record_after": "7-4",
+    "home_team": "Missouri Tigers",
+    "home_score": 28
+  },
+  "basis": [
+    {
+      "field": "game_was_played",
+      "reasoning": "The postgame notes state a final score for the November 21 Kentucky-at-Missouri game, establishing that it was played to completion.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "Kentucky-Missouri Postgame Notes\n\n* [Football](https://ukathletics.com/sports/football/)\n* November 21, 2026 - 11:49 PM\n\n# Kentucky-Missouri Postgame Notes\n\nShare\n\n* Facebook\n* Twitter\n* Email\n\n**KENTUCKY AT MISSOURI  \n** **NOVEMBER 21, 2026  \n** **FAUROT FIELD AT MEMORIAL STADIUM, COLUMBIA, MO.  \nATTENDANCE: 63,609**\n\n**FINAL SCORE:** Missouri 28, No. 16 Kentucky 14\n\n**Team Records and Series Information**\n\n* Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league.\n* Kentucky leads the series 8-6."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game listing identifies Kentucky Wildcats as the team playing at Missouri Tigers, so Kentucky is the away team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856751",
+          "excerpts": [
+            "Kentucky Wildcats @ Missouri Tigers"
+          ],
+          "title": "Missouri 28-14 Kentucky (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays",
+      "reasoning": "The cited game recap describes, in order, the Olugbode, James, Montgomery and Olugbode touchdown passes, followed by Barnes's fourth-quarter touchdown and successful two-point conversion. It gives the clock details where reported.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "The Tigers marched 75 yards in eight plays, culminating with a seven-yard touchdown pass from Austin Simmons to Donovan Olugbode. Oliver Robbins added the point after and Missouri led 7-3 with 4:10 remaining in the first quarter.",
+            "Missouri covered 94 yards in eight plays, ending with a 23-yard touchdown pass from Simmons to Jude James. Robbins added the PAT and Missouri led 14-3 with 8:28 to play in the half.",
+            "Missouri took little time to get on the board again. The Tigers marched 72 yards in just four plays, ending with a 41-yard touchdown pass from Simmons to Naeshaun Montgomery. Robbins added the point after and Missouri led 21-3.",
+            "Missouri had a response. The Tigers covered 75 yards in six play drive, ending with a 60-yard pass from Simmons to Olugbode for a touchdown. Robbins made another PAT and the Tigers led 28-6 with 4:30 to play in the third quarter.",
+            "The Cats would get in the end zone early in the fourth quarter. UK covered 81 yards in 14 plays, ending with a two-yard touchdown run by Barnes. The Cats went for two, and Minchey found Barnes for a completion and a successful try. The Cats still trailed 28-14 with 13:23 to play."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_score",
+      "reasoning": "The postgame notes give the final score as Missouri 28, Kentucky 14; Kentucky is the away team in this matchup.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "Kentucky-Missouri Postgame Notes\n\n* [Football](https://ukathletics.com/sports/football/)\n* November 21, 2026 - 11:49 PM\n\n# Kentucky-Missouri Postgame Notes\n\nShare\n\n* Facebook\n* Twitter\n* Email\n\n**KENTUCKY AT MISSOURI  \n** **NOVEMBER 21, 2026  \n** **FAUROT FIELD AT MEMORIAL STADIUM, COLUMBIA, MO.  \nATTENDANCE: 63,609**\n\n**FINAL SCORE:** Missouri 28, No. 16 Kentucky 14\n\n**Team Records and Series Information**\n\n* Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league.\n* Kentucky leads the series 8-6."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The recap says Missouri had lost two straight, and the series note says the Tigers had now beaten Kentucky in consecutive games after losing seven of eight. The final record is stated elsewhere in the postgame notes.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856751",
+          "excerpts": [
+            "5141684/austin-simmons) threw for 314 yards and four touchdowns, [Donovan Olugbode](http://www.espn.com/college-football/player/_/id/5141582/donovan-olugbode) caught five passes for 105 yards and two of the scores, and Missouri beat No. 17 Kentucky 28-14 on Saturday night.\n\n[Cayden Lee](http://www.espn.com/college-football/player/_/id/4870858/cayden-lee) added six catches for 61 yards for the Tigers (7-4, 4-4 SEC), who had lost two straight and three of their last four.\n\n[Kenny Minchey](http://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) was 27 of 43 for",
+            "After losing seven of eight in the series, the Tigers have beaten the Wildcats in back-to-back games."
+          ],
+          "title": "Missouri 28-14 Kentucky (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers",
+      "reasoning": "The cited game stats identify Simmons's passing totals, Olugbode's receiving totals, Darby's eight catches for 110 yards, and Barnes's rushing and receiving production. The ESPN schedule entry links Barnes to the roster-name form used in the answer.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50545207/2026-college-football-power-rankings-top-25-week-12",
+          "excerpts": [
+            "Rick Ulreich/Icon Sportswire\n\n**Previous ranking:** NR\n\nQuarterback [Austin Simmons](https://www.espn.com/college-football/player/_/id/5141684/austin-simmons) totaled 314 yards and four touchdowns in an efficient, 17-of-22 showing to help the Tigers snap a two-game skid. But the real story of Missouri's 28-14 win over Kentucky was defensive coordinator Corey Batoon and the Tigers' red zone defense. The Wildcats gained points from just three of their seven trips to the end zone Saturday night."
+          ],
+          "title": "College football Power Rankings - Week 12 chaos shifts top 25 - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856751",
+          "excerpts": [
+            "5141684/austin-simmons) threw for 314 yards and four touchdowns, [Donovan Olugbode](http://www.espn.com/college-football/player/_/id/5141582/donovan-olugbode) caught five passes for 105 yards and two of the scores, and Missouri beat No. 17 Kentucky 28-14 on Saturday night.\n\n[Cayden Lee](http://www.espn.com/college-football/player/_/id/4870858/cayden-lee) added six catches for 61 yards for the Tigers (7-4, 4-4 SEC), who had lost two straight and three of their last four.\n\n[Kenny Minchey](http://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) was 27 of 43 for"
+          ],
+          "title": "Missouri 28-14 Kentucky (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "+ He has a reception in 23 of his last 24 games and in all 11 games this season.\n* WR **Kenny Darby** caught eight passes for 110 yards.",
+            "* RB **Javontae Barnes** had 16 carries for a team-best 69 yards and a touchdown. He added two catches for 25 yards."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/96/kentucky-wildcats",
+          "excerpts": [
+            "|[Miller](https://www.espn.com/college-football/player/_/id/5294137/dj-miller) 80 |\n|Sun, Nov 22 |@ [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) |L [28-14](https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri) |7-4 (5-4) |[Minchey](https://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) 288 |[Barnes](https://www.espn.com/college-football/player/_/id/4685269/jovantae-barnes) 69"
+          ],
+          "title": "Kentucky Wildcats 2026 Regular Season NCAAF Schedule - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record_after",
+      "reasoning": "The postgame notes state Missouri's overall record after the game as 7-4.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "16 Kentucky 14 **Team Records and Series Information** Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "tough_day",
+      "reasoning": "The postgame notes record Minchey's 27-of-43 passing line, 288 yards and two interceptions, supporting the inclusion of his turnover total as a difficult-game stat.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "**Player Notes**\n\n* QB **Kenny Minchey** was 27-of-43 for 288 yards and two interceptions. He added 26 yards rushing on seven attempts.\n  \n    + The 43 attempts are a career high."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_record_after",
+      "reasoning": "The postgame notes state Kentucky's overall record after the game as 7-4.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "16 Kentucky 14 **Team Records and Series Information** Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The game listing identifies Missouri Tigers as the home team hosting Kentucky Wildcats.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856751",
+          "excerpts": [
+            "Kentucky Wildcats @ Missouri Tigers"
+          ],
+          "title": "Missouri 28-14 Kentucky (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_score",
+      "reasoning": "The postgame notes give the final score as Missouri 28, No. 16 Kentucky 14; Missouri is the home team.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "Kentucky-Missouri Postgame Notes\n\n* [Football](https://ukathletics.com/sports/football/)\n* November 21, 2026 - 11:49 PM\n\n# Kentucky-Missouri Postgame Notes\n\nShare\n\n* Facebook\n* Twitter\n* Email\n\n**KENTUCKY AT MISSOURI  \n** **NOVEMBER 21, 2026  \n** **FAUROT FIELD AT MEMORIAL STADIUM, COLUMBIA, MO.  \nATTENDANCE: 63,609**\n\n**FINAL SCORE:** Missouri 28, No. 16 Kentucky 14\n\n**Team Records and Series Information**\n\n* Kentucky is 7-4 overall and finishes 5-4 in the Southeastern Conference. Missouri is 7-4 overall, 4-4 in the league.\n* Kentucky leads the series 8-6."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.0",
+      "reasoning": "The recap identifies Simmons's seven-yard touchdown pass to Olugbode and says Missouri led with 4:10 remaining in the first quarter.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "The Tigers marched 75 yards in eight plays, culminating with a seven-yard touchdown pass from Austin Simmons to Donovan Olugbode. Oliver Robbins added the point after and Missouri led 7-3 with 4:10 remaining in the first quarter."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.1",
+      "reasoning": "The recap identifies Simmons's 23-yard touchdown pass to Jude James and notes Missouri led with 8:28 left in the half.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "Missouri covered 94 yards in eight plays, ending with a 23-yard touchdown pass from Simmons to Jude James. Robbins added the PAT and Missouri led 14-3 with 8:28 to play in the half."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.2",
+      "reasoning": "The recap says Missouri's third-quarter drive ended with Simmons's 41-yard touchdown pass to Naeshaun Montgomery.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "Missouri took little time to get on the board again. The Tigers marched 72 yards in just four plays, ending with a 41-yard touchdown pass from Simmons to Naeshaun Montgomery. Robbins added the point after and Missouri led 21-3."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.3",
+      "reasoning": "The recap identifies Simmons's 60-yard touchdown pass to Olugbode and states it came with 4:30 left in the third quarter.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "Missouri had a response. The Tigers covered 75 yards in six play drive, ending with a 60-yard pass from Simmons to Olugbode for a touchdown. Robbins made another PAT and the Tigers led 28-6 with 4:30 to play in the third quarter."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "key_plays.4",
+      "reasoning": "The recap identifies Barnes's two-yard touchdown and Minchey's successful two-point pass to him, with 13:23 remaining. The ESPN player link supports the roster spelling used for Barnes.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/no-16-kentucky-falls-at-missouri",
+          "excerpts": [
+            "The Cats would get in the end zone early in the fourth quarter. UK covered 81 yards in 14 plays, ending with a two-yard touchdown run by Barnes. The Cats went for two, and Minchey found Barnes for a completion and a successful try. The Cats still trailed 28-14 with 13:23 to play."
+          ],
+          "title": "No. 16 Kentucky Falls at Missouri \u2013 UK Athletics"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/96/kentucky-wildcats",
+          "excerpts": [
+            "|[Miller](https://www.espn.com/college-football/player/_/id/5294137/dj-miller) 80 |\n|Sun, Nov 22 |@ [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) |L [28-14](https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri) |7-4 (5-4) |[Minchey](https://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) 288 |[Barnes](https://www.espn.com/college-football/player/_/id/4685269/jovantae-barnes) 69"
+          ],
+          "title": "Kentucky Wildcats 2026 Regular Season NCAAF Schedule - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "top_performers.0",
+      "reasoning": "The game recap gives Simmons's 17-of-22 passing performance, 314 yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50545207/2026-college-football-power-rankings-top-25-week-12",
+          "excerpts": [
+            "Rick Ulreich/Icon Sportswire\n\n**Previous ranking:** NR\n\nQuarterback [Austin Simmons](https://www.espn.com/college-football/player/_/id/5141684/austin-simmons) totaled 314 yards and four touchdowns in an efficient, 17-of-22 showing to help the Tigers snap a two-game skid. But the real story of Missouri's 28-14 win over Kentucky was defensive coordinator Corey Batoon and the Tigers' red zone defense. The Wildcats gained points from just three of their seven trips to the end zone Saturday night."
+          ],
+          "title": "College football Power Rankings - Week 12 chaos shifts top 25 - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.1",
+      "reasoning": "The recap states that Olugbode caught five passes for 105 yards and two touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856751",
+          "excerpts": [
+            "5141684/austin-simmons) threw for 314 yards and four touchdowns, [Donovan Olugbode](http://www.espn.com/college-football/player/_/id/5141582/donovan-olugbode) caught five passes for 105 yards and two of the scores, and Missouri beat No. 17 Kentucky 28-14 on Saturday night.\n\n[Cayden Lee](http://www.espn.com/college-football/player/_/id/4870858/cayden-lee) added six catches for 61 yards for the Tigers (7-4, 4-4 SEC), who had lost two straight and three of their last four.\n\n[Kenny Minchey](http://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) was 27 of 43 for"
+          ],
+          "title": "Missouri 28-14 Kentucky (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.2",
+      "reasoning": "The postgame notes state that Darby caught eight passes for 110 yards.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "+ He has a reception in 23 of his last 24 games and in all 11 games this season.\n* WR **Kenny Darby** caught eight passes for 110 yards."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "top_performers.3",
+      "reasoning": "The postgame notes report Barnes's 16 carries for 69 yards and a touchdown, plus two catches for 25 yards. The ESPN schedule link identifies the roster spelling used for his name.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "* RB **Javontae Barnes** had 16 carries for a team-best 69 yards and a touchdown. He added two catches for 25 yards."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/96/kentucky-wildcats",
+          "excerpts": [
+            "|[Miller](https://www.espn.com/college-football/player/_/id/5294137/dj-miller) 80 |\n|Sun, Nov 22 |@ [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) [Missouri](https://www.espn.com/college-football/team/_/id/142/missouri-tigers) |L [28-14](https://www.espn.com/college-football/game/_/gameId/401856751/kentucky-missouri) |7-4 (5-4) |[Minchey](https://www.espn.com/college-football/player/_/id/4918099/kenny-minchey) 288 |[Barnes](https://www.espn.com/college-football/player/_/id/4685269/jovantae-barnes) 69"
+          ],
+          "title": "Kentucky Wildcats 2026 Regular Season NCAAF Schedule - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "tough_day.0",
+      "reasoning": "The postgame notes give Minchey's 27-of-43 passing, 288 yards and two interceptions.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12",
+          "excerpts": [
+            "**Player Notes**\n\n* QB **Kenny Minchey** was 27-of-43 for 288 yards and two interceptions. He added 26 yards rushing on seven attempts.\n  \n    + The 43 attempts are a career high."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "key_plays.4",
+      "storyline",
+      "top_performers",
+      "top_performers.3"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "314 passing yards made Austin Simmons the spark for Missouri! The Tigers beat No. 16 Kentucky 28-14 in Missouri. Simmons tossed 4 touchdown passes. His 60-yard toss to Donovan Olugbode was their second score together! Kentucky\u2019s Jovantae Barnes ran for a touchdown and caught the 2-point pass. Missouri ended a run of 2 losses and moved to 7-4.",
+    "big_words": [
+      {
+        "word": "spark",
+        "definition": "Someone or something that gets things going.",
+        "example": "Nia\u2019s idea for star-shaped cookies was the spark for a fun baking day."
+      }
+    ],
+    "opener": "Start with a striking number from the facts (yards, points, a streak, a record).",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1295,
+        "output": 280
+      }
+    ]
+  }
+}

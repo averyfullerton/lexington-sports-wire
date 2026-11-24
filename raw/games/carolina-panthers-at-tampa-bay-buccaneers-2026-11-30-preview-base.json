@@ -1,0 +1,329 @@
+{
+  "run_id": "trun_1714e31eeb204d32be9b1328f862ac8b",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 117.5,
+  "input": {
+    "away_team": "Carolina Panthers",
+    "home_team": "Tampa Bay Buccaneers",
+    "game_date": "2026-11-30",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "5-5",
+    "away_team": "Carolina Panthers",
+    "storyline": "Carolina leads the NFC South by two games, and a Week 12 win would strengthen its position while preventing Tampa Bay from completing a season sweep after its 43-13 Week 7 win.",
+    "matchup_notes": [
+      "Carolina beat Baltimore 35-33 in Week 11 for its second straight win.",
+      "Tampa Bay lost 31-21 to Detroit in Week 11 and has dropped two straight.",
+      "Carolina holds a two-game lead over the rest of the NFC South entering this game.",
+      "Tampa Bay defeated Carolina 43-13 in their Week 7 meeting."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "2,651 passing yards, 18 TD, 7 INT",
+        "team": "Carolina Panthers",
+        "name": "Bryce Young"
+      },
+      {
+        "stat_line": "831 rushing yards, 9 TD",
+        "team": "Carolina Panthers",
+        "name": "Chuba Hubbard"
+      },
+      {
+        "stat_line": "1,109 passing yards, 5 TD, 4 INT",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Baker Mayfield"
+      },
+      {
+        "stat_line": "33 receptions, 296 receiving yards, 2 TD",
+        "team": "Tampa Bay Buccaneers",
+        "name": "Emeka Egbuka"
+      }
+    ],
+    "home_record": "3-7",
+    "home_team": "Tampa Bay Buccaneers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Panthers' NFL team page lists their record as 5-5-0, which is 5-5 when expressed without the tie count.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/carolina-panthers",
+          "excerpts": [
+            "# Carolina Panthers News, Scores, Stats, Schedule | NFL.com\n\nCarolina Panthers\n\n1st NFC South\n\n5 - 5 - 0"
+          ],
+          "title": "Carolina Panthers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The NFL team page identifies the team as the Carolina Panthers.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/carolina-panthers",
+          "excerpts": [
+            "# Carolina Panthers News, Scores, Stats, Schedule | NFL.com\n\nCarolina Panthers\n\n1st NFC South\n\n5 - 5 - 0"
+          ],
+          "title": "Carolina Panthers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The Week 11 NFL recap says Carolina entered the matchup with a two-game division lead and that a Week 12 win would put the Panthers in a commanding position while preventing a Tampa Bay season sweep. The Panthers' schedule records Tampa Bay's 43-13 win in the prior meeting.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "**Carolina begins to separate in division race.** The Panthers improved to .500 with their second straight win on Sunday, and in this year\u2019s NFC South, that is cause for celebration. Combined with losses on Sunday by the Saints and Buccaneers, Carolina now holds a two-game lead over the rest of the division heading into a [huge game](https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview) next Monday night at Tampa Bay. A win in Week 12 would put the Panthers in a commanding position heading into December, and negate a season sweep and tiebreaker for the Bucs."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/carolina-panthers",
+          "excerpts": [
+            "### Week 7\n\n* [Buccaneers 43, Panthers 13, FINAL, Sunday, October 25th](https://www.nfl.com/games/buccaneers-at-panthers-2026-reg-7)\n  \n  Final\n  \n  Tampa Bay Buccaneers Team Logo BUCCANEERS 2-5"
+          ],
+          "title": "NFL 2026 Carolina Panthers Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The Week 11 results and recap support the Panthers' win and winning streak, Tampa Bay's loss and losing streak, and Carolina's two-game division lead. The Carolina schedule documents Tampa Bay's 43-13 Week 7 win.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Carolina Panthers 35, Baltimore Ravens 33\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh Steelers 16\n\n**Late Window**",
+            "**Carolina begins to separate in division race.** The Panthers improved to .500 with their second straight win on Sunday, and in this year\u2019s NFC South, that is cause for celebration. Combined with losses on Sunday by the Saints and Buccaneers, Carolina now holds a two-game lead over the rest of the division heading into a [huge game](https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview) next Monday night at Tampa Bay. A win in Week 12 would put the Panthers in a commanding position heading into December, and negate a season sweep and tiebreaker for the Bucs."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+          "excerpts": [
+            "Jameson Williams flips into end zone to celebrate 57-yard TD catch\n\n* * *\n\n## Buccaneers\n\n**With Sunday's loss, how important is next week's game against the Panthers?** After winning two in a row, Tampa has now dropped two straight and sits at 3-7."
+          ],
+          "title": "NFL Week 11 takeaways, questions, fantasy spin on Sunday's games - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/carolina-panthers",
+          "excerpts": [
+            "### Week 7\n\n* [Buccaneers 43, Panthers 13, FINAL, Sunday, October 25th](https://www.nfl.com/games/buccaneers-at-panthers-2026-reg-7)\n  \n  Final\n  \n  Tampa Bay Buccaneers Team Logo BUCCANEERS 2-5"
+          ],
+          "title": "NFL 2026 Carolina Panthers Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Week 12 NFL game center lists the season-to-date passing, rushing, and receiving leaders and their stats. The player pages and season-leader listings support the full names used for those players.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "BUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-7\n\n3 wins, 7 losses, 0 ties\n\nESPN network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nCarolina Panthers"
+          ],
+          "title": "Carolina Panthers at Tampa Bay Buccaneers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/chuba-hubbard/stats",
+          "excerpts": [
+            "# Chuba Hubbard Stats Summary | NFL.com\n\n# Chuba Hubbard\n\nRB \u2022 \\#30\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active"
+          ],
+          "title": "Chuba Hubbard Stats Summary | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+          "excerpts": [
+            "|[New Orleans](https://www.espn.com/nfl/team/_/name/no/new-orleans-saints) |3 |7 |0 |.300 |215 |257 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense\n\n[## Passing Yards Bryce Young ### Bryce Young QB #9 2,651 TD 18 QBR 57\\.0](https://www.espn.com/nfl/player/_/id/4685720/bryce-young)\n\n[## Rushing Yards Chuba Hubbard ### Chuba Hubbard RB #30 831 CAR 188 TD 9](https://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard)"
+          ],
+          "title": "Carolina Panthers Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873072",
+          "excerpts": [
+            "|[Baker Mayfield](https://www.espn.com/nfl/player/_/id/3052587/baker-mayfield) \\#6 |\n|team |\n\n|C/ATT |YDS |TD |INT |SACKS |\n| --- | --- | --- | --- | --- |\n|20/33 |187 |2 |0 |4-33 |"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/emeka-egbuka/stats",
+          "excerpts": [
+            "# Emeka Egbuka Stats Summary | NFL.com\n\n# Emeka Egbuka\n\nWR \u2022 \\#2\n\n[Tampa Bay Buccaneers](https://www.nfl.com/teams/tampa-bay-buccaneers/)\n\n### active"
+          ],
+          "title": "Emeka Egbuka Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Buccaneers' NFL team page lists their record as 3-7-0, which is 3-7 when expressed without the tie count.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/tampa-bay-buccaneers",
+          "excerpts": [
+            "# Tampa Bay Buccaneers News, Scores, Stats, Schedule | NFL.com\n\nTampa Bay Buccaneers\n\n2nd NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "Tampa Bay Buccaneers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The NFL team page identifies the team as the Tampa Bay Buccaneers.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/tampa-bay-buccaneers",
+          "excerpts": [
+            "# Tampa Bay Buccaneers News, Scores, Stats, Schedule | NFL.com\n\nTampa Bay Buccaneers\n\n2nd NFC South\n\n3 - 7 - 0"
+          ],
+          "title": "Tampa Bay Buccaneers News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL schedule lists Panthers at Buccaneers for Monday, November 30. That date is after the stated current date of November 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-week/week-12",
+          "excerpts": [
+            "### Monday Night Football\n\n* [Panthers at Buccaneers, Monday, November 30th, 8:15 PM, ESPN](https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12)\n  \n  LOCAL\n  \n  Carolina Panthers Team Logo PANTHERS\n  \n  Tampa Bay Buccaneers Team Logo BUCCANEERS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL Week 12 Schedule 2026: Games, Times, Matchups & Tickets"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The NFL game center lists Bryce Young's 2,651 passing yards, 18 touchdowns, and 7 interceptions. The Panthers' team-leader listing gives his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "BUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-7\n\n3 wins, 7 losses, 0 ties\n\nESPN network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nCarolina Panthers"
+          ],
+          "title": "Carolina Panthers at Tampa Bay Buccaneers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+          "excerpts": [
+            "|[New Orleans](https://www.espn.com/nfl/team/_/name/no/new-orleans-saints) |3 |7 |0 |.300 |215 |257 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense\n\n[## Passing Yards Bryce Young ### Bryce Young QB #9 2,651 TD 18 QBR 57\\.0](https://www.espn.com/nfl/player/_/id/4685720/bryce-young)\n\n[## Rushing Yards Chuba Hubbard ### Chuba Hubbard RB #30 831 CAR 188 TD 9](https://www.espn.com/nfl/player/_/id/4241416/chuba-hubbard)"
+          ],
+          "title": "Carolina Panthers Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL game center lists Chuba Hubbard with 831 rushing yards and 9 touchdowns; his NFL player page confirms his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "BUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-7\n\n3 wins, 7 losses, 0 ties\n\nESPN network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nCarolina Panthers"
+          ],
+          "title": "Carolina Panthers at Tampa Bay Buccaneers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/chuba-hubbard/stats",
+          "excerpts": [
+            "# Chuba Hubbard Stats Summary | NFL.com\n\n# Chuba Hubbard\n\nRB \u2022 \\#30\n\n[Carolina Panthers](https://www.nfl.com/teams/carolina-panthers/)\n\n### active"
+          ],
+          "title": "Chuba Hubbard Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "The NFL game center lists Baker Mayfield with 1,109 passing yards, 5 touchdowns, and 4 interceptions. The game box score identifies him by his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "BUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-7\n\n3 wins, 7 losses, 0 ties\n\nESPN network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nCarolina Panthers"
+          ],
+          "title": "Carolina Panthers at Tampa Bay Buccaneers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873072",
+          "excerpts": [
+            "|[Baker Mayfield](https://www.espn.com/nfl/player/_/id/3052587/baker-mayfield) \\#6 |\n|team |\n\n|C/ATT |YDS |TD |INT |SACKS |\n| --- | --- | --- | --- | --- |\n|20/33 |187 |2 |0 |4-33 |"
+          ],
+          "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.3",
+      "reasoning": "The NFL game center lists Emeka Egbuka with 33 receptions, 296 receiving yards, and 2 touchdowns. His NFL player page confirms his full name.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12?tab=overview",
+          "excerpts": [
+            "BUCCANEERS\n\nTampa Bay Buccaneers\n\nTAMPA BAY\n\nBUCCANEERS\n\n3-7\n\n3 wins, 7 losses, 0 ties\n\nESPN network icon\n\nOVERVIEW STATS STREAMS\n\n## REGULAR SEASON AT A GLANCE\n\nCarolina Panthers"
+          ],
+          "title": "Carolina Panthers at Tampa Bay Buccaneers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/players/emeka-egbuka/stats",
+          "excerpts": [
+            "# Emeka Egbuka Stats Summary | NFL.com\n\n# Emeka Egbuka\n\nWR \u2022 \\#2\n\n[Tampa Bay Buccaneers](https://www.nfl.com/teams/tampa-bay-buccaneers/)\n\n### active"
+          ],
+          "title": "Emeka Egbuka Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "players_to_watch.2",
+      "players_to_watch.3",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Carolina has a 2-game lead in the NFC South! On Monday, the 5-5 Panthers play the 3-7 Buccaneers in Tampa Bay. A win would help Carolina protect its lead. Bryce Young has 2,651 passing yards and 18 passing TDs this season. Watch for the matchup after Tampa Bay beat Carolina 43-13 in Week 7!",
+    "big_words": [
+      {
+        "word": "protect",
+        "definition": "To keep something safe.",
+        "example": "Diego used a cover to protect his library book from spills."
+      }
+    ],
+    "opener": "Start with what is at stake in the standings.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1129,
+        "output": 182
+      }
+    ]
+  }
+}

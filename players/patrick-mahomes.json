@@ -8,6 +8,9 @@
   "position_abbr": "QB",
   "college": "Texas Tech",
   "experience": 10,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Patrick pitched a no-hitter and struck out 16 batters in high school.",
     "Patrick started playing football in seventh grade.",
@@ -119,11 +122,11 @@
       [
         "2026",
         "KC",
-        "9",
-        "199",
-        "298",
-        "2,385",
-        "19",
+        "10",
+        "226",
+        "337",
+        "2,709",
+        "22",
         "4"
       ]
     ]

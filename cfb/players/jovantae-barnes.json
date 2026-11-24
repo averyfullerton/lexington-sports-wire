@@ -1,0 +1,72 @@
+{
+  "name": "Jovantae Barnes",
+  "espn_id": "4685269",
+  "team": "Kentucky Wildcats",
+  "team_abbr": "UK",
+  "number": "2",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Las Vegas, NV",
+  "league": "cfb",
+  "fun_facts": [
+    "Jovantae ran for 203 yards and three touchdowns for Oklahoma against Maine.",
+    "Jovantae ran for 1,022 yards and 13 touchdowns in 2019.",
+    "Jovantae\u2019s nickname is Tae, and he likes fashion and styling."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "OU",
+        "116",
+        "519",
+        "4.5",
+        "5"
+      ],
+      [
+        "2023",
+        "OU",
+        "37",
+        "140",
+        "3.8",
+        "1"
+      ],
+      [
+        "2024",
+        "OU",
+        "122",
+        "577",
+        "4.7",
+        "5"
+      ],
+      [
+        "2025",
+        "OU",
+        "19",
+        "45",
+        "2.4",
+        "1"
+      ],
+      [
+        "2026",
+        "UK",
+        "68",
+        "347",
+        "5.1",
+        "2"
+      ]
+    ]
+  }
+}

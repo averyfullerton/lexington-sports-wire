@@ -1,0 +1,176 @@
+{
+  "run_id": "trun_415f3f698c1f435bbd941b8c1ad5d7a7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 46.7,
+  "input": {
+    "player": "Drew Stevens",
+    "team": "Washington Commanders",
+    "position": "Place Kicker",
+    "season": 2026
+  },
+  "content": {
+    "college": "Iowa",
+    "fun_facts": [
+      "Drew Stevens was born in North Augusta, South Carolina.",
+      "He was a First Team all-state kicker from South Carolina.",
+      "Across four seasons at Iowa, he scored 352 points.",
+      "He set Iowa records with 76 made field goals and 12 field goals from 50-plus yards. His 58-yard kick in 2025 tied the longest in school history.",
+      "In 2024, he made 87% of his field goals and every extra point, scoring 100 points.",
+      "In his final home game for Iowa, Drew Stevens made a 44-yard field goal as time expired to beat Michigan State, capping a 13-point fourth-quarter comeback."
+    ],
+    "draft": "Undrafted"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Commanders' article identifies Drew Stevens as an Iowa kicker and describes him joining the team after college.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Iowa kicker Drew Stevens officially joined the Commanders earlier this month as a member of the team's nine-player undrafted free agent class."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited biography gives Stevens's birthplace and 2024 kicking figures; the Commanders' article states his all-state honor and Iowa scoring and field-goal records; and the game recap describes his time-expiring, 44-yard game-winner and Iowa's comeback.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5081335/drew-stevens",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nIowa Hawkeyes Drew Stevens\n\n# Drew Stevens\n\nIowa Hawkeyes\n\n* [Iowa Hawkeyes](https://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes)\n* \\#18\n* Place Kicker\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 0\", 205 lbs\n* Birthplace\n  \n  North Augusta, SC\n* Status\n  \n  Active\n\n## 2024 season stats\n\n* FG%\n  \n  87\\.0\n* XP%\n  \n  100\\.0\n* LNG\n  \n  54\n* PTS\n  \n  100\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5081335/drew-stevens)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5081335/drew-stevens)"
+          ],
+          "title": "Drew Stevens Biography - ESPN"
+        },
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Stevens, a former First Team all-state kicker from South Carolina, is regarded as one of the best kickers and scorers in Hawkeyes history, scoring 352 points over four seasons. He set school records with 76 total field goals made with 12 from 50-plus yards (another school record), and the 58-yarder he hit in 2025 is tied for the longest in school history."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752913",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401752913)\n\n# Drew Stevens' field goal caps Iowa's comeback in 20-17 win over Michigan State\n\nBy AP\n\nUpdated: Nov 23, 2025, 01:31 am\n\nFacebook Facebook Messenger Twitter Email\n\nIOWA CITY, Iowa -- \u2014 [Drew Stevens](http://www.espn.com/college-football/player/_/id/5081335/drew-stevens) kicked a 44-yard field goal as time expired to give Iowa a 20-17 win over Michigan State on Saturday.\n\nThe kick capped a 13-point fourth-quarter comeback for the Hawkeyes (7-4, 5-3 Big Ten), who snapped a two-game losing streak."
+          ],
+          "title": "Iowa 20-17 Michigan State (Nov 22, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Commanders' article explicitly says Stevens joined the team as a member of its undrafted free-agent class.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Iowa kicker Drew Stevens officially joined the Commanders earlier this month as a member of the team's nine-player undrafted free agent class."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN biography lists North Augusta, South Carolina, as Stevens's birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5081335/drew-stevens",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nIowa Hawkeyes Drew Stevens\n\n# Drew Stevens\n\nIowa Hawkeyes\n\n* [Iowa Hawkeyes](https://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes)\n* \\#18\n* Place Kicker\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 0\", 205 lbs\n* Birthplace\n  \n  North Augusta, SC\n* Status\n  \n  Active\n\n## 2024 season stats\n\n* FG%\n  \n  87\\.0\n* XP%\n  \n  100\\.0\n* LNG\n  \n  54\n* PTS\n  \n  100\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5081335/drew-stevens)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5081335/drew-stevens)"
+          ],
+          "title": "Drew Stevens Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Commanders' article identifies him as a former First Team all-state kicker from South Carolina.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Stevens, a former First Team all-state kicker from South Carolina, is regarded as one of the best kickers and scorers in Hawkeyes history, scoring 352 points over four seasons. He set school records with 76 total field goals made with 12 from 50-plus yards (another school record), and the 58-yarder he hit in 2025 is tied for the longest in school history."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The article states that Stevens scored 352 points over four seasons.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Stevens, a former First Team all-state kicker from South Carolina, is regarded as one of the best kickers and scorers in Hawkeyes history, scoring 352 points over four seasons. He set school records with 76 total field goals made with 12 from 50-plus yards (another school record), and the 58-yarder he hit in 2025 is tied for the longest in school history."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The article states that Stevens set Iowa records with 76 total field goals and 12 from 50-plus yards, and that his 58-yarder tied the longest in school history.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/washington-commanders-kicker-drew-stevens-compete-training-camp",
+          "excerpts": [
+            "Stevens, a former First Team all-state kicker from South Carolina, is regarded as one of the best kickers and scorers in Hawkeyes history, scoring 352 points over four seasons. He set school records with 76 total field goals made with 12 from 50-plus yards (another school record), and the 58-yarder he hit in 2025 is tied for the longest in school history."
+          ],
+          "title": "Commanders UDFA K Drew Stevens ready to compete in training camp"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The ESPN biography lists his 2024 field-goal percentage as 87%, extra-point percentage as 100%, and points total as 100.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5081335/drew-stevens",
+          "excerpts": [
+            "Skip to main content Skip to navigation\n\nIowa Hawkeyes Drew Stevens\n\n# Drew Stevens\n\nIowa Hawkeyes\n\n* [Iowa Hawkeyes](https://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes)\n* \\#18\n* Place Kicker\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 0\", 205 lbs\n* Birthplace\n  \n  North Augusta, SC\n* Status\n  \n  Active\n\n## 2024 season stats\n\n* FG%\n  \n  87\\.0\n* XP%\n  \n  100\\.0\n* LNG\n  \n  54\n* PTS\n  \n  100\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5081335/drew-stevens)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5081335/drew-stevens)"
+          ],
+          "title": "Drew Stevens Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The recap says Stevens kicked a 44-yard field goal as time expired to beat Michigan State, completing a 13-point fourth-quarter comeback in his final home game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401752913",
+          "excerpts": [
+            "* [Team Stats](https://www.espn.com/college-football/matchup/_/gameId/401752913)\n\n# Drew Stevens' field goal caps Iowa's comeback in 20-17 win over Michigan State\n\nBy AP\n\nUpdated: Nov 23, 2025, 01:31 am\n\nFacebook Facebook Messenger Twitter Email\n\nIOWA CITY, Iowa -- \u2014 [Drew Stevens](http://www.espn.com/college-football/player/_/id/5081335/drew-stevens) kicked a 44-yard field goal as time expired to give Iowa a 20-17 win over Michigan State on Saturday.\n\nThe kick capped a 13-point fourth-quarter comeback for the Hawkeyes (7-4, 5-3 Big Ten), who snapped a two-game losing streak."
+          ],
+          "title": "Iowa 20-17 Michigan State (Nov 22, 2025) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

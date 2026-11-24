@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Alabama",
   "experience": 11,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Derrick ran past 9-year-olds when he was just 7!",
     "In high school, Derrick ran for 482 yards and six touchdowns in one game!",
@@ -118,11 +121,11 @@
       [
         "2026",
         "BAL",
-        "10",
-        "185",
-        "699",
-        "3.8",
-        "10"
+        "11",
+        "198",
+        "793",
+        "4.0",
+        "11"
       ]
     ]
   }

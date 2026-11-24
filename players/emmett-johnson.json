@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "Nebraska",
   "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Emmett ran for 217 yards against Iowa.",
     "Emmett led Big Ten running backs with 46 catches.",
@@ -28,11 +31,11 @@
       [
         "2026",
         "KC",
-        "9",
-        "48",
-        "212",
-        "4.4",
-        "1"
+        "10",
+        "71",
+        "317",
+        "4.5",
+        "2"
       ]
     ]
   }

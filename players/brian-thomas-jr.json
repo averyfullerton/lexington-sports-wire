@@ -1,0 +1,60 @@
+{
+  "name": "Brian Thomas Jr.",
+  "espn_id": "4432773",
+  "team": "Jacksonville Jaguars",
+  "team_abbr": "JAX",
+  "number": "7",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "LSU",
+  "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Brian led college football with 17 receiving touchdowns in 2023.",
+    "He set Jaguars rookie records with 87 catches, 1,282 receiving yards, and 10 touchdowns.",
+    "He caught an 85-yard touchdown against the Colts, the longest by a Jaguars rookie."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2024",
+        "JAX",
+        "17",
+        "87",
+        "1,282",
+        "10",
+        "85"
+      ],
+      [
+        "2025",
+        "JAX",
+        "14",
+        "48",
+        "707",
+        "2",
+        "46"
+      ],
+      [
+        "2026",
+        "JAX",
+        "10",
+        "14",
+        "164",
+        "3",
+        "22"
+      ]
+    ]
+  }
+}

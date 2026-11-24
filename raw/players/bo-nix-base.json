@@ -1,0 +1,195 @@
+{
+  "run_id": "trun_415f3f698c1f435b8e2a32cae677195a",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 171.7,
+  "input": {
+    "player": "Bo Nix",
+    "team": "Denver Broncos",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Oregon",
+    "fun_facts": [
+      "Bo Nix is from Pinson, Alabama.",
+      "At Pinson Valley High School, Bo Nix won back-to-back state championships and set state records with more than 12,000 total yards and 161 touchdowns.",
+      "At Oregon, Bo Nix set the school\u2019s single-season completion-percentage record and became the only Oregon quarterback to rush for three touchdowns in three different games.",
+      "In one game against California, Bo Nix threw for 412 yards and three touchdowns, then ran for three more\u2014making him just the third FBS quarterback in the previous 10 years to do that.",
+      "Bo Nix completed 77.4% of his passes in 2023, setting an NCAA record.",
+      "Bo Nix\u2019s 29 passing touchdowns as a rookie set a Denver Broncos franchise record for a rookie. "
+    ],
+    "draft": "2024, round 1, pick 12"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The source says Bo Nix spent three seasons at Auburn and two at Oregon, establishing Oregon as the last college he played for.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/40146018/denver-broncos-bo-nix-quarterback-draft-rookie-starter",
+          "excerpts": [
+            "Beyond all of his other prep for the draft, Nix, who spent three seasons at Auburn and two at Oregon, enlisted the help of former NFL quarterback Philip Rivers in his transition to the league."
+          ],
+          "title": "All eyes are on Broncos rookie quarterback Bo Nix - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited sources support the facts in order: Pinson, Alabama as Bo Nix\u2019s hometown; his high-school championships and yardage and touchdown records; his Oregon completion-percentage and rushing-touchdown milestones; his rare passing-and-rushing performance against California; his 2023 NCAA completion-percentage record; and his Broncos rookie passing-touchdown record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/248982/bo-nix",
+          "excerpts": [
+            "# Bo Nix\n\n* \n\n6-2, 210 | Class of 2022\n\n* Hometown [Pinson, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/2409/class/2022)\n* School [Auburn University](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/15660)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2022)\n* Status Signed [Oregon](https://www.espn.com/college-sports/football/recruiting/school/_/id/2483) 12/19/2021\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |"
+          ],
+          "title": "Bo Nix Quarterback: Dual Threat Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27427990/auburn-goes-freshman-nix-starting-qb",
+          "excerpts": [
+            "Nix won back-to-back state championships at Pinson Valley High School and set state records during his prep career with more than 12,000 total yards and 161 total touchdowns."
+          ],
+          "title": "Auburn goes with freshman Nix as starting QB - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/36240486/entering-5th-season-college-football-remains-fun-oregon-bo-nix",
+          "excerpts": [
+            "Nix, the son of star [Auburn](https://www.espn.com/college-football/team/_/id/2/auburn-tigers) quarterback Patrick Nix, played his first three college seasons at Auburn, recording mixed results under different coaches and offensive coordinators. He transferred to Oregon after the 2021 season and set the team's single-season completion percentage mark, while becoming the only quarterback in team history to rush for three touchdowns in three games.\n\nAfter leading Auburn teams that went 21-16 from 2019 to 2021, Nix helped Oregon to its second AP top-15 finish since 2014."
+          ],
+          "title": "Entering 5th season, Oregon's Bo Nix still finds football 'fun' - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/34905225/bo-nix-accounts-six-touchdowns-oregon-ducks-victory",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=34905225)\n\nBERKELEY, Calif. -- [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) extended its winning streak to seven games and quarterback [Bo Nix](https://www.espn.com/college-football/player/_/id/4426338/bo-nix) 's performance put him in select company in the Ducks' 42-24 win over [Cal](https://www.espn.com/college-football/team/_/id/25/california-golden-bears) .\n\nThe [Auburn](https://www.espn.com/college-football/team/_/id/2/auburn-tigers) transfer became just the third FBS quarterback in the past 10 years to throw for at least 400 yards (412), throw three touchdowns and rush for three scores in the same game, joining"
+          ],
+          "title": "Bo Nix accounts for six touchdowns in Oregon Ducks' victory - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43507314/whats-next-denver-broncos-quarterback-bo-nix-impressive-rookie-season",
+          "excerpts": [
+            "And despite a reliance on short, low-risk passes in the early going, Nix didn't show the accuracy that he was known for at Oregon, where he set an NCAA record by completing 77.4% of his passes in 2023. He was 27th in the NFL in completion percentage at 62.6% after his first nine games. But those struggles gave Nix the opportunity to showcase his ability to move on and dig in to make repairs.\n\n\"Bo is a relentless quarterback, you could see that,\" Broncos left tackle [Garett Bolles](https://www.espn.com/nfl/player/_/id/4035662/garett-bolles) said.",
+            "He completed 66.3% of his passes (376-of-567) for 3,775 yards and had a QBR of 56.9 (18th in the NFL). His 29 passing touchdowns set a franchise rookie record and were the second most by a rookie QB in NFL history, behind Justin Herbert's 31 for the Chargers in 2020.\n\n## Editor's Picks"
+          ],
+          "title": "Next steps for Broncos QB Bo Nix after great rookie season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Broncos\u2019 2024 draft-picks listing identifies Bo Nix as Denver\u2019s Round 1, Pick 12 selection.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/draft/tracker/2024/teams/denver-broncos",
+          "excerpts": [
+            "Look for Denver to address edge rusher, cornerback, the defensive line and offensive tackle (LT Garett Bolles is a free agent in 2025) later in the draft. -- by Chad Reuter\n\n**2026 SEASON RECORD**\n\n8-2 1st in AFC West\n\n## Team Draft Picks\n\nRND\n\nPICK\n\nPLAYER\n\nRND 1\n\nPICK 12\n\nPLAYER BO NIX\n\nQB OREGON SR Senior\n\nRND 3\n\nPICK 12\n\n(76)\n\nPLAYER JONAH ELLISS\n\nEDGE UTAH JR Junior\n\nRND 4\n\nPICK 2\n\n(102)\n\nPLAYER TROY FRANKLIN\n\nWR OREGON JR Junior\n\nWAS SEA DEN\n\nRND 5\n\nPICK 10\n\n(145)\n\nPLAYER KRIS ABRAMS-DRAINE\n\nCB MISSOURI SR Senior\n\nNYJ DEN\n\nRND 5\n\nPICK 12\n\n(147)\n\nPLAYER AUDRIC ESTIME\n\nRB NOTRE DAME JR Junior\n\nRND 7\n\nPICK 15\n\n(235)\n\nPLAYER DEVAUGHN VELE\n\nWR UTAH SR Senior"
+          ],
+          "title": "Denver Broncos 2024 Draft Picks | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The profile lists Pinson, Alabama as Bo Nix\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/248982/bo-nix",
+          "excerpts": [
+            "# Bo Nix\n\n* \n\n6-2, 210 | Class of 2022\n\n* Hometown [Pinson, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/2409/class/2022)\n* School [Auburn University](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2022/highschool/15660)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2022)\n* Status Signed [Oregon](https://www.espn.com/college-sports/football/recruiting/school/_/id/2483) 12/19/2021\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |"
+          ],
+          "title": "Bo Nix Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The source states that Bo Nix won consecutive state championships at Pinson Valley and set prep records for total yards and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/27427990/auburn-goes-freshman-nix-starting-qb",
+          "excerpts": [
+            "Nix won back-to-back state championships at Pinson Valley High School and set state records during his prep career with more than 12,000 total yards and 161 total touchdowns."
+          ],
+          "title": "Auburn goes with freshman Nix as starting QB - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The source reports Bo Nix\u2019s Oregon completion-percentage mark and says he was the only quarterback in school history to rush for three touchdowns in three games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/36240486/entering-5th-season-college-football-remains-fun-oregon-bo-nix",
+          "excerpts": [
+            "Nix, the son of star [Auburn](https://www.espn.com/college-football/team/_/id/2/auburn-tigers) quarterback Patrick Nix, played his first three college seasons at Auburn, recording mixed results under different coaches and offensive coordinators. He transferred to Oregon after the 2021 season and set the team's single-season completion percentage mark, while becoming the only quarterback in team history to rush for three touchdowns in three games.\n\nAfter leading Auburn teams that went 21-16 from 2019 to 2021, Nix helped Oregon to its second AP top-15 finish since 2014."
+          ],
+          "title": "Entering 5th season, Oregon's Bo Nix still finds football 'fun' - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The source describes Bo Nix\u2019s game with at least 400 passing yards, three passing touchdowns, and three rushing scores, and identifies it as a rare FBS feat.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/34905225/bo-nix-accounts-six-touchdowns-oregon-ducks-victory",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=34905225)\n\nBERKELEY, Calif. -- [Oregon](https://www.espn.com/college-football/team/_/id/2483/oregon-ducks) extended its winning streak to seven games and quarterback [Bo Nix](https://www.espn.com/college-football/player/_/id/4426338/bo-nix) 's performance put him in select company in the Ducks' 42-24 win over [Cal](https://www.espn.com/college-football/team/_/id/25/california-golden-bears) .\n\nThe [Auburn](https://www.espn.com/college-football/team/_/id/2/auburn-tigers) transfer became just the third FBS quarterback in the past 10 years to throw for at least 400 yards (412), throw three touchdowns and rush for three scores in the same game, joining"
+          ],
+          "title": "Bo Nix accounts for six touchdowns in Oregon Ducks' victory - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The source explicitly says Bo Nix set an NCAA record by completing 77.4% of his passes in 2023.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43507314/whats-next-denver-broncos-quarterback-bo-nix-impressive-rookie-season",
+          "excerpts": [
+            "And despite a reliance on short, low-risk passes in the early going, Nix didn't show the accuracy that he was known for at Oregon, where he set an NCAA record by completing 77.4% of his passes in 2023. He was 27th in the NFL in completion percentage at 62.6% after his first nine games. But those struggles gave Nix the opportunity to showcase his ability to move on and dig in to make repairs.\n\n\"Bo is a relentless quarterback, you could see that,\" Broncos left tackle [Garett Bolles](https://www.espn.com/nfl/player/_/id/4035662/garett-bolles) said."
+          ],
+          "title": "Next steps for Broncos QB Bo Nix after great rookie season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The source states that Bo Nix\u2019s 29 passing touchdowns set a Broncos franchise rookie record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/43507314/whats-next-denver-broncos-quarterback-bo-nix-impressive-rookie-season",
+          "excerpts": [
+            "He completed 66.3% of his passes (376-of-567) for 3,775 yards and had a QBR of 56.9 (18th in the NFL). His 29 passing touchdowns set a franchise rookie record and were the second most by a rookie QB in NFL history, behind Justin Herbert's 31 for the Chargers in 2020.\n\n## Editor's Picks"
+          ],
+          "title": "Next steps for Broncos QB Bo Nix after great rookie season - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "college",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

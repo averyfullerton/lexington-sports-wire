@@ -1,0 +1,156 @@
+{
+  "run_id": "trun_1d63cf7e4268416ebb1b8baebcbfec3e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 131.4,
+  "input": {
+    "player": "Kenny Darby",
+    "team": "Kentucky Wildcats",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "As a senior at Airline, Kenny Darby caught 83 passes for 1,124 yards and eight touchdowns, and added 609 rushing yards and nine rushing touchdowns.",
+      "As a junior, Kenny Darby led Louisiana in receiving yards, with 100 catches for 1,764 yards and 24 touchdowns.",
+      "Kenny Darby also competed in track and field at Airline.",
+      "Kenny Darby set Kentucky\u2019s single-game freshman record with 12 catches for 96 yards and a touchdown against South Carolina.",
+      "Kenny Darby finished with 57 catches in the season, breaking Kentucky\u2019s freshman receptions record of 50."
+    ],
+    "high_school": "Airline High School",
+    "hometown": "Bossier City, Louisiana"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The UK Athletics roster gives Darby\u2019s senior and junior statistics and notes his participation in track and field. UK Athletics\u2019 South Carolina game notes record his 12-catch freshman single-game record, and the Missouri postgame notes state that his 57 catches broke Kentucky\u2019s freshman season record.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "\u2022 Caught 83 passes for 1,124 yards and eight touchdowns as senior for head coach Justin Scogin at Airline  \n\u2022 Also rushed for 609 yards on 49 carries and nine touchdowns"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/10/05/kentuckys-kenny-darby-and-lance-heard-earn-sec-weekly-honors",
+          "excerpts": [
+            "Kentucky wide receiver Kenny Darby and offensive tackle Lance Heard have earned Southeastern Conference weekly honors, the league announced Monday. Darby is the Freshman of the Week and Heard the Offensive Lineman of the Week for performances in a 35-34 overtime victory at South Carolina.\n\nDarby, a 6-foot-1, 180-pounder from Bossier City, Louisiana, was sensational as the Wildcats marked the biggest comeback road win in school history.  The previous record was in 2009 at Georgia, when the Wildcats rallied from a 27-13 deficit in the third quarter for a 34-27 win. The explosive playmaker set a Kentucky single-game freshman record with 12 receptions, good for 96 yards and a touchdown."
+          ],
+          "title": "Kentucky\u2019s Kenny Darby and Lance Heard Earn SEC Weekly Honors \u2013 UK Athletics"
+        },
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "* WR **Kenny Darby** caught eight passes for 110 yards.\n  \n    + It is Darby\u2019s first career 100-yard receiving game and first by a UK freshman since teammate DJ Miller versus Tennessee in 2025 and only the ninth in school history.\n    + He has 57 catches on the season, breaking UK freshman record of 50 by Barion Brown in 2022."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The University of Kentucky Athletics roster directly lists Airline as Darby\u2019s high school.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "Kenny Darby - Football - University of Kentucky Athletics 19\n\n* [twitter](https://x.com/kennydarby3_)\n* [instagram](https://www.instagram.com/kennydarby1/)\n\n# Kenny Darby\n\n* position Wide Receiver\n* height 6-1\n* Weight 180\n* class Freshman\n* Hometown Bossier City, La.\n* High school Airline\n\nBIO Related\n\n**High School**  \n\u2022 A four-star prospect from each of the major recruiting services"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The University of Kentucky Athletics roster directly lists Darby\u2019s hometown as Bossier City, Louisiana.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "Kenny Darby - Football - University of Kentucky Athletics 19\n\n* [twitter](https://x.com/kennydarby3_)\n* [instagram](https://www.instagram.com/kennydarby1/)\n\n# Kenny Darby\n\n* position Wide Receiver\n* height 6-1\n* Weight 180\n* class Freshman\n* Hometown Bossier City, La.\n* High school Airline\n\nBIO Related\n\n**High School**  \n\u2022 A four-star prospect from each of the major recruiting services"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The roster lists his senior receiving totals and rushing totals.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "\u2022 Caught 83 passes for 1,124 yards and eight touchdowns as senior for head coach Justin Scogin at Airline  \n\u2022 Also rushed for 609 yards on 49 carries and nine touchdowns"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The roster states that he led Louisiana in receiving yards as a junior and gives his junior-season catches, yards, and touchdowns.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "\u2022 Caught 83 passes for 1,124 yards and eight touchdowns as senior for head coach Justin Scogin at Airline  \n\u2022 Also rushed for 609 yards on 49 carries and nine touchdowns"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The roster says that he participated in track and field at Airline.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/sports/football/roster/player/kenny-darby",
+          "excerpts": [
+            "\u2022 Caught 83 passes for 1,124 yards and eight touchdowns as senior for head coach Justin Scogin at Airline  \n\u2022 Also rushed for 609 yards on 49 carries and nine touchdowns"
+          ],
+          "title": "Kenny Darby \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The game notes state that he set Kentucky\u2019s single-game freshman record with 12 receptions for 96 yards and a touchdown against South Carolina.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/10/05/kentuckys-kenny-darby-and-lance-heard-earn-sec-weekly-honors",
+          "excerpts": [
+            "Kentucky wide receiver Kenny Darby and offensive tackle Lance Heard have earned Southeastern Conference weekly honors, the league announced Monday. Darby is the Freshman of the Week and Heard the Offensive Lineman of the Week for performances in a 35-34 overtime victory at South Carolina.\n\nDarby, a 6-foot-1, 180-pounder from Bossier City, Louisiana, was sensational as the Wildcats marked the biggest comeback road win in school history.  The previous record was in 2009 at Georgia, when the Wildcats rallied from a 27-13 deficit in the third quarter for a 34-27 win. The explosive playmaker set a Kentucky single-game freshman record with 12 receptions, good for 96 yards and a touchdown."
+          ],
+          "title": "Kentucky\u2019s Kenny Darby and Lance Heard Earn SEC Weekly Honors \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The postgame notes say he had 57 catches and broke Kentucky\u2019s freshman record of 50 catches.",
+      "citations": [
+        {
+          "url": "https://ukathletics.com/news/2026/11/21/kentucky-missouri-postgame-notes-12/",
+          "excerpts": [
+            "* WR **Kenny Darby** caught eight passes for 110 yards.\n  \n    + It is Darby\u2019s first career 100-yard receiving game and first by a UK freshman since teammate DJ Miller versus Tennessee in 2025 and only the ninth in school history.\n    + He has 57 catches on the season, breaking UK freshman record of 50 by Barion Brown in 2022."
+          ],
+          "title": "Kentucky-Missouri Postgame Notes \u2013 UK Athletics"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Nate Sheppard",
+  "espn_id": "5164332",
+  "team": "Duke Blue Devils",
+  "team_abbr": "DUKE",
+  "number": "20",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "Mandeville, LA",
+  "league": "cfb",
+  "fun_facts": [
+    "Nate scored three times in Duke\u2019s comeback win over Illinois.",
+    "Nate ran for 154 yards and scored three touchdowns against Stanford.",
+    "Nate gained 240 yards running, catching, and passing against Miami."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "DUKE",
+        "200",
+        "1,132",
+        "5.7",
+        "11"
+      ],
+      [
+        "2026",
+        "DUKE",
+        "226",
+        "1,436",
+        "6.4",
+        "20"
+      ]
+    ]
+  }
+}

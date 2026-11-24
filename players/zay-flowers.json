@@ -8,6 +8,9 @@
   "position_abbr": "WR",
   "college": "Boston College",
   "experience": 4,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Zay set a college record with 78 catches in one season.",
     "Zay set Ravens rookie records with 77 catches for 858 yards.",
@@ -55,9 +58,9 @@
       [
         "2026",
         "BAL",
-        "9",
-        "49",
-        "688",
+        "10",
+        "57",
+        "785",
         "3",
         "54"
       ]

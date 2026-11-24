@@ -1,0 +1,157 @@
+{
+  "run_id": "trun_1d63cf7e4268416eb0ce061b12fe0504",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 60.4,
+  "input": {
+    "player": "Gio Lopez",
+    "team": "Wake Forest Demon Deacons",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Gio Lopez is from Madison, Alabama.",
+      "In 2024, he threw for 2,559 yards and 18 touchdowns, and added 465 rushing yards and seven rushing scores.",
+      "Against Purdue in 2026, he scored a 3-yard touchdown in double overtime and ran in the two-point conversion that won the game 38\u201336.",
+      "Against Georgia Tech on Nov. 21, 2026, he threw for 324 yards and accounted for four touchdowns in Wake Forest\u2019s 50\u201329 win."
+    ],
+    "high_school": null,
+    "hometown": "Madison, Alabama"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The ESPN recruiting profile lists Lopez\u2019s hometown as Madison, Alabama. ESPN reports his 2024 passing and rushing totals, his game-winning double-overtime plays against Purdue, and his four-touchdown performance against Georgia Tech.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez",
+          "excerpts": [
+            "# Gio Lopez\n\n* \n\n6-0, 220 | Class of 2025\n\n* Hometown [Madison, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/396/class/2025)\n* School [University of South Alabama](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/31138)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2025)\n* Status Committed [North Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/153) 04/17/2025\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |\n\n* [Recruiting Activity](https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez)"
+          ],
+          "title": "Gio Lopez Quarterback: Dual Threat Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/44675739/sources-south-alabama-qb-gio-lopez-enter-transfer-portal",
+          "excerpts": [
+            "Sources told ESPN that North Carolina stands as the expected leader to land Lopez, who has not yet entered the transfer portal.\n\nThe 6-foot, 220-pound dual-threat quarterback produced a breakout campaign in 2024, completing 66% of his passes and tossing 18 touchdowns in 11 starts with 465 rushing yards and another seven scores on the ground. After initially considering a move in the winter portal window, Lopez opted to remain at South Alabama earlier in the offseason and was set to return as one of the Group of 5's top quarterbacks this fall."
+          ],
+          "title": "Sources: South Alabama QB Gio Lopez to enter transfer portal - ESPN"
+        },
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858224/wake-forest-purdue",
+          "excerpts": [
+            "[Full Team Stats](https://africa.espn.com/college-football/matchup/_/gameId/401858224)\n\n## Game Information\n\nWest Lafayette, IN\n\n[## Wake Forest edges Purdue 38-36 in double overtime \u2014 Wake Forest quarterback Gio Lopez ran for a 3-yard touchdown in double overtime, and he converted the two-point conversion to lift the Demon Deacons to a 38-36 victory over Purdue on Saturday. Sep 12, 2026, 10:09 pm - AP](https://africa.espn.com/college-football/recap/_/gameId/401858224)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nPurdue Boilermakers\n\nTouchdown\n\n10:43 - 1st\n\n0"
+          ],
+          "title": "Wake Forest 38-36 Purdue (12 Sep, 2026) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n50\n\n10-1 , 7-1 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |"
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The recruiting profile gives Madison, Alabama, as his hometown and lists the University of South Alabama in its \u201cSchool\u201d field, but it does not name a high school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez",
+          "excerpts": [
+            "# Gio Lopez\n\n* \n\n6-0, 220 | Class of 2025\n\n* Hometown [Madison, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/396/class/2025)\n* School [University of South Alabama](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/31138)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2025)\n* Status Committed [North Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/153) 04/17/2025\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |\n\n* [Recruiting Activity](https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez)"
+          ],
+          "title": "Gio Lopez Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile explicitly lists Madison, Alabama, as Gio Lopez\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez",
+          "excerpts": [
+            "# Gio Lopez\n\n* \n\n6-0, 220 | Class of 2025\n\n* Hometown [Madison, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/396/class/2025)\n* School [University of South Alabama](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/31138)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2025)\n* Status Committed [North Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/153) 04/17/2025\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |\n\n* [Recruiting Activity](https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez)"
+          ],
+          "title": "Gio Lopez Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile explicitly identifies Madison, Alabama, as Lopez\u2019s hometown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez",
+          "excerpts": [
+            "# Gio Lopez\n\n* \n\n6-0, 220 | Class of 2025\n\n* Hometown [Madison, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/396/class/2025)\n* School [University of South Alabama](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2025/highschool/31138)\n* Position [Quarterback: Dual-threat](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-DT/class/2025)\n* Status Committed [North Carolina](https://www.espn.com/college-sports/football/recruiting/school/_/id/153) 04/17/2025\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |\n\n* [Recruiting Activity](https://www.espn.com/college-sports/football/recruiting/player/_/id/265602/gio-lopez)"
+          ],
+          "title": "Gio Lopez Quarterback: Dual Threat Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The ESPN report gives Lopez\u2019s 2024 passing totals and his 465 rushing yards and seven rushing scores.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/44675739/sources-south-alabama-qb-gio-lopez-enter-transfer-portal",
+          "excerpts": [
+            "Sources told ESPN that North Carolina stands as the expected leader to land Lopez, who has not yet entered the transfer portal.\n\nThe 6-foot, 220-pound dual-threat quarterback produced a breakout campaign in 2024, completing 66% of his passes and tossing 18 touchdowns in 11 starts with 465 rushing yards and another seven scores on the ground. After initially considering a move in the winter portal window, Lopez opted to remain at South Alabama earlier in the offseason and was set to return as one of the Group of 5's top quarterbacks this fall."
+          ],
+          "title": "Sources: South Alabama QB Gio Lopez to enter transfer portal - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN game summary states that Lopez scored a 3-yard touchdown in double overtime and converted the two-point attempt to lift Wake Forest to a 38\u201336 win over Purdue.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/game/_/gameId/401858224/wake-forest-purdue",
+          "excerpts": [
+            "[Full Team Stats](https://africa.espn.com/college-football/matchup/_/gameId/401858224)\n\n## Game Information\n\nWest Lafayette, IN\n\n[## Wake Forest edges Purdue 38-36 in double overtime \u2014 Wake Forest quarterback Gio Lopez ran for a 3-yard touchdown in double overtime, and he converted the two-point conversion to lift the Demon Deacons to a 38-36 victory over Purdue on Saturday. Sep 12, 2026, 10:09 pm - AP](https://africa.espn.com/college-football/recap/_/gameId/401858224)\n\nPlay-By-Play\n\nScoring Plays All Plays\n\n1st Quarter\n\nPurdue Boilermakers\n\nTouchdown\n\n10:43 - 1st\n\n0"
+          ],
+          "title": "Wake Forest 38-36 Purdue (12 Sep, 2026) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN recap reports Lopez\u2019s 324 passing yards and four total touchdowns in Wake Forest\u2019s 50\u201329 win over Georgia Tech.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n50\n\n10-1 , 7-1 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |"
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [
+      "high_school"
+    ],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

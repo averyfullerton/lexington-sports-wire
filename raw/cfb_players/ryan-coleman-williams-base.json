@@ -1,0 +1,176 @@
+{
+  "run_id": "trun_1d63cf7e4268416e8d8483e88866d2df",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 110.2,
+  "input": {
+    "player": "Ryan Coleman-Williams",
+    "team": "Alabama Crimson Tide",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "At Saraland High School, Ryan Coleman-Williams was Alabama\u2019s only two-time Mr. Football. In three seasons, he had more than 4,400 yards of total offense and scored 76 touchdowns in 39 games.",
+      "He skipped his senior year of high school to join Alabama, and was 17 as a freshman.",
+      "As a freshman against Georgia, he caught six passes for 177 yards and a touchdown.",
+      "One of his plays against Georgia was a 75-yard touchdown catch featuring a spin move that helped Alabama win.",
+      "In 2024, he had 48 catches for 865 yards and eight receiving touchdowns, plus two rushing touchdowns.",
+      "In 2026, he recorded 32 catches for 497 yards and four touchdowns, averaging 15.5 yards per catch."
+    ],
+    "high_school": "Saraland High School",
+    "hometown": "Saraland, Alabama"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passage says Ryan Williams was Alabama\u2019s only two-time Mr. Football and gives his three-season Saraland totals: more than 4,400 yards of total offense and 76 touchdowns in 39 games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41837812/college-football-2024-alabama-ryan-williams-arrives-early",
+          "excerpts": [
+            "football/player/_/id/4432734/jalen-milroe) aren't the only ones thrilled that receiver [Ryan Williams](https://www.espn.com/college-football/player/_/id/5141711/ryan-williams) decided to forego his senior year of high school to join the Crimson Tide this season. So are the high school football coaches who competed against Williams, the only two-time Mr. Football in Alabama history, the previous three seasons.\n\n\"Somebody texted me and said, 'I bet you're glad Ryan Williams reclassified,'\" said Ham Barnett, head coach at St. Paul's Episcopal School in Mobile. \"I told him my defensive backs were happy for sure.\"\n\nIn three seasons at Saraland High School, just 10 miles north of Mobile, Williams had more than 4,400 yards of total offense and scored 76 touchdowns in 39 games -- 47 receiving,",
+            "His 25-yard average on receptions leads the FBS.\n\nThose who watched him compete in youth leagues and high school aren't that surprised by his instant impact."
+          ],
+          "title": "Should be in high school! Alabama's Ryan Williams arrives early - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN player profile identifies Saraland High School as his school.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/252368/ryan-williams",
+          "excerpts": [
+            "# Ryan Williams\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/4/class/2024)\n\n* \n\n6-1, 170 | Class of 2024\n\n* Hometown [Saraland, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/5213/class/2024)\n* School [Saraland High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/15983)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2024)\n* Status Signed [Alabama](https://www.espn.com/college-sports/football/recruiting/school/_/id/333) 01/24/2024\n\n#### Scout Grade\n\n* 92\n*\n\n|1 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2024/view/position) |\n| --- |"
+          ],
+          "title": "Ryan Williams Wide Receiver Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN profile lists his hometown as Saraland, Alabama.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/252368/ryan-williams",
+          "excerpts": [
+            "# Ryan Williams\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/4/class/2024)\n\n* \n\n6-1, 170 | Class of 2024\n\n* Hometown [Saraland, Ala.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/2/hometown/5213/class/2024)\n* School [Saraland High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2024/highschool/15983)\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2024)\n* Status Signed [Alabama](https://www.espn.com/college-sports/football/recruiting/school/_/id/333) 01/24/2024\n\n#### Scout Grade\n\n* 92\n*\n\n|1 [POSITION](https://www.espn.com/college-sports/football/recruiting/playerrankings/_/position/wide-receiver/class/2024/view/position) |\n| --- |"
+          ],
+          "title": "Ryan Williams Wide Receiver Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage gives the two-time Mr. Football distinction and his Saraland career totals, including more than 4,400 yards and 76 touchdowns in 39 games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41837812/college-football-2024-alabama-ryan-williams-arrives-early",
+          "excerpts": [
+            "football/player/_/id/4432734/jalen-milroe) aren't the only ones thrilled that receiver [Ryan Williams](https://www.espn.com/college-football/player/_/id/5141711/ryan-williams) decided to forego his senior year of high school to join the Crimson Tide this season. So are the high school football coaches who competed against Williams, the only two-time Mr. Football in Alabama history, the previous three seasons.\n\n\"Somebody texted me and said, 'I bet you're glad Ryan Williams reclassified,'\" said Ham Barnett, head coach at St. Paul's Episcopal School in Mobile. \"I told him my defensive backs were happy for sure.\"\n\nIn three seasons at Saraland High School, just 10 miles north of Mobile, Williams had more than 4,400 yards of total offense and scored 76 touchdowns in 39 games -- 47 receiving,",
+            "His 25-yard average on receptions leads the FBS.\n\nThose who watched him compete in youth leagues and high school aren't that surprised by his instant impact."
+          ],
+          "title": "Should be in high school! Alabama's Ryan Williams arrives early - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The first passage says he chose to forgo his senior year of high school to join Alabama; the second identifies him as a 17-year-old freshman.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41837812/college-football-2024-alabama-ryan-williams-arrives-early",
+          "excerpts": [
+            "football/player/_/id/4432734/jalen-milroe) aren't the only ones thrilled that receiver [Ryan Williams](https://www.espn.com/college-football/player/_/id/5141711/ryan-williams) decided to forego his senior year of high school to join the Crimson Tide this season. So are the high school football coaches who competed against Williams, the only two-time Mr. Football in Alabama history, the previous three seasons.\n\n\"Somebody texted me and said, 'I bet you're glad Ryan Williams reclassified,'\" said Ham Barnett, head coach at St. Paul's Episcopal School in Mobile. \"I told him my defensive backs were happy for sure.\"\n\nIn three seasons at Saraland High School, just 10 miles north of Mobile, Williams had more than 4,400 yards of total offense and scored 76 touchdowns in 39 games -- 47 receiving,"
+          ],
+          "title": "Should be in high school! Alabama's Ryan Williams arrives early - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41502998/alabama-blows-28-0-lead-escapes-georgia-late-touchdown",
+          "excerpts": [
+            "Williams, a 17-year-old freshman, had six catches for 177 yards with one score.\n\nAlabama needed an interception in the end zone with 43 seconds left to earn its ninth win in 10 games against Georgia."
+          ],
+          "title": "Alabama blows 28-0 lead, escapes Georgia on late touchdown - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage reports six catches for 177 yards and one score in the Georgia game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41502998/alabama-blows-28-0-lead-escapes-georgia-late-touchdown",
+          "excerpts": [
+            "Williams, a 17-year-old freshman, had six catches for 177 yards with one score.\n\nAlabama needed an interception in the end zone with 43 seconds left to earn its ninth win in 10 games against Georgia."
+          ],
+          "title": "Alabama blows 28-0 lead, escapes Georgia on late touchdown - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage describes his 75-yard touchdown catch, including the spin move, and says it helped Alabama hold on for the win over Georgia.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/college-football/story/_/id/41505417/ryan-williams-saves-alabama-dramatic-td-catch-vs-georgia",
+          "excerpts": [
+            "\"I can't get tackled,\" he said late Saturday night.\n\nIn the open field, few defenders have tackled [Alabama](https://africa.espn.com/college-football/team/_/id/333/alabama-crimson-tide) 's dynamic freshman wide receiver, and it was his 75-yard touchdown catch -- complete with an electrifying spin move and dash to the end zone -- that helped No. 4 Alabama hold on for a thrilling [41-34 win](https://africa.espn.com/college-football/game/_/gameId/401628374/georgia-alabama) over No. 2 [Georgia](https://africa.espn.com/college-football/team/_/id/61/georgia-bulldogs) at Bryant-Denny Stadium."
+          ],
+          "title": "Ryan Williams saves Alabama with dramatic TD catch vs. Georgia - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage lists his 2024 totals: 48 receptions, 865 receiving yards, eight receiving touchdowns, and two rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/44574035/ranking-best-receivers-college-football-2025",
+          "excerpts": [
+            "It's a rare spot for such a young player to occupy, but Smith is a rare talent. -- _Adam Rittenberg_\n\n* * *\n\n## 2\\. [Ryan Williams](https://www.espn.com/college-football/player/_/id/5141711/ryan-williams) , Alabama\n\n**Points:** 82\n\n**2024 stats:** 48 receptions, 865 yards, 18-yard average, 10 TDs (2 rushing)\n\nWilliams didn't finish his freshman season the way he started it, but still proved to be one of the most explosive players in the nation."
+          ],
+          "title": "Ranking the best receivers in college football for 2025 - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The profile\u2019s 2026 season statistics list 32 receptions, 497 yards, four touchdowns, and a 15.5-yard average.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/bio/_/id/5141711/ryan-coleman-williams",
+          "excerpts": [
+            "2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Ryan Coleman-Williams\n\nAlabama Crimson Tide\n\n* [Alabama Crimson Tide](https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide)\n* \\#1\n* Wide Receiver WR\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 0\", 184 lbs\n* Birthplace\n  \n  Mobile, AL\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  6' 0\", 184 lbs\n* Birthplace\n  \n  Mobile, AL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* REC\n  \n  32\n  \n  150+\n  \n  YDS\n  \n  497\n  \n  Tied-134th\n  \n  TD\n  \n  4\n  \n  Tied-102nd\n  \n  AVG\n  \n  15\\.5\n  \n  Tied-91st"
+          ],
+          "title": "Ryan Coleman-Williams Biography - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

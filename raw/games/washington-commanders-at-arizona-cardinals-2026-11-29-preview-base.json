@@ -1,0 +1,324 @@
+{
+  "run_id": "trun_1714e31eeb204d32bf4bad717ca096b1",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 286.7,
+  "input": {
+    "away_team": "Washington Commanders",
+    "home_team": "Arizona Cardinals",
+    "game_date": "2026-11-29",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "4-5-1",
+    "away_team": "Washington Commanders",
+    "storyline": "Washington\u2019s 22-20 win over Cincinnati kept its NFC East hopes alive, though it remains two games behind the Giants. Arizona enters after a 34-7 Week 11 loss to Kansas City and sits fourth in the NFC West.",
+    "matchup_notes": [
+      "Washington beat Cincinnati 22-20 on Nov. 23, improving to 4-5-1.",
+      "Washington is two games behind the NFC East-leading Giants.",
+      "Arizona lost 34-7 at Kansas City in Week 11.",
+      "Arizona is 3-8, fourth in the NFC West, and has lost three straight."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,788 passing yards, 335 rushing yards",
+        "team": "Washington Commanders",
+        "name": "Jayden Daniels"
+      },
+      {
+        "stat_line": "87 receptions, 689 receiving yards, 5 TD",
+        "team": "Arizona Cardinals",
+        "name": "Trey McBride"
+      }
+    ],
+    "home_record": "3-8",
+    "home_team": "Arizona Cardinals",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The Commanders\u2019 official recap says the 22-20 win over Cincinnati gave Washington a 4-5-1 record.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/instant-analysis-commanders-bengals-monday-night-football",
+          "excerpts": [
+            "Drew Stevens, who had already hit four field goals earlier in the night, nailed the 26-yarder as time expired, giving Washington a 22-20 win over the Bengals and a 4-5-1 record that keeps their season very much alive.\n\n\"We thought this game was going to come down to critical situations and complementary football,\" Quinn said."
+          ],
+          "title": "Instant analysis | Commanders stun Bengals with 22-20 MNF win"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The Week 12 game listing identifies Washington as the Commanders, the away team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/game-day/washington-commanders-at-arizona-cardinals/box-score",
+          "excerpts": [
+            "# Gameday | Washington Commanders - Commanders.com\n\nWEEK 12 \u2022 SUN 11/29 \u2022 4:25 PM EST\n\nCommanders Washington Commanders 3-5-1\n\nCardinals Arizona Cardinals 3-7\n\nFOX\n\nBIG 100.3 FM\n\n[BUY TICKETS](https://www.ticketmaster.com/event/1900646DDA17C048?wt.mc_id=NFL_TEAM_WAS_SCHED_PG_AWAY_1&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_TEAM_WAS&utm_content=SCHED_PG_AWAY_1)"
+          ],
+          "title": "Gameday | Washington Commanders - Commanders.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The NFL account of Washington\u2019s divisional position says it is two games behind the Giants after beating Cincinnati. The Week 11 results show Arizona lost 7-34 to Kansas City, and Arizona\u2019s team listing places it fourth in the NFC West.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "**Washington's NFC East hopes remain alive.** And just like that, the Commanders have life in the divisional race. Following a Sunday in which the Giants, Cowboys and Eagles all won, Washington desperately needed to upset the Bengals to keep pace. Somehow, someway, the Commanders did, and they're now two games back of the 6-3-1 Giants with the all-important head-to-head tiebreaker. The Cowboys also sit ahead of them in the standings at 5-6. With little chance of getting involved in the NFC wild-card race, the division is the Commanders' path to a playoff spot."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games?remove_header",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the Arizona Cardinals and the Kansas City Chiefs during the 2026 NFL season.\n\nSCORE\n\n7\n\n[Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals)\n\nSCORE\n\n34\n\n[Kansas City Chiefs 8-2](https://www.nfl.com/teams/kansas-city-chiefs)\n\n**REWATCH:** [Cardinals-Chiefs on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11)\n\n_Kevin Patra's takeaways:_\n\n1."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/arizona-cardinals",
+          "excerpts": [
+            "# Arizona Cardinals News, Scores, Stats, Schedule | NFL.com\n\nArizona Cardinals\n\n4th NFC West\n\n3 - 8 - 0"
+          ],
+          "title": "Arizona Cardinals News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited recap supports Washington\u2019s Week 11 win and updated record; the divisional report gives its gap to the Giants. The NFL results and standings support Arizona\u2019s Week 11 loss, 3-8 record, fourth-place standing, and three-game losing streak.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/instant-analysis-commanders-bengals-monday-night-football",
+          "excerpts": [
+            "Drew Stevens, who had already hit four field goals earlier in the night, nailed the 26-yarder as time expired, giving Washington a 22-20 win over the Bengals and a 4-5-1 record that keeps their season very much alive.\n\n\"We thought this game was going to come down to critical situations and complementary football,\" Quinn said."
+          ],
+          "title": "Instant analysis | Commanders stun Bengals with 22-20 MNF win"
+        },
+        {
+          "url": "https://fantasy-www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "**Washington's NFC East hopes remain alive.** And just like that, the Commanders have life in the divisional race. Following a Sunday in which the Giants, Cowboys and Eagles all won, Washington desperately needed to upset the Bengals to keep pace. Somehow, someway, the Commanders did, and they're now two games back of the 6-3-1 Giants with the all-important head-to-head tiebreaker. The Cowboys also sit ahead of them in the standings at 5-6. With little chance of getting involved in the NFC wild-card race, the division is the Commanders' path to a playoff spot."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games?remove_header",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the Arizona Cardinals and the Kansas City Chiefs during the 2026 NFL season.\n\nSCORE\n\n7\n\n[Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals)\n\nSCORE\n\n34\n\n[Kansas City Chiefs 8-2](https://www.nfl.com/teams/kansas-city-chiefs)\n\n**REWATCH:** [Cardinals-Chiefs on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11)\n\n_Kevin Patra's takeaways:_\n\n1."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/teams/arizona-cardinals",
+          "excerpts": [
+            "# Arizona Cardinals News, Scores, Stats, Schedule | NFL.com\n\nArizona Cardinals\n\n4th NFC West\n\n3 - 8 - 0"
+          ],
+          "title": "Arizona Cardinals News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/standings/division/2026/REG",
+          "excerpts": [
+            "333 |4 - 2 - 0 |0\\.667 |2 - 2 - 0 |4W |4 - 1 - 0 |\n|[Arizona Cardinals Cardinals](https://www.nfl.com/teams/arizona-cardinals/) |3 |8 |0 |0\\.273 |191 |323 |\\-132 |0 - 4 - 0 |3 - 4 - 0 |1 - 4 - 0 |0\\.200 |2 - 6 - 0 |0\\.250 |1 - 2 - 0 |3L |1 - 4 - 0 |\n\n### LEGEND\n\n* W : Wins\n* L : Losses\n* T : Ties\n* PCT : Winning Percentage\n* HOME : Home Record\n* ROAD : Road Record\n\n* DIV : Division Record\n* CONF : Conference Record"
+          ],
+          "title": "2026 NFL Division Standings"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Commanders\u2019 player-leader listing gives Jayden Daniels 1,788 passing yards and 335 rushing yards. The NFL\u2019s 2026 Cardinals stats row gives Trey McBride 87 receptions, 689 receiving yards, and 5 touchdowns.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+          "excerpts": [
+            "2005 Regular Season 2004 Postseason 2004 Regular Season 2026 Preseason 2025 Preseason 2024 Preseason 2023 Preseason 2022 Preseason 2021 Preseason\n\nTeam leaders\n\n[## Passing Yards Jayden Daniels ### Jayden Daniels QB 1,788](https://africa.espn.com/nfl/player/_/id/4426348/jayden-daniels) [## Rushing Yards Jayden Daniels ### Jayden Daniels QB 335](https://africa.espn.com/nfl/player/_/id/4426348/jayden-daniels) [## Receiving Yards Antonio Williams ### Antonio Williams WR"
+          ],
+          "title": "Washington Commanders 2026 NFL Regular Season Players Stats - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/players/trey-mcbride/stats",
+          "excerpts": [
+            "|2025 |Arizona Cardinals |17 |17 |126 |1239 |9\\.8 |31 |11 | | | | | | | |\n|2026 |Arizona Cardinals |11 |11 |87 |689 |7\\.9 |27 |5 |1 |4 |4 |4 |0 |1 |0 |"
+          ],
+          "title": "Trey McBride Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The Cardinals\u2019 team listing gives their record as 3-8-0, equivalent to 3-8.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/arizona-cardinals",
+          "excerpts": [
+            "# Arizona Cardinals News, Scores, Stats, Schedule | NFL.com\n\nArizona Cardinals\n\n4th NFC West\n\n3 - 8 - 0"
+          ],
+          "title": "Arizona Cardinals News, Scores, Stats, Schedule | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 12 game listing identifies Arizona as the Cardinals, the home team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/game-day/washington-commanders-at-arizona-cardinals/box-score",
+          "excerpts": [
+            "# Gameday | Washington Commanders - Commanders.com\n\nWEEK 12 \u2022 SUN 11/29 \u2022 4:25 PM EST\n\nCommanders Washington Commanders 3-5-1\n\nCardinals Arizona Cardinals 3-7\n\nFOX\n\nBIG 100.3 FM\n\n[BUY TICKETS](https://www.ticketmaster.com/event/1900646DDA17C048?wt.mc_id=NFL_TEAM_WAS_SCHED_PG_AWAY_1&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_TEAM_WAS&utm_content=SCHED_PG_AWAY_1)"
+          ],
+          "title": "Gameday | Washington Commanders - Commanders.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists Washington at Arizona on Sunday, Nov. 29. That scheduled date is after the stated current date of Nov. 24, 2026, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/schedules/2026/by-team/washington-commanders",
+          "excerpts": [
+            "### Week 12\n\n* [Commanders at Cardinals, Sunday, November 29th, 4:25 PM, FOX](https://www.nfl.com/games/commanders-at-cardinals-2026-reg-12)\n  \n  LOCAL\n  \n  Washington Commanders Team Logo COMMANDERS\n  \n  Arizona Cardinals Team Logo CARDINALS\n  \n* * *\n  \n  LOCAL"
+          ],
+          "title": "NFL 2026 Washington Commanders Schedule | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The Commanders\u2019 recap says Washington beat Cincinnati 22-20 and gives its resulting record as 4-5-1.",
+      "citations": [
+        {
+          "url": "https://www.commanders.com/news/instant-analysis-commanders-bengals-monday-night-football",
+          "excerpts": [
+            "Drew Stevens, who had already hit four field goals earlier in the night, nailed the 26-yarder as time expired, giving Washington a 22-20 win over the Bengals and a 4-5-1 record that keeps their season very much alive.\n\n\"We thought this game was going to come down to critical situations and complementary football,\" Quinn said."
+          ],
+          "title": "Instant analysis | Commanders stun Bengals with 22-20 MNF win"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The NFL report states that Washington is two games behind the Giants in the NFC East.",
+      "citations": [
+        {
+          "url": "https://fantasy-www.nfl.com/news/bengals-commanders-on-monday-night-football-what-we-learned-from-washington-s-22-20-win",
+          "excerpts": [
+            "**Washington's NFC East hopes remain alive.** And just like that, the Commanders have life in the divisional race. Following a Sunday in which the Giants, Cowboys and Eagles all won, Washington desperately needed to upset the Bengals to keep pace. Somehow, someway, the Commanders did, and they're now two games back of the 6-3-1 Giants with the all-important head-to-head tiebreaker. The Cowboys also sit ahead of them in the standings at 5-6. With little chance of getting involved in the NFC wild-card race, the division is the Commanders' path to a playoff spot."
+          ],
+          "title": "Bengals-Commanders on 'Monday Night Football': What We Learned from Washington's 22-20 win"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 11 results list Kansas City\u2019s 34-7 win over Arizona.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games?remove_header",
+          "excerpts": [
+            "Highlights from the Week 11 matchup between the Arizona Cardinals and the Kansas City Chiefs during the 2026 NFL season.\n\nSCORE\n\n7\n\n[Arizona Cardinals 3-8](https://www.nfl.com/teams/arizona-cardinals)\n\nSCORE\n\n34\n\n[Kansas City Chiefs 8-2](https://www.nfl.com/teams/kansas-city-chiefs)\n\n**REWATCH:** [Cardinals-Chiefs on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)\n\n[FULL BOX SCORE](https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11)\n\n_Kevin Patra's takeaways:_\n\n1."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "Arizona\u2019s team listing shows a 3-8 record and fourth place in the NFC West. The NFL standings row marks its streak as 3L.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/teams/arizona-cardinals",
+          "excerpts": [
+            "# Arizona Cardinals News, Scores, Stats, Schedule | NFL.com\n\nArizona Cardinals\n\n4th NFC West\n\n3 - 8 - 0"
+          ],
+          "title": "Arizona Cardinals News, Scores, Stats, Schedule | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/standings/division/2026/REG",
+          "excerpts": [
+            "333 |4 - 2 - 0 |0\\.667 |2 - 2 - 0 |4W |4 - 1 - 0 |\n|[Arizona Cardinals Cardinals](https://www.nfl.com/teams/arizona-cardinals/) |3 |8 |0 |0\\.273 |191 |323 |\\-132 |0 - 4 - 0 |3 - 4 - 0 |1 - 4 - 0 |0\\.200 |2 - 6 - 0 |0\\.250 |1 - 2 - 0 |3L |1 - 4 - 0 |\n\n### LEGEND\n\n* W : Wins\n* L : Losses\n* T : Ties\n* PCT : Winning Percentage\n* HOME : Home Record\n* ROAD : Road Record\n\n* DIV : Division Record\n* CONF : Conference Record"
+          ],
+          "title": "2026 NFL Division Standings"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The Commanders\u2019 player-leader listing identifies Jayden Daniels and gives his season totals of 1,788 passing yards and 335 rushing yards.",
+      "citations": [
+        {
+          "url": "https://africa.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+          "excerpts": [
+            "2005 Regular Season 2004 Postseason 2004 Regular Season 2026 Preseason 2025 Preseason 2024 Preseason 2023 Preseason 2022 Preseason 2021 Preseason\n\nTeam leaders\n\n[## Passing Yards Jayden Daniels ### Jayden Daniels QB 1,788](https://africa.espn.com/nfl/player/_/id/4426348/jayden-daniels) [## Rushing Yards Jayden Daniels ### Jayden Daniels QB 335](https://africa.espn.com/nfl/player/_/id/4426348/jayden-daniels) [## Receiving Yards Antonio Williams ### Antonio Williams WR"
+          ],
+          "title": "Washington Commanders 2026 NFL Regular Season Players Stats - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NFL stats table\u2019s 2026 Arizona Cardinals row lists Trey McBride\u2019s 87 receptions, 689 receiving yards, and 5 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/trey-mcbride/stats",
+          "excerpts": [
+            "|2025 |Arizona Cardinals |17 |17 |126 |1239 |9\\.8 |31 |11 | | | | | | | |\n|2026 |Arizona Cardinals |11 |11 |87 |689 |7\\.9 |27 |5 |1 |4 |4 |4 |0 |1 |0 |"
+          ],
+          "title": "Trey McBride Stats Summary | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "matchup_notes.1",
+      "players_to_watch",
+      "players_to_watch.0",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Washington beat Cincinnati 22-20 in its last game! The 4-5-1 Commanders now visit the 3-8 Cardinals in Arizona. Washington is hopeful, sitting 2 games behind the Giants in the NFC East. Watch Arizona\u2019s Trey McBride, who has 87 catches this season.",
+    "big_words": [
+      {
+        "word": "hopeful",
+        "definition": "Feeling that something good might happen.",
+        "example": "Sofia felt hopeful as she ran toward the ball at recess."
+      }
+    ],
+    "opener": "Start with one team's streak or last game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1036,
+        "output": 166
+      }
+    ]
+  }
+}

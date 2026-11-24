@@ -8,6 +8,9 @@
   "position_abbr": "RB",
   "college": "North Carolina",
   "experience": 2,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Omarion ran for 88 touchdowns in high school.",
     "Omarion scored five touchdowns in one game against Florida State.",
@@ -37,10 +40,10 @@
       [
         "2026",
         "LAC",
-        "9",
-        "124",
-        "474",
-        "3.8",
+        "10",
+        "138",
+        "563",
+        "4.1",
         "4"
       ]
     ]

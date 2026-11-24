@@ -1,0 +1,78 @@
+{
+  "name": "Trey McBride",
+  "espn_id": "4361307",
+  "team": "Arizona Cardinals",
+  "team_abbr": "ARI",
+  "number": "85",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Colorado State",
+  "experience": 5,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Trey made 126 catches in 2025, an NFL record for a tight end.",
+    "Trey was the first tight end picked in the 2022 NFL Draft.",
+    "Trey won the Mackey Award in college."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2022",
+        "ARI",
+        "16",
+        "29",
+        "265",
+        "1",
+        "29"
+      ],
+      [
+        "2023",
+        "ARI",
+        "17",
+        "81",
+        "825",
+        "3",
+        "38"
+      ],
+      [
+        "2024",
+        "ARI",
+        "16",
+        "111",
+        "1,146",
+        "2",
+        "37"
+      ],
+      [
+        "2025",
+        "ARI",
+        "17",
+        "126",
+        "1,239",
+        "11",
+        "31"
+      ],
+      [
+        "2026",
+        "ARI",
+        "11",
+        "87",
+        "689",
+        "5",
+        "27"
+      ]
+    ]
+  }
+}

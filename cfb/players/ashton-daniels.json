@@ -1,0 +1,78 @@
+{
+  "name": "Ashton Daniels",
+  "espn_id": "4838679",
+  "team": "Florida State Seminoles",
+  "team_abbr": "FSU",
+  "number": "14",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Buford, GA",
+  "league": "cfb",
+  "fun_facts": [
+    "Ashton set a Florida State quarterback record with five rushing touchdowns against Virginia.",
+    "He ran for his best 136 yards against Virginia.",
+    "Ashton threw a touchdown pass and ran for a touchdown in Florida State\u2019s season opener."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2022",
+        "STAN",
+        "5",
+        "6",
+        "39",
+        "0",
+        "0"
+      ],
+      [
+        "2023",
+        "STAN",
+        "191",
+        "325",
+        "2,247",
+        "11",
+        "8"
+      ],
+      [
+        "2024",
+        "STAN",
+        "170",
+        "271",
+        "1,700",
+        "10",
+        "12"
+      ],
+      [
+        "2025",
+        "AUB",
+        "68",
+        "119",
+        "797",
+        "3",
+        "2"
+      ],
+      [
+        "2026",
+        "FSU",
+        "177",
+        "300",
+        "2,515",
+        "14",
+        "14"
+      ]
+    ]
+  }
+}

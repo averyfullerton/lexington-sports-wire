@@ -1,0 +1,326 @@
+{
+  "run_id": "trun_1714e31eeb204d32849adeffea513fcf",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 92.5,
+  "input": {
+    "away_team": "Philadelphia Eagles",
+    "home_team": "Dallas Cowboys",
+    "game_date": "2026-11-26",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "3-7",
+    "away_team": "Philadelphia Eagles",
+    "storyline": "Dallas enters second in the NFC East at 5-6, while Philadelphia is fourth at 3-7. Both teams are coming off Week 11 wins: Dallas beat Tennessee 51-30, and Philadelphia beat Pittsburgh 19-16 to snap a seven-game losing streak.",
+    "matchup_notes": [
+      "Dallas is second in the NFC East at 5-6; Philadelphia is fourth at 3-7.",
+      "Philadelphia beat Pittsburgh 19-16 in Week 11, snapping a seven-game losing streak.",
+      "Dallas defeated Tennessee 51-30 in Week 11."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "3,049 passing yards, 25 passing TD",
+        "team": "Dallas Cowboys",
+        "name": "Dak Prescott"
+      },
+      {
+        "stat_line": "1,000+ receiving yards; 11 catches for 132 yards in Week 11",
+        "team": "Dallas Cowboys",
+        "name": "CeeDee Lamb"
+      },
+      {
+        "stat_line": "371 rushing yards, 4 TD",
+        "team": "Philadelphia Eagles",
+        "name": "Saquon Barkley"
+      }
+    ],
+    "home_record": "5-6",
+    "home_team": "Dallas Cowboys",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The NFL Week 11 recap lists Philadelphia at 3-7 after its game against Pittsburgh, establishing the Eagles' record before Week 12.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "SCORE\n\n19\n\n[Philadelphia Eagles 3-7](https://www.nfl.com/teams/philadelphia-eagles)\n\n**REWATCH:** [Steelers-Eagles on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The Week 12 schedule names the Philadelphia Eagles as the visiting team against Dallas.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/news-and-releases/week-12-flex-scheduling--raiders-browns-to-sunday-night--patriot",
+          "excerpts": [
+            "**Thursday, Nov. 26**\n\nChicago Bears at Detroit Lions                                                   1 p.m. ET                      CBS\n\nPhiladelphia Eagles at Dallas Cowboys                                      4:30 p.m. ET                 FOX\n\nKansas City Chiefs at Buffalo Bills                                             8:20 p.m. ET                 NBC\n\n**Friday, Nov. 27**\n\nDenver Broncos at Pittsburgh Steelers                                        3 p.m. ET                      Prime Video\n\n**Sunday, Nov. 29**"
+          ],
+          "title": "Week 12 Flex Scheduling: Raiders-Browns to Sunday Night, Patriots-Chargers to 4:05 p.m. ET and Titans-Jaguars to 1 p.m. ET"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The standings place Dallas second at 5-6 and Philadelphia fourth at 3-7. The Week 11 results list Dallas's 51-30 win, and ESPN notes that Philadelphia snapped its seven-game slide with its win over Pittsburgh.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/cowboys-at-rams-2026-reg-15?tab=preview",
+          "excerpts": [
+            "## Game Info\n\nLOCATION\n    INGLEWOOD, CA\n\nSTADIUM\n    SOFI STADIUM\n\n## Standings\n\nNFC EAST NFC WEST\n\nTEAM\n\nW Wins L Losses T Ties\n\nPCT Win Percentage\n\n[GIANTS NYG GIANTS GIANTS 6 6 wins 3 3 losses 1 1 ties 0\\.65 0\\.65 win percentage](https://www.nfl.com/teams/new-york-giants) [COWBOYS DAL COWBOYS COWBOYS 5 5 wins 6 6 losses 0 0 ties 0\\.455 0\\.455 win percentage](https://www.nfl.com/teams/dallas-cowboys) [COMMANDERS",
+            "teams/washington-commanders) [EAGLES PHI EAGLES EAGLES 3 3 wins 7 7 losses 0 0 ties 0\\.3 0\\.3 win percentage](https://www.nfl.com/teams/philadelphia-eagles)\n\n[See All](https://www.nfl.com/standings)\n\n## Recent Games\n\nCOWBOYS RAMS\n\n[Week 11 Wk 11 vs versus Tennessee Titans Logo TITANS W Win 30-51 30 to 51 points Watch Replay Replay Button](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?active-tab=watch) [Week 10 Wk 10 vs versus San Francisco 49ers Logo 49ERS L Loss 46-40 46 to 40 points Watch Replay Replay"
+          ],
+          "title": "Dallas Cowboys at Los Angeles Rams 2026 REG 15 - Game Center"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "* Buffalo Bills 26, Miami Dolphins 9\n* Carolina Panthers 35, Baltimore Ravens 33\n* Chicago Bears 21, New Orleans Saints 13\n* Dallas Cowboys 51, Tennessee Titans 30\n* Detroit Lions 31, Tampa Bay Buccaneers 21\n* Kansas City Chiefs 34, Arizona Cardinals 7\n* Philadelphia Eagles 19. Pittsburgh Steelers 16\n\n**Late Window**",
+            "Loading...\n\nHighlights of the Week 11 matchup between the Tennessee Titans and Dallas Cowboys during the 2026 NFL season.\n\nSCORE\n\n30\n\n[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans)\n\nSCORE\n\n51\n\n[Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)\n\n**REWATCH:** [Titans-Cowboys on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)",
+            "SCORE\n\n19\n\n[Philadelphia Eagles 3-7](https://www.nfl.com/teams/philadelphia-eagles)\n\n**REWATCH:** [Steelers-Eagles on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "Images](https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026)\n\n## Eagles\n\n### NFL\n\n## Eagles snap 7-game slide with win over Steelers\n\n* 1d\n\n0:46\n\n## Eagles snap 7-game slide with win over Steelers\n\nBack to Top\n\n### 2026 NFC East Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[NY Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) |6 |3 |1 |.650 |226 |214 |\n|[Dallas](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys) |5 |6 |0 |.455 |337 |312 |"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The standings support the teams' positions and records. ESPN identifies Philadelphia's win as the end of a seven-game slide, and the final score table gives the Eagles-Steelers result as 19-16. The Week 11 NFL recap records Dallas's 51-30 win over Tennessee.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/cowboys-at-rams-2026-reg-15?tab=preview",
+          "excerpts": [
+            "## Game Info\n\nLOCATION\n    INGLEWOOD, CA\n\nSTADIUM\n    SOFI STADIUM\n\n## Standings\n\nNFC EAST NFC WEST\n\nTEAM\n\nW Wins L Losses T Ties\n\nPCT Win Percentage\n\n[GIANTS NYG GIANTS GIANTS 6 6 wins 3 3 losses 1 1 ties 0\\.65 0\\.65 win percentage](https://www.nfl.com/teams/new-york-giants) [COWBOYS DAL COWBOYS COWBOYS 5 5 wins 6 6 losses 0 0 ties 0\\.455 0\\.455 win percentage](https://www.nfl.com/teams/dallas-cowboys) [COMMANDERS",
+            "teams/washington-commanders) [EAGLES PHI EAGLES EAGLES 3 3 wins 7 7 losses 0 0 ties 0\\.3 0\\.3 win percentage](https://www.nfl.com/teams/philadelphia-eagles)\n\n[See All](https://www.nfl.com/standings)\n\n## Recent Games\n\nCOWBOYS RAMS\n\n[Week 11 Wk 11 vs versus Tennessee Titans Logo TITANS W Win 30-51 30 to 51 points Watch Replay Replay Button](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?active-tab=watch) [Week 10 Wk 10 vs versus San Francisco 49ers Logo 49ERS L Loss 46-40 46 to 40 points Watch Replay Replay"
+          ],
+          "title": "Dallas Cowboys at Los Angeles Rams 2026 REG 15 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "Images](https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026)\n\n## Eagles\n\n### NFL\n\n## Eagles snap 7-game slide with win over Steelers\n\n* 1d\n\n0:46\n\n## Eagles snap 7-game slide with win over Steelers\n\nBack to Top\n\n### 2026 NFC East Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[NY Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) |6 |3 |1 |.650 |226 |214 |\n|[Dallas](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys) |5 |6 |0 |.455 |337 |312 |"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "[Pittsburgh Steelers Steelers PIT](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)\n\n6-4 , 2-4 Away\n\n16\n\n6-4 , 2-4 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Steelers](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) PIT |0 |3 |6 |7 |16 |\n|[Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) PHI |13 |0 |3 |3 |19 |\n\n[](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n\n[Philadelphia Eagles Eagles PHI](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n\n3-7 , 2-4 Home\n\n19\n\n3-7 , 2-4 Home\n\n# Pittsburgh Steelers @ Philadelphia Eagles\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles)"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Loading...\n\nHighlights of the Week 11 matchup between the Tennessee Titans and Dallas Cowboys during the 2026 NFL season.\n\nSCORE\n\n30\n\n[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans)\n\nSCORE\n\n51\n\n[Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)\n\n**REWATCH:** [Titans-Cowboys on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The season-to-date passing line lists Prescott with 3,049 yards and 25 touchdowns. ESPN reports that Lamb had topped 1,000 receiving yards and made 11 catches for 132 yards in Week 11. Barkley's 2026 regular-season stats list 371 rushing yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/gamelog/_/id/2577417/dak-prescott",
+          "excerpts": [
+            "|Sun 11/22 |vs TEN [TEN](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans \"Team - Tennessee Titans\") |[W 51-30](https://www.espn.com/nfl/game/_/gameId/401873073/titans-cowboys) |28 |33 |325 |84\\.9 |9\\.8 |4 |0 |31 |0 |147\\.3 |96\\.7 |4 |9 |2\\.3 |1 |6 |\n|Regular Season Stats | | |276 |420 |3,049 |65\\.7 |7\\.3 |25 |6 |53 |15 |101\\.0 |80\\.9 |33 |118 |3\\.6 |2 |11 |\n\n### Glossary"
+          ],
+          "title": "Dak Prescott 2026 Stats per Game - NFL - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50566873/dak-prescott-continues-hot-streak-leads-cowboys-titans",
+          "excerpts": [
+            "\"Dak is just a special guy,\" said Lamb, who topped the 1,000-yard receiving mark for the sixth straight season with 11 receptions for 132 yards."
+          ],
+          "title": "Dak Prescott continues hot streak, leads Cowboys past Titans - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "* Birthdate\n  \n  2/9/1997 (29)\n* College\n  \n  [Penn State](https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions)\n* Draft Info\n  \n  2018: Rd 1, Pk 2 (NYG)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* CAR\n  \n  86\n  \n  32nd\n  \n  YDS\n  \n  371\n  \n  29th\n  \n  TD\n  \n  4\n  \n  Tied-18th\n  \n  AVG\n  \n  4\\.3\n  \n  18th"
+          ],
+          "title": "Saquon Barkley - Philadelphia Eagles Running Back - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The NFL Week 11 recap lists Dallas at 5-6 after its game against Tennessee, establishing the Cowboys' record before Week 12.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Loading...\n\nHighlights of the Week 11 matchup between the Tennessee Titans and Dallas Cowboys during the 2026 NFL season.\n\nSCORE\n\n30\n\n[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans)\n\nSCORE\n\n51\n\n[Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)\n\n**REWATCH:** [Titans-Cowboys on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The Week 12 schedule identifies Dallas as Philadelphia's opponent and the home team in the listed matchup.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/news-and-releases/week-12-flex-scheduling--raiders-browns-to-sunday-night--patriot",
+          "excerpts": [
+            "**Thursday, Nov. 26**\n\nChicago Bears at Detroit Lions                                                   1 p.m. ET                      CBS\n\nPhiladelphia Eagles at Dallas Cowboys                                      4:30 p.m. ET                 FOX\n\nKansas City Chiefs at Buffalo Bills                                             8:20 p.m. ET                 NBC\n\n**Friday, Nov. 27**\n\nDenver Broncos at Pittsburgh Steelers                                        3 p.m. ET                      Prime Video\n\n**Sunday, Nov. 29**"
+          ],
+          "title": "Week 12 Flex Scheduling: Raiders-Browns to Sunday Night, Patriots-Chargers to 4:05 p.m. ET and Titans-Jaguars to 1 p.m. ET"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists the game for Thursday, November 26, 2026; the supplied current date is November 24, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://media.nfl.com/news-and-releases/week-12-flex-scheduling--raiders-browns-to-sunday-night--patriot",
+          "excerpts": [
+            "**Thursday, Nov. 26**\n\nChicago Bears at Detroit Lions                                                   1 p.m. ET                      CBS\n\nPhiladelphia Eagles at Dallas Cowboys                                      4:30 p.m. ET                 FOX\n\nKansas City Chiefs at Buffalo Bills                                             8:20 p.m. ET                 NBC\n\n**Friday, Nov. 27**\n\nDenver Broncos at Pittsburgh Steelers                                        3 p.m. ET                      Prime Video\n\n**Sunday, Nov. 29**"
+          ],
+          "title": "Week 12 Flex Scheduling: Raiders-Browns to Sunday Night, Patriots-Chargers to 4:05 p.m. ET and Titans-Jaguars to 1 p.m. ET"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The NFC East standings show Dallas second at 5-6 and Philadelphia fourth at 3-7.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/cowboys-at-rams-2026-reg-15?tab=preview",
+          "excerpts": [
+            "## Game Info\n\nLOCATION\n    INGLEWOOD, CA\n\nSTADIUM\n    SOFI STADIUM\n\n## Standings\n\nNFC EAST NFC WEST\n\nTEAM\n\nW Wins L Losses T Ties\n\nPCT Win Percentage\n\n[GIANTS NYG GIANTS GIANTS 6 6 wins 3 3 losses 1 1 ties 0\\.65 0\\.65 win percentage](https://www.nfl.com/teams/new-york-giants) [COWBOYS DAL COWBOYS COWBOYS 5 5 wins 6 6 losses 0 0 ties 0\\.455 0\\.455 win percentage](https://www.nfl.com/teams/dallas-cowboys) [COMMANDERS",
+            "teams/washington-commanders) [EAGLES PHI EAGLES EAGLES 3 3 wins 7 7 losses 0 0 ties 0\\.3 0\\.3 win percentage](https://www.nfl.com/teams/philadelphia-eagles)\n\n[See All](https://www.nfl.com/standings)\n\n## Recent Games\n\nCOWBOYS RAMS\n\n[Week 11 Wk 11 vs versus Tennessee Titans Logo TITANS W Win 30-51 30 to 51 points Watch Replay Replay Button](https://www.nfl.com/games/titans-at-cowboys-2026-reg-11?active-tab=watch) [Week 10 Wk 10 vs versus San Francisco 49ers Logo 49ERS L Loss 46-40 46 to 40 points Watch Replay Replay"
+          ],
+          "title": "Dallas Cowboys at Los Angeles Rams 2026 REG 15 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "ESPN says Philadelphia snapped its seven-game slide, and the final score table records its Week 11 win over Pittsburgh, 19-16.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+          "excerpts": [
+            "Images](https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026)\n\n## Eagles\n\n### NFL\n\n## Eagles snap 7-game slide with win over Steelers\n\n* 1d\n\n0:46\n\n## Eagles snap 7-game slide with win over Steelers\n\nBack to Top\n\n### 2026 NFC East Standings\n\n|Team |W |L |T |PCT |PF |PA |\n| --- | --- | --- | --- | --- | --- | --- |\n|[NY Giants](https://www.espn.com/nfl/team/_/name/nyg/new-york-giants) |6 |3 |1 |.650 |226 |214 |\n|[Dallas](https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys) |5 |6 |0 |.455 |337 |312 |"
+          ],
+          "title": "Philadelphia Eagles Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873076",
+          "excerpts": [
+            "[Pittsburgh Steelers Steelers PIT](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers)\n\n6-4 , 2-4 Away\n\n16\n\n6-4 , 2-4 Away\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |\n|[Steelers](https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers) PIT |0 |3 |6 |7 |16 |\n|[Eagles](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles) PHI |13 |0 |3 |3 |19 |\n\n[](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n\n[Philadelphia Eagles Eagles PHI](https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles)\n\n3-7 , 2-4 Home\n\n19\n\n3-7 , 2-4 Home\n\n# Pittsburgh Steelers @ Philadelphia Eagles\n\n* [Gamecast](https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles)"
+          ],
+          "title": "Eagles 19-16 Steelers (Nov 22, 2026) Box Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The Week 11 NFL recap records Dallas's win over Tennessee as 51-30.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "Loading...\n\nHighlights of the Week 11 matchup between the Tennessee Titans and Dallas Cowboys during the 2026 NFL season.\n\nSCORE\n\n30\n\n[Tennessee Titans 1-9](https://www.nfl.com/teams/tennessee-titans)\n\nSCORE\n\n51\n\n[Dallas Cowboys 5-6](https://www.nfl.com/teams/dallas-cowboys)\n\n**REWATCH:** [Titans-Cowboys on NFL+ Premium](https://www.nfl.com/plus/replays/2026/reg11/?campaign=nfl-nfl-ca-it-nu-3007807)"
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "Prescott's 2026 regular-season statistics list 3,049 passing yards and 25 passing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/gamelog/_/id/2577417/dak-prescott",
+          "excerpts": [
+            "|Sun 11/22 |vs TEN [TEN](https://www.espn.com/nfl/team/_/name/ten/tennessee-titans \"Team - Tennessee Titans\") |[W 51-30](https://www.espn.com/nfl/game/_/gameId/401873073/titans-cowboys) |28 |33 |325 |84\\.9 |9\\.8 |4 |0 |31 |0 |147\\.3 |96\\.7 |4 |9 |2\\.3 |1 |6 |\n|Regular Season Stats | | |276 |420 |3,049 |65\\.7 |7\\.3 |25 |6 |53 |15 |101\\.0 |80\\.9 |33 |118 |3\\.6 |2 |11 |\n\n### Glossary"
+          ],
+          "title": "Dak Prescott 2026 Stats per Game - NFL - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "ESPN reports that Lamb passed 1,000 receiving yards and recorded 11 receptions for 132 yards in Week 11.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/50566873/dak-prescott-continues-hot-streak-leads-cowboys-titans",
+          "excerpts": [
+            "\"Dak is just a special guy,\" said Lamb, who topped the 1,000-yard receiving mark for the sixth straight season with 11 receptions for 132 yards."
+          ],
+          "title": "Dak Prescott continues hot streak, leads Cowboys past Titans - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.2",
+      "reasoning": "Barkley's 2026 regular-season stats list 371 rushing yards and four touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley",
+          "excerpts": [
+            "* Birthdate\n  \n  2/9/1997 (29)\n* College\n  \n  [Penn State](https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions)\n* Draft Info\n  \n  2018: Rd 1, Pk 2 (NYG)\n* Status\n  \n  QUESTIONABLE\n\n## 2026 regular season stats\n\n* CAR\n  \n  86\n  \n  32nd\n  \n  YDS\n  \n  371\n  \n  29th\n  \n  TD\n  \n  4\n  \n  Tied-18th\n  \n  AVG\n  \n  4\\.3\n  \n  18th"
+          ],
+          "title": "Saquon Barkley - Philadelphia Eagles Running Back - ESPN"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Can the Eagles soar in Dallas? The 3-7 Philadelphia Eagles visit the 5-6 Dallas Cowboys. Dallas is second in the NFC East, and Philadelphia is fourth. Both teams are eager after wins last week! Dallas QB Dak Prescott has 3,049 passing yards and 25 passing TDs. Kickoff is Thursday, Nov 26, in Dallas.",
+    "big_words": [
+      {
+        "word": "eager",
+        "definition": "Really excited and ready to do something.",
+        "example": "Lily is eager to add a tall tower to her block castle."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask about this game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1047,
+        "output": 214
+      }
+    ]
+  }
+}

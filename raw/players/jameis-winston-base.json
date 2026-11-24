@@ -1,0 +1,194 @@
+{
+  "run_id": "trun_415f3f698c1f435b8a9f37e97b37cfc9",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 66.4,
+  "input": {
+    "player": "Jameis Winston",
+    "team": "New York Giants",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "college": "Florida State University",
+    "fun_facts": [
+      "Jameis Winston was born and raised near Bessemer, Alabama.",
+      "Jameis Winston\u2019s father said he had been playing two sports since age four.",
+      "At Florida State, Jameis Winston played baseball as a pitcher and an outfielder.",
+      "Jameis Winston\u2019s mother gave him the baby nickname \u201cJaboo,\u201d pronounced \u201cjay-boo.\u201d",
+      "At 19, Jameis Winston became the youngest Heisman Trophy winner in the award\u2019s 79-season history.",
+      "Jameis Winston led Florida State to the national championship in 2013."
+    ],
+    "draft": "2015, round 1, pick 1"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "ESPN\u2019s biography lists his college as FSU; its linked school is Florida State, supporting Florida State University.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2969939/jameis-winston",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 4\", 231 lbs\n\nBirthdate 1/6/1994 (32)\n\nCollege [FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\nDraft Info 2015: Rd 1, Pk 1 (TB)\n\nStatus Active\n\nExperience 12th Season\n\nBirthplace Bessemer, AL\n\n### Career History"
+          ],
+          "title": "Jameis Winston Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages respectively support Winston\u2019s Bessemer-area upbringing, playing two sports from age four, his baseball positions at Florida State, the origin and pronunciation of \u201cJaboo,\u201d his record as the youngest Heisman winner, and Florida State\u2019s 2013 national championship.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10357853/jameis-winston-envisioned-returning-florida-state-seminoles-glory-high-school-interview",
+          "excerpts": [
+            "He calls nearby Bessemer, Ala., the place he was born and raised. Hueytown, a suburb of Birmingham with 16,000 residents, just happens to be the city he put on the map.\n\nWinston was a two-sport star at Hueytown High School before committing to Florida State to play football and baseball. Courtesy of the Winston family\n\n\"I just get no love from them."
+          ],
+          "title": "Jameis, before he was famous - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/9626566/florida-state-quarterback-jameis-winston-legend-making-first-seminoles-snap",
+          "excerpts": [
+            "Courtesy of the Winston family\n\n\"From 4 on up, he was always playing two sports,\" Antonor said. \"I know that sounds crazy.\"\n\nThe truth is, Antonor and Loretta signed their boy up for football mostly for the photo opportunities.",
+            "The legend of the prodigy grew, with coaches and writers and casual fans feeding the narrative. Jameis would win a Heisman. Jameis would be a first-round draft pick in football and baseball. Jameis was the next Bo Jackson. Jameis was the next [Johnny Manziel](https://www.espn.com/college-football/player/_/id/517475/johnny-manziel) .\n\nAntonor, his father, doesn't believe it, either. That's hype. The reality is so much better.\n\n\"He hasn't thrown a pass yet, so you've got people saying there's no way that boy's that doggone good,\" Antonor said. \"But people still don't know.\"\n\n* * *\n\nThey call him Jaboo (pronounced jay-boo). It's a nickname Loretta gave him when he was a baby. Everyone calls him Jaboo now -- teammates, friends, coaches. It's a nod to his personality."
+          ],
+          "title": "The legend of Jameis Winston - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10755124/florida-state-seminoles-quarterback-jameis-winston-high-school-jersey-retired",
+          "excerpts": [
+            "Winston also is a pitcher and an outfielder for the Seminoles.\n\n\"Him playing football and baseball makes it tough,\" Stephens said."
+          ],
+          "title": "High school to honor Jameis Winston - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10139392/jameis-winston-heisman-trophy-puts-elite-company",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=10139392)\n\nNEW YORK -- The accolades began arriving for [Jameis Winston](https://www.espn.com/college-football/player/_/id/530308/jameis-winston) long before Saturday night, when the 19-year-old became the youngest player to win the Heisman Trophy in the 79 seasons that it has been awarded.\n\nWinston began his career at Florida State last year as the highest-rated quarterback recruit in the country. That honor isn't necessarily a nonstop ticket to stardom."
+          ],
+          "title": "Trophy keeps Winston atop his class - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/blog/san-francisco-49ers/post/_/id/20606/jameis-winston-reminisces-on-nearly-choosing-stanford",
+          "excerpts": [
+            "Of course, Winston's decision to spurn the Cardinal for the Seminoles turned out just fine for him as he went on to win the Heisman Trophy and lead Florida State to the national championship in 2013."
+          ],
+          "title": "Bucs QB Jameis Winston reminisces on nearly choosing Stanford - ESPN - San Francisco 49ers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "ESPN\u2019s biography gives the draft entry as 2015, Round 1, Pick 1.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/player/bio/_/id/2969939/jameis-winston",
+          "excerpts": [
+            "Position Quarterback\n\nHT/WT 6' 4\", 231 lbs\n\nBirthdate 1/6/1994 (32)\n\nCollege [FSU](https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles)\n\nDraft Info 2015: Rd 1, Pk 1 (TB)\n\nStatus Active\n\nExperience 12th Season\n\nBirthplace Bessemer, AL\n\n### Career History"
+          ],
+          "title": "Jameis Winston Biography - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage says Bessemer, Alabama, is where Winston was born and raised.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10357853/jameis-winston-envisioned-returning-florida-state-seminoles-glory-high-school-interview",
+          "excerpts": [
+            "He calls nearby Bessemer, Ala., the place he was born and raised. Hueytown, a suburb of Birmingham with 16,000 residents, just happens to be the city he put on the map.\n\nWinston was a two-sport star at Hueytown High School before committing to Florida State to play football and baseball. Courtesy of the Winston family\n\n\"I just get no love from them."
+          ],
+          "title": "Jameis, before he was famous - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "Winston\u2019s father says he was playing two sports from age four onward.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/9626566/florida-state-quarterback-jameis-winston-legend-making-first-seminoles-snap",
+          "excerpts": [
+            "Courtesy of the Winston family\n\n\"From 4 on up, he was always playing two sports,\" Antonor said. \"I know that sounds crazy.\"\n\nThe truth is, Antonor and Loretta signed their boy up for football mostly for the photo opportunities."
+          ],
+          "title": "The legend of Jameis Winston - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage identifies Winston as a pitcher and outfielder for Florida State\u2019s baseball team.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10755124/florida-state-seminoles-quarterback-jameis-winston-high-school-jersey-retired",
+          "excerpts": [
+            "Winston also is a pitcher and an outfielder for the Seminoles.\n\n\"Him playing football and baseball makes it tough,\" Stephens said."
+          ],
+          "title": "High school to honor Jameis Winston - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says his mother gave Winston the nickname Jaboo when he was a baby and provides its pronunciation.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/9626566/florida-state-quarterback-jameis-winston-legend-making-first-seminoles-snap",
+          "excerpts": [
+            "The legend of the prodigy grew, with coaches and writers and casual fans feeding the narrative. Jameis would win a Heisman. Jameis would be a first-round draft pick in football and baseball. Jameis was the next Bo Jackson. Jameis was the next [Johnny Manziel](https://www.espn.com/college-football/player/_/id/517475/johnny-manziel) .\n\nAntonor, his father, doesn't believe it, either. That's hype. The reality is so much better.\n\n\"He hasn't thrown a pass yet, so you've got people saying there's no way that boy's that doggone good,\" Antonor said. \"But people still don't know.\"\n\n* * *\n\nThey call him Jaboo (pronounced jay-boo). It's a nickname Loretta gave him when he was a baby. Everyone calls him Jaboo now -- teammates, friends, coaches. It's a nod to his personality."
+          ],
+          "title": "The legend of Jameis Winston - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Winston became the youngest Heisman Trophy winner at age 19, in the award\u2019s 79-season history.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/10139392/jameis-winston-heisman-trophy-puts-elite-company",
+          "excerpts": [
+            "* [Print](https://www.espn.com/espn/print?id=10139392)\n\nNEW YORK -- The accolades began arriving for [Jameis Winston](https://www.espn.com/college-football/player/_/id/530308/jameis-winston) long before Saturday night, when the 19-year-old became the youngest player to win the Heisman Trophy in the 79 seasons that it has been awarded.\n\nWinston began his career at Florida State last year as the highest-rated quarterback recruit in the country. That honor isn't necessarily a nonstop ticket to stardom."
+          ],
+          "title": "Trophy keeps Winston atop his class - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The passage says Winston led Florida State to the national championship in 2013.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/blog/san-francisco-49ers/post/_/id/20606/jameis-winston-reminisces-on-nearly-choosing-stanford",
+          "excerpts": [
+            "Of course, Winston's decision to spurn the Cardinal for the Seminoles turned out just fine for him as he went on to win the Heisman Trophy and lead Florida State to the national championship in 2013."
+          ],
+          "title": "Bucs QB Jameis Winston reminisces on nearly choosing Stanford - ESPN - San Francisco 49ers Blog- ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5"
+    ],
+    "off_allowlist_citations": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Darian Mensah",
+  "espn_id": "5121169",
+  "team": "Miami Hurricanes",
+  "team_abbr": "MIA",
+  "number": "10",
+  "position": "Quarterback",
+  "position_abbr": "QB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "San Luis Obispo, CA",
+  "league": "cfb",
+  "fun_facts": [
+    "Darian threw for 401 yards and five touchdowns in his first Miami game, setting records.",
+    "Darian made his first 24 passes against Wake Forest, setting an ACC record.",
+    "He made 35 straight passes across two games, setting another ACC record."
+  ],
+  "stats": {
+    "kind": "passing",
+    "columns": [
+      "Season",
+      "Team",
+      "Completions",
+      "Attempts",
+      "Yards",
+      "TDs",
+      "INTs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "TULN",
+        "189",
+        "287",
+        "2,723",
+        "22",
+        "6"
+      ],
+      [
+        "2025",
+        "DUKE",
+        "334",
+        "500",
+        "3,973",
+        "34",
+        "6"
+      ],
+      [
+        "2026",
+        "MIA",
+        "267",
+        "354",
+        "3,317",
+        "29",
+        "4"
+      ]
+    ]
+  }
+}

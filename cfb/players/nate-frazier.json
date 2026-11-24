@@ -1,0 +1,56 @@
+{
+  "name": "Nate Frazier",
+  "espn_id": "5084047",
+  "team": "Georgia Bulldogs",
+  "team_abbr": "UGA",
+  "number": "3",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Junior",
+  "hometown": "Compton, CA",
+  "league": "cfb",
+  "fun_facts": [
+    "Nate scored on a 48-yard run on his first carry in Georgia\u2019s 2026 opener.",
+    "Nate won the game with a two-point run in the eighth overtime against Georgia Tech.",
+    "Nate ran for 136 yards and three touchdowns against Massachusetts in 2024."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2024",
+        "UGA",
+        "133",
+        "671",
+        "5.0",
+        "8"
+      ],
+      [
+        "2025",
+        "UGA",
+        "173",
+        "947",
+        "5.5",
+        "6"
+      ],
+      [
+        "2026",
+        "UGA",
+        "100",
+        "570",
+        "5.7",
+        "11"
+      ]
+    ]
+  }
+}

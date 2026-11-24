@@ -1,0 +1,182 @@
+{
+  "poll": "AP Top 25",
+  "headline": "2026 NCAA Football Rankings - AP Poll Week 13",
+  "date": "2026-11-22T08:00Z",
+  "teams": [
+    {
+      "rank": 1,
+      "team": "Georgia",
+      "abbr": "UGA",
+      "record": "10-1",
+      "previous": 1
+    },
+    {
+      "rank": 2,
+      "team": "Utah",
+      "abbr": "UTAH",
+      "record": "11-0",
+      "previous": 2
+    },
+    {
+      "rank": 3,
+      "team": "Notre Dame",
+      "abbr": "ND",
+      "record": "10-1",
+      "previous": 3
+    },
+    {
+      "rank": 4,
+      "team": "Miami",
+      "abbr": "MIA",
+      "record": "10-1",
+      "previous": 5
+    },
+    {
+      "rank": 5,
+      "team": "Texas",
+      "abbr": "TEX",
+      "record": "9-2",
+      "previous": 8
+    },
+    {
+      "rank": 6,
+      "team": "Alabama",
+      "abbr": "ALA",
+      "record": "9-2",
+      "previous": 7
+    },
+    {
+      "rank": 7,
+      "team": "Tennessee",
+      "abbr": "TENN",
+      "record": "9-2",
+      "previous": 9
+    },
+    {
+      "rank": 8,
+      "team": "Wake Forest",
+      "abbr": "WAKE",
+      "record": "10-1",
+      "previous": 10
+    },
+    {
+      "rank": 9,
+      "team": "Texas Tech",
+      "abbr": "TTU",
+      "record": "10-1",
+      "previous": 11
+    },
+    {
+      "rank": 10,
+      "team": "UCLA",
+      "abbr": "UCLA",
+      "record": "10-1",
+      "previous": 4
+    },
+    {
+      "rank": 11,
+      "team": "BYU",
+      "abbr": "BYU",
+      "record": "9-2",
+      "previous": 12
+    },
+    {
+      "rank": 12,
+      "team": "Indiana",
+      "abbr": "IU",
+      "record": "9-2",
+      "previous": 6
+    },
+    {
+      "rank": 13,
+      "team": "Iowa",
+      "abbr": "IOWA",
+      "record": "9-2",
+      "previous": 13
+    },
+    {
+      "rank": 14,
+      "team": "Oregon",
+      "abbr": "ORE",
+      "record": "8-3",
+      "previous": 14
+    },
+    {
+      "rank": 15,
+      "team": "USC",
+      "abbr": "USC",
+      "record": "8-3",
+      "previous": 18
+    },
+    {
+      "rank": 16,
+      "team": "Arizona",
+      "abbr": "ARIZ",
+      "record": "8-3",
+      "previous": 19
+    },
+    {
+      "rank": 17,
+      "team": "Houston",
+      "abbr": "HOU",
+      "record": "8-3",
+      "previous": 20
+    },
+    {
+      "rank": 18,
+      "team": "Louisville",
+      "abbr": "LOU",
+      "record": "8-3",
+      "previous": 21
+    },
+    {
+      "rank": 19,
+      "team": "Oklahoma",
+      "abbr": "OU",
+      "record": "7-4",
+      "previous": 0
+    },
+    {
+      "rank": 20,
+      "team": "Florida",
+      "abbr": "FLA",
+      "record": "7-4",
+      "previous": 23
+    },
+    {
+      "rank": 21,
+      "team": "Liberty",
+      "abbr": "LIB",
+      "record": "10-1",
+      "previous": 22
+    },
+    {
+      "rank": 22,
+      "team": "Boise State",
+      "abbr": "BOIS",
+      "record": "9-2",
+      "previous": 15
+    },
+    {
+      "rank": 23,
+      "team": "Ole Miss",
+      "abbr": "MISS",
+      "record": "7-4",
+      "previous": 25
+    },
+    {
+      "rank": 24,
+      "team": "Missouri",
+      "abbr": "MIZ",
+      "record": "7-4",
+      "previous": 0
+    },
+    {
+      "rank": 25,
+      "team": "Ohio State",
+      "abbr": "OSU",
+      "record": "7-4",
+      "previous": 16
+    }
+  ]
+}

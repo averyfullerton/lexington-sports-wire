@@ -1,0 +1,123 @@
+{
+  "name": "Montez Sweat",
+  "espn_id": "3134690",
+  "team": "Chicago Bears",
+  "team_abbr": "CHI",
+  "number": "98",
+  "position": "Defensive End",
+  "position_abbr": "DE",
+  "college": "Mississippi State",
+  "experience": 8,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Montez played tight end and defense in high school.",
+    "He led his college team in sacks two years in a row.",
+    "Montez set a modern NFL Combine record for defensive linemen with a 4.41-second 40-yard dash."
+  ],
+  "stats": {
+    "kind": "defensive",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Tackles",
+      "Sacks",
+      "INTs",
+      "Forced fumbles"
+    ],
+    "rows": [
+      [
+        "2019",
+        "WSH",
+        "16",
+        "50",
+        "7",
+        "0",
+        "2"
+      ],
+      [
+        "2020",
+        "WSH",
+        "16",
+        "45",
+        "9",
+        "1",
+        "2"
+      ],
+      [
+        "2021",
+        "WSH",
+        "10",
+        "24",
+        "5",
+        "0",
+        "3"
+      ],
+      [
+        "2022",
+        "WSH",
+        "17",
+        "46",
+        "8",
+        "0",
+        "0"
+      ],
+      [
+        "2023",
+        "WSH",
+        "8",
+        "32",
+        "6.5",
+        "0",
+        "2"
+      ],
+      [
+        "2023",
+        "CHI",
+        "9",
+        "25",
+        "6",
+        "0",
+        "1"
+      ],
+      [
+        "2023",
+        "",
+        "17",
+        "57",
+        "12.5",
+        "0",
+        "3"
+      ],
+      [
+        "2024",
+        "CHI",
+        "16",
+        "32",
+        "5.5",
+        "0",
+        "2"
+      ],
+      [
+        "2025",
+        "CHI",
+        "17",
+        "53",
+        "10",
+        "0",
+        "3"
+      ],
+      [
+        "2026",
+        "CHI",
+        "8",
+        "17",
+        "4",
+        "0",
+        "1"
+      ]
+    ]
+  }
+}

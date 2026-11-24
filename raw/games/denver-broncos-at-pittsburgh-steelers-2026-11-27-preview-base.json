@@ -1,0 +1,330 @@
+{
+  "run_id": "trun_1714e31eeb204d32a8df8cb016cc3c59",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 86.6,
+  "input": {
+    "away_team": "Denver Broncos",
+    "home_team": "Pittsburgh Steelers",
+    "game_date": "2026-11-27",
+    "season": 2026,
+    "week": 12
+  },
+  "content": {
+    "away_record": "8-2",
+    "away_team": "Denver Broncos",
+    "storyline": "Denver enters on a six-game winning streak and tied with Kansas City for the AFC West lead at 8-2. Pittsburgh is 6-4 after back-to-back losses, most recently a 19-16 defeat to Philadelphia.",
+    "matchup_notes": [
+      "Denver has won six straight games.",
+      "Denver beat the Las Vegas Raiders 38-24 in Week 11.",
+      "Pittsburgh lost 19-16 to Philadelphia in Week 11, its second straight loss after a 38-18 Week 10 loss to Cincinnati.",
+      "Denver and Kansas City are tied atop the AFC West at 8-2."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,955 passing yards, 12 TD, 5 INT",
+        "team": "Denver Broncos",
+        "name": "Bo Nix"
+      },
+      {
+        "stat_line": "2,241 passing yards, 16 TD, 6 INT",
+        "team": "Pittsburgh Steelers",
+        "name": "Aaron Rodgers"
+      }
+    ],
+    "home_record": "6-4",
+    "home_team": "Pittsburgh Steelers",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The official game preview lists Denver at 8-2, or eight wins and two losses, before the Week 12 matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "8-2 8 wins, 2 losses, 0 ties"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The official game preview identifies Denver as the Denver Broncos, the away team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Denver Broncos DEN Denver Broncos"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "NFL coverage says Denver extended its winning streak to six. The game preview standings show Denver and Kansas City both at 8-2, while the preview and Steelers coverage show Pittsburgh at 6-4 and coming off consecutive losses, including the 19-16 loss to Philadelphia.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "1. **Broncos push win streak to six by running over Raiders.** Things got a little hairy for Sean Payton\u2019s squad after a 17-point lead evaporated in the third quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[BRONCOS DEN BRONCOS BRONCOS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 7 7 losses 0 0 ties 0\\.364 0\\.364 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 1 1 wins 9 9 losses 0 0 ties 0\\.1 0\\.1 win percentage](https://www.nfl.com/teams/los-angeles-chargers)",
+            "6-4 6 wins, 4 losses, 0 ties"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://amp.nfl.com/news/steelers-left-with-bad-taste-after-second-straight-loss",
+          "excerpts": [
+            "Sunday's matchup with the lowly Philadelphia Eagles represented a get-right game for the Pittsburgh Steelers coming off a prime-time drubbing at the hands of the Cincinnati Bengals.\n\nIt instead revealed things are very much wrong at the moment for the Steelers, who trailed Philadelphia wire to wire in a [19-16 loss](https://www.nfl.com/games/steelers-at-eagles-2026-reg-11) thanks to a sputtering offense and a defense that gave up just enough ground early to drop a second straight game for the first time this season.",
+            "Pittsburgh's struggles from its [38-18 Week 10 loss](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10) carried into the team's game against the Eagles."
+          ],
+          "title": "Steelers left with 'bad taste' after second straight loss: 'We expected to win this game'"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited NFL coverage and game preview support the four notes: Denver\u2019s six-game streak and Week 11 win over Las Vegas, Pittsburgh\u2019s Week 11 loss and two-game losing streak, and the 8-2 tie between Denver and Kansas City atop the AFC West.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "1. **Broncos push win streak to six by running over Raiders.** Things got a little hairy for Sean Payton\u2019s squad after a 17-point lead evaporated in the third quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[Week 11 Wk 11 vs versus Las Vegas Raiders Logo RAIDERS W Win 24-38 24 to 38 points Watch Replay Replay Button]",
+            "[BRONCOS DEN BRONCOS BRONCOS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 7 7 losses 0 0 ties 0\\.364 0\\.364 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 1 1 wins 9 9 losses 0 0 ties 0\\.1 0\\.1 win percentage](https://www.nfl.com/teams/los-angeles-chargers)"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://amp.nfl.com/news/steelers-left-with-bad-taste-after-second-straight-loss",
+          "excerpts": [
+            "Sunday's matchup with the lowly Philadelphia Eagles represented a get-right game for the Pittsburgh Steelers coming off a prime-time drubbing at the hands of the Cincinnati Bengals.\n\nIt instead revealed things are very much wrong at the moment for the Steelers, who trailed Philadelphia wire to wire in a [19-16 loss](https://www.nfl.com/games/steelers-at-eagles-2026-reg-11) thanks to a sputtering offense and a defense that gave up just enough ground early to drop a second straight game for the first time this season.",
+            "Pittsburgh's struggles from its [38-18 Week 10 loss](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10) carried into the team's game against the Eagles."
+          ],
+          "title": "Steelers left with 'bad taste' after second straight loss: 'We expected to win this game'"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The NFL game preview provides the season-to-date passing yards, touchdowns, and interceptions for both quarterbacks. The cited player and team pages identify them by their full names.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bo-nix/stats/logs/2026/",
+          "excerpts": [
+            "# Bo Nix 2026 Logs Stats | NFL.com\n\n# Bo Nix\n\nQB \u2022 \\#10\n\n[Denver Broncos](https://www.nfl.com/teams/denver-broncos/)\n\n### active\n\n* [Info](https://www.nfl.com/players/bo-nix/)"
+          ],
+          "title": "Bo Nix 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Nix 1955 YDS 59\\.9%CMP 12TD 5INT](https://www.nfl.com/players/bo-nix/stats)",
+            "Rodgers 2241 YDS 60\\.9%CMP 16TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        },
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/pit/asc",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB #8 2,014 TD 15 QBR 43\\.0](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers)"
+          ],
+          "title": "Pittsburgh Steelers Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The official game preview lists Pittsburgh at 6-4, or six wins and four losses, before the Week 12 game.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "6-4 6 wins, 4 losses, 0 ties"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The official game preview identifies Pittsburgh as the Pittsburgh Steelers, the home team in this matchup.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Pittsburgh Steelers PIT Pittsburgh Steelers"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The NFL schedule lists Denver at Pittsburgh for Friday, November 27. Since the stated current date is November 24, the scheduled game is still in the future.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/week-12-schedule-change",
+          "excerpts": [
+            "ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX.\n\nThe final Week 12 schedule is below.\n\nWEEK 12 SCHEDULE\n\nAll times Eastern\n\n|WEDNESDAY, NOVEMBER 25 | | | | |\n| --- | --- | --- | --- | --- |\n|**Green Bay Packers** |at |**Los Angeles Rams** |8:00 p.m. ET |Netflix |\n\n|THURSDAY, NOVEMBER 26 | | | | |\n| --- | --- | --- | --- | --- |\n|**Chicago Bears** |at |**Detroit Lions** |1:00 p.m. ET |CBS |\n|**Philadelphia Eagles** |at |**Dallas Cowboys** |4:30 p.m. ET |FOX |\n|**Kansas City Chiefs** |at |**Buffalo Bills** |8:20 p.m. ET |NBC |\n\n|FRIDAY, NOVEMBER 27 | | | | |\n| --- | --- | --- | --- | --- |\n|**Denver Broncos** |at |**Pittsburgh Steelers** |3:00 p.m. ET |Prime |\n\n|SUNDAY, NOVEMBER 29 | | | | |\n| --- | --- | --- | --- | --- |"
+          ],
+          "title": "Week 12 schedule change | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The NFL Week 11 coverage explicitly says the Broncos pushed their winning streak to six.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games",
+          "excerpts": [
+            "1. **Broncos push win streak to six by running over Raiders.** Things got a little hairy for Sean Payton\u2019s squad after a 17-point lead evaporated in the third quarter."
+          ],
+          "title": "2026 NFL season, Week 11: What We Learned from Sunday's games | Latest NFL News, Analysis & Updates | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The Week 11 game listing records Denver\u2019s win over Las Vegas, with the score shown as 24-38 from the listed opponent/Denver perspective.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[Week 11 Wk 11 vs versus Las Vegas Raiders Logo RAIDERS W Win 24-38 24 to 38 points Watch Replay Replay Button]"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "NFL coverage identifies Pittsburgh\u2019s 19-16 loss to Philadelphia as its second straight loss and references the preceding 38-18 Week 10 loss to Cincinnati.",
+      "citations": [
+        {
+          "url": "https://amp.nfl.com/news/steelers-left-with-bad-taste-after-second-straight-loss",
+          "excerpts": [
+            "Sunday's matchup with the lowly Philadelphia Eagles represented a get-right game for the Pittsburgh Steelers coming off a prime-time drubbing at the hands of the Cincinnati Bengals.\n\nIt instead revealed things are very much wrong at the moment for the Steelers, who trailed Philadelphia wire to wire in a [19-16 loss](https://www.nfl.com/games/steelers-at-eagles-2026-reg-11) thanks to a sputtering offense and a defense that gave up just enough ground early to drop a second straight game for the first time this season.",
+            "Pittsburgh's struggles from its [38-18 Week 10 loss](https://www.nfl.com/games/steelers-at-bengals-2026-reg-10) carried into the team's game against the Eagles."
+          ],
+          "title": "Steelers left with 'bad taste' after second straight loss: 'We expected to win this game'"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.3",
+      "reasoning": "The standings in the official game preview list both Denver and Kansas City at 8-2 in the AFC West.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "[BRONCOS DEN BRONCOS BRONCOS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/denver-broncos) [CHIEFS KC CHIEFS CHIEFS 8 8 wins 2 2 losses 0 0 ties 0\\.8 0\\.8 win percentage](https://www.nfl.com/teams/kansas-city-chiefs) [RAIDERS LV RAIDERS RAIDERS 4 4 wins 7 7 losses 0 0 ties 0\\.364 0\\.364 win percentage](https://www.nfl.com/teams/las-vegas-raiders) [CHARGERS LAC CHARGERS CHARGERS 1 1 wins 9 9 losses 0 0 ties 0\\.1 0\\.1 win percentage](https://www.nfl.com/teams/los-angeles-chargers)"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The player page gives the full name Bo Nix, and the game preview lists his season totals as 1,955 passing yards, 12 touchdowns, and 5 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/bo-nix/stats/logs/2026/",
+          "excerpts": [
+            "# Bo Nix 2026 Logs Stats | NFL.com\n\n# Bo Nix\n\nQB \u2022 \\#10\n\n[Denver Broncos](https://www.nfl.com/teams/denver-broncos/)\n\n### active\n\n* [Info](https://www.nfl.com/players/bo-nix/)"
+          ],
+          "title": "Bo Nix 2026 Logs Stats | NFL.com"
+        },
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Nix 1955 YDS 59\\.9%CMP 12TD 5INT](https://www.nfl.com/players/bo-nix/stats)"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The team page identifies the Pittsburgh quarterback as Aaron Rodgers, and the game preview lists his season totals as 2,241 passing yards, 16 touchdowns, and 6 interceptions.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/team/_/name/pit/asc",
+          "excerpts": [
+            "[Full Standings](https://www.espn.com/nfl/standings)\n\n### 2026 Team Leaders\n\n* Offense\n* Defense\n\n[## Passing Yards Aaron Rodgers ### Aaron Rodgers QB #8 2,014 TD 15 QBR 43\\.0](https://www.espn.com/nfl/player/_/id/8439/aaron-rodgers)"
+          ],
+          "title": "Pittsburgh Steelers Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12?tab=preview",
+          "excerpts": [
+            "Rodgers 2241 YDS 60\\.9%CMP 16TD 6INT](https://www.nfl.com/players/aaron-rodgers/stats)"
+          ],
+          "title": "Denver Broncos at Pittsburgh Steelers 2026 REG 12 - Game Center"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "game_was_played",
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "On Friday, Nov 27, the Denver Broncos visit the Pittsburgh Steelers in Pittsburgh. Denver is 8-2, and Pittsburgh is 6-4. Denver has won 6 straight and is tied for the AFC West lead! Broncos QB Bo Nix has 1,955 passing yards and 12 TDs. Can he dazzle us with a big pass?",
+    "big_words": [
+      {
+        "word": "dazzle",
+        "definition": "To amaze someone with something wonderful.",
+        "example": "Zoe hopes to dazzle her friends with her colorful lemonade stand."
+      }
+    ],
+    "opener": "Start by setting the scene: where the game is and when.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1023,
+        "output": 218
+      }
+    ]
+  }
+}

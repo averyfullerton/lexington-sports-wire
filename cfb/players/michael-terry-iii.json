@@ -1,0 +1,48 @@
+{
+  "name": "Michael Terry III",
+  "espn_id": "5141729",
+  "team": "Texas Longhorns",
+  "team_abbr": "TEX",
+  "number": "11",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Sophomore",
+  "hometown": "San Antonio, TX",
+  "league": "cfb",
+  "fun_facts": [
+    "He played both ways in high school.",
+    "He had over 3,000 all-purpose yards before his senior year.",
+    "He scored on a 2-yard run against Ole Miss in 2026."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2025",
+        "TEX",
+        "1",
+        "0",
+        "0.0",
+        "0"
+      ],
+      [
+        "2026",
+        "TEX",
+        "36",
+        "170",
+        "4.7",
+        "2"
+      ]
+    ]
+  }
+}

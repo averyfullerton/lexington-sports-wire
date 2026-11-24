@@ -1,0 +1,186 @@
+{
+  "run_id": "trun_415f3f698c1f435bb7d8654b7251139e",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 148.0,
+  "input": {
+    "player": "Brian Thomas Jr.",
+    "team": "Jacksonville Jaguars",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "LSU",
+    "fun_facts": [
+      "Brian Thomas Jr. is from Walker, Louisiana.",
+      "He played three seasons at LSU and earned second-team All-SEC and third-team All-America honors in 2023.",
+      "In 2023, he led the FBS with 17 receiving touchdowns and tied for the third-fastest 40-yard dash at the NFL Combine.",
+      "In 2024, he set Jaguars rookie records for receptions (87), receiving yards (1,282), and touchdowns (10).",
+      "His 85-yard touchdown reception against the Colts was the longest by a rookie in Jaguars franchise history.",
+      "He was named to the 2025 Pro Bowl Games and was a finalist for the 2024 AP Offensive Rookie of the Year award."
+    ],
+    "draft": "2024, round 1, pick 23"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The Jaguars report says Thomas played three seasons at LSU, directly establishing his college.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/jaguars-no-23-overall-selection-brian-thomas-jr-i-m-ready-to-get-going",
+          "excerpts": [
+            "Thomas (6-feet-2, 209 pounds), who played three seasons at LSU and entered the draft as an early-entry junior, was a second-team All-Southeastern Conference selection and a third-team All-America selection in 2023."
+          ],
+          "title": "Meet the Jaguars No. 23 Overall NFL Draft Pick Brian Thomas Jr. from LSU"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited Jaguars sources identify Thomas as a Walker, Louisiana native; document his LSU honors and 2023 receiving-touchdown and combine achievements; list his Jaguars rookie records; describe his 85-yard rookie touchdown as a franchise record; and report his Pro Bowl selection and AP award finalist status.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/saints/bv3sid92ab4wupjmewfs.pdf",
+          "excerpts": [
+            "DL Coach Derrick LeBlanc Breaux Bridge, La.\n\n### **COLLEGE JAGUARS**\n\n**WR Brian Thomas Jr.** , a Walker, La., native, played three seasons with LSU, leading the FBS with 17 receiving touchdowns in 2023 before declaring for the 2024 NFL Draft, where he was selected in the first round by the Jacksonville Jaguars."
+          ],
+          "title": "JAGUARS SAINTS"
+        },
+        {
+          "url": "https://www.jaguars.com/news/jaguars-no-23-overall-selection-brian-thomas-jr-i-m-ready-to-get-going",
+          "excerpts": [
+            "Thomas (6-feet-2, 209 pounds), who played three seasons at LSU and entered the draft as an early-entry junior, was a second-team All-Southeastern Conference selection and a third-team All-America selection in 2023."
+          ],
+          "title": "Meet the Jaguars No. 23 Overall NFL Draft Pick Brian Thomas Jr. from LSU"
+        },
+        {
+          "url": "https://www.jaguars.com/news/day-1-draft-observations-from-jaguars-media-analyst",
+          "excerpts": [
+            "Thomas was a big-play machine at LSU in 2023, leading the FBS with 17 receiving touchdowns, and was tied for the third-fastest 40-yard dash at the NFL Scouting Combine."
+          ],
+          "title": "Jaguars Analysts Reflect on Day 1 of the 2024 NFL Draft"
+        },
+        {
+          "url": "https://www.jaguars.com/news/k000127-big-day-big-honors-for-jaguars-rookie-wide-receiver-brian-thomas-jr",
+          "excerpts": [
+            "Thomas in 2024 set Jaguars rookie records for receptions (87), yards (1,282) and touchdowns (10), ranking first among NFL rookies and third overall in receiving yards.",
+            "**JACKSONVILLE \u2013 [Brian Thomas Jr.](https://www.jaguars.com/team/players-roster/brian-thomas-jr/ \"Brian Thomas Jr.\")** has received a big, big honor.\n\nThe Jaguars' wide receiver also has a chance for an even bigger honor following one of the biggest rookie seasons in franchise history.\n\nThomas on Thursday morning was named a finalist for the Associated Press 2024 NFL Offensive Rookie of the Year award, news that came the same day he was named to the 2025 Pro Bowl Games."
+          ],
+          "title": "Brian Thomas Jr. Named AP 2024 Offensive Rookie of the Year Finalist"
+        },
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/jaguars/wdkbdqtj6hecutlrn7yy",
+          "excerpts": [
+            "Thomas Jr.\u2019s 85-yard touchdown reception against the Colts, is the longest by a rookie in franchise history"
+          ],
+          "title": "4.5"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The Jaguars' draft announcement identifies Thomas as the 2024 first-round selection at No. 23 overall.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/wr-brian-thomas-jr-is-the-jaguars-no-23-overall-pick-in-the-2024-nfl-draft",
+          "excerpts": [
+            "**JACKSONVILLE \u2013** The Jaguars focused on offensive skill in Round 1.\n\nThey stayed busy on Day 1 again, too.\n\nBrian Thomas Jr., a wide receiver from Louisiana State University, on Thursday night was selected by the Jaguars No. 23 overall in the 2024 NFL Draft. The Jaguars traded from No. 17 overall to acquire the selection.\n\nThe Jaguars traded No. 17 to the Minnesota Vikings and received from the Vikings Selection No. 23 (Round 1) and No. 167 (Round 5) in the 2024 NFL Draft and third- and fourth-round selections in the '25 draft.\n\nThis marked the third consecutive draft in which Jaguars General Manager Trent Baalke executed a Round 1 trade."
+          ],
+          "title": "WR Brian Thomas Jr. is the Jaguars No. 23 Overall Pick in the 2024 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The Jaguars describe Thomas as a Walker, Louisiana native.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/saints/bv3sid92ab4wupjmewfs.pdf",
+          "excerpts": [
+            "DL Coach Derrick LeBlanc Breaux Bridge, La.\n\n### **COLLEGE JAGUARS**\n\n**WR Brian Thomas Jr.** , a Walker, La., native, played three seasons with LSU, leading the FBS with 17 receiving touchdowns in 2023 before declaring for the 2024 NFL Draft, where he was selected in the first round by the Jacksonville Jaguars."
+          ],
+          "title": "JAGUARS SAINTS"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The Jaguars state that Thomas played three seasons at LSU and earned second-team All-SEC and third-team All-America honors in 2023.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/jaguars-no-23-overall-selection-brian-thomas-jr-i-m-ready-to-get-going",
+          "excerpts": [
+            "Thomas (6-feet-2, 209 pounds), who played three seasons at LSU and entered the draft as an early-entry junior, was a second-team All-Southeastern Conference selection and a third-team All-America selection in 2023."
+          ],
+          "title": "Meet the Jaguars No. 23 Overall NFL Draft Pick Brian Thomas Jr. from LSU"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The Jaguars report that Thomas led the FBS with 17 receiving touchdowns in 2023 and tied for the third-fastest 40-yard dash at the NFL Combine.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/day-1-draft-observations-from-jaguars-media-analyst",
+          "excerpts": [
+            "Thomas was a big-play machine at LSU in 2023, leading the FBS with 17 receiving touchdowns, and was tied for the third-fastest 40-yard dash at the NFL Scouting Combine."
+          ],
+          "title": "Jaguars Analysts Reflect on Day 1 of the 2024 NFL Draft"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The Jaguars list his 2024 rookie franchise records for receptions, receiving yards, and touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/k000127-big-day-big-honors-for-jaguars-rookie-wide-receiver-brian-thomas-jr",
+          "excerpts": [
+            "Thomas in 2024 set Jaguars rookie records for receptions (87), yards (1,282) and touchdowns (10), ranking first among NFL rookies and third overall in receiving yards."
+          ],
+          "title": "Brian Thomas Jr. Named AP 2024 Offensive Rookie of the Year Finalist"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Jaguars state that his 85-yard touchdown reception against the Colts was the longest by a rookie in franchise history.",
+      "citations": [
+        {
+          "url": "https://static.clubs.nfl.com/image/upload/jaguars/wdkbdqtj6hecutlrn7yy",
+          "excerpts": [
+            "Thomas Jr.\u2019s 85-yard touchdown reception against the Colts, is the longest by a rookie in franchise history"
+          ],
+          "title": "4.5"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Jaguars report that Thomas was named a finalist for the 2024 AP Offensive Rookie of the Year award and selected for the 2025 Pro Bowl Games.",
+      "citations": [
+        {
+          "url": "https://www.jaguars.com/news/k000127-big-day-big-honors-for-jaguars-rookie-wide-receiver-brian-thomas-jr",
+          "excerpts": [
+            "**JACKSONVILLE \u2013 [Brian Thomas Jr.](https://www.jaguars.com/team/players-roster/brian-thomas-jr/ \"Brian Thomas Jr.\")** has received a big, big honor.\n\nThe Jaguars' wide receiver also has a chance for an even bigger honor following one of the biggest rookie seasons in franchise history.\n\nThomas on Thursday morning was named a finalist for the Associated Press 2024 NFL Offensive Rookie of the Year award, news that came the same day he was named to the 2025 Pro Bowl Games."
+          ],
+          "title": "Brian Thomas Jr. Named AP 2024 Offensive Rookie of the Year Finalist"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [],
+    "off_allowlist_citations": []
+  }
+}

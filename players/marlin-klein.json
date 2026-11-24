@@ -1,0 +1,42 @@
+{
+  "name": "Marlin Klein",
+  "espn_id": "4695705",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "83",
+  "position": "Tight End",
+  "position_abbr": "TE",
+  "college": "Michigan",
+  "experience": 0,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Marlin was born in Cologne, Germany.",
+    "Marlin moved to the United States at 16 to play football.",
+    "Marlin ran the 40-yard dash in 4.61 seconds at the 2026 NFL Scouting Combine."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2026",
+        "HOU",
+        "6",
+        "5",
+        "40",
+        "1",
+        "16"
+      ]
+    ]
+  }
+}

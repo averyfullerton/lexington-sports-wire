@@ -1,0 +1,114 @@
+{
+  "name": "Saquon Barkley",
+  "espn_id": "3929630",
+  "team": "Philadelphia Eagles",
+  "team_abbr": "PHI",
+  "number": "26",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": "Penn State",
+  "experience": 9,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Saquon played football and basketball and ran track in high school.",
+    "Saquon set a school record with 53 total touchdowns at Penn State in college.",
+    "Saquon kept a Barry Sanders action figure in his bedroom as a kid."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2018",
+        "NYG",
+        "16",
+        "261",
+        "1,307",
+        "5.0",
+        "11"
+      ],
+      [
+        "2019",
+        "NYG",
+        "13",
+        "217",
+        "1,003",
+        "4.6",
+        "6"
+      ],
+      [
+        "2020",
+        "NYG",
+        "2",
+        "19",
+        "34",
+        "1.8",
+        "0"
+      ],
+      [
+        "2021",
+        "NYG",
+        "13",
+        "162",
+        "593",
+        "3.7",
+        "2"
+      ],
+      [
+        "2022",
+        "NYG",
+        "16",
+        "295",
+        "1,312",
+        "4.4",
+        "10"
+      ],
+      [
+        "2023",
+        "NYG",
+        "14",
+        "247",
+        "962",
+        "3.9",
+        "6"
+      ],
+      [
+        "2024",
+        "PHI",
+        "16",
+        "345",
+        "2,005",
+        "5.8",
+        "13"
+      ],
+      [
+        "2025",
+        "PHI",
+        "16",
+        "280",
+        "1,140",
+        "4.1",
+        "7"
+      ],
+      [
+        "2026",
+        "PHI",
+        "8",
+        "86",
+        "371",
+        "4.3",
+        "4"
+      ]
+    ]
+  }
+}

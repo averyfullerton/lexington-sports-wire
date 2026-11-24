@@ -1,0 +1,199 @@
+{
+  "run_id": "trun_1d63cf7e4268416e8c0595962c8f7578",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 70.7,
+  "input": {
+    "player": "Austin Simmons",
+    "team": "Missouri Tigers",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "Austin Simmons played both football and baseball. As a left-handed pitcher, he could throw a fastball up to 94 mph.",
+      "At Pahokee High School, he threw for 3,161 yards and 24 touchdowns in his sophomore year.",
+      "He graduated high school two years early and earned a 5.3 GPA after taking advanced courses and college-credit classes.",
+      "He graduated from Ole Miss with a degree in multidisciplinary studies.",
+      "In his 2026 Missouri debut, he completed 17 of 19 passes for 252 yards and four touchdowns; his 89.5% completion rate was the highest by a quarterback in a Mizzou debut.",
+      "In his first four starts for Missouri, he threw 11 touchdown passes\u2014a program mark that surpassed Blaine Gabbert\u2019s total for a Tiger quarterback\u2019s first four starts after his debut."
+    ],
+    "high_school": "Pahokee High School",
+    "hometown": "Miami, Florida"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited ESPN reporting describes Simmons's football and baseball experience, high-school passing numbers, early graduation and GPA, and Ole Miss degree. The 2026 Missouri notes document his debut performance and the touchdown-pass mark across his first four starts.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38169487/austin-simmons-skipped-two-grades-play-ole-miss-football-baseball",
+          "excerpts": [
+            "He's a star football player, one of several elite quarterbacks in the [Ole Miss Rebels](https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels) ' loaded QB room, and a left-handed pitcher who tops out at 94 mph and could have a pro future on the diamond.",
+            "He was managing his courses while playing football for Pahokee High School and threw for 3,161 yards, 24 touchdowns and nine interceptions last season -- by age, his sophomore year.\n\n* * *\n\nDespite Simmons' father, David, being a high school football coach, it wasn't until Simmons was 10 that David really thought football would even be an option for him.",
+            "At that point, he had fulfilled all his academic requirements and graduated high school. Because he had taken advanced courses and college credits, his grades were worth more than the typical 4.0 scale and he finished with a 5.3 GPA. He was technically still a high school student for athletic eligibility"
+          ],
+          "title": "Austin Simmons skipped two grades to play Ole Miss football, baseball - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45916009/college-football-ole-miss-qb-austin-simmons-gets-shot",
+          "excerpts": [
+            "Simmons graduated two years early from high school and has already graduated from Ole Miss this spring with a degree in multidisciplinary studies. If he'd stuck exclusively with baseball, according to Bianco, Simmons would have been a high-round Major League Baseball pick.\n\nSimmons, 19, in many ways has been built for this moment his whole life."
+          ],
+          "title": "'I'm made for it': Austin Simmons gets his shot at Ole Miss - ESPN"
+        },
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/29/5_FLORIDA_Notes.pdf",
+          "excerpts": [
+            "3. \u2022 Simmons delivered a record-setting performance in his Mizzou debut, completing 17-of-19 passes for 252 yards and four touchdowns in the Tigers\u2019 54-14 victory. \u2022 Simmons\u2019 89.5 completion percentage marked the highest by a quarterback in his Mizzou debut, surpassing Beau Pribula\u2019s 82.1-percent effort against Central Arkansas in 2025. \u2022 His 270.4 passer rating was also the highest by a Tiger quarterback in his debut, while his four touchdown passes rank second only to Chase Daniel\u2019s five against Murray State in 2006. \u2022 The Ole Miss transfer is the seventh different signal-caller to start during the Drinkwitz era, and the third transfer QB.",
+            "\u2022 Simmons has thrown 11 touchdown passes through his first four starts as a Tiger, surpassing **Blaine Gabbert** for the most by a Mizzou quarterback across his first four starts following his debut. \u2022 His three touchdown passes were also the most by a Mizzou quarterback in a game against Mississippi State."
+          ],
+          "title": "5"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN report says Simmons played football for Pahokee High School and gives his high-school passing statistics.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38169487/austin-simmons-skipped-two-grades-play-ole-miss-football-baseball",
+          "excerpts": [
+            "He was managing his courses while playing football for Pahokee High School and threw for 3,161 yards, 24 touchdowns and nine interceptions last season -- by age, his sophomore year.\n\n* * *\n\nDespite Simmons' father, David, being a high school football coach, it wasn't until Simmons was 10 that David really thought football would even be an option for him."
+          ],
+          "title": "Austin Simmons skipped two grades to play Ole Miss football, baseball - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "ESPN's recruiting profile lists Miami, Florida as Simmons's hometown, and his player profile also lists Miami, Florida as his birthplace.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/269942/austin-simmons",
+          "excerpts": [
+            "# Austin Simmons\n\n* \n\n6-4, 215 | Class of 2026\n\n* Hometown [Miami, Fla.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/13/hometown/7379/class/2026)\n* School [University of Mississippi](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2026/highschool/30819)\n* Position [Quarterback: Pocket Passer](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/QB-PP/class/2026)\n* Status Signed [Missouri](https://www.espn.com/college-sports/football/recruiting/school/_/id/142) 01/06/2026\n\n|#### Scout Grade\n\n* \n* | |\n| --- | --- |",
+            "|[](https://www.espn.com/college-sports/football/recruiting/school/_/id/142/class/2026) [Missouri](https://www.espn.com/college-sports/football/recruiting/school/_/id/142/class/2026) |Signed | | |\n\nLast Updated: January 30, 2026\n\nPlayer Traits Key\n\nCLOSE **X**"
+          ],
+          "title": "Austin Simmons Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5141684/austin-simmons",
+          "excerpts": [
+            "BOIS\n  \n  20\n\nFinal\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Austin Simmons\n\nMissouri Tigers\n\n* [Missouri Tigers](https://www.espn.com/college-football/team/_/id/142/missouri-tigers)\n* \\#13\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 220 lbs\n* Birthplace\n  \n  Miami, FL\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 220 lbs\n* Birthplace\n  \n  Miami, FL\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  2,693\n  \n  17th\n  \n  TD\n  \n  25\n  \n  Tied-7th\n  \n  INT\n  \n  4\n  \n  Tied-27th"
+          ],
+          "title": "Austin Simmons - Missouri Tigers Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The ESPN profile describes Simmons as a football player and left-handed pitcher whose fastball reached 94 mph.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38169487/austin-simmons-skipped-two-grades-play-ole-miss-football-baseball",
+          "excerpts": [
+            "He's a star football player, one of several elite quarterbacks in the [Ole Miss Rebels](https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels) ' loaded QB room, and a left-handed pitcher who tops out at 94 mph and could have a pro future on the diamond."
+          ],
+          "title": "Austin Simmons skipped two grades to play Ole Miss football, baseball - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The report names Pahokee High School and states that he threw for 3,161 yards and 24 touchdowns in his sophomore year.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38169487/austin-simmons-skipped-two-grades-play-ole-miss-football-baseball",
+          "excerpts": [
+            "He was managing his courses while playing football for Pahokee High School and threw for 3,161 yards, 24 touchdowns and nine interceptions last season -- by age, his sophomore year.\n\n* * *\n\nDespite Simmons' father, David, being a high school football coach, it wasn't until Simmons was 10 that David really thought football would even be an option for him."
+          ],
+          "title": "Austin Simmons skipped two grades to play Ole Miss football, baseball - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The ESPN report gives his 5.3 GPA and notes his advanced courses and college credits; the other cited report says he graduated high school two years early.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/38169487/austin-simmons-skipped-two-grades-play-ole-miss-football-baseball",
+          "excerpts": [
+            "At that point, he had fulfilled all his academic requirements and graduated high school. Because he had taken advanced courses and college credits, his grades were worth more than the typical 4.0 scale and he finished with a 5.3 GPA. He was technically still a high school student for athletic eligibility"
+          ],
+          "title": "Austin Simmons skipped two grades to play Ole Miss football, baseball - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45916009/college-football-ole-miss-qb-austin-simmons-gets-shot",
+          "excerpts": [
+            "Simmons graduated two years early from high school and has already graduated from Ole Miss this spring with a degree in multidisciplinary studies. If he'd stuck exclusively with baseball, according to Bianco, Simmons would have been a high-round Major League Baseball pick.\n\nSimmons, 19, in many ways has been built for this moment his whole life."
+          ],
+          "title": "'I'm made for it': Austin Simmons gets his shot at Ole Miss - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The ESPN report states that Simmons graduated from Ole Miss with a degree in multidisciplinary studies.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/45916009/college-football-ole-miss-qb-austin-simmons-gets-shot",
+          "excerpts": [
+            "Simmons graduated two years early from high school and has already graduated from Ole Miss this spring with a degree in multidisciplinary studies. If he'd stuck exclusively with baseball, according to Bianco, Simmons would have been a high-round Major League Baseball pick.\n\nSimmons, 19, in many ways has been built for this moment his whole life. His father, Dave, is a former college and professional coach who trained him intensively in both football and baseball.\n\nSimmons is the third of seven brothers, ages 6 to 30."
+          ],
+          "title": "'I'm made for it': Austin Simmons gets his shot at Ole Miss - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The Missouri notes give his 17-of-19 debut passing line, 252 yards, four touchdowns, and record-high 89.5% completion rate for a Mizzou debut.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/29/5_FLORIDA_Notes.pdf",
+          "excerpts": [
+            "3. \u2022 Simmons delivered a record-setting performance in his Mizzou debut, completing 17-of-19 passes for 252 yards and four touchdowns in the Tigers\u2019 54-14 victory. \u2022 Simmons\u2019 89.5 completion percentage marked the highest by a quarterback in his Mizzou debut, surpassing Beau Pribula\u2019s 82.1-percent effort against Central Arkansas in 2025. \u2022 His 270.4 passer rating was also the highest by a Tiger quarterback in his debut, while his four touchdown passes rank second only to Chase Daniel\u2019s five against Murray State in 2006. \u2022 The Ole Miss transfer is the seventh different signal-caller to start during the Drinkwitz era, and the third transfer QB."
+          ],
+          "title": "5"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.5",
+      "reasoning": "The Missouri notes say Simmons had 11 touchdown passes through his first four starts as a Tiger, surpassing Blaine Gabbert's mark for that span.",
+      "citations": [
+        {
+          "url": "https://floridagators.com/documents/download/2026/9/29/5_FLORIDA_Notes.pdf",
+          "excerpts": [
+            "\u2022 Simmons has thrown 11 touchdown passes through his first four starts as a Tiger, surpassing **Blaine Gabbert** for the most by a Mizzou quarterback across his first four starts following his debut. \u2022 His three touchdown passes were also the most by a Mizzou quarterback in a game against Mississippi State."
+          ],
+          "title": "5"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4",
+      "fun_facts.5",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}

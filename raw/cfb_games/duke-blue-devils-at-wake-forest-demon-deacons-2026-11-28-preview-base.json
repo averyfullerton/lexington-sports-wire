@@ -1,0 +1,277 @@
+{
+  "run_id": "trun_acf50aaad34243e08661908edfe324c4",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 211.1,
+  "input": {
+    "away_team": "Duke Blue Devils",
+    "home_team": "Wake Forest Demon Deacons",
+    "game_date": "2026-11-28",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "7-4",
+    "away_team": "Duke Blue Devils",
+    "storyline": "Wake Forest is 7-1 in ACC play, and a win over Duke could secure its place in the ACC Championship Game if it has not clinched through other results. The game is the Demon Deacons\u2019 regular-season finale.",
+    "matchup_notes": [
+      "Wake Forest beat Georgia Tech 50-29 on Nov. 21, improving to 10-1 overall and 7-1 in the ACC while extending its winning streak to eight games.",
+      "Wake Forest is 7-1 in ACC play, behind Miami at 8-0 in the conference standings.",
+      "Duke lost 20-10 to Clemson in its late-November regular-season game."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "1,436 rushing yards, 20 rushing TD",
+        "team": "Duke Blue Devils",
+        "name": "Nate Sheppard"
+      },
+      {
+        "stat_line": "2,701 passing yards, 21 passing TD",
+        "team": "Wake Forest Demon Deacons",
+        "name": "Gio Lopez"
+      }
+    ],
+    "home_record": "10-1",
+    "home_team": "Wake Forest Demon Deacons",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The matchup listing gives Duke\u2019s pregame record as 7-4.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858312/duke-wake-forest",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n[Duke Blue Devils Duke DUKE](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n7-4 , 4-4 ACC\n\nNov 28\n\n8:30 PM\n\nESPN\n\n[](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n11\n\n[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n# Duke Blue Devils @ Wake Forest Demon Deacons"
+          ],
+          "title": "Duke vs. Wake Forest (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The game listing names Duke Blue Devils as the away team in the Duke-at-Wake Forest matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858312/duke-wake-forest",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n[Duke Blue Devils Duke DUKE](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n7-4 , 4-4 ACC\n\nNov 28\n\n8:30 PM\n\nESPN\n\n[](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n11\n\n[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n# Duke Blue Devils @ Wake Forest Demon Deacons"
+          ],
+          "title": "Duke vs. Wake Forest (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The preview says Wake Forest could secure its ACC title-game place with a victory over Duke if other results do not decide the berth earlier; it identifies the Duke game as the regular-season finale.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/preview/_/gameId/401858310",
+          "excerpts": [
+            "If Wake Forest wins but does not get either result elsewhere, it could still wrap up the bid with a victory over Duke in its Nov. 28 regular-season finale.\n\nWake Forest's No."
+          ],
+          "title": "Wake Forest vs. Georgia Tech (Nov 21, 2026) Pregame - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The Wake Forest recap reports its 50-29 win over Georgia Tech, 10-1 overall and 7-1 ACC record, and eight-game winning streak. The standings list Miami at 8-0 and Wake Forest at 7-1 in conference play. The Clemson-Duke recap gives the 20-10 final score.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n50\n\n10-1 , 7-1 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |",
+            "# Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29\n\n1:13\n\n## Wake Forest Demon Deacons vs. Georgia Tech Yellow Jackets: Full Highlights\n\n* * *\n\nBy AP\n\nNov 21, 2026, 08:53 pm\n\nFacebook Facebook Messenger Twitter Email\n\nATLANTA -- \u2014 [Gio Lopez](http://www.espn.com/college-football/player/_/id/4920227/gio-lopez) completed 17 of 22 passes for 324 yards and accounted for four total touchdowns as No. 10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No. 11 CFP) extended the longest winning streak in program history, and clinched only the third double-digit win season in program history."
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons",
+          "excerpts": [
+            "### 2026 ACC Standings\n\n|Team |CONF |OVR |\n| --- | --- | --- |\n|[Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) |8-0 |10-1 |\n|[Wake Forest](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons) |7-1 |10-1 |"
+          ],
+          "title": "Wake Forest Demon Deacons Scores, Stats and Highlights - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858303",
+          "excerpts": [
+            "Final | |1 |2 |3 |4 |T | |[Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers) CLEM |0 |3 |7 |10 |20 | |[Duke](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils) DUKE |0 |0 |7 |3 |10 | [](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils) [Duke Blue Devils"
+          ],
+          "title": "Clemson 20-10 Duke (Nov 20, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The Duke player listing identifies Nate Sheppard and his 2026 stats show 1,436 rushing yards and 20 touchdowns. The NCAA statistics row identifies Wake Forest\u2019s Gio Lopez and lists 2,701 passing yards and 21 passing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5164332/nate-sheppard",
+          "excerpts": [
+            "* SDSU\n  \n  5-5\n* 17\n  \n  BOIS\n  \n  9-1\n\nSun\n\n2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Nate Sheppard\n\nDuke Blue Devils\n\n* [Duke Blue Devils](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n* \\#20\n* Running Back RB\n\n* Class",
+            "2026 season stats CAR 226 3rd YDS 1,436 2nd TD 20"
+          ],
+          "title": "Nate Sheppard - Duke Blue Devils Running Back - ESPN"
+        },
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453",
+          "excerpts": [
+            "|15 |Gio Lopez |[Wake Forest](https://www.ncaa.com/schools/wake-forest) |Jr. |QB |10 |275 |184 |1 |21 |2701 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The matchup listing gives Wake Forest\u2019s pregame record as 10-1.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858312/duke-wake-forest",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n[Duke Blue Devils Duke DUKE](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n7-4 , 4-4 ACC\n\nNov 28\n\n8:30 PM\n\nESPN\n\n[](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n11\n\n[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n# Duke Blue Devils @ Wake Forest Demon Deacons"
+          ],
+          "title": "Duke vs. Wake Forest (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The listing identifies Wake Forest Demon Deacons as the home team after the @ symbol in the matchup.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858312/duke-wake-forest",
+          "excerpts": [
+            "[](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n[Duke Blue Devils Duke DUKE](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n\n7-4 , 4-4 ACC\n\nNov 28\n\n8:30 PM\n\nESPN\n\n[](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n11\n\n[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n# Duke Blue Devils @ Wake Forest Demon Deacons"
+          ],
+          "title": "Duke vs. Wake Forest (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The listing schedules the game for November 28, 2026, which is later than the stated current date of November 24, 2026; therefore it had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858312/duke-wake-forest",
+          "excerpts": [
+            "[Full Schedule](https://www.espn.com/college-football/team/schedule/_/id/154)\n\n## Game Information\n\n#### 8:30 PM, November 28, 2026"
+          ],
+          "title": "Duke vs. Wake Forest (Nov 28, 2026) Live Score - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The recap identifies the 50-29 Georgia Tech result, Wake Forest\u2019s 10-1 overall and 7-1 ACC records, and its eighth consecutive win.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858310",
+          "excerpts": [
+            "[Wake Forest Demon Deacons Wake Forest WAKE](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)\n\n10-1 , 7-1 ACC\n\n50\n\n10-1 , 7-1 ACC\n\nFinal\n\n| |1 |2 |3 |4 |T |\n| --- | --- | --- | --- | --- | --- |",
+            "# Gio Lopez rushes for two scores and throws two more as Wake Forest beats Georgia Tech 50-29\n\n1:13\n\n## Wake Forest Demon Deacons vs. Georgia Tech Yellow Jackets: Full Highlights\n\n* * *\n\nBy AP\n\nNov 21, 2026, 08:53 pm\n\nFacebook Facebook Messenger Twitter Email\n\nATLANTA -- \u2014 [Gio Lopez](http://www.espn.com/college-football/player/_/id/4920227/gio-lopez) completed 17 of 22 passes for 324 yards and accounted for four total touchdowns as No. 10 Wake Forest beat Georgia Tech 50-29 on Saturday afternoon.\n\nThe eighth consecutive victory for Wake Forest (10-1, 7-1 Atlantic Coast Conference, No. 11 CFP) extended the longest winning streak in program history, and clinched only the third double-digit win season in program history."
+          ],
+          "title": "Wake Forest 50-29 Georgia Tech (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The ACC standings show Miami at 8-0 and Wake Forest at 7-1 in conference play.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons",
+          "excerpts": [
+            "### 2026 ACC Standings\n\n|Team |CONF |OVR |\n| --- | --- | --- |\n|[Miami](https://www.espn.com/college-football/team/_/id/2390/miami-hurricanes) |8-0 |10-1 |\n|[Wake Forest](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons) |7-1 |10-1 |"
+          ],
+          "title": "Wake Forest Demon Deacons Scores, Stats and Highlights - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The final score table shows Clemson with 20 points and Duke with 10.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858303",
+          "excerpts": [
+            "Final | |1 |2 |3 |4 |T | |[Clemson](https://www.espn.com/college-football/team/_/id/228/clemson-tigers) CLEM |0 |3 |7 |10 |20 | |[Duke](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils) DUKE |0 |0 |7 |3 |10 | [](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils) [Duke Blue Devils"
+          ],
+          "title": "Clemson 20-10 Duke (Nov 20, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The Duke listing names Nate Sheppard, and the season-stat entries give him 1,436 rushing yards and 20 rushing touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5164332/nate-sheppard",
+          "excerpts": [
+            "* SDSU\n  \n  5-5\n* 17\n  \n  BOIS\n  \n  9-1\n\nSun\n\n2:30 AM\n\nUSA Net\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# Nate Sheppard\n\nDuke Blue Devils\n\n* [Duke Blue Devils](https://www.espn.com/college-football/team/_/id/150/duke-blue-devils)\n* \\#20\n* Running Back RB\n\n* Class",
+            "2026 season stats CAR 226 3rd YDS 1,436 2nd TD 20"
+          ],
+          "title": "Nate Sheppard - Duke Blue Devils Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The NCAA statistics row names Gio Lopez of Wake Forest and lists 21 passing touchdowns and 2,701 passing yards.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/stats/football/fbs/current/individual/453",
+          "excerpts": [
+            "|15 |Gio Lopez |[Wake Forest](https://www.ncaa.com/schools/wake-forest) |Jr. |QB |10 |275 |184 |1 |21 |2701 |"
+          ],
+          "title": "NCAA College Football FBS current individual Stats | NCAA.com"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "matchup_notes",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "Ready for a thrilling ACC race? On Saturday, 7-4 Duke visits No. 8 Wake Forest, 10-1, in North Carolina. Duke\u2019s Nate Sheppard has 1,436 rushing yards and 20 rushing TDs. Wake\u2019s Gio Lopez has 2,701 passing yards and 21 passing TDs. A win could send Wake to the ACC Championship Game! Wake is 7-1 in ACC play.",
+    "big_words": [
+      {
+        "word": "thrilling",
+        "definition": "Very exciting.",
+        "example": "Jamal made a thrilling volcano for his science project."
+      }
+    ],
+    "opener": "Start with a short question a fan might ask about this game.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1158,
+        "output": 352
+      }
+    ]
+  }
+}

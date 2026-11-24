@@ -1,0 +1,69 @@
+{
+  "name": "Kayshon Boutte",
+  "espn_id": "4429022",
+  "team": "Houston Texans",
+  "team_abbr": "HOU",
+  "number": "14",
+  "position": "Wide Receiver",
+  "position_abbr": "WR",
+  "college": "LSU",
+  "experience": 4,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
+  "fun_facts": [
+    "Kayshon caught 14 passes for 308 yards in one college game, an LSU record.",
+    "He ended his first college season with three straight 100-yard games.",
+    "Kayshon scored multiple touchdowns of 25 or more yards in one NFL game in 2025."
+  ],
+  "stats": {
+    "kind": "receiving",
+    "columns": [
+      "Season",
+      "Team",
+      "Games",
+      "Catches",
+      "Yards",
+      "TDs",
+      "Longest"
+    ],
+    "rows": [
+      [
+        "2023",
+        "NE",
+        "5",
+        "2",
+        "19",
+        "0",
+        "11"
+      ],
+      [
+        "2024",
+        "NE",
+        "15",
+        "43",
+        "589",
+        "3",
+        "48"
+      ],
+      [
+        "2025",
+        "NE",
+        "14",
+        "33",
+        "551",
+        "6",
+        "39"
+      ],
+      [
+        "2026",
+        "HOU",
+        "10",
+        "21",
+        "359",
+        "3",
+        "63"
+      ]
+    ]
+  }
+}

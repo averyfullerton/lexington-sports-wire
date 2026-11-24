@@ -1,0 +1,64 @@
+{
+  "name": "Mark Fletcher Jr.",
+  "espn_id": "4870736",
+  "team": "Miami Hurricanes",
+  "team_abbr": "MIA",
+  "number": "4",
+  "position": "Running Back",
+  "position_abbr": "RB",
+  "college": null,
+  "experience": null,
+  "class_year": "Senior",
+  "hometown": "Fort Lauderdale, FL",
+  "league": "cfb",
+  "fun_facts": [
+    "Mark ran for 507 yards in four College Football Playoff games.",
+    "He ran for 112 yards and scored twice against Indiana in the national championship.",
+    "He ran for 106 yards and scored three touchdowns against Stanford."
+  ],
+  "stats": {
+    "kind": "rushing",
+    "columns": [
+      "Season",
+      "Team",
+      "Carries",
+      "Yards",
+      "Avg",
+      "TDs"
+    ],
+    "rows": [
+      [
+        "2023",
+        "MIA",
+        "105",
+        "514",
+        "4.9",
+        "5"
+      ],
+      [
+        "2024",
+        "MIA",
+        "112",
+        "607",
+        "5.4",
+        "9"
+      ],
+      [
+        "2025",
+        "MIA",
+        "216",
+        "1,192",
+        "5.5",
+        "12"
+      ],
+      [
+        "2026",
+        "MIA",
+        "131",
+        "600",
+        "4.6",
+        "13"
+      ]
+    ]
+  }
+}

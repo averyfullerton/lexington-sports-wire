@@ -8,6 +8,9 @@
   "position_abbr": "WR",
   "college": "LSU",
   "experience": 3,
+  "class_year": null,
+  "hometown": null,
+  "league": "nfl",
   "fun_facts": [
     "Malik said he would play in the NFL while twirling a football at age 8.",
     "Malik set LSU career records with 189 receptions and 3,003 receiving yards.",
@@ -46,10 +49,10 @@
       [
         "2026",
         "NYG",
-        "9",
-        "58",
-        "692",
-        "2",
+        "10",
+        "65",
+        "747",
+        "3",
         "46"
       ]
     ]

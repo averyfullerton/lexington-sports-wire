@@ -1,0 +1,171 @@
+{
+  "run_id": "trun_415f3f698c1f435bb430b5b541c0b531",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 65.4,
+  "input": {
+    "player": "Kayshon Boutte",
+    "team": "Houston Texans",
+    "position": "Wide Receiver",
+    "season": 2026
+  },
+  "content": {
+    "college": "LSU",
+    "fun_facts": [
+      "Kayshon Boutte is from New Iberia, Louisiana, and attended Westgate High School.",
+      "Kayshon Boutte was rated a four-star recruit.",
+      "As a freshman in 2020, Kayshon Boutte caught 14 passes for 308 yards against Ole Miss\u2014a single-game receiving record for LSU.",
+      "Kayshon Boutte closed his freshman season with three straight 100-yard games.",
+      "In 2025, Kayshon Boutte became the first Patriots player since 2019 to score multiple touchdowns of 25 or more yards in one game."
+    ],
+    "draft": "2023, round 6, pick 187"
+  },
+  "basis": [
+    {
+      "field": "college",
+      "reasoning": "The NFL player profile identifies Kayshon Boutte's college as LSU.",
+      "citations": [
+        {
+          "url": "https://www.nfl.com/players/kayshon-boutte",
+          "excerpts": [
+            "# Kayshon Boutte Stats, News and Video - WR | NFL.com\n\n# Kayshon Boutte\n\nWR \u2022 \\#14\n\n[Houston Texans](https://www.nfl.com/teams/houston-texans/)\n\n### active\n\n* [Info](https://www.nfl.com/players/kayshon-boutte/)\n* [Stats](https://www.nfl.com/players/kayshon-boutte/stats)\n\nAdvertising\n\n### Player Info\n\n* Height\n  \n  5-11\n* Weight\n  \n  203\n* Arms\n  \n  31 1/2\n* Hands\n  \n  9 1/2\n\n* Experience\n  \n  4\n* College\n  \n  LSU\n* Age\n  \n  24\n* Hometown\n  \n  New Iberia, LA\n\n## Related Content - Articles"
+          ],
+          "title": "Kayshon Boutte Stats, News and Video - WR | NFL.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages support the hometown and high school, four-star recruiting rating, LSU single-game receiving record, three consecutive 100-yard games, and Patriots touchdown milestone stated in the list.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/235153/kayshon-boutte",
+          "excerpts": [
+            "# Kayshon Boutte\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/4/class/2020)\n\n* \n\n5-10, 180 | Class of 2020\n\n* Hometown [New Iberia, La.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/23/hometown/1180/class/2020)\n* School Westgate High School\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2020)\n* Status Signed [LSU](https://www.espn.com/college-sports/football/recruiting/school/_/id/99) 10/21/2018\n\n#### Scout Grade\n\n* 86\n*"
+          ],
+          "title": "Kayshon Boutte Wide Receiver Recruiting Profile - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30557748/lsu-freshman-kayshon-boutte-sets-sec-record-308-receiving-yards-vs-ole-miss",
+          "excerpts": [
+            "The true freshman also had three touchdowns.\n\nBoutte, a former four-star recruit, has been pushed into a more prominent role this season ever since the decisions of star receivers Ja'Marr Chase and Terrace Marshall Jr. to opt out.\n\nBoutte, a Louisiana native, finished the season with three straight 100-yard games.\n\nLSU came back from down eight points midway through the fourth quarter to beat Ole Miss on Saturday, thanks in large part to the passing game."
+          ],
+          "title": "LSU freshman Kayshon Boutte sets SEC record with 308 receiving yards vs. Ole Miss - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401267165/ole-miss-lsu",
+          "excerpts": [
+            "[## Boutte's record day lifts LSU past Ole Miss, 53-48 \u2014 Freshman receiver Kayshon Boutte caught 14 passes for an LSU-record 308 yards receiving, and his third touchdown of the game on a 45-yard catch-and-run with 1:30 remaining lifted the Tigers to a 53-48 victory over Mississippi on Saturday. Dec 19, 2020, 10:05 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401267165)"
+          ],
+          "title": "LSU 53-48 Ole Miss (Dec 19, 2020) Final Score - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46576555/new-england-patriots-win-third-straight-thanks-kayshon-boutte-big-day",
+          "excerpts": [
+            "And in Sunday's road victory over the Saints, it was Louisiana-born and former Louisiana State receiver [Kayshon Boutte](https://www.espn.com/nfl/player/_/id/4429022/kayshon-boutte) rising up with a clutch performance that included a team-high five catches for 93 yards and 2 touchdowns (deep shots of 25 and 29 yards). Boutte became the first Patriots player to score multiple touchdowns of 25 or more yards in a game since [Phillip Dorsett II](https://www.espn.com/nfl/player/_/id/2579604/phillip-dorsett-ii) in 2019."
+          ],
+          "title": "Patriots win third straight thanks to Kayshon Boutte's big day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "draft",
+      "reasoning": "The player record states that New England drafted Kayshon Boutte in the sixth round, 187th overall, of the 2023 NFL Draft.",
+      "citations": [
+        {
+          "url": "https://www.pro-football-reference.com/players/B/BoutKa00/gamelog/2023",
+          "excerpts": [
+            "Photo of Kayshon Boutte\n\n# Kayshon Boutte\n\n**Kayshon Boutte**\n\n**Position** : WR\n\n5-11 , 203lb (180cm, 92kg)\n\n**Team** : [Houston Texans](https://www.pro-football-reference.com/teams/htx/2026.htm)\n\n**Born:** [May 7](https://www.pro-football-reference.com/friv/birthdays.cgi?month=5&day=7) , 2002 in New Iberia, [LA](https://www.pro-football-reference.com/friv/birthplaces.cgi?country=USA&state=LA)\n\n**College** : [LSU](https://www.pro-football-reference.com/schools/lsu/) ( [College Stats](https://www.sports-reference.com/cfb/players/kayshon-boutte-1.html) )"
+          ],
+          "title": "Kayshon Boutte 2023 Game Log | Pro-Football-Reference.com"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The recruiting profile lists New Iberia, Louisiana, as his hometown and Westgate High School as his school.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-sports/football/recruiting/player/_/id/235153/kayshon-boutte",
+          "excerpts": [
+            "# Kayshon Boutte\n\n* [](https://www.espn.com/college-sports/football/recruiting/honors/_/id/4/class/2020)\n\n* \n\n5-10, 180 | Class of 2020\n\n* Hometown [New Iberia, La.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/23/hometown/1180/class/2020)\n* School Westgate High School\n* Position [Wide Receiver](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/position/WR/class/2020)\n* Status Signed [LSU](https://www.espn.com/college-sports/football/recruiting/school/_/id/99) 10/21/2018\n\n#### Scout Grade\n\n* 86\n*"
+          ],
+          "title": "Kayshon Boutte Wide Receiver Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage describes Boutte as a former four-star recruit.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30557748/lsu-freshman-kayshon-boutte-sets-sec-record-308-receiving-yards-vs-ole-miss",
+          "excerpts": [
+            "The true freshman also had three touchdowns.\n\nBoutte, a former four-star recruit, has been pushed into a more prominent role this season ever since the decisions of star receivers Ja'Marr Chase and Terrace Marshall Jr. to opt out.\n\nBoutte, a Louisiana native, finished the season with three straight 100-yard games.\n\nLSU came back from down eight points midway through the fourth quarter to beat Ole Miss on Saturday, thanks in large part to the passing game."
+          ],
+          "title": "LSU freshman Kayshon Boutte sets SEC record with 308 receiving yards vs. Ole Miss - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The game recap states that Boutte caught 14 passes for an LSU-record 308 receiving yards against Ole Miss as a freshman.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/game/_/gameId/401267165/ole-miss-lsu",
+          "excerpts": [
+            "[## Boutte's record day lifts LSU past Ole Miss, 53-48 \u2014 Freshman receiver Kayshon Boutte caught 14 passes for an LSU-record 308 yards receiving, and his third touchdown of the game on a 45-yard catch-and-run with 1:30 remaining lifted the Tigers to a 53-48 victory over Mississippi on Saturday. Dec 19, 2020, 10:05 pm - AP](https://www.espn.com/college-football/recap/_/gameId/401267165)"
+          ],
+          "title": "LSU 53-48 Ole Miss (Dec 19, 2020) Final Score - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage says Boutte finished the season with three straight 100-yard games.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/30557748/lsu-freshman-kayshon-boutte-sets-sec-record-308-receiving-yards-vs-ole-miss",
+          "excerpts": [
+            "The true freshman also had three touchdowns.\n\nBoutte, a former four-star recruit, has been pushed into a more prominent role this season ever since the decisions of star receivers Ja'Marr Chase and Terrace Marshall Jr. to opt out.\n\nBoutte, a Louisiana native, finished the season with three straight 100-yard games.\n\nLSU came back from down eight points midway through the fourth quarter to beat Ole Miss on Saturday, thanks in large part to the passing game."
+          ],
+          "title": "LSU freshman Kayshon Boutte sets SEC record with 308 receiving yards vs. Ole Miss - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.4",
+      "reasoning": "The passage says Boutte became the first Patriots player since 2019 to score multiple touchdowns of 25 or more yards in a game.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/nfl/story/_/id/46576555/new-england-patriots-win-third-straight-thanks-kayshon-boutte-big-day",
+          "excerpts": [
+            "And in Sunday's road victory over the Saints, it was Louisiana-born and former Louisiana State receiver [Kayshon Boutte](https://www.espn.com/nfl/player/_/id/4429022/kayshon-boutte) rising up with a clutch performance that included a team-high five catches for 93 yards and 2 touchdowns (deep shots of 25 and 29 yards). Boutte became the first Patriots player to score multiple touchdowns of 25 or more yards in a game since [Phillip Dorsett II](https://www.espn.com/nfl/player/_/id/2579604/phillip-dorsett-ii) in 2019."
+          ],
+          "title": "Patriots win third straight thanks to Kayshon Boutte's big day - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "draft",
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "fun_facts.4"
+    ],
+    "off_allowlist_citations": []
+  }
+}

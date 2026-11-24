@@ -1,0 +1,295 @@
+{
+  "run_id": "trun_acf50aaad34243e0b09fccf72d1e86a7",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 239.9,
+  "input": {
+    "away_team": "TCU Horned Frogs",
+    "home_team": "Texas Tech Red Raiders",
+    "game_date": "2026-11-26",
+    "season": 2026,
+    "week": 13
+  },
+  "content": {
+    "away_record": "5-6",
+    "away_team": "TCU Horned Frogs",
+    "storyline": "Texas Tech is one win from returning to the Big 12 Championship Game, while TCU needs a win to become bowl-eligible.",
+    "matchup_notes": [
+      "TCU enters 5-6 (3-5 Big 12) after a 38-17 loss at Utah on Nov. 21.",
+      "Texas Tech enters 10-1 (7-1 Big 12) after beating Baylor 20-10 on Nov. 21.",
+      "A win would make TCU bowl-eligible; Texas Tech is one win from reaching a second consecutive Big 12 Championship Game."
+    ],
+    "players_to_watch": [
+      {
+        "stat_line": "61 receptions, 697 receiving yards, 4 TD",
+        "team": "TCU Horned Frogs",
+        "name": "Kari Ashley"
+      },
+      {
+        "stat_line": "1,195 rushing yards, 9 TD on 159 carries",
+        "team": "Texas Tech Red Raiders",
+        "name": "J'Koby Williams"
+      }
+    ],
+    "home_record": "10-1",
+    "home_team": "Texas Tech Red Raiders",
+    "game_was_played": false
+  },
+  "basis": [
+    {
+      "field": "away_record",
+      "reasoning": "The segment states TCU\u2019s record as 5-6 and its Big 12 record as 3-5 before the Thanksgiving-night finale.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "away_team",
+      "reasoning": "The player profile identifies the team as TCU Horned Frogs.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5083569/jaden-craig",
+          "excerpts": [
+            "* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#1\n* Quarterback QB\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 3\", 225 lbs\n* Birthplace\n  \n  Montclair, NJ\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 3\", 225 lbs\n* Birthplace\n  \n  Montclair, NJ\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* YDS\n  \n  2,664\n  \n  19th\n  \n  TD\n  \n  13\n  \n  Tied-64th\n  \n  INT\n  \n  7"
+          ],
+          "title": "Jaden Craig - TCU Horned Frogs Quarterback - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "storyline",
+      "reasoning": "The source says TCU could become bowl-eligible by winning the finale and that Texas Tech is trying to return to the Big 12 Championship Game for the second year in a row.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes",
+      "reasoning": "The cited segments support TCU\u2019s recent loss and record, Texas Tech\u2019s recent win and record, and the bowl-eligibility and conference-title implications.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856871",
+          "excerpts": [
+            "11 Texas Tech with his go-ahead 48-yard touchdown catch, and the defending Big 12 champion Red Raiders moved within one win of reaching another conference title game by beating Baylor 20-10 on Saturday."
+          ],
+          "title": "Texas Tech 20-10 Baylor (Nov 21, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch",
+      "reasoning": "The player-stat segments give Kari Ashley\u2019s receiving totals and J'Koby Williams\u2019s rushing totals for 2026.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5391236/kari-ashley",
+          "excerpts": [
+            "* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#81\n* Tight End TE\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 225 lbs\n* Birthplace\n  \n  Marietta, GA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 225 lbs\n* Birthplace\n  \n  Marietta, GA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* REC\n  \n  61\n  \n  Tied-29th\n  \n  YDS\n  \n  697\n  \n  66th\n  \n  TD\n  \n  4\n  \n  Tied-121st\n  \n  AVG\n  \n  11\\.4\n  \n  150+\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5391236/kari-ashley)"
+          ],
+          "title": "Kari Ashley - TCU Horned Frogs Tight End - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# J'Koby Williams\n\nTexas Tech Red Raiders\n\n* [Texas Tech Red Raiders](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders)\n* \\#20\n* Running Back RB\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  159\n  \n  Tied-36th\n  \n  YDS\n  \n  1,195\n  \n  13th\n  \n  TD\n  \n  9\n  \n  Tied-36th\n  \n  AVG\n  \n  7\\.5\n  \n  4th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5086393/jkoby-williams)"
+          ],
+          "title": "J'Koby Williams - Texas Tech Red Raiders Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_record",
+      "reasoning": "The segment gives Texas Tech\u2019s record as 10-1 and its Big 12 record as 7-1 before the finale.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "home_team",
+      "reasoning": "The player profile identifies J'Koby Williams as a member of the Texas Tech Red Raiders, supporting the full home-team name.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# J'Koby Williams\n\nTexas Tech Red Raiders\n\n* [Texas Tech Red Raiders](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders)\n* \\#20\n* Running Back RB\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  159\n  \n  Tied-36th\n  \n  YDS\n  \n  1,195\n  \n  13th\n  \n  TD\n  \n  9\n  \n  Tied-36th\n  \n  AVG\n  \n  7\\.5\n  \n  4th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5086393/jkoby-williams)"
+          ],
+          "title": "J'Koby Williams - Texas Tech Red Raiders Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "game_was_played",
+      "reasoning": "The schedule lists TCU at Texas Tech for Thursday, Nov. 26, while the stated current date is Nov. 24, so the game had not yet been played.",
+      "citations": [
+        {
+          "url": "https://www.ncaa.com/news/football/article/college-football-tv-schedule-game-times-preview",
+          "excerpts": [
+            "## Football\n\nfootball-fbs flag\n\n#### Wayne Staats | NCAA.com | November 21, 2026\n\n# College football TV schedule and times\n\nBreaking down the Week 12 College Football Playoff rankings\n\nShare",
+            "[**New Mexico 24,** Wyoming 17](https://www.ncaa.com/game/6640775)\n\n### Week 13 schedule\n\n**Tuesday, Nov. 24**\n\n_FBS_  \n[Kent State at Eastern Michigan | 7 p.m. | ESPN+](https://www.ncaa.com/game/6640471)  \n[Miami (Ohio) at Western Michigan | 7 p.m. | ESPN2](https://www.ncaa.com/game/6603835)\n\n**Thursday, Nov. 26**\n\n_FBS_  \n[TCU at Texas Tech | 8 p.m. | ESPN](https://www.ncaa.com/game/6604322)\n\n**Friday, Nov. 27**\n\n_FBS_  \n[Nebraska at Iowa | 12 p.m."
+          ],
+          "title": "College football TV schedule and times | NCAA.com"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "matchup_notes.0",
+      "reasoning": "The record and Big 12 standing come from the TCU record listing; the game recap says Utah beat TCU 38-17 on Nov. 21.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856872",
+          "excerpts": [
+            "2 Utah beat TCU 38-17 on Saturday night for its 17th straight victory, clinching a spot in the Big 12 championship game."
+          ],
+          "title": "Utah 38-17 TCU (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.1",
+      "reasoning": "The record listing gives Texas Tech\u2019s 10-1, 7-1 mark; the recap states that Texas Tech beat Baylor 20-10 on Saturday.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401856871",
+          "excerpts": [
+            "11 Texas Tech with his go-ahead 48-yard touchdown catch, and the defending Big 12 champion Red Raiders moved within one win of reaching another conference title game by beating Baylor 20-10 on Saturday."
+          ],
+          "title": "Texas Tech 20-10 Baylor (Nov 21, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "matchup_notes.2",
+      "reasoning": "The segment directly states both the bowl-eligibility implication for TCU and Texas Tech\u2019s goal of reaching the Big 12 Championship Game for a second straight year.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/50563619/tcu-fires-coach-sonny-dykes-sources-say",
+          "excerpts": [
+            "The Frogs' five losses before that had all been one-score games against Power Four opponents, and by a combined 25 points.\n\nThe Frogs were coming off back-to-back 9-4 seasons when Dykes got a multiyear extension in April. He finishes 41-23 at TCU.\n\nThe Frogs (5-6, 3-5 Big 12) could still get bowl eligible if they win their regular-season finale Thanksgiving night at defending Big 12 champion [Texas Tech](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders) (10-1, 7-1). The Red Raiders are trying to get back to the Big 12 championship game for the second year in a row."
+          ],
+          "title": "TCU fires coach Sonny Dykes, sources say - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.0",
+      "reasoning": "The player-stat segment lists Kari Ashley with 61 receptions, 697 receiving yards, and 4 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5391236/kari-ashley",
+          "excerpts": [
+            "* [TCU Horned Frogs](https://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs)\n* \\#81\n* Tight End TE\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 225 lbs\n* Birthplace\n  \n  Marietta, GA\n\nFollow\n\n* Class\n  \n  Senior\n* HT/WT\n  \n  6' 4\", 225 lbs\n* Birthplace\n  \n  Marietta, GA\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* REC\n  \n  61\n  \n  Tied-29th\n  \n  YDS\n  \n  697\n  \n  66th\n  \n  TD\n  \n  4\n  \n  Tied-121st\n  \n  AVG\n  \n  11\\.4\n  \n  150+\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5391236/kari-ashley)"
+          ],
+          "title": "Kari Ashley - TCU Horned Frogs Tight End - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "players_to_watch.1",
+      "reasoning": "The player-stat segment lists J'Koby Williams with 159 carries, 1,195 rushing yards, and 9 touchdowns.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams",
+          "excerpts": [
+            "HOU\n  \n  8-3\n\nSun\n\n2:30 AM\n\nESPN2\n\n[Full Scoreboard \u00bb](https://www.espn.com/college-football/scoreboard)\n\n# J'Koby Williams\n\nTexas Tech Red Raiders\n\n* [Texas Tech Red Raiders](https://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders)\n* \\#20\n* Running Back RB\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n\nFollow\n\n* Class\n  \n  Junior\n* HT/WT\n  \n  5' 10\", 185 lbs\n* Birthplace\n  \n  Beckville, TX\n* Status\n  \n  Active\n\n## 2026 season stats\n\n* CAR\n  \n  159\n  \n  Tied-36th\n  \n  YDS\n  \n  1,195\n  \n  13th\n  \n  TD\n  \n  9\n  \n  Tied-36th\n  \n  AVG\n  \n  7\\.5\n  \n  4th\n\n* [Overview](https://www.espn.com/college-football/player/_/id/5086393/jkoby-williams)\n\n* [News](https://www.espn.com/college-football/player/news/_/id/5086393/jkoby-williams)"
+          ],
+          "title": "J'Koby Williams - Texas Tech Red Raiders Running Back - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "away_record",
+      "away_team",
+      "home_record",
+      "home_team",
+      "matchup_notes",
+      "matchup_notes.0",
+      "matchup_notes.1",
+      "matchup_notes.2",
+      "players_to_watch",
+      "players_to_watch.0",
+      "players_to_watch.1",
+      "storyline"
+    ],
+    "off_allowlist_citations": []
+  },
+  "recap": {
+    "paragraph": "J'Koby Williams has run for 1,195 yards and 9 touchdowns this season. On Thursday, 5-6 TCU visits 10-1 No. 9 Texas Tech in Texas. Both teams are eager for a big win! A win sends Texas Tech back to the Big 12 Championship Game. TCU needs a win to play in a bowl game. Watch Williams run with the ball!",
+    "big_words": [
+      {
+        "word": "eager",
+        "definition": "Excited and ready for something.",
+        "example": "Zoe was eager to build a tall block tower."
+      }
+    ],
+    "opener": "Start with the star player to watch and his numbers this season.",
+    "attempts": 1,
+    "problems": [],
+    "usage": [
+      {
+        "input": 1125,
+        "output": 202
+      }
+    ]
+  }
+}

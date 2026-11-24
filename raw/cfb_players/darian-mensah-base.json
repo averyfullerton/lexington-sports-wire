@@ -1,0 +1,162 @@
+{
+  "run_id": "trun_1d63cf7e4268416ebc91a9e8a1b85449",
+  "processor": "base",
+  "status": "completed",
+  "elapsed_s": 80.0,
+  "input": {
+    "player": "Darian Mensah",
+    "team": "Miami Hurricanes",
+    "position": "Quarterback",
+    "season": 2026
+  },
+  "content": {
+    "fun_facts": [
+      "In his Miami debut against Stanford, Darian Mensah threw for 401 yards and five touchdowns. Those set Miami records for the most passing yards and touchdowns in a debut.",
+      "Against Wake Forest, Mensah completed his first 24 passes, breaking the ACC single-game record. His streak reached 35 straight completions across two games, also an ACC record.",
+      "Against Central Michigan, Mensah threw for 338 yards and three touchdowns, and ran for another touchdown.",
+      "Against Duke on Nov. 14, Mensah passed for 382 yards and went over 3,000 passing yards for the season."
+    ],
+    "high_school": "St. Joseph High School",
+    "hometown": "San Luis Obispo, California"
+  },
+  "basis": [
+    {
+      "field": "fun_facts",
+      "reasoning": "The cited passages report Mensah's Miami debut statistics and debut records, his ACC completion streak records, his passing and rushing touchdowns against Central Michigan, and his passing yardage against Duke along with crossing 3,000 yards for the season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49832250/mensah-toney-shatter-miami-records-blowout-stanford",
+          "excerpts": [
+            "Mensah's debut went about as well as Miami could have wanted. He finished 27-of-30 for a career-high 401 yards and five touchdowns, more than Beck threw in a game last season. Mensah set marks for the most passing yards and touchdowns in a debut for Miami.\n\n\"His skill set really fits what we do,\" Miami coach Mario Cristobal said."
+          ],
+          "title": "Toney, Mensah shatter Miami records in blowout of Stanford - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49978349/miami-qb-darian-mensah-sets-pair-acc-completions-marks",
+          "excerpts": [
+            "Mensah connected on his first 24 passes on the way to setting ACC records for consecutive completions, while Miami's defense came up with four straight fourth-quarter stops to beat [Wake Forest](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)",
+            "His 24-for-24 start broke the ACC single-game record of 18, held by three players, and was two short of the FBS record set by [East",
+            "> \u2705 24 straight completions Friday, tied for 3rd-most in a game in FBS history  \n>   \n> \u2705 35 straight completions over his last two games, an ACC record and one shy of the FBS record  \n>"
+          ],
+          "title": "Miami QB Darian Mensah sets pair of ACC completions marks - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858238",
+          "excerpts": [
+            "And No. 6 Miami got through September with a perfect record, again.\n\nMensah passed for 338 yards and three touchdowns, plus ran for another score as Miami capped an unbeaten September by topping Central Michigan 52-3 on Saturday night.\n\n[Malachi Toney](http://www.espn.com/college-football/player/_/id/5159175/malachi-toney) caught six passes for 120 yards [and a touchdown](https://x.com/TheCW--Sports/status/2103991576649441344?s=20) for Miami (4-0), and all four of Mensah's touchdowns came in the second quarter."
+          ],
+          "title": "Miami 52-3 Central Michigan (Sep 26, 2026) Game Recap - ESPN"
+        },
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858296",
+          "excerpts": [
+            "Mensah passed for 382 yards and a touchdown against his former school, [Javian Mallory](http://www.espn.com/college-football/player/_/id/5160496/javian-mallory) scored three times and No.",
+            "Mensah, [who transferred to Miami after leading Duke](https://apnews.com/article/miami-duke-ap-top-25-mensah-906553d199501602860a08e548eac380) to last season's ACC title, completed 30 of 41 passes for Miami and went over the 3,000-yard mark for the season.\n\n[Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) accounted for 240 yards \u2014 131 rushing, 93 receiving and 16 passing \u2014 plus rushed for two scores and caught a conversion pass for Duke (7-3, 5-3)."
+          ],
+          "title": "Miami 36-25 Duke (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "high_school",
+      "reasoning": "The ESPN recruiting profile identifies St. Joseph High School as Mensah's school.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/252813/darian-mensah",
+          "excerpts": [
+            "School [St. Joseph High School](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/class/2023/highschool/30742)"
+          ],
+          "title": "Darian Mensah Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "hometown",
+      "reasoning": "The ESPN recruiting profile lists San Luis Obispo, California, as Mensah's hometown.",
+      "citations": [
+        {
+          "url": "http://www.espn.com/college-sports/football/recruiting/player/_/id/252813/darian-mensah",
+          "excerpts": [
+            "Hometown [San Luis Obispo, Calif.](https://www.espn.com/college-sports/football/recruiting/databaseresults/_/state/6/hometown/1009/class/2023)"
+          ],
+          "title": "Darian Mensah Quarterback: Pocket Passer Recruiting Profile - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.0",
+      "reasoning": "The passage states that Mensah's debut included 401 passing yards and five touchdowns, and that these set Miami debut marks.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49832250/mensah-toney-shatter-miami-records-blowout-stanford",
+          "excerpts": [
+            "Mensah's debut went about as well as Miami could have wanted. He finished 27-of-30 for a career-high 401 yards and five touchdowns, more than Beck threw in a game last season. Mensah set marks for the most passing yards and touchdowns in a debut for Miami.\n\n\"His skill set really fits what we do,\" Miami coach Mario Cristobal said."
+          ],
+          "title": "Toney, Mensah shatter Miami records in blowout of Stanford - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.1",
+      "reasoning": "The passage says Mensah opened with 24 straight completions, breaking the ACC single-game mark, and had 35 straight over two games, an ACC record.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/49978349/miami-qb-darian-mensah-sets-pair-acc-completions-marks",
+          "excerpts": [
+            "Mensah connected on his first 24 passes on the way to setting ACC records for consecutive completions, while Miami's defense came up with four straight fourth-quarter stops to beat [Wake Forest](https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons)",
+            "His 24-for-24 start broke the ACC single-game record of 18, held by three players, and was two short of the FBS record set by [East",
+            "> \u2705 24 straight completions Friday, tied for 3rd-most in a game in FBS history  \n>   \n> \u2705 35 straight completions over his last two games, an ACC record and one shy of the FBS record  \n>"
+          ],
+          "title": "Miami QB Darian Mensah sets pair of ACC completions marks - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.2",
+      "reasoning": "The passage reports 338 passing yards and three passing touchdowns against Central Michigan, plus a rushing touchdown.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858238",
+          "excerpts": [
+            "And No. 6 Miami got through September with a perfect record, again.\n\nMensah passed for 338 yards and three touchdowns, plus ran for another score as Miami capped an unbeaten September by topping Central Michigan 52-3 on Saturday night.\n\n[Malachi Toney](http://www.espn.com/college-football/player/_/id/5159175/malachi-toney) caught six passes for 120 yards [and a touchdown](https://x.com/TheCW--Sports/status/2103991576649441344?s=20) for Miami (4-0), and all four of Mensah's touchdowns came in the second quarter."
+          ],
+          "title": "Miami 52-3 Central Michigan (Sep 26, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "fun_facts.3",
+      "reasoning": "The passage reports 382 passing yards against Duke and says Mensah went over 3,000 passing yards for the season.",
+      "citations": [
+        {
+          "url": "https://www.espn.com/college-football/recap?gameId=401858296",
+          "excerpts": [
+            "Mensah passed for 382 yards and a touchdown against his former school, [Javian Mallory](http://www.espn.com/college-football/player/_/id/5160496/javian-mallory) scored three times and No.",
+            "Mensah, [who transferred to Miami after leading Duke](https://apnews.com/article/miami-duke-ap-top-25-mensah-906553d199501602860a08e548eac380) to last season's ACC title, completed 30 of 41 passes for Miami and went over the 3,000-yard mark for the season.\n\n[Nate Sheppard](http://www.espn.com/college-football/player/_/id/5164332/nate-sheppard) accounted for 240 yards \u2014 131 rushing, 93 receiving and 16 passing \u2014 plus rushed for two scores and caught a conversion pass for Duke (7-3, 5-3)."
+          ],
+          "title": "Miami 36-25 Duke (Nov 14, 2026) Game Recap - ESPN"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "flags": {
+    "drop": [],
+    "medium_confidence": [
+      "fun_facts",
+      "fun_facts.0",
+      "fun_facts.1",
+      "fun_facts.2",
+      "fun_facts.3",
+      "high_school",
+      "hometown"
+    ],
+    "off_allowlist_citations": []
+  }
+}
