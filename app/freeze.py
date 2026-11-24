@@ -21,9 +21,11 @@ STATIC = Path(__file__).parent / "static"
 
 def relativize(html: str, depth: int) -> str:
     up = "../" * depth
+    html = re.sub(r'href="/college/player/([a-z0-9-]+)"', lambda m: f'href="{up}college/player/{m.group(1)}.html"', html)
     html = re.sub(r'href="/player/([a-z0-9-]+)"', lambda m: f'href="{up}player/{m.group(1)}.html"', html)
     html = re.sub(r'(href|src)="/static/', lambda m: f'{m.group(1)}="{up}static/', html)
     html = html.replace('href="/evals"', f'href="{up}evals.html"')
+    html = html.replace('href="/college"', f'href="{up}college.html"')
     html = html.replace('href="/"', f'href="{up or "./"}"')
     return html
 
@@ -32,6 +34,7 @@ def freeze(out: Path) -> dict:
     if out.exists():
         shutil.rmtree(out)
     (out / "player").mkdir(parents=True)
+    (out / "college" / "player").mkdir(parents=True)
     shutil.copytree(STATIC, out / "static")
     client = TestClient(app)
 
@@ -43,6 +46,16 @@ def freeze(out: Path) -> dict:
     r.raise_for_status()
     (out / "evals.html").write_text(relativize(r.text, 0))
 
+    r = client.get("/college")
+    r.raise_for_status()
+    (out / "college.html").write_text(relativize(r.text, 0))
+
+    college = sorted(p.stem for p in (DATA / "cfb" / "players").glob("[!_]*.json"))
+    for slug in college:
+        r = client.get(f"/college/player/{slug}")
+        r.raise_for_status()
+        (out / "college" / "player" / f"{slug}.html").write_text(relativize(r.text, 2))
+
     players = sorted(p.stem for p in (DATA / "players").glob("[!_]*.json"))
     for slug in players:
         r = client.get(f"/player/{slug}")
@@ -52,7 +65,7 @@ def freeze(out: Path) -> dict:
     (out / ".nojekyll").write_text("")
     (out / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     leftovers = [str(p) for p in out.rglob("*.html") if re.search(r'(href|src)="/(?!/)', p.read_text())]
-    return {"pages": 2 + len(players), "root_links_left": leftovers}
+    return {"pages": 3 + len(players) + len(college), "root_links_left": leftovers}
 
 
 def main() -> None:

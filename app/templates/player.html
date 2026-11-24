@@ -7,7 +7,11 @@
     <div>
       <h2>{{ p.name }}</h2>
       <p class="meta">{{ p.team }} · {{ p.position }}</p>
+      {% if p.league == "cfb" %}
+      <p class="meta">{% if p.class_year %}{{ p.class_year }}{% endif %}{% if p.class_year and p.hometown %} · {% endif %}{% if p.hometown %}From {{ p.hometown }}{% endif %}</p>
+      {% else %}
       <p class="meta">{% if p.college %}College: {{ p.college }}{% endif %}{% if p.experience %} · {{ p.experience }} NFL season{{ "s" if p.experience != 1 }}{% endif %}</p>
+      {% endif %}
     </div>
     {% if p.number %}<p class="jersey">#{{ p.number }}</p>{% endif %}
   </div>
@@ -24,6 +28,6 @@
   </table>
   </div>
   {% endif %}
-  <p class="back"><a href="/">← Back to the front page</a></p>
+  <p class="back">{% if p.league == "cfb" %}<a href="/college">← Back to College Football</a>{% else %}<a href="/">← Back to the front page</a>{% endif %}</p>
 </article>
 {% endblock %}

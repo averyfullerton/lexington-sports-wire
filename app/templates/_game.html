@@ -6,11 +6,11 @@
     {% set name, abbr = g[side ~ "_team"], g[side ~ "_abbr"] %}
     {% set other = "home" if side == "away" else "away" %}
     <div class="line{% if final and g[side ~ '_score'] > g[other ~ '_score'] %} won{% endif %}">
-      <span class="tm">{% if side == "home" %}<i>at</i> {% endif %}{{ name }}{% if pinned.get(abbr) %}&nbsp;<b class="star" title="Our team">★</b>{% endif %}{% if final and g[side ~ "_record"] %} <small class="rec">({{ g[side ~ "_record"] }})</small>{% endif %}</span>
+      <span class="tm">{% if side == "home" %}<i>at</i> {% endif %}{% if g[side ~ "_rank"] %}<b class="rank" title="AP Top 25 rank">{{ g[side ~ "_rank"] }}</b> {% endif %}{{ name }}{% if pinned.get(abbr) %}&nbsp;<b class="star" title="Our team">★</b>{% endif %}{% if final and g[side ~ "_record"] %} <small class="rec">({{ g[side ~ "_record"] }})</small>{% endif %}</span>
       <span class="pts">{% if final %}{{ g[side ~ "_score"] }}{% else %}{{ g[side ~ "_record"] or "" }}{% endif %}</span>
     </div>
     {% endfor %}
     <p class="status">{% if final %}Final{% else %}{{ g.game_day or "" }}{% endif %}</p>
   </div>
-  {% if g.paragraph %}{{ glossify(g.paragraph, g.big_words, g.away_abbr ~ g.home_abbr ~ g.game_date) }}{% endif %}
+  {% if g.paragraph %}{{ glossify(g.paragraph, g.big_words, g.away_abbr ~ g.home_abbr ~ g.game_date, league|default("nfl")) }}{% endif %}
 </article>

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}College Football · The Lexington Sports Wire{% endblock %}
+{% block content %}
+<div class="columns college">
+  <section class="col rankings-col">
+    <h2 class="section-head"><span>AP Top 25</span><small>{% if rankings.date %}Poll of {{ rankings.date[:10] }}{% else %}This week's poll{% endif %}</small></h2>
+    {% if rankings.teams %}
+    <table class="standings rankings">
+      <tbody>
+      {% for t in rankings.teams %}
+        {% set pin = pinned.get(t.abbr) %}
+        <tr{% if pin %} class="pinned-row" style="--team: {{ pin.primary }}; --team2: {{ pin.secondary }}"{% endif %}>
+          <td class="seed">{{ t.rank }}</td>
+          <td class="team">{{ t.team }}{% if pin %}&nbsp;<b class="star" title="Our team">★</b>{% endif %}</td>
+          <td class="record">{{ t.record or "" }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% else %}<p class="empty">Rankings coming soon!</p>{% endif %}
+  </section>
+
+  <section class="col past-col">
+    <h2 class="section-head"><span>Last Week's Games</span><small>Gators, Wildcats and the Top 10</small></h2>
+    {% for g in last_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+  </section>
+
+  <section class="col next-col">
+    <h2 class="section-head"><span>Next Week's Games</span><small>Who to watch</small></h2>
+    {% for g in next_week %}{% include "_game.html" %}{% else %}<p class="empty">No games yet. Check back soon!</p>{% endfor %}
+  </section>
+</div>
+{% endblock %}
+{% block footer_extra %}
+    <a class="adults" href="/evals">Boring Data for Adults</a>{% endblock %}

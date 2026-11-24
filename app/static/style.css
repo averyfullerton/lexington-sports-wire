@@ -211,3 +211,20 @@ table.evaltable, table.qtable { font: 0.95rem var(--sans); background: #fff; bor
 .all-q summary { cursor: pointer; font: 700 0.95rem var(--sans); color: var(--blue); padding: 6px 0; }
 .all-q[open] summary { margin-bottom: 10px; }
 .eval-cap > .table-wrap:first-of-type { max-width: 760px; }
+
+/* Section links under the nameplate */
+.sections { display: flex; justify-content: center; gap: 8px; margin: 0 0 8px; font: 800 0.9rem var(--sans); }
+.sections a { color: var(--blue); text-decoration: none; padding: 4px 16px; border: 2px solid var(--blue);
+  border-radius: 999px; text-transform: uppercase; letter-spacing: 0.06em; }
+.sections a[aria-current="page"] { background: var(--blue); color: #fff; }
+
+/* College page: rankings on the left, then last week and next week */
+.columns.college { grid-template-rows: auto; grid-template-areas: "rankings past next"; }
+.rankings-col { grid-area: rankings; align-self: start; }
+.rank { font: 800 0.8em var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+@media (max-width: 1080px) {
+  .columns.college { grid-template-areas: "past next" "rankings rankings"; }
+}
+@media (max-width: 720px) {
+  .columns.college { grid-template-areas: "past" "next" "rankings"; }
+}

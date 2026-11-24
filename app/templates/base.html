@@ -18,12 +18,13 @@
     <div class="nameplate">
       <p class="motto">All the football news that's fit for a superfan</p>
       <a href="/" class="title">The Lexington Sports Wire</a>
+      <nav class="sections" aria-label="Sections"><a href="/"{% if league|default("nfl") == "nfl" %} aria-current="page"{% endif %}>NFL</a><a href="/college"{% if league == "cfb" %} aria-current="page"{% endif %}>College</a></nav>
       <p class="dateline"><span>{{ edition|default("") }}</span><span>{{ today|default("") }}</span><span>Free · Est. 2026</span></p>
     </div>
     <div class="cats right">{% include "cats/typewriter.svg" %}</div>
   </header>
   <main>{% block content %}{% endblock %}</main>
-  <footer class="colophon">Reported by our cat staff from NFL.com, ESPN, Pro Football Reference, Jaguars.com and Commanders.com.{% block footer_extra %}{% endblock %}</footer>
+  <footer class="colophon">{% if league == "cfb" %}Reported by our cat staff from ESPN, NCAA.com, CollegeFootballPlayoff.com, FloridaGators.com and UKAthletics.com. Rankings: AP Top 25.{% else %}Reported by our cat staff from NFL.com, ESPN, Pro Football Reference, Jaguars.com and Commanders.com.{% endif %}{% block footer_extra %}{% endblock %}</footer>
   </div>
 </body>
 </html>
