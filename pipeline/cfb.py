@@ -169,7 +169,8 @@ def _roster(team_id: str) -> list[dict]:
 
 
 def _entry(g: dict, raw: dict, fresh: bool) -> dict:
-    keep = ("away_team", "home_team", "away_abbr", "home_abbr", "away_rank", "home_rank", "game_date", "game_day")
+    keep = ("espn_id", "away_team", "home_team", "away_abbr", "home_abbr", "away_id", "home_id", "away_rank", "home_rank",
+            "game_date", "game_day")
     return {**{k: g[k] for k in keep}, "paragraph": raw["recap"]["paragraph"],
             "big_words": raw["recap"].get("big_words", []), "usage": raw["recap"].get("usage", []) if fresh else []}
 
