@@ -3,20 +3,22 @@
 Gamebooks list players as initials ("A.Armstrong"), and the fact step sometimes
 expands those into a guessed first name ("Alex Armstrong" for Andrew Armstrong).
 This fixes a name when exactly one player in the game has that last name and the
-same first initial, and reports anything it can't match.
+same first initial (so "Javontae Barnes" becomes Jovantae Barnes even with an Elijah
+Barnes on the team), and reports anything it can't match.
 """
 
 import re
 
 import httpx
 
-SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary"
+SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/football/{league}/summary"
+ESPN_LEAGUE = {"nfl": "nfl", "cfb": "college-football"}
 SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
 NAME_RE = re.compile(r"\b([A-Z][a-zA-Z'.\-]+(?: [A-Z][a-zA-Z'\-]+){1,2}(?: (?:Jr\.|Sr\.|II|III|IV))?)")
 
 
-def game_players(espn_id: str) -> list[str]:
-    r = httpx.get(SUMMARY, params={"event": espn_id}, timeout=30)
+def game_players(espn_id: str, league: str = "nfl") -> list[str]:
+    r = httpx.get(SUMMARY.format(league=ESPN_LEAGUE[league]), params={"event": espn_id}, timeout=30)
     r.raise_for_status()
     names = set()
     for team in r.json()["boxscore"].get("players", []):
@@ -41,6 +43,8 @@ def fix_names(text: str, players: list[str], teams: set[str]) -> tuple[str, list
         if cand in players or any(cand in t or t.startswith(cand) for t in teams):
             continue
         matches = by_last.get(_last(cand), [])
+        if len(matches) > 1:  # shared last name (Jovantae and Elijah Barnes): narrow by first initial
+            matches = [m for m in matches if m[0].lower() == cand[0].lower()]
         if len(matches) != 1:
             continue
         right = matches[0]
@@ -73,13 +77,16 @@ def fix_fact_sheet(content: dict, players: list[str]) -> list[tuple[str, str]]:
     return sorted(set(all_fixes))
 
 
-ROSTER = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{abbr}/roster"
+ROSTER = "https://site.api.espn.com/apis/site/v2/sports/football/{league}/teams/{abbr}/roster"
 UNAVAILABLE_GROUPS = {"injuredReserveOrOut", "suspended"}
 
 
-def team_roster(abbr: str) -> dict:
-    """{"active": [...names], "unavailable": [...names]} from the team's current ESPN roster."""
-    r = httpx.get(ROSTER.format(abbr=abbr.lower()), timeout=30)
+def team_roster(abbr: str, league: str = "nfl") -> dict:
+    """{"active": [...names], "unavailable": [...names]} from the team's current ESPN roster.
+
+    For college teams pass the ESPN team id as `abbr` (some school abbreviations aren't URL-safe).
+    """
+    r = httpx.get(ROSTER.format(league=ESPN_LEAGUE[league], abbr=abbr.lower()), timeout=30)
     r.raise_for_status()
     out = {"active": [], "unavailable": []}
     for group in r.json()["athletes"]:
