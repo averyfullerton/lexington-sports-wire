@@ -148,6 +148,21 @@ Facts
 """
 
 
+CFB_NOTES = """
+College games
+- These are college teams. Call players by name; never say "pro" or "NFL".
+- If the facts give away_rank or home_rank, that is the team's AP Top 25 rank: say "No. 3 Georgia".
+  Unranked teams have no rank; never call them ranked.
+- If the facts give venue_city, the game is played there (it may be a neutral site): use that place
+  instead of the home team's city.
+"""
+
+
+def instructions_for(kind: str, league: str) -> str:
+    base = PREVIEW_INSTRUCTIONS if kind == "preview" else RECAP_INSTRUCTIONS
+    return base if league == "nfl" else base.replace("NFL", "college football") + CFB_NOTES
+
+
 class BigWord(BaseModel):
     word: str
     definition: str
@@ -227,22 +242,23 @@ def check_recap(recap: Recap, avoid_words: list[str] = (), kind: str = "recap") 
 
 def game_recap(client: OpenAI, facts: dict, game_id: str, opener: str = OPENERS[0],
                avoid_words: list[str] = (), example_kid: str = EXAMPLE_KIDS[0],
-               example_topic: str = EXAMPLE_TOPICS[0]) -> dict:
+               example_topic: str = EXAMPLE_TOPICS[0], league: str = "nfl") -> dict:
     """Short recap of a completed game, plus its big words."""
-    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "recap")
+    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "recap", league=league)
 
 
 def game_preview(client: OpenAI, facts: dict, game_id: str, opener: str = PREVIEW_OPENERS[0],
                  avoid_words: list[str] = (), example_kid: str = EXAMPLE_KIDS[0],
-                 example_topic: str = EXAMPLE_TOPICS[0], closer: str = PREVIEW_CLOSERS[0]) -> dict:
+                 example_topic: str = EXAMPLE_TOPICS[0], closer: str = PREVIEW_CLOSERS[0],
+                 league: str = "nfl") -> dict:
     """Short preview of an upcoming game, plus its big words. Never predicts a result."""
-    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "preview", closer)
+    return _write(client, facts, game_id, opener, avoid_words, example_kid, example_topic, "preview", closer, league)
 
 
 def _write(client: OpenAI, facts: dict, game_id: str, opener: str, avoid_words, example_kid: str,
-           example_topic: str, kind: str, closer: str | None = None) -> dict:
+           example_topic: str, kind: str, closer: str | None = None, league: str = "nfl") -> dict:
     """Returns {"paragraph", "big_words", "opener", "attempts", "problems", "usage"}."""
-    instructions = PREVIEW_INSTRUCTIONS if kind == "preview" else RECAP_INSTRUCTIONS
+    instructions = instructions_for(kind, league)
     avoid = ", ".join(avoid_words) or "(none yet)"
     closing = f"CLOSING MOVE: {closer}\n" if closer else ""
     prompt = (f"OPENING MOVE: {opener}\n{closing}\nBig words already used this week (choose different ones): {avoid}\n"
@@ -276,7 +292,7 @@ def _write(client: OpenAI, facts: dict, game_id: str, opener: str, avoid_words, 
             + "\n\nFix these problems and rewrite it: " + "; ".join(problems)
         )
     # Fail closed: a recap that still breaks the rules is not shown.
-    log_drop(game_id, f"write.game_{kind}", "; ".join(problems), {"draft": recap.model_dump()})
+    log_drop(game_id, f"write.{'' if league == 'nfl' else league + '_'}game_{kind}", "; ".join(problems), {"draft": recap.model_dump()})
     return {"paragraph": None, "big_words": [], "opener": opener, "attempts": MAX_ATTEMPTS,
             "problems": problems, "usage": usage}
 

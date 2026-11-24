@@ -23,7 +23,8 @@ from pipeline.write import MODEL
 
 SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary"
 ROSTER = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{abbr}/roster"
-STATS = "https://site.web.api.espn.com/apis/common/v3/sports/football/nfl/athletes/{id}/stats"
+STATS = "https://site.web.api.espn.com/apis/common/v3/sports/football/{league}/athletes/{id}/stats"
+ESPN_LEAGUE = {"nfl": "nfl", "cfb": "college-football"}
 PLAYERS_DIR = DATA_DIR / "players"
 RAW_DIR = DATA_DIR / "raw" / "players"
 
@@ -77,19 +78,44 @@ FUN_FACTS_SCHEMA = {
 }
 
 
-def research(client: Parallel, a: dict, season: int, processor: str = "base") -> dict:
-    """Parallel Task run for one player's fun facts. Cached in data/raw/players/."""
-    path = RAW_DIR / f"{slugify(a['displayName'])}-{processor}.json"
+CFB_FUN_FACTS_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "hometown": {"type": ["string", "null"], "description": "Hometown and state"},
+        "high_school": {"type": ["string", "null"], "description": "High school he played for"},
+        "fun_facts": {
+            "type": "array",
+            "description": (
+                "4 to 6 true, surprising, kid-friendly facts about this college football player, one per item: "
+                "hometown and childhood, other sports he played, high school feats, college records and "
+                "milestones, nicknames, hobbies, pets, what he studies. NOT allowed: injuries or health, arrests or "
+                "legal trouble, suspensions, NIL deals, contracts or money, recruiting rankings, the transfer "
+                "portal, gambling, politics, religion, relationships or anything sad. Use the player's real name; "
+                "never guess."
+            ),
+            "items": {"type": "string"},
+        },
+    },
+    "required": ["hometown", "high_school", "fun_facts"],
+    "additionalProperties": False,
+}
+
+
+def research(client: Parallel, a: dict, season: int, processor: str = "base", league: str = "nfl",
+             raw_dir=RAW_DIR) -> dict:
+    """Parallel Task run for one player's fun facts. Cached in data/raw/players/ (or raw_dir)."""
+    path = raw_dir / f"{slugify(a['displayName'])}-{processor}.json"
     if path.exists():
         return json.loads(path.read_text())
     inp = {"player": a["displayName"], "team": a["team_name"], "position": a["position"]["displayName"],
            "season": season}
     run = client.task_run.create(
         input=inp,
-        task_spec={"output_schema": {"type": "json", "json_schema": FUN_FACTS_SCHEMA}},
+        task_spec={"output_schema": {"type": "json", "json_schema":
+                                     CFB_FUN_FACTS_SCHEMA if league == "cfb" else FUN_FACTS_SCHEMA}},
         processor=processor,
         source_policy={"include_domains": allowed_domains()},
-        metadata={"app": "lexington-sports-wire", "step": "player_card"},
+        metadata={"app": "lexington-sports-wire", "step": "player_card" if league == "nfl" else f"{league}_player_card"},
     )
     started = time.monotonic()
     while True:
@@ -106,7 +132,7 @@ def research(client: Parallel, a: dict, season: int, processor: str = "base") ->
            "content": out.content if out else None,
            "basis": [b.model_dump() for b in out.basis] if out else []}
     raw["flags"] = flag_basis(raw["basis"])
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    raw_dir.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(raw, indent=2))
     return raw
 
@@ -139,11 +165,15 @@ sentence (under 16 words), with first-grade words. Start with the player's first
 """
 
 
-def kid_facts(client: OpenAI, name: str, facts: list[str]) -> list[str]:
+def kid_facts(client: OpenAI, name: str, facts: list[str], league: str = "nfl") -> list[str]:
     if not facts:
         return []
+    instructions = KID_FACTS_INSTRUCTIONS if league == "nfl" else (
+        KID_FACTS_INSTRUCTIONS.replace("NFL players", "college football players")
+        .replace("(in high school, in college, in the NFL)", "(in high school, in college)")
+        .replace("contracts or money,", "contracts, NIL deals or money, recruiting rankings, the transfer portal,"))
     resp = client.responses.parse(
-        model=MODEL, instructions=KID_FACTS_INSTRUCTIONS, reasoning={"effort": "low"},
+        model=MODEL, instructions=instructions, reasoning={"effort": "low"},
         input=f"Player: {name}\nFacts:\n" + "\n".join(f"- {f}" for f in facts),
         text_format=KidFacts, store=False)
     keep = []
@@ -173,8 +203,8 @@ LABELS = {"GP": "Games", "CMP": "Completions", "ATT": "Attempts", "YDS": "Yards"
           "FG%": "FG %", "PTS": "Points", "PUNTS": "Punts", "TOT": "Tackles", "SACK": "Sacks", "FF": "Forced fumbles"}
 
 
-def season_stats(athlete_id: str, position: str) -> dict | None:
-    r = httpx.get(STATS.format(id=athlete_id), timeout=30)
+def season_stats(athlete_id: str, position: str, league: str = "nfl") -> dict | None:
+    r = httpx.get(STATS.format(league=ESPN_LEAGUE[league], id=athlete_id), timeout=30)
     r.raise_for_status()
     d = r.json()
     cat_name, cols = TABLES.get(position, DEFENSE)
@@ -191,21 +221,26 @@ def season_stats(athlete_id: str, position: str) -> dict | None:
             "rows": rows}
 
 
-def build_card(p_client: Parallel, o_client: OpenAI, a: dict, season: int, rewrite: bool) -> dict:
-    raw = research(p_client, a, season)
-    card_path = PLAYERS_DIR / f"{slugify(a['displayName'])}.json"
+def build_card(p_client: Parallel, o_client: OpenAI, a: dict, season: int, rewrite: bool, league: str = "nfl",
+               cards_dir=PLAYERS_DIR, raw_dir=RAW_DIR) -> dict:
+    raw = research(p_client, a, season, league=league, raw_dir=raw_dir)
+    card_path = cards_dir / f"{slugify(a['displayName'])}.json"
     old = json.loads(card_path.read_text()) if card_path.exists() else {}
-    facts = old.get("fun_facts") if old and not rewrite else kid_facts(o_client, a["displayName"], usable_fun_facts(raw))
+    facts = (old.get("fun_facts") if old and not rewrite
+             else kid_facts(o_client, a["displayName"], usable_fun_facts(raw), league))
     pos = a["position"]["abbreviation"]
     card = {
         "name": a["displayName"], "espn_id": a["id"], "team": a["team_name"], "team_abbr": a["team_abbr"],
         "number": a.get("jersey"), "position": a["position"]["displayName"], "position_abbr": pos,
-        "college": (a.get("college") or {}).get("name"),
-        "experience": (a.get("experience") or {}).get("years"),
+        "college": (a.get("college") or {}).get("name") if league == "nfl" else None,
+        "experience": (a.get("experience") or {}).get("years") if league == "nfl" else None,
+        "class_year": (a.get("experience") or {}).get("displayValue") if league == "cfb" else None,
+        "hometown": (a.get("birthPlace") or {}).get("displayText") if league == "cfb" else None,
+        "league": league,
         "fun_facts": facts,
-        "stats": season_stats(a["id"], pos),
+        "stats": season_stats(a["id"], pos, league),
     }
-    PLAYERS_DIR.mkdir(parents=True, exist_ok=True)
+    cards_dir.mkdir(parents=True, exist_ok=True)
     card_path.write_text(json.dumps(card, indent=2))
     return card | {"_raw": raw}
 

@@ -125,7 +125,10 @@ PREVIEW_SCHEMA = {
 }
 
 
-def task_spec(kind: str = "recap") -> dict:
+LEAGUE_NAMES = {"nfl": "NFL", "cfb": "college football (FBS)"}
+
+
+def task_spec(kind: str = "recap", league: str = "nfl") -> dict:
     return {
         "input_schema": {
             "type": "json",
@@ -136,7 +139,7 @@ def task_spec(kind: str = "recap") -> dict:
                     "home_team": {"type": "string"},
                     "game_date": {"type": "string", "description": "Local game date, YYYY-MM-DD"},
                     "season": {"type": "integer"},
-                    "week": {"type": "integer", "description": "NFL regular-season week number"},
+                    "week": {"type": "integer", "description": f"{LEAGUE_NAMES[league]} regular-season week number"},
                 },
             },
         },
@@ -152,15 +155,15 @@ def slug(*parts: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", "-".join(parts).lower()).strip("-")
 
 
-def run_task(client: Parallel, inp: dict, processor: str, kind: str = "recap") -> dict:
+def run_task(client: Parallel, inp: dict, processor: str, kind: str = "recap", league: str = "nfl") -> dict:
     """Create one Task run and wait for it. Returns a plain dict for storage."""
     started = time.monotonic()
     run = client.task_run.create(
         input=inp,
-        task_spec=task_spec(kind),
+        task_spec=task_spec(kind, league),
         processor=processor,
         source_policy={"include_domains": allowed_domains()},
-        metadata={"app": "lexington-sports-wire", "step": f"game_{kind}"},
+        metadata={"app": "lexington-sports-wire", "step": f"{league}_game_{kind}"},
     )
     while True:
         try:
@@ -210,16 +213,17 @@ def normalize(content: dict | None) -> dict | None:
     return content
 
 
-def fact_path(inp: dict, processor: str, kind: str = "recap"):
+def fact_path(inp: dict, processor: str, kind: str = "recap", raw_dir=RAW_DIR):
     tag = "" if kind == "recap" else f"-{kind}"
-    return RAW_DIR / f"{slug(inp['away_team'], 'at', inp['home_team'], inp['game_date'])}{tag}-{processor}.json"
+    return raw_dir / f"{slug(inp['away_team'], 'at', inp['home_team'], inp['game_date'])}{tag}-{processor}.json"
 
 
-def collect_game(client: Parallel, inp: dict, processor: str, kind: str = "recap") -> dict:
-    res = run_task(client, inp, processor, kind)
+def collect_game(client: Parallel, inp: dict, processor: str, kind: str = "recap", league: str = "nfl",
+                 raw_dir=RAW_DIR) -> dict:
+    res = run_task(client, inp, processor, kind, league)
     res["flags"] = flag_basis(res["basis"])
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    path = fact_path(inp, processor, kind)
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    path = fact_path(inp, processor, kind, raw_dir)
     path.write_text(json.dumps(res, indent=2))
     res["path"] = str(path)
     return res
