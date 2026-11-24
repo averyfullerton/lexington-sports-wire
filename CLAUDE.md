@@ -10,8 +10,9 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 3. **5 Big Stories:** the week's top kid-friendly storylines (a star back from injury, a rivalry game, a player facing his old team, a winning or losing streak).
 4. **Player cards:** tap any player name → team, number, position, 3 fun facts, per-season stats table.
 5. **Layout:** a 3-column newspaper in Kentucky blue and white, with original cat-reporter illustrations (no UK logos, wordmarks or mascot art). Left: 5 Big Stories, then the Playoff Picture. Middle: last week's games. Right: next week's games. Stacks to one column on narrow screens. No search: names are tappable instead.
+6. **College page** (`/college`, linked from the masthead): AP Top 25 on the left (not the CFP committee ranking, which comes out Tuesday evening, after the refresh), last week's games in the middle, next week's on the right. Covers every Florida and Kentucky game plus every game with an AP Top 10 team (rank at kickoff). Only two player cards per game (from the fact sheet's top performers or players to watch, named in the paragraph, a Gators/Wildcats player first). No Big Five for college.
 
-- Jaguars and Commanders games are pinned at the top of each section and shown in team colors.
+- Jaguars and Commanders games are pinned at the top of each section and shown in team colors; on the College page, Florida and Kentucky (`config/cfb_teams.json`).
 - Reading only. No audio, no video, no outbound links, no ads, no comments.
 
 ## Writing rules (sportswriter voice, early-reader sentences)
@@ -29,10 +30,11 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 2. **Kid paragraph (OpenAI API):** write the recap only from the verified facts in step 1.
 3. **5 Big Stories (Search + Extract → Decisions → rank):** gather the week's news from allowed sources, filter for safety, pick the 5 most interesting kid-friendly storylines, write each at first-grade level.
 4. **Player cards:** ESPN feeds for bio and per-season stats (official numbers); Task API + JSON schema for fun facts (with `basis`), rewritten for a first grader. Every player named in a recap or preview gets a card and a tappable name.
-5. **Refresh:** weekly on Tuesday morning (after Monday Night Football). The web app only reads stored output in `data/`.
+5. **College football (`pipeline/cfb.py`):** same facts-first steps with `league="cfb"`, output in `data/cfb/`.
+6. **Refresh:** weekly on Tuesday at 5am Eastern (10:00 UTC, after Monday Night Football). The web app only reads stored output in `data/`.
 
 ## Source policy (`config/domains.json` is the single source of truth)
-- Allowlist: nfl.com, espn.com, pro-football-reference.com, jaguars.com, commanders.com
+- Allowlist: nfl.com, espn.com, pro-football-reference.com, jaguars.com, commanders.com, ncaa.com, collegefootballplayoff.com, floridagators.com, ukathletics.com
 - Blocklist (belt-and-suspenders): theringer.com, deadspin.com, theathletic.com, all gambling/betting sites
 - Every Parallel call that touches the web uses the allowlist. Nothing outside it reaches the UI.
 
@@ -52,8 +54,9 @@ This is also a hands-on evaluation of Parallel Web Systems' APIs (`parallel-web`
 ```
 config/domains.json   allowlist / blocklist
 config/pinned_teams.json
+config/cfb_teams.json   Florida + Kentucky (College page pins)
 pipeline/             refresh.py (weekly entry point), games.py, write.py, stories.py, safety.py,
-                      players.py, verify.py, schedule.py, standings.py, build.py
+                      players.py, verify.py, schedule.py, standings.py, build.py, cfb.py
 app/                  FastAPI app, templates/, static/, freeze.py (static build for GitHub Pages)
 data/                 generated output (gitignored; persisted on the `data` branch by the workflow)
 evals/                question sets, judge assets, summarize.py, results/summary.json
@@ -64,6 +67,7 @@ DE_NOTES.md           friction log: latency, cost, accuracy, surprises
 Follows Parallel's "How to evaluate web search for AI" guide and the open-source harness (github.com/parallel-web/parallel-search-evals).
 
 - **Harness:** separate clone at ~/projects/parallel-search-evals (`uv sync --frozen`). Run with `provider=openai`; needs only PARALLEL_API_KEY and OPENAI_API_KEY (the grader is always OpenAI). Use the README's `python -m parallel_search_evals.run_eval key=value` syntax, not the blog's. Our questions run as `suite=local` with our own judge assets.
+- The search evals were run with the original 5 NFL sites (before the college sites were added).
 - **Fair comparison:** hold everything constant except the search tool: same OpenAI model, prompt, tool budget and judge. Arms:
   - `baseline` (closed-book): measures the lift from search and how often the model invents answers. Not a competitor on fresh questions.
   - `parallel-turbo`, `parallel-fast` and `parallel-advanced`: Parallel Search + Extract.
