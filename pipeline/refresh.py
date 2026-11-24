@@ -9,6 +9,8 @@ Steps (each reuses earlier results, so a re-run only pays for what is new):
   3. recaps + previews + standings (OpenAI)  -> data/last_week.json, next_week.json, standings.json
   4. player cards (ESPN + Parallel Task + OpenAI) -> data/players/
   5. 5 Big Stories (Search, Extract, Decisions, OpenAI) -> data/stories.json
+  6. college football: Florida, Kentucky and AP Top 10 games, facts + writing + two player cards per game
+     (see pipeline/cfb.py) -> data/cfb/
 A summary goes to data/refresh_log.jsonl. If a step fails, later steps still run on what exists.
 """
 
@@ -100,6 +102,27 @@ def main() -> None:
     step("write", lambda: build.build(args.season, week, args.processor))
     step("player_cards", player_cards)
     step("stories", big_stories)
+
+    from pipeline import cfb
+    cfb_week = None
+    cfb_games: list[dict] = []
+
+    def cfb_facts():
+        nonlocal cfb_week
+        cfb_week = cfb.latest_completed_week(args.season)
+        recap = cfb.collect_facts(client, args.season, cfb_week, "recap", args.processor)
+        preview = cfb.collect_facts(client, args.season, cfb_week + 1, "preview", args.processor)
+        return {"week": cfb_week, "recap": recap, "preview": preview}
+
+    def cfb_write():
+        nonlocal cfb_games
+        summary, cfb_games = cfb.write_week(args.season, cfb_week)
+        return summary
+
+    step("cfb_facts", cfb_facts)
+    if cfb_week:
+        step("cfb_write", cfb_write)
+        step("cfb_player_cards", lambda: cfb.build_cards(args.season, cfb_games))
 
     log["finished"] = datetime.now().isoformat(timespec="seconds")
     log["ok"] = all(s["ok"] for s in log["steps"].values())

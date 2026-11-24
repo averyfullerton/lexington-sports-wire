@@ -14,7 +14,9 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
-ALLOW = tuple(json.loads((ROOT / "config" / "domains.json").read_text())["allow"])
+# The allowlist the evals ran with (2026-11-19). config/domains.json has since grown (college sites), but the
+# eval runs used these 5, so the report keeps them.
+ALLOW = ("nfl.com", "espn.com", "pro-football-reference.com", "jaguars.com", "commanders.com")
 
 ARMS = {  # key -> (label, search fee per call in USD)
     "parallel-advanced": ("Parallel Advanced", 0.005),
